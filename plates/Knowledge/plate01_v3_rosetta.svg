@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>
+
+<!-- ═══ HEADER ═══ -->
+<text x="240" y="30" font-family="Georgia,serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="black" letter-spacing="4">ROSETTA INDEX — PLATE 1 OF [N]</text>
+<line x1="18" y1="36" x2="462" y2="36" stroke="black" stroke-width="1"/>
+<text x="240" y="47" font-family="Georgia,serif" font-size="7.5" text-anchor="middle" fill="black" letter-spacing="1.5">THIS CAPSULE WAS MADE FOR YOU · EVERYTHING INSIDE IS YOURS · NO PERMISSION NEEDED</text>
+<line x1="18" y1="52" x2="462" y2="52" stroke="black" stroke-width="0.5"/>
+
+<!-- ═══ SECTION 1: NUMBERS ═══ -->
+<text x="240" y="63" font-family="Georgia,serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="black" letter-spacing="3">SECTION 1 — NUMBERS AND COUNTING</text>
+<line x1="18" y1="68" x2="462" y2="68" stroke="black" stroke-width="0.5"/>
+
+<!-- THREE SYMBOLS ROW: shell=0, dot=1, bar=5 -->
+<!-- Each symbol in its own clearly bounded zone: zone width = 148px each -->
+<!-- Zone A: x=18..166, Zone B: x=166..314, Zone C: x=314..462 -->
+<line x1="166" y1="68" x2="166" y2="118" stroke="black" stroke-width="0.5"/>
+<line x1="314" y1="68" x2="314" y2="118" stroke="black" stroke-width="0.5"/>
+
+<!-- SHELL = 0, center x=92 -->
+<ellipse cx="68" cy="91" rx="14" ry="9" fill="none" stroke="black" stroke-width="2"/>
+<ellipse cx="68" cy="91" rx="6" ry="3.5" fill="none" stroke="black" stroke-width="1"/>
+<text x="68" y="107" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">= 0</text>
+<text x="150" y="91" font-family="Georgia,serif" font-size="8" text-anchor="end" fill="black" font-style="italic">SHELL</text>
+
+<!-- DOT = 1, center x=240 -->
+<circle cx="218" cy="89" r="9" fill="none" stroke="black" stroke-width="2"/>
+<text x="218" y="107" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">= 1</text>
+<text x="300" y="91" font-family="Georgia,serif" font-size="8" text-anchor="end" fill="black" font-style="italic">DOT</text>
+
+<!-- BAR = 5, center x=388 -->
+<line x1="340" y1="91" x2="400" y2="91" stroke="black" stroke-width="7"/>
+<text x="370" y="107" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">= 5</text>
+<text x="454" y="91" font-family="Georgia,serif" font-size="8" text-anchor="end" fill="black" font-style="italic">BAR</text>
+
+<line x1="18" y1="118" x2="462" y2="118" stroke="black" stroke-width="0.75"/>
+<text x="240" y="127" font-family="Georgia,serif" font-size="7.5" text-anchor="middle" fill="black" font-style="italic">combine symbols to make any number · dots above bars · ones at bottom · twenties above</text>
+
+<!-- NUMBER GRID: 10 columns, 44px each, centered in safe area x=18..462 -->
+<!-- Column centers: 40, 84, 128, 172, 216, 260, 304, 348, 392, 436 -->
+<!-- Thin vertical separators between columns -->
+<line x1="18" y1="130" x2="462" y2="130" stroke="black" stroke-width="0.5"/>
+
+<!-- Column number labels ROW A (0-9) -->
+<text x="40"  y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">0</text>
+<text x="84"  y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">1</text>
+<text x="128" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">2</text>
+<text x="172" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">3</text>
+<text x="216" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">4</text>
+<text x="260" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">5</text>
+<text x="304" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">6</text>
+<text x="348" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">7</text>
+<text x="392" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">8</text>
+<text x="436" y="140" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">9</text>
+
+<!-- Column separators for row A -->
+<line x1="62"  y1="130" x2="62"  y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="106" y1="130" x2="106" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="150" y1="130" x2="150" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="194" y1="130" x2="194" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="238" y1="130" x2="238" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="282" y1="130" x2="282" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="326" y1="130" x2="326" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="370" y1="130" x2="370" y2="168" stroke="black" stroke-width="0.25"/>
+<line x1="414" y1="130" x2="414" y2="168" stroke="black" stroke-width="0.25"/>
+
+<!-- MAYA SYMBOLS ROW A (0-9), symbol center y=153 -->
+<!-- 0: shell -->
+<ellipse cx="40" cy="153" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="40" cy="153" rx="4" ry="2.5" fill="none" stroke="black" stroke-width="0.75"/>
+<!-- 1: 1 dot -->
+<circle cx="84" cy="153" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<!-- 2: 2 dots side by side -->
+<circle cx="120" cy="153" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="136" cy="153" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<!-- 3: 3 dots triangle -->
+<circle cx="163" cy="157" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="181" cy="157" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="172" cy="145" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<!-- 4: 4 dots 2x2 -->
+<circle cx="207" cy="146" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="225" cy="146" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="207" cy="160" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="225" cy="160" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<!-- 5: 1 bar -->
+<line x1="244" y1="153" x2="276" y2="153" stroke="black" stroke-width="5"/>
+<!-- 6: 1 dot above 1 bar -->
+<circle cx="304" cy="143" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="288" y1="155" x2="320" y2="155" stroke="black" stroke-width="5"/>
+<!-- 7: 2 dots above 1 bar -->
+<circle cx="339" cy="141" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="357" cy="141" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="332" y1="155" x2="364" y2="155" stroke="black" stroke-width="5"/>
+<!-- 8: 3 dots (triangle) above 1 bar -->
+<circle cx="383" cy="139" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="401" cy="139" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="392" cy="129" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="376" y1="153" x2="408" y2="153" stroke="black" stroke-width="5"/>
+<!-- 9: 4 dots (2x2) above 1 bar -->
+<circle cx="427" cy="132" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="445" cy="132" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="427" cy="144" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="445" cy="144" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="420" y1="157" x2="452" y2="157" stroke="black" stroke-width="5"/>
+
+<line x1="18" y1="168" x2="462" y2="168" stroke="black" stroke-width="0.75"/>
+
+<!-- Column number labels ROW B (10-19) -->
+<text x="40"  y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">10</text>
+<text x="84"  y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">11</text>
+<text x="128" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">12</text>
+<text x="172" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">13</text>
+<text x="216" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">14</text>
+<text x="260" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">15</text>
+<text x="304" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">16</text>
+<text x="348" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">17</text>
+<text x="392" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">18</text>
+<text x="436" y="178" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">19</text>
+
+<!-- Column separators for row B -->
+<line x1="62"  y1="168" x2="62"  y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="106" y1="168" x2="106" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="150" y1="168" x2="150" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="194" y1="168" x2="194" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="238" y1="168" x2="238" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="282" y1="168" x2="282" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="326" y1="168" x2="326" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="370" y1="168" x2="370" y2="214" stroke="black" stroke-width="0.25"/>
+<line x1="414" y1="168" x2="414" y2="214" stroke="black" stroke-width="0.25"/>
+
+<!-- MAYA SYMBOLS ROW B (10-19), bar zone bottom y=210, symbol area 178-210 -->
+<!-- 10: 2 bars -->
+<line x1="24" y1="197" x2="56" y2="197" stroke="black" stroke-width="5"/>
+<line x1="24" y1="207" x2="56" y2="207" stroke="black" stroke-width="5"/>
+<!-- 11: 1 dot + 2 bars -->
+<circle cx="84" cy="185" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="68" y1="197" x2="100" y2="197" stroke="black" stroke-width="5"/>
+<line x1="68" y1="207" x2="100" y2="207" stroke="black" stroke-width="5"/>
+<!-- 12: 2 dots + 2 bars -->
+<circle cx="120" cy="183" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="136" cy="183" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="112" y1="197" x2="144" y2="197" stroke="black" stroke-width="5"/>
+<line x1="112" y1="207" x2="144" y2="207" stroke="black" stroke-width="5"/>
+<!-- 13: 3 dots triangle + 2 bars -->
+<circle cx="163" cy="185" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="181" cy="185" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="172" cy="175" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="156" y1="197" x2="188" y2="197" stroke="black" stroke-width="5"/>
+<line x1="156" y1="207" x2="188" y2="207" stroke="black" stroke-width="5"/>
+<!-- 14: 4 dots 2x2 + 2 bars -->
+<circle cx="207" cy="179" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="225" cy="179" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="207" cy="191" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="225" cy="191" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="200" y1="201" x2="232" y2="201" stroke="black" stroke-width="5"/>
+<line x1="200" y1="210" x2="232" y2="210" stroke="black" stroke-width="5"/>
+<!-- 15: 3 bars -->
+<line x1="244" y1="192" x2="276" y2="192" stroke="black" stroke-width="5"/>
+<line x1="244" y1="201" x2="276" y2="201" stroke="black" stroke-width="5"/>
+<line x1="244" y1="210" x2="276" y2="210" stroke="black" stroke-width="5"/>
+<!-- 16: 1 dot + 3 bars -->
+<circle cx="304" cy="181" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="288" y1="193" x2="320" y2="193" stroke="black" stroke-width="5"/>
+<line x1="288" y1="202" x2="320" y2="202" stroke="black" stroke-width="5"/>
+<line x1="288" y1="211" x2="320" y2="211" stroke="black" stroke-width="5"/>
+<!-- 17: 2 dots + 3 bars -->
+<circle cx="339" cy="179" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="357" cy="179" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="332" y1="191" x2="364" y2="191" stroke="black" stroke-width="5"/>
+<line x1="332" y1="200" x2="364" y2="200" stroke="black" stroke-width="5"/>
+<line x1="332" y1="209" x2="364" y2="209" stroke="black" stroke-width="5"/>
+<!-- 18: 3 dots triangle + 3 bars -->
+<circle cx="383" cy="177" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="401" cy="177" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="392" cy="167" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="376" y1="189" x2="408" y2="189" stroke="black" stroke-width="5"/>
+<line x1="376" y1="198" x2="408" y2="198" stroke="black" stroke-width="5"/>
+<line x1="376" y1="207" x2="408" y2="207" stroke="black" stroke-width="5"/>
+<!-- 19: 4 dots 2x2 + 3 bars -->
+<circle cx="427" cy="173" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="445" cy="173" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="427" cy="183" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="445" cy="183" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="420" y1="195" x2="452" y2="195" stroke="black" stroke-width="5"/>
+<line x1="420" y1="204" x2="452" y2="204" stroke="black" stroke-width="5"/>
+<line x1="420" y1="213" x2="452" y2="213" stroke="black" stroke-width="5"/>
+
+<line x1="18" y1="218" x2="462" y2="218" stroke="black" stroke-width="0.75"/>
+
+<!-- NUMBER 20 explanation + key numbers panel -->
+<!-- 20 shown as stacked: dot (=1×20) above level-divider above shell (=0) -->
+<text x="240" y="227" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">20 = NEW LEVEL: dot on top (×20) + shell below (×1)</text>
+
+<!-- 20 diagram -->
+<circle cx="55" cy="237" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="40" y1="246" x2="70" y2="246" stroke="black" stroke-width="0.75"/>
+<ellipse cx="55" cy="256" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="55" cy="256" rx="4" ry="2.5" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="55" y="270" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">20</text>
+<text x="55" y="279" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">1×20 + 0</text>
+
+<!-- 100 = 5×20 + 0: bar in twenties, shell in ones -->
+<line x1="120" y1="237" x2="152" y2="237" stroke="black" stroke-width="5"/>
+<line x1="118" y1="246" x2="154" y2="246" stroke="black" stroke-width="0.75"/>
+<ellipse cx="136" cy="256" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="136" cy="256" rx="4" ry="2.5" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="136" y="270" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">100</text>
+<text x="136" y="279" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">5×20 + 0</text>
+
+<!-- 365 solar year = 18×20 + 5: (3dots+3bars) in twenties, (1bar) in ones -->
+<circle cx="217" cy="228" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="231" cy="228" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="224" cy="219" r="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="210" y1="238" x2="242" y2="238" stroke="black" stroke-width="4.5"/>
+<line x1="210" y1="245" x2="242" y2="245" stroke="black" stroke-width="4.5"/>
+<line x1="210" y1="252" x2="242" y2="252" stroke="black" stroke-width="4.5"/>
+<line x1="212" y1="257" x2="240" y2="257" stroke="black" stroke-width="0.75"/>
+<line x1="210" y1="266" x2="242" y2="266" stroke="black" stroke-width="4.5"/>
+<text x="226" y="278" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">365</text>
+<text x="226" y="287" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">solar year</text>
+
+<!-- 400 = 1×400: dot in 400s level, shells below -->
+<circle cx="310" cy="222" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="296" y1="231" x2="324" y2="231" stroke="black" stroke-width="0.75"/>
+<ellipse cx="310" cy="241" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="310" cy="241" rx="4" ry="2.5" fill="none" stroke="black" stroke-width="0.75"/>
+<line x1="296" y1="251" x2="324" y2="251" stroke="black" stroke-width="0.75"/>
+<ellipse cx="310" cy="261" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="310" cy="261" rx="4" ry="2.5" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="310" y="275" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">400</text>
+<text x="310" y="284" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">1×400</text>
+
+<!-- 1/2 fraction -->
+<circle cx="395" cy="233" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="380" y1="243" x2="410" y2="243" stroke="black" stroke-width="1.25"/>
+<line x1="380" y1="244" x2="410" y2="244" stroke="black" stroke-width="1.25"/>
+<circle cx="395" cy="255" r="5" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="378" y1="259" x2="412" y2="259" stroke="black" stroke-width="0.75"/>
+<text x="395" y="270" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">1/2</text>
+<text x="395" y="279" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">fractions</text>
+
+<!-- a²+b²=c² in corner -->
+<text x="452" y="237" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="end" fill="black">a²+b²=c²</text>
+<!-- small right triangle -->
+<polygon points="424,244 424,260 440,260" fill="none" stroke="black" stroke-width="1.25"/>
+<rect x="424" y="252" width="6" height="6" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="418" y="254" font-family="Georgia,serif" font-size="7" text-anchor="end" fill="black" font-style="italic">a</text>
+<text x="432" y="267" font-family="Georgia,serif" font-size="7" text-anchor="middle" fill="black" font-style="italic">b</text>
+<text x="436" y="252" font-family="Georgia,serif" font-size="7" fill="black" font-style="italic">c</text>
+<text x="437" y="270" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">circle ratio</text>
+<text x="437" y="279" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">π≈3.14159</text>
+
+<line x1="18" y1="289" x2="462" y2="289" stroke="black" stroke-width="0.75"/>
+
+<!-- ═══ SECTION 2: PICTOGRAPHS ═══ -->
+<text x="240" y="299" font-family="Georgia,serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="black" letter-spacing="3">SECTION 2 — CORE VOCABULARY (PICTOGRAPHIC)</text>
+<line x1="18" y1="304" x2="462" y2="304" stroke="black" stroke-width="0.5"/>
+
+<!-- 16 icons in 2 rows of 8. Each cell = 55.5px wide -->
+<!-- Cell centers row 1: 46, 101, 156, 212, 267, 323, 378, 434 -->
+<!-- Icons drawn in y range 310-350, labels at y=355, subtitle y=364 -->
+
+<!-- Thin vertical cell dividers row 1 -->
+<line x1="73"  y1="304" x2="73"  y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="129" y1="304" x2="129" y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="184" y1="304" x2="184" y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="240" y1="304" x2="240" y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="295" y1="304" x2="295" y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="351" y1="304" x2="351" y2="372" stroke="black" stroke-width="0.25"/>
+<line x1="406" y1="304" x2="406" y2="372" stroke="black" stroke-width="0.25"/>
+
+<!-- SUN / DAY (cx=46) -->
+<circle cx="46" cy="326" r="12" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="46" y1="311" x2="46" y2="308" stroke="black" stroke-width="1.25"/>
+<line x1="46" y1="341" x2="46" y2="344" stroke="black" stroke-width="1.25"/>
+<line x1="31" y1="326" x2="28" y2="326" stroke="black" stroke-width="1.25"/>
+<line x1="61" y1="326" x2="64" y2="326" stroke="black" stroke-width="1.25"/>
+<line x1="36" y1="316" x2="33" y2="313" stroke="black" stroke-width="1"/>
+<line x1="56" y1="336" x2="59" y2="339" stroke="black" stroke-width="1"/>
+<line x1="56" y1="316" x2="59" y2="313" stroke="black" stroke-width="1"/>
+<line x1="36" y1="336" x2="33" y2="339" stroke="black" stroke-width="1"/>
+<text x="46" y="355" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">SUN / DAY</text>
+<text x="46" y="364" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">light · energy</text>
+
+<!-- EARTH / LAND (cx=101) — circle = globe, dots below = soil -->
+<circle cx="101" cy="322" r="12" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="89" y1="322" x2="113" y2="322" stroke="black" stroke-width="1"/>
+<circle cx="94" cy="340" r="2" fill="black"/>
+<circle cx="101" cy="342" r="2" fill="black"/>
+<circle cx="108" cy="340" r="2" fill="black"/>
+<text x="101" y="355" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">EARTH / LAND</text>
+<text x="101" y="364" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">ground · soil</text>
+
+<!-- PERSON (cx=156) -->
+<circle cx="156" cy="316" r="6" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="156" y1="322" x2="156" y2="338" stroke="black" stroke-width="1.5"/>
+<line x1="156" y1="327" x2="149" y2="334" stroke="black" stroke-width="1.25"/>
+<line x1="156" y1="327" x2="163" y2="334" stroke="black" stroke-width="1.25"/>
+<line x1="156" y1="338" x2="150" y2="347" stroke="black" stroke-width="1.25"/>
+<line x1="156" y1="338" x2="162" y2="347" stroke="black" stroke-width="1.25"/>
+<text x="156" y="357" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">PERSON</text>
+<text x="156" y="366" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">human · life</text>
+
+<!-- SHELTER / HOME (cx=212) -->
+<polygon points="212,313 228,323 196,323" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="197" y="323" width="30" height="20" fill="none" stroke="black" stroke-width="1.5"/>
+<rect x="206" y="333" width="8" height="10" fill="none" stroke="black" stroke-width="1"/>
+<text x="212" y="357" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">SHELTER</text>
+<text x="212" y="366" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">safety · structure</text>
+
+<!-- FIRE / HEAT (cx=267) -->
+<path d="M 267 347 Q 259 334 262 321 Q 266 311 264 305 Q 270 313 268 321 Q 274 311 272 303 Q 279 313 275 325 Q 279 317 278 310 Q 285 322 281 334 Q 284 326 283 318 Q 290 330 286 343 Q 284 347 267 347 Z" fill="none" stroke="black" stroke-width="1.25"/>
+<text x="267" y="358" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">FIRE / HEAT</text>
+<text x="267" y="367" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">energy · warmth</text>
+
+<!-- WATER (cx=323) -->
+<path d="M 306 316 Q 312 312 318 316 Q 324 320 330 316 Q 336 312 340 316" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 306 324 Q 312 320 318 324 Q 324 328 330 324 Q 336 320 340 324" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 306 332 Q 312 328 318 332 Q 324 336 330 332 Q 336 328 340 332" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 306 340 Q 312 336 318 340 Q 324 344 330 340 Q 336 336 340 340" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="323" y="356" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">WATER</text>
+<text x="323" y="365" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">drink · river · rain</text>
+
+<!-- PLANT / FOOD (cx=378) -->
+<line x1="378" y1="347" x2="378" y2="318" stroke="black" stroke-width="1.5"/>
+<path d="M 378 333 Q 367 328 364 318 Q 375 319 378 333" fill="none" stroke="black" stroke-width="1.25"/>
+<path d="M 378 324 Q 389 319 392 309 Q 381 310 378 324" fill="none" stroke="black" stroke-width="1.25"/>
+<circle cx="366" cy="310" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<circle cx="378" cy="307" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<circle cx="390" cy="310" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<text x="378" y="358" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">PLANT / FOOD</text>
+<text x="378" y="367" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">grow · seed · eat</text>
+
+<!-- MOUNTAIN (cx=434) -->
+<polygon points="434,347 448,316 462,347" fill="none" stroke="black" stroke-width="1.5"/>
+<polygon points="421,347 432,322 445,347" fill="none" stroke="black" stroke-width="1"/>
+<text x="434" y="358" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">MOUNTAIN</text>
+<text x="434" y="367" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">high ground · safe</text>
+
+<line x1="18" y1="372" x2="462" y2="372" stroke="black" stroke-width="0.5"/>
+
+<!-- ICON ROW 2: COMMUNITY, GIFT/SHARE, KNOWLEDGE, DANGER, DIRECTION, TIME, CONNECT, HEAL -->
+<!-- Cell dividers row 2 -->
+<line x1="73"  y1="372" x2="73"  y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="129" y1="372" x2="129" y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="184" y1="372" x2="184" y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="240" y1="372" x2="240" y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="295" y1="372" x2="295" y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="351" y1="372" x2="351" y2="438" stroke="black" stroke-width="0.25"/>
+<line x1="406" y1="372" x2="406" y2="438" stroke="black" stroke-width="0.25"/>
+
+<!-- COMMUNITY (cx=46): three stick figures -->
+<circle cx="35" cy="385" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="35" y1="390" x2="35" y2="400" stroke="black" stroke-width="1.25"/>
+<line x1="35" y1="393" x2="30" y2="398" stroke="black" stroke-width="1"/>
+<line x1="35" y1="393" x2="40" y2="398" stroke="black" stroke-width="1"/>
+<circle cx="47" cy="383" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="47" y1="388" x2="47" y2="400" stroke="black" stroke-width="1.25"/>
+<line x1="47" y1="392" x2="42" y2="398" stroke="black" stroke-width="1"/>
+<line x1="47" y1="392" x2="52" y2="398" stroke="black" stroke-width="1"/>
+<circle cx="59" cy="385" r="5" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="59" y1="390" x2="59" y2="400" stroke="black" stroke-width="1.25"/>
+<line x1="59" y1="393" x2="54" y2="398" stroke="black" stroke-width="1"/>
+<line x1="59" y1="393" x2="64" y2="398" stroke="black" stroke-width="1"/>
+<text x="46" y="418" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">COMMUNITY</text>
+<text x="46" y="427" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">together · us</text>
+
+<!-- GIFT / SHARE (cx=101): star shape -->
+<polygon points="101,376 104,386 114,386 106,392 109,403 101,397 93,403 96,392 88,386 98,386" fill="none" stroke="black" stroke-width="1.25"/>
+<text x="101" y="418" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">GIFT / SHARE</text>
+<text x="101" y="427" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">freely given · yours</text>
+
+<!-- KNOWLEDGE (cx=156): open book + checkmark -->
+<rect x="138" y="381" width="36" height="24" rx="1" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="156" y1="381" x2="156" y2="405" stroke="black" stroke-width="0.75"/>
+<line x1="141" y1="387" x2="153" y2="387" stroke="black" stroke-width="0.75"/>
+<line x1="141" y1="392" x2="153" y2="392" stroke="black" stroke-width="0.75"/>
+<line x1="141" y1="397" x2="153" y2="397" stroke="black" stroke-width="0.75"/>
+<path d="M 159 398 L 162 403 L 169 393" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="156" y="418" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">KNOWLEDGE</text>
+<text x="156" y="427" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">read · learn · teach</text>
+
+<!-- DANGER / STOP (cx=212): exclamation in diamond -->
+<polygon points="212,374 228,391 212,408 196,391" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="212" y1="381" x2="212" y2="395" stroke="black" stroke-width="2.5"/>
+<circle cx="212" cy="401" r="2.5" fill="black"/>
+<text x="212" y="420" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">DANGER / STOP</text>
+<text x="212" y="429" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">caution · wait</text>
+
+<!-- DIRECTION / NORTH (cx=267): arrow in circle -->
+<circle cx="267" cy="391" r="16" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="267" y1="378" x2="267" y2="404" stroke="black" stroke-width="1.5"/>
+<line x1="267" y1="378" x2="262" y2="384" stroke="black" stroke-width="1.5"/>
+<line x1="267" y1="378" x2="272" y2="384" stroke="black" stroke-width="1.5"/>
+<text x="267" y="374" font-family="Georgia,serif" font-size="7.5" font-weight="bold" text-anchor="middle" fill="black">N</text>
+<text x="267" y="420" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">DIRECTION</text>
+<text x="267" y="429" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">navigate · go · find</text>
+
+<!-- TIME / CYCLE (cx=323): clock face with cycle arrow -->
+<circle cx="323" cy="391" r="15" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="323" y1="378" x2="323" y2="391" stroke="black" stroke-width="1.25"/>
+<line x1="323" y1="391" x2="333" y2="397" stroke="black" stroke-width="1.25"/>
+<line x1="323" y1="377" x2="323" y2="380" stroke="black" stroke-width="1"/>
+<line x1="336" y1="384" x2="338" y2="387" stroke="black" stroke-width="1"/>
+<line x1="338" y1="391" x2="340" y2="391" stroke="black" stroke-width="1"/>
+<path d="M 309 382 Q 304 391 309 400" fill="none" stroke="black" stroke-width="1" stroke-dasharray="2,2"/>
+<text x="323" y="420" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">TIME / CYCLE</text>
+<text x="323" y="429" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">season · pass · year</text>
+
+<!-- CONNECT / LINK (cx=378): two interlocking circles, spaced so overlap is clear -->
+<circle cx="368" cy="391" r="13" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="388" cy="391" r="13" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="378" y="418" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">CONNECT / LINK</text>
+<text x="378" y="427" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">bridge · join · share</text>
+
+<!-- HEAL / MEDICINE (cx=434): equal cross in circle -->
+<circle cx="434" cy="391" r="15" fill="none" stroke="black" stroke-width="1.25"/>
+<line x1="434" y1="379" x2="434" y2="403" stroke="black" stroke-width="3"/>
+<line x1="422" y1="391" x2="446" y2="391" stroke="black" stroke-width="3"/>
+<text x="434" y="420" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">HEAL / MEDICINE</text>
+<text x="434" y="429" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">help · care · cure</text>
+
+<line x1="18" y1="434" x2="462" y2="434" stroke="black" stroke-width="0.75"/>
+
+<!-- ═══ SECTION 3: STAR MAP ═══ -->
+<text x="240" y="444" font-family="Georgia,serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="black" letter-spacing="3">SECTION 3 — STAR MAP AND NAVIGATION</text>
+<line x1="18" y1="449" x2="462" y2="449" stroke="black" stroke-width="0.5"/>
+
+<!-- Star chart: circle centered at x=142, y=515, r=60 -->
+<circle cx="142" cy="516" r="62" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="142" cy="516" r="40" fill="none" stroke="black" stroke-width="0.5" stroke-dasharray="3,3"/>
+<text x="142" y="451" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">N</text>
+<text x="142" y="583" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">S</text>
+<text x="76" y="519" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">W</text>
+<text x="208" y="519" font-family="Georgia,serif" font-size="9" font-weight="bold" text-anchor="middle" fill="black">E</text>
+<line x1="142" y1="455" x2="142" y2="578" stroke="black" stroke-width="0.5" stroke-dasharray="2,4"/>
+<line x1="82" y1="516" x2="202" y2="516" stroke="black" stroke-width="0.5" stroke-dasharray="2,4"/>
+
+<!-- Polaris near north -->
+<text x="142" y="466" font-family="Georgia,serif" font-size="11" text-anchor="middle" fill="black">★</text>
+<text x="156" y="464" font-family="Georgia,serif" font-size="6.5" fill="black">Polaris</text>
+<text x="156" y="472" font-family="Georgia,serif" font-size="6.5" fill="black">angle above</text>
+<text x="156" y="480" font-family="Georgia,serif" font-size="6.5" fill="black">horizon = lat.</text>
+
+<!-- Big Dipper: bowl + handle, northwest -->
+<text x="104" y="484" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<text x="114" y="491" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<text x="116" y="502" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<text x="106" y="500" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<text x="126" y="479" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<text x="135" y="473" font-family="Georgia,serif" font-size="9" text-anchor="middle" fill="black">★</text>
+<line x1="104" y1="480" x2="114" y2="487" stroke="black" stroke-width="0.75"/>
+<line x1="114" y1="487" x2="116" y2="498" stroke="black" stroke-width="0.75"/>
+<line x1="116" y1="498" x2="106" y2="496" stroke="black" stroke-width="0.75"/>
+<line x1="106" y1="496" x2="104" y2="480" stroke="black" stroke-width="0.75"/>
+<line x1="126" y1="475" x2="114" y2="487" stroke="black" stroke-width="0.75"/>
+<line x1="135" y1="469" x2="126" y2="475" stroke="black" stroke-width="0.75"/>
+<!-- Pointer lines to Polaris -->
+<line x1="104" y1="477" x2="142" y2="463" stroke="black" stroke-width="0.75" stroke-dasharray="3,2"/>
+<line x1="114" y1="484" x2="142" y2="463" stroke="black" stroke-width="0.75" stroke-dasharray="3,2"/>
+<text x="84" y="482" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">Big</text>
+<text x="84" y="490" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black">Dipper</text>
+<text x="84" y="470" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">pointer</text>
+<text x="84" y="477" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">stars</text>
+
+<!-- Cassiopeia W, northeast -->
+<text x="172" y="478" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="181" y="472" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="188" y="478" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="196" y="472" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="203" y="478" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<line x1="172" y1="474" x2="181" y2="468" stroke="black" stroke-width="0.75"/>
+<line x1="181" y1="468" x2="188" y2="474" stroke="black" stroke-width="0.75"/>
+<line x1="188" y1="474" x2="196" y2="468" stroke="black" stroke-width="0.75"/>
+<line x1="196" y1="468" x2="203" y2="474" stroke="black" stroke-width="0.75"/>
+<text x="188" y="490" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">Cassiopeia</text>
+
+<!-- Orion belt south -->
+<text x="114" y="556" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="124" y="552" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="134" y="549" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<line x1="114" y1="552" x2="124" y2="548" stroke="black" stroke-width="0.75"/>
+<line x1="124" y1="548" x2="134" y2="545" stroke="black" stroke-width="0.75"/>
+<text x="124" y="566" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">Orion's Belt</text>
+<text x="124" y="573" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">rises E · sets W</text>
+
+<!-- Southern Cross southwest -->
+<text x="98" y="546" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="98" y="556" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="92" y="551" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<text x="104" y="551" font-family="Georgia,serif" font-size="8" text-anchor="middle" fill="black">★</text>
+<line x1="98" y1="542" x2="98" y2="553" stroke="black" stroke-width="0.75"/>
+<line x1="92" y1="547" x2="104" y2="547" stroke="black" stroke-width="0.75"/>
+<text x="82" y="562" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">S.Cross</text>
+<text x="82" y="569" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">→ south</text>
+<text x="82" y="576" font-family="Georgia,serif" font-size="6" text-anchor="middle" fill="black">S.Hemisphere</text>
+
+<!-- "you are here" label in chart -->
+<text x="142" y="527" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">you are</text>
+<text x="142" y="535" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" font-style="italic">here</text>
+
+<!-- HOW TO FIND NORTH panel: x=220..462, y=449..580 -->
+<rect x="220" y="450" width="242" height="130" rx="3" fill="none" stroke="black" stroke-width="1"/>
+<text x="341" y="463" font-family="Georgia,serif" font-size="8" font-weight="bold" text-anchor="middle" fill="black">HOW TO FIND NORTH (no tools)</text>
+<line x1="220" y1="466" x2="462" y2="466" stroke="black" stroke-width="0.5"/>
+<text x="226" y="477" font-family="Georgia,serif" font-size="7" fill="black">1. Night: find Big Dipper (7 stars,</text>
+<text x="226" y="487" font-family="Georgia,serif" font-size="7" fill="black">ladle shape). The two cup-edge</text>
+<text x="226" y="497" font-family="Georgia,serif" font-size="7" fill="black">stars point to Polaris = North.</text>
+<text x="226" y="510" font-family="Georgia,serif" font-size="7" fill="black">2. Day: a shadow stick points</text>
+<text x="226" y="520" font-family="Georgia,serif" font-size="7" fill="black">W at sunrise, E at sunset,</text>
+<text x="226" y="530" font-family="Georgia,serif" font-size="7" fill="black">and shortest shadow = South.</text>
+<text x="226" y="543" font-family="Georgia,serif" font-size="7" fill="black">3. Polaris height above horizon</text>
+<text x="226" y="553" font-family="Georgia,serif" font-size="7" fill="black">in degrees = your N latitude.</text>
+<line x1="220" y1="558" x2="462" y2="558" stroke="black" stroke-width="0.5"/>
+<!-- Angle diagram -->
+<line x1="228" y1="572" x2="456" y2="572" stroke="black" stroke-width="1.25"/>
+<line x1="244" y1="572" x2="268" y2="546" stroke="black" stroke-width="1"/>
+<text x="368" y="545" font-family="Georgia,serif" font-size="7" fill="black">Polaris ★</text>
+<path d="M 252 572 Q 256 565 260 572" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="266" y="568" font-family="Georgia,serif" font-size="6.5" fill="black">angle</text>
+<text x="341" y="580" font-family="Georgia,serif" font-size="7" text-anchor="middle" fill="black">horizon (flat ground line)</text>
+
+<line x1="18" y1="585" x2="462" y2="585" stroke="black" stroke-width="0.75"/>
+
+<!-- ═══ SECTION 4: WHAT IS IN THIS CAPSULE ═══ -->
+<text x="240" y="594" font-family="Georgia,serif" font-size="9.5" font-weight="bold" text-anchor="middle" fill="black" letter-spacing="3">SECTION 4 — WHAT IS IN THIS CAPSULE</text>
+<line x1="18" y1="599" x2="462" y2="599" stroke="black" stroke-width="0.5"/>
+<line x1="240" y1="599" x2="240" y2="614" stroke="black" stroke-width="0.5"/>
+
+<text x="22" y="608" font-family="Georgia,serif" font-size="7.5" font-weight="bold" fill="black">PLATES (METAL SHEETS)</text>
+<text x="22" y="617" font-family="Georgia,serif" font-size="7" fill="black">Plate 1: This index — you are here</text>
+
+<text x="244" y="608" font-family="Georgia,serif" font-size="7.5" font-weight="bold" fill="black">OTHER ITEMS IN CAPSULE</text>
+<text x="244" y="617" font-family="Georgia,serif" font-size="7" fill="black">Film roll: magnify with the glass lens</text>
+
+<!-- ═══ METADATA STRIP ═══ -->
+<line x1="6" y1="622" x2="474" y2="622" stroke="black" stroke-width="0.75"/>
+<text x="240" y="631" font-family="Georgia,serif" font-size="6.5" text-anchor="middle" fill="black" letter-spacing="0.8">CC BY-SA 4.0 · PLATE 1 OF [N] · BURIED: [YEAR] · GPS: [LATITUDE, LONGITUDE] · LANDMARK: [DESCRIPTION]</text>
+<line x1="6" y1="635" x2="474" y2="635" stroke="black" stroke-width="0.75"/>
+
+<!-- ═══ FOOTER BANNER ═══ -->
+<text x="240" y="652" font-family="Georgia,serif" font-size="11" font-weight="bold" text-anchor="middle" fill="black" font-style="italic">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="666" font-family="Georgia,serif" font-size="8.5" text-anchor="middle" fill="black">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+
+</svg>
