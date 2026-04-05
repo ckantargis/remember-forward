@@ -1,0 +1,94 @@
+PRIOR ART ARCHIVE SUBMISSION TEMPLATE
+Submit at: https://priorartarchive.org
+(Free. Takes ~10 minutes. You receive a DOI immediately.)
+======================================================================
+
+TITLE:
+  Remember Forward — The Patient Message: Open-Source Time Capsule Plate System
+
+INVENTORS / AUTHORS:
+  [Your name here]
+  Remember Forward (project)
+
+DATE OF DISCLOSURE:
+  April 4, 2026
+
+ABSTRACT (copy-paste this into the "Description" or "Abstract" field):
+----------------------------------------------------------------------
+An open-source system of laser-engraver-ready vector graphic (SVG) plate
+designs for long-duration time capsules intended to preserve foundational
+human knowledge and multiple writing systems through civilizational
+disruption without reliance on electronic media, electricity, or
+institutional continuity.
+
+The system comprises two plate categories: (1) Knowledge plates (planned
+series of 11) encoding survival skills, agriculture, technology re-founding,
+governance principles, physics, energy generation, and encoding/communication;
+and (2) Language plates (planned series of 200, four plates per language
+across 50 languages) encoding script systems, phonology with IPA transcription,
+grammar and core vocabulary, and interlinear-translated running text from
+classical literature.
+
+Key technical disclosures include:
+- A standardized 480x680px portrait SVG format with double-border design
+  optimized for nickel or stainless steel laser engraving at any scale
+- A four-plate per language structure (Script / Phonology / Grammar / Text)
+  with a standardized Bridge Phrase rendered in every language
+- An interlinear translation methodology for Plate D (running text) providing
+  word-for-word gloss, full translation, and source attribution
+- A Kangxi radical indexing approach for the Mandarin Chinese plates
+- A multi-tier container design specification (7 tiers, Tier 0 through Tier E)
+  covering fired ceramic to lead-lined granite, with documented survivability
+  estimates from 500 to 100,000+ years
+- The bridge phrase: "This was made for you, freely, by people who remembered
+  forward" — and its translation methodology for each target language,
+  preserving idiomatic rather than mechanical equivalence
+
+As of the filing date, 46 plates are complete (10 knowledge + 36 language
+across 6 series: Hebrew [16 plates, 4 variants], Arabic, Tamil, Sanskrit,
+Bengali, Mandarin Chinese). All designs are released under CC BY-SA 4.0.
+----------------------------------------------------------------------
+
+KEYWORDS / TAGS (enter each one separately):
+  time capsule
+  knowledge preservation
+  language preservation
+  SVG
+  laser engraving
+  nickel plate
+  open source
+  interlinear translation
+  IPA phonology
+  writing systems
+  post-catastrophe
+  CC BY-SA
+
+FILE TO UPLOAD:
+  Option A (recommended): Create a ZIP of the entire plates/ folder and upload it.
+    → Right-click the "plates" folder → Send to → Compressed (zipped) folder
+    → Name it: remember-forward-plates-2026-04-04.zip
+
+  Option B: Upload the individual SVG files (up to the site's file limit).
+
+  Option C: Paste the GitHub URL if the site accepts a URL as evidence:
+    https://github.com/ckantargis/remember-forward
+
+REFERENCE URL (if the form asks for a URL):
+  https://rememberforward.org
+  or
+  https://github.com/ckantargis/remember-forward
+
+LICENSE:
+  Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+
+======================================================================
+WHAT TO DO WITH THE DOI YOU RECEIVE:
+  1. Save it somewhere safe (e.g., add it to CLAUDE.md under ## PENDING TASKS)
+  2. Include it in the Internet Archive item description when uploading
+  3. Use it in any trademark or copyright filings as evidence of prior art date
+  4. The DOI is permanent and citable in academic/legal contexts
+
+EXAMPLE DOI FORMAT you'll receive:
+  10.25446/xxxxxxxxx   (actual number assigned at submission)
+  Citable as: https://doi.org/10.25446/xxxxxxxxx
+======================================================================
