@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HAUSA — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 29A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— HAUSA — MOST WIDELY SPOKEN CHADIC LANGUAGE —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Hausa is a Chadic language (Afroasiatic family), spoken by 70–100 million people as L1 or L2.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Lingua franca across Nigeria, Niger, Ghana, Chad, Cameroon, Sudan, and the Sahel belt.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Two writing systems: Boko (Latin-based, official) and Ajami (Arabic-based, traditional).</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— BOKO ALPHABET — OFFICIAL LATIN-BASED SCRIPT —</text>
+<text x="240" y="125" text-anchor="middle" class="Ls" >23 letters from the Latin alphabet + 3 special letters with hooks: ɓ, ɗ, ’y (glottalised).</text>
+<text x="35" y="135" text-anchor="middle" class="Lx" >A a</text>
+<text x="100" y="135" text-anchor="middle" class="Lx" >/a/</text>
+<text x="210" y="135" text-anchor="middle" class="Lx" >open low</text>
+<text x="35" y="145" text-anchor="middle" class="Lx" >B b</text>
+<text x="100" y="145" text-anchor="middle" class="Lx" >/b/</text>
+<text x="210" y="145" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="35" y="155" text-anchor="middle" class="Lx" >ɓ ɓ</text>
+<text x="100" y="155" text-anchor="middle" class="Lx" >/ɓ/</text>
+<text x="210" y="155" text-anchor="middle" class="Lx" >implosive bilabial — baɓa (door)</text>
+<text x="35" y="165" text-anchor="middle" class="Lx" >C c</text>
+<text x="100" y="165" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="210" y="165" text-anchor="middle" class="Lx" >ch sound</text>
+<text x="35" y="175" text-anchor="middle" class="Lx" >D d</text>
+<text x="100" y="175" text-anchor="middle" class="Lx" >/d/</text>
+<text x="210" y="175" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="35" y="185" text-anchor="middle" class="Lx" >ɗ ɗ</text>
+<text x="100" y="185" text-anchor="middle" class="Lx" >/ɗ/</text>
+<text x="210" y="185" text-anchor="middle" class="Lx" >implosive alveolar — ɗan (son)</text>
+<text x="35" y="195" text-anchor="middle" class="Lx" >E e</text>
+<text x="100" y="195" text-anchor="middle" class="Lx" >/e/</text>
+<text x="210" y="195" text-anchor="middle" class="Lx" >mid front</text>
+<text x="35" y="205" text-anchor="middle" class="Lx" >F f</text>
+<text x="100" y="205" text-anchor="middle" class="Lx" >/ɸ/</text>
+<text x="210" y="205" text-anchor="middle" class="Lx" >bilabial fricative</text>
+<text x="35" y="215" text-anchor="middle" class="Lx" >G g</text>
+<text x="100" y="215" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="210" y="215" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="35" y="225" text-anchor="middle" class="Lx" >H h</text>
+<text x="100" y="225" text-anchor="middle" class="Lx" >/h/</text>
+<text x="210" y="225" text-anchor="middle" class="Lx" >glottal</text>
+<text x="35" y="235" text-anchor="middle" class="Lx" >I i</text>
+<text x="100" y="235" text-anchor="middle" class="Lx" >/i/</text>
+<text x="210" y="235" text-anchor="middle" class="Lx" >high front</text>
+<text x="35" y="245" text-anchor="middle" class="Lx" >J j</text>
+<text x="100" y="245" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="210" y="245" text-anchor="middle" class="Lx" >voiced affricate</text>
+<text x="35" y="255" text-anchor="middle" class="Lx" >K k</text>
+<text x="100" y="255" text-anchor="middle" class="Lx" >/k/</text>
+<text x="210" y="255" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="35" y="265" text-anchor="middle" class="Lx" >L l</text>
+<text x="100" y="265" text-anchor="middle" class="Lx" >/l/</text>
+<text x="210" y="265" text-anchor="middle" class="Lx" >lateral</text>
+<text x="265" y="135" text-anchor="middle" class="Lx" >M m</text>
+<text x="330" y="135" text-anchor="middle" class="Lx" >/m/</text>
+<text x="440" y="135" text-anchor="middle" class="Lx" >nasal</text>
+<text x="265" y="145" text-anchor="middle" class="Lx" >N n</text>
+<text x="330" y="145" text-anchor="middle" class="Lx" >/n/</text>
+<text x="440" y="145" text-anchor="middle" class="Lx" >nasal</text>
+<text x="265" y="155" text-anchor="middle" class="Lx" >O o</text>
+<text x="330" y="155" text-anchor="middle" class="Lx" >/o/</text>
+<text x="440" y="155" text-anchor="middle" class="Lx" >mid back</text>
+<text x="265" y="165" text-anchor="middle" class="Lx" >R r</text>
+<text x="330" y="165" text-anchor="middle" class="Lx" >/r/</text>
+<text x="440" y="165" text-anchor="middle" class="Lx" >trill / flap</text>
+<text x="265" y="175" text-anchor="middle" class="Lx" >S s</text>
+<text x="330" y="175" text-anchor="middle" class="Lx" >/s/</text>
+<text x="440" y="175" text-anchor="middle" class="Lx" >alveolar frict.</text>
+<text x="265" y="185" text-anchor="middle" class="Lx" >Sh sh</text>
+<text x="330" y="185" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="440" y="185" text-anchor="middle" class="Lx" >palatal frict.</text>
+<text x="265" y="195" text-anchor="middle" class="Lx" >T t</text>
+<text x="330" y="195" text-anchor="middle" class="Lx" >/t/</text>
+<text x="440" y="195" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="265" y="205" text-anchor="middle" class="Lx" >Ts ts</text>
+<text x="330" y="205" text-anchor="middle" class="Lx" >/ts'/ or /ʦ/</text>
+<text x="440" y="205" text-anchor="middle" class="Lx" >ejective affricate</text>
+<text x="265" y="215" text-anchor="middle" class="Lx" >U u</text>
+<text x="330" y="215" text-anchor="middle" class="Lx" >/u/</text>
+<text x="440" y="215" text-anchor="middle" class="Lx" >high back</text>
+<text x="265" y="225" text-anchor="middle" class="Lx" >W w</text>
+<text x="330" y="225" text-anchor="middle" class="Lx" >/w/</text>
+<text x="440" y="225" text-anchor="middle" class="Lx" >labio-velar glide</text>
+<text x="265" y="235" text-anchor="middle" class="Lx" >Y y</text>
+<text x="330" y="235" text-anchor="middle" class="Lx" >/j/</text>
+<text x="440" y="235" text-anchor="middle" class="Lx" >palatal glide</text>
+<text x="265" y="245" text-anchor="middle" class="Lx" >’y ’y</text>
+<text x="330" y="245" text-anchor="middle" class="Lx" >/ʿj/</text>
+<text x="440" y="245" text-anchor="middle" class="Lx" >glottalised palatal</text>
+<text x="265" y="255" text-anchor="middle" class="Lx" >Z z</text>
+<text x="330" y="255" text-anchor="middle" class="Lx" >/z/</text>
+<text x="440" y="255" text-anchor="middle" class="Lx" >alveolar frict.</text>
+<line x1="20" y1="282" x2="460" y2="282" stroke="black" stroke-width="0.3"/>
+<text x="240" y="291" text-anchor="middle" class="H" >— AJAMI — ARABIC-BASED TRADITIONAL SCRIPT —</text>
+<text x="240" y="302" text-anchor="middle" class="Ls" >Ajami (from Arabic ‘ajam — non-Arab) uses Arabic letters adapted for Hausa sounds.</text>
+<text x="240" y="311" text-anchor="middle" class="Ls" >Used before colonialism; still used in religious texts, poetry, and traditional manuscripts.</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >Hausa implosives (ɓ ɗ) often written with dotted Arabic letters not standard in Arabic.</text>
+<line x1="20" y1="328" x2="460" y2="328" stroke="black" stroke-width="0.3"/>
+<text x="240" y="337" text-anchor="middle" class="H" >— TONE MARKING —</text>
+<text x="240" y="348" text-anchor="middle" class="L" >Hausa is a TONAL language with 2 tones: High (H) and Low (L). Falling tone = H+L on one syllable.</text>
+<text x="240" y="358" text-anchor="middle" class="Ls" >Tone is not marked in standard Boko writing — must be learned in context or from dictionaries.</text>
+<text x="240" y="367" text-anchor="middle" class="Ls" >baɓa (door) H-L | baɓá (no) L-H | ɗan (son) H | ɗàn (person of) L</text>
+<text x="240" y="376" text-anchor="middle" class="Ls" >Tone changes word meaning and grammatical function. Critical for comprehension.</text>
+<line x1="20" y1="384" x2="460" y2="384" stroke="black" stroke-width="0.3"/>
+<text x="240" y="393" text-anchor="middle" class="H" >— IMPLOSIVE CONSONANTS — KEY HAUSA FEATURE —</text>
+<text x="240" y="404" text-anchor="middle" class="L" >ɓ and ɗ are IMPLOSIVE stops: airstream moves inward while voicing occurs. Rare in world languages.</text>
+<text x="240" y="414" text-anchor="middle" class="Ls" >ɓ = voiced bilabial implosive: lips close, glottis descends — baɓa "door", ɓawa "sand"</text>
+<text x="240" y="423" text-anchor="middle" class="Ls" >ɗ = voiced alveolar implosive: tongue at alveolar ridge, glottis descends — ɗan "son"</text>
+<text x="240" y="432" text-anchor="middle" class="Ls" >Distinguished from plain b/d by direction of airflow: implosives pull air in rather than push out.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 29 · HAUSA · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

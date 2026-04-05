@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SOMALI — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 32A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SOMALI — CUSHITIC · ~25 MILLION SPEAKERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Somali is a Cushitic language (Afroasiatic family) — related to Oromo, Afar, and distantly to Arabic.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Spoken in Somalia, Djibouti, Ethiopia (Ogaden region), Kenya, and diaspora worldwide.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Official script: Osmanya (traditional) + Latin-based Somali Orthography (official since 1972).</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— OFFICIAL SOMALI LATIN ALPHABET — 26 LETTERS —</text>
+<text x="240" y="125" text-anchor="middle" class="Ls" >The 1972 standardised Somali orthography uses 26 Latin letters with NO diacritics.</text>
+<text x="240" y="134" text-anchor="middle" class="Ls" >All sounds represented by plain letters or digraphs. Tones NOT marked in standard orthography.</text>
+<text x="30" y="144" text-anchor="middle" class="Lx" >A a</text>
+<text x="90" y="144" text-anchor="middle" class="Lx" >/aː/</text>
+<text x="175" y="144" text-anchor="middle" class="Lx" >long or short a</text>
+<text x="30" y="154" text-anchor="middle" class="Lx" >B b</text>
+<text x="90" y="154" text-anchor="middle" class="Lx" >/b/</text>
+<text x="175" y="154" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="30" y="164" text-anchor="middle" class="Lx" >C c</text>
+<text x="90" y="164" text-anchor="middle" class="Lx" >/ʿ/</text>
+<text x="175" y="164" text-anchor="middle" class="Lx" >pharyngeal fricative (NOT /k/)</text>
+<text x="30" y="174" text-anchor="middle" class="Lx" >D d</text>
+<text x="90" y="174" text-anchor="middle" class="Lx" >/d/</text>
+<text x="175" y="174" text-anchor="middle" class="Lx" >alveolar stop (retroflex in some dialects)</text>
+<text x="30" y="184" text-anchor="middle" class="Lx" >DH dh</text>
+<text x="90" y="184" text-anchor="middle" class="Lx" >/ɖ/</text>
+<text x="175" y="184" text-anchor="middle" class="Lx" >retroflex d</text>
+<text x="30" y="194" text-anchor="middle" class="Lx" >E e</text>
+<text x="90" y="194" text-anchor="middle" class="Lx" >/eː/</text>
+<text x="175" y="194" text-anchor="middle" class="Lx" >mid front</text>
+<text x="30" y="204" text-anchor="middle" class="Lx" >F f</text>
+<text x="90" y="204" text-anchor="middle" class="Lx" >/f/</text>
+<text x="175" y="204" text-anchor="middle" class="Lx" >labiodental</text>
+<text x="30" y="214" text-anchor="middle" class="Lx" >G g</text>
+<text x="90" y="214" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="175" y="214" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="30" y="224" text-anchor="middle" class="Lx" >H h</text>
+<text x="90" y="224" text-anchor="middle" class="Lx" >/h/</text>
+<text x="175" y="224" text-anchor="middle" class="Lx" >glottal</text>
+<text x="30" y="234" text-anchor="middle" class="Lx" >I i</text>
+<text x="90" y="234" text-anchor="middle" class="Lx" >/iː/</text>
+<text x="175" y="234" text-anchor="middle" class="Lx" >high front</text>
+<text x="30" y="244" text-anchor="middle" class="Lx" >J j</text>
+<text x="90" y="244" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="175" y="244" text-anchor="middle" class="Lx" >affricate</text>
+<text x="30" y="254" text-anchor="middle" class="Lx" >K k</text>
+<text x="90" y="254" text-anchor="middle" class="Lx" >/k/</text>
+<text x="175" y="254" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="30" y="264" text-anchor="middle" class="Lx" >KH kh</text>
+<text x="90" y="264" text-anchor="middle" class="Lx" >/x/</text>
+<text x="175" y="264" text-anchor="middle" class="Lx" >velar fricative — like German Bach</text>
+<text x="30" y="274" text-anchor="middle" class="Lx" >L l</text>
+<text x="90" y="274" text-anchor="middle" class="Lx" >/l/</text>
+<text x="175" y="274" text-anchor="middle" class="Lx" >lateral</text>
+<text x="260" y="144" text-anchor="middle" class="Lx" >M m</text>
+<text x="315" y="144" text-anchor="middle" class="Lx" >/m/</text>
+<text x="395" y="144" text-anchor="middle" class="Lx" >nasal</text>
+<text x="260" y="154" text-anchor="middle" class="Lx" >N n</text>
+<text x="315" y="154" text-anchor="middle" class="Lx" >/n/</text>
+<text x="395" y="154" text-anchor="middle" class="Lx" >nasal</text>
+<text x="260" y="164" text-anchor="middle" class="Lx" >O o</text>
+<text x="315" y="164" text-anchor="middle" class="Lx" >/oː/</text>
+<text x="395" y="164" text-anchor="middle" class="Lx" >mid back</text>
+<text x="260" y="174" text-anchor="middle" class="Lx" >Q q</text>
+<text x="315" y="174" text-anchor="middle" class="Lx" >/q/</text>
+<text x="395" y="174" text-anchor="middle" class="Lx" >uvular stop — deeper than k</text>
+<text x="260" y="184" text-anchor="middle" class="Lx" >R r</text>
+<text x="315" y="184" text-anchor="middle" class="Lx" >/r/</text>
+<text x="395" y="184" text-anchor="middle" class="Lx" >alveolar trill / flap</text>
+<text x="260" y="194" text-anchor="middle" class="Lx" >S s</text>
+<text x="315" y="194" text-anchor="middle" class="Lx" >/s/</text>
+<text x="395" y="194" text-anchor="middle" class="Lx" >alveolar fricative</text>
+<text x="260" y="204" text-anchor="middle" class="Lx" >SH sh</text>
+<text x="315" y="204" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="395" y="204" text-anchor="middle" class="Lx" >palatal fricative</text>
+<text x="260" y="214" text-anchor="middle" class="Lx" >T t</text>
+<text x="315" y="214" text-anchor="middle" class="Lx" >/t/</text>
+<text x="395" y="214" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="260" y="224" text-anchor="middle" class="Lx" >U u</text>
+<text x="315" y="224" text-anchor="middle" class="Lx" >/uː/</text>
+<text x="395" y="224" text-anchor="middle" class="Lx" >high back</text>
+<text x="260" y="234" text-anchor="middle" class="Lx" >W w</text>
+<text x="315" y="234" text-anchor="middle" class="Lx" >/w/</text>
+<text x="395" y="234" text-anchor="middle" class="Lx" >glide</text>
+<text x="260" y="244" text-anchor="middle" class="Lx" >X x</text>
+<text x="315" y="244" text-anchor="middle" class="Lx" >/ħ/</text>
+<text x="395" y="244" text-anchor="middle" class="Lx" >pharyngeal fricative (like Arabic H)</text>
+<text x="260" y="254" text-anchor="middle" class="Lx" >Y y</text>
+<text x="315" y="254" text-anchor="middle" class="Lx" >/j/</text>
+<text x="395" y="254" text-anchor="middle" class="Lx" >palatal glide</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="black" stroke-width="0.3"/>
+<text x="240" y="300" text-anchor="middle" class="H" >— PHARYNGEAL AND UVULAR CONSONANTS —</text>
+<text x="240" y="311" text-anchor="middle" class="Ls" >C = /ʿ/ pharyngeal approximant (voiced). Found in Semitic/Cushitic — like Arabic ʾayn.</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >X = /ħ/ pharyngeal fricative (voiceless). Like Arabic H with friction. cayn vs xayn.</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >Q = /q/ uvular stop — further back in the throat than /k/: qof (person), qalbi (heart).</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >DH = /ɖ/ retroflex d — tongue tip curled back: dhul (land), dhowr (several).</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="355" text-anchor="middle" class="H" >— OSMANYA SCRIPT — TRADITIONAL SOMALI WRITING —</text>
+<text x="240" y="366" text-anchor="middle" class="Ls" >Osmanya script: invented 1920s by Osman Yusuf Kenadid. 22 letters, left to right. Unicode block U+10480.</text>
+<text x="240" y="375" text-anchor="middle" class="Ls" >Used for Somali before 1972 standardisation. Still used in some communities and Unicode (U+10480).</text>
+<text x="240" y="384" text-anchor="middle" class="Ls" >Other historical scripts: Wadaad (Arabic-based Ajami), Borama, Kaddare — all pre-1972.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 32 · SOMALI · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >AMHARIC — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 31B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SEMITIC PHONOLOGY — EJECTIVES AND PHARYNGEALS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Amharic is a Semitic language (with Ethiopian Cushitic influence). Notable for ejective and pharyngeal consonants.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Ejectives: produced with glottalic airstream — simultaneous glottal and oral closure, then burst.</text>
+<line x1="20" y1="97" x2="460" y2="97" stroke="black" stroke-width="0.3"/>
+<text x="240" y="106" text-anchor="middle" class="H" >— VOWEL SYSTEM — 7 VOWELS —</text>
+<text x="55" y="116" text-anchor="middle" class="Lx" >/ə/</text>
+<text x="130" y="116" text-anchor="middle" class="Lx" >1st order</text>
+<text x="330" y="116" text-anchor="middle" class="Lx" >central mid: like English "about" — most common vowel</text>
+<text x="55" y="128" text-anchor="middle" class="Lx" >/u/</text>
+<text x="130" y="128" text-anchor="middle" class="Lx" >2nd order</text>
+<text x="330" y="128" text-anchor="middle" class="Lx" >high back rounded: like "boot"</text>
+<text x="55" y="140" text-anchor="middle" class="Lx" >/i/</text>
+<text x="130" y="140" text-anchor="middle" class="Lx" >3rd order</text>
+<text x="330" y="140" text-anchor="middle" class="Lx" >high front: like "see"</text>
+<text x="55" y="152" text-anchor="middle" class="Lx" >/a/</text>
+<text x="130" y="152" text-anchor="middle" class="Lx" >4th order</text>
+<text x="330" y="152" text-anchor="middle" class="Lx" >low central: like "father"</text>
+<text x="55" y="164" text-anchor="middle" class="Lx" >/e/</text>
+<text x="130" y="164" text-anchor="middle" class="Lx" >5th order</text>
+<text x="330" y="164" text-anchor="middle" class="Lx" >mid front: like "bed"</text>
+<text x="55" y="176" text-anchor="middle" class="Lx" >/ɨ/</text>
+<text x="130" y="176" text-anchor="middle" class="Lx" >6th order</text>
+<text x="330" y="176" text-anchor="middle" class="Lx" >high central: "pure" consonant-adjacent schwa</text>
+<text x="55" y="188" text-anchor="middle" class="Lx" >/o/</text>
+<text x="130" y="188" text-anchor="middle" class="Lx" >7th order</text>
+<text x="330" y="188" text-anchor="middle" class="Lx" >mid back rounded: like "go"</text>
+<line x1="20" y1="204" x2="460" y2="204" stroke="black" stroke-width="0.3"/>
+<text x="240" y="213" text-anchor="middle" class="H" >— CONSONANT INVENTORY — EJECTIVES AND PHARYNGEALS —</text>
+<text x="50" y="223" text-anchor="middle" class="Lx" >p b</text>
+<text x="130" y="223" text-anchor="middle" class="Lx" >plain bilabial stops</text>
+<text x="330" y="223" text-anchor="middle" class="Lx" >/p/ rare; /b/ common</text>
+<text x="50" y="234" text-anchor="middle" class="Lx" >p'</text>
+<text x="130" y="234" text-anchor="middle" class="Lx" >/pʼ/ ejective</text>
+<text x="330" y="234" text-anchor="middle" class="Lx" >glottalic burst: rare in Amharic</text>
+<text x="50" y="245" text-anchor="middle" class="Lx" >t d</text>
+<text x="130" y="245" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="330" y="245" text-anchor="middle" class="Lx" >dental-alveolar</text>
+<text x="50" y="256" text-anchor="middle" class="Lx" >t'</text>
+<text x="130" y="256" text-anchor="middle" class="Lx" >/tʼ/ ejective</text>
+<text x="330" y="256" text-anchor="middle" class="Lx" >ታ — frequent in Amharic</text>
+<text x="50" y="267" text-anchor="middle" class="Lx" >k g</text>
+<text x="130" y="267" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="330" y="267" text-anchor="middle" class="Lx" >common</text>
+<text x="50" y="278" text-anchor="middle" class="Lx" >k'</text>
+<text x="130" y="278" text-anchor="middle" class="Lx" >/kʼ/ ejective</text>
+<text x="330" y="278" text-anchor="middle" class="Lx" >ካ — very common: k'al (word)</text>
+<text x="50" y="289" text-anchor="middle" class="Lx" >ts dz</text>
+<text x="130" y="289" text-anchor="middle" class="Lx" >affricates</text>
+<text x="330" y="289" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="50" y="300" text-anchor="middle" class="Lx" >ts'</text>
+<text x="130" y="300" text-anchor="middle" class="Lx" >/tsʼ/ ejective</text>
+<text x="330" y="300" text-anchor="middle" class="Lx" >ጸ — common</text>
+<text x="50" y="311" text-anchor="middle" class="Lx" >ch j</text>
+<text x="130" y="311" text-anchor="middle" class="Lx" >palatal affricate</text>
+<text x="330" y="311" text-anchor="middle" class="Lx" >/tʃ/ /dʒ/</text>
+<text x="50" y="322" text-anchor="middle" class="Lx" >ch'</text>
+<text x="130" y="322" text-anchor="middle" class="Lx" >/tʃʼ/ ejective</text>
+<text x="330" y="322" text-anchor="middle" class="Lx" >ች — ejective palatal</text>
+<text x="50" y="333" text-anchor="middle" class="Lx" >f s z sh</text>
+<text x="130" y="333" text-anchor="middle" class="Lx" >fricatives</text>
+<text x="330" y="333" text-anchor="middle" class="Lx" >labiodental, alveolar, palatal</text>
+<text x="50" y="344" text-anchor="middle" class="Lx" >ʿ ʾ</text>
+<text x="130" y="344" text-anchor="middle" class="Lx" >/ʿ ʾ/</text>
+<text x="330" y="344" text-anchor="middle" class="Lx" >pharyngeal fricatives — Semitic heritage</text>
+<text x="50" y="355" text-anchor="middle" class="Lx" >h H</text>
+<text x="130" y="355" text-anchor="middle" class="Lx" >glottal / pharyngeal</text>
+<text x="330" y="355" text-anchor="middle" class="Lx" >two distinct h sounds</text>
+<text x="50" y="366" text-anchor="middle" class="Lx" >m n</text>
+<text x="130" y="366" text-anchor="middle" class="Lx" >nasals</text>
+<text x="330" y="366" text-anchor="middle" class="Lx" >bilabial, alveolar</text>
+<text x="50" y="377" text-anchor="middle" class="Lx" >l r</text>
+<text x="130" y="377" text-anchor="middle" class="Lx" >lateral / rhotic</text>
+<text x="330" y="377" text-anchor="middle" class="Lx" ></text>
+<text x="50" y="388" text-anchor="middle" class="Lx" >w y</text>
+<text x="130" y="388" text-anchor="middle" class="Lx" >glides</text>
+<text x="330" y="388" text-anchor="middle" class="Lx" ></text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="411" text-anchor="middle" class="H" >— GEMINATION — CONSONANT LENGTH IS PHONEMIC —</text>
+<text x="240" y="422" text-anchor="middle" class="L" >Amharic distinguishes single and geminate (doubled) consonants: a key Semitic feature.</text>
+<text x="240" y="432" text-anchor="middle" class="Ls" >ተባበ (tebabe) "wrapped" vs ተባባበ (tebabbet) "wrapped intensely" — the double b changes meaning.</text>
+<text x="240" y="441" text-anchor="middle" class="Ls" >Gemination in Amharic also marks verb-object agreement: yə-səma (he hears) vs yə-ssəməʾ (he listens).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 31 · AMHARIC · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

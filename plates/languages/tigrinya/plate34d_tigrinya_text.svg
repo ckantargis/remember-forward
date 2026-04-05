@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TIGRINYA — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 34D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — ERITREAN PROVERB —</text>
+<text x="240" y="79" text-anchor="middle" class="La" >የዐ ቙ቱ ወደ ዙሃ ይትኖኘ ኡለም።</text>
+<text x="240" y="92" text-anchor="middle" class="Lx" >yəha qɨtɨ wədə zɨhəa yətnəbib aləm.</text>
+<text x="240" y="101" text-anchor="middle" class="Lx" >The person who goes toward the light does not stumble.</text>
+<text x="240" y="110" text-anchor="middle" class="Ls" >"The one who walks toward the light does not stumble."</text>
+<line x1="20" y1="118" x2="460" y2="118" stroke="black" stroke-width="0.3"/>
+<text x="240" y="126" text-anchor="middle" class="H" >— PASSAGE 2 — TIGRINYA PROVERB —</text>
+<text x="240" y="138" text-anchor="middle" class="Las" >ዘይን ዐይን እንተው ኪትክለተ ካዓይ ብዘዓ ኣተዋ።</text>
+<text x="240" y="151" text-anchor="middle" class="Lx" >That which you do not speak, even the wisest person does not know.</text>
+<text x="240" y="160" text-anchor="middle" class="Ls" >"What you do not say, even the wise do not know." — Speak your needs.</text>
+<line x1="20" y1="168" x2="460" y2="168" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="188" text-anchor="middle" class="Las" >ይህ መሰዘቲ ገይርነ ብጣዘከት ብወጨ ዘየመፀደመታ ዘኰካዱ ።</text>
+<text x="240" y="201" text-anchor="middle" class="Lx" >Yəh məsəzətɨ gəyrənə bɨtatəzəkət bɨwəqɨ zəyəməqədəməta zəwəkadɨ.</text>
+<text x="240" y="211" text-anchor="middle" class="Lx" >This message for-you freely by-those who-the-future remembered.</text>
+<text x="240" y="221" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="black" stroke-width="0.3"/>
+<text x="240" y="238" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN TIGRINYA —</text>
+<text x="240" y="249" text-anchor="middle" class="L" >መፀደመታ (məqədəməta): "future / ahead" — from qədəmə (to precede / to go before).</text>
+<text x="240" y="259" text-anchor="middle" class="Ls" >Literally "the preceding-ness" — the future as what stands ahead and goes before us.</text>
+<text x="240" y="268" text-anchor="middle" class="Ls" >ዘኰካዱ (zəwəkadɨ): "remembered" — from root w-k-d / z-k-r (to remember, to be mindful).</text>
+<text x="240" y="277" text-anchor="middle" class="Ls" >ብወጨ (bɨwəqɨ): "freely / for free" — literally "without price".</text>
+<line x1="20" y1="285" x2="460" y2="285" stroke="black" stroke-width="0.3"/>
+<text x="240" y="294" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="305" text-anchor="middle" class="Ls" >Tigrinya is the official language of Eritrea and the dominant language of the Tigray region of Ethiopia.</text>
+<text x="240" y="314" text-anchor="middle" class="Ls" >~10 million speakers total. Written in the Ethiopic (Fidel) script — same as Amharic (Plate 31A).</text>
+<text x="240" y="323" text-anchor="middle" class="Ls" >Tigrinya is a Semitic language (Afroasiatic) — related to Arabic, Amharic, Hebrew, and Ge'ez.</text>
+<text x="240" y="332" text-anchor="middle" class="Ls" >Ge'ez (Classical Ethiopic) is the liturgical ancestor of Tigrinya, still used in church services.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 34 · TIGRINYA · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

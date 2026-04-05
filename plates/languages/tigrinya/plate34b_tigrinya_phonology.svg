@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TIGRINYA — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 34B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SEMITIC PHONOLOGY — EJECTIVES AND PHARYNGEALS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Tigrinya shares the Semitic ejective and pharyngeal consonant inventory with Amharic and Arabic.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Ejectives: tʼ kʼ tsʼ qʼ — produced with glottalic (inward) airstream.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Pharyngeals: /ʿ/ (voiced) and /ħ/ or /H/ (voiceless) — produced in the pharynx, behind the tongue root.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VOWEL SYSTEM — 7 VOWELS (SAME AS AMHARIC) —</text>
+<text x="55" y="125" text-anchor="middle" class="Lx" >/ə/</text>
+<text x="105" y="125" text-anchor="middle" class="Lx" >1st</text>
+<text x="310" y="125" text-anchor="middle" class="Lx" >central mid — most common, like "about"</text>
+<text x="55" y="137" text-anchor="middle" class="Lx" >/u/</text>
+<text x="105" y="137" text-anchor="middle" class="Lx" >2nd</text>
+<text x="310" y="137" text-anchor="middle" class="Lx" >high back rounded: like "boot"</text>
+<text x="55" y="149" text-anchor="middle" class="Lx" >/i/</text>
+<text x="105" y="149" text-anchor="middle" class="Lx" >3rd</text>
+<text x="310" y="149" text-anchor="middle" class="Lx" >high front: like "see"</text>
+<text x="55" y="161" text-anchor="middle" class="Lx" >/a/</text>
+<text x="105" y="161" text-anchor="middle" class="Lx" >4th</text>
+<text x="310" y="161" text-anchor="middle" class="Lx" >low central: like "father"</text>
+<text x="55" y="173" text-anchor="middle" class="Lx" >/e/</text>
+<text x="105" y="173" text-anchor="middle" class="Lx" >5th</text>
+<text x="310" y="173" text-anchor="middle" class="Lx" >mid front: like "bed"</text>
+<text x="55" y="185" text-anchor="middle" class="Lx" >/ɨ/</text>
+<text x="105" y="185" text-anchor="middle" class="Lx" >6th</text>
+<text x="310" y="185" text-anchor="middle" class="Lx" >high central: short vowel adjacent to consonant</text>
+<text x="55" y="197" text-anchor="middle" class="Lx" >/o/</text>
+<text x="105" y="197" text-anchor="middle" class="Lx" >7th</text>
+<text x="310" y="197" text-anchor="middle" class="Lx" >mid back: like "go"</text>
+<line x1="20" y1="213" x2="460" y2="213" stroke="black" stroke-width="0.3"/>
+<text x="240" y="222" text-anchor="middle" class="H" >— KEY DIFFERENCES FROM AMHARIC PHONOLOGY —</text>
+<text x="75" y="232" text-anchor="middle" class="Lx" >Pharyngeals</text>
+<text x="240" y="232" text-anchor="middle" class="Lx" >Tigrinya PRESERVES /ʿ/ and /ħ/</text>
+<text x="400" y="232" text-anchor="middle" class="Lx" >Amharic has largely merged/lost them</text>
+<text x="75" y="246" text-anchor="middle" class="Lx" >Labialisation</text>
+<text x="240" y="246" text-anchor="middle" class="Lx" >tʷ dʷ kʷ series present in Tigrinya</text>
+<text x="400" y="246" text-anchor="middle" class="Lx" >less prominent in Amharic</text>
+<text x="75" y="260" text-anchor="middle" class="Lx" >Gemination</text>
+<text x="240" y="260" text-anchor="middle" class="Lx" >Both use consonant length as phonemic</text>
+<text x="400" y="260" text-anchor="middle" class="Lx" >same system, different distributions</text>
+<text x="75" y="274" text-anchor="middle" class="Lx" >Ejectives</text>
+<text x="240" y="274" text-anchor="middle" class="Lx" >Both have tʼ kʼ tsʼ qʼ</text>
+<text x="400" y="274" text-anchor="middle" class="Lx" >Tigrinya qʼ is more common</text>
+<text x="75" y="288" text-anchor="middle" class="Lx" >Tones</text>
+<text x="240" y="288" text-anchor="middle" class="Lx" >Neither Tigrinya nor Amharic is tonal</text>
+<text x="400" y="288" text-anchor="middle" class="Lx" >unlike many neighboring Cushitic languages</text>
+<line x1="20" y1="306" x2="460" y2="306" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H" >— GEMINATION —</text>
+<text x="240" y="326" text-anchor="middle" class="L" >Tigrinya has phonemic consonant length (gemination) — doubled consonants change meaning.</text>
+<text x="240" y="336" text-anchor="middle" class="Ls" >təbelə "he hit" vs təbbelə "he fought" — double b = intensive/reciprocal meaning.</text>
+<text x="240" y="345" text-anchor="middle" class="Ls" >In Tigrinya, gemination is used systematically to form verb stems and derivational patterns.</text>
+<line x1="20" y1="353" x2="460" y2="353" stroke="black" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE —</text>
+<text x="240" y="373" text-anchor="middle" class="Ls" >Tigrinya syllables: CV, CVC, CVCC. Clusters possible in codas.</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Epenthetic ə: inserted to break up otherwise illegal consonant clusters.</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Word stress: generally on the penultimate syllable; varies with verb morphology.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 34 · TIGRINYA · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

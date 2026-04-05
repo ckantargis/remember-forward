@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LINGALA — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 33B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— VOWEL SYSTEM — 7 VOWELS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Lingala has 7 vowel phonemes, including the open-mid vowels /ɛ/ and /ɔ/.</text>
+<text x="55" y="89" text-anchor="middle" class="Lx" >/i/</text>
+<text x="110" y="89" text-anchor="middle" class="Lx" >i</text>
+<text x="320" y="89" text-anchor="middle" class="Lx" >high front: mibé (two)</text>
+<text x="55" y="101" text-anchor="middle" class="Lx" >/e/</text>
+<text x="110" y="101" text-anchor="middle" class="Lx" >e</text>
+<text x="320" y="101" text-anchor="middle" class="Lx" >mid front close: bekà (goat)</text>
+<text x="55" y="113" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="110" y="113" text-anchor="middle" class="Lx" >e-open (Ɛ)</text>
+<text x="320" y="113" text-anchor="middle" class="Lx" >mid front open: bƐtɐ (arm)</text>
+<text x="55" y="125" text-anchor="middle" class="Lx" >/a/</text>
+<text x="110" y="125" text-anchor="middle" class="Lx" >a</text>
+<text x="320" y="125" text-anchor="middle" class="Lx" >low central: balé (war)</text>
+<text x="55" y="137" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="110" y="137" text-anchor="middle" class="Lx" >o-open (Ɔ)</text>
+<text x="320" y="137" text-anchor="middle" class="Lx" >mid back open: lɔkɔ (tail)</text>
+<text x="55" y="149" text-anchor="middle" class="Lx" >/o/</text>
+<text x="110" y="149" text-anchor="middle" class="Lx" >o</text>
+<text x="320" y="149" text-anchor="middle" class="Lx" >mid back close: motó (head)</text>
+<text x="55" y="161" text-anchor="middle" class="Lx" >/u/</text>
+<text x="110" y="161" text-anchor="middle" class="Lx" >u</text>
+<text x="320" y="161" text-anchor="middle" class="Lx" >high back: mokóló (elder)</text>
+<line x1="20" y1="183" x2="460" y2="183" stroke="black" stroke-width="0.3"/>
+<text x="240" y="192" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="55" y="202" text-anchor="middle" class="Ls" >p b</text>
+<text x="120" y="202" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="310" y="202" text-anchor="middle" class="Lx" >common</text>
+<text x="55" y="214" text-anchor="middle" class="Ls" >t d</text>
+<text x="120" y="214" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="310" y="214" text-anchor="middle" class="Lx" >dental-alveolar</text>
+<text x="55" y="226" text-anchor="middle" class="Ls" >k g</text>
+<text x="120" y="226" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="310" y="226" text-anchor="middle" class="Lx" >common</text>
+<text x="55" y="238" text-anchor="middle" class="Ls" >f v</text>
+<text x="120" y="238" text-anchor="middle" class="Lx" >labiodentals</text>
+<text x="310" y="238" text-anchor="middle" class="Lx" >present in urban/adapted words</text>
+<text x="55" y="250" text-anchor="middle" class="Ls" >s z</text>
+<text x="120" y="250" text-anchor="middle" class="Lx" >alveolar fricatives</text>
+<text x="310" y="250" text-anchor="middle" class="Lx" >common</text>
+<text x="55" y="262" text-anchor="middle" class="Ls" >m n</text>
+<text x="120" y="262" text-anchor="middle" class="Lx" >nasals</text>
+<text x="310" y="262" text-anchor="middle" class="Lx" >bilabial, alveolar</text>
+<text x="55" y="274" text-anchor="middle" class="Ls" >ng</text>
+<text x="120" y="274" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="310" y="274" text-anchor="middle" class="Lx" >velar nasal: ngai (I)</text>
+<text x="55" y="286" text-anchor="middle" class="Ls" >ny</text>
+<text x="120" y="286" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="310" y="286" text-anchor="middle" class="Lx" >palatal nasal: nyama (animal/meat)</text>
+<text x="55" y="298" text-anchor="middle" class="Ls" >l r</text>
+<text x="120" y="298" text-anchor="middle" class="Lx" >lateral / rhotic</text>
+<text x="310" y="298" text-anchor="middle" class="Lx" >tap in many dialects</text>
+<text x="55" y="310" text-anchor="middle" class="Ls" >w y</text>
+<text x="120" y="310" text-anchor="middle" class="Lx" >glides</text>
+<text x="310" y="310" text-anchor="middle" class="Lx" >common</text>
+<line x1="20" y1="326" x2="460" y2="326" stroke="black" stroke-width="0.3"/>
+<text x="240" y="335" text-anchor="middle" class="H" >— TONE IN LINGALA —</text>
+<text x="240" y="346" text-anchor="middle" class="Ls" >High tone (H): marked with acute accent in formal writing: motó (head).</text>
+<text x="240" y="355" text-anchor="middle" class="Ls" >Low tone (L): unmarked or marked with grave: môto (person).</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Tone affects meaning, grammatical role, and verb tense/aspect distinctions.</text>
+<text x="120" y="374" text-anchor="middle" class="Ls" >motó (H-H)</text>
+<text x="330" y="374" text-anchor="middle" class="Lx" >head</text>
+<text x="120" y="385" text-anchor="middle" class="Ls" >môto (L-H)</text>
+<text x="330" y="385" text-anchor="middle" class="Lx" >person</text>
+<text x="120" y="396" text-anchor="middle" class="Ls" >nalà (H-L)</text>
+<text x="330" y="396" text-anchor="middle" class="Lx" >I have (pres)</text>
+<text x="120" y="407" text-anchor="middle" class="Ls" >ókoséngeli (verb H)</text>
+<text x="330" y="407" text-anchor="middle" class="Lx" >he should help</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 33 · LINGALA · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

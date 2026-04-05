@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >YORUBA — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 30A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— YORUBA — NIGER-CONGO · ~45 MILLION SPEAKERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Yoruba is a Niger-Congo (Volta-Niger branch) language spoken in Nigeria, Benin, and Togo.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >One of the three major languages of Nigeria alongside Hausa and Igbo.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Also the liturgical language of the Candomble and Lucumi/Santeria traditions of the Americas.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— THE YORUBA ALPHABET — 25 LETTERS —</text>
+<text x="240" y="125" text-anchor="middle" class="Ls" >Standard Yoruba uses 25 Latin letters. Three additional vowels: e-dot (ẹ), o-dot (ọot), s-dot (ṣ).</text>
+<text x="35" y="135" text-anchor="middle" class="Lx" >A a</text>
+<text x="100" y="135" text-anchor="middle" class="Lx" >/a/</text>
+<text x="200" y="135" text-anchor="middle" class="Lx" >open low</text>
+<text x="35" y="145" text-anchor="middle" class="Lx" >B b</text>
+<text x="100" y="145" text-anchor="middle" class="Lx" >/b/</text>
+<text x="200" y="145" text-anchor="middle" class="Lx" >bilabial</text>
+<text x="35" y="155" text-anchor="middle" class="Lx" >D d</text>
+<text x="100" y="155" text-anchor="middle" class="Lx" >/d/</text>
+<text x="200" y="155" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="35" y="165" text-anchor="middle" class="Lx" >E e</text>
+<text x="100" y="165" text-anchor="middle" class="Lx" >/e/</text>
+<text x="200" y="165" text-anchor="middle" class="Lx" >mid front close</text>
+<text x="35" y="175" text-anchor="middle" class="Lx" >ẹ ẹ</text>
+<text x="100" y="175" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="200" y="175" text-anchor="middle" class="Lx" >mid front open: ẹyẹ (language)</text>
+<text x="35" y="185" text-anchor="middle" class="Lx" >F f</text>
+<text x="100" y="185" text-anchor="middle" class="Lx" >/f/</text>
+<text x="200" y="185" text-anchor="middle" class="Lx" >labiodental</text>
+<text x="35" y="195" text-anchor="middle" class="Lx" >G g</text>
+<text x="100" y="195" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="200" y="195" text-anchor="middle" class="Lx" >velar</text>
+<text x="35" y="205" text-anchor="middle" class="Lx" >Gb gb</text>
+<text x="100" y="205" text-anchor="middle" class="Lx" >/ɡɓ/</text>
+<text x="200" y="205" text-anchor="middle" class="Lx" >labial-velar stop (unique!)</text>
+<text x="35" y="215" text-anchor="middle" class="Lx" >H h</text>
+<text x="100" y="215" text-anchor="middle" class="Lx" >/h/</text>
+<text x="200" y="215" text-anchor="middle" class="Lx" >glottal</text>
+<text x="35" y="225" text-anchor="middle" class="Lx" >I i</text>
+<text x="100" y="225" text-anchor="middle" class="Lx" >/i/</text>
+<text x="200" y="225" text-anchor="middle" class="Lx" >high front</text>
+<text x="35" y="235" text-anchor="middle" class="Lx" >J j</text>
+<text x="100" y="235" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="200" y="235" text-anchor="middle" class="Lx" >affricate</text>
+<text x="35" y="245" text-anchor="middle" class="Lx" >K k</text>
+<text x="100" y="245" text-anchor="middle" class="Lx" >/k/</text>
+<text x="200" y="245" text-anchor="middle" class="Lx" >velar</text>
+<text x="35" y="255" text-anchor="middle" class="Lx" >L l</text>
+<text x="100" y="255" text-anchor="middle" class="Lx" >/l/</text>
+<text x="200" y="255" text-anchor="middle" class="Lx" >lateral</text>
+<text x="255" y="135" text-anchor="middle" class="Lx" >M m</text>
+<text x="320" y="135" text-anchor="middle" class="Lx" >/m/</text>
+<text x="420" y="135" text-anchor="middle" class="Lx" >nasal</text>
+<text x="255" y="145" text-anchor="middle" class="Lx" >N n</text>
+<text x="320" y="145" text-anchor="middle" class="Lx" >/n/</text>
+<text x="420" y="145" text-anchor="middle" class="Lx" >nasal</text>
+<text x="255" y="155" text-anchor="middle" class="Lx" >O o</text>
+<text x="320" y="155" text-anchor="middle" class="Lx" >/o/</text>
+<text x="420" y="155" text-anchor="middle" class="Lx" >mid back close</text>
+<text x="255" y="165" text-anchor="middle" class="Lx" >ọ ọ</text>
+<text x="320" y="165" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="420" y="165" text-anchor="middle" class="Lx" >mid back open: ọ̀run (heaven)</text>
+<text x="255" y="175" text-anchor="middle" class="Lx" >P p</text>
+<text x="320" y="175" text-anchor="middle" class="Lx" >/kɓ/</text>
+<text x="420" y="175" text-anchor="middle" class="Lx" >labial-velar ejective (unique!)</text>
+<text x="255" y="185" text-anchor="middle" class="Lx" >R r</text>
+<text x="320" y="185" text-anchor="middle" class="Lx" >/r/</text>
+<text x="420" y="185" text-anchor="middle" class="Lx" >alveolar tap</text>
+<text x="255" y="195" text-anchor="middle" class="Lx" >S s</text>
+<text x="320" y="195" text-anchor="middle" class="Lx" >/s/</text>
+<text x="420" y="195" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="255" y="205" text-anchor="middle" class="Lx" >ṣ ṣ</text>
+<text x="320" y="205" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="420" y="205" text-anchor="middle" class="Lx" >palatal frict.: ṣẹ (money)</text>
+<text x="255" y="215" text-anchor="middle" class="Lx" >T t</text>
+<text x="320" y="215" text-anchor="middle" class="Lx" >/t/</text>
+<text x="420" y="215" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="255" y="225" text-anchor="middle" class="Lx" >U u</text>
+<text x="320" y="225" text-anchor="middle" class="Lx" >/u/</text>
+<text x="420" y="225" text-anchor="middle" class="Lx" >high back</text>
+<text x="255" y="235" text-anchor="middle" class="Lx" >W w</text>
+<text x="320" y="235" text-anchor="middle" class="Lx" >/w/</text>
+<text x="420" y="235" text-anchor="middle" class="Lx" >glide</text>
+<text x="255" y="245" text-anchor="middle" class="Lx" >Y y</text>
+<text x="320" y="245" text-anchor="middle" class="Lx" >/j/</text>
+<text x="420" y="245" text-anchor="middle" class="Lx" >glide</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="281" text-anchor="middle" class="H" >— THREE-TONE SYSTEM — HIGH, MID, LOW —</text>
+<text x="240" y="292" text-anchor="middle" class="L" >Yoruba has THREE tones: High (´), Mid (unmarked), Low (`). Tone is phonemic.</text>
+<text x="240" y="302" text-anchor="middle" class="Ls" >High: àrá (thunder) · Mid: ara (body) · Low: àrà (saw/tool)</text>
+<text x="240" y="311" text-anchor="middle" class="Ls" >Tones are marked with diacritics in standard orthography: acute=H, grave=L, unmarked=M.</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >Tonal downstep: a sequence of highs may step down in pitch through a phrase.</text>
+<line x1="20" y1="328" x2="460" y2="328" stroke="black" stroke-width="0.3"/>
+<text x="240" y="337" text-anchor="middle" class="H" >— UNIQUE CONSONANTS: GB AND KP —</text>
+<text x="240" y="348" text-anchor="middle" class="L" >gb = /ɡɓ/ labial-velar: lips and back of tongue close SIMULTANEOUSLY. Not found in European languages.</text>
+<text x="240" y="358" text-anchor="middle" class="Ls" >kp = /kɓ/ or /pʔ/: similar simultaneous closure, voiceless. Also in Igbo, Ewe, and other Niger-Congo languages.</text>
+<text x="240" y="367" text-anchor="middle" class="Ls" >These sounds exist in ~30% of Niger-Congo languages and are essentially absent outside Africa.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 30 · YORUBA · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

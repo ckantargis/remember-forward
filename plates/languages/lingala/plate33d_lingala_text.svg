@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LINGALA — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 33D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — CONGOLESE PROVERB —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >Libanga moko etongi ndako te.</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >Stone   one   builds  house  not.</text>
+<text x="240" y="97" text-anchor="middle" class="Ls" >"One stone does not build a house." — Communal effort is required for any great work.</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="113" text-anchor="middle" class="H" >— PASSAGE 2 — CONGOLESE PROVERB —</text>
+<text x="240" y="124" text-anchor="middle" class="L" >Moto azali moto na nzela ya bato banzó.</text>
+<text x="240" y="134" text-anchor="middle" class="Lx" >Person is   person on  path  of  people other.</text>
+<text x="240" y="143" text-anchor="middle" class="Ls" >"A person is a person through other people." — Parallels Ubuntu philosophy.</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H" >— PASSAGE 3 — LINGALA SONG (SOUKOUS TRADITION) —</text>
+<text x="240" y="170" text-anchor="middle" class="L" >Nakobundisa bolingo na ngai,</text>
+<text x="240" y="180" text-anchor="middle" class="Lx" >I-will-give   love   of  me,</text>
+<text x="240" y="189" text-anchor="middle" class="L" >pona yo, pona biso nyonso.</text>
+<text x="240" y="199" text-anchor="middle" class="Lx" >for  you  for  us   all.</text>
+<text x="240" y="208" text-anchor="middle" class="Ls" >"I will give my love, for you, for all of us." — from the tradition of Congolese rumba.</text>
+<line x1="20" y1="216" x2="460" y2="216" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="236" text-anchor="middle" class="L" >Sango oyo esalami pona yo, na ofele, na bato oyo bakanisaki lobi.</text>
+<text x="240" y="247" text-anchor="middle" class="Lx" >Message this  made    for  you  for free  by  people who  thought-of  tomorrow/future.</text>
+<text x="240" y="257" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who thought of the future."</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN LINGALA —</text>
+<text x="240" y="285" text-anchor="middle" class="L" >lobi: "tomorrow" — also used for "future" in everyday speech.</text>
+<text x="240" y="295" text-anchor="middle" class="Ls" >mikeó: "ahead / in front / future" — from the spatial concept of forward direction.</text>
+<text x="240" y="304" text-anchor="middle" class="Ls" >makanisi: "thoughts / memory / remembrance" — from kokanisa (to think, to recall).</text>
+<text x="240" y="313" text-anchor="middle" class="Ls" >ofele: "free / for free" — from French "au féle" / "gratis". Common in urban Lingala.</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="black" stroke-width="0.3"/>
+<text x="240" y="330" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="341" text-anchor="middle" class="Ls" >Lingala is spoken by ~70 million people (L1+L2) primarily in DRC and Republic of Congo.</text>
+<text x="240" y="350" text-anchor="middle" class="Ls" >It is a Bantu language — related to Swahili, Zulu, Yoruba (distant), and hundreds of other African languages.</text>
+<text x="240" y="359" text-anchor="middle" class="Ls" >Script: Latin-based, left to right. Tones marked with accents in formal writing (see Plate 33A).</text>
+<text x="240" y="368" text-anchor="middle" class="Ls" >Lingala is the language of Congolese soukous and rumba — one of the most influential music traditions in Africa.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 33 · LINGALA · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

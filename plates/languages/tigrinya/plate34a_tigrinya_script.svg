@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TIGRINYA — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 34A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— TIGRINYA — SEMITIC · ~10 MILLION SPEAKERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Tigrinya is a Semitic language (Afroasiatic family), official language of Eritrea, spoken in northern Ethiopia.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >~7 million speakers in Eritrea; ~3 million in Tigray region of Ethiopia.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Written in the same Ethiopic (Fidel) script as Amharic. Related to Ge'ez, Tigre, and Amharic.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— ETHIOPIC SCRIPT (FIDEL) — SHARED WITH AMHARIC —</text>
+<text x="240" y="125" text-anchor="middle" class="Ls" >Same abugida system as Amharic (Plate 31A): each symbol = consonant + vowel order.</text>
+<text x="240" y="134" text-anchor="middle" class="Ls" >7 vowel orders. Tigrinya uses ~276 syllable signs (more than Amharic due to additional consonants).</text>
+<text x="32" y="144" text-anchor="middle" class="Lx" >ə</text>
+<text x="72" y="144" text-anchor="middle" class="Lx" >u</text>
+<text x="108" y="144" text-anchor="middle" class="Lx" >i</text>
+<text x="144" y="144" text-anchor="middle" class="Lx" >a</text>
+<text x="180" y="144" text-anchor="middle" class="Lx" >e</text>
+<text x="216" y="144" text-anchor="middle" class="Lx" >-</text>
+<text x="252" y="144" text-anchor="middle" class="Lx" >o</text>
+<text x="290" y="144" text-anchor="middle" class="Lx" >C</text>
+<text x="32" y="153" text-anchor="middle" class="La" >ሀ</text>
+<text x="72" y="153" text-anchor="middle" class="La" >ሁ</text>
+<text x="108" y="153" text-anchor="middle" class="La" >ሂ</text>
+<text x="144" y="153" text-anchor="middle" class="La" >ሃ</text>
+<text x="180" y="153" text-anchor="middle" class="La" >ሄ</text>
+<text x="216" y="153" text-anchor="middle" class="La" >ህ</text>
+<text x="252" y="153" text-anchor="middle" class="La" >ሆ</text>
+<text x="290" y="153" text-anchor="middle" class="Lx" >h</text>
+<text x="32" y="166" text-anchor="middle" class="La" >ለ</text>
+<text x="72" y="166" text-anchor="middle" class="La" >ሉ</text>
+<text x="108" y="166" text-anchor="middle" class="La" >ሊ</text>
+<text x="144" y="166" text-anchor="middle" class="La" >ላ</text>
+<text x="180" y="166" text-anchor="middle" class="La" >ሌ</text>
+<text x="216" y="166" text-anchor="middle" class="La" >ል</text>
+<text x="252" y="166" text-anchor="middle" class="La" >ሎ</text>
+<text x="290" y="166" text-anchor="middle" class="Lx" >l</text>
+<text x="32" y="179" text-anchor="middle" class="La" >ሐ</text>
+<text x="72" y="179" text-anchor="middle" class="La" >ሑ</text>
+<text x="108" y="179" text-anchor="middle" class="La" >ሒ</text>
+<text x="144" y="179" text-anchor="middle" class="La" >ሓ</text>
+<text x="180" y="179" text-anchor="middle" class="La" >ሔ</text>
+<text x="216" y="179" text-anchor="middle" class="La" >ሕ</text>
+<text x="252" y="179" text-anchor="middle" class="La" >ሖ</text>
+<text x="290" y="179" text-anchor="middle" class="Lx" >H (pharyngeal)</text>
+<text x="32" y="192" text-anchor="middle" class="La" >ሠ</text>
+<text x="72" y="192" text-anchor="middle" class="La" >ሡ</text>
+<text x="108" y="192" text-anchor="middle" class="La" >ሢ</text>
+<text x="144" y="192" text-anchor="middle" class="La" >ሣ</text>
+<text x="180" y="192" text-anchor="middle" class="La" >ሤ</text>
+<text x="216" y="192" text-anchor="middle" class="La" >ሥ</text>
+<text x="252" y="192" text-anchor="middle" class="La" >ሦ</text>
+<text x="290" y="192" text-anchor="middle" class="Lx" >S (emphatic)</text>
+<text x="32" y="205" text-anchor="middle" class="La" >ረ</text>
+<text x="72" y="205" text-anchor="middle" class="La" >ሩ</text>
+<text x="108" y="205" text-anchor="middle" class="La" >ሪ</text>
+<text x="144" y="205" text-anchor="middle" class="La" >ራ</text>
+<text x="180" y="205" text-anchor="middle" class="La" >ሬ</text>
+<text x="216" y="205" text-anchor="middle" class="La" >ር</text>
+<text x="252" y="205" text-anchor="middle" class="La" >ሮ</text>
+<text x="290" y="205" text-anchor="middle" class="Lx" >r</text>
+<text x="32" y="218" text-anchor="middle" class="La" >ሰ</text>
+<text x="72" y="218" text-anchor="middle" class="La" >ሱ</text>
+<text x="108" y="218" text-anchor="middle" class="La" >ሲ</text>
+<text x="144" y="218" text-anchor="middle" class="La" >ሳ</text>
+<text x="180" y="218" text-anchor="middle" class="La" >ሴ</text>
+<text x="216" y="218" text-anchor="middle" class="La" >ስ</text>
+<text x="252" y="218" text-anchor="middle" class="La" >ሶ</text>
+<text x="290" y="218" text-anchor="middle" class="Lx" >s</text>
+<text x="32" y="231" text-anchor="middle" class="La" >ሸ</text>
+<text x="72" y="231" text-anchor="middle" class="La" >ሹ</text>
+<text x="108" y="231" text-anchor="middle" class="La" >ሺ</text>
+<text x="144" y="231" text-anchor="middle" class="La" >ሻ</text>
+<text x="180" y="231" text-anchor="middle" class="La" >ሼ</text>
+<text x="216" y="231" text-anchor="middle" class="La" >ሽ</text>
+<text x="252" y="231" text-anchor="middle" class="La" >ሾ</text>
+<text x="290" y="231" text-anchor="middle" class="Lx" >sh</text>
+<line x1="20" y1="250" x2="460" y2="250" stroke="black" stroke-width="0.3"/>
+<text x="240" y="259" text-anchor="middle" class="H" >— ADDITIONAL TIGRINYA CONSONANTS vs AMHARIC —</text>
+<text x="240" y="270" text-anchor="middle" class="Ls" >Tigrinya preserves some Semitic sounds reduced or absent in Amharic.</text>
+<text x="80" y="280" text-anchor="middle" class="La" >ነንን</text>
+<text x="310" y="280" text-anchor="middle" class="Lx" >nn — geminate nasal common in verb morphology</text>
+<text x="80" y="293" text-anchor="middle" class="La" >ኰኵሊ</text>
+<text x="310" y="293" text-anchor="middle" class="Lx" >ŵəlɨ — labialised consonants: tʷ, dʷ, kʷ (rounded)</text>
+<text x="80" y="306" text-anchor="middle" class="La" >ዐዕዘ</text>
+<text x="310" y="306" text-anchor="middle" class="Lx" >/ʿʾ/ — pharyngeal consonants preserved in Tigrinya</text>
+<text x="80" y="319" text-anchor="middle" class="La" >ፅፀፋ</text>
+<text x="310" y="319" text-anchor="middle" class="Lx" >/tsʼ qʼ fʼ/ — ejective series</text>
+<line x1="20" y1="338" x2="460" y2="338" stroke="black" stroke-width="0.3"/>
+<text x="240" y="347" text-anchor="middle" class="H" >— SCRIPT HISTORY AND STATUS —</text>
+<text x="240" y="358" text-anchor="middle" class="Ls" >Ethiopic script: ~4th century CE, derived from South Arabian (Sabaean) script via ancient Ge'ez.</text>
+<text x="240" y="367" text-anchor="middle" class="Ls" >Tigrinya uses the same script as Amharic but is a distinct language with distinct grammar.</text>
+<text x="240" y="376" text-anchor="middle" class="Ls" >Tigrinya became official language of Eritrea at independence (1993). Equal with Arabic in Eritrean constitution.</text>
+<text x="240" y="385" text-anchor="middle" class="Ls" >In Ethiopia, Tigrinya is the dominant language of the Tigray regional state.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 34 · TIGRINYA · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

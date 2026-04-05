@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SHONA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Shona uses the Latin alphabet. Standard Shona orthography codified 1955 (S.O.I.D.).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >25 letters; no q or x. Digraphs and trigraphs mark complex sounds.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >No diacritics in standard orthography; tone not marked in everyday writing.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— SHONA ALPHABET —</text>
+<text x="60" y="131" text-anchor="middle" class="Lx" >A a /a/</text>
+<text x="155" y="131" text-anchor="middle" class="Lx" >B b /b/</text>
+<text x="250" y="131" text-anchor="middle" class="Lx" >Ch ch /tʃ/</text>
+<text x="345" y="131" text-anchor="middle" class="Lx" >D d /d/</text>
+<text x="60" y="141" text-anchor="middle" class="Lx" >Dz dz /dz/</text>
+<text x="155" y="141" text-anchor="middle" class="Lx" >Dzv dzv /dzv/</text>
+<text x="250" y="141" text-anchor="middle" class="Lx" >E e /ɛ/</text>
+<text x="345" y="141" text-anchor="middle" class="Lx" >F f /f/</text>
+<text x="60" y="151" text-anchor="middle" class="Lx" >G g /ɡ/</text>
+<text x="155" y="151" text-anchor="middle" class="Lx" >H h /h/</text>
+<text x="250" y="151" text-anchor="middle" class="Lx" >I i /i/</text>
+<text x="345" y="151" text-anchor="middle" class="Lx" >J j /dʒ/</text>
+<text x="60" y="161" text-anchor="middle" class="Lx" >K k /k/</text>
+<text x="155" y="161" text-anchor="middle" class="Lx" >M m /m/</text>
+<text x="250" y="161" text-anchor="middle" class="Lx" >N n /n/</text>
+<text x="345" y="161" text-anchor="middle" class="Lx" >Ng ng /ŋ/</text>
+<text x="60" y="171" text-anchor="middle" class="Lx" >Ny ny /ɲ/</text>
+<text x="155" y="171" text-anchor="middle" class="Lx" >O o /ɔ/</text>
+<text x="250" y="171" text-anchor="middle" class="Lx" >P p /p/</text>
+<text x="345" y="171" text-anchor="middle" class="Lx" >R r /r/</text>
+<text x="60" y="181" text-anchor="middle" class="Lx" >S s /s/</text>
+<text x="155" y="181" text-anchor="middle" class="Lx" >Sh sh /ʃ/</text>
+<text x="250" y="181" text-anchor="middle" class="Lx" >T t /t/</text>
+<text x="345" y="181" text-anchor="middle" class="Lx" >V v /v/</text>
+<text x="60" y="191" text-anchor="middle" class="Lx" >W w /w/</text>
+<text x="155" y="191" text-anchor="middle" class="Lx" >Y y /j/</text>
+<text x="250" y="191" text-anchor="middle" class="Lx" >Z z /z/</text>
+<text x="345" y="191" text-anchor="middle" class="Lx" >Zh zh /ʒ/</text>
+<text x="60" y="201" text-anchor="middle" class="Lx" >Sv sv /sv/</text>
+<text x="155" y="201" text-anchor="middle" class="Lx" >Zv zv /zv/</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— SPECIAL CONSONANTS —</text>
+<text x="240" y="234" text-anchor="middle" class="Ls" >SV /sv/ — simultaneous s+v: svika (arrive), svosvoda (creep).</text>
+<text x="240" y="243" text-anchor="middle" class="Ls" >ZV /zv/ — simultaneous z+v: zvino (now), zvakanaka (good things).</text>
+<text x="240" y="252" text-anchor="middle" class="Ls" >DZV /dzv/ — voiced affricate + labiodental: dzva (a type of grass).</text>
+<text x="240" y="261" text-anchor="middle" class="Ls" >NY /ɲ/ — palatal nasal (as in Spanish ñ): nyaya (matter/story), nyama (meat).</text>
+<text x="240" y="270" text-anchor="middle" class="Ls" >NG /ŋ/ — velar nasal (ng in song): ngoma (drum), nguo (clothing).</text>
+<line x1="20" y1="278" x2="460" y2="278" stroke="black" stroke-width="0.3"/>
+<text x="240" y="287" text-anchor="middle" class="H" >— TONE — UNMARKED BUT PHONEMIC —</text>
+<text x="240" y="297" text-anchor="middle" class="Ls" >Shona has a two-tone system (High H / Low L) with downstep.</text>
+<text x="240" y="307" text-anchor="middle" class="Ls" >Tone not written in standard orthography but is essential for meaning.</text>
+<text x="240" y="317" text-anchor="middle" class="Ls" >H baba = father (respectful) / L baba = father (neutral).</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >Tone marks tense on verbs: ndakauya (I came, H) vs ndakauya (I was coming).</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="H" >— DIALECTS OF STANDARD SHONA —</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >Standard Shona (1955) unified 5 main dialects: Karanga, Zezuru, Korekore,</text>
+<text x="240" y="363" text-anchor="middle" class="Ls" >Manyika, and Ndau. Spoken by ~15 million in Zimbabwe and Mozambique.</text>
+<text x="240" y="372" text-anchor="middle" class="Ls" >Zezuru dialect (Harare region) is most prestigious in broadcast media.</text>
+<line x1="20" y1="380" x2="460" y2="380" stroke="black" stroke-width="0.3"/>
+<text x="240" y="389" text-anchor="middle" class="H" >— NUMERALS —</text>
+<text x="70" y="399" text-anchor="middle" class="Lx" >1=imwe/potsi</text>
+<text x="150" y="399" text-anchor="middle" class="Lx" >2=piri</text>
+<text x="230" y="399" text-anchor="middle" class="Lx" >3=tatu</text>
+<text x="310" y="399" text-anchor="middle" class="Lx" >4=ina</text>
+<text x="390" y="399" text-anchor="middle" class="Lx" >5=shanu</text>
+<text x="70" y="409" text-anchor="middle" class="Lx" >6=tanhatu</text>
+<text x="150" y="409" text-anchor="middle" class="Lx" >7=nomwe</text>
+<text x="230" y="409" text-anchor="middle" class="Lx" >8=sere</text>
+<text x="310" y="409" text-anchor="middle" class="Lx" >9=pfumbamwe</text>
+<text x="390" y="409" text-anchor="middle" class="Lx" >10=gumi</text>
+<text x="240" y="419" text-anchor="middle" class="Ls" >20 = makumi maviri · 100 = zana · 1000 = chiuru</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 36A — SHONA: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

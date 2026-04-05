@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >AMHARIC — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 31D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — ETHIOPIAN PROVERB —</text>
+<text x="240" y="79" text-anchor="middle" class="La" >አመሳ ለካዕኙ ያስሳጣል።</text>
+<text x="240" y="92" text-anchor="middle" class="Lx" >əməsa lək'aNətu yasəsatəal.</text>
+<text x="240" y="101" text-anchor="middle" class="Lx" >The fish because-of-its-mouth is-caught.</text>
+<text x="240" y="110" text-anchor="middle" class="Ls" >"A fish is caught because of its mouth." — Be careful what you say.</text>
+<line x1="20" y1="118" x2="460" y2="118" stroke="black" stroke-width="0.3"/>
+<text x="240" y="126" text-anchor="middle" class="H" >— PASSAGE 2 — ETHIOPIAN PROVERB —</text>
+<text x="240" y="138" text-anchor="middle" class="Las" >እድሞውን ዪተናገውት እንኪድም ተናገክ መዘመድ ክችል።</text>
+<text x="240" y="151" text-anchor="middle" class="Lx" >əndəmowənə yəttənagəwat ənkədəm tənagək məzəməd kəts'il.</text>
+<text x="240" y="160" text-anchor="middle" class="Lx" >Before speaking what you will say, think whether it is useful.</text>
+<text x="240" y="169" text-anchor="middle" class="Ls" >"Before speaking, think whether what you will say is useful."</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="185" text-anchor="middle" class="H" >— PASSAGE 3 — MOTTO OF ETHIOPIA —</text>
+<text x="240" y="197" text-anchor="middle" class="La" >ኢትዮጵያ ለአለም</text>
+<text x="240" y="210" text-anchor="middle" class="Lx" >Ityopy'a ləaləm</text>
+<text x="240" y="219" text-anchor="middle" class="Ls" >"Ethiopia forever" — Traditional patriotic expression.</text>
+<line x1="20" y1="227" x2="460" y2="227" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="247" text-anchor="middle" class="Las" >ይህ የተሳነው መልእክት ለእረስዎ በነጳ ተዸኝነውነት ።</text>
+<text x="240" y="260" text-anchor="middle" class="Lx" >Yəh yətəsaNəwə mələəkt ləərəswo bənəts'ina təzəɨwənəwənt.</text>
+<text x="240" y="270" text-anchor="middle" class="Lx" >This message  made   for-you freely   who-remembered  future.</text>
+<text x="240" y="280" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="288" x2="460" y2="288" stroke="black" stroke-width="0.3"/>
+<text x="240" y="297" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN AMHARIC —</text>
+<text x="240" y="308" text-anchor="middle" class="L" >ወደዓይት (wədəayt): "future" — lit. "the ahead / the forward direction". From wəd (toward) + ayt (direction).</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >Amharic has no simple future tense — uses imperfective + auxiliary yəhəonal (it will be) for future.</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >təzəɨwənəwənt: "memory / remembrance" — from root z-w-n "to remember; to be mindful".</text>
+<text x="240" y="336" text-anchor="middle" class="Ls" >bənəts'ina: "freely / for free" — from nətsʼ (free / freedom) — same root as freedom.</text>
+<line x1="20" y1="344" x2="460" y2="344" stroke="black" stroke-width="0.3"/>
+<text x="240" y="353" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Amharic is the official language of Ethiopia (~35M native speakers, 100M+ L1+L2).</text>
+<text x="240" y="373" text-anchor="middle" class="Ls" >Written in the Ethiopic (Fidel) script — an abugida where each symbol = consonant + vowel order.</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Consult Plate 31A for the full syllabary table and 7 vowel orders.</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Amharic is a Semitic language — related to Arabic, Hebrew, and Tigrinya.</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >Ethiopia has one of the oldest continuous writing traditions in Africa, dating to the 4th century CE.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 31 · AMHARIC · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

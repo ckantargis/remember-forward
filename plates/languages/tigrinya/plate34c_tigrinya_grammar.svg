@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TIGRINYA — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 34C OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SOV — SEMITIC ROOTS — TWO GENDERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Tigrinya is SOV (verb-final). Two genders: masculine and feminine. Verb-final, like Amharic.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Semitic 3-consonant root system: same root k-t-b gives kətabə (he wrote), kətib (written), məktab (office).</text>
+<line x1="20" y1="97" x2="460" y2="97" stroke="black" stroke-width="0.3"/>
+<text x="240" y="106" text-anchor="middle" class="H" >— VERB CONJUGATION — təhazə "to take/hold" —</text>
+<text x="80" y="116" text-anchor="middle" class="Lx" >Subject</text>
+<text x="170" y="116" text-anchor="middle" class="Lx" >Person</text>
+<text x="270" y="116" text-anchor="middle" class="Lx" >Past form</text>
+<text x="400" y="116" text-anchor="middle" class="Lx" >Gloss</text>
+<text x="80" y="125" text-anchor="middle" class="Lx" >Ani (I)</text>
+<text x="170" y="125" text-anchor="middle" class="Lx" >1sg</text>
+<text x="270" y="125" text-anchor="middle" class="Las" >(̀təhaz-ku)</text>
+<text x="400" y="125" text-anchor="middle" class="Lx" >I took</text>
+<text x="80" y="136" text-anchor="middle" class="Lx" >Antə (you m)</text>
+<text x="170" y="136" text-anchor="middle" class="Lx" >2sg M</text>
+<text x="270" y="136" text-anchor="middle" class="Las" >(̀təhaz-kə)</text>
+<text x="400" y="136" text-anchor="middle" class="Lx" >you took</text>
+<text x="80" y="147" text-anchor="middle" class="Lx" >Antchi (you f)</text>
+<text x="170" y="147" text-anchor="middle" class="Lx" >2sg F</text>
+<text x="270" y="147" text-anchor="middle" class="Las" >(̀təhaz-ki)</text>
+<text x="400" y="147" text-anchor="middle" class="Lx" >you took</text>
+<text x="80" y="158" text-anchor="middle" class="Lx" >Nsu (he)</text>
+<text x="170" y="158" text-anchor="middle" class="Lx" >3sg M</text>
+<text x="270" y="158" text-anchor="middle" class="Las" >̀təhazə</text>
+<text x="400" y="158" text-anchor="middle" class="Lx" >he took</text>
+<text x="80" y="169" text-anchor="middle" class="Lx" >Nsa (she)</text>
+<text x="170" y="169" text-anchor="middle" class="Lx" >3sg F</text>
+<text x="270" y="169" text-anchor="middle" class="Las" >̀təhaz-at</text>
+<text x="400" y="169" text-anchor="middle" class="Lx" >she took</text>
+<text x="80" y="180" text-anchor="middle" class="Lx" >Nihna (we)</text>
+<text x="170" y="180" text-anchor="middle" class="Lx" >1pl</text>
+<text x="270" y="180" text-anchor="middle" class="Las" >̀təhaz-na</text>
+<text x="400" y="180" text-anchor="middle" class="Lx" >we took</text>
+<text x="80" y="191" text-anchor="middle" class="Lx" >Nkhum (you pl m)</text>
+<text x="170" y="191" text-anchor="middle" class="Lx" >2pl M</text>
+<text x="270" y="191" text-anchor="middle" class="Las" >̀təhaz-kum</text>
+<text x="400" y="191" text-anchor="middle" class="Lx" >you took</text>
+<text x="80" y="202" text-anchor="middle" class="Lx" >Nikən (they)</text>
+<text x="170" y="202" text-anchor="middle" class="Lx" >3pl</text>
+<text x="270" y="202" text-anchor="middle" class="Las" >̀təhaz-u</text>
+<text x="400" y="202" text-anchor="middle" class="Lx" >they took</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— DEFINITE ARTICLE AND CASE —</text>
+<text x="240" y="235" text-anchor="middle" class="Ls" >Definite article: suffix -u (M sg) / -a (F sg) / -om (M pl) / -en (F pl).</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >nəbr (tiger, indef.) → nəbru (the tiger, M def.)</text>
+<text x="240" y="253" text-anchor="middle" class="Ls" >Accusative/object: not morphologically marked, conveyed by SOV word order.</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="black" stroke-width="0.3"/>
+<text x="240" y="270" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="25" y="280" text-anchor="middle" class="Las" >አኯ / ይዐን</text>
+<text x="110" y="280" text-anchor="middle" class="Lx" >əaw / yihayn</text>
+<text x="200" y="280" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="25" y="290" text-anchor="middle" class="Las" >ኢንያ / ዓንተዛ</text>
+<text x="110" y="290" text-anchor="middle" class="Lx" >əinəya / antəz</text>
+<text x="200" y="290" text-anchor="middle" class="Lx" >I / you (m)</text>
+<text x="25" y="300" text-anchor="middle" class="Las" >ክይ / ቲያ</text>
+<text x="110" y="300" text-anchor="middle" class="Lx" >əkɨy / tɨya</text>
+<text x="200" y="300" text-anchor="middle" class="Lx" >this / that</text>
+<text x="25" y="310" text-anchor="middle" class="Las" >ዘይን?</text>
+<text x="110" y="310" text-anchor="middle" class="Lx" >əzɨyn</text>
+<text x="200" y="310" text-anchor="middle" class="Lx" >where</text>
+<text x="25" y="320" text-anchor="middle" class="Las" >ማን?</text>
+<text x="110" y="320" text-anchor="middle" class="Lx" >man</text>
+<text x="200" y="320" text-anchor="middle" class="Lx" >what</text>
+<text x="25" y="330" text-anchor="middle" class="Las" >ዘይን ሰብ?</text>
+<text x="110" y="330" text-anchor="middle" class="Lx" >which person</text>
+<text x="200" y="330" text-anchor="middle" class="Lx" >who</text>
+<text x="25" y="340" text-anchor="middle" class="Las" >ኢንቲያ?</text>
+<text x="110" y="340" text-anchor="middle" class="Lx" >when</text>
+<text x="200" y="340" text-anchor="middle" class="Lx" >when</text>
+<text x="25" y="350" text-anchor="middle" class="Las" >ንሰይ?</text>
+<text x="110" y="350" text-anchor="middle" class="Lx" >why</text>
+<text x="200" y="350" text-anchor="middle" class="Lx" >why</text>
+<text x="25" y="360" text-anchor="middle" class="Las" >ምይህ</text>
+<text x="110" y="360" text-anchor="middle" class="Lx" >əmɨyih</text>
+<text x="200" y="360" text-anchor="middle" class="Lx" >water</text>
+<text x="25" y="370" text-anchor="middle" class="Las" >ጛ</text>
+<text x="110" y="370" text-anchor="middle" class="Lx" >ətsʼ at</text>
+<text x="200" y="370" text-anchor="middle" class="Lx" >fire</text>
+<text x="25" y="380" text-anchor="middle" class="Las" >ዕብሪ</text>
+<text x="110" y="380" text-anchor="middle" class="Lx" >əbrɨ</text>
+<text x="200" y="380" text-anchor="middle" class="Lx" >earth</text>
+<text x="25" y="390" text-anchor="middle" class="Las" >ሰብ</text>
+<text x="110" y="390" text-anchor="middle" class="Lx" >səb</text>
+<text x="200" y="390" text-anchor="middle" class="Lx" >person</text>
+<text x="25" y="400" text-anchor="middle" class="Las" >ምንፐፍ</text>
+<text x="110" y="400" text-anchor="middle" class="Lx" >məntəf</text>
+<text x="200" y="400" text-anchor="middle" class="Lx" >book</text>
+<text x="260" y="280" text-anchor="middle" class="Las" >ግዜ</text>
+<text x="345" y="280" text-anchor="middle" class="Lx" >əgɨzə</text>
+<text x="435" y="280" text-anchor="middle" class="Lx" >time</text>
+<text x="260" y="290" text-anchor="middle" class="Las" >ወርሕ</text>
+<text x="345" y="290" text-anchor="middle" class="Lx" >wərh</text>
+<text x="435" y="290" text-anchor="middle" class="Lx" >moon</text>
+<text x="260" y="300" text-anchor="middle" class="Las" >ኰክዕት</text>
+<text x="345" y="300" text-anchor="middle" class="Lx" >wkʼat</text>
+<text x="435" y="300" text-anchor="middle" class="Lx" >star</text>
+<text x="260" y="310" text-anchor="middle" class="Las" >ሉብ</text>
+<text x="345" y="310" text-anchor="middle" class="Lx" >lɨb</text>
+<text x="435" y="310" text-anchor="middle" class="Lx" >heart</text>
+<text x="260" y="320" text-anchor="middle" class="Las" >ፍቀር</text>
+<text x="345" y="320" text-anchor="middle" class="Lx" >fɨqər</text>
+<text x="435" y="320" text-anchor="middle" class="Lx" >love</text>
+<text x="260" y="330" text-anchor="middle" class="Las" >ሕርነት</text>
+<text x="345" y="330" text-anchor="middle" class="Lx" >hɨrnət</text>
+<text x="435" y="330" text-anchor="middle" class="Lx" >freedom</text>
+<text x="260" y="340" text-anchor="middle" class="Las" >ዘካሮን</text>
+<text x="345" y="340" text-anchor="middle" class="Lx" >zɨkarun</text>
+<text x="435" y="340" text-anchor="middle" class="Lx" >memory</text>
+<text x="260" y="350" text-anchor="middle" class="Las" >መፀደመታ</text>
+<text x="345" y="350" text-anchor="middle" class="Lx" >məqədəməta</text>
+<text x="435" y="350" text-anchor="middle" class="Lx" >future</text>
+<text x="260" y="360" text-anchor="middle" class="Las" >ዓለም</text>
+<text x="345" y="360" text-anchor="middle" class="Lx" >aləm</text>
+<text x="435" y="360" text-anchor="middle" class="Lx" >world</text>
+<text x="260" y="370" text-anchor="middle" class="Las" >ቷቡ / ዘይን ዘይደሉ</text>
+<text x="345" y="370" text-anchor="middle" class="Lx" >ŵəbu / bad</text>
+<text x="435" y="370" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="260" y="380" text-anchor="middle" class="Las" >ሀሉፈ ግዜ</text>
+<text x="345" y="380" text-anchor="middle" class="Lx" >everything</text>
+<text x="435" y="380" text-anchor="middle" class="Lx" >everything</text>
+<text x="260" y="390" text-anchor="middle" class="Las" >ምዘናዮት</text>
+<text x="345" y="390" text-anchor="middle" class="Lx" >mɨzənawɨt</text>
+<text x="435" y="390" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 34 · TIGRINYA · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

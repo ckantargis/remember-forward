@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SHONA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. TSUMO — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Chisi chibereke chisi; chiramu ndechemuzukuru.</text>
+<text x="240" y="90" text-anchor="middle" class="Lx" >chisi=today chibereke=let-it-give-birth chisi=today chiramu=in-law nde=is che=of muzukuru=grandchild</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"Today, let today give birth to today; the future belongs to the grandchild." (Shona proverb on succession)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. RUDO — ON LOVE AND MEMORY —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Kuyeuka kwevakafa ndiko rudo rwehupenyu.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >kuyeuka=remembering kwe=of vakafa=those-who-died ndiko=that-is rudo=love rwe=of hupenyu=life</text>
+<text x="240" y="148" text-anchor="middle" class="F" >"Remembering those who have died is the love of life." (ancestral remembrance principle)</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H" >— III. ZIVO — ON KNOWLEDGE AND TIME —</text>
+<text x="240" y="176" text-anchor="middle" class="Ls" >Zivo inogara; munhu anoenda. Chinyorwa ndicho chinotsigira zivo.</text>
+<text x="240" y="186" text-anchor="middle" class="Ls" >zivo=knowledge inogara=remains munhu=person anoenda=goes away</text>
+<text x="240" y="196" text-anchor="middle" class="Ls" >chinyorwa=writing ndicho=is-the chinotsigira=that-supports</text>
+<text x="240" y="206" text-anchor="middle" class="F" >"Knowledge endures; people pass away. Writing is what supports knowledge." (literacy concept)</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— IV. MBERI — FORWARD —</text>
+<text x="240" y="234" text-anchor="middle" class="L" >Tinoenda mberi tichiyeuka avo vakafamba mberi.</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >tinoenda=we-go mberi=forward tichiyeuka=while-remembering avo=those</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >vakafamba=who-walked mberi=forward (ahead)</text>
+<text x="240" y="264" text-anchor="middle" class="F" >"We go forward while remembering those who walked ahead." (guiding principle)</text>
+<line x1="20" y1="273" x2="460" y2="273" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="294" text-anchor="middle" class="L" >Chinhu ichi chakagadzirirwa iwe, mahara, navanhu vakayeuka mberi.</text>
+<text x="240" y="308" text-anchor="middle" class="Ls" >chinhu-ichi=this-thing chakagadzirirwa=was-made-for iwe=you</text>
+<text x="240" y="317" text-anchor="middle" class="Ls" >mahara=freely (without cost) navanhu=by-people vakayeuka=who-remembered</text>
+<text x="240" y="326" text-anchor="middle" class="Ls" >mberi=forward / ahead</text>
+<text x="240" y="338" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="349" x2="460" y2="349" stroke="black" stroke-width="0.3"/>
+<text x="240" y="358" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="368" text-anchor="middle" class="Ls" >Mberi (from Bantu *-bele) means "ahead / forward / in front."</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Vakayeuka mberi = "who remembered forward" — facing ahead while holding the past.</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >In Shona cosmology, the mudzimu (ancestral spirits) walk ahead of the living,</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >guiding them. To "remember forward" is to honour those who guide from in front.</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >Mahara = free of charge (from Arabic mahar, spread via Swahili trade routes).</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Shona: ~15 million speakers; official language of Zimbabwe alongside Ndebele and English.</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >Language family: Bantu (Niger-Congo), S-branch (Shona group S10).</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >Standard Shona (1955) unified Karanga, Zezuru, Korekore, Manyika, Ndau dialects.</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >Rich oral literature: tsumo (proverbs), nhetembo (poetry), ngano (folktales).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 36D — SHONA: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

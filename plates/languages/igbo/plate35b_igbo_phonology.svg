@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >IGBO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology &amp; Sound System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Igbo has ~28 consonants including labial-velar stops, nasals, and fricatives.</text>
+<text x="50" y="92" text-anchor="middle" class="Ls" >p</text>
+<text x="175" y="92" text-anchor="middle" class="Lx" >bilabial stop vl</text>
+<text x="50" y="102" text-anchor="middle" class="Ls" >b</text>
+<text x="175" y="102" text-anchor="middle" class="Lx" >bilabial stop vd</text>
+<text x="50" y="112" text-anchor="middle" class="Ls" >t</text>
+<text x="175" y="112" text-anchor="middle" class="Lx" >alveolar stop vl</text>
+<text x="50" y="122" text-anchor="middle" class="Ls" >d</text>
+<text x="175" y="122" text-anchor="middle" class="Lx" >alveolar stop vd</text>
+<text x="50" y="132" text-anchor="middle" class="Ls" >k</text>
+<text x="175" y="132" text-anchor="middle" class="Lx" >velar stop vl</text>
+<text x="50" y="142" text-anchor="middle" class="Ls" >g</text>
+<text x="175" y="142" text-anchor="middle" class="Lx" >velar stop vd</text>
+<text x="50" y="152" text-anchor="middle" class="Ls" >kp</text>
+<text x="175" y="152" text-anchor="middle" class="Lx" >/kp/ labial-velar vl</text>
+<text x="50" y="162" text-anchor="middle" class="Ls" >gb</text>
+<text x="175" y="162" text-anchor="middle" class="Lx" >/ɡb/ labial-velar vd</text>
+<text x="50" y="172" text-anchor="middle" class="Ls" >f</text>
+<text x="175" y="172" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="50" y="182" text-anchor="middle" class="Ls" >v</text>
+<text x="175" y="182" text-anchor="middle" class="Lx" >labiodental fricative vd</text>
+<text x="50" y="192" text-anchor="middle" class="Ls" >s</text>
+<text x="175" y="192" text-anchor="middle" class="Lx" >alveolar fricative</text>
+<text x="50" y="202" text-anchor="middle" class="Ls" >z</text>
+<text x="175" y="202" text-anchor="middle" class="Lx" >alveolar fricative vd</text>
+<text x="280" y="92" text-anchor="middle" class="Ls" >sh</text>
+<text x="405" y="92" text-anchor="middle" class="Lx" >/ʃ/ postalveolar</text>
+<text x="280" y="102" text-anchor="middle" class="Ls" >gh</text>
+<text x="405" y="102" text-anchor="middle" class="Lx" >/ɣ/ velar fricative</text>
+<text x="280" y="112" text-anchor="middle" class="Ls" >h</text>
+<text x="405" y="112" text-anchor="middle" class="Lx" >glottal fricative</text>
+<text x="280" y="122" text-anchor="middle" class="Ls" >ch</text>
+<text x="405" y="122" text-anchor="middle" class="Lx" >/tʃ/ affricate</text>
+<text x="280" y="132" text-anchor="middle" class="Ls" >j</text>
+<text x="405" y="132" text-anchor="middle" class="Lx" >/dʒ/ affricate</text>
+<text x="280" y="142" text-anchor="middle" class="Ls" >m</text>
+<text x="405" y="142" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="280" y="152" text-anchor="middle" class="Ls" >n</text>
+<text x="405" y="152" text-anchor="middle" class="Lx" >alveolar nasal</text>
+<text x="280" y="162" text-anchor="middle" class="Ls" >nị</text>
+<text x="405" y="162" text-anchor="middle" class="Lx" >/ŋ/ velar nasal</text>
+<text x="280" y="172" text-anchor="middle" class="Ls" >l</text>
+<text x="405" y="172" text-anchor="middle" class="Lx" >lateral</text>
+<text x="280" y="182" text-anchor="middle" class="Ls" >r</text>
+<text x="405" y="182" text-anchor="middle" class="Lx" >flap /ɾ/</text>
+<text x="280" y="192" text-anchor="middle" class="Ls" >w</text>
+<text x="405" y="192" text-anchor="middle" class="Lx" >labio-velar approx</text>
+<text x="280" y="202" text-anchor="middle" class="Ls" >y</text>
+<text x="405" y="202" text-anchor="middle" class="Lx" >/j/ palatal approx</text>
+<line x1="20" y1="338" x2="460" y2="338" stroke="black" stroke-width="0.3"/>
+<text x="240" y="347" text-anchor="middle" class="H" >— TONE SYSTEM — 2 OR 3 LEVELS —</text>
+<text x="240" y="357" text-anchor="middle" class="Ls" >Igbo is a tonal language. Tone is phonemic (distinguishes meaning).</text>
+<text x="240" y="367" text-anchor="middle" class="Ls" >High (H): ákǎ — chin. Low (L): àkǎ — door.</text>
+<text x="240" y="377" text-anchor="middle" class="Ls" >Down-step: sequence HH in context of a preceding L lowers the second H.</text>
+<text x="240" y="387" text-anchor="middle" class="Ls" >Tone sandhi: Low+High across word boundary may merge or shift.</text>
+<text x="240" y="397" text-anchor="middle" class="Ls" >Verb tone patterns signal tense/aspect: ọ bá (present perfect) vs. ọ bà (stative).</text>
+<line x1="20" y1="405" x2="460" y2="405" stroke="black" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H" >— VOWEL HARMONY — ATR SYSTEM —</text>
+<text x="240" y="424" text-anchor="middle" class="Ls" >Igbo has Advanced Tongue Root (ATR) vowel harmony.</text>
+<text x="240" y="434" text-anchor="middle" class="Ls" >+ATR set: i e u o a — tongue root pushed forward, more open pharynx.</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >-ATR set: ị ọ ụ — three vowels with dot-below.</text>
+<text x="240" y="454" text-anchor="middle" class="Ls" >Within a word, vowels generally agree in ATR value (some exceptions).</text>
+<text x="240" y="464" text-anchor="middle" class="Ls" >Function words may not trigger harmony; certain affixes are transparent.</text>
+<line x1="20" y1="472" x2="460" y2="472" stroke="black" stroke-width="0.3"/>
+<text x="240" y="481" text-anchor="middle" class="H" >— LABIAL-VELAR STOPS — KEY FEATURE —</text>
+<text x="240" y="491" text-anchor="middle" class="Ls" >GB /ɡb/: voiced. Both lips close AND back of tongue touches velum simultaneously.</text>
+<text x="240" y="501" text-anchor="middle" class="Ls" >KP /kp/: voiceless version. Two closures released simultaneously, not sequentially.</text>
+<text x="240" y="511" text-anchor="middle" class="Ls" >Found across West/Central Africa (Yoruba gb/kp, Igbo gb/kp, Ewe gb/kp).</text>
+<text x="240" y="521" text-anchor="middle" class="Ls" >English speakers often hear these as two-consonant clusters — they are single stops.</text>
+<line x1="20" y1="529" x2="460" y2="529" stroke="black" stroke-width="0.3"/>
+<text x="240" y="538" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE —</text>
+<text x="240" y="548" text-anchor="middle" class="Ls" >Igbo syllables: V, CV, CVN (N = syllabic nasal). No complex clusters.</text>
+<text x="240" y="558" text-anchor="middle" class="Ls" >Syllabic nasals carry tone: M!, N! (low-tone syllabic nasal + downstep).</text>
+<text x="240" y="568" text-anchor="middle" class="Ls" >Open syllables preferred; word-final consonants rare (except nasals).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 35B — IGBO: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

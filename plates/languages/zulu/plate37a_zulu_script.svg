@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >ZULU</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Zulu uses the Latin alphabet. Standard orthography developed in 19th century</text>
+<text x="240" y="93" text-anchor="middle" class="Ls" >by missionaries; codified in modern form during the 20th century.</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >26 standard letters plus digraphs. Tone is not marked in standard writing.</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— ZULU ALPHABET AND DIGRAPHS —</text>
+<text x="60" y="129" text-anchor="middle" class="Lx" >A a /a/</text>
+<text x="155" y="129" text-anchor="middle" class="Lx" >B b /b/</text>
+<text x="250" y="129" text-anchor="middle" class="Lx" >C c /ǂ/ dental click</text>
+<text x="345" y="129" text-anchor="middle" class="Lx" >D d /d/</text>
+<text x="60" y="139" text-anchor="middle" class="Lx" >E e /ɛ/</text>
+<text x="155" y="139" text-anchor="middle" class="Lx" >F f /f/</text>
+<text x="250" y="139" text-anchor="middle" class="Lx" >G g /ɡ/</text>
+<text x="345" y="139" text-anchor="middle" class="Lx" >H h /h/</text>
+<text x="60" y="149" text-anchor="middle" class="Lx" >I i /i/</text>
+<text x="155" y="149" text-anchor="middle" class="Lx" >J j /dʒ/</text>
+<text x="250" y="149" text-anchor="middle" class="Lx" >K k /k/</text>
+<text x="345" y="149" text-anchor="middle" class="Lx" >L l /l/</text>
+<text x="60" y="159" text-anchor="middle" class="Lx" >M m /m/</text>
+<text x="155" y="159" text-anchor="middle" class="Lx" >N n /n/</text>
+<text x="250" y="159" text-anchor="middle" class="Lx" >O o /ɔ/</text>
+<text x="345" y="159" text-anchor="middle" class="Lx" >P p /p/</text>
+<text x="60" y="169" text-anchor="middle" class="Lx" >Q q /ʅ/ palato-alveolar click</text>
+<text x="155" y="169" text-anchor="middle" class="Lx" >R r /r/</text>
+<text x="250" y="169" text-anchor="middle" class="Lx" >S s /s/</text>
+<text x="345" y="169" text-anchor="middle" class="Lx" >T t /t/</text>
+<text x="60" y="179" text-anchor="middle" class="Lx" >U u /u/</text>
+<text x="155" y="179" text-anchor="middle" class="Lx" >V v /v/</text>
+<text x="250" y="179" text-anchor="middle" class="Lx" >W w /w/</text>
+<text x="345" y="179" text-anchor="middle" class="Lx" >X x /ơ/ lateral click</text>
+<text x="60" y="189" text-anchor="middle" class="Lx" >Y y /j/</text>
+<text x="155" y="189" text-anchor="middle" class="Lx" >Z z /z/</text>
+<text x="250" y="189" text-anchor="middle" class="Lx" >sh /ʃ/</text>
+<text x="345" y="189" text-anchor="middle" class="Lx" >ng /ŋ/</text>
+<text x="60" y="199" text-anchor="middle" class="Lx" >ny /ɲ/</text>
+<text x="155" y="199" text-anchor="middle" class="Lx" >dl /ɬ/</text>
+<text x="250" y="199" text-anchor="middle" class="Lx" >hl /ɬ/ voiceless lateral</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— CLICK CONSONANTS — DEFINING FEATURE —</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >Zulu has 3 click types inherited from Khoisan neighbours (contact languages).</text>
+<text x="240" y="253" text-anchor="middle" class="Ls" >C /ǂ/ DENTAL CLICK: tongue tip against upper teeth, pulled back sharply.</text>
+<text x="240" y="262" text-anchor="middle" class="Ls" >    Like the English "tsk tsk" disapproval click.</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >Q /ʅ/ PALATO-ALVEOLAR CLICK: tongue body against hard palate.</text>
+<text x="240" y="280" text-anchor="middle" class="Ls" >    Produces a loud "pop." Hard palate click.</text>
+<text x="240" y="289" text-anchor="middle" class="Ls" >X /ơ/ LATERAL CLICK: sides of tongue against upper molars.</text>
+<text x="240" y="298" text-anchor="middle" class="Ls" >    Like the horse-urging click made by riders.</text>
+<text x="240" y="307" text-anchor="middle" class="Ls" >Each click has voiced (gc-, nc-, gc-), aspirated (ch-, qh-, xh-) and nasal variants.</text>
+<line x1="20" y1="315" x2="460" y2="315" stroke="black" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H" >— PREFIXED CLICK VARIANTS —</text>
+<text x="80" y="334" text-anchor="middle" class="Lx" >c: basic dental</text>
+<text x="210" y="334" text-anchor="middle" class="Lx" >gc: voiced dental</text>
+<text x="340" y="334" text-anchor="middle" class="Lx" >ch: aspirated dental</text>
+<text x="80" y="344" text-anchor="middle" class="Lx" >nc: nasal dental</text>
+<text x="210" y="344" text-anchor="middle" class="Lx" >ngc: nasalised voiced dental</text>
+<text x="340" y="344" text-anchor="middle" class="Lx" >q: palato-alveolar</text>
+<text x="80" y="354" text-anchor="middle" class="Lx" >gq: voiced palato</text>
+<text x="210" y="354" text-anchor="middle" class="Lx" >qh: aspirated palato</text>
+<text x="340" y="354" text-anchor="middle" class="Lx" >nq: nasal palato</text>
+<text x="80" y="364" text-anchor="middle" class="Lx" >x: lateral</text>
+<text x="210" y="364" text-anchor="middle" class="Lx" >gx: voiced lateral</text>
+<text x="340" y="364" text-anchor="middle" class="Lx" >xh: aspirated lateral</text>
+<text x="80" y="374" text-anchor="middle" class="Lx" >nx: nasal lateral</text>
+<line x1="20" y1="385" x2="460" y2="385" stroke="black" stroke-width="0.3"/>
+<text x="240" y="394" text-anchor="middle" class="H" >— NUMERALS —</text>
+<text x="100" y="404" text-anchor="middle" class="Lx" >1 = kunye</text>
+<text x="300" y="404" text-anchor="middle" class="Lx" >2 = kubili</text>
+<text x="100" y="414" text-anchor="middle" class="Lx" >3 = kuthathu</text>
+<text x="300" y="414" text-anchor="middle" class="Lx" >4 = kune</text>
+<text x="100" y="424" text-anchor="middle" class="Lx" >5 = kuhlanu</text>
+<text x="300" y="424" text-anchor="middle" class="Lx" >6 = isithupha</text>
+<text x="100" y="434" text-anchor="middle" class="Lx" >7 = isikhombisa</text>
+<text x="300" y="434" text-anchor="middle" class="Lx" >8 = isishiyagalombili</text>
+<text x="100" y="444" text-anchor="middle" class="Lx" >9 = isishiyagalolunye</text>
+<text x="300" y="444" text-anchor="middle" class="Lx" >10 = ishumi</text>
+<text x="240" y="460" text-anchor="middle" class="Ls" >20 = amashumi amabili · 100 = ikhulu · 1000 = inkulungwane</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 37A — ZULU: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

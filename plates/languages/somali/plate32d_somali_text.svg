@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SOMALI — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 32D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — SOMALI PROVERB —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >Aqoon la'aani waa iftiin la'aan.</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >Knowledge lacking  is  light   lacking.</text>
+<text x="240" y="97" text-anchor="middle" class="Ls" >"Lack of knowledge is lack of light." — On the value of education.</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="113" text-anchor="middle" class="H" >— PASSAGE 2 — SOMALI PROVERB —</text>
+<text x="240" y="124" text-anchor="middle" class="L" >Nin baa nin tira, waa ka dheer tahay.</text>
+<text x="240" y="134" text-anchor="middle" class="Lx" >Man counts man,  is  him  taller  is.</text>
+<text x="240" y="143" text-anchor="middle" class="Ls" >"A person is made by other people." — On the social nature of humanity.</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H" >— PASSAGE 3 — TRADITIONAL SAYING —</text>
+<text x="240" y="170" text-anchor="middle" class="L" >Guri walaal leh kuma sugo xumaan.</text>
+<text x="240" y="180" text-anchor="middle" class="Lx" >Home siblings has  not-waits evil.</text>
+<text x="240" y="189" text-anchor="middle" class="Ls" >"Evil does not wait in a house with siblings." — On family protection and unity.</text>
+<line x1="20" y1="197" x2="460" y2="197" stroke="black" stroke-width="0.3"/>
+<text x="240" y="205" text-anchor="middle" class="H" >— PASSAGE 4 — ON MEMORY AND TIME —</text>
+<text x="240" y="216" text-anchor="middle" class="L" >Waayo’arag waa aqoon.</text>
+<text x="240" y="226" text-anchor="middle" class="Lx" >Experience  is  knowledge.</text>
+<text x="240" y="235" text-anchor="middle" class="Ls" >"Experience is knowledge." — What is lived and remembered becomes wisdom.</text>
+<line x1="20" y1="243" x2="460" y2="243" stroke="black" stroke-width="0.3"/>
+<text x="240" y="251" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="263" text-anchor="middle" class="L" >Farriintani waxaa loogu talagalay adiga, bilaash ahaan, dadkii xusuustay mustaqbalka.</text>
+<text x="240" y="274" text-anchor="middle" class="Lx" >Message-this  was-made-for  you,   free  being,  people-who remembered  future-the.</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN SOMALI —</text>
+<text x="240" y="312" text-anchor="middle" class="L" >mustaqbal: "future" — borrowed from Arabic mustaqbal "what is received / coming toward one".</text>
+<text x="240" y="322" text-anchor="middle" class="Ls" >The Arabic root q-b-l means "to face / to receive" — the future as what approaches and is received.</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >xusuus: "memory / remembrance" — from Arabic dhikr/khuss root via Somali adaptation.</text>
+<text x="240" y="340" text-anchor="middle" class="Ls" >bilaash: "free / for free" — borrowed from Arabic bilash "without cost".</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >waxaa: focus-auxiliary particle — signals object/action focus in the sentence structure.</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="366" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="377" text-anchor="middle" class="Ls" >Somali is spoken by ~25 million people in Somalia, Djibouti, Ethiopia, and Kenya.</text>
+<text x="240" y="386" text-anchor="middle" class="Ls" >It is a Cushitic language (Afroasiatic) — related to Oromo, Afar, and distantly to Arabic.</text>
+<text x="240" y="395" text-anchor="middle" class="Ls" >Script: standard Latin-based orthography (since 1972). No diacritics — see Plate 32A for letter values.</text>
+<text x="240" y="404" text-anchor="middle" class="Ls" >Key sounds not in English: C (/ʿ/), X (/ħ/), Q (/q/) — all produced in the throat.</text>
+<text x="240" y="413" text-anchor="middle" class="Ls" >Somali has one of the most complex grammatical focus systems of any known language.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 32 · SOMALI · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

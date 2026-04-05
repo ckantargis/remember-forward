@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LINGALA — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 33A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— LINGALA — BANTU LINGUA FRANCA OF THE CONGO RIVER —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Lingala is a Bantu language spoken by ~70 million people as L1 or L2.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Lingua franca of the Democratic Republic of Congo, Republic of Congo, and the Congo River basin.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Also spoken in parts of Angola, Central African Republic, and South Sudan.</text>
+<text x="240" y="107" text-anchor="middle" class="Ls" >Used in the Congolese military, church, and urban centres. One of four national languages of DRC.</text>
+<line x1="20" y1="115" x2="460" y2="115" stroke="black" stroke-width="0.3"/>
+<text x="240" y="124" text-anchor="middle" class="H" >— LINGALA ALPHABET — LATIN-BASED —</text>
+<text x="240" y="135" text-anchor="middle" class="Ls" >Lingala uses the Latin alphabet. Since 1976 standardisation, tones are marked with diacritics.</text>
+<text x="30" y="145" text-anchor="middle" class="Lx" >A a</text>
+<text x="90" y="145" text-anchor="middle" class="Lx" >/a/</text>
+<text x="175" y="145" text-anchor="middle" class="Lx" >open low</text>
+<text x="30" y="155" text-anchor="middle" class="Lx" >B b</text>
+<text x="90" y="155" text-anchor="middle" class="Lx" >/b/</text>
+<text x="175" y="155" text-anchor="middle" class="Lx" >bilabial</text>
+<text x="30" y="165" text-anchor="middle" class="Lx" >D d</text>
+<text x="90" y="165" text-anchor="middle" class="Lx" >/d/</text>
+<text x="175" y="165" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="30" y="175" text-anchor="middle" class="Lx" >E e</text>
+<text x="90" y="175" text-anchor="middle" class="Lx" >/e/</text>
+<text x="175" y="175" text-anchor="middle" class="Lx" >mid front</text>
+<text x="30" y="185" text-anchor="middle" class="Lx" >Ɛ Ɛ</text>
+<text x="90" y="185" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="175" y="185" text-anchor="middle" class="Lx" >open e: bƐtɐ (arm)</text>
+<text x="30" y="195" text-anchor="middle" class="Lx" >F f</text>
+<text x="90" y="195" text-anchor="middle" class="Lx" >/f/</text>
+<text x="175" y="195" text-anchor="middle" class="Lx" >labiodental</text>
+<text x="30" y="205" text-anchor="middle" class="Lx" >G g</text>
+<text x="90" y="205" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="175" y="205" text-anchor="middle" class="Lx" >velar</text>
+<text x="30" y="215" text-anchor="middle" class="Lx" >I i</text>
+<text x="90" y="215" text-anchor="middle" class="Lx" >/i/</text>
+<text x="175" y="215" text-anchor="middle" class="Lx" >high front</text>
+<text x="30" y="225" text-anchor="middle" class="Lx" >K k</text>
+<text x="90" y="225" text-anchor="middle" class="Lx" >/k/</text>
+<text x="175" y="225" text-anchor="middle" class="Lx" >velar</text>
+<text x="30" y="235" text-anchor="middle" class="Lx" >L l</text>
+<text x="90" y="235" text-anchor="middle" class="Lx" >/l/</text>
+<text x="175" y="235" text-anchor="middle" class="Lx" >lateral</text>
+<text x="30" y="245" text-anchor="middle" class="Lx" >M m</text>
+<text x="90" y="245" text-anchor="middle" class="Lx" >/m/</text>
+<text x="175" y="245" text-anchor="middle" class="Lx" >nasal</text>
+<text x="30" y="255" text-anchor="middle" class="Lx" >N n</text>
+<text x="90" y="255" text-anchor="middle" class="Lx" >/n/</text>
+<text x="175" y="255" text-anchor="middle" class="Lx" >nasal</text>
+<text x="260" y="145" text-anchor="middle" class="Lx" >Ng ng</text>
+<text x="315" y="145" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="395" y="145" text-anchor="middle" class="Lx" >velar nasal</text>
+<text x="260" y="155" text-anchor="middle" class="Lx" >Ny ny</text>
+<text x="315" y="155" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="395" y="155" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="260" y="165" text-anchor="middle" class="Lx" >O o</text>
+<text x="315" y="165" text-anchor="middle" class="Lx" >/o/</text>
+<text x="395" y="165" text-anchor="middle" class="Lx" >mid back</text>
+<text x="260" y="175" text-anchor="middle" class="Lx" >Ɔ Ɔ</text>
+<text x="315" y="175" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="395" y="175" text-anchor="middle" class="Lx" >open o: lɔkɔ (tail)</text>
+<text x="260" y="185" text-anchor="middle" class="Lx" >P p</text>
+<text x="315" y="185" text-anchor="middle" class="Lx" >/p/</text>
+<text x="395" y="185" text-anchor="middle" class="Lx" >bilabial</text>
+<text x="260" y="195" text-anchor="middle" class="Lx" >S s</text>
+<text x="315" y="195" text-anchor="middle" class="Lx" >/s/</text>
+<text x="395" y="195" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="260" y="205" text-anchor="middle" class="Lx" >T t</text>
+<text x="315" y="205" text-anchor="middle" class="Lx" >/t/</text>
+<text x="395" y="205" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="260" y="215" text-anchor="middle" class="Lx" >V v</text>
+<text x="315" y="215" text-anchor="middle" class="Lx" >/v/</text>
+<text x="395" y="215" text-anchor="middle" class="Lx" >labiodental</text>
+<text x="260" y="225" text-anchor="middle" class="Lx" >W w</text>
+<text x="315" y="225" text-anchor="middle" class="Lx" >/w/</text>
+<text x="395" y="225" text-anchor="middle" class="Lx" >glide</text>
+<text x="260" y="235" text-anchor="middle" class="Lx" >Y y</text>
+<text x="315" y="235" text-anchor="middle" class="Lx" >/j/</text>
+<text x="395" y="235" text-anchor="middle" class="Lx" >palatal glide</text>
+<text x="260" y="245" text-anchor="middle" class="Lx" >Z z</text>
+<text x="315" y="245" text-anchor="middle" class="Lx" >/z/</text>
+<text x="395" y="245" text-anchor="middle" class="Lx" >alveolar</text>
+<line x1="20" y1="270" x2="460" y2="270" stroke="black" stroke-width="0.3"/>
+<text x="240" y="279" text-anchor="middle" class="H" >— TONE SYSTEM — TWO TONES —</text>
+<text x="240" y="290" text-anchor="middle" class="L" >Lingala has TWO tones: High (H marked with acute ´) and Low (L unmarked or grave `).</text>
+<text x="240" y="300" text-anchor="middle" class="Ls" >Tone is phonemic: motó (head) vs môto (person) — same segments, different tones, different meanings.</text>
+<text x="240" y="309" text-anchor="middle" class="Ls" >In colloquial urban Lingala, tones are often simplified or not marked in informal writing.</text>
+<line x1="20" y1="317" x2="460" y2="317" stroke="black" stroke-width="0.3"/>
+<text x="240" y="326" text-anchor="middle" class="H" >— NOUN CLASS SYSTEM — BANTU CLASSES —</text>
+<text x="240" y="337" text-anchor="middle" class="L" >Like all Bantu languages, Lingala has noun classes — grammatical categories that determine agreement.</text>
+<text x="240" y="347" text-anchor="middle" class="Ls" >Each noun belongs to a class with a prefix. Adjectives, verbs, and pronouns agree with the noun class.</text>
+<text x="55" y="357" text-anchor="middle" class="Ls" >mo-</text>
+<text x="140" y="357" text-anchor="middle" class="Lx" >Class 1/3 (person sg)</text>
+<text x="360" y="357" text-anchor="middle" class="Lx" >moto (person), mokóló (elder)</text>
+<text x="55" y="369" text-anchor="middle" class="Ls" >ba-</text>
+<text x="140" y="369" text-anchor="middle" class="Lx" >Class 2/4 (person pl)</text>
+<text x="360" y="369" text-anchor="middle" class="Lx" >bato (people), bakóló (elders)</text>
+<text x="55" y="381" text-anchor="middle" class="Ls" >li-</text>
+<text x="140" y="381" text-anchor="middle" class="Lx" >Class 5/6 (things)</text>
+<text x="360" y="381" text-anchor="middle" class="Lx" >likómbó (boat), monoko (mouth)</text>
+<text x="55" y="393" text-anchor="middle" class="Ls" >e-</text>
+<text x="140" y="393" text-anchor="middle" class="Lx" >Class 7/8 (things, actions)</text>
+<text x="360" y="393" text-anchor="middle" class="Lx" >emó (animal), ekóló (country)</text>
+<text x="55" y="405" text-anchor="middle" class="Ls" >n-</text>
+<text x="140" y="405" text-anchor="middle" class="Lx" >Class 9/10 (diverse)</text>
+<text x="360" y="405" text-anchor="middle" class="Lx" >ngái (I), nkótó (body)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 33 · LINGALA · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

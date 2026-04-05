@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >IGBO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SVO —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Igbo is Subject-Verb-Object (SVO): Emeka ri-ara ji (Emeka ate yam).</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Verbs are central; they carry tense, aspect, and negation morphology.</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Subject pronouns are obligatory: m (I), i/ị (you), ọ (he/she/it), anyị (we), unu (y'all), ha (they).</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— VERB SYSTEM —</text>
+<text x="240" y="129" text-anchor="middle" class="Ls" >Igbo verbs use a root + tonal pattern to signal tense/aspect.</text>
+<text x="90" y="139" text-anchor="middle" class="Lx" >root</text>
+<text x="230" y="139" text-anchor="middle" class="Ls" >ri</text>
+<text x="370" y="139" text-anchor="middle" class="Lx" >eat</text>
+<text x="90" y="149" text-anchor="middle" class="Lx" >past imperfective</text>
+<text x="230" y="149" text-anchor="middle" class="Ls" >na-arị</text>
+<text x="370" y="149" text-anchor="middle" class="Lx" >was eating</text>
+<text x="90" y="159" text-anchor="middle" class="Lx" >past perfective</text>
+<text x="230" y="159" text-anchor="middle" class="Ls" >rirị</text>
+<text x="370" y="159" text-anchor="middle" class="Lx" >ate (completed)</text>
+<text x="90" y="169" text-anchor="middle" class="Lx" >present hab</text>
+<text x="230" y="169" text-anchor="middle" class="Ls" >na-arị</text>
+<text x="370" y="169" text-anchor="middle" class="Lx" >eats (habitually)</text>
+<text x="90" y="179" text-anchor="middle" class="Lx" >future</text>
+<text x="230" y="179" text-anchor="middle" class="Ls" >gị arị</text>
+<text x="370" y="179" text-anchor="middle" class="Lx" >will eat</text>
+<text x="90" y="189" text-anchor="middle" class="Lx" >stative</text>
+<text x="230" y="189" text-anchor="middle" class="Ls" >er-iri</text>
+<text x="370" y="189" text-anchor="middle" class="Lx" >have eaten</text>
+<text x="90" y="199" text-anchor="middle" class="Lx" >negative</text>
+<text x="230" y="199" text-anchor="middle" class="Ls" >anaghị arị</text>
+<text x="370" y="199" text-anchor="middle" class="Lx" >does not eat</text>
+<text x="90" y="209" text-anchor="middle" class="Lx" >imperative</text>
+<text x="230" y="209" text-anchor="middle" class="Ls" >rị!</text>
+<text x="370" y="209" text-anchor="middle" class="Lx" >eat!</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— SUBJECT PRONOUNS —</text>
+<text x="120" y="244" text-anchor="middle" class="L" >m / mụ</text>
+<text x="310" y="244" text-anchor="middle" class="Ls" >I / me (emphatic: mụ)</text>
+<text x="120" y="254" text-anchor="middle" class="L" >ị / gị</text>
+<text x="310" y="254" text-anchor="middle" class="Ls" >you (subject / emphatic)</text>
+<text x="120" y="264" text-anchor="middle" class="L" >ọ</text>
+<text x="310" y="264" text-anchor="middle" class="Ls" >he/she/it (3rd sg)</text>
+<text x="120" y="274" text-anchor="middle" class="L" >anyị</text>
+<text x="310" y="274" text-anchor="middle" class="Ls" >we (inclusive)</text>
+<text x="120" y="284" text-anchor="middle" class="L" >unu</text>
+<text x="310" y="284" text-anchor="middle" class="Ls" >you (plural)</text>
+<text x="120" y="294" text-anchor="middle" class="L" >ha</text>
+<text x="310" y="294" text-anchor="middle" class="Ls" >they / them</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="black" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H" >— NOUN CLASSES — GENDER BY PREFIX —</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >No grammatical gender; nouns modified by adjectives that follow: ọ jị ọ bọ (the white yam).</text>
+<text x="240" y="339" text-anchor="middle" class="Ls" >Plurals often formed by tone change or N- prefix: ọ chệ → ọ chệ (tree → trees by context).</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Classifiers used with numerals: otu oche (one chair), ise oche (five chairs).</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="366" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="376" text-anchor="middle" class="Ls" >ọ bíàrà</text>
+<text x="175" y="376" text-anchor="middle" class="Lx" >welcome</text>
+<text x="50" y="386" text-anchor="middle" class="Ls" >dịmẹ</text>
+<text x="175" y="386" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="396" text-anchor="middle" class="Ls" >ícẹ</text>
+<text x="175" y="396" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="406" text-anchor="middle" class="Ls" >mọchị́kwụ</text>
+<text x="175" y="406" text-anchor="middle" class="Lx" >no</text>
+<text x="50" y="416" text-anchor="middle" class="Ls" >bíko</text>
+<text x="175" y="416" text-anchor="middle" class="Lx" >please</text>
+<text x="50" y="426" text-anchor="middle" class="Ls" >ọ dị́</text>
+<text x="175" y="426" text-anchor="middle" class="Lx" >good morning</text>
+<text x="50" y="436" text-anchor="middle" class="Ls" >ndừuị?</text>
+<text x="175" y="436" text-anchor="middle" class="Lx" >how are you?</text>
+<text x="50" y="446" text-anchor="middle" class="Ls" >a dị m</text>
+<text x="175" y="446" text-anchor="middle" class="Lx" >I am fine</text>
+<text x="50" y="456" text-anchor="middle" class="Ls" >a fọụ m gị</text>
+<text x="175" y="456" text-anchor="middle" class="Lx" >I love you</text>
+<text x="50" y="466" text-anchor="middle" class="Ls" >ễỉ kị?</text>
+<text x="175" y="466" text-anchor="middle" class="Lx" >what is your name?</text>
+<text x="50" y="476" text-anchor="middle" class="Ls" >Ọchị m bọchị</text>
+<text x="175" y="476" text-anchor="middle" class="Lx" >my name is...</text>
+<text x="50" y="486" text-anchor="middle" class="Ls" >ọ bá</text>
+<text x="175" y="486" text-anchor="middle" class="Lx" >come</text>
+<text x="50" y="496" text-anchor="middle" class="Ls" >ọ ga</text>
+<text x="175" y="496" text-anchor="middle" class="Lx" >go</text>
+<text x="50" y="506" text-anchor="middle" class="Ls" >rị</text>
+<text x="175" y="506" text-anchor="middle" class="Lx" >eat</text>
+<text x="50" y="516" text-anchor="middle" class="Ls" >ị nu nịm</text>
+<text x="175" y="516" text-anchor="middle" class="Lx" >drink water</text>
+<text x="50" y="526" text-anchor="middle" class="Ls" >ulo</text>
+<text x="175" y="526" text-anchor="middle" class="Lx" >house</text>
+<text x="280" y="376" text-anchor="middle" class="Ls" >oji</text>
+<text x="405" y="376" text-anchor="middle" class="Lx" >kola nut</text>
+<text x="280" y="386" text-anchor="middle" class="Ls" >ji</text>
+<text x="405" y="386" text-anchor="middle" class="Lx" >yam</text>
+<text x="280" y="396" text-anchor="middle" class="Ls" >mmiri</text>
+<text x="405" y="396" text-anchor="middle" class="Lx" >water</text>
+<text x="280" y="406" text-anchor="middle" class="Ls" >oku</text>
+<text x="405" y="406" text-anchor="middle" class="Lx" >fire</text>
+<text x="280" y="416" text-anchor="middle" class="Ls" >ana</text>
+<text x="405" y="416" text-anchor="middle" class="Lx" >earth/ground</text>
+<text x="280" y="426" text-anchor="middle" class="Ls" >mmadụ</text>
+<text x="405" y="426" text-anchor="middle" class="Lx" >person</text>
+<text x="280" y="436" text-anchor="middle" class="Ls" >oge</text>
+<text x="405" y="436" text-anchor="middle" class="Lx" >time</text>
+<text x="280" y="446" text-anchor="middle" class="Ls" >onwa</text>
+<text x="405" y="446" text-anchor="middle" class="Lx" >moon</text>
+<text x="280" y="456" text-anchor="middle" class="Ls" >kpakpando</text>
+<text x="405" y="456" text-anchor="middle" class="Lx" >star</text>
+<text x="280" y="466" text-anchor="middle" class="Ls" >obị</text>
+<text x="405" y="466" text-anchor="middle" class="Lx" >heart</text>
+<text x="280" y="476" text-anchor="middle" class="Ls" >ihunanya</text>
+<text x="405" y="476" text-anchor="middle" class="Lx" >love</text>
+<text x="280" y="486" text-anchor="middle" class="Ls" >ononihu</text>
+<text x="405" y="486" text-anchor="middle" class="Lx" >freedom</text>
+<text x="280" y="496" text-anchor="middle" class="Ls" >echeta</text>
+<text x="405" y="496" text-anchor="middle" class="Lx" >remember/memory</text>
+<text x="280" y="506" text-anchor="middle" class="Ls" >ọ zọọ</text>
+<text x="405" y="506" text-anchor="middle" class="Lx" >tomorrow / future</text>
+<text x="280" y="516" text-anchor="middle" class="Ls" >elu-ala</text>
+<text x="405" y="516" text-anchor="middle" class="Lx" >the world</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 35C — IGBO: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

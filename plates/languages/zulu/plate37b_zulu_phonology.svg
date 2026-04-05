@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >ZULU</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology &amp; Sound System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Zulu has ~50+ consonants when click variants are included.</text>
+<text x="240" y="91" text-anchor="middle" class="Ls" >Core non-click consonants shown; click series add ~15 more segments.</text>
+<text x="60" y="101" text-anchor="middle" class="Ls" >p</text>
+<text x="140" y="101" text-anchor="middle" class="Lx" >/p/ bilabial stop vl</text>
+<text x="60" y="112" text-anchor="middle" class="Ls" >b</text>
+<text x="140" y="112" text-anchor="middle" class="Lx" >/b/ bilabial stop vd</text>
+<text x="60" y="123" text-anchor="middle" class="Ls" >t</text>
+<text x="140" y="123" text-anchor="middle" class="Lx" >/t/ alveolar stop vl</text>
+<text x="60" y="134" text-anchor="middle" class="Ls" >d</text>
+<text x="140" y="134" text-anchor="middle" class="Lx" >/d/ alveolar stop vd</text>
+<text x="60" y="145" text-anchor="middle" class="Ls" >k</text>
+<text x="140" y="145" text-anchor="middle" class="Lx" >/k/ velar stop vl</text>
+<text x="60" y="156" text-anchor="middle" class="Ls" >g</text>
+<text x="140" y="156" text-anchor="middle" class="Lx" >/ɡ/ velar stop vd</text>
+<text x="60" y="167" text-anchor="middle" class="Ls" >ph</text>
+<text x="140" y="167" text-anchor="middle" class="Lx" >/pʰ/ aspirated bilabial</text>
+<text x="60" y="178" text-anchor="middle" class="Ls" >th</text>
+<text x="140" y="178" text-anchor="middle" class="Lx" >/tʰ/ aspirated alveolar</text>
+<text x="60" y="189" text-anchor="middle" class="Ls" >kh</text>
+<text x="140" y="189" text-anchor="middle" class="Lx" >/kʰ/ aspirated velar</text>
+<text x="60" y="200" text-anchor="middle" class="Ls" >f</text>
+<text x="140" y="200" text-anchor="middle" class="Lx" >/f/ labiodental</text>
+<text x="60" y="211" text-anchor="middle" class="Ls" >v</text>
+<text x="140" y="211" text-anchor="middle" class="Lx" >/v/ labiodental vd</text>
+<text x="60" y="222" text-anchor="middle" class="Ls" >s</text>
+<text x="140" y="222" text-anchor="middle" class="Lx" >/s/ alveolar fricative</text>
+<text x="60" y="233" text-anchor="middle" class="Ls" >z</text>
+<text x="140" y="233" text-anchor="middle" class="Lx" >/z/ alveolar fricative vd</text>
+<text x="280" y="101" text-anchor="middle" class="Ls" >sh</text>
+<text x="360" y="101" text-anchor="middle" class="Lx" >/ʃ/ postalveolar</text>
+<text x="280" y="112" text-anchor="middle" class="Ls" >hl</text>
+<text x="360" y="112" text-anchor="middle" class="Lx" >/ɬ/ lateral fricative vl</text>
+<text x="280" y="123" text-anchor="middle" class="Ls" >dl</text>
+<text x="360" y="123" text-anchor="middle" class="Lx" >/ɬ/ lateral fricative vd</text>
+<text x="280" y="134" text-anchor="middle" class="Ls" >h</text>
+<text x="360" y="134" text-anchor="middle" class="Lx" >/h/ glottal</text>
+<text x="280" y="145" text-anchor="middle" class="Ls" >m</text>
+<text x="360" y="145" text-anchor="middle" class="Lx" >/m/ bilabial nasal</text>
+<text x="280" y="156" text-anchor="middle" class="Ls" >n</text>
+<text x="360" y="156" text-anchor="middle" class="Lx" >/n/ alveolar nasal</text>
+<text x="280" y="167" text-anchor="middle" class="Ls" >ng</text>
+<text x="360" y="167" text-anchor="middle" class="Lx" >/ŋ/ velar nasal</text>
+<text x="280" y="178" text-anchor="middle" class="Ls" >ny</text>
+<text x="360" y="178" text-anchor="middle" class="Lx" >/ɲ/ palatal nasal</text>
+<text x="280" y="189" text-anchor="middle" class="Ls" >l</text>
+<text x="360" y="189" text-anchor="middle" class="Lx" >/l/ lateral</text>
+<text x="280" y="200" text-anchor="middle" class="Ls" >r</text>
+<text x="360" y="200" text-anchor="middle" class="Lx" >/r/ trill</text>
+<text x="280" y="211" text-anchor="middle" class="Ls" >w</text>
+<text x="360" y="211" text-anchor="middle" class="Lx" >/w/ labio-velar</text>
+<text x="280" y="222" text-anchor="middle" class="Ls" >y</text>
+<text x="360" y="222" text-anchor="middle" class="Lx" >/j/ palatal</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="261" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 VOWELS —</text>
+<text x="50" y="271" text-anchor="middle" class="L" >a</text>
+<text x="110" y="271" text-anchor="middle" class="Ls" >/a/</text>
+<text x="310" y="271" text-anchor="middle" class="Lx" >open central: amanzi (water)</text>
+<text x="50" y="282" text-anchor="middle" class="L" >e</text>
+<text x="110" y="282" text-anchor="middle" class="Ls" >/ɛ/</text>
+<text x="310" y="282" text-anchor="middle" class="Lx" >mid-front: ikhaya (home)</text>
+<text x="50" y="293" text-anchor="middle" class="L" >i</text>
+<text x="110" y="293" text-anchor="middle" class="Ls" >/i/</text>
+<text x="310" y="293" text-anchor="middle" class="Lx" >high front: izinto (things)</text>
+<text x="50" y="304" text-anchor="middle" class="L" >o</text>
+<text x="110" y="304" text-anchor="middle" class="Ls" >/ɔ/</text>
+<text x="310" y="304" text-anchor="middle" class="Lx" >mid-back: umuntu (person)</text>
+<text x="50" y="315" text-anchor="middle" class="L" >u</text>
+<text x="110" y="315" text-anchor="middle" class="Ls" >/u/</text>
+<text x="310" y="315" text-anchor="middle" class="Lx" >high back: ubuntu (humanity)</text>
+<line x1="20" y1="330" x2="460" y2="330" stroke="black" stroke-width="0.3"/>
+<text x="240" y="339" text-anchor="middle" class="H" >— TONE SYSTEM —</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Zulu has two tones: High (H) and Low (L). Tone is phonemic.</text>
+<text x="240" y="359" text-anchor="middle" class="Ls" >Tone not written in standard orthography; context and knowledge required.</text>
+<text x="240" y="369" text-anchor="middle" class="Ls" >ukufa (L L L) = to die / ukufa (H L L) = to arrive at.</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >Downstep (!H) occurs after a low tone: hi!H sequences.</text>
+<line x1="20" y1="387" x2="460" y2="387" stroke="black" stroke-width="0.3"/>
+<text x="240" y="396" text-anchor="middle" class="H" >— CLICK PHONOLOGY IN CONTEXT —</text>
+<text x="240" y="406" text-anchor="middle" class="Ls" >Clicks in Zulu are full consonants, inherited ~1,000+ years ago from contact with</text>
+<text x="240" y="416" text-anchor="middle" class="Ls" >Khoisan speakers. They occur in native vocabulary and borrowed words.</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >ucingo (dental nc-) = telephone. ukucula (dental c-) = to sing.</text>
+<text x="240" y="436" text-anchor="middle" class="Ls" >Clicks combine with tone, nasality, aspiration = large segment inventory.</text>
+<line x1="20" y1="444" x2="460" y2="444" stroke="black" stroke-width="0.3"/>
+<text x="240" y="453" text-anchor="middle" class="H" >— ASPIRATION AND VOICED/VOICELESS PAIRS —</text>
+<text x="240" y="463" text-anchor="middle" class="Ls" >Zulu distinguishes plain, aspirated, and voiced stops: p/ph/b, t/th/d, k/kh/g.</text>
+<text x="240" y="473" text-anchor="middle" class="Ls" >Aspirated stops: phuza (drink), thanda (love), khuluma (speak).</text>
+<text x="240" y="483" text-anchor="middle" class="Ls" >HL /ɬ/ voiceless lateral fricative: hlala (sit/stay), hlobo (type/season).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 37B — ZULU: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

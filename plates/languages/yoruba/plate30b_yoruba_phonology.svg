@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >YORUBA — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 30B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THREE-TONE SYSTEM — PHONEMIC TONES —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Yoruba tone is critical: the same string of consonants and vowels has different meanings by tone alone.</text>
+<text x="80" y="89" text-anchor="middle" class="Ls" >awó</text>
+<text x="155" y="89" text-anchor="middle" class="Lx" >(H-H)</text>
+<text x="330" y="89" text-anchor="middle" class="Lx" >hand-washing basin</text>
+<text x="80" y="101" text-anchor="middle" class="Ls" >àwò</text>
+<text x="155" y="101" text-anchor="middle" class="Lx" >(L-H)</text>
+<text x="330" y="101" text-anchor="middle" class="Lx" >ashes</text>
+<text x="80" y="113" text-anchor="middle" class="Ls" >awò</text>
+<text x="155" y="113" text-anchor="middle" class="Lx" >(M-H)</text>
+<text x="330" y="113" text-anchor="middle" class="Lx" >colour / image</text>
+<text x="80" y="125" text-anchor="middle" class="Ls" >ọ̀mó</text>
+<text x="155" y="125" text-anchor="middle" class="Lx" >(L-H)</text>
+<text x="330" y="125" text-anchor="middle" class="Lx" >child</text>
+<text x="80" y="137" text-anchor="middle" class="Ls" >ọ́mó</text>
+<text x="155" y="137" text-anchor="middle" class="Lx" >(H-H)</text>
+<text x="330" y="137" text-anchor="middle" class="Lx" >plant (young)</text>
+<text x="80" y="149" text-anchor="middle" class="Ls" >ọ mọ</text>
+<text x="155" y="149" text-anchor="middle" class="Lx" >(L-M)</text>
+<text x="330" y="149" text-anchor="middle" class="Lx" >face that</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H" >— VOWELS — 7 ORAL + 5 NASAL —</text>
+<text x="240" y="185" text-anchor="middle" class="L" >Yoruba has 7 oral vowels and 5 nasal vowels. Nasal vowels are phonemic (contrastive).</text>
+<text x="100" y="195" text-anchor="middle" class="Lx" >Oral</text>
+<text x="340" y="195" text-anchor="middle" class="Lx" >Nasal</text>
+<text x="55" y="204" text-anchor="middle" class="Lx" >/i/</text>
+<text x="105" y="204" text-anchor="middle" class="Lx" >i</text>
+<text x="195" y="204" text-anchor="middle" class="Lx" >ile (house)</text>
+<text x="55" y="215" text-anchor="middle" class="Lx" >/e/</text>
+<text x="105" y="215" text-anchor="middle" class="Lx" >e</text>
+<text x="195" y="215" text-anchor="middle" class="Lx" >eko (food)</text>
+<text x="55" y="226" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="105" y="226" text-anchor="middle" class="Lx" >e-dot</text>
+<text x="195" y="226" text-anchor="middle" class="Lx" >ẹyẹ (language)</text>
+<text x="55" y="237" text-anchor="middle" class="Lx" >/a/</text>
+<text x="105" y="237" text-anchor="middle" class="Lx" >a</text>
+<text x="195" y="237" text-anchor="middle" class="Lx" >aja (dog)</text>
+<text x="55" y="248" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="105" y="248" text-anchor="middle" class="Lx" >o-dot</text>
+<text x="195" y="248" text-anchor="middle" class="Lx" >ọ run (heaven)</text>
+<text x="55" y="259" text-anchor="middle" class="Lx" >/o/</text>
+<text x="105" y="259" text-anchor="middle" class="Lx" >o</text>
+<text x="195" y="259" text-anchor="middle" class="Lx" >ojo (day)</text>
+<text x="55" y="270" text-anchor="middle" class="Lx" >/u/</text>
+<text x="105" y="270" text-anchor="middle" class="Lx" >u</text>
+<text x="195" y="270" text-anchor="middle" class="Lx" >unu (mouth)</text>
+<text x="285" y="204" text-anchor="middle" class="Lx" >/ĩ/</text>
+<text x="340" y="204" text-anchor="middle" class="Lx" >in</text>
+<text x="285" y="215" text-anchor="middle" class="Lx" >/ẽ/</text>
+<text x="340" y="215" text-anchor="middle" class="Lx" >en</text>
+<text x="285" y="226" text-anchor="middle" class="Lx" >/ɛ̃/</text>
+<text x="340" y="226" text-anchor="middle" class="Lx" >en-dot</text>
+<text x="285" y="237" text-anchor="middle" class="Lx" >/õ/</text>
+<text x="340" y="237" text-anchor="middle" class="Lx" >on</text>
+<text x="285" y="248" text-anchor="middle" class="Lx" >/ọ̃/</text>
+<text x="340" y="248" text-anchor="middle" class="Lx" >on-dot</text>
+<line x1="20" y1="286" x2="460" y2="286" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H" >— CONSONANT HIGHLIGHTS —</text>
+<text x="240" y="306" text-anchor="middle" class="L" >Yoruba has 18 consonants. Key features: labial-velar stops gb/kp and syllabic nasals.</text>
+<text x="240" y="316" text-anchor="middle" class="Ls" >Syllabic nasals: m and n can form complete syllables: m̀bí (a name), nípá (there is a broom).</text>
+<text x="240" y="325" text-anchor="middle" class="Ls" >The syllabic nasal carries its own tone: m̀ (L) vs ḿ (H).</text>
+<text x="240" y="334" text-anchor="middle" class="Ls" >No consonant clusters: every consonant is followed by a vowel (strict CV syllable structure).</text>
+<line x1="20" y1="342" x2="460" y2="342" stroke="black" stroke-width="0.3"/>
+<text x="240" y="351" text-anchor="middle" class="H" >— DOWNSTEP AND DOWNDRIFT —</text>
+<text x="240" y="362" text-anchor="middle" class="Ls" >Downstep: a High tone after a floating Low tone is lower than a previous High — marked with ˀ.</text>
+<text x="240" y="371" text-anchor="middle" class="Ls" >Downdrift: High tones gradually lower across an utterance with intervening Low tones.</text>
+<text x="240" y="380" text-anchor="middle" class="Ls" >This means identical tonal patterns at the start and end of a long sentence may be at very different pitches.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 30 · YORUBA · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

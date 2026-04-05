@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >AMHARIC — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 31A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— ETHIOPIC SCRIPT (FIDEL) — AN ABUGIDA —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Amharic is written in the Ethiopic script (Fidel ፈደል), an abugida: each symbol = consonant + vowel.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Each consonant has 7 forms (orders), one for each vowel. Base form includes inherent /ə/ vowel.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >~234 syllable signs in full Amharic fidel. Left to right, top to bottom.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— SAMPLE FIDEL — CONSONANT ha IN ALL 7 VOWEL ORDERS —</text>
+<text x="240" y="126" text-anchor="middle" class="Lx" >Each row shows one consonant across all 7 vowels: ə u i a e (none) o</text>
+<text x="32" y="136" text-anchor="middle" class="Lx" >ə</text>
+<text x="78" y="136" text-anchor="middle" class="Lx" >u</text>
+<text x="118" y="136" text-anchor="middle" class="Lx" >i</text>
+<text x="158" y="136" text-anchor="middle" class="Lx" >a</text>
+<text x="198" y="136" text-anchor="middle" class="Lx" >e</text>
+<text x="238" y="136" text-anchor="middle" class="Lx" >-</text>
+<text x="278" y="136" text-anchor="middle" class="Lx" >o</text>
+<text x="322" y="136" text-anchor="middle" class="Lx" >C</text>
+<text x="32" y="146" text-anchor="middle" class="La" >ሀ</text>
+<text x="78" y="146" text-anchor="middle" class="La" >ሁ</text>
+<text x="118" y="146" text-anchor="middle" class="La" >ሂ</text>
+<text x="158" y="146" text-anchor="middle" class="La" >ሃ</text>
+<text x="198" y="146" text-anchor="middle" class="La" >ሄ</text>
+<text x="238" y="146" text-anchor="middle" class="La" >ህ</text>
+<text x="278" y="146" text-anchor="middle" class="La" >ሆ</text>
+<text x="322" y="146" text-anchor="middle" class="Lx" >h…</text>
+<text x="32" y="160" text-anchor="middle" class="La" >ለ</text>
+<text x="78" y="160" text-anchor="middle" class="La" >ሉ</text>
+<text x="118" y="160" text-anchor="middle" class="La" >ሊ</text>
+<text x="158" y="160" text-anchor="middle" class="La" >ላ</text>
+<text x="198" y="160" text-anchor="middle" class="La" >ሌ</text>
+<text x="238" y="160" text-anchor="middle" class="La" >ል</text>
+<text x="278" y="160" text-anchor="middle" class="La" >ሎ</text>
+<text x="322" y="160" text-anchor="middle" class="Lx" >l…</text>
+<text x="32" y="174" text-anchor="middle" class="La" >ሐ</text>
+<text x="78" y="174" text-anchor="middle" class="La" >ሑ</text>
+<text x="118" y="174" text-anchor="middle" class="La" >ሒ</text>
+<text x="158" y="174" text-anchor="middle" class="La" >ሓ</text>
+<text x="198" y="174" text-anchor="middle" class="La" >ሔ</text>
+<text x="238" y="174" text-anchor="middle" class="La" >ሕ</text>
+<text x="278" y="174" text-anchor="middle" class="La" >ሖ</text>
+<text x="322" y="174" text-anchor="middle" class="Lx" >H…</text>
+<text x="32" y="188" text-anchor="middle" class="La" >መ</text>
+<text x="78" y="188" text-anchor="middle" class="La" >ሙ</text>
+<text x="118" y="188" text-anchor="middle" class="La" >ሚ</text>
+<text x="158" y="188" text-anchor="middle" class="La" >ማ</text>
+<text x="198" y="188" text-anchor="middle" class="La" >ሜ</text>
+<text x="238" y="188" text-anchor="middle" class="La" >ም</text>
+<text x="278" y="188" text-anchor="middle" class="La" >ሞ</text>
+<text x="322" y="188" text-anchor="middle" class="Lx" >m…</text>
+<text x="32" y="202" text-anchor="middle" class="La" >ሰ</text>
+<text x="78" y="202" text-anchor="middle" class="La" >ሱ</text>
+<text x="118" y="202" text-anchor="middle" class="La" >ሲ</text>
+<text x="158" y="202" text-anchor="middle" class="La" >ሳ</text>
+<text x="198" y="202" text-anchor="middle" class="La" >ሴ</text>
+<text x="238" y="202" text-anchor="middle" class="La" >ስ</text>
+<text x="278" y="202" text-anchor="middle" class="La" >ሶ</text>
+<text x="322" y="202" text-anchor="middle" class="Lx" >s…</text>
+<text x="32" y="216" text-anchor="middle" class="La" >ሸ</text>
+<text x="78" y="216" text-anchor="middle" class="La" >ሹ</text>
+<text x="118" y="216" text-anchor="middle" class="La" >ሺ</text>
+<text x="158" y="216" text-anchor="middle" class="La" >ሻ</text>
+<text x="198" y="216" text-anchor="middle" class="La" >ሼ</text>
+<text x="238" y="216" text-anchor="middle" class="La" >ሽ</text>
+<text x="278" y="216" text-anchor="middle" class="La" >ሾ</text>
+<text x="322" y="216" text-anchor="middle" class="Lx" >sh…</text>
+<text x="32" y="230" text-anchor="middle" class="La" >ቀ</text>
+<text x="78" y="230" text-anchor="middle" class="La" >ቁ</text>
+<text x="118" y="230" text-anchor="middle" class="La" >ቂ</text>
+<text x="158" y="230" text-anchor="middle" class="La" >ቃ</text>
+<text x="198" y="230" text-anchor="middle" class="La" >ቄ</text>
+<text x="238" y="230" text-anchor="middle" class="La" >ቅ</text>
+<text x="278" y="230" text-anchor="middle" class="La" >ቆ</text>
+<text x="322" y="230" text-anchor="middle" class="Lx" >q…</text>
+<line x1="20" y1="248" x2="460" y2="248" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H" >— THE 7 VOWEL ORDERS —</text>
+<text x="100" y="267" text-anchor="middle" class="Lx" >1st / ገዓይ</text>
+<text x="200" y="267" text-anchor="middle" class="Lx" >ə</text>
+<text x="350" y="267" text-anchor="middle" class="Lx" >like "about" — base form</text>
+<text x="100" y="278" text-anchor="middle" class="Lx" >2nd / ካዓይ</text>
+<text x="200" y="278" text-anchor="middle" class="Lx" >u</text>
+<text x="350" y="278" text-anchor="middle" class="Lx" >like "boot"</text>
+<text x="100" y="289" text-anchor="middle" class="Lx" >3rd / ሳልስዓይ</text>
+<text x="200" y="289" text-anchor="middle" class="Lx" >i</text>
+<text x="350" y="289" text-anchor="middle" class="Lx" >like "see"</text>
+<text x="100" y="300" text-anchor="middle" class="Lx" >4th / ራዓይ</text>
+<text x="200" y="300" text-anchor="middle" class="Lx" >a</text>
+<text x="350" y="300" text-anchor="middle" class="Lx" >like "father"</text>
+<text x="100" y="311" text-anchor="middle" class="Lx" >5th / ሓምስዓይ</text>
+<text x="200" y="311" text-anchor="middle" class="Lx" >e</text>
+<text x="350" y="311" text-anchor="middle" class="Lx" >like "bed"</text>
+<text x="100" y="322" text-anchor="middle" class="Lx" >6th / ሳድስዓይ</text>
+<text x="200" y="322" text-anchor="middle" class="Lx" >(none)</text>
+<text x="350" y="322" text-anchor="middle" class="Lx" >consonant only / short ə</text>
+<text x="100" y="333" text-anchor="middle" class="Lx" >7th / ሰዓይ</text>
+<text x="200" y="333" text-anchor="middle" class="Lx" >o</text>
+<text x="350" y="333" text-anchor="middle" class="Lx" >like "go"</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="355" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="366" text-anchor="middle" class="Ls" >Ethiopic script descended from South Arabian (Sabaean) script via ancient Ge'ez (~4th c. CE).</text>
+<text x="240" y="375" text-anchor="middle" class="Ls" >Ge'ez (Classical Ethiopic): liturgical language of the Ethiopian Orthodox Church; used in manuscripts.</text>
+<text x="240" y="384" text-anchor="middle" class="Ls" >Amharic adopted Fidel from Ge'ez ~13th–14th c., adding new letters for Amharic-specific sounds.</text>
+<text x="240" y="393" text-anchor="middle" class="Ls" >Ethiopia was never fully colonised — Ethiopic script was never replaced by Latin.</text>
+<text x="240" y="402" text-anchor="middle" class="Ls" >Modern Amharic: official language of Ethiopia (~35M native speakers, ~100M L1+L2).</text>
+<text x="240" y="411" text-anchor="middle" class="Ls" >Fidel is also used for Tigrinya, Ge'ez, and Tigre languages.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 31 · AMHARIC · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

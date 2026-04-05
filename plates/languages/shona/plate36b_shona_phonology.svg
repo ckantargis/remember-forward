@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SHONA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology &amp; Sound System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Shona has ~30 consonants. Notable features: fricative co-articulations (sv/zv),</text>
+<text x="240" y="91" text-anchor="middle" class="Ls" >prenasalised stops (mb, nd, ng), and tonal contrasts.</text>
+<text x="40" y="101" text-anchor="middle" class="Ls" >p</text>
+<text x="90" y="101" text-anchor="middle" class="Lx" >/p/</text>
+<text x="200" y="101" text-anchor="middle" class="Lx" >bilabial stop vl</text>
+<text x="40" y="112" text-anchor="middle" class="Ls" >b</text>
+<text x="90" y="112" text-anchor="middle" class="Lx" >/b/</text>
+<text x="200" y="112" text-anchor="middle" class="Lx" >bilabial stop vd</text>
+<text x="40" y="123" text-anchor="middle" class="Ls" >t</text>
+<text x="90" y="123" text-anchor="middle" class="Lx" >/t/</text>
+<text x="200" y="123" text-anchor="middle" class="Lx" >alveolar stop vl</text>
+<text x="40" y="134" text-anchor="middle" class="Ls" >d</text>
+<text x="90" y="134" text-anchor="middle" class="Lx" >/d/</text>
+<text x="200" y="134" text-anchor="middle" class="Lx" >alveolar stop vd</text>
+<text x="40" y="145" text-anchor="middle" class="Ls" >k</text>
+<text x="90" y="145" text-anchor="middle" class="Lx" >/k/</text>
+<text x="200" y="145" text-anchor="middle" class="Lx" >velar stop vl</text>
+<text x="40" y="156" text-anchor="middle" class="Ls" >g</text>
+<text x="90" y="156" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="200" y="156" text-anchor="middle" class="Lx" >velar stop vd</text>
+<text x="40" y="167" text-anchor="middle" class="Ls" >ch</text>
+<text x="90" y="167" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="200" y="167" text-anchor="middle" class="Lx" >postalveolar affricate</text>
+<text x="40" y="178" text-anchor="middle" class="Ls" >j</text>
+<text x="90" y="178" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="200" y="178" text-anchor="middle" class="Lx" >postalveolar affricate vd</text>
+<text x="40" y="189" text-anchor="middle" class="Ls" >dz</text>
+<text x="90" y="189" text-anchor="middle" class="Lx" >/dz/</text>
+<text x="200" y="189" text-anchor="middle" class="Lx" >alveolar affricate</text>
+<text x="40" y="200" text-anchor="middle" class="Ls" >dzv</text>
+<text x="90" y="200" text-anchor="middle" class="Lx" >/dzv/</text>
+<text x="200" y="200" text-anchor="middle" class="Lx" >labio-alveolar affricate</text>
+<text x="40" y="211" text-anchor="middle" class="Ls" >f</text>
+<text x="90" y="211" text-anchor="middle" class="Lx" >/f/</text>
+<text x="200" y="211" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="40" y="222" text-anchor="middle" class="Ls" >v</text>
+<text x="90" y="222" text-anchor="middle" class="Lx" >/v/</text>
+<text x="200" y="222" text-anchor="middle" class="Lx" >labiodental fricative vd</text>
+<text x="40" y="233" text-anchor="middle" class="Ls" >s</text>
+<text x="90" y="233" text-anchor="middle" class="Lx" >/s/</text>
+<text x="200" y="233" text-anchor="middle" class="Lx" >alveolar fricative</text>
+<text x="40" y="244" text-anchor="middle" class="Ls" >z</text>
+<text x="90" y="244" text-anchor="middle" class="Lx" >/z/</text>
+<text x="200" y="244" text-anchor="middle" class="Lx" >alveolar fricative vd</text>
+<text x="270" y="101" text-anchor="middle" class="Ls" >sh</text>
+<text x="320" y="101" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="430" y="101" text-anchor="middle" class="Lx" >postalveolar fricative</text>
+<text x="270" y="112" text-anchor="middle" class="Ls" >zh</text>
+<text x="320" y="112" text-anchor="middle" class="Lx" >/ʒ/</text>
+<text x="430" y="112" text-anchor="middle" class="Lx" >postalveolar fricative vd</text>
+<text x="270" y="123" text-anchor="middle" class="Ls" >sv</text>
+<text x="320" y="123" text-anchor="middle" class="Lx" >/sv/</text>
+<text x="430" y="123" text-anchor="middle" class="Lx" >labio-alveolar fricative</text>
+<text x="270" y="134" text-anchor="middle" class="Ls" >zv</text>
+<text x="320" y="134" text-anchor="middle" class="Lx" >/zv/</text>
+<text x="430" y="134" text-anchor="middle" class="Lx" >labio-alveolar fricative vd</text>
+<text x="270" y="145" text-anchor="middle" class="Ls" >h</text>
+<text x="320" y="145" text-anchor="middle" class="Lx" >/h/</text>
+<text x="430" y="145" text-anchor="middle" class="Lx" >glottal</text>
+<text x="270" y="156" text-anchor="middle" class="Ls" >m</text>
+<text x="320" y="156" text-anchor="middle" class="Lx" >/m/</text>
+<text x="430" y="156" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="270" y="167" text-anchor="middle" class="Ls" >n</text>
+<text x="320" y="167" text-anchor="middle" class="Lx" >/n/</text>
+<text x="430" y="167" text-anchor="middle" class="Lx" >alveolar nasal</text>
+<text x="270" y="178" text-anchor="middle" class="Ls" >ng</text>
+<text x="320" y="178" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="430" y="178" text-anchor="middle" class="Lx" >velar nasal</text>
+<text x="270" y="189" text-anchor="middle" class="Ls" >ny</text>
+<text x="320" y="189" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="430" y="189" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="270" y="200" text-anchor="middle" class="Ls" >r</text>
+<text x="320" y="200" text-anchor="middle" class="Lx" >/r/</text>
+<text x="430" y="200" text-anchor="middle" class="Lx" >trill/flap</text>
+<text x="270" y="211" text-anchor="middle" class="Ls" >l</text>
+<text x="320" y="211" text-anchor="middle" class="Lx" >/l/</text>
+<text x="430" y="211" text-anchor="middle" class="Lx" >lateral</text>
+<text x="270" y="222" text-anchor="middle" class="Ls" >w</text>
+<text x="320" y="222" text-anchor="middle" class="Lx" >/w/</text>
+<text x="430" y="222" text-anchor="middle" class="Lx" >labio-velar</text>
+<text x="270" y="233" text-anchor="middle" class="Ls" >y</text>
+<text x="320" y="233" text-anchor="middle" class="Lx" >/j/</text>
+<text x="430" y="233" text-anchor="middle" class="Lx" >palatal</text>
+<line x1="20" y1="262" x2="460" y2="262" stroke="black" stroke-width="0.3"/>
+<text x="240" y="271" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 VOWELS —</text>
+<text x="80" y="281" text-anchor="middle" class="L" >a</text>
+<text x="160" y="281" text-anchor="middle" class="Ls" >/a/</text>
+<text x="320" y="281" text-anchor="middle" class="Ls" >open central</text>
+<text x="80" y="292" text-anchor="middle" class="L" >e</text>
+<text x="160" y="292" text-anchor="middle" class="Ls" >/ɛ/</text>
+<text x="320" y="292" text-anchor="middle" class="Ls" >mid-front</text>
+<text x="80" y="303" text-anchor="middle" class="L" >i</text>
+<text x="160" y="303" text-anchor="middle" class="Ls" >/i/</text>
+<text x="320" y="303" text-anchor="middle" class="Ls" >high front</text>
+<text x="80" y="314" text-anchor="middle" class="L" >o</text>
+<text x="160" y="314" text-anchor="middle" class="Ls" >/ɔ/</text>
+<text x="320" y="314" text-anchor="middle" class="Ls" >mid-back rounded</text>
+<text x="80" y="325" text-anchor="middle" class="L" >u</text>
+<text x="160" y="325" text-anchor="middle" class="Ls" >/u/</text>
+<text x="320" y="325" text-anchor="middle" class="Ls" >high back rounded</text>
+<line x1="20" y1="345" x2="460" y2="345" stroke="black" stroke-width="0.3"/>
+<text x="240" y="354" text-anchor="middle" class="H" >— TONE SYSTEM —</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Two phonemic tones: High (H) and Low (L). Downstep (!H) also occurs.</text>
+<text x="240" y="374" text-anchor="middle" class="Ls" >Tone is carried by syllables, not individual segments.</text>
+<text x="240" y="384" text-anchor="middle" class="Ls" >Verb tense/aspect conveyed primarily by tone pattern, not affixes:</text>
+<text x="240" y="394" text-anchor="middle" class="Ls" >nda-ku-ya (H L H) = I came (perfect) / nda-ku-ya (H H L) = I was coming.</text>
+<text x="240" y="404" text-anchor="middle" class="Ls" >Noun classes also affect tonal patterns of associated words.</text>
+<line x1="20" y1="412" x2="460" y2="412" stroke="black" stroke-width="0.3"/>
+<text x="240" y="421" text-anchor="middle" class="H" >— PRENASALISED STOPS —</text>
+<text x="240" y="431" text-anchor="middle" class="Ls" >MB /mb/: mbwa (dog), mberi (ahead). ND /nd/: ndiro (plate), ndenga (sky).</text>
+<text x="240" y="441" text-anchor="middle" class="Ls" >NG /ŋɡ/: ngoma (drum), nguo (clothing). NJ /ndʒ/: njere (a bead).</text>
+<text x="240" y="451" text-anchor="middle" class="Ls" >These are single phonological segments (not sequences) — one syllable onset.</text>
+<line x1="20" y1="459" x2="460" y2="459" stroke="black" stroke-width="0.3"/>
+<text x="240" y="468" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE —</text>
+<text x="240" y="478" text-anchor="middle" class="Ls" >Preferred syllable: CV (consonant + vowel). Open syllables dominate.</text>
+<text x="240" y="488" text-anchor="middle" class="Ls" >Syllabic nasals possible: m-ti (tree), n-zira (path).</text>
+<text x="240" y="498" text-anchor="middle" class="Ls" >Vowel sequences rare; hiatus resolved by glide insertion: chiyo → chi.yo.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 36B — SHONA: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

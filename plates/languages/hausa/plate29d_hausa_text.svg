@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HAUSA — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 29D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — HAUSA PROVERB —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >Hausa: Hankali ya fi karfi.</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >Wisdom  surpasses strength.</text>
+<text x="240" y="97" text-anchor="middle" class="Ls" >"Wisdom surpasses strength." — Intelligence overcomes brute force.</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="113" text-anchor="middle" class="H" >— PASSAGE 2 — HAUSA PROVERB —</text>
+<text x="240" y="124" text-anchor="middle" class="L" >Zaman lafiya shi ne dukiya.</text>
+<text x="240" y="134" text-anchor="middle" class="Lx" >Living   peace  it  is  wealth.</text>
+<text x="240" y="143" text-anchor="middle" class="Ls" >"Living in peace is wealth." — On the value of communal harmony.</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H" >— PASSAGE 3 — TRADITIONAL SAYING —</text>
+<text x="240" y="170" text-anchor="middle" class="L" >Dukā abinda Allah ya yi, da keya.</text>
+<text x="240" y="180" text-anchor="middle" class="Lx" >All   things  God    did  with wisdom.</text>
+<text x="240" y="189" text-anchor="middle" class="Ls" >"All that God has made, He made with wisdom." — On gratitude and purpose.</text>
+<line x1="20" y1="197" x2="460" y2="197" stroke="black" stroke-width="0.3"/>
+<text x="240" y="205" text-anchor="middle" class="H" >— PASSAGE 4 — ON MEMORY —</text>
+<text x="240" y="216" text-anchor="middle" class="L" >Tunawa da tarihi shi ne mabudin gobe.</text>
+<text x="240" y="226" text-anchor="middle" class="Lx" >Remembering the history it  is  key-of  tomorrow.</text>
+<text x="240" y="235" text-anchor="middle" class="Ls" >"Remembering history is the key to tomorrow." — Hausa oral tradition.</text>
+<line x1="20" y1="243" x2="460" y2="243" stroke="black" stroke-width="0.3"/>
+<text x="240" y="251" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="263" text-anchor="middle" class="L" >Wannan sako an yi shi a gare ku, kyauta, daga mutanen da suka tuna da gobe.</text>
+<text x="240" y="274" text-anchor="middle" class="Lx" >This    message was made it  for  you  freely  from  people   who  remembered  tomorrow/future.</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN HAUSA —</text>
+<text x="240" y="312" text-anchor="middle" class="L" >Hausa: gobe = "tomorrow" — used colloquially for "the future". Also: nan gaba = "ahead / in the future".</text>
+<text x="240" y="322" text-anchor="middle" class="Ls" >tuna = "to remember" — tuna da = "to remember X". The completive aspect (sun tuna) means "they remembered".</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >kyauta = "gift / free of charge" — kyauta ne! = "it's free!" — from root kya (good).</text>
+<text x="240" y="340" text-anchor="middle" class="Ls" >Tone note: wannan (THIS) is H-H-L; sako (message) is L-H — both critical for comprehension.</text>
+<line x1="20" y1="348" x2="460" y2="348" stroke="black" stroke-width="0.3"/>
+<text x="240" y="357" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="368" text-anchor="middle" class="Ls" >Hausa is spoken by 70–100 million people across Nigeria, Niger, Ghana, Chad, Cameroon, and Sudan.</text>
+<text x="240" y="377" text-anchor="middle" class="Ls" >It is the dominant trade and lingua franca language of the West African Sahel belt.</text>
+<text x="240" y="386" text-anchor="middle" class="Ls" >Script: Boko (Latin-based, left to right). Tone is not marked in normal writing — learned from context.</text>
+<text x="240" y="395" text-anchor="middle" class="Ls" >Hausa belongs to the Chadic branch of Afroasiatic — distantly related to Arabic and Amharic.</text>
+<text x="240" y="404" text-anchor="middle" class="Ls" >The two implosive consonants (ɓ, ɗ) are unique to the Chadic/Niger-Congo region and rare globally.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 29 · HAUSA · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

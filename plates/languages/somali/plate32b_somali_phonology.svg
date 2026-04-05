@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SOMALI — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 32B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— TONE — PITCH-ACCENT SYSTEM —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Somali has a PITCH-ACCENT system: words have a tonal pattern but it is not a full tone language.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Two tone levels (High H and Low L). The accent position changes meaning.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >niin (L-H) "date palm" vs niin (H-L) "woman" — same consonants, different tones, different meanings.</text>
+<text x="240" y="107" text-anchor="middle" class="Ls" >Tone is not marked in official orthography — learned from context and oral tradition.</text>
+<line x1="20" y1="115" x2="460" y2="115" stroke="black" stroke-width="0.3"/>
+<text x="240" y="124" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 SHORT + 5 LONG —</text>
+<text x="240" y="135" text-anchor="middle" class="L" >Vowel length is phonemic: short vs long changes meaning.</text>
+<text x="80" y="145" text-anchor="middle" class="Lx" >/a/ vs /aː/</text>
+<text x="180" y="145" text-anchor="middle" class="Lx" >a vs aa</text>
+<text x="360" y="145" text-anchor="middle" class="Lx" >bad (go-past) vs baad (you go)</text>
+<text x="80" y="157" text-anchor="middle" class="Lx" >/e/ vs /eː/</text>
+<text x="180" y="157" text-anchor="middle" class="Lx" >e vs ee</text>
+<text x="360" y="157" text-anchor="middle" class="Lx" >ber (garden, obs.) vs beer (garden)</text>
+<text x="80" y="169" text-anchor="middle" class="Lx" >/i/ vs /iː/</text>
+<text x="180" y="169" text-anchor="middle" class="Lx" >i vs ii</text>
+<text x="360" y="169" text-anchor="middle" class="Lx" >bir (iron) vs biir (grain measure)</text>
+<text x="80" y="181" text-anchor="middle" class="Lx" >/o/ vs /oː/</text>
+<text x="180" y="181" text-anchor="middle" class="Lx" >o vs oo</text>
+<text x="360" y="181" text-anchor="middle" class="Lx" >gob (noble) vs goob (place)</text>
+<text x="80" y="193" text-anchor="middle" class="Lx" >/u/ vs /uː/</text>
+<text x="180" y="193" text-anchor="middle" class="Lx" >u vs uu</text>
+<text x="360" y="193" text-anchor="middle" class="Lx" >bur (flour) vs buur (mountain)</text>
+<line x1="20" y1="210" x2="460" y2="210" stroke="black" stroke-width="0.3"/>
+<text x="240" y="219" text-anchor="middle" class="H" >— CONSONANT INVENTORY — 22 CONSONANTS —</text>
+<text x="55" y="229" text-anchor="middle" class="Ls" >b d g</text>
+<text x="115" y="229" text-anchor="middle" class="Lx" >voiced stops</text>
+<text x="310" y="229" text-anchor="middle" class="Lx" >bilabial, alveolar, velar</text>
+<text x="55" y="241" text-anchor="middle" class="Ls" >t k q</text>
+<text x="115" y="241" text-anchor="middle" class="Lx" >voiceless stops</text>
+<text x="310" y="241" text-anchor="middle" class="Lx" >alveolar, velar, uvular</text>
+<text x="55" y="253" text-anchor="middle" class="Ls" >dh</text>
+<text x="115" y="253" text-anchor="middle" class="Lx" >/ɖ/ retroflex</text>
+<text x="310" y="253" text-anchor="middle" class="Lx" >tongue tip curled back</text>
+<text x="55" y="265" text-anchor="middle" class="Ls" >f s sh kh</text>
+<text x="115" y="265" text-anchor="middle" class="Lx" >fricatives</text>
+<text x="310" y="265" text-anchor="middle" class="Lx" >labio-dental, alveolar, palatal, velar</text>
+<text x="55" y="277" text-anchor="middle" class="Ls" >c x</text>
+<text x="115" y="277" text-anchor="middle" class="Lx" >pharyngeals</text>
+<text x="310" y="277" text-anchor="middle" class="Lx" >/ʿ/ voiced, /ħ/ voiceless</text>
+<text x="55" y="289" text-anchor="middle" class="Ls" >h</text>
+<text x="115" y="289" text-anchor="middle" class="Lx" >/h/</text>
+<text x="310" y="289" text-anchor="middle" class="Lx" >glottal</text>
+<text x="55" y="301" text-anchor="middle" class="Ls" >'</text>
+<text x="115" y="301" text-anchor="middle" class="Lx" >/ʔ/</text>
+<text x="310" y="301" text-anchor="middle" class="Lx" >glottal stop: aa’ad (you)</text>
+<text x="55" y="313" text-anchor="middle" class="Ls" >j</text>
+<text x="115" y="313" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="310" y="313" text-anchor="middle" class="Lx" >affricate</text>
+<text x="55" y="325" text-anchor="middle" class="Ls" >m n</text>
+<text x="115" y="325" text-anchor="middle" class="Lx" >nasals</text>
+<text x="310" y="325" text-anchor="middle" class="Lx" >bilabial, alveolar</text>
+<text x="55" y="337" text-anchor="middle" class="Ls" >l r</text>
+<text x="115" y="337" text-anchor="middle" class="Lx" >lateral / rhotic</text>
+<text x="310" y="337" text-anchor="middle" class="Lx" ></text>
+<text x="55" y="349" text-anchor="middle" class="Ls" >w y</text>
+<text x="115" y="349" text-anchor="middle" class="Lx" >glides</text>
+<text x="310" y="349" text-anchor="middle" class="Lx" >labio-velar, palatal</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="373" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE AND GEMINATION —</text>
+<text x="240" y="384" text-anchor="middle" class="Ls" >Somali syllables: CV, CVC, CVV (long vowel). Consonant clusters uncommon.</text>
+<text x="240" y="393" text-anchor="middle" class="Ls" >Geminate (doubled) consonants are phonemic: guri (house) vs gurri (to fold).</text>
+<text x="240" y="402" text-anchor="middle" class="Ls" >Word structure: typically C-V-(C) with productive suffixation for case, gender, definiteness.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 32 · SOMALI · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

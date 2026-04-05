@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >YORUBA — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 30C OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SVO — ISOLATING LANGUAGE — NO INFLECTION —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Yoruba is an ISOLATING language: no inflectional suffixes. Grammatical meaning conveyed by particles and order.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >No case endings, no verb conjugation for agreement. Tense/aspect marked by pre-verbal particles.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Mo fe lati lo. (I want to go.) — Mo=I, fe=want, lati=to, lo=go. No inflection at all.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— TENSE-ASPECT-MOOD PARTICLES —</text>
+<text x="55" y="125" text-anchor="middle" class="Ls" >(none)</text>
+<text x="165" y="125" text-anchor="middle" class="Lx" >Simple present / habitual</text>
+<text x="360" y="125" text-anchor="middle" class="Lx" >Mo joko. (I sit / I sit habitually.)</text>
+<text x="55" y="139" text-anchor="middle" class="Ls" >́n</text>
+<text x="165" y="139" text-anchor="middle" class="Lx" >Progressive (present cont.)</text>
+<text x="360" y="139" text-anchor="middle" class="Lx" >Mo ́n joko. (I am sitting.)</text>
+<text x="55" y="153" text-anchor="middle" class="Ls" >ti</text>
+<text x="165" y="153" text-anchor="middle" class="Lx" >Perfect (completed)</text>
+<text x="360" y="153" text-anchor="middle" class="Lx" >Mo ti joko. (I have sat.)</text>
+<text x="55" y="167" text-anchor="middle" class="Ls" >yoo / maá</text>
+<text x="165" y="167" text-anchor="middle" class="Lx" >Future / habitual future</text>
+<text x="360" y="167" text-anchor="middle" class="Lx" >Mo yoo joko. (I will sit.)</text>
+<text x="55" y="181" text-anchor="middle" class="Ls" >́fā</text>
+<text x="165" y="181" text-anchor="middle" class="Lx" >Past habitual</text>
+<text x="360" y="181" text-anchor="middle" class="Lx" >Mo ́fā joko. (I used to sit.)</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="207" text-anchor="middle" class="H" >— SERIAL VERB CONSTRUCTIONS —</text>
+<text x="240" y="218" text-anchor="middle" class="L" >Yoruba uses SERIAL VERBS: multiple verbs in sequence share one subject with no conjunction.</text>
+<text x="240" y="228" text-anchor="middle" class="Ls" >Mo mú omi mu. (I took water drank.) = "I drank water."</text>
+<text x="240" y="237" text-anchor="middle" class="Ls" >O wà wọ. (He came saw.) = "He came and looked / He came to see."</text>
+<text x="240" y="246" text-anchor="middle" class="Ls" >This is a defining feature of Niger-Congo languages — absent from Indo-European.</text>
+<line x1="20" y1="254" x2="460" y2="254" stroke="black" stroke-width="0.3"/>
+<text x="240" y="263" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="50" y="273" text-anchor="middle" class="Ls" >bẹ́ẹ̀ / ràrà</text>
+<text x="175" y="273" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="50" y="283" text-anchor="middle" class="Ls" >mi / ɔ / ēyin</text>
+<text x="175" y="283" text-anchor="middle" class="Lx" >I / he-she / you pl</text>
+<text x="50" y="293" text-anchor="middle" class="Ls" >yí / ̀ỳen</text>
+<text x="175" y="293" text-anchor="middle" class="Lx" >this / that</text>
+<text x="50" y="303" text-anchor="middle" class="Ls" >íbo?</text>
+<text x="175" y="303" text-anchor="middle" class="Lx" >where</text>
+<text x="50" y="313" text-anchor="middle" class="Ls" >kí ní?</text>
+<text x="175" y="313" text-anchor="middle" class="Lx" >what</text>
+<text x="50" y="323" text-anchor="middle" class="Ls" >ta ló?</text>
+<text x="175" y="323" text-anchor="middle" class="Lx" >who</text>
+<text x="50" y="333" text-anchor="middle" class="Ls" >ígºtí?</text>
+<text x="175" y="333" text-anchor="middle" class="Lx" >when</text>
+<text x="50" y="343" text-anchor="middle" class="Ls" >pàtàkí?</text>
+<text x="175" y="343" text-anchor="middle" class="Lx" >why</text>
+<text x="50" y="353" text-anchor="middle" class="Ls" >ɔmi</text>
+<text x="175" y="353" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="363" text-anchor="middle" class="Ls" >ọrọlọ</text>
+<text x="175" y="363" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="373" text-anchor="middle" class="Ls" >àgbàlẹ</text>
+<text x="175" y="373" text-anchor="middle" class="Lx" >earth/soil</text>
+<text x="50" y="383" text-anchor="middle" class="Ls" >eni</text>
+<text x="175" y="383" text-anchor="middle" class="Lx" >person</text>
+<text x="50" y="393" text-anchor="middle" class="Ls" >iwe</text>
+<text x="175" y="393" text-anchor="middle" class="Lx" >book</text>
+<text x="280" y="273" text-anchor="middle" class="Ls" >akókó</text>
+<text x="405" y="273" text-anchor="middle" class="Lx" >time</text>
+<text x="280" y="283" text-anchor="middle" class="Ls" >᳕̀ɔscò</text>
+<text x="405" y="283" text-anchor="middle" class="Lx" >moon</text>
+<text x="280" y="293" text-anchor="middle" class="Ls" >ishẹ́</text>
+<text x="405" y="293" text-anchor="middle" class="Lx" >star</text>
+<text x="280" y="303" text-anchor="middle" class="Ls" >ọròkan</text>
+<text x="405" y="303" text-anchor="middle" class="Lx" >heart</text>
+<text x="280" y="313" text-anchor="middle" class="Ls" >ifẹ́</text>
+<text x="405" y="313" text-anchor="middle" class="Lx" >love</text>
+<text x="280" y="323" text-anchor="middle" class="Ls" >ominira</text>
+<text x="405" y="323" text-anchor="middle" class="Lx" >freedom</text>
+<text x="280" y="333" text-anchor="middle" class="Ls" >ìranti</text>
+<text x="405" y="333" text-anchor="middle" class="Lx" >memory</text>
+<text x="280" y="343" text-anchor="middle" class="Ls" >ồjọ́à</text>
+<text x="405" y="343" text-anchor="middle" class="Lx" >future</text>
+<text x="280" y="353" text-anchor="middle" class="Ls" >ayé</text>
+<text x="405" y="353" text-anchor="middle" class="Lx" >world/life</text>
+<text x="280" y="363" text-anchor="middle" class="Ls" >dara / bàjé</text>
+<text x="405" y="363" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="280" y="373" text-anchor="middle" class="Ls" >gbogbo</text>
+<text x="405" y="373" text-anchor="middle" class="Lx" >everything</text>
+<text x="280" y="383" text-anchor="middle" class="Ls" >ayẹ</text>
+<text x="405" y="383" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="black" stroke-width="0.3"/>
+<text x="240" y="417" text-anchor="middle" class="H" >— NOUNS AND PRONOUNS —</text>
+<text x="240" y="428" text-anchor="middle" class="Ls" >No grammatical gender. No articles. Definiteness marked by context or demonstratives.</text>
+<text x="240" y="437" text-anchor="middle" class="Ls" >Pronouns: mo/mi (I/me), o/́ (you sg), ó (he/she/it), a (we), yin (you pl), wọn (they).</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Possessives: noun + pronoun: ilé mi (my house), ilé rẹ (your house), ilé rẹ̀ (his house).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 30 · YORUBA · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

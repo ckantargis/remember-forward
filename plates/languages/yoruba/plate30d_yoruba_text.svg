@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >YORUBA — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 30D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — YORUBA PROVERB —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >Yoruba: Ajé lẹ́ ̀bà orí sẹ́.</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >Wealth comes  head  finds.</text>
+<text x="240" y="97" text-anchor="middle" class="Ls" >"Wealth comes to the head that seeks it." — Fortune favours the prepared.</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="113" text-anchor="middle" class="H" >— PASSAGE 2 — YORUBA PROVERB —</text>
+<text x="240" y="124" text-anchor="middle" class="L" >Orí ̀pé ló maa ń gbani jẹ́, kí ̀sí awọn àgbàgbà.</text>
+<text x="240" y="134" text-anchor="middle" class="Lx" >Destiny that  will save-one  not are  elders.</text>
+<text x="240" y="143" text-anchor="middle" class="Ls" >"It is one's destiny that saves, not the elders." — Personal fate and responsibility.</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H" >— PASSAGE 3 — ON THE NATURE OF MEMORY —</text>
+<text x="240" y="170" text-anchor="middle" class="L" >Ìrànti ̀ní kí a mọ dà sẹ́hìn, kí a sì tọsí̲wọlẹ́.</text>
+<text x="240" y="180" text-anchor="middle" class="Lx" >Memory says that we look back,  that we face forward.</text>
+<text x="240" y="189" text-anchor="middle" class="Ls" >"Memory asks us to look back so that we may face forward."</text>
+<line x1="20" y1="197" x2="460" y2="197" stroke="black" stroke-width="0.3"/>
+<text x="240" y="205" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="217" text-anchor="middle" class="L" >ọrọ̀ yí ni a Şẹ́ fún ɔ, lófo, nipẹ́ awọn eni tí wọn rànti ồjọ́à.</text>
+<text x="240" y="228" text-anchor="middle" class="Lx" >Message this it was made for you freely  by   people   who   they remembered future.</text>
+<text x="240" y="238" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="246" x2="460" y2="246" stroke="black" stroke-width="0.3"/>
+<text x="240" y="255" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN YORUBA —</text>
+<text x="240" y="266" text-anchor="middle" class="L" >ồjọ́à = "future" — literally "day coming" or "coming day". The future as an approaching moment.</text>
+<text x="240" y="276" text-anchor="middle" class="Ls" >rànti = "to remember" — ìrànti = "memory / remembrance" (noun from verb).</text>
+<text x="240" y="285" text-anchor="middle" class="Ls" >lófo = "freely / free of charge" — from ófo (free, no cost, without loss).</text>
+<text x="240" y="294" text-anchor="middle" class="Ls" >Tone note: ọrọ̀ (message) is L-L; ồjọ́à (future) is H-H-L — tone carries meaning.</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="black" stroke-width="0.3"/>
+<text x="240" y="311" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="322" text-anchor="middle" class="Ls" >Yoruba is spoken by ~45 million people in Nigeria, Benin, and Togo. One of Africa's major literary languages.</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >It spread to the Americas through the slave trade: Candomble, Lucumi, and Santeria preserve Yoruba liturgy.</text>
+<text x="240" y="340" text-anchor="middle" class="Ls" >Three tones (H/M/L) are marked in standard writing with acute, grave, and no accent.</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Consult Plate 30A for the alphabet including dotted letters (ẹ, ọ, ṣ) and the unique gb/kp sounds.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 30 · YORUBA · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

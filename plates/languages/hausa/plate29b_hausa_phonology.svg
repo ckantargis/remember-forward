@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HAUSA — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 29B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— TWO-TONE SYSTEM — HIGH AND LOW —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Hausa has two level tones (High and Low) plus a falling tone (H→L on one mora).</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Tone is phonemic: identical segmental strings differ only in tone pattern.</text>
+<text x="80" y="99" text-anchor="middle" class="Ls" >mai</text>
+<text x="155" y="99" text-anchor="middle" class="Lx" >owner (H)</text>
+<text x="285" y="99" text-anchor="middle" class="Ls" >mài</text>
+<text x="385" y="99" text-anchor="middle" class="Lx" >stomach (L)</text>
+<text x="80" y="111" text-anchor="middle" class="Ls" >kāya</text>
+<text x="155" y="111" text-anchor="middle" class="Lx" >loads (HL)</text>
+<text x="285" y="111" text-anchor="middle" class="Ls" >kàya</text>
+<text x="385" y="111" text-anchor="middle" class="Lx" >thorns (LH)</text>
+<text x="80" y="123" text-anchor="middle" class="Ls" >gīda</text>
+<text x="155" y="123" text-anchor="middle" class="Lx" >house (HL)</text>
+<text x="285" y="123" text-anchor="middle" class="Ls" >gìda</text>
+<text x="385" y="123" text-anchor="middle" class="Lx" >(verb: go home) (LH)</text>
+<line x1="20" y1="138" x2="460" y2="138" stroke="black" stroke-width="0.3"/>
+<text x="240" y="147" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 SHORT + 5 LONG —</text>
+<text x="240" y="158" text-anchor="middle" class="L" >Vowel length is phonemic in Hausa — like tone, it changes meaning.</text>
+<text x="80" y="168" text-anchor="middle" class="Lx" >/a/ vs /aː/</text>
+<text x="175" y="168" text-anchor="middle" class="Lx" >a vs aa</text>
+<text x="355" y="168" text-anchor="middle" class="Lx" >karA (pull) vs kaara (make a road)</text>
+<text x="80" y="180" text-anchor="middle" class="Lx" >/e/ vs /eː/</text>
+<text x="175" y="180" text-anchor="middle" class="Lx" >e vs ee</text>
+<text x="355" y="180" text-anchor="middle" class="Lx" >mee (what) vs meehe (whatchamacallit)</text>
+<text x="80" y="192" text-anchor="middle" class="Lx" >/i/ vs /iː/</text>
+<text x="175" y="192" text-anchor="middle" class="Lx" >i vs ii</text>
+<text x="355" y="192" text-anchor="middle" class="Lx" >cikin (inside) vs ciikii (belly full)</text>
+<text x="80" y="204" text-anchor="middle" class="Lx" >/o/ vs /oː/</text>
+<text x="175" y="204" text-anchor="middle" class="Lx" >o vs oo</text>
+<text x="355" y="204" text-anchor="middle" class="Lx" >gona (farm) vs goona (farm-emph)</text>
+<text x="80" y="216" text-anchor="middle" class="Lx" >/u/ vs /uː/</text>
+<text x="175" y="216" text-anchor="middle" class="Lx" >u vs uu</text>
+<text x="355" y="216" text-anchor="middle" class="Lx" >muta (people) vs muuta (die-pl)</text>
+<text x="240" y="233" text-anchor="middle" class="Ls" >Diphthongs: ai /aĭ/ and au /aŭ/ are common in Hausa.</text>
+<line x1="20" y1="241" x2="460" y2="241" stroke="black" stroke-width="0.3"/>
+<text x="240" y="250" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="50" y="260" text-anchor="middle" class="Ls" >p b ɓ</text>
+<text x="115" y="260" text-anchor="middle" class="Lx" >/p b ɓ/</text>
+<text x="330" y="260" text-anchor="middle" class="Lx" >labials — ɓ is implosive</text>
+<text x="50" y="271" text-anchor="middle" class="Ls" >t d ɗ</text>
+<text x="115" y="271" text-anchor="middle" class="Lx" >/t d ɗ/</text>
+<text x="330" y="271" text-anchor="middle" class="Lx" >alveolars — ɗ is implosive</text>
+<text x="50" y="282" text-anchor="middle" class="Ls" >k g</text>
+<text x="115" y="282" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="330" y="282" text-anchor="middle" class="Lx" >velars</text>
+<text x="50" y="293" text-anchor="middle" class="Ls" >kʼ</text>
+<text x="115" y="293" text-anchor="middle" class="Lx" >/k'/ ejective</text>
+<text x="330" y="293" text-anchor="middle" class="Lx" >glottalised velar: kʼaɓà (shoe)</text>
+<text x="50" y="304" text-anchor="middle" class="Ls" >ts</text>
+<text x="115" y="304" text-anchor="middle" class="Lx" >/tsʼ/ ejective</text>
+<text x="330" y="304" text-anchor="middle" class="Lx" >glottalised affricate — distinctive</text>
+<text x="50" y="315" text-anchor="middle" class="Ls" >c</text>
+<text x="115" y="315" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="330" y="315" text-anchor="middle" class="Lx" >palatal affricate: cikin</text>
+<text x="50" y="326" text-anchor="middle" class="Ls" >j</text>
+<text x="115" y="326" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="330" y="326" text-anchor="middle" class="Lx" >voiced affricate</text>
+<text x="50" y="337" text-anchor="middle" class="Ls" >f s z sh</text>
+<text x="115" y="337" text-anchor="middle" class="Lx" >/ɸ s z ʃ/</text>
+<text x="330" y="337" text-anchor="middle" class="Lx" >fricatives</text>
+<text x="50" y="348" text-anchor="middle" class="Ls" >r</text>
+<text x="115" y="348" text-anchor="middle" class="Lx" >/r/</text>
+<text x="330" y="348" text-anchor="middle" class="Lx" >trill (word initial) / flap (medial)</text>
+<text x="50" y="359" text-anchor="middle" class="Ls" >l m n</text>
+<text x="115" y="359" text-anchor="middle" class="Lx" >/l m n/</text>
+<text x="330" y="359" text-anchor="middle" class="Lx" >lateral and nasals</text>
+<text x="50" y="370" text-anchor="middle" class="Ls" >w y ’y</text>
+<text x="115" y="370" text-anchor="middle" class="Lx" >/w j ʿj/</text>
+<text x="330" y="370" text-anchor="middle" class="Lx" >glides — ’y is glottalised</text>
+<text x="50" y="381" text-anchor="middle" class="Ls" >ʾ</text>
+<text x="115" y="381" text-anchor="middle" class="Lx" >/ʾ/</text>
+<text x="330" y="381" text-anchor="middle" class="Lx" >glottal stop: yaʾin (eye)</text>
+<line x1="20" y1="396" x2="460" y2="396" stroke="black" stroke-width="0.3"/>
+<text x="240" y="405" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE AND PROSODY —</text>
+<text x="240" y="416" text-anchor="middle" class="Ls" >Hausa syllables: CV or CVC. No complex clusters. Words tend to be disyllabic.</text>
+<text x="240" y="425" text-anchor="middle" class="Ls" >Long vowels count as two morae: CVV = heavy syllable; affects tone and grammar.</text>
+<text x="240" y="434" text-anchor="middle" class="Ls" >Word-final position: often determines tone pattern of entire word (WF tone).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 29 · HAUSA · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

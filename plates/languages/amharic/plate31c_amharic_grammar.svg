@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px}
+  .S{font-size:7px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >AMHARIC — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 31C OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SOV — VERB-FINAL — SEMITIC ROOTS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Amharic is SOV (verb-final), like most Semitic languages. Extensive use of prefixes and suffixes.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Semitic root system: 3-consonant roots carry core meaning; vowel patterns and affixes create related words.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Root s-b-r = "break": səbbərə (he broke), təsəbbərə (it broke), asəbbərə (he broke it [causative]).</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VERB CONJUGATION — nəggərə "spoke / said" —</text>
+<text x="70" y="125" text-anchor="middle" class="Lx" >Form</text>
+<text x="175" y="125" text-anchor="middle" class="Lx" >Person</text>
+<text x="300" y="125" text-anchor="middle" class="Lx" >Gloss</text>
+<text x="70" y="134" text-anchor="middle" class="Ls" >(̀nəggər-ku)</text>
+<text x="175" y="134" text-anchor="middle" class="Lx" >1sg</text>
+<text x="300" y="134" text-anchor="middle" class="Lx" >I spoke</text>
+<text x="70" y="145" text-anchor="middle" class="Ls" >(̀nəggər-k)</text>
+<text x="175" y="145" text-anchor="middle" class="Lx" >2sg M</text>
+<text x="300" y="145" text-anchor="middle" class="Lx" >you-m spoke</text>
+<text x="70" y="156" text-anchor="middle" class="Ls" >(̀nəggər-sh)</text>
+<text x="175" y="156" text-anchor="middle" class="Lx" >2sg F</text>
+<text x="300" y="156" text-anchor="middle" class="Lx" >you-f spoke</text>
+<text x="70" y="167" text-anchor="middle" class="Ls" >̀nəggərə</text>
+<text x="175" y="167" text-anchor="middle" class="Lx" >3sg M</text>
+<text x="300" y="167" text-anchor="middle" class="Lx" >he spoke</text>
+<text x="70" y="178" text-anchor="middle" class="Ls" >̀nəggər-ətch</text>
+<text x="175" y="178" text-anchor="middle" class="Lx" >3sg F</text>
+<text x="300" y="178" text-anchor="middle" class="Lx" >she spoke</text>
+<text x="70" y="189" text-anchor="middle" class="Ls" >̀nəggərnə</text>
+<text x="175" y="189" text-anchor="middle" class="Lx" >1pl</text>
+<text x="300" y="189" text-anchor="middle" class="Lx" >we spoke</text>
+<text x="70" y="200" text-anchor="middle" class="Ls" >̀nəggər-əchu</text>
+<text x="175" y="200" text-anchor="middle" class="Lx" >2pl</text>
+<text x="300" y="200" text-anchor="middle" class="Lx" >you pl spoke</text>
+<text x="70" y="211" text-anchor="middle" class="Ls" >̀nəggəru</text>
+<text x="175" y="211" text-anchor="middle" class="Lx" >3pl</text>
+<text x="300" y="211" text-anchor="middle" class="Lx" >they spoke</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H" >— DEFINITE ARTICLE AND CASE —</text>
+<text x="240" y="246" text-anchor="middle" class="Ls" >Definite article: suffix -u (M) or -wa (F) added to noun: bət (house) → bət-u (the house).</text>
+<text x="240" y="255" text-anchor="middle" class="Ls" >Accusative (object): suffix -ən: bət-ən (the house, as object).</text>
+<text x="240" y="264" text-anchor="middle" class="Ls" >Genitive: yə- prefix: yə-bət bər (the door of the house).</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="281" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="30" y="291" text-anchor="middle" class="Las" >ኣውንት / አይደልም</text>
+<text x="115" y="291" text-anchor="middle" class="Lx" >əwunt / aydələm</text>
+<text x="215" y="291" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="30" y="301" text-anchor="middle" class="Las" >እኔ / አንተ</text>
+<text x="115" y="301" text-anchor="middle" class="Lx" >ənə / antə</text>
+<text x="215" y="301" text-anchor="middle" class="Lx" >I / you (m)</text>
+<text x="30" y="311" text-anchor="middle" class="Las" >ይህ / ያ</text>
+<text x="115" y="311" text-anchor="middle" class="Lx" >əyih / əya</text>
+<text x="215" y="311" text-anchor="middle" class="Lx" >this / that</text>
+<text x="30" y="321" text-anchor="middle" class="Las" >የት</text>
+<text x="115" y="321" text-anchor="middle" class="Lx" >əyet</text>
+<text x="215" y="321" text-anchor="middle" class="Lx" >where</text>
+<text x="30" y="331" text-anchor="middle" class="Las" >ምን</text>
+<text x="115" y="331" text-anchor="middle" class="Lx" >əmn</text>
+<text x="215" y="331" text-anchor="middle" class="Lx" >what</text>
+<text x="30" y="341" text-anchor="middle" class="Las" >ማን</text>
+<text x="115" y="341" text-anchor="middle" class="Lx" >əman</text>
+<text x="215" y="341" text-anchor="middle" class="Lx" >who</text>
+<text x="30" y="351" text-anchor="middle" class="Las" >መች</text>
+<text x="115" y="351" text-anchor="middle" class="Lx" >əmətch</text>
+<text x="215" y="351" text-anchor="middle" class="Lx" >when</text>
+<text x="30" y="361" text-anchor="middle" class="Las" >ልምን</text>
+<text x="115" y="361" text-anchor="middle" class="Lx" >ələmən</text>
+<text x="215" y="361" text-anchor="middle" class="Lx" >why</text>
+<text x="30" y="371" text-anchor="middle" class="Las" >ው※</text>
+<text x="115" y="371" text-anchor="middle" class="Lx" >əwəha</text>
+<text x="215" y="371" text-anchor="middle" class="Lx" >water</text>
+<text x="30" y="381" text-anchor="middle" class="Las" >ዕብ</text>
+<text x="115" y="381" text-anchor="middle" class="Lx" >əts'at</text>
+<text x="215" y="381" text-anchor="middle" class="Lx" >fire</text>
+<text x="30" y="391" text-anchor="middle" class="Las" >ምድር</text>
+<text x="115" y="391" text-anchor="middle" class="Lx" >əmədr</text>
+<text x="215" y="391" text-anchor="middle" class="Lx" >earth</text>
+<text x="30" y="401" text-anchor="middle" class="Las" >ሰወ</text>
+<text x="115" y="401" text-anchor="middle" class="Lx" >əsəw</text>
+<text x="215" y="401" text-anchor="middle" class="Lx" >person</text>
+<text x="30" y="411" text-anchor="middle" class="Las" >ምፒ</text>
+<text x="115" y="411" text-anchor="middle" class="Lx" >əmətsʼɨaf</text>
+<text x="215" y="411" text-anchor="middle" class="Lx" >book</text>
+<text x="265" y="291" text-anchor="middle" class="Las" >ግዜ</text>
+<text x="350" y="291" text-anchor="middle" class="Lx" >əgɨzə</text>
+<text x="450" y="291" text-anchor="middle" class="Lx" >time</text>
+<text x="265" y="301" text-anchor="middle" class="Las" >ወርሕ</text>
+<text x="350" y="301" text-anchor="middle" class="Lx" >əwərh</text>
+<text x="450" y="301" text-anchor="middle" class="Lx" >moon</text>
+<text x="265" y="311" text-anchor="middle" class="Las" >ኰክዓት</text>
+<text x="350" y="311" text-anchor="middle" class="Lx" >əwk'iat</text>
+<text x="450" y="311" text-anchor="middle" class="Lx" >star</text>
+<text x="265" y="321" text-anchor="middle" class="Las" >ሉብ</text>
+<text x="350" y="321" text-anchor="middle" class="Lx" >əlib</text>
+<text x="450" y="321" text-anchor="middle" class="Lx" >heart</text>
+<text x="265" y="331" text-anchor="middle" class="Las" >ፍቀር</text>
+<text x="350" y="331" text-anchor="middle" class="Lx" >əfɨqər</text>
+<text x="450" y="331" text-anchor="middle" class="Lx" >love</text>
+<text x="265" y="341" text-anchor="middle" class="Las" >ተስፋ</text>
+<text x="350" y="341" text-anchor="middle" class="Lx" >ətəsfɨa</text>
+<text x="450" y="341" text-anchor="middle" class="Lx" >freedom</text>
+<text x="265" y="351" text-anchor="middle" class="Las" >እናስታሳ</text>
+<text x="350" y="351" text-anchor="middle" class="Lx" >memory (thought)</text>
+<text x="450" y="351" text-anchor="middle" class="Lx" >thought/memory</text>
+<text x="265" y="361" text-anchor="middle" class="Las" >ወደዓይት</text>
+<text x="350" y="361" text-anchor="middle" class="Lx" >əwədəayt</text>
+<text x="450" y="361" text-anchor="middle" class="Lx" >future</text>
+<text x="265" y="371" text-anchor="middle" class="Las" >ዓለም</text>
+<text x="350" y="371" text-anchor="middle" class="Lx" >əaləm</text>
+<text x="450" y="371" text-anchor="middle" class="Lx" >world</text>
+<text x="265" y="381" text-anchor="middle" class="Las" >ቀና / መጭ</text>
+<text x="350" y="381" text-anchor="middle" class="Lx" >əqəna / mətʃə</text>
+<text x="450" y="381" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="265" y="391" text-anchor="middle" class="Las" >ሁሉም</text>
+<text x="350" y="391" text-anchor="middle" class="Lx" >everything</text>
+<text x="450" y="391" text-anchor="middle" class="Lx" >everything</text>
+<text x="265" y="401" text-anchor="middle" class="Las" >ዘመን</text>
+<text x="350" y="401" text-anchor="middle" class="Lx" >əəmen</text>
+<text x="450" y="401" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="435" text-anchor="middle" class="H" >— COMPOUND VERBS AND AUXILIARY —</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Amharic uses "light verb" constructions: noun + aələ (said/did) for complex meanings.</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >təsəfa (hope) + aələ = "hoped" · fiqər (love) + aələ = "loved"</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 31 · AMHARIC · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
