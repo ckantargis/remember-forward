@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >FRENCH — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 28A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THE FRENCH ALPHABET — 26 LETTERS + DIACRITICS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >French uses the standard 26-letter Latin alphabet. Spelling is historically conservative — many silent letters.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >French spelling preserves medieval and Latin forms even when the pronunciation has changed drastically.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >eau = /o/ · oi = /wa/ · eau, au, o, ô all = /o/ · silent final consonants common: grand, petit, beaux.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— DIACRITICS — FIVE TYPES —</text>
+<text x="45" y="125" text-anchor="middle" class="Ls" >é</text>
+<text x="130" y="125" text-anchor="middle" class="Lx" >Acute (aigu)</text>
+<text x="320" y="125" text-anchor="middle" class="Lx" >Marks /e/ close: été, pré, bébé</text>
+<text x="45" y="137" text-anchor="middle" class="Ls" >è ê</text>
+<text x="130" y="137" text-anchor="middle" class="Lx" >Grave / Circumflex</text>
+<text x="320" y="137" text-anchor="middle" class="Lx" >Marks /ɛ/ open: mère, fête, tête</text>
+<text x="45" y="149" text-anchor="middle" class="Ls" >à ù</text>
+<text x="130" y="149" text-anchor="middle" class="Lx" >Grave (a/u)</text>
+<text x="320" y="149" text-anchor="middle" class="Lx" >Disambiguates homophones: a (has) vs à (to); ou (or) vs où (where)</text>
+<text x="45" y="161" text-anchor="middle" class="Ls" >â î ô û ê</text>
+<text x="130" y="161" text-anchor="middle" class="Lx" >Circumflex</text>
+<text x="320" y="161" text-anchor="middle" class="Lx" >Marks long/close vowel or lost s: hôpital &lt; hospitale</text>
+<text x="45" y="173" text-anchor="middle" class="Ls" >ë ï ü</text>
+<text x="130" y="173" text-anchor="middle" class="Lx" >Diérèse (trema)</text>
+<text x="320" y="173" text-anchor="middle" class="Lx" >Vowel pronounced separately: Naïl, noël, naïve</text>
+<text x="45" y="185" text-anchor="middle" class="Ls" >ç</text>
+<text x="130" y="185" text-anchor="middle" class="Lx" >Cédille</text>
+<text x="320" y="185" text-anchor="middle" class="Lx" >C before a/o/u = /s/: français, garçon, reçu</text>
+<line x1="20" y1="200" x2="460" y2="200" stroke="black" stroke-width="0.3"/>
+<text x="240" y="209" text-anchor="middle" class="H" >— SILENT LETTERS — A MAJOR FEATURE —</text>
+<text x="240" y="220" text-anchor="middle" class="L" >French has extensive silent letters — final consonants usually silent unless followed by a vowel (liaison).</text>
+<text x="75" y="230" text-anchor="middle" class="Ls" >grand ami</text>
+<text x="175" y="230" text-anchor="middle" class="Lx" >[gʁãt ami]</text>
+<text x="355" y="230" text-anchor="middle" class="Lx" >final -d silent; liaison: grand_ami = [gʁãt_ami]</text>
+<text x="75" y="242" text-anchor="middle" class="Ls" >les enfants</text>
+<text x="175" y="242" text-anchor="middle" class="Lx" >[le zãfã]</text>
+<text x="355" y="242" text-anchor="middle" class="Lx" >les = /le/; liaison s: [lezãfã]</text>
+<text x="75" y="254" text-anchor="middle" class="Ls" >est-il</text>
+<text x="175" y="254" text-anchor="middle" class="Lx" >[ɛttil]</text>
+<text x="355" y="254" text-anchor="middle" class="Lx" >final -t of est pronounced in inversion</text>
+<text x="75" y="266" text-anchor="middle" class="Ls" >beaux</text>
+<text x="175" y="266" text-anchor="middle" class="Lx" >[bo]</text>
+<text x="355" y="266" text-anchor="middle" class="Lx" >final -x silent; eau = /o/</text>
+<text x="75" y="278" text-anchor="middle" class="Ls" >psychologie</text>
+<text x="175" y="278" text-anchor="middle" class="Lx" >[psikolɔʒi]</text>
+<text x="355" y="278" text-anchor="middle" class="Lx" >initial p silent in common speech</text>
+<text x="75" y="290" text-anchor="middle" class="Ls" >homme</text>
+<text x="175" y="290" text-anchor="middle" class="Lx" >[ɔm]</text>
+<text x="355" y="290" text-anchor="middle" class="Lx" >initial h always silent; final -e silent</text>
+<line x1="20" y1="306" x2="460" y2="306" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H" >— LIAISON AND ELISION —</text>
+<text x="240" y="326" text-anchor="middle" class="L" >Liaison: final silent consonant pronounced before a following vowel-initial word.</text>
+<text x="240" y="336" text-anchor="middle" class="Ls" >les amis [lezami] (the friends) · nous avons [nuzavɔ̃] (we have) · deux enfants [døzãfã]</text>
+<text x="240" y="345" text-anchor="middle" class="Ls" >Elision: final vowel of small words dropped before vowel: le + ami = l'ami · de + elle = d'elle</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >Required elision: le, la, de, que, ne, se, me, te, ce before vowels or silent h.</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Old French (~9th–14th c.): diverged from Vulgar Latin; Serments de Strasbourg (842 CE) first French document.</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Middle French (14th–17th c.): heavy borrowing from Latin; spelling increasingly conservative vs. pronunciation.</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >Académie française (founded 1635): codifies French spelling and grammar; issues official dictionary.</text>
+<text x="240" y="409" text-anchor="middle" class="Ls" >French is spoken by ~80 million native speakers; ~275 million total (L1+L2) across 29 countries.</text>
+<text x="240" y="418" text-anchor="middle" class="Ls" >Second most learned language in the world; official language of the UN, EU, African Union, Olympic Committee.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 28 · FRENCH · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >FRENCH — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 28C OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SVO — OBLIGATORY SUBJECT — TWO GENDERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >French is SVO. Unlike Spanish/Italian, subject pronouns are OBLIGATORY — not null-subject.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Two genders (M/F): le livre (M), la table (F). Gender must be memorised — not predictable.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Articles: le/la/les (definite), un/une/des (indefinite). Articles required where English often omits them.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VERB CONJUGATION — parler "to speak" —</text>
+<text x="105" y="125" text-anchor="middle" class="Lx" >Present</text>
+<text x="355" y="125" text-anchor="middle" class="Lx" >Imparfait (past continuous)</text>
+<text x="42" y="134" text-anchor="middle" class="Lx" >je</text>
+<text x="108" y="134" text-anchor="middle" class="Ls" >parle</text>
+<text x="198" y="134" text-anchor="middle" class="Lx" >I speak</text>
+<text x="275" y="134" text-anchor="middle" class="Lx" >je</text>
+<text x="345" y="134" text-anchor="middle" class="Ls" >parlais</text>
+<text x="435" y="134" text-anchor="start" class="Lx" >I was speaking</text>
+<text x="42" y="145" text-anchor="middle" class="Lx" >tu</text>
+<text x="108" y="145" text-anchor="middle" class="Ls" >parles</text>
+<text x="198" y="145" text-anchor="middle" class="Lx" >you (inf)</text>
+<text x="275" y="145" text-anchor="middle" class="Lx" >tu</text>
+<text x="345" y="145" text-anchor="middle" class="Ls" >parlais</text>
+<text x="435" y="145" text-anchor="start" class="Lx" >you</text>
+<text x="42" y="156" text-anchor="middle" class="Lx" >il/elle</text>
+<text x="108" y="156" text-anchor="middle" class="Ls" >parle</text>
+<text x="198" y="156" text-anchor="middle" class="Lx" >he/she</text>
+<text x="275" y="156" text-anchor="middle" class="Lx" >il/elle</text>
+<text x="345" y="156" text-anchor="middle" class="Ls" >parlait</text>
+<text x="435" y="156" text-anchor="start" class="Lx" >he/she</text>
+<text x="42" y="167" text-anchor="middle" class="Lx" >nous</text>
+<text x="108" y="167" text-anchor="middle" class="Ls" >parlons</text>
+<text x="198" y="167" text-anchor="middle" class="Lx" >we</text>
+<text x="275" y="167" text-anchor="middle" class="Lx" >nous</text>
+<text x="345" y="167" text-anchor="middle" class="Ls" >parlions</text>
+<text x="435" y="167" text-anchor="start" class="Lx" >we</text>
+<text x="42" y="178" text-anchor="middle" class="Lx" >vous</text>
+<text x="108" y="178" text-anchor="middle" class="Ls" >parlez</text>
+<text x="198" y="178" text-anchor="middle" class="Lx" >you (formal/pl)</text>
+<text x="275" y="178" text-anchor="middle" class="Lx" >vous</text>
+<text x="345" y="178" text-anchor="middle" class="Ls" >parliez</text>
+<text x="435" y="178" text-anchor="start" class="Lx" >you</text>
+<text x="42" y="189" text-anchor="middle" class="Lx" >ils/elles</text>
+<text x="108" y="189" text-anchor="middle" class="Ls" >parlent</text>
+<text x="198" y="189" text-anchor="middle" class="Lx" >they</text>
+<text x="275" y="189" text-anchor="middle" class="Lx" >ils/elles</text>
+<text x="345" y="189" text-anchor="middle" class="Ls" >parlaient</text>
+<text x="435" y="189" text-anchor="start" class="Lx" >they</text>
+<text x="240" y="208" text-anchor="middle" class="Ls" >Passé composé (perfect): avoir/être + past participle — j'ai parlé (I spoke/have spoken)</text>
+<text x="240" y="217" text-anchor="middle" class="Ls" >être verbs (motion/state change): je suis allé(e) (I went) — participle agrees with subject gender.</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— NEGATION AND QUESTION FORMATION —</text>
+<text x="240" y="245" text-anchor="middle" class="Ls" >Negation: ne…pas wraps the verb: Je ne parle pas (I do not speak). Spoken French often drops ne: je parle pas.</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >Other negatives: ne…jamais (never), ne…rien (nothing), ne…plus (no more), ne…personne (no one).</text>
+<text x="240" y="263" text-anchor="middle" class="Ls" >Questions: inversion (Parlez-vous?), est-ce que (Est-ce que vous parlez?), or intonation (Vous parlez?).</text>
+<line x1="20" y1="271" x2="460" y2="271" stroke="black" stroke-width="0.3"/>
+<text x="240" y="280" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="50" y="290" text-anchor="middle" class="Ls" >oui / non</text>
+<text x="175" y="290" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="50" y="300" text-anchor="middle" class="Ls" >je / vous</text>
+<text x="175" y="300" text-anchor="middle" class="Lx" >I / you (formal)</text>
+<text x="50" y="310" text-anchor="middle" class="Ls" >ceci / cela</text>
+<text x="175" y="310" text-anchor="middle" class="Lx" >this / that</text>
+<text x="50" y="320" text-anchor="middle" class="Ls" >où</text>
+<text x="175" y="320" text-anchor="middle" class="Lx" >where</text>
+<text x="50" y="330" text-anchor="middle" class="Ls" >quoi / qu'est-ce que</text>
+<text x="175" y="330" text-anchor="middle" class="Lx" >what</text>
+<text x="50" y="340" text-anchor="middle" class="Ls" >qui</text>
+<text x="175" y="340" text-anchor="middle" class="Lx" >who</text>
+<text x="50" y="350" text-anchor="middle" class="Ls" >quand</text>
+<text x="175" y="350" text-anchor="middle" class="Lx" >when</text>
+<text x="50" y="360" text-anchor="middle" class="Ls" >pourquoi</text>
+<text x="175" y="360" text-anchor="middle" class="Lx" >why</text>
+<text x="50" y="370" text-anchor="middle" class="Ls" >eau</text>
+<text x="175" y="370" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="380" text-anchor="middle" class="Ls" >feu</text>
+<text x="175" y="380" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="390" text-anchor="middle" class="Ls" >terre</text>
+<text x="175" y="390" text-anchor="middle" class="Lx" >earth</text>
+<text x="50" y="400" text-anchor="middle" class="Ls" >personne</text>
+<text x="175" y="400" text-anchor="middle" class="Lx" >person</text>
+<text x="50" y="410" text-anchor="middle" class="Ls" >livre</text>
+<text x="175" y="410" text-anchor="middle" class="Lx" >book</text>
+<text x="280" y="290" text-anchor="middle" class="Ls" >temps</text>
+<text x="405" y="290" text-anchor="middle" class="Lx" >time/weather</text>
+<text x="280" y="300" text-anchor="middle" class="Ls" >lune</text>
+<text x="405" y="300" text-anchor="middle" class="Lx" >moon</text>
+<text x="280" y="310" text-anchor="middle" class="Ls" >étoile</text>
+<text x="405" y="310" text-anchor="middle" class="Lx" >star</text>
+<text x="280" y="320" text-anchor="middle" class="Ls" >coeur</text>
+<text x="405" y="320" text-anchor="middle" class="Lx" >heart</text>
+<text x="280" y="330" text-anchor="middle" class="Ls" >amour</text>
+<text x="405" y="330" text-anchor="middle" class="Lx" >love</text>
+<text x="280" y="340" text-anchor="middle" class="Ls" >liberté</text>
+<text x="405" y="340" text-anchor="middle" class="Lx" >freedom</text>
+<text x="280" y="350" text-anchor="middle" class="Ls" >mémoire</text>
+<text x="405" y="350" text-anchor="middle" class="Lx" >memory</text>
+<text x="280" y="360" text-anchor="middle" class="Ls" >avenir / futur</text>
+<text x="405" y="360" text-anchor="middle" class="Lx" >future</text>
+<text x="280" y="370" text-anchor="middle" class="Ls" >monde</text>
+<text x="405" y="370" text-anchor="middle" class="Lx" >world</text>
+<text x="280" y="380" text-anchor="middle" class="Ls" >bon / mauvais</text>
+<text x="405" y="380" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="280" y="390" text-anchor="middle" class="Ls" >tout</text>
+<text x="405" y="390" text-anchor="middle" class="Lx" >everything</text>
+<text x="280" y="400" text-anchor="middle" class="Ls" >vie</text>
+<text x="405" y="400" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="423" x2="460" y2="423" stroke="black" stroke-width="0.3"/>
+<text x="240" y="432" text-anchor="middle" class="H" >— SUBJUNCTIVE AND FORMAL REGISTER —</text>
+<text x="240" y="443" text-anchor="middle" class="L" >French subjunctive is still widely used (unlike its decline in Spanish/Italian colloquial speech).</text>
+<text x="240" y="453" text-anchor="middle" class="Ls" >Required after: vouloir que, il faut que, bien que, pour que, avant que…</text>
+<text x="240" y="462" text-anchor="middle" class="Ls" >Il faut que vous parliez (It is necessary that you speak) — subj. after il faut que.</text>
+<text x="240" y="471" text-anchor="middle" class="Ls" >Register: tu (familiar) vs vous (formal/plural). Vous for strangers, elders, professionals.</text>
+<text x="240" y="480" text-anchor="middle" class="Ls" >French has three registers: spoken colloquial, standard written, and soutenu (elevated/literary).</text>
+<text x="240" y="489" text-anchor="middle" class="Ls" >Académie française guards vocabulary — resists English loans (courriel not email, logiciel not software).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 28 · FRENCH · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

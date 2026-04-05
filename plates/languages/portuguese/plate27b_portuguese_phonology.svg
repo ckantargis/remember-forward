@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PORTUGUESE — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 27B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— VOWEL SYSTEM — ORAL AND NASAL —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Portuguese has 7 oral vowels + 5 nasal vowels — one of the most complex vowel systems among Romance languages.</text>
+<text x="55" y="89" text-anchor="middle" class="Lx" >/a/</text>
+<text x="130" y="89" text-anchor="middle" class="Lx" >a</text>
+<text x="310" y="89" text-anchor="middle" class="Lx" >open low: pá (spade)</text>
+<text x="55" y="100" text-anchor="middle" class="Lx" >/æ/ or /ɐ/</text>
+<text x="130" y="100" text-anchor="middle" class="Lx" >a unstressed</text>
+<text x="310" y="100" text-anchor="middle" class="Lx" >reduced in EP: casa [kæzɐ]</text>
+<text x="55" y="111" text-anchor="middle" class="Lx" >/e/</text>
+<text x="130" y="111" text-anchor="middle" class="Lx" >e close</text>
+<text x="310" y="111" text-anchor="middle" class="Lx" >mês (month)</text>
+<text x="55" y="122" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="130" y="122" text-anchor="middle" class="Lx" >e open</text>
+<text x="310" y="122" text-anchor="middle" class="Lx" >pé (foot)</text>
+<text x="55" y="133" text-anchor="middle" class="Lx" >/i/</text>
+<text x="130" y="133" text-anchor="middle" class="Lx" >i</text>
+<text x="310" y="133" text-anchor="middle" class="Lx" >vir (come)</text>
+<text x="55" y="144" text-anchor="middle" class="Lx" >/o/</text>
+<text x="130" y="144" text-anchor="middle" class="Lx" >o close</text>
+<text x="310" y="144" text-anchor="middle" class="Lx" >avô (grandfather)</text>
+<text x="55" y="155" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="130" y="155" text-anchor="middle" class="Lx" >o open</text>
+<text x="310" y="155" text-anchor="middle" class="Lx" >pó (dust)</text>
+<text x="55" y="166" text-anchor="middle" class="Lx" >/u/</text>
+<text x="130" y="166" text-anchor="middle" class="Lx" >u</text>
+<text x="310" y="166" text-anchor="middle" class="Lx" >luz (light)</text>
+<line x1="20" y1="183" x2="460" y2="183" stroke="black" stroke-width="0.3"/>
+<text x="240" y="192" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="40" y="202" text-anchor="middle" class="Ls" >p b</text>
+<text x="88" y="202" text-anchor="middle" class="Lx" >/p b/</text>
+<text x="162" y="202" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="355" y="202" text-anchor="middle" class="Lx" >pato, boca</text>
+<text x="40" y="214" text-anchor="middle" class="Ls" >t d</text>
+<text x="88" y="214" text-anchor="middle" class="Lx" >/t d/</text>
+<text x="162" y="214" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="355" y="214" text-anchor="middle" class="Lx" >EP dental; BP: /tʃ/ /dʒ/ before i</text>
+<text x="40" y="226" text-anchor="middle" class="Ls" >k g</text>
+<text x="88" y="226" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="162" y="226" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="355" y="226" text-anchor="middle" class="Lx" >casa, gato</text>
+<text x="40" y="238" text-anchor="middle" class="Ls" >f v</text>
+<text x="88" y="238" text-anchor="middle" class="Lx" >/f v/</text>
+<text x="162" y="238" text-anchor="middle" class="Lx" >labiodentals</text>
+<text x="355" y="238" text-anchor="middle" class="Lx" >fogo, voz</text>
+<text x="40" y="250" text-anchor="middle" class="Ls" >s z</text>
+<text x="88" y="250" text-anchor="middle" class="Lx" >/s z/</text>
+<text x="162" y="250" text-anchor="middle" class="Lx" >alveolar frict.</text>
+<text x="355" y="250" text-anchor="middle" class="Lx" >sol, casa [kaza] (BP) / [kazɐ] (EP)</text>
+<text x="40" y="262" text-anchor="middle" class="Ls" >ʃ ʒ</text>
+<text x="88" y="262" text-anchor="middle" class="Lx" >/ʃ ʒ/</text>
+<text x="162" y="262" text-anchor="middle" class="Lx" >palatal frict.</text>
+<text x="355" y="262" text-anchor="middle" class="Lx" >chave, hoje; EP: s before voiceless C</text>
+<text x="40" y="274" text-anchor="middle" class="Ls" >m n</text>
+<text x="88" y="274" text-anchor="middle" class="Lx" >/m n/</text>
+<text x="162" y="274" text-anchor="middle" class="Lx" >nasals</text>
+<text x="355" y="274" text-anchor="middle" class="Lx" >mar, não</text>
+<text x="40" y="286" text-anchor="middle" class="Ls" >ɲ</text>
+<text x="88" y="286" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="162" y="286" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="355" y="286" text-anchor="middle" class="Lx" >ninho (nest), junho (June)</text>
+<text x="40" y="298" text-anchor="middle" class="Ls" >l</text>
+<text x="88" y="298" text-anchor="middle" class="Lx" >/l/</text>
+<text x="162" y="298" text-anchor="middle" class="Lx" >lateral</text>
+<text x="355" y="298" text-anchor="middle" class="Lx" >lua; EP: [l]; BP word-final: [w]</text>
+<text x="40" y="310" text-anchor="middle" class="Ls" >ʎ</text>
+<text x="88" y="310" text-anchor="middle" class="Lx" >/ʎ/</text>
+<text x="162" y="310" text-anchor="middle" class="Lx" >palatal lateral</text>
+<text x="355" y="310" text-anchor="middle" class="Lx" >filho (son), mulher (woman)</text>
+<text x="40" y="322" text-anchor="middle" class="Ls" >r</text>
+<text x="88" y="322" text-anchor="middle" class="Lx" >/ɹ/ or /ʁ/</text>
+<text x="162" y="322" text-anchor="middle" class="Lx" >rhotic</text>
+<text x="355" y="322" text-anchor="middle" class="Lx" >caro (EP tap), carro (EP/BP trill or uvular)</text>
+<text x="40" y="334" text-anchor="middle" class="Ls" >ʁ</text>
+<text x="88" y="334" text-anchor="middle" class="Lx" >/ʁ/</text>
+<text x="162" y="334" text-anchor="middle" class="Lx" >uvular (EP initial)</text>
+<text x="355" y="334" text-anchor="middle" class="Lx" >rápido, rosa — EP initial r = uvular</text>
+<line x1="20" y1="350" x2="460" y2="350" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H" >— STRESS AND VOWEL REDUCTION —</text>
+<text x="240" y="370" text-anchor="middle" class="Ls" >Stress: penultimate by default; acute/circumflex marks exceptions. Written accent obligatory when stress deviates.</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >EP vowel reduction: unstressed /e o a/ reduce heavily toward [ə u ɐ] — makes EP sound very consonantal.</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >BP vowel reduction: minimal. Unstressed vowels stay open. BP sounds more "vowel-heavy" than EP.</text>
+<text x="240" y="397" text-anchor="middle" class="Ls" >Example: palavra (word) — EP [pɐlˈvɐʁɐ], BP [paˈlavrɐ] — same word, very different realisation.</text>
+<line x1="20" y1="405" x2="460" y2="405" stroke="black" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H" >— SIBILANT SYSTEM —</text>
+<text x="240" y="425" text-anchor="middle" class="Ls" >EP: s/z before voiceless C → [ʃ] (sh); before voiced C → [ʒ] (zh): Lisboa = Lix-boa</text>
+<text x="240" y="434" text-anchor="middle" class="Ls" >BP: s remains /s/ in most positions — the EP sibilant rule does not apply.</text>
+<text x="240" y="443" text-anchor="middle" class="Ls" >ch = /ʃ/ in both varieties: chave "key", chocolate.</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >lh = /ʎ/ (palatal lateral): ilha "island", filho "son".</text>
+<text x="240" y="461" text-anchor="middle" class="Ls" >nh = /ɲ/ (palatal nasal): ninho "nest", caminho "path".</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 27 · PORTUGUESE · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PORTUGUESE — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 27A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THE PORTUGUESE ALPHABET — 26 LETTERS + DIACRITICS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Portuguese uses the standard 26-letter Latin alphabet. Since 2009 reform, k, w, y are official letters.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Rich diacritic system: acute (áéíóú), grave (à), circumflex (âêô), tilde (ãõ), cedilla (ç).</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >The nasal vowels (ã, õ, ão, em, im) are a distinctive feature absent from Spanish.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— DIACRITICS AND THEIR FUNCTIONS —</text>
+<text x="55" y="125" text-anchor="middle" class="Ls" >á é í ó ú</text>
+<text x="115" y="125" text-anchor="middle" class="Lx" >Acute</text>
+<text x="320" y="125" text-anchor="middle" class="Lx" >Marks stress + open vowel quality</text>
+<text x="55" y="137" text-anchor="middle" class="Ls" >à</text>
+<text x="115" y="137" text-anchor="middle" class="Lx" >Grave</text>
+<text x="320" y="137" text-anchor="middle" class="Lx" >Marks contraction only: a + a = à (to the-f)</text>
+<text x="55" y="149" text-anchor="middle" class="Ls" >â ê ô</text>
+<text x="115" y="149" text-anchor="middle" class="Lx" >Circumflex</text>
+<text x="320" y="149" text-anchor="middle" class="Lx" >Marks stress + close (narrow) vowel quality</text>
+<text x="55" y="161" text-anchor="middle" class="Ls" >ã õ</text>
+<text x="115" y="161" text-anchor="middle" class="Lx" >Tilde</text>
+<text x="320" y="161" text-anchor="middle" class="Lx" >Nasalisation: irmã (sister), põe (puts)</text>
+<text x="55" y="173" text-anchor="middle" class="Ls" >ç</text>
+<text x="115" y="173" text-anchor="middle" class="Lx" >Cedilla</text>
+<text x="320" y="173" text-anchor="middle" class="Lx" >C before a,o,u = /s/: frança, ção</text>
+<line x1="20" y1="188" x2="460" y2="188" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H" >— NASAL VOWELS — A DEFINING FEATURE —</text>
+<text x="240" y="208" text-anchor="middle" class="L" >Portuguese nasalises vowels before n/m or with tilde. These are separate phonemes, not allophonic.</text>
+<text x="45" y="218" text-anchor="middle" class="Ls" >ã</text>
+<text x="100" y="218" text-anchor="middle" class="Lx" >[ɐ̃]</text>
+<text x="310" y="218" text-anchor="middle" class="Lx" >irmã (sister), amãnhã (tomorrow), pão (bread)</text>
+<text x="45" y="229" text-anchor="middle" class="Ls" >õ</text>
+<text x="100" y="229" text-anchor="middle" class="Lx" >[õ]</text>
+<text x="310" y="229" text-anchor="middle" class="Lx" >põe (puts), botões (buttons)</text>
+<text x="45" y="240" text-anchor="middle" class="Ls" >em/en</text>
+<text x="100" y="240" text-anchor="middle" class="Lx" >[ɛ̃]</text>
+<text x="310" y="240" text-anchor="middle" class="Lx" >tempo (time), dentro (inside)</text>
+<text x="45" y="251" text-anchor="middle" class="Ls" >im/in</text>
+<text x="100" y="251" text-anchor="middle" class="Lx" >[ɨ̃]</text>
+<text x="310" y="251" text-anchor="middle" class="Lx" >sim (yes), cinco (five)</text>
+<text x="45" y="262" text-anchor="middle" class="Ls" >om/on</text>
+<text x="100" y="262" text-anchor="middle" class="Lx" >[õ]</text>
+<text x="310" y="262" text-anchor="middle" class="Lx" >som (sound), onde (where)</text>
+<text x="45" y="273" text-anchor="middle" class="Ls" >um/un</text>
+<text x="100" y="273" text-anchor="middle" class="Lx" >[ũ]</text>
+<text x="310" y="273" text-anchor="middle" class="Lx" >um (one), mundo (world)</text>
+<text x="45" y="284" text-anchor="middle" class="Ls" >ão</text>
+<text x="100" y="284" text-anchor="middle" class="Lx" >[ɐ̃w̃]</text>
+<text x="310" y="284" text-anchor="middle" class="Lx" >mão (hand), coração (heart), não (no)</text>
+<line x1="20" y1="300" x2="460" y2="300" stroke="black" stroke-width="0.3"/>
+<text x="240" y="309" text-anchor="middle" class="H" >— EUROPEAN VS BRAZILIAN PORTUGUESE — KEY DIFFERENCES —</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >Portuguese is spoken by ~250 million people. Brazil alone has ~215 million speakers.</text>
+<text x="70" y="330" text-anchor="middle" class="Lx" >Vowels</text>
+<text x="215" y="330" text-anchor="middle" class="Lx" >EP: unstressed vowels heavily reduced</text>
+<text x="375" y="330" text-anchor="middle" class="Lx" >BP: vowels more open and stable</text>
+<text x="70" y="342" text-anchor="middle" class="Lx" >S before C/P/T</text>
+<text x="215" y="342" text-anchor="middle" class="Lx" >EP: /ʃ/ (sh)</text>
+<text x="375" y="342" text-anchor="middle" class="Lx" >BP: /s/</text>
+<text x="70" y="354" text-anchor="middle" class="Lx" >te/di</text>
+<text x="215" y="354" text-anchor="middle" class="Lx" >EP: /te/ /di/</text>
+<text x="375" y="354" text-anchor="middle" class="Lx" >BP: /tʃi/ /dʒi/ (palatalised)</text>
+<text x="70" y="366" text-anchor="middle" class="Lx" >Second person</text>
+<text x="215" y="366" text-anchor="middle" class="Lx" >EP: tu + você</text>
+<text x="375" y="366" text-anchor="middle" class="Lx" >BP: você dominant (3rd-person verb)</text>
+<text x="70" y="378" text-anchor="middle" class="Lx" >Clitic position</text>
+<text x="215" y="378" text-anchor="middle" class="Lx" >EP: verb-clitic (fá-lo)</text>
+<text x="375" y="378" text-anchor="middle" class="Lx" >BP: clitic-verb (lo fazer) or drop</text>
+<text x="70" y="390" text-anchor="middle" class="Lx" >Vocabulary</text>
+<text x="215" y="390" text-anchor="middle" class="Lx" >quinhão, autocarro (EP)</text>
+<text x="375" y="390" text-anchor="middle" class="Lx" >quinho, ônibus (BP)</text>
+<line x1="20" y1="407" x2="460" y2="407" stroke="black" stroke-width="0.3"/>
+<text x="240" y="416" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="427" text-anchor="middle" class="Ls" >Latin spoken in Iberia after Roman conquest (218 BCE). Vulgar Latin differentiated into Galician-Portuguese by ~9th c.</text>
+<text x="240" y="436" text-anchor="middle" class="Ls" >Oldest document: Noticia de Torto (~1214). First major literature: Cantigas de Santa Maria (13th c.).</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >15th–16th c.: Age of Exploration spreads Portuguese to Brazil, Angola, Mozambique, Goa, Macau, Cape Verde.</text>
+<text x="240" y="454" text-anchor="middle" class="Ls" >Today: official language of 9 countries on 4 continents. 3rd most spoken European language globally.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 27 · PORTUGUESE · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

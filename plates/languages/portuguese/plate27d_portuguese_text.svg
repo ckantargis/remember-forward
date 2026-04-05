@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PORTUGUESE — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 27D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — CAMÕES, OS LUSÍADAS I.1 (1572) —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >As armas e os barões assinalados,</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >The arms  and the barons  distinguished,</text>
+<text x="240" y="97" text-anchor="middle" class="L" >Que da Ocidental praia Lusitana,</text>
+<text x="240" y="107" text-anchor="middle" class="Lx" >Who from-the Western shore  Lusitanian,</text>
+<text x="240" y="116" text-anchor="middle" class="Ls" >"The arms and the distinguished heroes who from the Western Lusitanian shore…" — Portugal's national epic.</text>
+<line x1="20" y1="124" x2="460" y2="124" stroke="black" stroke-width="0.3"/>
+<text x="240" y="132" text-anchor="middle" class="H" >— PASSAGE 2 — FERNANDO PESSOA, MENSAGEM (1934) —</text>
+<text x="240" y="143" text-anchor="middle" class="L" >Tudo vale a pena</text>
+<text x="240" y="153" text-anchor="middle" class="Lx" >Everything is-worth the trouble</text>
+<text x="240" y="162" text-anchor="middle" class="L" >Se a alma não é pequena.</text>
+<text x="240" y="172" text-anchor="middle" class="Lx" >If  the soul not is small.</text>
+<text x="240" y="181" text-anchor="middle" class="Ls" >"Everything is worth the trouble if the soul is not small." — Portugal's most celebrated modern poet.</text>
+<line x1="20" y1="189" x2="460" y2="189" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H" >— PASSAGE 3 — CLARICE LISPECTOR, A PAÍXÃO SEGUNDO G.H. (1964) —</text>
+<text x="240" y="208" text-anchor="middle" class="L" >Eu te pergunto: existe a alegria? e tu me respondes com a existência da alegria.</text>
+<text x="240" y="218" text-anchor="middle" class="Lx" >I  you ask:   exists the joy?   and you me answer  with the existence  of-the joy.</text>
+<text x="240" y="227" text-anchor="middle" class="Ls" >"I ask you: does joy exist? and you answer me with the existence of joy." — Brazilian modernist.</text>
+<line x1="20" y1="235" x2="460" y2="235" stroke="black" stroke-width="0.3"/>
+<text x="240" y="243" text-anchor="middle" class="H" >— PASSAGE 4 — PORTUGUESE PROVERBS —</text>
+<text x="240" y="254" text-anchor="middle" class="L" >Devagar se vai ao longe.</text>
+<text x="240" y="264" text-anchor="middle" class="Lx" >Slowly oneself goes to far. — "Slowly but surely."</text>
+<text x="240" y="274" text-anchor="middle" class="L" >Quem não arrisca não petisca.</text>
+<text x="240" y="284" text-anchor="middle" class="Xp" >Who not risks  not tastes. — "Nothing ventured, nothing gained."</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="300" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="312" text-anchor="middle" class="L" >Esta mensagem foi feita para você, gratuitamente, por pessoas que se lembraram do futuro.</text>
+<text x="240" y="323" text-anchor="middle" class="Lx" >This message  was made  for  you    freely,         by  people  who  remembered  of-the future.</text>
+<text x="240" y="333" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN PORTUGUESE —</text>
+<text x="240" y="361" text-anchor="middle" class="L" >futuro: same Latin root as Spanish/French. Portuguese future tense: falarei, falarás, falará…</text>
+<text x="240" y="371" text-anchor="middle" class="Ls" >Unique feature: MESOCLISIS — object pronouns can be inserted into the future/conditional:</text>
+<text x="240" y="380" text-anchor="middle" class="Ls" >Dar-te-ei (I will give you) = dar + te + ei — pronoun inserted into the verb form. Now rare in BP.</text>
+<text x="240" y="389" text-anchor="middle" class="Ls" >lembrar-se de: to remember (lit. "to remind oneself of") — reflexive construction.</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >gratuitamente: from gratuito — same Latin root as Spanish/French gratuit/gratuito.</text>
+<line x1="20" y1="406" x2="460" y2="406" stroke="black" stroke-width="0.3"/>
+<text x="240" y="415" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >Portuguese is spoken by ~250 million people as a native language — 3rd most spoken European language.</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Countries: Brazil, Portugal, Angola, Mozambique, Cape Verde, Guinea-Bissau, São Tomé, East Timor, Macau.</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >Two major standards: European Portuguese (EP) and Brazilian Portuguese (BP) — mutually intelligible.</text>
+<text x="240" y="453" text-anchor="middle" class="Ls" >Uses the Latin alphabet with cedilla (ç) and nasal vowel markers (ã õ). Closely related to Spanish.</text>
+<text x="240" y="462" text-anchor="middle" class="Ls" >Descended from Galician-Portuguese, spoken in northwestern Iberia by ~14th century.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 27 · PORTUGUESE · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

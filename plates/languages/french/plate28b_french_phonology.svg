@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >FRENCH — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 28B OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— VOWEL SYSTEM — 12 ORAL + 4 NASAL —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >French has one of the most complex vowel systems of any European language: 12 oral + 4 nasal vowels.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Front rounded vowels /y ø œ/ are absent from English — a common learning difficulty.</text>
+<text x="50" y="99" text-anchor="middle" class="Lx" >/i/</text>
+<text x="105" y="99" text-anchor="middle" class="Lx" >i</text>
+<text x="310" y="99" text-anchor="middle" class="Lx" >vie (life), midi (noon)</text>
+<text x="50" y="110" text-anchor="middle" class="Lx" >/e/</text>
+<text x="105" y="110" text-anchor="middle" class="Lx" >e close</text>
+<text x="310" y="110" text-anchor="middle" class="Lx" >été, donné</text>
+<text x="50" y="121" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="105" y="121" text-anchor="middle" class="Lx" >e open</text>
+<text x="310" y="121" text-anchor="middle" class="Lx" >mère, fenêtre</text>
+<text x="50" y="132" text-anchor="middle" class="Lx" >/a/</text>
+<text x="105" y="132" text-anchor="middle" class="Lx" >a front</text>
+<text x="310" y="132" text-anchor="middle" class="Lx" >patte, chat</text>
+<text x="50" y="143" text-anchor="middle" class="Lx" >/ɑ/</text>
+<text x="105" y="143" text-anchor="middle" class="Lx" >a back</text>
+<text x="310" y="143" text-anchor="middle" class="Lx" >pâte (rare)</text>
+<text x="50" y="154" text-anchor="middle" class="Lx" >/y/</text>
+<text x="105" y="154" text-anchor="middle" class="Lx" >u</text>
+<text x="310" y="154" text-anchor="middle" class="Lx" >lune, pur — rounded /i/</text>
+<text x="50" y="165" text-anchor="middle" class="Lx" >/ø/</text>
+<text x="105" y="165" text-anchor="middle" class="Lx" >eu close</text>
+<text x="310" y="165" text-anchor="middle" class="Lx" >feu, deux — rounded /e/</text>
+<text x="50" y="176" text-anchor="middle" class="Lx" >/œ/</text>
+<text x="105" y="176" text-anchor="middle" class="Lx" >eu open</text>
+<text x="310" y="176" text-anchor="middle" class="Lx" >peur, fleur — rounded /ɛ/</text>
+<text x="50" y="187" text-anchor="middle" class="Lx" >/u/</text>
+<text x="105" y="187" text-anchor="middle" class="Lx" >ou</text>
+<text x="310" y="187" text-anchor="middle" class="Lx" >loup, bout</text>
+<text x="50" y="198" text-anchor="middle" class="Lx" >/o/</text>
+<text x="105" y="198" text-anchor="middle" class="Lx" >o close</text>
+<text x="310" y="198" text-anchor="middle" class="Lx" >eau, beau, môt</text>
+<text x="50" y="209" text-anchor="middle" class="Lx" >/ɔ/</text>
+<text x="105" y="209" text-anchor="middle" class="Lx" >o open</text>
+<text x="310" y="209" text-anchor="middle" class="Lx" >or, botte</text>
+<text x="50" y="220" text-anchor="middle" class="Lx" >/ə/</text>
+<text x="105" y="220" text-anchor="middle" class="Lx" >schwa</text>
+<text x="310" y="220" text-anchor="middle" class="Lx" >le, me, se (optional)</text>
+<text x="240" y="233" text-anchor="middle" class="Ls" >Nasal: /ã/ an· /ɛ̃/ in· /ɔ̃/ on· /œ̃/ un — bon, bain, blanc, brun</text>
+<line x1="20" y1="241" x2="460" y2="241" stroke="black" stroke-width="0.3"/>
+<text x="240" y="250" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="40" y="260" text-anchor="middle" class="Ls" >p b</text>
+<text x="85" y="260" text-anchor="middle" class="Lx" >/p b/</text>
+<text x="155" y="260" text-anchor="middle" class="Lx" >bilabial</text>
+<text x="350" y="260" text-anchor="middle" class="Lx" >pain, beau</text>
+<text x="40" y="272" text-anchor="middle" class="Ls" >t d</text>
+<text x="85" y="272" text-anchor="middle" class="Lx" >/t d/</text>
+<text x="155" y="272" text-anchor="middle" class="Lx" >dental</text>
+<text x="350" y="272" text-anchor="middle" class="Lx" >tu, dame</text>
+<text x="40" y="284" text-anchor="middle" class="Ls" >k g</text>
+<text x="85" y="284" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="155" y="284" text-anchor="middle" class="Lx" >velar</text>
+<text x="350" y="284" text-anchor="middle" class="Lx" >car, gare</text>
+<text x="40" y="296" text-anchor="middle" class="Ls" >f v</text>
+<text x="85" y="296" text-anchor="middle" class="Lx" >/f v/</text>
+<text x="155" y="296" text-anchor="middle" class="Lx" >labiodental</text>
+<text x="350" y="296" text-anchor="middle" class="Lx" >feu, voir</text>
+<text x="40" y="308" text-anchor="middle" class="Ls" >s z</text>
+<text x="85" y="308" text-anchor="middle" class="Lx" >/s z/</text>
+<text x="155" y="308" text-anchor="middle" class="Lx" >alveolar</text>
+<text x="350" y="308" text-anchor="middle" class="Lx" >sac, zéro</text>
+<text x="40" y="320" text-anchor="middle" class="Ls" >ʃ ʒ</text>
+<text x="85" y="320" text-anchor="middle" class="Lx" >/ʃ ʒ/</text>
+<text x="155" y="320" text-anchor="middle" class="Lx" >palatal</text>
+<text x="350" y="320" text-anchor="middle" class="Lx" >chat, jour</text>
+<text x="40" y="332" text-anchor="middle" class="Ls" >m n</text>
+<text x="85" y="332" text-anchor="middle" class="Lx" >/m n/</text>
+<text x="155" y="332" text-anchor="middle" class="Lx" >nasals</text>
+<text x="350" y="332" text-anchor="middle" class="Lx" >mer, non</text>
+<text x="40" y="344" text-anchor="middle" class="Ls" >ɲ</text>
+<text x="85" y="344" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="155" y="344" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="350" y="344" text-anchor="middle" class="Lx" >gagner, montagne</text>
+<text x="40" y="356" text-anchor="middle" class="Ls" >l</text>
+<text x="85" y="356" text-anchor="middle" class="Lx" >/l/</text>
+<text x="155" y="356" text-anchor="middle" class="Lx" >lateral</text>
+<text x="350" y="356" text-anchor="middle" class="Lx" >lune, sol</text>
+<text x="40" y="368" text-anchor="middle" class="Ls" >r</text>
+<text x="85" y="368" text-anchor="middle" class="Lx" >/ʁ/</text>
+<text x="155" y="368" text-anchor="middle" class="Lx" >uvular rhotic</text>
+<text x="350" y="368" text-anchor="middle" class="Lx" >rue, Paris — NOT a trill</text>
+<text x="40" y="380" text-anchor="middle" class="Ls" >j w ɥ</text>
+<text x="85" y="380" text-anchor="middle" class="Lx" >/j w ɥ/</text>
+<text x="155" y="380" text-anchor="middle" class="Lx" >glides</text>
+<text x="350" y="380" text-anchor="middle" class="Lx" >yeux, oui, lui (rounded palatal)</text>
+<line x1="20" y1="396" x2="460" y2="396" stroke="black" stroke-width="0.3"/>
+<text x="240" y="405" text-anchor="middle" class="H" >— STRESS AND RHYTHM —</text>
+<text x="240" y="416" text-anchor="middle" class="L" >French stress falls on the FINAL syllable of a phonological phrase — not individual words.</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >French is syllable-timed — each syllable gets roughly equal duration (unlike English stress-timing).</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >This gives French its characteristic even, flowing rhythm. Word-level stress is weak.</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >Enchainement: final consonant of one word attaches to initial vowel of next: avec elle = [avekkel].</text>
+<line x1="20" y1="452" x2="460" y2="452" stroke="black" stroke-width="0.3"/>
+<text x="240" y="461" text-anchor="middle" class="H" >— KEY PHONOLOGICAL FEATURES —</text>
+<text x="240" y="472" text-anchor="middle" class="Ls" >Uvular /ʁ/: French r is produced at the back of the throat — not a tongue-tip sound. Unique among Romance.</text>
+<text x="240" y="481" text-anchor="middle" class="Ls" >Front rounded vowels: /y ø œ/ — produced by combining front tongue position with lip rounding.</text>
+<text x="240" y="490" text-anchor="middle" class="Ls" >Schwa /ə/: optional in fast speech; e muet "mute e" — le cheval [ləʃval] or [ʃval].</text>
+<text x="240" y="499" text-anchor="middle" class="Ls" >Nasal vowels: vowel before n/m in same syllable becomes nasal and n/m disappears: bon = /bɔ̃/.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 28 · FRENCH · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

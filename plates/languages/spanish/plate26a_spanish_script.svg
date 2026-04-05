@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SPANISH — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 26A OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THE SPANISH ALPHABET — 27 LETTERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Spanish uses the Latin alphabet with one addition: ñ (eñe). The alphabet has 27 letters.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Digraphs ch and ll were treated as single letters 1803–2010; now alphabetised as two-letter sequences.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Spanish orthography is highly phonemic — spelling closely matches pronunciation.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— THE 27 LETTERS WITH NAMES AND KEY SOUNDS —</text>
+<text x="40" y="125" text-anchor="middle" class="Ls" >A a</text>
+<text x="130" y="125" text-anchor="middle" class="Lx" >a</text>
+<text x="220" y="125" text-anchor="middle" class="Lx" >/a/</text>
+<text x="40" y="134" text-anchor="middle" class="Ls" >B b</text>
+<text x="130" y="134" text-anchor="middle" class="Lx" >be</text>
+<text x="220" y="134" text-anchor="middle" class="Lx" >/b/–[v]</text>
+<text x="40" y="143" text-anchor="middle" class="Ls" >C c</text>
+<text x="130" y="143" text-anchor="middle" class="Lx" >ce</text>
+<text x="220" y="143" text-anchor="middle" class="Lx" >/k/ or /s/†</text>
+<text x="40" y="152" text-anchor="middle" class="Ls" >D d</text>
+<text x="130" y="152" text-anchor="middle" class="Lx" >de</text>
+<text x="220" y="152" text-anchor="middle" class="Lx" >/d/–[ð]</text>
+<text x="40" y="161" text-anchor="middle" class="Ls" >E e</text>
+<text x="130" y="161" text-anchor="middle" class="Lx" >e</text>
+<text x="220" y="161" text-anchor="middle" class="Lx" >/e/</text>
+<text x="40" y="170" text-anchor="middle" class="Ls" >F f</text>
+<text x="130" y="170" text-anchor="middle" class="Lx" >efe</text>
+<text x="220" y="170" text-anchor="middle" class="Lx" >/f/</text>
+<text x="40" y="179" text-anchor="middle" class="Ls" >G g</text>
+<text x="130" y="179" text-anchor="middle" class="Lx" >ge</text>
+<text x="220" y="179" text-anchor="middle" class="Lx" >/ɡ/ or /x/</text>
+<text x="40" y="188" text-anchor="middle" class="Ls" >H h</text>
+<text x="130" y="188" text-anchor="middle" class="Lx" >hache</text>
+<text x="220" y="188" text-anchor="middle" class="Lx" >silent</text>
+<text x="40" y="197" text-anchor="middle" class="Ls" >I i</text>
+<text x="130" y="197" text-anchor="middle" class="Lx" >i</text>
+<text x="220" y="197" text-anchor="middle" class="Lx" >/i/</text>
+<text x="40" y="206" text-anchor="middle" class="Ls" >J j</text>
+<text x="130" y="206" text-anchor="middle" class="Lx" >jota</text>
+<text x="220" y="206" text-anchor="middle" class="Lx" >/x/</text>
+<text x="40" y="215" text-anchor="middle" class="Ls" >K k</text>
+<text x="130" y="215" text-anchor="middle" class="Lx" >ka</text>
+<text x="220" y="215" text-anchor="middle" class="Lx" >/k/ loans</text>
+<text x="40" y="224" text-anchor="middle" class="Ls" >L l</text>
+<text x="130" y="224" text-anchor="middle" class="Lx" >ele</text>
+<text x="220" y="224" text-anchor="middle" class="Lx" >/l/</text>
+<text x="40" y="233" text-anchor="middle" class="Ls" >M m</text>
+<text x="130" y="233" text-anchor="middle" class="Lx" >eme</text>
+<text x="220" y="233" text-anchor="middle" class="Lx" >/m/</text>
+<text x="40" y="242" text-anchor="middle" class="Ls" >N n</text>
+<text x="130" y="242" text-anchor="middle" class="Lx" >ene</text>
+<text x="220" y="242" text-anchor="middle" class="Lx" >/n/</text>
+<text x="310" y="125" text-anchor="middle" class="Ls" >Ñ ñ</text>
+<text x="400" y="125" text-anchor="middle" class="Lx" >eñe</text>
+<text x="460" y="125" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="310" y="134" text-anchor="middle" class="Ls" >O o</text>
+<text x="400" y="134" text-anchor="middle" class="Lx" >o</text>
+<text x="460" y="134" text-anchor="middle" class="Lx" >/o/</text>
+<text x="310" y="143" text-anchor="middle" class="Ls" >P p</text>
+<text x="400" y="143" text-anchor="middle" class="Lx" >pe</text>
+<text x="460" y="143" text-anchor="middle" class="Lx" >/p/</text>
+<text x="310" y="152" text-anchor="middle" class="Ls" >Q q</text>
+<text x="400" y="152" text-anchor="middle" class="Lx" >cu</text>
+<text x="460" y="152" text-anchor="middle" class="Lx" >/k/ in qu-</text>
+<text x="310" y="161" text-anchor="middle" class="Ls" >R r</text>
+<text x="400" y="161" text-anchor="middle" class="Lx" >erre</text>
+<text x="460" y="161" text-anchor="middle" class="Lx" >/r/ or /ɹ/</text>
+<text x="310" y="170" text-anchor="middle" class="Ls" >S s</text>
+<text x="400" y="170" text-anchor="middle" class="Lx" >ese</text>
+<text x="460" y="170" text-anchor="middle" class="Lx" >/s/</text>
+<text x="310" y="179" text-anchor="middle" class="Ls" >T t</text>
+<text x="400" y="179" text-anchor="middle" class="Lx" >te</text>
+<text x="460" y="179" text-anchor="middle" class="Lx" >/t/</text>
+<text x="310" y="188" text-anchor="middle" class="Ls" >U u</text>
+<text x="400" y="188" text-anchor="middle" class="Lx" >u</text>
+<text x="460" y="188" text-anchor="middle" class="Lx" >/u/</text>
+<text x="310" y="197" text-anchor="middle" class="Ls" >V v</text>
+<text x="400" y="197" text-anchor="middle" class="Lx" >uve</text>
+<text x="460" y="197" text-anchor="middle" class="Lx" >/b/–[v]</text>
+<text x="310" y="206" text-anchor="middle" class="Ls" >W w</text>
+<text x="400" y="206" text-anchor="middle" class="Lx" >doble uve</text>
+<text x="460" y="206" text-anchor="middle" class="Lx" >loans</text>
+<text x="310" y="215" text-anchor="middle" class="Ls" >X x</text>
+<text x="400" y="215" text-anchor="middle" class="Lx" >equis</text>
+<text x="460" y="215" text-anchor="middle" class="Lx" >/ks/ or /s/</text>
+<text x="310" y="224" text-anchor="middle" class="Ls" >Y y</text>
+<text x="400" y="224" text-anchor="middle" class="Lx" >ye</text>
+<text x="460" y="224" text-anchor="middle" class="Lx" >/j/ or /i/</text>
+<text x="310" y="233" text-anchor="middle" class="Ls" >Z z</text>
+<text x="400" y="233" text-anchor="middle" class="Lx" >zeta</text>
+<text x="460" y="233" text-anchor="middle" class="Lx" >/s/ or /θ/</text>
+<text x="240" y="256" text-anchor="middle" class="Lx" >† C = /k/ before a,o,u; /s/ (Americas) or /θ/ (Castilian Spain) before e,i</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="0.3"/>
+<text x="240" y="273" text-anchor="middle" class="H" >— ACCENT MARKS AND SPECIAL CHARACTERS —</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >Acute accent (áéíóú): marks stress when it falls outside the default pattern, or disambiguates homophones.</text>
+<text x="240" y="293" text-anchor="middle" class="Ls" >Default stress: penultimate syllable if word ends in vowel/n/s; final syllable otherwise.</text>
+<text x="240" y="302" text-anchor="middle" class="Ls" >Tilde (ñ): distinct letter, /ɲ/ palatal nasal — mañana, señor, español.</text>
+<text x="240" y="311" text-anchor="middle" class="Ls" >Diéresis (ü): marks that u is pronounced in güe/güi: pingüino, cigüeña.</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >Inverted punctuation: sentences begin with ¿ (question) or ¡ (exclamation): ¿Cómo estás?</text>
+<line x1="20" y1="328" x2="460" y2="328" stroke="black" stroke-width="0.3"/>
+<text x="240" y="337" text-anchor="middle" class="H" >— DIALECTAL VARIATION IN WRITING AND SOUND —</text>
+<text x="100" y="347" text-anchor="middle" class="Ls" >Castilian Spain</text>
+<text x="270" y="347" text-anchor="middle" class="Lx" >c/z before e,i = /θ/ (thin)</text>
+<text x="415" y="347" text-anchor="middle" class="Lx" >vosotros form used</text>
+<text x="100" y="361" text-anchor="middle" class="Ls" >Latin America</text>
+<text x="270" y="361" text-anchor="middle" class="Lx" >c/z before e,i = /s/ (seseo)</text>
+<text x="415" y="361" text-anchor="middle" class="Lx" >vosotros absent; ustedes</text>
+<text x="100" y="375" text-anchor="middle" class="Ls" >Río Plata (Arg/Uru)</text>
+<text x="270" y="375" text-anchor="middle" class="Lx" >seseo + yeismo (/ʒ/ for ll/y)</text>
+<text x="415" y="375" text-anchor="middle" class="Lx" >vos instead of tú</text>
+<text x="100" y="389" text-anchor="middle" class="Ls" >Andean Spanish</text>
+<text x="270" y="389" text-anchor="middle" class="Lx" >vowel reduction; Quechua influence</text>
+<text x="415" y="389" text-anchor="middle" class="Lx" >strong /r/ distinction</text>
+<text x="100" y="403" text-anchor="middle" class="Ls" >Caribbean</text>
+<text x="270" y="403" text-anchor="middle" class="Lx" >final /s/ aspirated or deleted</text>
+<text x="415" y="403" text-anchor="middle" class="Lx" >coda consonants weakened</text>
+<line x1="20" y1="423" x2="460" y2="423" stroke="black" stroke-width="0.3"/>
+<text x="240" y="432" text-anchor="middle" class="H" >— SPANISH NUMERALS AND SCRIPT HISTORY —</text>
+<text x="240" y="443" text-anchor="middle" class="Ls" >Spanish uses standard Western Arabic numerals 0–9.</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >Latin alphabet adopted with Christianisation of Iberia (1st–6th c. CE).</text>
+<text x="240" y="461" text-anchor="middle" class="Ls" >Old Spanish (El Cid, ~1140): c, ç, j, x, y used for sounds lost later. Modern orthography stabilised ~1741 (RAE).</text>
+<text x="240" y="470" text-anchor="middle" class="Ls" >Real Academia Española (RAE, founded 1713): codifies spelling, grammar, and vocabulary for 20+ countries.</text>
+<text x="240" y="479" text-anchor="middle" class="Ls" >Spanish is written by ~500 million native speakers across 20+ countries on 4 continents.</text>
+<text x="240" y="488" text-anchor="middle" class="Ls" >2nd most spoken native language on Earth after Mandarin Chinese.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 26 · SPANISH · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

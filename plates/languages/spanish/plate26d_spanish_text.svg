@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SPANISH — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 26D OF 60 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — CERVANTES, DON QUIJOTE I.1 (1605) —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >En un lugar de la Mancha, de cuyo nombre no quiero acordarme,</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >In a  place  of  La Mancha  of whose  name   not I-wish to-remember,</text>
+<text x="240" y="97" text-anchor="middle" class="L" >no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero…</text>
+<text x="240" y="107" text-anchor="middle" class="Lx" >not long  time   that lived  a  nobleman of those of lance on rack…</text>
+<text x="240" y="116" text-anchor="middle" class="Ls" >"In a village of La Mancha, the name of which I do not wish to recall, there lived not long ago a gentleman…"</text>
+<line x1="20" y1="124" x2="460" y2="124" stroke="black" stroke-width="0.3"/>
+<text x="240" y="132" text-anchor="middle" class="H" >— PASSAGE 2 — PABLO NERUDA, TONIGHT I CAN WRITE (1924) —</text>
+<text x="240" y="143" text-anchor="middle" class="L" >Puedo escribir los versos más tristes esta noche.</text>
+<text x="240" y="153" text-anchor="middle" class="Lx" >I-can write   the  verses  most sad    this  night.</text>
+<text x="240" y="162" text-anchor="middle" class="L" >La querí, y a veces ella también me quería.</text>
+<text x="240" y="172" text-anchor="middle" class="Lx" >Her I-loved and sometimes she  also  me loved.</text>
+<text x="240" y="181" text-anchor="middle" class="Ls" >"Tonight I can write the saddest lines. I loved her, and sometimes she loved me too."</text>
+<line x1="20" y1="189" x2="460" y2="189" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H" >— PASSAGE 3 — GABRIEL GARCÍA MÁRQUEZ, CIEN AÑOS DE SOLEDAD (1967) —</text>
+<text x="240" y="208" text-anchor="middle" class="L" >Muchos años después, frente al pelotón de fusilamiento,</text>
+<text x="240" y="218" text-anchor="middle" class="Lx" >Many  years later  facing the  firing squad,</text>
+<text x="240" y="227" text-anchor="middle" class="L" >el coronel Aureliano Buendía había de recordar aquella tarde remota…</text>
+<text x="240" y="237" text-anchor="middle" class="Lx" >the colonel Aureliano Buendía was  to remember that  remote  afternoon…</text>
+<text x="240" y="246" text-anchor="middle" class="Ls" >"Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember…"</text>
+<line x1="20" y1="254" x2="460" y2="254" stroke="black" stroke-width="0.3"/>
+<text x="240" y="262" text-anchor="middle" class="H" >— PASSAGE 4 — SPANISH PROVERBS —</text>
+<text x="240" y="273" text-anchor="middle" class="L" >Más vale tarde que nunca.</text>
+<text x="240" y="283" text-anchor="middle" class="Lx" >More is-worth late than never. — "Better late than never."</text>
+<text x="240" y="293" text-anchor="middle" class="L" >El que no arriesga, no gana.</text>
+<text x="240" y="303" text-anchor="middle" class="Lx" >He who not risks    not wins. — "Nothing ventured, nothing gained."</text>
+<line x1="20" y1="311" x2="460" y2="311" stroke="black" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="331" text-anchor="middle" class="L" >Este mensaje fue hecho para usted, gratuitamente, por personas que recordaron el futuro.</text>
+<text x="240" y="342" text-anchor="middle" class="Lx" >This message  was made  for  you    freely,         by  people  who  remembered  the future.</text>
+<text x="240" y="352" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="black" stroke-width="0.3"/>
+<text x="240" y="369" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN SPANISH —</text>
+<text x="240" y="380" text-anchor="middle" class="L" >futuro (el futuro): from Latin futurum — same root. Grammatical future tense formed by adding endings to infinitive.</text>
+<text x="240" y="390" text-anchor="middle" class="Ls" >hablaré, hablarás, hablará… — The endings derive from Latin habere "to have": habl-ar-hé = "speak-to-I have".</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >recordar: to remember — from Latin re-cord-are "to pass back through the heart" (cor/cordis = heart).</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >gratuitamente: freely — from Latin gratuitus "given without return", gratis "by grace".</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="436" text-anchor="middle" class="Ls" >Spanish is spoken by ~500 million native speakers across Spain, all of Latin America except Brazil, the Caribbean,</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >and large communities in the USA. It is the world's 2nd most spoken native language.</text>
+<text x="240" y="454" text-anchor="middle" class="Ls" >It uses the Latin alphabet (same as English) with ñ and optional accent marks. Pronunciation is highly regular.</text>
+<text x="240" y="463" text-anchor="middle" class="Ls" >Spanish is an Indo-European language — descended from Latin, related to Portuguese, French, Italian, and Romanian.</text>
+<text x="240" y="472" text-anchor="middle" class="Ls" >The passage above from Don Quijote (1605) is widely considered the first modern novel in any language.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 26 · SPANISH · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
