@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+  .Lc { font-size:13px; }
+  .Lcl{ font-size:17px; }
+  .Lcs{ font-size:10px; }
+  .Lcx{ font-size:8px; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN CHINESE — PHONOLOGY</text>
+<text x="240" y="50" text-anchor="middle" class="S">SERIES 17B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H">— · —  THE FOUR TONES — 四声 SÌSHĒNG  — · —</text>
+<rect x="22" y="78" width="100" height="60" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="72" y="90" text-anchor="middle" class="Ls">Tone 1</text>
+<text x="72" y="100" text-anchor="middle" class="Lcx">阴平</text>
+<text x="72" y="112" text-anchor="middle" class="L">ā ———</text>
+<text x="72" y="122" text-anchor="middle" class="Lx">[55] high-level</text>
+<text x="72" y="132" text-anchor="middle" class="Lx">妈 mā = mother</text>
+<rect x="132" y="78" width="100" height="60" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="182" y="90" text-anchor="middle" class="Ls">Tone 2</text>
+<text x="182" y="100" text-anchor="middle" class="Lcx">阳平</text>
+<text x="182" y="112" text-anchor="middle" class="L">á ↗</text>
+<text x="182" y="122" text-anchor="middle" class="Lx">[35] rising</text>
+<text x="182" y="132" text-anchor="middle" class="Lx">麻 má = hemp</text>
+<rect x="242" y="78" width="100" height="60" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="292" y="90" text-anchor="middle" class="Ls">Tone 3</text>
+<text x="292" y="100" text-anchor="middle" class="Lcx">上声</text>
+<text x="292" y="112" text-anchor="middle" class="L">ǎ ↘↗</text>
+<text x="292" y="122" text-anchor="middle" class="Lx">[214] dip–rise</text>
+<text x="292" y="132" text-anchor="middle" class="Lx">马 mǎ = horse</text>
+<rect x="352" y="78" width="100" height="60" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="402" y="90" text-anchor="middle" class="Ls">Tone 4</text>
+<text x="402" y="100" text-anchor="middle" class="Lcx">去声</text>
+<text x="402" y="112" text-anchor="middle" class="L">à ↘↘</text>
+<text x="402" y="122" text-anchor="middle" class="Lx">[51] falling</text>
+<text x="402" y="132" text-anchor="middle" class="Lx">骂 mà = scold</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Neutral (light) tone 轻声 qīngshēng: 吗 ma (question) · 了 le (completed) — unstressed, context pitch</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Tone sandhi: Tone 3 + Tone 3 → Tone 2 + Tone 3 — 你好 nǐhǎo → níhǎo (hello)</text>
+<line x1="20" y1="170" x2="460" y2="170" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="180" text-anchor="middle" class="H">— · —  THE 21 INITIALS — CONSONANTS  — · —</text>
+<text x="240" y="191" text-anchor="middle" class="L">Bilabial: b [p]  p [pʰ]  m [m]  f [f]</text>
+<text x="240" y="202" text-anchor="middle" class="L">Alveolar: d [t]  t [tʰ]  n [n]  l [l]</text>
+<text x="240" y="213" text-anchor="middle" class="L">Velar: g [k]  k [kʰ]  h [x]</text>
+<text x="240" y="224" text-anchor="middle" class="L">Palatal: j [tɕ]  q [tɕʰ]  x [ɕ]  — only before i and ü</text>
+<text x="240" y="235" text-anchor="middle" class="L">Retroflex: zh [ʈʂ]  ch [ʈʂʰ]  sh [ʂ]  r [ɻ]  — tongue curled back</text>
+<text x="240" y="246" text-anchor="middle" class="L">Dental sibilant: z [ts]  c [tsʰ]  s [s]</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">KEY: b/p  d/t  g/k  j/q  zh/ch  z/c — ASPIRATED vs UNASPIRATED pairs, NOT voiced vs voiceless</text>
+<line x1="20" y1="266" x2="460" y2="266" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="276" text-anchor="middle" class="H">— · —  FINALS — VOWELS AND ENDINGS  — · —</text>
+<text x="240" y="287" text-anchor="middle" class="L">Simple: a [a]  o [o]  e [ɤ/ə]  i [i/ɨ]  u [u]  ü [y]</text>
+<text x="240" y="298" text-anchor="middle" class="L">Compound: ai [ai]  ei [ei]  ao [au]  ou [ou]  ia [ia]  ie [iɛ]  ua [wa]  uo [wo]</text>
+<text x="240" y="309" text-anchor="middle" class="L">Nasal -n: an [an]  en [ən]  in [in]  ian [iɛn]  uan [wan]  ün [yn]</text>
+<text x="240" y="320" text-anchor="middle" class="L">Nasal -ng: ang [aŋ]  eng [əŋ]  ing [iŋ]  ong [ʊŋ]  iang [iaŋ]  uang [waŋ]</text>
+<text x="240" y="331" text-anchor="middle" class="L">Special: er [ɚ] — rhotacized — 二 èr (two) · 儿 ér (child/suffix)</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="H">— · —  KEY CONTRASTS AND SPECIAL RULES  — · —</text>
+<text x="240" y="361" text-anchor="middle" class="L">Retroflex zh ch sh r: tongue curled to palate — completely distinct from dental z c s</text>
+<text x="240" y="372" text-anchor="middle" class="L">ü-rule: after j q x, ü is written u — ju = [tɕy]  qu = [tɕʰy]  xu = [ɕy]</text>
+<text x="240" y="383" text-anchor="middle" class="L">x [ɕ] palatal ≠ sh [ʂ] retroflex — 西 xī (west) ≠ 诗 shī (poetry)</text>
+<text x="240" y="394" text-anchor="middle" class="Ls">i after zh/ch/sh/r/z/c/s = apical vowel [ɨ] (tongue tip), not clear [i]: 师 shī</text>
+<line x1="20" y1="403" x2="460" y2="403" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="413" text-anchor="middle" class="H">— · —  TONAL MINIMAL SETS  — · —</text>
+<text x="240" y="424" text-anchor="middle" class="L">mā  má  mǎ  mà  ma</text>
+<text x="240" y="436" text-anchor="middle" class="Lcs">妈   麻   马   骂   吗</text>
+<text x="240" y="448" text-anchor="middle" class="Lx">mother / hemp / horse / scold / question-particle</text>
+<text x="240" y="460" text-anchor="middle" class="L">tāng  táng  tǎng  tàng</text>
+<text x="240" y="472" text-anchor="middle" class="Lcs">汤    唐    躺    烫</text>
+<text x="240" y="484" text-anchor="middle" class="Lx">soup / Tang Dynasty / lie down / scald</text>
+<line x1="20" y1="493" x2="460" y2="493" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="503" text-anchor="middle" class="H">— · —  TONES IN WRITING AND POETRY  — · —</text>
+<text x="240" y="514" text-anchor="middle" class="L">Pinyin marks tones on the vowel nucleus: ā á ǎ à (no mark = neutral tone)</text>
+<text x="240" y="525" text-anchor="middle" class="L">Everyday Chinese writing carries no tone marks — context determines reading</text>
+<text x="240" y="536" text-anchor="middle" class="L">Classical poetry used tonal patterns (平仔 píngzè): even (Tones 1–2) vs oblique (Tones 3–4)</text>
+<text x="240" y="547" text-anchor="middle" class="Ls">Tang Dynasty regulated verse (lǚ shī): strict tonal alternation per line and matching couplet</text>
+<line x1="20" y1="556" x2="460" y2="556" stroke="#000" stroke-width="0.3"/>
+<line x1="20" y1="607" x2="460" y2="607" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="615" text-anchor="middle" class="M">PLATE 17B · MANDARIN CHINESE · PHONOLOGY · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="20" y1="622" x2="460" y2="622" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">SERIES 17 OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="638" x2="460" y2="638" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

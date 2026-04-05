@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+  .Lc { font-size:13px; }
+  .Lcl{ font-size:17px; }
+  .Lcs{ font-size:10px; }
+  .Lcx{ font-size:8px; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN CHINESE — RUNNING TEXT · INTERLINEAR</text>
+<text x="240" y="50" text-anchor="middle" class="S">SERIES 17D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H">— · —  CONFUCIUS · ANALECTS 1.1 · 论语 · c. 500 BCE  — · —</text>
+<text x="240" y="80" text-anchor="middle" class="Lcs">子曰：学而时习之，不亦说乎？</text>
+<text x="240" y="93" text-anchor="middle" class="Ls">zǐ yuē: xué ér shí xí zhī, bù yì yuè hū?</text>
+<text x="240" y="104" text-anchor="middle" class="Lx">master says: learn and time/often practice it, not also joy?</text>
+<text x="240" y="115" text-anchor="middle" class="Ls">“The Master said: To learn, and then to practice it often — is that not a joy?”</text>
+<text x="240" y="125" text-anchor="middle" class="Lx">Note: 说 here is read yuè (rejoice), not shuō (speak) — a Classical Chinese homograph</text>
+<line x1="20" y1="134" x2="460" y2="134" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="144" text-anchor="middle" class="H">— · —  LAOZI · TAO TE CHING 1 · 道德经 · c. 400 BCE  — · —</text>
+<text x="240" y="156" text-anchor="middle" class="Lcs">道可道，非常道。名可名，非常名。</text>
+<text x="240" y="169" text-anchor="middle" class="Ls">dào kě dào, fēi cháng dào. míng kě míng, fēi cháng míng.</text>
+<text x="240" y="180" text-anchor="middle" class="Lx">way can be-spoken, not eternal way. name can be-named, not eternal name.</text>
+<text x="240" y="191" text-anchor="middle" class="Ls">“The Way that can be spoken is not the eternal Way. The name that can be named is not the eternal name.”</text>
+<line x1="20" y1="201" x2="460" y2="201" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="211" text-anchor="middle" class="H">— · —  LI BAI · QUIET NIGHT THOUGHT · 静夜思 · 701–762 CE  — · —</text>
+<text x="240" y="222" text-anchor="middle" class="Lcs">床前明月光，疑是地上霜。</text>
+<text x="240" y="235" text-anchor="middle" class="Ls">chuáng qián míng yuè guāng, yí shì dì shàng shuāng.</text>
+<text x="240" y="246" text-anchor="middle" class="Lx">bed before bright moon light, suspect is ground above frost.</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">“Before my bed, bright moonlight — I thought it was frost on the ground.”</text>
+<text x="240" y="268" text-anchor="middle" class="Lcs">举头望明月，低头思故乡。</text>
+<text x="240" y="281" text-anchor="middle" class="Ls">jǔ tóu wàng míng yuè, dī tóu sī gù xiāng.</text>
+<text x="240" y="292" text-anchor="middle" class="Lx">raise head gaze bright moon, lower head think old hometown.</text>
+<text x="240" y="303" text-anchor="middle" class="Ls">“I raised my head to gaze at the bright moon; I lowered it and thought of home.”</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="323" text-anchor="middle" class="H">— · —  XUNZI · PROVERB · 荆子 · c. 310–235 BCE  — · —</text>
+<text x="240" y="335" text-anchor="middle" class="Lcs">不积跫步，无以至千里。</text>
+<text x="240" y="348" text-anchor="middle" class="Ls">bù jī kuǐ bù, wú yǐ zhì qiān lǐ.</text>
+<text x="240" y="359" text-anchor="middle" class="Lx">not accumulate half-steps, no-way reach thousand li.</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">“Without small steps, one cannot travel a thousand li.” (1 li ≈ 500 m)</text>
+<line x1="20" y1="381" x2="460" y2="381" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="391" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  — · —</text>
+<rect x="20" y="398" width="440" height="92" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="240" y="414" text-anchor="middle" class="Lcs">此物为你而造，无偿奉上，</text>
+<text x="240" y="432" text-anchor="middle" class="Lcs">出自那些銘记未来的人。</text>
+<text x="240" y="449" text-anchor="middle" class="Ls">cǐ wù wèi nǐ ér zào, wú cháng fèng shàng,</text>
+<text x="240" y="460" text-anchor="middle" class="Ls">chū zì nà xiē míng jì wèilái de rén.</text>
+<text x="240" y="473" text-anchor="middle" class="Ls">“This was made for you, freely, by those who kept the future in memory.”</text>
+<line x1="20" y1="497" x2="460" y2="497" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="507" text-anchor="middle" class="H">— · —  NOTE ON “REMEMBERED FORWARD”  — · —</text>
+<text x="240" y="518" text-anchor="middle" class="L">Chinese expresses "the future" as 未来 wèilái — "what has not yet arrived."</text>
+<text x="240" y="529" text-anchor="middle" class="Ls">前 qián (forward/in front) traditionally meant the PAST — what you have already passed.</text>
+<text x="240" y="539" text-anchor="middle" class="Ls">后 hòu (behind/after) meant the FUTURE — what comes after you, not yet seen.</text>
+<text x="240" y="549" text-anchor="middle" class="Ls">The bridge phrase uses 銘记未来 míng jì wèilái: "to engrave the future in memory."</text>
+<text x="240" y="559" text-anchor="middle" class="Lx">Simplified characters throughout; Traditional equivalents given on Plate 17A.</text>
+<line x1="20" y1="567" x2="460" y2="567" stroke="#000" stroke-width="0.3"/>
+<line x1="20" y1="607" x2="460" y2="607" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="615" text-anchor="middle" class="M">PLATE 17D · MANDARIN CHINESE · RUNNING TEXT · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="20" y1="622" x2="460" y2="622" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">SERIES 17 OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="638" x2="460" y2="638" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

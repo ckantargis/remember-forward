@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+  .Lc { font-size:13px; }
+  .Lcl{ font-size:17px; }
+  .Lcs{ font-size:10px; }
+  .Lcx{ font-size:8px; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN CHINESE — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S">SERIES 17A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H">— · —  THE WRITING SYSTEM  — · —</text>
+<text x="240" y="79" text-anchor="middle" class="L">Logographic script: ~50,000 characters total; ~3,500 required for everyday literacy</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Traditional 繁體字 fántǐzì (Taiwan, HK, Macau) · Simplified 简体字 jiǎnǐzì (PRC, Singapore)</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Unicode: CJK Unified Ideographs U+4E00–U+9FFF (20,992 chars) + extension blocks</text>
+<text x="240" y="109" text-anchor="middle" class="Ls">Direction: traditionally top→bottom, right→left column; modern usage: left→right</text>
+<line x1="20" y1="118" x2="460" y2="118" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">— · —  CHARACTER STRUCTURE  — · —</text>
+<text x="240" y="138" text-anchor="middle" class="L">Characters combine a semantic radical (meaning clue) + phonetic component (sound clue)</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Pictographic 象形 xiàngxíng: direct visual representations of objects</text>
+<text x="58" y="161" text-anchor="middle" class="Lcs">日</text>
+<text x="58" y="172" text-anchor="middle" class="Lx">rì</text>
+<text x="58" y="180" text-anchor="middle" class="Lx">sun/day</text>
+<text x="152" y="161" text-anchor="middle" class="Lcs">月</text>
+<text x="152" y="172" text-anchor="middle" class="Lx">yuè</text>
+<text x="152" y="180" text-anchor="middle" class="Lx">moon</text>
+<text x="240" y="161" text-anchor="middle" class="Lcs">山</text>
+<text x="240" y="172" text-anchor="middle" class="Lx">shān</text>
+<text x="240" y="180" text-anchor="middle" class="Lx">mountain</text>
+<text x="328" y="161" text-anchor="middle" class="Lcs">木</text>
+<text x="328" y="172" text-anchor="middle" class="Lx">mù</text>
+<text x="328" y="180" text-anchor="middle" class="Lx">tree</text>
+<text x="420" y="161" text-anchor="middle" class="Lcs">水</text>
+<text x="420" y="172" text-anchor="middle" class="Lx">shuǐ</text>
+<text x="420" y="180" text-anchor="middle" class="Lx">water</text>
+<text x="240" y="191" text-anchor="middle" class="Ls">Compound 会意: 明 míng (bright) = 日 sun + 月 moon · 森 sēn (forest) = 木 + 木 + 木</text>
+<text x="240" y="201" text-anchor="middle" class="Ls">Phono-semantic 形声 xíngshēng (~90% of characters): radical signals meaning, phonetic signals sound</text>
+<line x1="20" y1="210" x2="460" y2="210" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="219" text-anchor="middle" class="H">— · —  STROKE TYPES — 永字八法: CHARACTER 永 yǒng CONTAINS ALL EIGHT  — · —</text>
+<text x="58" y="231" text-anchor="middle" class="Ls">横 héng</text>
+<text x="58" y="242" text-anchor="middle" class="Lx">→ horizontal</text>
+<text x="172" y="231" text-anchor="middle" class="Ls">糭 shù</text>
+<text x="172" y="242" text-anchor="middle" class="Lx">↓ vertical</text>
+<text x="296" y="231" text-anchor="middle" class="Ls">撇 piě</text>
+<text x="296" y="242" text-anchor="middle" class="Lx">↙ left-falling</text>
+<text x="410" y="231" text-anchor="middle" class="Ls">捐 nà</text>
+<text x="410" y="242" text-anchor="middle" class="Lx">↘ right-falling</text>
+<text x="58" y="253" text-anchor="middle" class="Ls">点 diǎn</text>
+<text x="58" y="264" text-anchor="middle" class="Lx">· dot</text>
+<text x="172" y="253" text-anchor="middle" class="Ls">折 zhé</text>
+<text x="172" y="264" text-anchor="middle" class="Lx">↱ turning</text>
+<text x="296" y="253" text-anchor="middle" class="Ls">钉 gōu</text>
+<text x="296" y="264" text-anchor="middle" class="Lx">↳ hook</text>
+<text x="410" y="253" text-anchor="middle" class="Ls">提 tí</text>
+<text x="410" y="264" text-anchor="middle" class="Lx">↗ rising</text>
+<text x="240" y="277" text-anchor="middle" class="Ls">Rules: top→bottom · left→right · horizontal before vertical · outside before inside</text>
+<line x1="20" y1="286" x2="460" y2="286" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">— · —  TRADITIONAL AND SIMPLIFIED — KEY PAIRS  — · —</text>
+<text x="78" y="306" text-anchor="middle" class="Ls">Traditional</text>
+<text x="174" y="306" text-anchor="middle" class="Ls">Simplified</text>
+<text x="268" y="306" text-anchor="middle" class="Ls">Pinyin</text>
+<text x="364" y="306" text-anchor="middle" class="Ls">Meaning</text>
+<line x1="20" y1="311" x2="460" y2="311" stroke="#000" stroke-width="0.2"/>
+<text x="78" y="322" text-anchor="middle" class="Lcs">國</text>
+<text x="174" y="322" text-anchor="middle" class="Lcs">国</text>
+<text x="268" y="322" text-anchor="middle" class="Ls">guó</text>
+<text x="364" y="322" text-anchor="middle" class="Ls">country/nation</text>
+<text x="78" y="335" text-anchor="middle" class="Lcs">語</text>
+<text x="174" y="335" text-anchor="middle" class="Lcs">语</text>
+<text x="268" y="335" text-anchor="middle" class="Ls">yǔ</text>
+<text x="364" y="335" text-anchor="middle" class="Ls">language/speech</text>
+<text x="78" y="348" text-anchor="middle" class="Lcs">學</text>
+<text x="174" y="348" text-anchor="middle" class="Lcs">学</text>
+<text x="268" y="348" text-anchor="middle" class="Ls">xué</text>
+<text x="364" y="348" text-anchor="middle" class="Ls">study/learn</text>
+<text x="78" y="361" text-anchor="middle" class="Lcs">書</text>
+<text x="174" y="361" text-anchor="middle" class="Lcs">书</text>
+<text x="268" y="361" text-anchor="middle" class="Ls">shū</text>
+<text x="364" y="361" text-anchor="middle" class="Ls">book/writing</text>
+<text x="78" y="374" text-anchor="middle" class="Lcs">愛</text>
+<text x="174" y="374" text-anchor="middle" class="Lcs">爱</text>
+<text x="268" y="374" text-anchor="middle" class="Ls">ài</text>
+<text x="364" y="374" text-anchor="middle" class="Ls">love</text>
+<text x="78" y="387" text-anchor="middle" class="Lcs">車</text>
+<text x="174" y="387" text-anchor="middle" class="Lcs">车</text>
+<text x="268" y="387" text-anchor="middle" class="Ls">chē</text>
+<text x="364" y="387" text-anchor="middle" class="Ls">vehicle/car</text>
+<line x1="20" y1="393" x2="460" y2="393" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="402" text-anchor="middle" class="H">— · —  CHINESE NUMERALS  — · —</text>
+<text x="26" y="414" text-anchor="middle" class="Lcs">零</text>
+<text x="26" y="424" text-anchor="middle" class="Lx">líng</text>
+<text x="26" y="432" text-anchor="middle" class="Lx">0</text>
+<text x="57" y="414" text-anchor="middle" class="Lcs">一</text>
+<text x="57" y="424" text-anchor="middle" class="Lx">yī</text>
+<text x="57" y="432" text-anchor="middle" class="Lx">1</text>
+<text x="88" y="414" text-anchor="middle" class="Lcs">二</text>
+<text x="88" y="424" text-anchor="middle" class="Lx">èr</text>
+<text x="88" y="432" text-anchor="middle" class="Lx">2</text>
+<text x="119" y="414" text-anchor="middle" class="Lcs">三</text>
+<text x="119" y="424" text-anchor="middle" class="Lx">sān</text>
+<text x="119" y="432" text-anchor="middle" class="Lx">3</text>
+<text x="150" y="414" text-anchor="middle" class="Lcs">四</text>
+<text x="150" y="424" text-anchor="middle" class="Lx">sì</text>
+<text x="150" y="432" text-anchor="middle" class="Lx">4</text>
+<text x="181" y="414" text-anchor="middle" class="Lcs">五</text>
+<text x="181" y="424" text-anchor="middle" class="Lx">wǔ</text>
+<text x="181" y="432" text-anchor="middle" class="Lx">5</text>
+<text x="212" y="414" text-anchor="middle" class="Lcs">六</text>
+<text x="212" y="424" text-anchor="middle" class="Lx">liù</text>
+<text x="212" y="432" text-anchor="middle" class="Lx">6</text>
+<text x="243" y="414" text-anchor="middle" class="Lcs">七</text>
+<text x="243" y="424" text-anchor="middle" class="Lx">qī</text>
+<text x="243" y="432" text-anchor="middle" class="Lx">7</text>
+<text x="274" y="414" text-anchor="middle" class="Lcs">八</text>
+<text x="274" y="424" text-anchor="middle" class="Lx">bā</text>
+<text x="274" y="432" text-anchor="middle" class="Lx">8</text>
+<text x="305" y="414" text-anchor="middle" class="Lcs">九</text>
+<text x="305" y="424" text-anchor="middle" class="Lx">jiǔ</text>
+<text x="305" y="432" text-anchor="middle" class="Lx">9</text>
+<text x="336" y="414" text-anchor="middle" class="Lcs">十</text>
+<text x="336" y="424" text-anchor="middle" class="Lx">shí</text>
+<text x="336" y="432" text-anchor="middle" class="Lx">10</text>
+<text x="367" y="414" text-anchor="middle" class="Lcs">百</text>
+<text x="367" y="424" text-anchor="middle" class="Lx">bǎi</text>
+<text x="367" y="432" text-anchor="middle" class="Lx">100</text>
+<text x="398" y="414" text-anchor="middle" class="Lcs">千</text>
+<text x="398" y="424" text-anchor="middle" class="Lx">qiān</text>
+<text x="398" y="432" text-anchor="middle" class="Lx">1k</text>
+<text x="429" y="414" text-anchor="middle" class="Lcs">萬</text>
+<text x="429" y="424" text-anchor="middle" class="Lx">wàn</text>
+<text x="429" y="432" text-anchor="middle" class="Lx">10k</text>
+<line x1="20" y1="440" x2="460" y2="440" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="449" text-anchor="middle" class="H">— · —  KEY KANGXI RADICALS — 部首 BÙSHǒU  — · —</text>
+<text x="240" y="459" text-anchor="middle" class="Lx">214 Kangxi radicals (1716 CE) serve as the indexing system for all Chinese dictionaries</text>
+<text x="58" y="470" text-anchor="middle" class="Lcs">人</text>
+<text x="58" y="481" text-anchor="middle" class="Lx">rén — person (亻-)</text>
+<text x="172" y="470" text-anchor="middle" class="Lcs">水</text>
+<text x="172" y="481" text-anchor="middle" class="Lx">shuǐ — water (氵-)</text>
+<text x="296" y="470" text-anchor="middle" class="Lcs">木</text>
+<text x="296" y="481" text-anchor="middle" class="Lx">mù — tree/wood</text>
+<text x="410" y="470" text-anchor="middle" class="Lcs">火</text>
+<text x="410" y="481" text-anchor="middle" class="Lx">huǒ — fire (-灬)</text>
+<text x="58" y="499" text-anchor="middle" class="Lcs">口</text>
+<text x="58" y="510" text-anchor="middle" class="Lx">kǒu — mouth</text>
+<text x="172" y="499" text-anchor="middle" class="Lcs">手</text>
+<text x="172" y="510" text-anchor="middle" class="Lx">shǒu — hand (扌-)</text>
+<text x="296" y="499" text-anchor="middle" class="Lcs">心</text>
+<text x="296" y="510" text-anchor="middle" class="Lx">xīn — heart (忄-)</text>
+<text x="410" y="499" text-anchor="middle" class="Lcs">目</text>
+<text x="410" y="510" text-anchor="middle" class="Lx">mù — eye</text>
+<text x="58" y="528" text-anchor="middle" class="Lcs">女</text>
+<text x="58" y="539" text-anchor="middle" class="Lx">nǚ — woman</text>
+<text x="172" y="528" text-anchor="middle" class="Lcs">子</text>
+<text x="172" y="539" text-anchor="middle" class="Lx">zǐ — child</text>
+<text x="296" y="528" text-anchor="middle" class="Lcs">山</text>
+<text x="296" y="539" text-anchor="middle" class="Lx">shān — mountain</text>
+<text x="410" y="528" text-anchor="middle" class="Lcs">日</text>
+<text x="410" y="539" text-anchor="middle" class="Lx">rì — sun/day</text>
+<text x="58" y="557" text-anchor="middle" class="Lcs">言</text>
+<text x="58" y="568" text-anchor="middle" class="Lx">yán — speech (訁-)</text>
+<text x="172" y="557" text-anchor="middle" class="Lcs">金</text>
+<text x="172" y="568" text-anchor="middle" class="Lx">jīn — metal (鈕-)</text>
+<text x="296" y="557" text-anchor="middle" class="Lcs">門</text>
+<text x="296" y="568" text-anchor="middle" class="Lx">mén — door (门)</text>
+<text x="410" y="557" text-anchor="middle" class="Lcs">土</text>
+<text x="410" y="568" text-anchor="middle" class="Lx">tǔ — earth/soil</text>
+<text x="58" y="586" text-anchor="middle" class="Lcs">月</text>
+<text x="58" y="597" text-anchor="middle" class="Lx">yuè — moon/month</text>
+<text x="172" y="586" text-anchor="middle" class="Lcs">大</text>
+<text x="172" y="597" text-anchor="middle" class="Lx">dà — big/great</text>
+<text x="296" y="586" text-anchor="middle" class="Lcs">力</text>
+<text x="296" y="597" text-anchor="middle" class="Lx">lì — strength</text>
+<text x="410" y="586" text-anchor="middle" class="Lcs">足</text>
+<text x="410" y="597" text-anchor="middle" class="Lx">zú — foot/leg</text>
+<line x1="20" y1="607" x2="460" y2="607" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="615" text-anchor="middle" class="M">PLATE 17A · MANDARIN CHINESE · SCRIPT · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="20" y1="622" x2="460" y2="622" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">SERIES 17 OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="638" x2="460" y2="638" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
