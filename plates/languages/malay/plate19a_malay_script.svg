@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >MALAY / INDONESIAN — SCRIPT · WRITING</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 19A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— LATIN SCRIPT — RUMI (SINCE 1972 STANDARDIZATION) —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Malay (Bahasa Melayu) and Indonesian (Bahasa Indonesia) share a standardized Latin orthography.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >The 1972 Melindo/EYD agreement unified spelling across Malaysia, Indonesia, and Brunei.</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >Official names: Rumi (Malaysia) = "Roman script" · Ejaan yang Disempurnakan (Indonesia) = "Perfected Spelling"</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— THE 26-LETTER ALPHABET — RUMI —</text>
+<text x="30" y="122" text-anchor="middle" class="L" >A</text>
+<text x="30" y="129" text-anchor="middle" class="Lx" >/a/</text>
+<text x="30" y="135" text-anchor="middle" class="Lx" >a</text>
+<text x="110" y="122" text-anchor="middle" class="L" >B</text>
+<text x="110" y="129" text-anchor="middle" class="Lx" >b</text>
+<text x="110" y="135" text-anchor="middle" class="Lx" >bi</text>
+<text x="190" y="122" text-anchor="middle" class="L" >C</text>
+<text x="190" y="129" text-anchor="middle" class="Lx" >tʃ/c</text>
+<text x="190" y="135" text-anchor="middle" class="Lx" >si</text>
+<text x="270" y="122" text-anchor="middle" class="L" >D</text>
+<text x="270" y="129" text-anchor="middle" class="Lx" >d</text>
+<text x="270" y="135" text-anchor="middle" class="Lx" >di</text>
+<text x="350" y="122" text-anchor="middle" class="L" >E</text>
+<text x="350" y="129" text-anchor="middle" class="Lx" >/e,ə/</text>
+<text x="350" y="135" text-anchor="middle" class="Lx" >i</text>
+<text x="430" y="122" text-anchor="middle" class="L" >F</text>
+<text x="430" y="129" text-anchor="middle" class="Lx" >f</text>
+<text x="430" y="135" text-anchor="middle" class="Lx" >ef</text>
+<text x="30" y="140" text-anchor="middle" class="L" >G</text>
+<text x="30" y="147" text-anchor="middle" class="Lx" >g/ɡ/</text>
+<text x="30" y="153" text-anchor="middle" class="Lx" >ji</text>
+<text x="110" y="140" text-anchor="middle" class="L" >H</text>
+<text x="110" y="147" text-anchor="middle" class="Lx" >h</text>
+<text x="110" y="153" text-anchor="middle" class="Lx" >éc</text>
+<text x="190" y="140" text-anchor="middle" class="L" >I</text>
+<text x="190" y="147" text-anchor="middle" class="Lx" >/i/</text>
+<text x="190" y="153" text-anchor="middle" class="Lx" >ai</text>
+<text x="270" y="140" text-anchor="middle" class="L" >J</text>
+<text x="270" y="147" text-anchor="middle" class="Lx" >dʒ/j</text>
+<text x="270" y="153" text-anchor="middle" class="Lx" >jei</text>
+<text x="350" y="140" text-anchor="middle" class="L" >K</text>
+<text x="350" y="147" text-anchor="middle" class="Lx" >k</text>
+<text x="350" y="153" text-anchor="middle" class="Lx" >kei</text>
+<text x="430" y="140" text-anchor="middle" class="L" >L</text>
+<text x="430" y="147" text-anchor="middle" class="Lx" >l</text>
+<text x="430" y="153" text-anchor="middle" class="Lx" >el</text>
+<text x="30" y="158" text-anchor="middle" class="L" >M</text>
+<text x="30" y="165" text-anchor="middle" class="Lx" >m</text>
+<text x="30" y="171" text-anchor="middle" class="Lx" >em</text>
+<text x="110" y="158" text-anchor="middle" class="L" >N</text>
+<text x="110" y="165" text-anchor="middle" class="Lx" >n</text>
+<text x="110" y="171" text-anchor="middle" class="Lx" >en</text>
+<text x="190" y="158" text-anchor="middle" class="L" >O</text>
+<text x="190" y="165" text-anchor="middle" class="Lx" >/o/</text>
+<text x="190" y="171" text-anchor="middle" class="Lx" >o</text>
+<text x="270" y="158" text-anchor="middle" class="L" >P</text>
+<text x="270" y="165" text-anchor="middle" class="Lx" >p</text>
+<text x="270" y="171" text-anchor="middle" class="Lx" >pi</text>
+<text x="350" y="158" text-anchor="middle" class="L" >Q</text>
+<text x="350" y="165" text-anchor="middle" class="Lx" >k/kw</text>
+<text x="350" y="171" text-anchor="middle" class="Lx" >kiu</text>
+<text x="430" y="158" text-anchor="middle" class="L" >R</text>
+<text x="430" y="165" text-anchor="middle" class="Lx" >r</text>
+<text x="430" y="171" text-anchor="middle" class="Lx" >ar</text>
+<text x="30" y="176" text-anchor="middle" class="L" >S</text>
+<text x="30" y="183" text-anchor="middle" class="Lx" >s</text>
+<text x="30" y="189" text-anchor="middle" class="Lx" >es</text>
+<text x="110" y="176" text-anchor="middle" class="L" >T</text>
+<text x="110" y="183" text-anchor="middle" class="Lx" >t</text>
+<text x="110" y="189" text-anchor="middle" class="Lx" >ti</text>
+<text x="190" y="176" text-anchor="middle" class="L" >U</text>
+<text x="190" y="183" text-anchor="middle" class="Lx" >/u/</text>
+<text x="190" y="189" text-anchor="middle" class="Lx" >yu</text>
+<text x="270" y="176" text-anchor="middle" class="L" >V</text>
+<text x="270" y="183" text-anchor="middle" class="Lx" >v</text>
+<text x="270" y="189" text-anchor="middle" class="Lx" >vi</text>
+<text x="350" y="176" text-anchor="middle" class="L" >W</text>
+<text x="350" y="183" text-anchor="middle" class="Lx" >w</text>
+<text x="350" y="189" text-anchor="middle" class="Lx" >dabel-yu</text>
+<text x="430" y="176" text-anchor="middle" class="L" >X</text>
+<text x="430" y="183" text-anchor="middle" class="Lx" >ks/z</text>
+<text x="430" y="189" text-anchor="middle" class="Lx" >eks</text>
+<text x="30" y="194" text-anchor="middle" class="L" >Y</text>
+<text x="30" y="201" text-anchor="middle" class="Lx" >y/j</text>
+<text x="30" y="207" text-anchor="middle" class="Lx" >wai</text>
+<text x="110" y="194" text-anchor="middle" class="L" >Z</text>
+<text x="110" y="201" text-anchor="middle" class="Lx" >z</text>
+<text x="110" y="207" text-anchor="middle" class="Lx" >zet</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="213" text-anchor="middle" class="H" >— DIGRAPHS — LETTER COMBINATIONS WITH SPECIAL SOUNDS —</text>
+<text x="35" y="223" text-anchor="middle" class="Ls" >ng</text>
+<text x="70" y="223" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="140" y="223" text-anchor="middle" class="Lx" >velar nasal</text>
+<text x="275" y="223" text-anchor="middle" class="Lx" >berenang (swim), bukan (not)</text>
+<text x="415" y="223" text-anchor="middle" class="Lx" >like "ng" in "sing"</text>
+<text x="35" y="239" text-anchor="middle" class="Ls" >ny</text>
+<text x="70" y="239" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="140" y="239" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="275" y="239" text-anchor="middle" class="Lx" >nyonya (ma'am), nyaman (comfortable)</text>
+<text x="415" y="239" text-anchor="middle" class="Lx" >like "ny" in Spanish "señor"</text>
+<text x="35" y="255" text-anchor="middle" class="Ls" >kh</text>
+<text x="70" y="255" text-anchor="middle" class="Lx" >/x/</text>
+<text x="140" y="255" text-anchor="middle" class="Lx" >velar fricative</text>
+<text x="275" y="255" text-anchor="middle" class="Lx" >khas (special), akhir (end)</text>
+<text x="415" y="255" text-anchor="middle" class="Lx" >Arabic/Persian borrowing — "ch" in "Bach"</text>
+<text x="35" y="271" text-anchor="middle" class="Ls" >gh</text>
+<text x="70" y="271" text-anchor="middle" class="Lx" >/ɣ/</text>
+<text x="140" y="271" text-anchor="middle" class="Lx" >voiced velar fric.</text>
+<text x="275" y="271" text-anchor="middle" class="Lx" >ghairah (passion), maghrib (west)</text>
+<text x="415" y="271" text-anchor="middle" class="Lx" >Arabic borrowing — voiced "kh"</text>
+<text x="35" y="287" text-anchor="middle" class="Ls" >sy</text>
+<text x="70" y="287" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="140" y="287" text-anchor="middle" class="Lx" >palato-alveolar fric.</text>
+<text x="275" y="287" text-anchor="middle" class="Lx" >syarat (condition), syukur (gratitude)</text>
+<text x="415" y="287" text-anchor="middle" class="Lx" >like "sh" in "shoe" — Arabic borrowing</text>
+<line x1="20" y1="303" x2="460" y2="303" stroke="black" stroke-width="0.3"/>
+<text x="240" y="311" text-anchor="middle" class="H" >— JAWI — HISTORICAL ARABIC-BASED SCRIPT —</text>
+<text x="240" y="321" text-anchor="middle" class="Ls" >Before Romanization, Malay was written in Jawi — an adapted Arabic alphabet with extra letters for Malay sounds.</text>
+<text x="240" y="330" text-anchor="middle" class="Ls" >Jawi is still used officially in Malaysia (signage, religious texts, royal documents) and in Brunei.</text>
+<text x="240" y="339" text-anchor="middle" class="Ls" >Written right-to-left. 37 letters total: 28 Arabic + 6 added for Malay phonemes (ca, nga, pa, ga, nya, va).</text>
+<text x="240" y="348" text-anchor="middle" class="Ls" >Sample: بهاس ملايو = Bahasa Melayu · كيتا = kita (we) · هاتي = hati (heart)</text>
+<text x="240" y="357" text-anchor="middle" class="Ls" >Jawi literacy is taught in Malaysian schools alongside Rumi, keeping both scripts active.</text>
+<line x1="20" y1="365" x2="460" y2="365" stroke="black" stroke-width="0.3"/>
+<text x="240" y="373" text-anchor="middle" class="H" >— HISTORICAL SCRIPTS — RENCONG AND OTHERS —</text>
+<text x="240" y="383" text-anchor="middle" class="Ls" >Before Jawi spread via Islam (~13th–16th c.), Malay was written in indigenous Indic-derived scripts.</text>
+<text x="240" y="392" text-anchor="middle" class="Ls" >Rencong / Incung: abugida script of Sumatra (Kerinci, Rejang, Lampung regions) — written on bamboo.</text>
+<text x="240" y="401" text-anchor="middle" class="Ls" >Pallava/Kawi: Old Malay inscriptions (7th–14th c.) in Tamil Pallava and Javanese Kawi scripts.</text>
+<text x="240" y="410" text-anchor="middle" class="Ls" >Kedukan Bukit inscription (683 CE, Palembang): oldest known Old Malay text — in Pallava script.</text>
+<text x="240" y="419" text-anchor="middle" class="Ls" >Lontara: Bugis/Makassar script still used in Sulawesi — an abugida descended from Brahmi.</text>
+<line x1="20" y1="427" x2="460" y2="427" stroke="black" stroke-width="0.3"/>
+<text x="240" y="435" text-anchor="middle" class="H" >— SPELLING SYSTEM — KEY RULES —</text>
+<text x="70" y="445" text-anchor="middle" class="Ls" >Stress</text>
+<text x="310" y="445" text-anchor="middle" class="Lx" >Always on penultimate (second-to-last) syllable: ba-HA-sa, ma-KAN-an</text>
+<text x="70" y="459" text-anchor="middle" class="Ls" >e ambiguity</text>
+<text x="310" y="459" text-anchor="middle" class="Lx" >&lt;e&gt; = /e/ (clear) or /ə/ (schwa) — context determines: enam (6)=/e/, emak (mum)=/ə/</text>
+<text x="70" y="473" text-anchor="middle" class="Ls" >c</text>
+<text x="310" y="473" text-anchor="middle" class="Lx" >Always /tʃ/ (like "ch") — cinta (love), cantik (beautiful)</text>
+<text x="70" y="487" text-anchor="middle" class="Ls" >j</text>
+<text x="310" y="487" text-anchor="middle" class="Lx" >Always /dʒ/ (like "j" in "joy") — jalan (road), juga (also)</text>
+<text x="70" y="501" text-anchor="middle" class="Ls" >r</text>
+<text x="310" y="501" text-anchor="middle" class="Lx" >Trilled /r/ in careful speech; flap [ɾ] in fast speech</text>
+<text x="70" y="515" text-anchor="middle" class="Ls" >f, v, z</text>
+<text x="310" y="515" text-anchor="middle" class="Lx" >Appear in Arabic/English loanwords: fikir (think), vitamin, zaman (era)</text>
+<line x1="20" y1="530" x2="460" y2="530" stroke="black" stroke-width="0.3"/>
+<text x="240" y="538" text-anchor="middle" class="H" >— MALAY vs INDONESIAN — SAME LANGUAGE? —</text>
+<text x="240" y="548" text-anchor="middle" class="Ls" >Bahasa Malaysia and Bahasa Indonesia are mutually intelligible. Differences are lexical and minor.</text>
+<text x="240" y="557" text-anchor="middle" class="Ls" >Malaysia: kereta (car) vs Indonesia: mobil · Malaysia: pekan vs Indonesia: kota (city)</text>
+<text x="240" y="566" text-anchor="middle" class="Ls" >Combined: ~270 million speakers (Indonesia alone ~199M native) — 4th most-spoken world language.</text>
+<text x="240" y="575" text-anchor="middle" class="Ls" >ISO 639: ms (Malay) · id (Indonesian) — classified separately but share standard written form.</text>
+<text x="240" y="584" text-anchor="middle" class="Ls" >Arabic influence: 40%+ of literary vocabulary via Jawi-era Islam · Dutch/Portuguese in Indonesian.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 19 · MALAY/INDONESIAN · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

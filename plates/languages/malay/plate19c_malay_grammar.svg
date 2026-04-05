@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >MALAY / INDONESIAN — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 19C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SVO, NO INFLECTION —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Malay/Indonesian is SVO (Subject–Verb–Object) with NO grammatical gender, NO case, NO tense inflection.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >Time is indicated by TIME WORDS, not verb forms: sudah (already), akan (will), sedang (currently).</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >Saya makan nasi.  "I eat/ate/am eating rice." — context + time words clarify tense.</text>
+<text x="240" y="105" text-anchor="middle" class="Ls" >Dia pergi semalam.  "She went yesterday." — semalam (yesterday) establishes past.</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— AFFIX SYSTEM — DERIVATIONAL MORPHOLOGY —</text>
+<text x="240" y="130" text-anchor="middle" class="Ls" >Malay/Indonesian has a rich system of prefixes and suffixes that derive new words from roots.</text>
+<text x="55" y="141" text-anchor="middle" class="Ls" >me-</text>
+<text x="130" y="141" text-anchor="middle" class="Lx" >active verb</text>
+<text x="330" y="141" text-anchor="middle" class="Lx" >makan (eat) → memakan (to eat/is eating)</text>
+<text x="55" y="155" text-anchor="middle" class="Ls" >ber-</text>
+<text x="130" y="155" text-anchor="middle" class="Lx" >intrans. verb / have</text>
+<text x="330" y="155" text-anchor="middle" class="Lx" >kerja (work) → bekerja (to work)</text>
+<text x="55" y="169" text-anchor="middle" class="Ls" >-kan</text>
+<text x="130" y="169" text-anchor="middle" class="Lx" >causative/transitive</text>
+<text x="330" y="169" text-anchor="middle" class="Lx" >tahu (know) → beritahukan (to inform/tell)</text>
+<text x="55" y="183" text-anchor="middle" class="Ls" >-an</text>
+<text x="130" y="183" text-anchor="middle" class="Lx" >noun/result</text>
+<text x="330" y="183" text-anchor="middle" class="Lx" >makan (eat) → makanan (food)</text>
+<text x="55" y="197" text-anchor="middle" class="Ls" >pe-</text>
+<text x="130" y="197" text-anchor="middle" class="Lx" >agent noun</text>
+<text x="330" y="197" text-anchor="middle" class="Lx" >kerja (work) → pekerja (worker)</text>
+<text x="55" y="211" text-anchor="middle" class="Ls" >per-...-an</text>
+<text x="130" y="211" text-anchor="middle" class="Lx" >abstract noun</text>
+<text x="330" y="211" text-anchor="middle" class="Lx" >buat (do) → perbuatan (deed/act)</text>
+<text x="55" y="225" text-anchor="middle" class="Ls" >ke-...-an</text>
+<text x="130" y="225" text-anchor="middle" class="Lx" >state/condition</text>
+<text x="330" y="225" text-anchor="middle" class="Lx" >sakit (sick) → kesakitan (pain/illness)</text>
+<text x="55" y="239" text-anchor="middle" class="Ls" >ter-</text>
+<text x="130" y="239" text-anchor="middle" class="Lx" >accidental/passive</text>
+<text x="330" y="239" text-anchor="middle" class="Lx" >jatuh (fall) → terjatuh (accidentally fell)</text>
+<text x="55" y="253" text-anchor="middle" class="Ls" >di-</text>
+<text x="130" y="253" text-anchor="middle" class="Lx" >passive voice</text>
+<text x="330" y="253" text-anchor="middle" class="Lx" >makan (eat) → dimakan (was eaten)</text>
+<text x="55" y="267" text-anchor="middle" class="Ls" >se-</text>
+<text x="130" y="267" text-anchor="middle" class="Lx" >one/same/as</text>
+<text x="330" y="267" text-anchor="middle" class="Lx" >kolah → sekolah (school, lit. "one class")</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="291" text-anchor="middle" class="H" >— REDUPLICATION — PLURALS AND EMPHASIS —</text>
+<text x="240" y="301" text-anchor="middle" class="Ls" >Full reduplication of nouns = plural (usually): orang (person) → orang-orang (people)</text>
+<text x="240" y="310" text-anchor="middle" class="Ls" >Reduplication can also indicate variety, intensity, or process rather than strict plurality:</text>
+<text x="240" y="319" text-anchor="middle" class="Ls" >sayur-sayuran (all kinds of vegetables) · berlari-lari (running around) · perlahan-lahan (very slowly)</text>
+<text x="240" y="328" text-anchor="middle" class="Lx" >Note: context often implies plurality without reduplication — no singular/plural confusion in practice.</text>
+<line x1="20" y1="336" x2="460" y2="336" stroke="black" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="H" >— NEGATION —</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >tidak / tak: negates verbs and adjectives — Saya tidak tahu. "I do not know."</text>
+<text x="240" y="363" text-anchor="middle" class="Ls" >bukan: negates nouns and pronouns — Bukan saya. "Not me." · Dia bukan guru. "She is not a teacher."</text>
+<text x="240" y="372" text-anchor="middle" class="Ls" >jangan: prohibitive — Jangan pergi! "Do not go!"</text>
+<line x1="20" y1="380" x2="460" y2="380" stroke="black" stroke-width="0.3"/>
+<text x="240" y="388" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="120" y="398" text-anchor="middle" class="Ls" >ya / tidak</text>
+<text x="220" y="398" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="360" y="398" text-anchor="middle" class="Ls" >terima kasih</text>
+<text x="440" y="398" text-anchor="middle" class="Lx" >thank you</text>
+<text x="120" y="411" text-anchor="middle" class="Ls" >maaf / tolong</text>
+<text x="220" y="411" text-anchor="middle" class="Lx" >sorry / please/help</text>
+<text x="360" y="411" text-anchor="middle" class="Ls" >saya / anda/kamu</text>
+<text x="440" y="411" text-anchor="middle" class="Lx" >I (formal) / you</text>
+<text x="120" y="424" text-anchor="middle" class="Ls" >kita / kami</text>
+<text x="220" y="424" text-anchor="middle" class="Lx" >we (incl.) / we (excl.)</text>
+<text x="360" y="424" text-anchor="middle" class="Ls" >ini / itu</text>
+<text x="440" y="424" text-anchor="middle" class="Lx" >this / that</text>
+<text x="120" y="437" text-anchor="middle" class="Ls" >di mana</text>
+<text x="220" y="437" text-anchor="middle" class="Lx" >where</text>
+<text x="360" y="437" text-anchor="middle" class="Ls" >apa</text>
+<text x="440" y="437" text-anchor="middle" class="Lx" >what</text>
+<text x="120" y="450" text-anchor="middle" class="Ls" >siapa</text>
+<text x="220" y="450" text-anchor="middle" class="Lx" >who</text>
+<text x="360" y="450" text-anchor="middle" class="Ls" >mengapa / kenapa</text>
+<text x="440" y="450" text-anchor="middle" class="Lx" >why</text>
+<text x="120" y="463" text-anchor="middle" class="Ls" >air</text>
+<text x="220" y="463" text-anchor="middle" class="Lx" >water</text>
+<text x="360" y="463" text-anchor="middle" class="Ls" >makan / makanan</text>
+<text x="440" y="463" text-anchor="middle" class="Lx" >eat / food</text>
+<text x="120" y="476" text-anchor="middle" class="Ls" >orang</text>
+<text x="220" y="476" text-anchor="middle" class="Lx" >person / people</text>
+<text x="360" y="476" text-anchor="middle" class="Ls" >rumah</text>
+<text x="440" y="476" text-anchor="middle" class="Lx" >house / home</text>
+<text x="120" y="489" text-anchor="middle" class="Ls" >jalan</text>
+<text x="220" y="489" text-anchor="middle" class="Lx" >road / walk</text>
+<text x="360" y="489" text-anchor="middle" class="Ls" >hari</text>
+<text x="440" y="489" text-anchor="middle" class="Lx" >day / sun</text>
+<text x="120" y="502" text-anchor="middle" class="Ls" >malam</text>
+<text x="220" y="502" text-anchor="middle" class="Lx" >night</text>
+<text x="360" y="502" text-anchor="middle" class="Ls" >buku</text>
+<text x="440" y="502" text-anchor="middle" class="Lx" >book</text>
+<text x="120" y="515" text-anchor="middle" class="Ls" >bahasa</text>
+<text x="220" y="515" text-anchor="middle" class="Lx" >language</text>
+<text x="360" y="515" text-anchor="middle" class="Ls" >dunia</text>
+<text x="440" y="515" text-anchor="middle" class="Lx" >world</text>
+<text x="120" y="528" text-anchor="middle" class="Ls" >besar / kecil</text>
+<text x="220" y="528" text-anchor="middle" class="Lx" >big / small</text>
+<text x="360" y="528" text-anchor="middle" class="Ls" >baik / buruk</text>
+<text x="440" y="528" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="120" y="541" text-anchor="middle" class="Ls" >baru / lama</text>
+<text x="220" y="541" text-anchor="middle" class="Lx" >new / old</text>
+<text x="360" y="541" text-anchor="middle" class="Ls" >masa depan</text>
+<text x="440" y="541" text-anchor="middle" class="Lx" >future (lit. "time ahead")</text>
+<text x="120" y="554" text-anchor="middle" class="Ls" >ingat / kenang</text>
+<text x="220" y="554" text-anchor="middle" class="Lx" >remember / recall fondly</text>
+<line x1="20" y1="558" x2="460" y2="558" stroke="black" stroke-width="0.3"/>
+<text x="240" y="566" text-anchor="middle" class="H" >— QUESTION WORDS AND TIME MARKERS —</text>
+<text x="50" y="576" text-anchor="middle" class="Ls" >apa</text>
+<text x="50" y="584" text-anchor="middle" class="Lx" >what</text>
+<text x="140" y="576" text-anchor="middle" class="Ls" >siapa</text>
+<text x="140" y="584" text-anchor="middle" class="Lx" >who</text>
+<text x="230" y="576" text-anchor="middle" class="Ls" >di mana</text>
+<text x="230" y="584" text-anchor="middle" class="Lx" >where</text>
+<text x="320" y="576" text-anchor="middle" class="Ls" >bila/kapan</text>
+<text x="320" y="584" text-anchor="middle" class="Lx" >when</text>
+<text x="415" y="576" text-anchor="middle" class="Ls" >mengapa</text>
+<text x="415" y="584" text-anchor="middle" class="Lx" >why</text>
+<text x="50" y="589" text-anchor="middle" class="Ls" >bagaimana</text>
+<text x="50" y="597" text-anchor="middle" class="Lx" >how</text>
+<text x="140" y="589" text-anchor="middle" class="Ls" >sudah</text>
+<text x="140" y="597" text-anchor="middle" class="Lx" >already (past)</text>
+<text x="230" y="589" text-anchor="middle" class="Ls" >sedang</text>
+<text x="230" y="597" text-anchor="middle" class="Lx" >currently (prog.)</text>
+<text x="320" y="589" text-anchor="middle" class="Ls" >akan</text>
+<text x="320" y="597" text-anchor="middle" class="Lx" >will (future)</text>
+<text x="415" y="589" text-anchor="middle" class="Ls" >pernah</text>
+<text x="415" y="597" text-anchor="middle" class="Lx" >ever (exp.)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 19 · MALAY/INDONESIAN · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

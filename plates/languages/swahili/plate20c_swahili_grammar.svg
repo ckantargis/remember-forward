@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SWAHILI — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 20C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— NOUN CLASS AGREEMENT SYSTEM —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >EVERY Swahili verb, adjective, and relative clause must AGREE with the noun class of its subject.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >The prefix changes depending on noun class, tense, and mood. The root of the verb stays fixed.</text>
+<text x="240" y="96" text-anchor="middle" class="Lx" >Format: [SUBJECT PREFIX] + [TENSE MARKER] + [OBJECT PREFIX] + [VERB ROOT]</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— NOUN CLASS TABLE — SUBJECT AGREEMENT —</text>
+<text x="50" y="122" text-anchor="middle" class="Lx" >M/WA (1/2)</text>
+<text x="115" y="122" text-anchor="middle" class="Lx" >mtu/watu</text>
+<text x="165" y="122" text-anchor="middle" class="Lx" >a-/wa-</text>
+<text x="285" y="122" text-anchor="middle" class="Lx" >A-na-soma / Wa-na-soma</text>
+<text x="415" y="122" text-anchor="middle" class="Lx" >He reads / They read</text>
+<text x="50" y="136" text-anchor="middle" class="Lx" >M/MI (3/4)</text>
+<text x="115" y="136" text-anchor="middle" class="Lx" >mti/miti</text>
+<text x="165" y="136" text-anchor="middle" class="Lx" >u-/i-</text>
+<text x="285" y="136" text-anchor="middle" class="Lx" >U-na-anguka / I-na-anguka</text>
+<text x="415" y="136" text-anchor="middle" class="Lx" >Tree falls / Trees fall</text>
+<text x="50" y="150" text-anchor="middle" class="Lx" >MA (5/6)</text>
+<text x="115" y="150" text-anchor="middle" class="Lx" >tunda/matunda</text>
+<text x="165" y="150" text-anchor="middle" class="Lx" >li-/ya-</text>
+<text x="285" y="150" text-anchor="middle" class="Lx" >Li-na-anguka / Ya-na-anguka</text>
+<text x="415" y="150" text-anchor="middle" class="Lx" >Fruit falls / Fruits fall</text>
+<text x="50" y="164" text-anchor="middle" class="Lx" >KI/VI (7/8)</text>
+<text x="115" y="164" text-anchor="middle" class="Lx" >kitu/vitu</text>
+<text x="165" y="164" text-anchor="middle" class="Lx" >ki-/vi-</text>
+<text x="285" y="164" text-anchor="middle" class="Lx" >Ki-na-anguka / Vi-na-anguka</text>
+<text x="415" y="164" text-anchor="middle" class="Lx" >Thing falls / Things fall</text>
+<text x="50" y="178" text-anchor="middle" class="Lx" >N/N (9/10)</text>
+<text x="115" y="178" text-anchor="middle" class="Lx" >nyumba/nyumba</text>
+<text x="165" y="178" text-anchor="middle" class="Lx" >i-/zi-</text>
+<text x="285" y="178" text-anchor="middle" class="Lx" >I-na-anguka / Zi-na-anguka</text>
+<text x="415" y="178" text-anchor="middle" class="Lx" >House falls / Houses fall</text>
+<text x="50" y="192" text-anchor="middle" class="Lx" >U (11)</text>
+<text x="115" y="192" text-anchor="middle" class="Lx" >ukuta</text>
+<text x="165" y="192" text-anchor="middle" class="Lx" >u-</text>
+<text x="285" y="192" text-anchor="middle" class="Lx" >U-na-anguka</text>
+<text x="415" y="192" text-anchor="middle" class="Lx" >Wall falls</text>
+<text x="50" y="206" text-anchor="middle" class="Lx" >PA (16)</text>
+<text x="115" y="206" text-anchor="middle" class="Lx" >mahali</text>
+<text x="165" y="206" text-anchor="middle" class="Lx" >pa-</text>
+<text x="285" y="206" text-anchor="middle" class="Lx" >Pa-na-kelewa</text>
+<text x="415" y="206" text-anchor="middle" class="Lx" >Place is understood</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<text x="240" y="230" text-anchor="middle" class="H" >— TENSE SYSTEM — TENSE MARKERS IN VERB COMPLEX —</text>
+<text x="240" y="239" text-anchor="middle" class="Ls" >Tense is marked by an infix between subject prefix and verb root. Root stays constant.</text>
+<text x="50" y="249" text-anchor="middle" class="Ls" >-na-</text>
+<text x="120" y="249" text-anchor="middle" class="Lx" >present continuous</text>
+<text x="245" y="249" text-anchor="middle" class="Lx" >A-na-soma</text>
+<text x="380" y="249" text-anchor="middle" class="Lx" >He is reading</text>
+<text x="50" y="262" text-anchor="middle" class="Ls" >-li-</text>
+<text x="120" y="262" text-anchor="middle" class="Lx" >simple past</text>
+<text x="245" y="262" text-anchor="middle" class="Lx" >A-li-soma</text>
+<text x="380" y="262" text-anchor="middle" class="Lx" >He read</text>
+<text x="50" y="275" text-anchor="middle" class="Ls" >-ta-</text>
+<text x="120" y="275" text-anchor="middle" class="Lx" >future</text>
+<text x="245" y="275" text-anchor="middle" class="Lx" >A-ta-soma</text>
+<text x="380" y="275" text-anchor="middle" class="Lx" >He will read</text>
+<text x="50" y="288" text-anchor="middle" class="Ls" >-me-</text>
+<text x="120" y="288" text-anchor="middle" class="Lx" >perfect</text>
+<text x="245" y="288" text-anchor="middle" class="Lx" >A-me-soma</text>
+<text x="380" y="288" text-anchor="middle" class="Lx" >He has read</text>
+<text x="50" y="301" text-anchor="middle" class="Ls" >-ku-</text>
+<text x="120" y="301" text-anchor="middle" class="Lx" >past (negative/infinitive)</text>
+<text x="245" y="301" text-anchor="middle" class="Lx" >A-ku-soma</text>
+<text x="380" y="301" text-anchor="middle" class="Lx" >He used to read / to read</text>
+<text x="50" y="314" text-anchor="middle" class="Ls" >-nge-</text>
+<text x="120" y="314" text-anchor="middle" class="Lx" >conditional</text>
+<text x="245" y="314" text-anchor="middle" class="Lx" >A-nge-soma</text>
+<text x="380" y="314" text-anchor="middle" class="Lx" >He would read</text>
+<text x="50" y="327" text-anchor="middle" class="Ls" >-ngeli-</text>
+<text x="120" y="327" text-anchor="middle" class="Lx" >past conditional</text>
+<text x="245" y="327" text-anchor="middle" class="Lx" >A-ngeli-soma</text>
+<text x="380" y="327" text-anchor="middle" class="Lx" >He would have read</text>
+<line x1="20" y1="342" x2="460" y2="342" stroke="black" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="H" >— NEGATION —</text>
+<text x="240" y="360" text-anchor="middle" class="Ls" >Negation changes the subject prefix: a- (pos.) → ha- (neg.) for M/WA class:</text>
+<text x="240" y="369" text-anchor="middle" class="Ls" >Anasoma (He reads) → Hasomi (He does not read) — note: negative present drops -na-, uses -i ending.</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Negative past: Hakusoma (He did not read) · Negative future: Hatasoma (He will not read)</text>
+<line x1="20" y1="386" x2="460" y2="386" stroke="black" stroke-width="0.3"/>
+<text x="240" y="394" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS WITH NOUN CLASS —</text>
+<text x="80" y="404" text-anchor="middle" class="Lx" >ndiyo / hapana</text>
+<text x="170" y="404" text-anchor="middle" class="Lx" >M/WA</text>
+<text x="220" y="404" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="320" y="415" text-anchor="middle" class="Lx" >asante</text>
+<text x="410" y="415" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="415" text-anchor="middle" class="Lx" >thank you</text>
+<text x="80" y="426" text-anchor="middle" class="Lx" >tafadhali / samahani</text>
+<text x="170" y="426" text-anchor="middle" class="Lx" >—</text>
+<text x="220" y="426" text-anchor="middle" class="Lx" >please / excuse me</text>
+<text x="320" y="437" text-anchor="middle" class="Lx" >mimi / wewe</text>
+<text x="410" y="437" text-anchor="middle" class="Lx" >M/WA</text>
+<text x="460" y="437" text-anchor="middle" class="Lx" >I / you</text>
+<text x="80" y="448" text-anchor="middle" class="Lx" >yeye / sisi</text>
+<text x="170" y="448" text-anchor="middle" class="Lx" >M/WA</text>
+<text x="220" y="448" text-anchor="middle" class="Lx" >he/she / we</text>
+<text x="320" y="459" text-anchor="middle" class="Lx" >hii / hiyo</text>
+<text x="410" y="459" text-anchor="middle" class="Lx" >N class</text>
+<text x="460" y="459" text-anchor="middle" class="Lx" >this / that</text>
+<text x="80" y="470" text-anchor="middle" class="Lx" >wapi</text>
+<text x="170" y="470" text-anchor="middle" class="Lx" >—</text>
+<text x="220" y="470" text-anchor="middle" class="Lx" >where</text>
+<text x="320" y="481" text-anchor="middle" class="Lx" >nini</text>
+<text x="410" y="481" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="481" text-anchor="middle" class="Lx" >what</text>
+<text x="80" y="492" text-anchor="middle" class="Lx" >nani</text>
+<text x="170" y="492" text-anchor="middle" class="Lx" >M/WA</text>
+<text x="220" y="492" text-anchor="middle" class="Lx" >who</text>
+<text x="320" y="503" text-anchor="middle" class="Lx" >kwa nini</text>
+<text x="410" y="503" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="503" text-anchor="middle" class="Lx" >why</text>
+<text x="80" y="514" text-anchor="middle" class="Lx" >maji</text>
+<text x="170" y="514" text-anchor="middle" class="Lx" >MA (6)</text>
+<text x="220" y="514" text-anchor="middle" class="Lx" >water</text>
+<text x="320" y="525" text-anchor="middle" class="Lx" >chakula</text>
+<text x="410" y="525" text-anchor="middle" class="Lx" >KI/VI (7)</text>
+<text x="460" y="525" text-anchor="middle" class="Lx" >food</text>
+<text x="80" y="536" text-anchor="middle" class="Lx" >mtu / watu</text>
+<text x="170" y="536" text-anchor="middle" class="Lx" >M/WA (1/2)</text>
+<text x="220" y="536" text-anchor="middle" class="Lx" >person / people</text>
+<text x="320" y="547" text-anchor="middle" class="Lx" >nyumba</text>
+<text x="410" y="547" text-anchor="middle" class="Lx" >N (9)</text>
+<text x="460" y="547" text-anchor="middle" class="Lx" >house</text>
+<text x="80" y="558" text-anchor="middle" class="Lx" >njia</text>
+<text x="170" y="558" text-anchor="middle" class="Lx" >N (9)</text>
+<text x="220" y="558" text-anchor="middle" class="Lx" >path / way</text>
+<text x="320" y="569" text-anchor="middle" class="Lx" >leo / jana</text>
+<text x="410" y="569" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="569" text-anchor="middle" class="Lx" >today / yesterday</text>
+<text x="80" y="580" text-anchor="middle" class="Lx" >kesho</text>
+<text x="170" y="580" text-anchor="middle" class="Lx" >—</text>
+<text x="220" y="580" text-anchor="middle" class="Lx" >tomorrow</text>
+<text x="320" y="591" text-anchor="middle" class="Lx" >kitabu / vitabu</text>
+<text x="410" y="591" text-anchor="middle" class="Lx" >KI/VI (7/8)</text>
+<text x="460" y="591" text-anchor="middle" class="Lx" >book / books</text>
+<text x="80" y="602" text-anchor="middle" class="Lx" >lugha</text>
+<text x="170" y="602" text-anchor="middle" class="Lx" >N (9)</text>
+<text x="220" y="602" text-anchor="middle" class="Lx" >language</text>
+<text x="320" y="613" text-anchor="middle" class="Lx" >dunia</text>
+<text x="410" y="613" text-anchor="middle" class="Lx" >N (9)</text>
+<text x="460" y="613" text-anchor="middle" class="Lx" >world</text>
+<text x="80" y="624" text-anchor="middle" class="Lx" >kubwa / ndogo</text>
+<text x="170" y="624" text-anchor="middle" class="Lx" >—</text>
+<text x="220" y="624" text-anchor="middle" class="Lx" >big / small</text>
+<text x="320" y="635" text-anchor="middle" class="Lx" >nzuri / mbaya</text>
+<text x="410" y="635" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="635" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="80" y="646" text-anchor="middle" class="Lx" >mpya / kale</text>
+<text x="170" y="646" text-anchor="middle" class="Lx" >M/MI</text>
+<text x="220" y="646" text-anchor="middle" class="Lx" >new / old</text>
+<text x="320" y="657" text-anchor="middle" class="Lx" >siku zijazo / kesho</text>
+<text x="410" y="657" text-anchor="middle" class="Lx" >—</text>
+<text x="460" y="657" text-anchor="middle" class="Lx" >future / tomorrow</text>
+<text x="80" y="668" text-anchor="middle" class="Lx" >kumbuka</text>
+<text x="170" y="668" text-anchor="middle" class="Lx" >—</text>
+<text x="220" y="668" text-anchor="middle" class="Lx" >remember (verb)</text>
+<line x1="20" y1="681" x2="460" y2="681" stroke="black" stroke-width="0.3"/>
+<text x="240" y="689" text-anchor="middle" class="H" >— WORD ORDER AND ADJECTIVE AGREEMENT —</text>
+<text x="240" y="699" text-anchor="middle" class="Ls" >SVO order: Mtoto anasoma kitabu. Child is-reading book. "The child is reading a book."</text>
+<text x="240" y="708" text-anchor="middle" class="Ls" >Adjective follows noun and takes noun class prefix: kitabu -zuri → kitabu kizuri (a good book).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 20 · SWAHILI · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

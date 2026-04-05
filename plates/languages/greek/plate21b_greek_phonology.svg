@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lg { font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GREEK — PHONOLOGY · ANCIENT AND MODERN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 21B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— TWO SYSTEMS — ANCIENT ATTIC AND MODERN GREEK —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Ancient Greek (Attic dialect, c. 5th–4th BCE) and Modern Greek (Demotic, post-1976) differ substantially.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >Ancient: pitch accent, vowel quantity distinctions, aspirated stops, front-rounded vowel /y/.</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >Modern: stress accent, all vowels simplified, spirantized stops, iotacism (η υ ει οι → /i/).</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— VOWEL SYSTEMS — ANCIENT (ATTIC) vs MODERN —</text>
+<text x="130" y="121" text-anchor="middle" class="Lx" >Letter</text>
+<text x="220" y="121" text-anchor="middle" class="Lx" >Ancient IPA</text>
+<text x="310" y="121" text-anchor="middle" class="Lx" >Modern IPA</text>
+<text x="410" y="121" text-anchor="middle" class="Lx" >Note</text>
+<text x="60" y="131" text-anchor="middle" class="Ls" >α Α</text>
+<text x="180" y="131" text-anchor="middle" class="Lx" >/a/ short, /aː/ long</text>
+<text x="290" y="131" text-anchor="middle" class="Lx" >/a/</text>
+<text x="405" y="131" text-anchor="middle" class="Lx" >unchanged</text>
+<text x="60" y="143" text-anchor="middle" class="Ls" >ε Ε</text>
+<text x="180" y="143" text-anchor="middle" class="Lx" >/e/ short</text>
+<text x="290" y="143" text-anchor="middle" class="Lx" >/e/</text>
+<text x="405" y="143" text-anchor="middle" class="Lx" >unchanged</text>
+<text x="60" y="155" text-anchor="middle" class="Ls" >η Η</text>
+<text x="180" y="155" text-anchor="middle" class="Lx" >/ɛː/ long e</text>
+<text x="290" y="155" text-anchor="middle" class="Lx" >/i/</text>
+<text x="405" y="155" text-anchor="middle" class="Lx" >iotacism — sounds like "ee"</text>
+<text x="60" y="167" text-anchor="middle" class="Ls" >ι Ι</text>
+<text x="180" y="167" text-anchor="middle" class="Lx" >/i/ short, /iː/ long</text>
+<text x="290" y="167" text-anchor="middle" class="Lx" >/i/</text>
+<text x="405" y="167" text-anchor="middle" class="Lx" >unchanged</text>
+<text x="60" y="179" text-anchor="middle" class="Ls" >ο Ο</text>
+<text x="180" y="179" text-anchor="middle" class="Lx" >/o/ short</text>
+<text x="290" y="179" text-anchor="middle" class="Lx" >/o/</text>
+<text x="405" y="179" text-anchor="middle" class="Lx" >unchanged</text>
+<text x="60" y="191" text-anchor="middle" class="Ls" >υ Υ</text>
+<text x="180" y="191" text-anchor="middle" class="Lx" >/y/ short, /yː/ long</text>
+<text x="290" y="191" text-anchor="middle" class="Lx" >/i/</text>
+<text x="405" y="191" text-anchor="middle" class="Lx" >front-rounded → iotacism</text>
+<text x="60" y="203" text-anchor="middle" class="Ls" >ω Ω</text>
+<text x="180" y="203" text-anchor="middle" class="Lx" >/ɔː/ long o</text>
+<text x="290" y="203" text-anchor="middle" class="Lx" >/o/</text>
+<text x="405" y="203" text-anchor="middle" class="Lx" >merged with omicron</text>
+<text x="60" y="215" text-anchor="middle" class="Ls" >ει</text>
+<text x="180" y="215" text-anchor="middle" class="Lx" >/eː/ long e</text>
+<text x="290" y="215" text-anchor="middle" class="Lx" >/i/</text>
+<text x="405" y="215" text-anchor="middle" class="Lx" >diphthong → iotacism</text>
+<text x="60" y="227" text-anchor="middle" class="Ls" >οι</text>
+<text x="180" y="227" text-anchor="middle" class="Lx" >/oi/ diphthong</text>
+<text x="290" y="227" text-anchor="middle" class="Lx" >/i/</text>
+<text x="405" y="227" text-anchor="middle" class="Lx" >merged to /i/</text>
+<text x="60" y="239" text-anchor="middle" class="Ls" >αι</text>
+<text x="180" y="239" text-anchor="middle" class="Lx" >/ai/ diphthong</text>
+<text x="290" y="239" text-anchor="middle" class="Lx" >/e/</text>
+<text x="405" y="239" text-anchor="middle" class="Lx" >simplified</text>
+<text x="60" y="251" text-anchor="middle" class="Ls" >αυ</text>
+<text x="180" y="251" text-anchor="middle" class="Lx" >/au/ diphthong</text>
+<text x="290" y="251" text-anchor="middle" class="Lx" >/av/ or /af/</text>
+<text x="405" y="251" text-anchor="middle" class="Lx" >context-dependent</text>
+<text x="60" y="263" text-anchor="middle" class="Ls" >ευ</text>
+<text x="180" y="263" text-anchor="middle" class="Lx" >/eu/ diphthong</text>
+<text x="290" y="263" text-anchor="middle" class="Lx" >/ev/ or /ef/</text>
+<text x="405" y="263" text-anchor="middle" class="Lx" >context-dependent</text>
+<line x1="20" y1="279" x2="460" y2="279" stroke="black" stroke-width="0.3"/>
+<text x="240" y="287" text-anchor="middle" class="H" >— CONSONANT CHANGES — ANCIENT TO MODERN —</text>
+<text x="40" y="297" text-anchor="middle" class="Ls" >β</text>
+<text x="90" y="297" text-anchor="middle" class="Lx" >/b/</text>
+<text x="145" y="297" text-anchor="middle" class="Lx" >/v/</text>
+<text x="330" y="297" text-anchor="middle" class="Lx" >spirantization — bilabial stop → labiodental fric.</text>
+<text x="40" y="309" text-anchor="middle" class="Ls" >γ</text>
+<text x="90" y="309" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="145" y="309" text-anchor="middle" class="Lx" >/ɣ/ or /j/</text>
+<text x="330" y="309" text-anchor="middle" class="Lx" >velar stop → voiced velar/palatal fricative</text>
+<text x="40" y="321" text-anchor="middle" class="Ls" >δ</text>
+<text x="90" y="321" text-anchor="middle" class="Lx" >/d/</text>
+<text x="145" y="321" text-anchor="middle" class="Lx" >/ð/</text>
+<text x="330" y="321" text-anchor="middle" class="Lx" >dental stop → dental fricative (like English "the")</text>
+<text x="40" y="333" text-anchor="middle" class="Ls" >ζ</text>
+<text x="90" y="333" text-anchor="middle" class="Lx" >/zd/ or /dz/</text>
+<text x="145" y="333" text-anchor="middle" class="Lx" >/z/</text>
+<text x="330" y="333" text-anchor="middle" class="Lx" >simplified to simple fricative</text>
+<text x="40" y="345" text-anchor="middle" class="Ls" >θ</text>
+<text x="90" y="345" text-anchor="middle" class="Lx" >/tʰ/</text>
+<text x="145" y="345" text-anchor="middle" class="Lx" >/θ/</text>
+<text x="330" y="345" text-anchor="middle" class="Lx" >aspirated stop → voiceless dental fricative</text>
+<text x="40" y="357" text-anchor="middle" class="Ls" >φ</text>
+<text x="90" y="357" text-anchor="middle" class="Lx" >/pʰ/</text>
+<text x="145" y="357" text-anchor="middle" class="Lx" >/f/</text>
+<text x="330" y="357" text-anchor="middle" class="Lx" >aspirated stop → labiodental fricative</text>
+<text x="40" y="369" text-anchor="middle" class="Ls" >χ</text>
+<text x="90" y="369" text-anchor="middle" class="Lx" >/kʰ/</text>
+<text x="145" y="369" text-anchor="middle" class="Lx" >/x/ or /ç/</text>
+<text x="330" y="369" text-anchor="middle" class="Lx" >aspirated stop → velar/palatal fricative</text>
+<text x="40" y="381" text-anchor="middle" class="Ls" >π,τ,κ</text>
+<text x="90" y="381" text-anchor="middle" class="Lx" >/p t k/</text>
+<text x="145" y="381" text-anchor="middle" class="Lx" >/p t k/</text>
+<text x="330" y="381" text-anchor="middle" class="Lx" >voiceless stops — UNCHANGED</text>
+<text x="40" y="393" text-anchor="middle" class="Ls" >μπ,ντ,γκ</text>
+<text x="90" y="393" text-anchor="middle" class="Lx" >—</text>
+<text x="145" y="393" text-anchor="middle" class="Lx" >/b d ɡ/</text>
+<text x="330" y="393" text-anchor="middle" class="Lx" >modern voiced stops formed by clusters</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H" >— BREATHING MARKS — ANCIENT POLYTONIC —</text>
+<text x="240" y="428" text-anchor="middle" class="L" >Every ancient Greek word beginning with a vowel carries a breathing mark.</text>
+<text x="240" y="437" text-anchor="middle" class="Ls" >Rough breathing (ἁ ἐ ἱ ὁ ὑ): a preceding /h/ sound — ἡμέρα hēméra (day).</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Smooth breathing (ἀ ἐ ἰ ὀ): no /h/ — ἀνήρ anēr (man).</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >Rho at word start always carries rough breathing: ῥήτωρ rhētor (orator, root of "rhetoric").</text>
+<text x="240" y="464" text-anchor="middle" class="Ls" >Modern Greek: breathing marks abolished in 1982 reform (monotonic orthography).</text>
+<line x1="20" y1="472" x2="460" y2="472" stroke="black" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="H" >— PITCH ACCENT — ANCIENT GREEK —</text>
+<text x="240" y="490" text-anchor="middle" class="Ls" >Ancient Greek had lexical PITCH accent: syllables were high (acute ´) or low (grave `) or both (circumflex ˆ).</text>
+<text x="240" y="499" text-anchor="middle" class="Ls" >The circumflex (ᾶ) could only appear on long vowels/diphthongs: a rising-then-falling tone.</text>
+<text x="240" y="508" text-anchor="middle" class="Ls" >Three-syllable rule: accent cannot fall more than 3 syllables from the end of the word.</text>
+<text x="240" y="517" text-anchor="middle" class="Ls" >Example: ἄνθρωπος ánthrōpos (human being) — accent on first syllable, acute.</text>
+<text x="240" y="526" text-anchor="middle" class="Ls" >Modern Greek: stress accent replaces pitch — one stressed syllable, marked with ά έ ή ί ό ύ ώ.</text>
+<line x1="20" y1="534" x2="460" y2="534" stroke="black" stroke-width="0.3"/>
+<text x="240" y="542" text-anchor="middle" class="H" >— MODERN GREEK PHONEME INVENTORY —</text>
+<text x="240" y="552" text-anchor="middle" class="Ls" >Vowels: /a e i o u/ — 5 vowels (iotacism collapsed many distinctions).</text>
+<text x="240" y="561" text-anchor="middle" class="Ls" >Consonants: /p b t d k ɡ f v θ ð s z ʃ x ɣ m n ɲ l r j/</text>
+<text x="240" y="570" text-anchor="middle" class="Ls" >Note /b d ɡ/ are written μπ ντ γκ/γγ respectively (e.g., μπαμπάς bampas = dad).</text>
+<text x="240" y="579" text-anchor="middle" class="Ls" >Geminate consonants: not phonemic in Modern Greek (simplified from ancient forms).</text>
+<text x="240" y="588" text-anchor="middle" class="Ls" >Stress: always marked in writing (except monosyllables). Position is lexically unpredictable.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 21 · GREEK · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

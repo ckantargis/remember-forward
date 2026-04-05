@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >MALAY / INDONESIAN — PHONOLOGY · SOUNDS</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 19B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— OVERVIEW — NO TONES, PENULTIMATE STRESS —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Malay/Indonesian is a NON-TONAL language with simple syllable structure and fixed stress.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >Stress: always on the PENULTIMATE (second-to-last) syllable in base words.</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >Exception: words with schwa /ə/ in penultimate position — stress shifts to final syllable.</text>
+<text x="240" y="105" text-anchor="middle" class="Lx" >e.g., em-PAT (4), se-KO-lah (school) · BUT: te-LAH (already), me-NGERT-i (understand)</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— VOWEL SYSTEM — 6 VOWELS —</text>
+<text x="40" y="131" text-anchor="middle" class="Ls" >/a/</text>
+<text x="75" y="131" text-anchor="middle" class="Ls" >a</text>
+<text x="135" y="131" text-anchor="middle" class="Lx" >low central open</text>
+<text x="270" y="131" text-anchor="middle" class="Lx" >apa (what), badan (body)</text>
+<text x="415" y="131" text-anchor="middle" class="Lx" >like "ah"</text>
+<text x="40" y="145" text-anchor="middle" class="Ls" >/e/</text>
+<text x="75" y="145" text-anchor="middle" class="Ls" >é</text>
+<text x="135" y="145" text-anchor="middle" class="Lx" >mid front</text>
+<text x="270" y="145" text-anchor="middle" class="Lx" >enam (six), pergi (go)</text>
+<text x="415" y="145" text-anchor="middle" class="Lx" >like "e" in "bed"</text>
+<text x="40" y="159" text-anchor="middle" class="Ls" >/ə/</text>
+<text x="75" y="159" text-anchor="middle" class="Ls" >e</text>
+<text x="135" y="159" text-anchor="middle" class="Lx" >mid central schwa</text>
+<text x="270" y="159" text-anchor="middle" class="Lx" >emak (mother), empat (four)</text>
+<text x="415" y="159" text-anchor="middle" class="Lx" >like "a" in "about"</text>
+<text x="40" y="173" text-anchor="middle" class="Ls" >/i/</text>
+<text x="75" y="173" text-anchor="middle" class="Ls" >i</text>
+<text x="135" y="173" text-anchor="middle" class="Lx" >high front</text>
+<text x="270" y="173" text-anchor="middle" class="Lx" >ini (this), ibu (mother)</text>
+<text x="415" y="173" text-anchor="middle" class="Lx" >like "ee"</text>
+<text x="40" y="187" text-anchor="middle" class="Ls" >/o/</text>
+<text x="75" y="187" text-anchor="middle" class="Ls" >o</text>
+<text x="135" y="187" text-anchor="middle" class="Lx" >mid back rounded</text>
+<text x="270" y="187" text-anchor="middle" class="Lx" >orang (person), bola (ball)</text>
+<text x="415" y="187" text-anchor="middle" class="Lx" >like "oh"</text>
+<text x="40" y="201" text-anchor="middle" class="Ls" >/u/</text>
+<text x="75" y="201" text-anchor="middle" class="Ls" >u</text>
+<text x="135" y="201" text-anchor="middle" class="Lx" >high back rounded</text>
+<text x="270" y="201" text-anchor="middle" class="Lx" >ular (snake), buku (book)</text>
+<text x="415" y="201" text-anchor="middle" class="Lx" >like "oo"</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="0.3"/>
+<text x="240" y="225" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="234" text-anchor="middle" class="Ls" >Malay/Indonesian has 19 native consonant phonemes. Loanwords add f, v, z, sy, kh, gh.</text>
+<text x="45" y="244" text-anchor="middle" class="Ls" >p</text>
+<text x="75" y="244" text-anchor="middle" class="Lx" >/p/</text>
+<text x="130" y="244" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="205" y="244" text-anchor="middle" class="Lx" >pagi (morning)</text>
+<text x="265" y="244" text-anchor="middle" class="Ls" >b</text>
+<text x="295" y="244" text-anchor="middle" class="Lx" >/b/</text>
+<text x="350" y="244" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="425" y="244" text-anchor="middle" class="Lx" >baru (new)</text>
+<text x="45" y="256" text-anchor="middle" class="Ls" >t</text>
+<text x="75" y="256" text-anchor="middle" class="Lx" >/t/</text>
+<text x="130" y="256" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="205" y="256" text-anchor="middle" class="Lx" >tahu (know)</text>
+<text x="265" y="256" text-anchor="middle" class="Ls" >d</text>
+<text x="295" y="256" text-anchor="middle" class="Lx" >/d/</text>
+<text x="350" y="256" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="425" y="256" text-anchor="middle" class="Lx" >dan (and)</text>
+<text x="45" y="268" text-anchor="middle" class="Ls" >k</text>
+<text x="75" y="268" text-anchor="middle" class="Lx" >/k/</text>
+<text x="130" y="268" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="205" y="268" text-anchor="middle" class="Lx" >kita (we)</text>
+<text x="265" y="268" text-anchor="middle" class="Ls" >g</text>
+<text x="295" y="268" text-anchor="middle" class="Lx" >/g/</text>
+<text x="350" y="268" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="425" y="268" text-anchor="middle" class="Lx" >guru (teacher)</text>
+<text x="45" y="280" text-anchor="middle" class="Ls" >c</text>
+<text x="75" y="280" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="130" y="280" text-anchor="middle" class="Lx" >palatal affricate</text>
+<text x="205" y="280" text-anchor="middle" class="Lx" >cinta (love)</text>
+<text x="265" y="280" text-anchor="middle" class="Ls" >j</text>
+<text x="295" y="280" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="350" y="280" text-anchor="middle" class="Lx" >palatal affricate</text>
+<text x="425" y="280" text-anchor="middle" class="Lx" >jalan (road)</text>
+<text x="45" y="292" text-anchor="middle" class="Ls" >m</text>
+<text x="75" y="292" text-anchor="middle" class="Lx" >/m/</text>
+<text x="130" y="292" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="205" y="292" text-anchor="middle" class="Lx" >makan (eat)</text>
+<text x="265" y="292" text-anchor="middle" class="Ls" >n</text>
+<text x="295" y="292" text-anchor="middle" class="Lx" >/n/</text>
+<text x="350" y="292" text-anchor="middle" class="Lx" >alveolar nasal</text>
+<text x="425" y="292" text-anchor="middle" class="Lx" >nama (name)</text>
+<text x="45" y="304" text-anchor="middle" class="Ls" >ng</text>
+<text x="75" y="304" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="130" y="304" text-anchor="middle" class="Lx" >velar nasal</text>
+<text x="205" y="304" text-anchor="middle" class="Lx" >dengan (with)</text>
+<text x="265" y="304" text-anchor="middle" class="Ls" >ny</text>
+<text x="295" y="304" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="350" y="304" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="425" y="304" text-anchor="middle" class="Lx" >nyawa (life)</text>
+<text x="45" y="316" text-anchor="middle" class="Ls" >s</text>
+<text x="75" y="316" text-anchor="middle" class="Lx" >/s/</text>
+<text x="130" y="316" text-anchor="middle" class="Lx" >alveolar fricative</text>
+<text x="205" y="316" text-anchor="middle" class="Lx" >satu (one)</text>
+<text x="265" y="316" text-anchor="middle" class="Ls" >h</text>
+<text x="295" y="316" text-anchor="middle" class="Lx" >/h/</text>
+<text x="350" y="316" text-anchor="middle" class="Lx" >glottal fricative</text>
+<text x="425" y="316" text-anchor="middle" class="Lx" >hari (day)</text>
+<text x="45" y="328" text-anchor="middle" class="Ls" >r</text>
+<text x="75" y="328" text-anchor="middle" class="Lx" >/r/</text>
+<text x="130" y="328" text-anchor="middle" class="Lx" >alveolar trill</text>
+<text x="205" y="328" text-anchor="middle" class="Lx" >rumah (house)</text>
+<text x="265" y="328" text-anchor="middle" class="Ls" >l</text>
+<text x="295" y="328" text-anchor="middle" class="Lx" >/l/</text>
+<text x="350" y="328" text-anchor="middle" class="Lx" >lateral approx.</text>
+<text x="425" y="328" text-anchor="middle" class="Lx" >laut (sea)</text>
+<text x="45" y="340" text-anchor="middle" class="Ls" >w</text>
+<text x="75" y="340" text-anchor="middle" class="Lx" >/w/</text>
+<text x="130" y="340" text-anchor="middle" class="Lx" >labial-velar glide</text>
+<text x="205" y="340" text-anchor="middle" class="Lx" >waktu (time)</text>
+<text x="265" y="340" text-anchor="middle" class="Ls" >y</text>
+<text x="295" y="340" text-anchor="middle" class="Lx" >/j/</text>
+<text x="350" y="340" text-anchor="middle" class="Lx" >palatal glide</text>
+<text x="425" y="340" text-anchor="middle" class="Lx" >yang (which/that)</text>
+<text x="45" y="352" text-anchor="middle" class="Ls" >'</text>
+<text x="75" y="352" text-anchor="middle" class="Lx" >/ʔ/</text>
+<text x="130" y="352" text-anchor="middle" class="Lx" >glottal stop</text>
+<text x="205" y="352" text-anchor="middle" class="Lx" >rakyat (people) final k</text>
+<line x1="20" y1="372" x2="460" y2="372" stroke="black" stroke-width="0.3"/>
+<text x="240" y="380" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE — CV(C) —</text>
+<text x="240" y="390" text-anchor="middle" class="L" >Most syllables are CV (consonant-vowel) or V. Final consonants allowed but limited.</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >Final position: -k is realized as glottal stop [ʔ] in careful speech: tidak [tɪdaʔ] (not)</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >Diphthongs: /ai/ → [aɪ] pandai (clever) · /au/ → [aʊ] pulau (island) · /oi/ → [ɔɪ] amboi (wow)</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="424" text-anchor="middle" class="H" >— GEMINATION — DOUBLE CONSONANTS IN BORROWINGS —</text>
+<text x="240" y="434" text-anchor="middle" class="Ls" >Native Malay has no geminate consonants. Loanwords from Arabic may have doubled consonants.</text>
+<text x="240" y="443" text-anchor="middle" class="Ls" >Arabic loanwords: massa (mass), sunnah (tradition), qiblat (prayer direction)</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >In normal speech, geminates are reduced: kelas (class) /kelas/ not /kell-as/</text>
+<line x1="20" y1="460" x2="460" y2="460" stroke="black" stroke-width="0.3"/>
+<text x="240" y="468" text-anchor="middle" class="H" >— INTONATION — QUESTION FORMATION —</text>
+<text x="240" y="478" text-anchor="middle" class="Ls" >Questions formed by rising intonation OR by adding particle kah/tah (formal) or kan/ke (colloquial).</text>
+<text x="240" y="487" text-anchor="middle" class="Ls" >Dia datang? "Is he coming?" (rising tone) · Adakah dia datang? (formal marker adakah)</text>
+<text x="240" y="496" text-anchor="middle" class="Ls" >Dia datang, kan? "He's coming, right?" — tag question with kan</text>
+<line x1="20" y1="504" x2="460" y2="504" stroke="black" stroke-width="0.3"/>
+<text x="240" y="512" text-anchor="middle" class="H" >— REGIONAL PHONOLOGICAL VARIATION —</text>
+<text x="240" y="522" text-anchor="middle" class="Ls" >Standard (KL/Jakarta): /r/ = trill or flap depending on position and register.</text>
+<text x="240" y="531" text-anchor="middle" class="Ls" >Javanese-influenced Indonesian: /e/ often realized as [ɛ] · /o/ as [ɔ] in open syllables.</text>
+<text x="240" y="540" text-anchor="middle" class="Ls" >Colloquial Malaysian: final /a/ → /ə/ in fast speech: saya → sayə (I/me).</text>
+<text x="240" y="549" text-anchor="middle" class="Ls" >H-deletion: hari (day) → [a.ri] in rapid colloquial speech in many regions.</text>
+<text x="240" y="558" text-anchor="middle" class="Ls" >Northern Malaysian dialects (Kedah, Kelantan): distinct vowel systems, tonal features — not standard.</text>
+<text x="240" y="567" text-anchor="middle" class="Ls" >IPA summary: /p b t d k g tʃ dʒ m n ŋ ɲ s h r l w j ʔ/ + /a e ə i o u/</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 19 · MALAY/INDONESIAN · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

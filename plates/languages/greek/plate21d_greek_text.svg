@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lg { font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GREEK — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 21D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — HOMER, ILIAD I.1 (c. 8th BCE) —</text>
+<text x="240" y="77" text-anchor="middle" class="Lg" >Μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος</text>
+<text x="240" y="89" text-anchor="middle" class="Lx" >Mēnin áeide theà Pēlēiádeō Achilēos</text>
+<text x="240" y="97" text-anchor="middle" class="Lx" >Rage    sing   goddess  of-Peleus's-son  of-Achilles</text>
+<text x="240" y="105" text-anchor="middle" class="Ls" >"Sing, goddess, the rage of Achilles son of Peleus"  — opening line of Western literature</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— PASSAGE 2 — PLATO, APOLOGY 38A (c. 399 BCE) —</text>
+<text x="240" y="131" text-anchor="middle" class="Lg" >ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ</text>
+<text x="240" y="143" text-anchor="middle" class="Lx" >ho dè anexétastos bíos ou biōtòs anthrōpōi</text>
+<text x="240" y="151" text-anchor="middle" class="Lx" >the but unexamined  life not livable  for-human</text>
+<text x="240" y="159" text-anchor="middle" class="Ls" >"The unexamined life is not worth living for a human being."  — Socrates (via Plato)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="175" text-anchor="middle" class="H" >— PASSAGE 3 — JOHN 1:1, NEW TESTAMENT GREEK (c. 90–100 CE) —</text>
+<text x="240" y="185" text-anchor="middle" class="Lg" >Ἐν ἀρχῇ ἦν ὁ Λόγος, καὶ ὁ Λόγος ἦν πρὸς τὸν Θεόν</text>
+<text x="240" y="197" text-anchor="middle" class="Lx" >En archēi  ēn  ho Lógos, kaì  ho Lógos  ēn  pròs  tòn  Theón</text>
+<text x="240" y="205" text-anchor="middle" class="Lx" >In beginning was the Word,  and the Word   was toward the  God</text>
+<text x="240" y="213" text-anchor="middle" class="Ls" >"In the beginning was the Word, and the Word was with God."  — Koine Greek</text>
+<line x1="20" y1="221" x2="460" y2="221" stroke="black" stroke-width="0.3"/>
+<text x="240" y="229" text-anchor="middle" class="H" >— PASSAGE 4 — GREEK NATIONAL ANTHEM, FIRST STANZA (1823, SOLOMOS) —</text>
+<text x="240" y="239" text-anchor="middle" class="Lg" >Σε γνωρίζω από την κόψη</text>
+<text x="240" y="249" text-anchor="middle" class="Lx" >Se gnorízo apó tin kópsi</text>
+<text x="240" y="257" text-anchor="middle" class="Lx" >You I-recognize from the edge</text>
+<text x="240" y="267" text-anchor="middle" class="Lg" >του σπαθιού την τρομερή,</text>
+<text x="240" y="277" text-anchor="middle" class="Lx" >tou spathioú tin tromerí,</text>
+<text x="240" y="285" text-anchor="middle" class="Lx" >of the-sword the terrible,</text>
+<text x="240" y="295" text-anchor="middle" class="Ls" >"I know you by the fearsome edge of your sword" — Hymn to Liberty, Dionysios Solomos</text>
+<line x1="20" y1="303" x2="460" y2="303" stroke="black" stroke-width="0.3"/>
+<text x="240" y="311" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="323" text-anchor="middle" class="Lg" >Αυτό φτιάχτηκε για σένα, ελεύθερα, από ανθρώπους που θυμήθηκαν το μέλλον.</text>
+<text x="240" y="337" text-anchor="middle" class="Lx" >Aftó ftiáchtike gia séna, eléfthera, apó anthrópous pou thimíthikan to méllon.</text>
+<text x="240" y="345" text-anchor="middle" class="Lx" >This was-made   for you,  freely,    from people       who remembered    the future.</text>
+<text x="240" y="353" text-anchor="middle" class="Ls" >"This was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="361" x2="460" y2="361" stroke="black" stroke-width="0.3"/>
+<text x="240" y="369" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN GREEK —</text>
+<text x="240" y="379" text-anchor="middle" class="L" >μέλλον (méllon): "the future" — from μέλλω (méllo) "to be about to, to intend."</text>
+<text x="240" y="389" text-anchor="middle" class="Ls" >The future is literally "what is about to happen" — a participial noun from the verb of intention.</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >θυμήθηκαν (thimíthikan): 3rd person plural aorist passive of θυμάμαι (remember) — "they remembered."</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >ελεύθερα (eléfthera): adverb from ελεύθερος (free) — root of "Eleutherios", freedom, liberty.</text>
+<text x="240" y="417" text-anchor="middle" class="Ls" >ελεύθερος shares roots with German "lieb" and English "love" — Proto-Indo-European *leudʰ-.</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >ἄνθρωπος / άνθρωπος (anthrōpos): "human being" — root of anthropology, philanthropy, misanthropy.</text>
+<line x1="20" y1="434" x2="460" y2="434" stroke="black" stroke-width="0.3"/>
+<text x="240" y="442" text-anchor="middle" class="H" >— TIMELINE OF THE GREEK LANGUAGE —</text>
+<text x="95" y="452" text-anchor="middle" class="Ls" >~1500 BCE</text>
+<text x="320" y="452" text-anchor="middle" class="Lx" >Mycenaean Greek — Linear B syllabary (not alphabet)</text>
+<text x="95" y="464" text-anchor="middle" class="Ls" >~800 BCE</text>
+<text x="320" y="464" text-anchor="middle" class="Lx" >Archaic Greek — first alphabetic inscriptions, Homer</text>
+<text x="95" y="476" text-anchor="middle" class="Ls" >~500–300 BCE</text>
+<text x="320" y="476" text-anchor="middle" class="Lx" >Classical Greek — Attic dialect: Plato, Aristotle, Sophocles</text>
+<text x="95" y="488" text-anchor="middle" class="Ls" >~300 BCE–300 CE</text>
+<text x="320" y="488" text-anchor="middle" class="Lx" >Hellenistic Koine — Alexander's empire lingua franca; New Testament</text>
+<text x="95" y="500" text-anchor="middle" class="Ls" >~300–1453 CE</text>
+<text x="320" y="500" text-anchor="middle" class="Lx" >Byzantine Greek — Eastern Roman Empire; Orthodox liturgy</text>
+<text x="95" y="512" text-anchor="middle" class="Ls" >1453–1830</text>
+<text x="320" y="512" text-anchor="middle" class="Lx" >Early Modern Greek — Ottoman period; diglossia begins</text>
+<text x="95" y="524" text-anchor="middle" class="Ls" >1830–1976</text>
+<text x="320" y="524" text-anchor="middle" class="Lx" >Katharevousa — purist form (official); Demotic (spoken)</text>
+<text x="95" y="536" text-anchor="middle" class="Ls" >1976–present</text>
+<text x="320" y="536" text-anchor="middle" class="Lx" >Modern Standard (Demotic) — official; monotonic orthography from 1982</text>
+<line x1="20" y1="550" x2="460" y2="550" stroke="black" stroke-width="0.3"/>
+<text x="240" y="558" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="568" text-anchor="middle" class="Ls" >The 24 Greek letters and their sounds are given on Plate 21A. Read left to right, top to bottom.</text>
+<text x="240" y="577" text-anchor="middle" class="Ls" >Modern Greek has 5 vowel sounds: α=/a/ ε=/e/ η υ ει οι=/i/ ο ω=/o/ ου=/u/. Mostly phonemic.</text>
+<text x="240" y="586" text-anchor="middle" class="Ls" >Greek gave us: democracy, philosophy, alphabet, history, theatre, cosmos, and ~30% of English.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 21 · GREEK · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

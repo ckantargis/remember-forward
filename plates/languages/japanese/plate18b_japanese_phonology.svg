@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lj { font-size:14px; }
+  .Ljs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >JAPANESE — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 18B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— MORA-TIMED LANGUAGE —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Japanese is MORA-timed, not syllable-timed. Each mora (haku 拍) takes equal duration.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >A mora = one kana character. Long vowels, double consonants, and ん each count as one mora.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Example: 東京 Tō·kyō = 4 morae (TO + U + KYO + U)  ·  さっぽろ Sap·po·ro = 4 morae</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 SHORT + 5 LONG —</text>
+<text x="50" y="125" text-anchor="middle" class="Ls" >/a/</text>
+<text x="120" y="125" text-anchor="middle" class="Ls" >あ a</text>
+<text x="310" y="125" text-anchor="middle" class="Lx" >low central, like "ah"</text>
+<text x="50" y="139" text-anchor="middle" class="Ls" >/i/</text>
+<text x="120" y="139" text-anchor="middle" class="Ls" >い i</text>
+<text x="310" y="139" text-anchor="middle" class="Lx" >high front, like "ee"</text>
+<text x="50" y="153" text-anchor="middle" class="Ls" >/ɯ/</text>
+<text x="120" y="153" text-anchor="middle" class="Ls" >う u</text>
+<text x="310" y="153" text-anchor="middle" class="Lx" >high back unrounded — NO lip rounding</text>
+<text x="50" y="167" text-anchor="middle" class="Ls" >/e/</text>
+<text x="120" y="167" text-anchor="middle" class="Ls" >え e</text>
+<text x="310" y="167" text-anchor="middle" class="Lx" >mid front, like "eh"</text>
+<text x="50" y="181" text-anchor="middle" class="Ls" >/o/</text>
+<text x="120" y="181" text-anchor="middle" class="Ls" >お o</text>
+<text x="310" y="181" text-anchor="middle" class="Lx" >mid back, like "oh"</text>
+<text x="240" y="197" text-anchor="middle" class="Ls" >Long vowels: double duration — おばさん obasan (aunt) vs おばあさん obāsan (grandmother)</text>
+<text x="240" y="206" text-anchor="middle" class="Ls" >Vowel devoicing: /i/ and /u/ often whispered between voiceless consonants: です desu → "des"</text>
+<line x1="20" y1="214" x2="460" y2="214" stroke="black" stroke-width="0.3"/>
+<text x="240" y="223" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="233" text-anchor="middle" class="Ls" >Japanese has a small consonant inventory — no /l/, /v/, /θ/, /ð/ in native phonology</text>
+<text x="50" y="244" text-anchor="middle" class="Ls" >p b</text>
+<text x="130" y="244" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="320" y="244" text-anchor="middle" class="Lx" >は row /h/ → /p/ with ゜, voiced /b/ with ゛</text>
+<text x="50" y="260" text-anchor="middle" class="Ls" >t d</text>
+<text x="130" y="260" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="320" y="260" text-anchor="middle" class="Lx" >/t/ → [tɕ] before i, [ts] before u (affrication)</text>
+<text x="50" y="276" text-anchor="middle" class="Ls" >k g</text>
+<text x="130" y="276" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="320" y="276" text-anchor="middle" class="Lx" >/g/ also realized as [ŋ] (nasal) in medial position</text>
+<text x="50" y="292" text-anchor="middle" class="Ls" >s z</text>
+<text x="130" y="292" text-anchor="middle" class="Lx" >fricatives</text>
+<text x="320" y="292" text-anchor="middle" class="Lx" >/s/ → [ɕ] before i (し shi) · /z/ → [dʑ] before i (じ ji)</text>
+<text x="50" y="308" text-anchor="middle" class="Ls" >n m</text>
+<text x="130" y="308" text-anchor="middle" class="Lx" >nasals</text>
+<text x="320" y="308" text-anchor="middle" class="Lx" >ん /N/ is a special moraic nasal: [m] [n] [ŋ] [ɴ] by context</text>
+<text x="50" y="324" text-anchor="middle" class="Ls" >r</text>
+<text x="130" y="324" text-anchor="middle" class="Lx" >liquid</text>
+<text x="320" y="324" text-anchor="middle" class="Lx" >Japanese /r/ = flap [ɾ] — between English r and l; neither exactly</text>
+<text x="50" y="340" text-anchor="middle" class="Ls" >h</text>
+<text x="130" y="340" text-anchor="middle" class="Lx" >glottal</text>
+<text x="320" y="340" text-anchor="middle" class="Lx" >/h/ → [ç] before i (ひ hi) · [ɸ] before u (ふ fu)</text>
+<text x="50" y="356" text-anchor="middle" class="Ls" >y w</text>
+<text x="130" y="356" text-anchor="middle" class="Lx" >glides</text>
+<text x="320" y="356" text-anchor="middle" class="Lx" >Palatal and labial-velar approximants</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE — CV DOMINANT —</text>
+<text x="240" y="392" text-anchor="middle" class="L" >Native Japanese syllables are (C)V — consonant-vowel — with very few exceptions.</text>
+<text x="240" y="401" text-anchor="middle" class="Ls" >Closed syllables occur only in loanwords: ミルク miruku (milk) → syllabified MU·RU·KU</text>
+<text x="240" y="410" text-anchor="middle" class="Ls" >Geminate (double) consonants: っ/ッ (small tsu) — ざっし zasshi (magazine) = ZA+S+SHI (3 morae)</text>
+<line x1="20" y1="418" x2="460" y2="418" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H" >— PITCH ACCENT — TOKYO DIALECT —</text>
+<text x="240" y="437" text-anchor="middle" class="L" >Japanese uses PITCH accent (not stress): syllables are High (H) or Low (L) tone.</text>
+<text x="240" y="447" text-anchor="middle" class="Ls" >First mora sets pitch; subsequent morae follow pattern; a downstep (drop) occurs at most once.</text>
+<text x="240" y="456" text-anchor="middle" class="Ls" >Four accent classes in Tokyo dialect — defined by position of downstep (if any)</text>
+<text x="240" y="467" text-anchor="middle" class="Ls" >Pitch accent minimal pairs (Tokyo standard):</text>
+<text x="60" y="477" text-anchor="middle" class="Ljs" >はし</text>
+<text x="60" y="484" text-anchor="middle" class="Lx" >hashi H-L</text>
+<text x="60" y="490" text-anchor="middle" class="Lx" >chopsticks</text>
+<text x="140" y="477" text-anchor="middle" class="Ljs" >はし</text>
+<text x="140" y="484" text-anchor="middle" class="Lx" >hashi L-H</text>
+<text x="140" y="490" text-anchor="middle" class="Lx" >bridge</text>
+<text x="220" y="477" text-anchor="middle" class="Ljs" >はし</text>
+<text x="220" y="484" text-anchor="middle" class="Lx" >hashi L-H-↓</text>
+<text x="220" y="490" text-anchor="middle" class="Lx" >edge</text>
+<text x="320" y="477" text-anchor="middle" class="Ljs" >あめ</text>
+<text x="320" y="484" text-anchor="middle" class="Lx" >ame H-L</text>
+<text x="320" y="490" text-anchor="middle" class="Lx" >rain</text>
+<text x="60" y="493" text-anchor="middle" class="Ljs" >あめ</text>
+<text x="60" y="500" text-anchor="middle" class="Lx" >ame L-H</text>
+<text x="60" y="506" text-anchor="middle" class="Lx" >candy</text>
+<text x="140" y="493" text-anchor="middle" class="Ljs" >かき</text>
+<text x="140" y="500" text-anchor="middle" class="Lx" >kaki H-L</text>
+<text x="140" y="506" text-anchor="middle" class="Lx" >oyster</text>
+<text x="220" y="493" text-anchor="middle" class="Ljs" >かき</text>
+<text x="220" y="500" text-anchor="middle" class="Lx" >kaki L-H</text>
+<text x="220" y="506" text-anchor="middle" class="Lx" >persimmon</text>
+<text x="320" y="493" text-anchor="middle" class="Ljs" >かき</text>
+<text x="320" y="500" text-anchor="middle" class="Lx" >kaki L-H-↓</text>
+<text x="320" y="506" text-anchor="middle" class="Lx" >fence</text>
+<line x1="20" y1="510" x2="460" y2="510" stroke="black" stroke-width="0.3"/>
+<text x="240" y="518" text-anchor="middle" class="H" >— PROSODY AND PHONOLOGICAL NOTES —</text>
+<text x="240" y="528" text-anchor="middle" class="Ls" >Particles は wa, が ga, を wo retain kana spelling but shift pronunciation (は = /wa/ as topic marker)</text>
+<text x="240" y="537" text-anchor="middle" class="Ls" >Pitch accent varies by dialect: Kyoto-Osaka has more complex system; many dialects are accentless (flat)</text>
+<text x="240" y="546" text-anchor="middle" class="Ls" >Loanword phonology: adapts to CV structure — "strike" → ストライク sutoraiku (6 morae)</text>
+<text x="240" y="555" text-anchor="middle" class="Ls" >Rendaku (sequential voicing 連濁): second element of compound gains voiced consonant: hana+bi → hanabi 花火</text>
+<text x="240" y="564" text-anchor="middle" class="Ls" >Onomatopoeia (擬音語 giongo, 擬態語 gitaigo): extremely productive — pika-pika, fura-fura, kira-kira</text>
+<text x="240" y="573" text-anchor="middle" class="Ls" >N-mora ん: pronounced [m] before b/p, [n] before t/d/n, [ŋ] before k/g, [ɴ] phrase-finally</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 18 · JAPANESE · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

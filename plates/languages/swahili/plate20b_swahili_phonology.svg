@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SWAHILI — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 20B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— OVERVIEW — NON-TONAL, PENULTIMATE STRESS —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Swahili is NON-TONAL. Stress always falls on the PENULTIMATE (second-to-last) syllable.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >ki-ta-BU (book) · ma-JI (water) · ra-FI-ki (friend) · u-je-MB-o (building)</text>
+<text x="240" y="96" text-anchor="middle" class="Lx" >Exception: Arabic/English loanwords may carry non-penultimate stress in careful speech.</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— VOWEL SYSTEM — 5 PURE VOWELS —</text>
+<text x="40" y="122" text-anchor="middle" class="Ls" >/a/</text>
+<text x="78" y="122" text-anchor="middle" class="Ls" >a</text>
+<text x="145" y="122" text-anchor="middle" class="Lx" >low open central</text>
+<text x="280" y="122" text-anchor="middle" class="Lx" >asali (honey), baba (father)</text>
+<text x="420" y="122" text-anchor="middle" class="Lx" >"ah" — never reduced</text>
+<text x="40" y="136" text-anchor="middle" class="Ls" >/e/</text>
+<text x="78" y="136" text-anchor="middle" class="Ls" >e</text>
+<text x="145" y="136" text-anchor="middle" class="Lx" >mid front</text>
+<text x="280" y="136" text-anchor="middle" class="Lx" >embe (mango), peke (alone)</text>
+<text x="420" y="136" text-anchor="middle" class="Lx" >"eh" — always clear</text>
+<text x="40" y="150" text-anchor="middle" class="Ls" >/i/</text>
+<text x="78" y="150" text-anchor="middle" class="Ls" >i</text>
+<text x="145" y="150" text-anchor="middle" class="Lx" >high front</text>
+<text x="280" y="150" text-anchor="middle" class="Lx" >ina (has), imani (faith)</text>
+<text x="420" y="150" text-anchor="middle" class="Lx" >"ee" — pure</text>
+<text x="40" y="164" text-anchor="middle" class="Ls" >/o/</text>
+<text x="78" y="164" text-anchor="middle" class="Ls" >o</text>
+<text x="145" y="164" text-anchor="middle" class="Lx" >mid back rounded</text>
+<text x="280" y="164" text-anchor="middle" class="Lx" >oa (marry), mto (river)</text>
+<text x="420" y="164" text-anchor="middle" class="Lx" >"oh" — always full</text>
+<text x="40" y="178" text-anchor="middle" class="Ls" >/u/</text>
+<text x="78" y="178" text-anchor="middle" class="Ls" >u</text>
+<text x="145" y="178" text-anchor="middle" class="Lx" >high back rounded</text>
+<text x="280" y="178" text-anchor="middle" class="Lx" >ua (flower/kill), mtu (person)</text>
+<text x="420" y="178" text-anchor="middle" class="Lx" >"oo" — always full</text>
+<text x="240" y="194" text-anchor="middle" class="Ls" >NO schwa. NO diphthongs in native vocabulary. Vowels maintain full quality in all positions.</text>
+<line x1="20" y1="202" x2="460" y2="202" stroke="black" stroke-width="0.3"/>
+<text x="240" y="210" text-anchor="middle" class="H" >— CONSONANT SYSTEM —</text>
+<text x="240" y="219" text-anchor="middle" class="Ls" >Standard Swahili has ~25 consonant phonemes including a unique set of prenasalized stops.</text>
+<text x="45" y="230" text-anchor="middle" class="Ls" >p b</text>
+<text x="80" y="230" text-anchor="middle" class="Lx" >/p b/</text>
+<text x="130" y="230" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="195" y="230" text-anchor="middle" class="Lx" >paka (cat), baba (father)</text>
+<text x="275" y="242" text-anchor="middle" class="Ls" >t d</text>
+<text x="310" y="242" text-anchor="middle" class="Lx" >/t d/</text>
+<text x="360" y="242" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="425" y="242" text-anchor="middle" class="Lx" >tatu (three), dawa (medicine)</text>
+<text x="45" y="254" text-anchor="middle" class="Ls" >k g</text>
+<text x="80" y="254" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="130" y="254" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="195" y="254" text-anchor="middle" class="Lx" >kazi (work), gari (vehicle)</text>
+<text x="275" y="266" text-anchor="middle" class="Ls" >ch j</text>
+<text x="310" y="266" text-anchor="middle" class="Lx" >/tʃ dʒ/</text>
+<text x="360" y="266" text-anchor="middle" class="Lx" >palatal affricates</text>
+<text x="425" y="266" text-anchor="middle" class="Lx" >chakula (food), jiwe (stone)</text>
+<text x="45" y="278" text-anchor="middle" class="Ls" >f v</text>
+<text x="80" y="278" text-anchor="middle" class="Lx" >/f v/</text>
+<text x="130" y="278" text-anchor="middle" class="Lx" >labiodentals</text>
+<text x="195" y="278" text-anchor="middle" class="Lx" >fupi (short), vita (war)</text>
+<text x="275" y="290" text-anchor="middle" class="Ls" >s z</text>
+<text x="310" y="290" text-anchor="middle" class="Lx" >/s z/</text>
+<text x="360" y="290" text-anchor="middle" class="Lx" >alveolar fricatives</text>
+<text x="425" y="290" text-anchor="middle" class="Lx" >saba (seven), zawadi (gift)</text>
+<text x="45" y="302" text-anchor="middle" class="Ls" >sh</text>
+<text x="80" y="302" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="130" y="302" text-anchor="middle" class="Lx" >postalveolar fric.</text>
+<text x="195" y="302" text-anchor="middle" class="Lx" >shule (school), shida (problem)</text>
+<text x="275" y="314" text-anchor="middle" class="Ls" >th dh</text>
+<text x="310" y="314" text-anchor="middle" class="Lx" >/θ ð/</text>
+<text x="360" y="314" text-anchor="middle" class="Lx" >dental fricatives</text>
+<text x="425" y="314" text-anchor="middle" class="Lx" >thamani (value), dhahabu (gold)</text>
+<text x="45" y="326" text-anchor="middle" class="Ls" >gh</text>
+<text x="80" y="326" text-anchor="middle" class="Lx" >/ɣ/</text>
+<text x="130" y="326" text-anchor="middle" class="Lx" >voiced velar fric.</text>
+<text x="195" y="326" text-anchor="middle" class="Lx" >ghali (expensive)</text>
+<text x="275" y="338" text-anchor="middle" class="Ls" >h</text>
+<text x="310" y="338" text-anchor="middle" class="Lx" >/h/</text>
+<text x="360" y="338" text-anchor="middle" class="Lx" >glottal fric.</text>
+<text x="425" y="338" text-anchor="middle" class="Lx" >hapa (here), hewa (air)</text>
+<text x="45" y="350" text-anchor="middle" class="Ls" >m n</text>
+<text x="80" y="350" text-anchor="middle" class="Lx" >/m n/</text>
+<text x="130" y="350" text-anchor="middle" class="Lx" >nasals</text>
+<text x="195" y="350" text-anchor="middle" class="Lx" >mama (mother), nne (four)</text>
+<text x="275" y="362" text-anchor="middle" class="Ls" >ny ng'</text>
+<text x="310" y="362" text-anchor="middle" class="Lx" >/ɲ ŋ/</text>
+<text x="360" y="362" text-anchor="middle" class="Lx" >palatal/velar nasals</text>
+<text x="425" y="362" text-anchor="middle" class="Lx" >nyama (meat), ng'ombe (cow)</text>
+<text x="45" y="374" text-anchor="middle" class="Ls" >l r</text>
+<text x="80" y="374" text-anchor="middle" class="Lx" >/l r/</text>
+<text x="130" y="374" text-anchor="middle" class="Lx" >lateral/trill</text>
+<text x="195" y="374" text-anchor="middle" class="Lx" >leo (today), rafiki (friend)</text>
+<text x="275" y="386" text-anchor="middle" class="Ls" >w y</text>
+<text x="310" y="386" text-anchor="middle" class="Lx" >/w j/</text>
+<text x="360" y="386" text-anchor="middle" class="Lx" >glides</text>
+<text x="425" y="386" text-anchor="middle" class="Lx" >watu (people), yeye (he/she)</text>
+<line x1="20" y1="400" x2="460" y2="400" stroke="black" stroke-width="0.3"/>
+<text x="240" y="408" text-anchor="middle" class="H" >— PRENASALIZED CONSONANTS — SINGLE PHONEMES —</text>
+<text x="240" y="418" text-anchor="middle" class="L" >Prenasalized consonants are SINGLE phonemes in Swahili — the nasal is not a separate syllable.</text>
+<text x="240" y="427" text-anchor="middle" class="Ls" >They allow word-initial consonant clusters not found in most other Bantu languages' loanword adaptations.</text>
+<text x="50" y="437" text-anchor="middle" class="Ls" >mb</text>
+<text x="90" y="437" text-anchor="middle" class="Lx" >/mb/</text>
+<text x="290" y="437" text-anchor="middle" class="Lx" >mbwa (dog), mbali (far), mbuzi (goat)</text>
+<text x="50" y="449" text-anchor="middle" class="Ls" >mv</text>
+<text x="90" y="449" text-anchor="middle" class="Lx" >/mv/</text>
+<text x="290" y="449" text-anchor="middle" class="Lx" >mvua (rain), mvuke (steam)</text>
+<text x="50" y="461" text-anchor="middle" class="Ls" >nd</text>
+<text x="90" y="461" text-anchor="middle" class="Lx" >/nd/</text>
+<text x="290" y="461" text-anchor="middle" class="Lx" >ndizi (banana), ndugu (sibling/comrade)</text>
+<text x="50" y="473" text-anchor="middle" class="Ls" >nj</text>
+<text x="90" y="473" text-anchor="middle" class="Lx" >/ndʒ/</text>
+<text x="290" y="473" text-anchor="middle" class="Lx" >njia (path), njema (good — in phrases)</text>
+<text x="50" y="485" text-anchor="middle" class="Ls" >ng</text>
+<text x="90" y="485" text-anchor="middle" class="Lx" >/ŋɡ/</text>
+<text x="290" y="485" text-anchor="middle" class="Lx" >ngoma (drum), ngoja (wait)</text>
+<text x="50" y="497" text-anchor="middle" class="Ls" >ng'</text>
+<text x="90" y="497" text-anchor="middle" class="Lx" >/ŋ/</text>
+<text x="290" y="497" text-anchor="middle" class="Lx" >ng'ombe (cattle) — same velar nasal, no stop</text>
+<line x1="20" y1="516" x2="460" y2="516" stroke="black" stroke-width="0.3"/>
+<text x="240" y="524" text-anchor="middle" class="H" >— SYLLABLE STRUCTURE AND PROSODY —</text>
+<text x="240" y="534" text-anchor="middle" class="Ls" >Syllable structure: (C)V — open syllables dominate. Final consonants are rare (only in loans).</text>
+<text x="240" y="543" text-anchor="middle" class="Ls" >Prenasalized consonants (mb, nd, ng) count as single consonants: mbu-zi = 2 syllables, not 3.</text>
+<text x="240" y="552" text-anchor="middle" class="Lx" >N- class nouns use the nasal as a consonant: n-dizi (banana) = 3 syllables: ndi-zi (2) Wait — N is prefix.</text>
+<text x="240" y="560" text-anchor="middle" class="Ls" >Vowel length: contrastive in some loanwords (from Arabic) — kaa (sit) vs. kaa (charcoal).</text>
+<text x="240" y="569" text-anchor="middle" class="Ls" >Intonation: declarative falls, question rises — but the language lacks lexical tone contrast.</text>
+<text x="240" y="578" text-anchor="middle" class="Lx" >IPA summary: /p b t d k ɡ tʃ dʒ f v s z ʃ θ ð ɣ h m n ɲ ŋ mb nd ndʒ ŋɡ l r w j/ + /a e i o u/</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 20 · SWAHILI · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

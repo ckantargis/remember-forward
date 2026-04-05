@@ -1,31 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Remember Forward — The Patient Message</title>
-<meta name="description" content="An open-source system of laser-engraver-ready nickel plate designs for time capsules intended to preserve human knowledge through catastrophic events. Buy it. Build it. Bury it.">
+<meta name="description" content="An open-source system of laser-engraver-ready nickel plate designs for time capsules. Preserve human knowledge through catastrophic events. Buy it. Build it. Bury it.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <style>
+
   :root {
     --gold: #c8a96e;
     --gold-light: #e8c98a;
-    --gold-pale: #f2e0b8;
+    --gold-pale: #f5eacc;
     --dark: #0d0d0b;
     --dark-mid: #161610;
     --dark-surface: #1e1e17;
     --dark-raised: #252520;
-    --text: #d4c9a8;
-    --text-dim: #8a7f68;
-    --text-faint: #4a4538;
+    --text: #ddd3b4;
+    --text-dim: #b0a080;
+    --text-faint: #7a7060;
     --rule: #2a2920;
     --accent: #9b7c3a;
   }
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
 
   body {
@@ -33,11 +33,11 @@
     color: var(--text);
     font-family: 'EB Garamond', Georgia, serif;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 1.75;
     overflow-x: hidden;
   }
 
-  /* ── NOISE TEXTURE OVERLAY ── */
+  /* Noise texture */
   body::before {
     content: '';
     position: fixed;
@@ -45,7 +45,72 @@
     background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
     pointer-events: none;
     z-index: 1000;
-    opacity: 0.6;
+    opacity: 0.5;
+  }
+
+  /* ── NAV ── */
+  nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: rgba(13,13,11,0.92);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(200,169,110,0.10);
+    gap: 1rem;
+  }
+  .nav-brand {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    color: var(--gold);
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    flex-wrap: wrap;
+  }
+  .nav-links a {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    color: var(--text-dim);
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--gold); }
+
+  /* ── LANGUAGE SWITCHER ── */
+  .lang-switcher {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .lang-btn {
+    font-family: 'Cinzel', serif;
+    font-size: 0.58rem;
+    letter-spacing: 0.1em;
+    padding: 0.3em 0.6em;
+    background: transparent;
+    border: 1px solid var(--text-faint);
+    color: var(--text-faint);
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+  .lang-btn:hover, .lang-btn.active {
+    border-color: var(--gold);
+    color: var(--gold);
+    background: rgba(200,169,110,0.07);
   }
 
   /* ── HERO ── */
@@ -56,15 +121,13 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 6rem 2rem 4rem;
+    padding: 8rem 2rem 5rem;
     position: relative;
     background:
-      radial-gradient(ellipse 80% 60% at 50% 30%, rgba(200,169,110,0.06) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 60% at 50% 30%, rgba(200,169,110,0.07) 0%, transparent 70%),
       radial-gradient(ellipse 40% 40% at 20% 80%, rgba(155,124,58,0.04) 0%, transparent 60%),
       var(--dark);
   }
-
-  /* Engraved border on hero */
   .hero::before {
     content: '';
     position: absolute;
@@ -76,21 +139,20 @@
     content: '';
     position: absolute;
     inset: 30px;
-    border: 1px solid rgba(200,169,110,0.06);
+    border: 1px solid rgba(200,169,110,0.05);
     pointer-events: none;
   }
 
   .hero-eyebrow {
     font-family: 'Cinzel', serif;
     font-size: 0.65rem;
-    letter-spacing: 0.35em;
+    letter-spacing: 0.28em;
     color: var(--gold);
     text-transform: uppercase;
     margin-bottom: 2.5rem;
     opacity: 0;
     animation: fadeUp 1s ease 0.2s forwards;
   }
-
   .hero-title {
     font-family: 'Cinzel', serif;
     font-weight: 900;
@@ -98,25 +160,21 @@
     line-height: 1.0;
     letter-spacing: 0.08em;
     color: var(--gold-light);
-    text-shadow:
-      0 0 80px rgba(200,169,110,0.15),
-      0 2px 4px rgba(0,0,0,0.8);
+    text-shadow: 0 0 80px rgba(200,169,110,0.18), 0 2px 4px rgba(0,0,0,0.8);
     margin-bottom: 0.3em;
     opacity: 0;
     animation: fadeUp 1.2s ease 0.4s forwards;
   }
-
   .hero-subtitle {
     font-family: 'Cinzel', serif;
-    font-size: clamp(0.7rem, 1.8vw, 1rem);
-    letter-spacing: 0.3em;
+    font-size: clamp(0.75rem, 1.8vw, 1rem);
+    letter-spacing: 0.25em;
     color: var(--gold);
     text-transform: uppercase;
     margin-bottom: 3rem;
     opacity: 0;
     animation: fadeUp 1s ease 0.6s forwards;
   }
-
   .hero-rule {
     width: 120px;
     height: 1px;
@@ -125,28 +183,25 @@
     opacity: 0;
     animation: fadeUp 1s ease 0.7s forwards;
   }
-
   .hero-body {
     max-width: 640px;
-    font-size: clamp(1.05rem, 2vw, 1.25rem);
+    font-size: clamp(1.05rem, 2vw, 1.2rem);
     color: var(--text);
-    line-height: 1.8;
-    margin-bottom: 3.5rem;
+    line-height: 1.85;
+    margin-bottom: 3rem;
     opacity: 0;
     animation: fadeUp 1s ease 0.9s forwards;
   }
-
   .hero-tagline {
     font-family: 'Cinzel', serif;
-    font-size: clamp(0.75rem, 1.5vw, 0.95rem);
-    letter-spacing: 0.2em;
+    font-size: clamp(0.75rem, 1.5vw, 0.9rem);
+    letter-spacing: 0.18em;
     color: var(--text-dim);
     text-transform: uppercase;
-    margin-bottom: 3.5rem;
+    margin-bottom: 3rem;
     opacity: 0;
     animation: fadeUp 1s ease 1.0s forwards;
   }
-
   .hero-cta {
     display: flex;
     gap: 1.2rem;
@@ -155,40 +210,6 @@
     opacity: 0;
     animation: fadeUp 1s ease 1.1s forwards;
   }
-
-  .btn {
-    font-family: 'Cinzel', serif;
-    font-size: 0.75rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    padding: 0.9em 2.2em;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    position: relative;
-  }
-
-  .btn-primary {
-    background: transparent;
-    color: var(--gold-light);
-    border: 1px solid var(--gold);
-    box-shadow: inset 0 0 0 0 var(--gold);
-  }
-  .btn-primary:hover {
-    background: rgba(200,169,110,0.08);
-    box-shadow: 0 0 24px rgba(200,169,110,0.15);
-    color: var(--gold-pale);
-  }
-
-  .btn-secondary {
-    background: transparent;
-    color: var(--text-dim);
-    border: 1px solid var(--text-faint);
-  }
-  .btn-secondary:hover {
-    color: var(--text);
-    border-color: var(--text-dim);
-  }
-
   .scroll-hint {
     position: absolute;
     bottom: 2.5rem;
@@ -200,39 +221,86 @@
     color: var(--text-faint);
     text-transform: uppercase;
     opacity: 0;
-    animation: fadeUp 1s ease 1.5s forwards;
+    animation: fadeUp 1s ease 1.4s forwards;
   }
   .scroll-hint::after {
     content: '';
     display: block;
     width: 1px;
-    height: 32px;
+    height: 40px;
     background: linear-gradient(to bottom, var(--text-faint), transparent);
-    margin: 0.8rem auto 0;
+    margin: 0.5rem auto 0;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── BUTTONS ── */
+  .btn {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    padding: 0.9em 2.2em;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  .btn-primary {
+    background: transparent;
+    color: var(--gold-light);
+    border: 1px solid var(--gold);
+  }
+  .btn-primary:hover {
+    background: rgba(200,169,110,0.1);
+    box-shadow: 0 0 24px rgba(200,169,110,0.18);
+    color: var(--gold-pale);
+  }
+  .btn-secondary {
+    background: transparent;
+    color: var(--text-dim);
+    border: 1px solid var(--text-faint);
+  }
+  .btn-secondary:hover {
+    color: var(--text);
+    border-color: var(--text-dim);
+  }
+
+  /* ── MISSION BANNER ── */
+  .mission {
+    background: var(--dark-surface);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 3.5rem 2rem;
+    text-align: center;
+  }
+  .mission-quote {
+    font-size: clamp(1.1rem, 2vw, 1.4rem);
+    font-style: italic;
+    color: var(--text);
+    max-width: 720px;
+    margin: 0 auto 1rem;
+    line-height: 1.75;
+  }
+  .mission-attr {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.22em;
+    color: var(--text-dim);
+    text-transform: uppercase;
   }
 
   /* ── SECTIONS ── */
   section {
+    max-width: 1100px;
+    margin: 0 auto;
     padding: 6rem 2rem;
-    max-width: 1100px;
-    margin: 0 auto;
   }
-
-  .section-full {
-    max-width: 100%;
-    padding: 6rem 0;
-  }
-
-  .section-inner {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 2rem;
-  }
-
   .section-label {
     font-family: 'Cinzel', serif;
-    font-size: 0.62rem;
-    letter-spacing: 0.4em;
+    font-size: 0.65rem;
+    letter-spacing: 0.32em;
     color: var(--gold);
     text-transform: uppercase;
     margin-bottom: 1.5rem;
@@ -240,15 +308,13 @@
     align-items: center;
     gap: 1rem;
   }
-  .section-label::before,
-  .section-label::after {
+  .section-label::before, .section-label::after {
     content: '';
     flex: 1;
     height: 1px;
     background: var(--rule);
   }
   .section-label::before { max-width: 40px; }
-  .section-label::after { max-width: 100%; }
 
   h2 {
     font-family: 'Cinzel', serif;
@@ -259,7 +325,6 @@
     margin-bottom: 1.5rem;
     line-height: 1.2;
   }
-
   h3 {
     font-family: 'Cinzel', serif;
     font-size: 1rem;
@@ -269,791 +334,636 @@
     margin-bottom: 0.75rem;
     text-transform: uppercase;
   }
-
   p { margin-bottom: 1.2rem; color: var(--text); }
   p:last-child { margin-bottom: 0; }
 
-  /* ── DIVIDER ── */
   .divider {
     width: 100%;
     height: 1px;
     background: linear-gradient(90deg, transparent, var(--rule) 20%, var(--gold) 50%, var(--rule) 80%, transparent);
     margin: 0;
   }
-
   .divider-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1.5rem;
-    padding: 3rem 2rem;
-    color: var(--text-faint);
-    font-family: 'Cinzel', serif;
-    font-size: 0.6rem;
-    letter-spacing: 0.4em;
-    text-transform: uppercase;
-  }
-  .divider-section::before,
-  .divider-section::after {
-    content: '';
-    flex: 1;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, var(--rule));
-    max-width: 200px;
-  }
-  .divider-section::after {
-    background: linear-gradient(90deg, var(--rule), transparent);
-  }
-
-  /* ── PLATE GALLERY ── */
-  .plates-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1.5rem;
-    margin-top: 3rem;
-  }
-
-  .plate-card {
-    background: var(--dark-surface);
-    border: 1px solid var(--rule);
-    padding: 1rem;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-  }
-  .plate-card::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: radial-gradient(ellipse at 50% 0%, rgba(200,169,110,0.04), transparent 70%);
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
-  .plate-card:hover {
-    border-color: rgba(200,169,110,0.3);
-    transform: translateY(-2px);
-    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-  }
-  .plate-card:hover::before { opacity: 1; }
-
-  .plate-card img {
-    width: 100%;
-    aspect-ratio: 480/680;
-    object-fit: contain;
-    background: #fff;
-    display: block;
-    margin-bottom: 0.8rem;
-  }
-
-  .plate-card-title {
-    font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.15em;
-    color: var(--gold);
-    text-transform: uppercase;
-    margin-bottom: 0.3rem;
-  }
-
-  .plate-card-desc {
+    text-align: center;
     font-size: 0.8rem;
-    color: var(--text-dim);
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  .plate-card-link {
-    display: inline-block;
-    margin-top: 0.6rem;
-    font-family: 'Cinzel', serif;
-    font-size: 0.6rem;
-    letter-spacing: 0.15em;
-    color: var(--gold);
-    text-decoration: none;
-    text-transform: uppercase;
-    border-bottom: 1px solid transparent;
-    transition: border-color 0.2s;
-  }
-  .plate-card-link:hover { border-color: var(--gold); }
-
-  /* ── TIERS ── */
-  .tiers-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1.5rem;
-    margin-top: 3rem;
-  }
-
-  .tier-card {
-    background: var(--dark-surface);
-    border: 1px solid var(--rule);
-    padding: 2rem;
-    position: relative;
-  }
-
-  .tier-label {
-    font-family: 'Cinzel', serif;
-    font-size: 0.58rem;
-    letter-spacing: 0.35em;
+    letter-spacing: 0.5em;
     color: var(--text-faint);
-    text-transform: uppercase;
-    margin-bottom: 0.5rem;
+    padding: 2rem 0;
   }
 
-  .tier-name {
+  /* Scroll reveal */
+  .reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.6s ease, transform 0.6s ease; }
+  .reveal.visible { opacity: 1; transform: translateY(0); }
+
+  /* ── PROGRESS ── */
+  .progress-notice {
     font-family: 'Cinzel', serif;
-    font-size: 1.1rem;
-    color: var(--gold-light);
-    margin-bottom: 0.3rem;
-    letter-spacing: 0.05em;
-  }
-
-  .tier-price {
-    font-size: 0.9rem;
-    color: var(--gold);
-    margin-bottom: 1.2rem;
-    font-style: italic;
-  }
-
-  .tier-list {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 1.5rem;
-  }
-  .tier-list li {
-    font-size: 0.85rem;
-    color: var(--text-dim);
-    padding: 0.3rem 0;
-    padding-left: 1.2rem;
-    position: relative;
-    line-height: 1.5;
-  }
-  .tier-list li::before {
-    content: '—';
-    position: absolute;
-    left: 0;
-    color: var(--text-faint);
     font-size: 0.7rem;
-  }
-
-  .tier-lifespan {
-    font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.15em;
-    color: var(--accent);
-    text-transform: uppercase;
-    border-top: 1px solid var(--rule);
-    padding-top: 1rem;
-  }
-
-  /* ── DOWNLOADS TABLE ── */
-  .downloads-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1rem;
-    margin-top: 2.5rem;
-  }
-
-  .download-group {
-    background: var(--dark-surface);
-    border: 1px solid var(--rule);
-    padding: 1.5rem;
-  }
-
-  .download-group-title {
-    font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.25em;
-    color: var(--gold);
-    text-transform: uppercase;
-    margin-bottom: 1rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid var(--rule);
-  }
-
-  .download-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    padding: 0.4rem 0;
-    border-bottom: 1px solid rgba(42,41,32,0.5);
-    gap: 1rem;
-  }
-  .download-item:last-child { border-bottom: none; }
-
-  .download-name {
-    font-size: 0.85rem;
+    letter-spacing: 0.18em;
     color: var(--text-dim);
-    line-height: 1.4;
-  }
-
-  .download-link {
-    font-family: 'Cinzel', serif;
-    font-size: 0.58rem;
-    letter-spacing: 0.1em;
-    color: var(--gold);
-    text-decoration: none;
     text-transform: uppercase;
-    white-space: nowrap;
-    flex-shrink: 0;
-    border-bottom: 1px solid transparent;
-    transition: border-color 0.2s;
+    margin: 2.5rem 0 0.75rem;
   }
-  .download-link:hover { border-color: var(--gold); }
-
-  /* ── MISSION STATEMENT ── */
-  .mission {
-    background: var(--dark-surface);
-    border-top: 1px solid var(--rule);
-    border-bottom: 1px solid var(--rule);
-    padding: 6rem 2rem;
-    text-align: center;
-    position: relative;
-  }
-  .mission::before {
-    content: '';
-    position: absolute;
-    inset: 12px;
-    border: 1px solid rgba(200,169,110,0.06);
-    pointer-events: none;
-  }
-
-  .mission-quote {
-    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-    font-style: italic;
-    color: var(--text);
-    max-width: 700px;
-    margin: 0 auto 2rem;
-    line-height: 1.9;
-  }
-
-  .mission-attr {
-    font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.3em;
-    color: var(--text-faint);
-    text-transform: uppercase;
-  }
-
-  /* ── CONCORDS ── */
-  .concords-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1px;
-    background: var(--rule);
-    border: 1px solid var(--rule);
-    margin-top: 3rem;
-  }
-
-  .concord-item {
-    background: var(--dark-surface);
-    padding: 1.5rem;
-    transition: background 0.3s;
-  }
-  .concord-item:hover { background: var(--dark-raised); }
-
-  .concord-num {
-    font-family: 'Cinzel', serif;
-    font-size: 1.8rem;
-    color: var(--text-faint);
-    line-height: 1;
-    margin-bottom: 0.5rem;
-  }
-
-  .concord-text {
-    font-size: 0.9rem;
-    color: var(--text-dim);
-    font-style: italic;
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  /* ── LICENSE BANNER ── */
-  .license-banner {
+  .progress-track {
+    height: 2px;
     background: var(--dark-raised);
-    border: 1px solid var(--rule);
-    padding: 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 2rem;
-    flex-wrap: wrap;
-    margin-top: 3rem;
+    margin-bottom: 3rem;
+    position: relative;
   }
-
-  .license-text {
-    font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    color: var(--text-dim);
-    text-transform: uppercase;
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--gold));
   }
-
-  .license-badge {
-    font-family: 'Cinzel', serif;
-    font-size: 0.65rem;
-    letter-spacing: 0.15em;
-    color: var(--gold);
-    border: 1px solid var(--gold);
-    padding: 0.4em 1em;
-    text-transform: uppercase;
-  }
-
-  /* ── FOOTER ── */
-  footer {
-    padding: 4rem 2rem;
-    text-align: center;
-    border-top: 1px solid var(--rule);
-    background: var(--dark-mid);
-  }
-
-  .footer-title {
-    font-family: 'Cinzel', serif;
-    font-size: 1.2rem;
-    color: var(--gold-light);
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5rem;
-  }
-
-  .footer-sub {
-    font-size: 0.85rem;
-    color: var(--text-faint);
-    font-style: italic;
-    margin-bottom: 2rem;
-  }
-
-  .footer-links {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    flex-wrap: wrap;
-    margin-bottom: 2.5rem;
-  }
-
-  .footer-links a {
-    font-family: 'Cinzel', serif;
-    font-size: 0.6rem;
-    letter-spacing: 0.2em;
-    color: var(--text-faint);
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: color 0.2s;
-  }
-  .footer-links a:hover { color: var(--gold); }
-
-  .footer-copy {
-    font-size: 0.75rem;
-    color: var(--text-faint);
-  }
-
-  /* ── ANIMATIONS ── */
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  .reveal {
-    opacity: 0;
-    transform: translateY(24px);
-    transition: opacity 0.8s ease, transform 0.8s ease;
-  }
-  .reveal.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  /* ── SUBSECTION LABELS ── */
   .subsection-label {
     font-family: 'Cinzel', serif;
-    font-size: 0.62rem;
-    letter-spacing: 0.35em;
-    color: var(--gold);
+    font-size: 0.68rem;
+    letter-spacing: 0.2em;
+    color: var(--text-dim);
     text-transform: uppercase;
     margin: 3rem 0 1.5rem;
     padding-bottom: 0.75rem;
     border-bottom: 1px solid var(--rule);
   }
 
-  /* ── PROGRESS NOTICE ── */
-  .progress-notice {
+  /* ── PLATE CARDS ── */
+  .plates-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .plate-card {
+    background: var(--dark-surface);
+    border: 1px solid var(--rule);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    transition: border-color 0.3s;
+  }
+  .plate-card:hover { border-color: rgba(200,169,110,0.3); }
+  .plate-card img {
+    width: 100%;
+    aspect-ratio: 480/680;
+    object-fit: contain;
+    background: #fff;
+    display: block;
+  }
+  .plate-card-title {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin: 0;
+  }
+  .plate-card-desc {
+    font-size: 0.88rem;
+    color: var(--text);
+    line-height: 1.5;
+    flex: 1;
+    margin: 0;
+  }
+  .plate-card-link {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.15em;
+    color: var(--gold);
+    text-decoration: none;
+    text-transform: uppercase;
+    border-top: 1px solid var(--rule);
+    padding-top: 0.5rem;
+    margin-top: auto;
+    transition: color 0.2s;
+  }
+  .plate-card-link:hover { color: var(--gold-pale); }
+
+  /* ── LANGUAGE SERIES ── */
+  .lang-series-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .lang-block {
+    background: var(--dark-surface);
+    border: 1px solid var(--rule);
+    padding: 1.25rem 1.25rem 1rem;
+  }
+  .lang-block-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .lang-series-num {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+  }
+  .lang-series-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    color: var(--gold-light);
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    flex: 1;
+  }
+  .lang-series-badge {
+    font-size: 0.72rem;
+    color: var(--text-dim);
+    font-style: italic;
+  }
+  .lang-plate-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid rgba(42,41,32,0.6);
+  }
+  .lang-plate-row:last-child { border-bottom: none; }
+  .lang-sub-name {
+    font-size: 0.82rem;
+    color: var(--text);
+    flex: 1;
+  }
+  .lang-plate-link {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    text-decoration: none;
+    border: 1px solid var(--rule);
+    padding: 0.25em 0.55em;
+    transition: all 0.2s;
+  }
+  .lang-plate-link:hover { color: var(--gold); border-color: var(--gold); }
+
+  /* ── CONTAINER TIERS ── */
+  .tiers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+    margin-top: 2.5rem;
+  }
+  .tier-card {
+    background: var(--dark-surface);
+    border: 1px solid var(--rule);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .tier-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin: 0;
+  }
+  .tier-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.95rem;
+    color: var(--gold-light);
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.3;
+  }
+  .tier-price {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin: 0;
+  }
+  .tier-list {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    flex: 1;
+  }
+  .tier-list li {
+    font-size: 0.85rem;
+    color: var(--text);
+    padding: 0.2rem 0 0.2rem 1rem;
+    position: relative;
+    line-height: 1.5;
+  }
+  .tier-list li::before {
+    content: '·';
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+  }
+  .tier-lifespan {
+    font-family: 'Cinzel', serif;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin: 0.75rem 0 0;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--rule);
+  }
+
+  /* ── CONCORDS ── */
+  .concords-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+    margin-top: 2.5rem;
+  }
+  .concord-item {
+    background: var(--dark-surface);
+    border: 1px solid var(--rule);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .concord-num {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: var(--gold);
+    letter-spacing: 0.1em;
+    margin: 0;
+  }
+  .concord-text {
+    font-size: 1rem;
+    color: var(--text);
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  /* ── DOWNLOADS ── */
+  .downloads-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2.5rem;
+  }
+  .download-group-title {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .download-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px solid rgba(42,41,32,0.5);
+  }
+  .download-item:last-child { border-bottom: none; }
+  .download-name {
+    font-size: 0.88rem;
+    color: var(--text);
+  }
+  .download-link {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    color: var(--gold);
+    text-decoration: none;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    transition: color 0.2s;
+  }
+  .download-link:hover { color: var(--gold-pale); }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--dark-mid);
+    border-top: 1px solid var(--rule);
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+  .footer-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.18em;
+    color: var(--gold-light);
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+  .footer-sub {
     font-family: 'Cinzel', serif;
     font-size: 0.65rem;
     letter-spacing: 0.2em;
     color: var(--text-dim);
     text-transform: uppercase;
-    margin: 1.5rem 0 0.5rem;
+    margin-bottom: 1.5rem;
   }
-  .progress-track {
-    height: 2px;
-    background: var(--rule);
-    margin: 0.4rem 0 2rem;
-  }
-  .progress-fill {
-    height: 100%;
-    background: linear-gradient(90deg, var(--accent), var(--gold-light));
-  }
-
-  /* ── LANGUAGE SERIES BLOCKS ── */
-  .lang-series-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  .footer-links {
+    display: flex;
     gap: 1.5rem;
-    margin-top: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
   }
-
-  .lang-block {
-    background: var(--dark-surface);
-    border: 1px solid var(--rule);
-    padding: 1.25rem 1.5rem;
-  }
-
-  .lang-block-header {
-    display: flex;
-    align-items: baseline;
-    gap: 0.8rem;
-    margin-bottom: 1rem;
-    padding-bottom: 0.75rem;
-    border-bottom: 1px solid var(--rule);
-  }
-
-  .lang-series-num {
+  .footer-links a {
     font-family: 'Cinzel', serif;
-    font-size: 0.58rem;
-    letter-spacing: 0.12em;
-    color: var(--accent);
-    min-width: 2.8rem;
-  }
-
-  .lang-series-name {
-    font-family: 'Cinzel', serif;
-    font-size: 0.88rem;
-    letter-spacing: 0.1em;
-    color: var(--gold-light);
-  }
-
-  .lang-series-badge {
-    font-family: 'Cinzel', serif;
-    font-size: 0.55rem;
-    letter-spacing: 0.1em;
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
     color: var(--text-dim);
-    text-transform: uppercase;
-    margin-left: auto;
-  }
-
-  .lang-plate-row {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.4rem 0;
-    border-bottom: 1px solid var(--text-faint);
-  }
-  .lang-plate-row:last-child { border-bottom: none; }
-
-  .lang-sub-name {
-    flex: 1;
-    font-size: 0.82rem;
-    color: var(--text);
-    font-family: 'EB Garamond', Georgia, serif;
-    font-style: italic;
-  }
-
-  .lang-plate-link {
-    font-family: 'Cinzel', serif;
-    font-size: 0.52rem;
-    letter-spacing: 0.08em;
-    color: var(--gold);
     text-decoration: none;
-    border: 1px solid var(--accent);
-    padding: 0.25em 0.55em;
-    transition: all 0.2s;
     text-transform: uppercase;
+    transition: color 0.2s;
   }
-  .lang-plate-link:hover {
-    background: rgba(200,169,110,0.08);
-    border-color: var(--gold);
+  .footer-links a:hover { color: var(--gold); }
+  .footer-copy {
+    font-size: 0.82rem;
+    color: var(--text-faint);
+    margin: 0;
   }
 
   /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
-    .hero { padding: 5rem 1.5rem 4rem; }
-    .hero::before, .hero::after { inset: 12px; }
-    section { padding: 4rem 1.5rem; }
-    .plates-grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; }
-    .tiers-grid { grid-template-columns: 1fr; }
-    .concords-grid { grid-template-columns: repeat(2, 1fr); }
-    .license-banner { flex-direction: column; text-align: center; }
+    nav { padding: 0.75rem 1rem; }
+    .nav-links { display: none; }
+    section { padding: 4rem 1.25rem; }
+    .plates-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
     .lang-series-grid { grid-template-columns: 1fr; }
   }
+
 </style>
 </head>
 <body>
 
-<!-- ══════════════════════════════════════════ HERO ══ -->
-<section class="hero" id="top">
-  <p class="hero-eyebrow">Open Source · CC BY-SA 4.0 · Free Forever</p>
-  <h1 class="hero-title">Remember<br>Forward</h1>
-  <p class="hero-subtitle">The Patient Message</p>
-  <div class="hero-rule"></div>
-  <p class="hero-body">
-    A complete open-source system of laser-engraver-ready nickel plate designs
-    for time capsules intended to preserve human knowledge through catastrophic
-    events — readable by a finder 200 to 2,000 years from now with no shared
-    language or cultural context.
-  </p>
-  <p class="hero-tagline">Buy it &nbsp;·&nbsp; Build it &nbsp;·&nbsp; Bury it &nbsp;·&nbsp; For someone you will never meet</p>
-  <div class="hero-cta">
-    <a href="#plates" class="btn btn-primary">View the Plates</a>
-    <a href="#downloads" class="btn btn-secondary">Free Downloads</a>
+<nav>
+  <a href="#top" class="nav-brand">Remember Forward</a>
+  <ul class="nav-links">
+    <li><a href="#plates" data-i18n="nav_plates">The Plates</a></li>
+    <li><a href="#containers" data-i18n="nav_containers">Containers</a></li>
+    <li><a href="#concords" data-i18n="nav_concords">Ten Concords</a></li>
+    <li><a href="#downloads" data-i18n="nav_downloads">Downloads</a></li>
+    <li><a href="https://github.com/ckantargis/remember-forward" data-i18n="nav_github">GitHub</a></li>
+  </ul>
+  <div class="lang-switcher">
+    <button class="lang-btn" data-lang="en">English</button>
+      <button class="lang-btn" data-lang="zh">中文</button>
+      <button class="lang-btn" data-lang="hi">हिन्दी</button>
+      <button class="lang-btn" data-lang="es">Español</button>
+      <button class="lang-btn" data-lang="ar">العربية</button>
   </div>
-  <span class="scroll-hint">Scroll</span>
+</nav>
+
+<section class="hero" id="top">
+  <p class="hero-eyebrow" data-i18n="hero_eyebrow">Open Source · CC BY-SA 4.0 · Free Forever</p>
+  <h1 class="hero-title">Remember<br>Forward</h1>
+  <p class="hero-subtitle" data-i18n="hero_subtitle">The Patient Message</p>
+  <div class="hero-rule"></div>
+  <p class="hero-body" data-i18n="hero_body">A complete open-source system of laser-engraver-ready nickel plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.</p>
+  <p class="hero-tagline" data-i18n="hero_tagline">Buy it · Build it · Bury it · For someone you will never meet</p>
+  <div class="hero-cta">
+    <a href="#plates" class="btn btn-primary" data-i18n="btn_plates">View the Plates</a>
+    <a href="#downloads" class="btn btn-secondary" data-i18n="btn_downloads">Free Downloads</a>
+  </div>
+  <span class="scroll-hint" data-i18n="scroll">Scroll</span>
 </section>
 
-<!-- ══════════════════════════════════════════ MISSION ══ -->
 <div class="mission">
-  <p class="mission-quote">
-    "This was made for you, freely, by people who cared about the future.
-    Use it together. Build something better. Make more capsules for others."
-  </p>
-  <p class="mission-attr">The Bridge Phrase — engraved on every plate, in every language</p>
+  <p class="mission-quote" data-i18n="mission_quote">"This was made for you, freely, by people who cared about the future. Use it together. Build something better. Make more capsules for others."</p>
+  <p class="mission-attr" data-i18n="mission_attr">The Bridge Phrase — engraved on every plate, in every language</p>
 </div>
 
-<!-- ══════════════════════════════════════════ PLATES ══ -->
-<section id="plates">
-  <p class="section-label">The Plates</p>
-  <h2>The Patient Message</h2>
-  <p>
-    Each plate is a laser-engraver-ready SVG file, 480&times;680px portrait format,
-    designed for nickel or stainless steel. Every plate uses only black strokes —
-    no fills, no color — optimized for maximum legibility at any scale and any
-    future reading technology from unaided eye to microscope.
-  </p>
-  <p>
-    The complete set spans eleven knowledge plates covering survival through
-    metaphysics, and four plates per language across fifty human languages —
-    214 plates total plus analog audio discs.
-  </p>
+<div class="divider"></div>
 
-  <p class="progress-notice">Progress &mdash; 46 of 214 plates complete &mdash; 6 of 50 language series</p>
+<section id="plates">
+  <p class="section-label" data-i18n="sec_plates">The Plates</p>
+  <h2 data-i18n="plates_h2">The Patient Message</h2>
+  <p data-i18n="plates_p1">Each plate is a laser-engraver-ready SVG file, 480×680px portrait format, designed for nickel or stainless steel. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.</p>
+  <p data-i18n="plates_p2">The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across fifty human languages — 214 plates total plus analog audio discs.</p>
+
+  <p class="progress-notice">46 of 214 plates complete · 6 of 50 language series</p>
   <div class="progress-track"><div class="progress-fill" style="width:21.5%"></div></div>
 
-  <!-- ── Knowledge Plates ── -->
-  <p class="subsection-label">Knowledge Plates &mdash; 10 of 11 Complete</p>
-
-  <div class="plates-grid" id="plates-grid">
-
+  <p class="subsection-label" data-i18n="sub_knowledge">Knowledge Plates</p>
+  <div class="plates-grid">
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate01_v3_rosetta.svg" alt="Plate 1 — Rosetta Index" loading="lazy">
-      <p class="plate-card-title">Plate 1</p>
-      <p class="plate-card-desc">Rosetta Index &mdash; pictographic key, Mayan numbers, star map</p>
-      <a href="plates/knowledge/plate01_v3_rosetta.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 1 — Rosetta Index</p>
+      <p class="plate-card-desc">Pictographic key · Mayan numbers · star map</p>
+      <a href="plates/knowledge/plate01_v3_rosetta.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate02_v2_water_fire_shelter.svg" alt="Plate 2 — Water · Fire · Shelter" loading="lazy">
-      <p class="plate-card-title">Plate 2</p>
-      <p class="plate-card-desc">Water &middot; Fire &middot; Shelter &mdash; solar still, bow drill, debris hut</p>
-      <a href="plates/knowledge/plate02_v2_water_fire_shelter.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 2 — Water · Fire · Shelter</p>
+      <p class="plate-card-desc">Solar still · bow drill · debris hut</p>
+      <a href="plates/knowledge/plate02_v2_water_fire_shelter.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate03_v2_agriculture_seeds.svg" alt="Plate 3 — Agriculture &amp; Seeds" loading="lazy">
-      <p class="plate-card-title">Plate 3</p>
-      <p class="plate-card-desc">Agriculture &amp; Seeds &mdash; Three Sisters, composting, seed saving</p>
-      <a href="plates/knowledge/plate03_v2_agriculture_seeds.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 3 — Agriculture &amp; Seeds</p>
+      <p class="plate-card-desc">Three Sisters · composting · seed saving</p>
+      <a href="plates/knowledge/plate03_v2_agriculture_seeds.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate04_v2_technology.svg" alt="Plate 4 — Technology Re-foundation" loading="lazy">
-      <p class="plate-card-title">Plate 4</p>
-      <p class="plate-card-desc">Technology Re-foundation &mdash; iron, glass, mathematics, printing</p>
-      <a href="plates/knowledge/plate04_v2_technology.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 4 — Technology Re-foundation</p>
+      <p class="plate-card-desc">Iron · glass · mathematics · printing</p>
+      <a href="plates/knowledge/plate04_v2_technology.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate05_v2_governance.svg" alt="Plate 5 — Governance &amp; Ethics" loading="lazy">
-      <p class="plate-card-title">Plate 5</p>
-      <p class="plate-card-desc">Governance &amp; Ethics &mdash; corruption sequence, golden rule, rights</p>
-      <a href="plates/knowledge/plate05_v2_governance.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 5 — Governance &amp; Ethics</p>
+      <p class="plate-card-desc">Corruption sequence · golden rule · rights</p>
+      <a href="plates/knowledge/plate05_v2_governance.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate06_v2_concords_stars.svg" alt="Plate 6 — Ten Concords &amp; Stars" loading="lazy">
-      <p class="plate-card-title">Plate 6</p>
-      <p class="plate-card-desc">The Ten Concords &amp; Star Navigation</p>
-      <a href="plates/knowledge/plate06_v2_concords_stars.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 6 — Ten Concords &amp; Stars</p>
+      <p class="plate-card-desc">Universal principles · star navigation</p>
+      <a href="plates/knowledge/plate06_v2_concords_stars.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate07_encoding_communication.svg" alt="Plate 7 — Encoding &amp; Communication" loading="lazy">
-      <p class="plate-card-title">Plate 7</p>
-      <p class="plate-card-desc">Encoding &amp; Communication &mdash; binary, Morse, carrier wave, compression</p>
-      <a href="plates/knowledge/plate07_encoding_communication.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 7 — Encoding &amp; Communication</p>
+      <p class="plate-card-desc">Binary · Morse · carrier wave · compression</p>
+      <a href="plates/knowledge/plate07_encoding_communication.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate08_physics_of_sound_v2.svg" alt="Plate 8 — Physics of Sound" loading="lazy">
-      <p class="plate-card-title">Plate 8</p>
-      <p class="plate-card-desc">Physics of Sound &mdash; the wave, resonance, the groove</p>
-      <a href="plates/knowledge/plate08_physics_of_sound_v2.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 8 — Physics of Sound</p>
+      <p class="plate-card-desc">The wave · resonance · the groove</p>
+      <a href="plates/knowledge/plate08_physics_of_sound_v2.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate10_electrical_phenomena.svg" alt="Plate 10 — Electrical Phenomena" loading="lazy">
-      <p class="plate-card-title">Plate 10</p>
-      <p class="plate-card-desc">Electrical Phenomena &mdash; charge, capacitor, arc, induction</p>
-      <a href="plates/knowledge/plate10_electrical_phenomena.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 10 — Electrical Phenomena</p>
+      <p class="plate-card-desc">Charge · capacitor · arc · induction</p>
+      <a href="plates/knowledge/plate10_electrical_phenomena.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate11_energy_generation.svg" alt="Plate 11 — Energy Generation" loading="lazy">
-      <p class="plate-card-title">Plate 11</p>
-      <p class="plate-card-desc">Energy Generation &mdash; water wheel, wind, osmotic, capacitor</p>
-      <a href="plates/knowledge/plate11_energy_generation.svg" download class="plate-card-link">Download SVG</a>
+      <p class="plate-card-title">Plate 11 — Energy Generation</p>
+      <p class="plate-card-desc">Water wheel · wind · osmotic · capacitor</p>
+      <a href="plates/knowledge/plate11_energy_generation.svg" download class="plate-card-link" data-i18n="plate_download">Download SVG</a>
     </div>
-
   </div>
 
-  <!-- ── Language Series ── -->
-  <p class="subsection-label">Language Series &mdash; 6 of 50 Complete &middot; 36 Plates</p>
-  <p>
-    Each language series comprises four plates: Script (A), Phonology (B), Grammar &amp; Vocabulary (C),
-    and Running Text with interlinear translation (D). Every Plate D ends with the Bridge Phrase
-    rendered in that language.
-  </p>
-
+  <p class="subsection-label" data-i18n="sub_languages">Language Series</p>
   <div class="lang-series-grid">
-
-    <!-- Hebrew 09–12 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
-        <span class="lang-series-num">09&ndash;12</span>
+        <span class="lang-series-num">09</span>
         <span class="lang-series-name">Hebrew</span>
-        <span class="lang-series-badge">16 plates &middot; 4 variants</span>
+        <span class="lang-series-badge">4 variants · 16 plates</span>
+         <span class="lang-series-badge">right-to-left</span>
       </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">09 &middot; Biblical Hebrew</span>
-        <a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">10 &middot; Mishnaic Hebrew</span>
-        <a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">11 &middot; Yemenite Hebrew</span>
-        <a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">12 &middot; Modern Hebrew</span>
-        <a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
+      
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">09 · Biblical Hebrew</span>
+          <a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">10 · Mishnaic Hebrew</span>
+          <a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">11 · Yemenite Hebrew</span>
+          <a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">12 · Modern Hebrew</span>
+          <a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
     </div>
-
-    <!-- Arabic 13 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
         <span class="lang-series-num">13</span>
         <span class="lang-series-name">Arabic</span>
-        <span class="lang-series-badge">4 plates &middot; right-to-left</span>
+        <span class="lang-series-badge">4 plates</span>
+         <span class="lang-series-badge">right-to-left</span>
       </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">Classical Arabic</span>
-        <a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
+      
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">13 · Classical Arabic</span>
+          <a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
     </div>
-
-    <!-- Tamil 14 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
         <span class="lang-series-num">14</span>
         <span class="lang-series-name">Tamil</span>
-        <span class="lang-series-badge">4 plates &middot; Dravidian</span>
+        <span class="lang-series-badge">4 plates · Dravidian</span>
+        
       </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">Classical Tamil</span>
-        <a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
+      
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">14 · Classical Tamil</span>
+          <a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
     </div>
-
-    <!-- Sanskrit 15 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
         <span class="lang-series-num">15</span>
         <span class="lang-series-name">Sanskrit</span>
-        <span class="lang-series-badge">4 plates &middot; Devanagari</span>
+        <span class="lang-series-badge">4 plates · Devanagari</span>
+        
       </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">Classical Sanskrit</span>
-        <a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
+      
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">15 · Classical Sanskrit</span>
+          <a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
     </div>
-
-    <!-- Bengali 16 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
         <span class="lang-series-num">16</span>
         <span class="lang-series-name">Bengali</span>
-        <span class="lang-series-badge">4 plates &middot; abugida</span>
+        <span class="lang-series-badge">4 plates · abugida</span>
+        
       </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">Modern Bengali</span>
-        <a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
+      
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">16 · Modern Bengali</span>
+          <a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
     </div>
-
-    <!-- Mandarin 17 -->
     <div class="lang-block reveal">
       <div class="lang-block-header">
         <span class="lang-series-num">17</span>
         <span class="lang-series-name">Mandarin Chinese</span>
-        <span class="lang-series-badge">4 plates &middot; logographic</span>
-      </div>
-      <div class="lang-plate-row">
-        <span class="lang-sub-name">Standard Mandarin</span>
-        <a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="lang-plate-link" title="Script">A</a>
-        <a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
-        <a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
-        <a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="lang-plate-link" title="Text">D</a>
-      </div>
-    </div>
+        <span class="lang-series-badge">4 plates · logographic</span>
 
+      </div>
+
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">17 · Mandarin Chinese</span>
+          <a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+    </div>
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">18</span>
+        <span class="lang-series-name">Japanese</span>
+        <span class="lang-series-badge">4 plates · syllabic + logographic</span>
+
+      </div>
+
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">18 · Japanese</span>
+          <a href="plates/languages/japanese/plate18a_japanese_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/japanese/plate18b_japanese_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/japanese/plate18c_japanese_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/japanese/plate18d_japanese_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+    </div>
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">19</span>
+        <span class="lang-series-name">Malay / Indonesian</span>
+        <span class="lang-series-badge">4 plates · Latin alphabet</span>
+
+      </div>
+
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">19 · Malay / Indonesian</span>
+          <a href="plates/languages/malay/plate19a_malay_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/malay/plate19b_malay_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/malay/plate19c_malay_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/malay/plate19d_malay_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+    </div>
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">20</span>
+        <span class="lang-series-name">Swahili</span>
+        <span class="lang-series-badge">4 plates · Latin alphabet · Bantu</span>
+
+      </div>
+
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">20 · Swahili</span>
+          <a href="plates/languages/swahili/plate20a_swahili_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/swahili/plate20b_swahili_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/swahili/plate20c_swahili_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/swahili/plate20d_swahili_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+    </div>
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">21</span>
+        <span class="lang-series-name">Greek</span>
+        <span class="lang-series-badge">4 plates · Greek alphabet</span>
+
+      </div>
+
+        <div class="lang-plate-row">
+          <span class="lang-sub-name">21 · Greek</span>
+          <a href="plates/languages/greek/plate21a_greek_script.svg" download class="lang-plate-link" data-i18n-title="lang_plate_a" title="Script">A</a><a href="plates/languages/greek/plate21b_greek_phonology.svg" download class="lang-plate-link" data-i18n-title="lang_plate_b" title="Phonology">B</a><a href="plates/languages/greek/plate21c_greek_grammar.svg" download class="lang-plate-link" data-i18n-title="lang_plate_c" title="Grammar">C</a><a href="plates/languages/greek/plate21d_greek_text.svg" download class="lang-plate-link" data-i18n-title="lang_plate_d" title="Text">D</a>
+        </div>
+    </div>
   </div>
 </section>
 
 <div class="divider-section">· · ·</div>
 
-<!-- ══════════════════════════════════════════ CONTAINERS ══ -->
 <section id="containers">
-  <p class="section-label">The Capsule Designs</p>
-  <h2>Seven Container Tiers</h2>
-  <p>
-    Any plate set fits any container. The tiers describe survivability and cost,
-    not content. From a clay jar fired with a wood fire to a lead-lined granite
-    vault — every design is fully documented and free to build.
-  </p>
-
+  <p class="section-label" data-i18n="sec_containers">The Capsule Designs</p>
+  <h2 data-i18n="containers_h2">Seven Container Tiers</h2>
+  <p data-i18n="containers_p">Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a lead-lined granite vault — every design is fully documented and free to build.</p>
   <div class="tiers-grid">
     <div class="tier-card reveal">
       <p class="tier-label">Tier 0</p>
@@ -1067,7 +977,6 @@
       </ul>
       <p class="tier-lifespan">500 – 2,000 years</p>
     </div>
-
     <div class="tier-card reveal">
       <p class="tier-label">Tier A</p>
       <p class="tier-name">Schedule 80 PVC</p>
@@ -1080,7 +989,6 @@
       </ul>
       <p class="tier-lifespan">500 – 1,000 years</p>
     </div>
-
     <div class="tier-card reveal">
       <p class="tier-label">Tier B</p>
       <p class="tier-name">Titanium Sphere</p>
@@ -1093,7 +1001,6 @@
       </ul>
       <p class="tier-lifespan">10,000+ years</p>
     </div>
-
     <div class="tier-card reveal">
       <p class="tier-label">Tier C</p>
       <p class="tier-name">Ocean Capsule</p>
@@ -1106,7 +1013,6 @@
       </ul>
       <p class="tier-lifespan">2,000+ years at depth</p>
     </div>
-
     <div class="tier-card reveal">
       <p class="tier-label">Tier D</p>
       <p class="tier-name">Hastelloy C-276</p>
@@ -1119,7 +1025,6 @@
       </ul>
       <p class="tier-lifespan">10,000+ years</p>
     </div>
-
     <div class="tier-card reveal">
       <p class="tier-label">Tier E</p>
       <p class="tier-name">Lead-Lined Granite</p>
@@ -1132,84 +1037,84 @@
       </ul>
       <p class="tier-lifespan">100,000+ years</p>
     </div>
+    <div class="tier-card reveal">
+      <p class="tier-label">Tier F</p>
+      <p class="tier-name">Mountain Archive</p>
+      <p class="tier-price">$2,000+</p>
+      <ul class="tier-list">
+        <li>Dry cave or lava tube</li>
+        <li>Natural environmental sealing</li>
+        <li>Community maintenance agreement</li>
+        <li>GPS + surface marker required</li>
+      </ul>
+      <p class="tier-lifespan">Geological timescale</p>
+    </div>
   </div>
 </section>
 
 <div class="divider-section">· · ·</div>
 
-<!-- ══════════════════════════════════════════ CONCORDS ══ -->
 <section id="concords">
-  <p class="section-label">The Ten Concords</p>
-  <h2>Universal Principles</h2>
-  <p>
-    Distilled from the convergence points of human civilizations across all
-    recorded history. These are points of agreement, not imposition — discovered
-    independently by people who had no contact with each other, across millennia.
-    Their convergence is the evidence for their validity.
-  </p>
-
+  <p class="section-label" data-i18n="sec_concords">The Ten Concords</p>
+  <h2 data-i18n="concords_h2">Universal Principles</h2>
+  <p data-i18n="concords_p">Distilled from the convergence points of human civilizations across all recorded history. These are points of agreement, not imposition — discovered independently by people who had no contact with each other, across millennia. Their convergence is the evidence for their validity.</p>
   <div class="concords-grid">
     <div class="concord-item reveal">
       <p class="concord-num">I</p>
-      <p class="concord-text">Every person has inherent worth.</p>
+      <p class="concord-text" data-i18n="concord_1">Every person has inherent worth.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">II</p>
-      <p class="concord-text">Measure civilization by its most vulnerable.</p>
+      <p class="concord-text" data-i18n="concord_2">Measure civilization by its most vulnerable.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">III</p>
-      <p class="concord-text">The living world is not a resource.</p>
+      <p class="concord-text" data-i18n="concord_3">The living world is not a resource.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">IV</p>
-      <p class="concord-text">Knowledge is a commons.</p>
+      <p class="concord-text" data-i18n="concord_4">Knowledge is a commons.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">V</p>
-      <p class="concord-text">Power must be held lightly.</p>
+      <p class="concord-text" data-i18n="concord_5">Power must be held lightly.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">VI</p>
-      <p class="concord-text">Cooperation is stronger than competition.</p>
+      <p class="concord-text" data-i18n="concord_6">Cooperation is stronger than competition.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">VII</p>
-      <p class="concord-text">The future has no voice. Speak for it.</p>
+      <p class="concord-text" data-i18n="concord_7">The future has no voice. Speak for it.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">VIII</p>
-      <p class="concord-text">Beauty is not decoration.</p>
+      <p class="concord-text" data-i18n="concord_8">Beauty is not decoration.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">IX</p>
-      <p class="concord-text">Grief is the price of love. Pay it.</p>
+      <p class="concord-text" data-i18n="concord_9">Grief is the price of love. Pay it.</p>
     </div>
     <div class="concord-item reveal">
       <p class="concord-num">X</p>
-      <p class="concord-text">You are not the first. You will not be the last.</p>
+      <p class="concord-text" data-i18n="concord_10">You are not the first. You will not be the last.</p>
     </div>
   </div>
 </section>
 
 <div class="divider-section">· · ·</div>
 
-<!-- ══════════════════════════════════════════ DOWNLOADS ══ -->
 <section id="downloads">
-  <p class="section-label">Free Downloads</p>
-  <h2>Everything Is Free</h2>
-  <p>
-    Every file in this project is released under CC BY-SA 4.0. Copy them.
-    Translate them. Improve them. Distribute them to everyone. No permission
-    needed. No registration. No cost. The knowledge belongs to whoever finds it.
-  </p>
+  <p class="section-label" data-i18n="sec_downloads">Free Downloads</p>
+  <h2 data-i18n="downloads_h2">Everything Is Free</h2>
+  <p data-i18n="downloads_p">Every file in this project is released under CC BY-SA 4.0. Copy them. Translate them. Improve them. Distribute them to everyone. No permission needed. No registration. No cost. The knowledge belongs to whoever finds it.</p>
 
   <div class="downloads-grid">
-
     <div class="download-group reveal">
-      <p class="download-group-title">Knowledge Plates (SVG)</p>
+      <p class="download-group-title" data-i18n="dl_knowledge">Knowledge Plates (SVG)</p>
+      
       <div class="download-item">
-        <span class="download-name">Plate 1 — Rosetta Index v3</span>
+        <span class="download-name">Plate 1 — Rosetta Index</span>
         <a href="plates/knowledge/plate01_v3_rosetta.svg" download class="download-link">SVG</a>
       </div>
       <div class="download-item">
@@ -1251,155 +1156,561 @@
     </div>
 
     <div class="download-group reveal">
-      <p class="download-group-title">Language Plates &mdash; Hebrew (SVG)</p>
-      <div class="download-item"><span class="download-name">09A &mdash; Biblical Hebrew Script</span><a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">09B &mdash; Biblical Hebrew Phonology</span><a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">09C &mdash; Biblical Hebrew Grammar</span><a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">09D &mdash; Biblical Hebrew Text</span><a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">10A &mdash; Mishnaic Hebrew Script</span><a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">10B &mdash; Mishnaic Hebrew Phonology</span><a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">10C &mdash; Mishnaic Hebrew Grammar</span><a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">10D &mdash; Mishnaic Hebrew Text</span><a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">11A &mdash; Yemenite Hebrew Script</span><a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">11B &mdash; Yemenite Hebrew Phonology</span><a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">11C &mdash; Yemenite Hebrew Grammar</span><a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">11D &mdash; Yemenite Hebrew Text</span><a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">12A &mdash; Modern Hebrew Script</span><a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">12B &mdash; Modern Hebrew Phonology</span><a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">12C &mdash; Modern Hebrew Grammar</span><a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">12D &mdash; Modern Hebrew Text</span><a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="download-link">SVG</a></div>
-    </div>
-
-    <div class="download-group reveal">
-      <p class="download-group-title">Language Plates &mdash; Arabic, Tamil, Sanskrit (SVG)</p>
-      <div class="download-item"><span class="download-name">13A &mdash; Arabic Script</span><a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">13B &mdash; Arabic Phonology</span><a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">13C &mdash; Arabic Grammar</span><a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">13D &mdash; Arabic Text</span><a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">14A &mdash; Tamil Script</span><a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">14B &mdash; Tamil Phonology</span><a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">14C &mdash; Tamil Grammar</span><a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">14D &mdash; Tamil Text</span><a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">15A &mdash; Sanskrit Script</span><a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">15B &mdash; Sanskrit Phonology</span><a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">15C &mdash; Sanskrit Grammar</span><a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">15D &mdash; Sanskrit Text</span><a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="download-link">SVG</a></div>
-    </div>
-
-    <div class="download-group reveal">
-      <p class="download-group-title">Language Plates &mdash; Bengali, Mandarin Chinese (SVG)</p>
-      <div class="download-item"><span class="download-name">16A &mdash; Bengali Script</span><a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">16B &mdash; Bengali Phonology</span><a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">16C &mdash; Bengali Grammar</span><a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">16D &mdash; Bengali Text</span><a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">17A &mdash; Mandarin Chinese Script</span><a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">17B &mdash; Mandarin Chinese Phonology</span><a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">17C &mdash; Mandarin Chinese Grammar</span><a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="download-link">SVG</a></div>
-      <div class="download-item"><span class="download-name">17D &mdash; Mandarin Chinese Text</span><a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="download-link">SVG</a></div>
+      <p class="download-group-title" data-i18n="dl_languages">Language Series (SVG)</p>
+      
       <div class="download-item">
-        <span class="download-name">More languages in progress &mdash; contribute via GitHub</span>
-        <a href="https://github.com/ckantargis/remember-forward" class="download-link">GitHub</a>
+        <span class="download-name">Hebrew — Script</span>
+        <a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Phonology</span>
+        <a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Grammar</span>
+        <a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Text</span>
+        <a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Script</span>
+        <a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Phonology</span>
+        <a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Grammar</span>
+        <a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Text</span>
+        <a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Script</span>
+        <a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Phonology</span>
+        <a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Grammar</span>
+        <a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Text</span>
+        <a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Script</span>
+        <a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Phonology</span>
+        <a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Grammar</span>
+        <a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Hebrew — Text</span>
+        <a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Arabic — Script</span>
+        <a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Arabic — Phonology</span>
+        <a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Arabic — Grammar</span>
+        <a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Arabic — Text</span>
+        <a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Tamil — Script</span>
+        <a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Tamil — Phonology</span>
+        <a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Tamil — Grammar</span>
+        <a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Tamil — Text</span>
+        <a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Sanskrit — Script</span>
+        <a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Sanskrit — Phonology</span>
+        <a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Sanskrit — Grammar</span>
+        <a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Sanskrit — Text</span>
+        <a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Bengali — Script</span>
+        <a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Bengali — Phonology</span>
+        <a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Bengali — Grammar</span>
+        <a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Bengali — Text</span>
+        <a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Mandarin Chinese — Script</span>
+        <a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Mandarin Chinese — Phonology</span>
+        <a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Mandarin Chinese — Grammar</span>
+        <a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Mandarin Chinese — Text</span>
+        <a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Japanese — Script</span>
+        <a href="plates/languages/japanese/plate18a_japanese_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Japanese — Phonology</span>
+        <a href="plates/languages/japanese/plate18b_japanese_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Japanese — Grammar</span>
+        <a href="plates/languages/japanese/plate18c_japanese_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Japanese — Text</span>
+        <a href="plates/languages/japanese/plate18d_japanese_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Malay / Indonesian — Script</span>
+        <a href="plates/languages/malay/plate19a_malay_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Malay / Indonesian — Phonology</span>
+        <a href="plates/languages/malay/plate19b_malay_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Malay / Indonesian — Grammar</span>
+        <a href="plates/languages/malay/plate19c_malay_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Malay / Indonesian — Text</span>
+        <a href="plates/languages/malay/plate19d_malay_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Swahili — Script</span>
+        <a href="plates/languages/swahili/plate20a_swahili_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Swahili — Phonology</span>
+        <a href="plates/languages/swahili/plate20b_swahili_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Swahili — Grammar</span>
+        <a href="plates/languages/swahili/plate20c_swahili_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Swahili — Text</span>
+        <a href="plates/languages/swahili/plate20d_swahili_text.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Greek — Script</span>
+        <a href="plates/languages/greek/plate21a_greek_script.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Greek — Phonology</span>
+        <a href="plates/languages/greek/plate21b_greek_phonology.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Greek — Grammar</span>
+        <a href="plates/languages/greek/plate21c_greek_grammar.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
+        <span class="download-name">Greek — Text</span>
+        <a href="plates/languages/greek/plate21d_greek_text.svg" download class="download-link">SVG</a>
       </div>
     </div>
 
     <div class="download-group reveal">
-      <p class="download-group-title">Build Guides (Word Documents)</p>
+      <p class="download-group-title" data-i18n="dl_guides">Guides &amp; Documents</p>
       <div class="download-item">
-        <span class="download-name">Complete Civilizational Guide</span>
-        <a href="guides/gd_00_main_guide.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Founder's Letter to the Finder</span>
+        <span class="download-name" data-i18n="dl_founders">Founder's Letter (DOCX)</span>
         <a href="guides/gd_02_founders_letter.docx" download class="download-link">DOCX</a>
       </div>
-      <div class="download-item">
-        <span class="download-name">Tier 1 — Immediate Survival</span>
-        <a href="guides/gd_03_tier1_survival.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 2 — Agriculture &amp; Biology</span>
-        <a href="guides/gd_04_tier2_agriculture.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 3 — Technology Re-foundation</span>
-        <a href="guides/gd_05_tier3_technology.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 4 — Governance &amp; Philosophy</span>
-        <a href="guides/gd_06_tier4_governance.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 5 — Advanced Knowledge</span>
-        <a href="guides/gd_07_tier5_advanced.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 6 — The Metaphysical Concords</span>
-        <a href="guides/gd_08_tier6_metaphysical.docx" download class="download-link">DOCX</a>
-      </div>
     </div>
-
-    <div class="download-group reveal">
-      <p class="download-group-title">Container Specifications (Word Documents)</p>
-      <div class="download-item">
-        <span class="download-name">Container &amp; Tiering Architecture v2</span>
-        <a href="containers/container_and_tiering_v2.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier 0 — Fired Ceramic + Pitch</span>
-        <a href="containers/gd_13_tier0_ceramic.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier A — Schedule 80 PVC</span>
-        <a href="containers/gd_09_flyer_pvc.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier B — Titanium Sphere</span>
-        <a href="containers/gd_10_flyer_titanium.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier C — Ocean Capsule</span>
-        <a href="containers/gd_11_flyer_ocean.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier D — Hastelloy C-276</span>
-        <a href="containers/gd_14_tierd_hastelloy.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Tier E — Lead-Lined Granite</span>
-        <a href="containers/gd_15_tiere_granite.docx" download class="download-link">DOCX</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">Location Strategies</span>
-        <a href="containers/gd_16_location_strategies.docx" download class="download-link">DOCX</a>
-      </div>
-    </div>
-
-  </div>
-
-  <div class="license-banner reveal">
-    <p class="license-text">All materials released under Creative Commons Attribution-ShareAlike 4.0 International</p>
-    <span class="license-badge">CC BY-SA 4.0</span>
   </div>
 </section>
 
-<!-- ══════════════════════════════════════════ FOOTER ══ -->
 <footer>
   <p class="footer-title">Remember Forward</p>
-  <p class="footer-sub">The Patient Message &nbsp;·&nbsp; 2026</p>
+  <p class="footer-sub" data-i18n="footer_sub">The Patient Message · 2026</p>
   <div class="footer-links">
     <a href="#top">Home</a>
-    <a href="#plates">Plates</a>
-    <a href="#containers">Containers</a>
-    <a href="#downloads">Downloads</a>
-    <a href="https://github.com/ckantargis/remember-forward">GitHub</a>
-    <a href="guides/gd_02_founders_letter.docx">Founder's Letter</a>
+    <a href="#plates" data-i18n="nav_plates">The Plates</a>
+    <a href="#containers" data-i18n="nav_containers">Containers</a>
+    <a href="#downloads" data-i18n="nav_downloads">Downloads</a>
+    <a href="https://github.com/ckantargis/remember-forward" data-i18n="nav_github">GitHub</a>
+    <a href="guides/gd_02_founders_letter.docx" data-i18n="dl_founders">Founder's Letter</a>
   </div>
-  <p class="footer-copy">
-    CC BY-SA 4.0 &nbsp;·&nbsp; Copy freely &nbsp;·&nbsp; Share freely &nbsp;·&nbsp; Improve freely &nbsp;·&nbsp; No permission needed
-  </p>
+  <p class="footer-copy" data-i18n="footer_copy">CC BY-SA 4.0 · Copy freely · Share freely · Improve freely · No permission needed</p>
 </footer>
-
 <script>
+
+  const TRANSLATIONS = {
+  "en": {
+    "lang_name": "English",
+    "dir": "ltr",
+    "nav_plates": "The Plates",
+    "nav_containers": "Containers",
+    "nav_concords": "Ten Concords",
+    "nav_downloads": "Downloads",
+    "nav_github": "GitHub",
+    "hero_eyebrow": "Open Source · CC BY-SA 4.0 · Free Forever",
+    "hero_subtitle": "The Patient Message",
+    "hero_body": "A complete open-source system of laser-engraver-ready nickel plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.",
+    "hero_tagline": "Buy it · Build it · Bury it · For someone you will never meet",
+    "btn_plates": "View the Plates",
+    "btn_downloads": "Free Downloads",
+    "mission_quote": "\"This was made for you, freely, by people who cared about the future. Use it together. Build something better. Make more capsules for others.\"",
+    "mission_attr": "The Bridge Phrase — engraved on every plate, in every language",
+    "sec_plates": "The Plates",
+    "plates_h2": "The Patient Message",
+    "plates_p1": "Each plate is a laser-engraver-ready SVG file, 480×680px portrait format, designed for nickel or stainless steel. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.",
+    "plates_p2": "The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across fifty human languages — 214 plates total plus analog audio discs.",
+    "sub_knowledge": "Knowledge Plates",
+    "sub_languages": "Language Series",
+    "plate_download": "Download SVG",
+    "lang_plate_a": "Script",
+    "lang_plate_b": "Phonology",
+    "lang_plate_c": "Grammar",
+    "lang_plate_d": "Text",
+    "sec_containers": "The Capsule Designs",
+    "containers_h2": "Seven Container Tiers",
+    "containers_p": "Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a lead-lined granite vault — every design is fully documented and free to build.",
+    "sec_concords": "The Ten Concords",
+    "concords_h2": "Universal Principles",
+    "concords_p": "Distilled from the convergence points of human civilizations across all recorded history. These are points of agreement, not imposition — discovered independently by people who had no contact with each other, across millennia. Their convergence is the evidence for their validity.",
+    "concord_1": "Every person has inherent worth.",
+    "concord_2": "Measure civilization by its most vulnerable.",
+    "concord_3": "The living world is not a resource.",
+    "concord_4": "Knowledge is a commons.",
+    "concord_5": "Power must be held lightly.",
+    "concord_6": "Cooperation is stronger than competition.",
+    "concord_7": "The future has no voice. Speak for it.",
+    "concord_8": "Beauty is not decoration.",
+    "concord_9": "Grief is the price of love. Pay it.",
+    "concord_10": "You are not the first. You will not be the last.",
+    "sec_downloads": "Free Downloads",
+    "downloads_h2": "Everything Is Free",
+    "downloads_p": "Every file in this project is released under CC BY-SA 4.0. Copy them. Translate them. Improve them. Distribute them to everyone. No permission needed. No registration. No cost. The knowledge belongs to whoever finds it.",
+    "dl_knowledge": "Knowledge Plates (SVG)",
+    "dl_languages": "Language Series (SVG)",
+    "dl_guides": "Guides &amp; Documents",
+    "dl_founders": "Founder’s Letter (DOCX)",
+    "footer_sub": "The Patient Message · 2026",
+    "footer_copy": "CC BY-SA 4.0 · Copy freely · Share freely · Improve freely · No permission needed",
+    "scroll": "Scroll",
+    "of_plates": "plates complete",
+    "of_series": "language series",
+    "of_total": "of"
+  },
+  "zh": {
+    "lang_name": "中文",
+    "dir": "ltr",
+    "nav_plates": "版片",
+    "nav_containers": "容器",
+    "nav_concords": "十协约",
+    "nav_downloads": "下载",
+    "nav_github": "GitHub",
+    "hero_eyebrow": "开源 · CC BY-SA 4.0 · 永久免费",
+    "hero_subtitle": "患者的信息",
+    "hero_body": "一套完整的开源激光雕刻镍板设计系统，用于制作时间胶囊，旨在通过灾难性事件保存人类知识——在200至2000年后，无需共同语言或文化背景即可被发现者阅读。",
+    "hero_tagline": "购买它 · 建造它 · 埋藏它 · 为了一个你永远不会遇见的人",
+    "btn_plates": "查看版片",
+    "btn_downloads": "免费下载",
+    "mission_quote": "\"这是为你而制作的，由关心未来的人们免费奉上。共同使用它。建造更好的东西。为他人制作更多胶囊。\"",
+    "mission_attr": "桥接短语——刻在每块版片上，以每种语言书写",
+    "sec_plates": "版片",
+    "plates_h2": "患者的信息",
+    "plates_p1": "每块版片都是激光雕刻就绪的SVG文件，480×680px纵向格式，专为镍或不锈钢设计。每块版片仅使用黑色线条——无填充，无颜色——优化了在任何比例和任何未来阅读技术下的最大清晰度。",
+    "plates_p2": "完整套装涵盖十一块知识板，内容从生存技能到形而上学，以及五十种人类语言，每种语言四块版片——共214块版片加模拟音频碟片。",
+    "sub_knowledge": "知识板",
+    "sub_languages": "语言系列",
+    "plate_download": "下载 SVG",
+    "lang_plate_a": "文字",
+    "lang_plate_b": "音系",
+    "lang_plate_c": "语法",
+    "lang_plate_d": "文本",
+    "sec_containers": "胶囊设计",
+    "containers_h2": "七个容器等级",
+    "containers_p": "任何版片套装适合任何容器。等级描述的是耐用性和成本，而非内容。从用木火烧制的陶罐到铅衬花岗岩保险库——每种设计都有完整文档，可免费建造。",
+    "sec_concords": "十协约",
+    "concords_h2": "普世原则",
+    "concords_p": "从人类文明各文化的共同点中提炼而来，横跨有记录的全部历史。这些是共识点，而非强加——由彼此没有联系的人在数千年中独立发现。它们的汇合是其有效性的证据。",
+    "concord_1": "每个人都有固有的价值。",
+    "concord_2": "以最脆弱者衡量文明。",
+    "concord_3": "生命世界不是资源。",
+    "concord_4": "知识是公共财产。",
+    "concord_5": "权力必须轻持。",
+    "concord_6": "合作强于竞争。",
+    "concord_7": "未来没有声音。为它发声。",
+    "concord_8": "美不是装饰。",
+    "concord_9": "悲伤是爱的代价。付出它。",
+    "concord_10": "你不是第一个。你不会是最后一个。",
+    "sec_downloads": "免费下载",
+    "downloads_h2": "一切免费",
+    "downloads_p": "本项目中的每个文件都在CC BY-SA 4.0下发布。复制它们。翻译它们。改进它们。向所有人分发它们。无需许可。无需注册。无需费用。知识属于发现它的人。",
+    "dl_knowledge": "知识版片（SVG）",
+    "dl_languages": "语言系列（SVG）",
+    "dl_guides": "指南与文件",
+    "dl_founders": "创始人信函（DOCX）",
+    "footer_sub": "患者的信息 · 2026",
+    "footer_copy": "CC BY-SA 4.0 · 自由复制 · 自由分享 · 自由改进 · 无需许可",
+    "scroll": "滚动",
+    "of_plates": "块版片已完成",
+    "of_series": "种语言系列",
+    "of_total": "共"
+  },
+  "hi": {
+    "lang_name": "हिन्दी",
+    "dir": "ltr",
+    "nav_plates": "प्लेटें",
+    "nav_containers": "कंटेनर",
+    "nav_concords": "दस सहमतियाँ",
+    "nav_downloads": "डाउनलोड",
+    "nav_github": "GitHub",
+    "hero_eyebrow": "ओपन सोर्स · CC BY-SA 4.0 · सदा निःशुल्क",
+    "hero_subtitle": "धैर्यपूर्ण संदेश",
+    "hero_body": "लेज़र-एनग्रेवर के लिए तैयार निकेल प्लेट डिज़ाइन की एक पूर्ण ओपन-सोर्स प्रणाली, जो विनाशकारी घटनाओं के माध्यम से मानव ज्ञान को संरक्षित करने के लिए बनाई गई है — बिना किसी साझा भाषा या सांस्कृतिक संदर्भ के 200 से 2,000 वर्ष बाद खोजकर्ता द्वारा पढ़ने योग्य।",
+    "hero_tagline": "खरीदें · बनाएं · दफनाएं · किसी ऐसे व्यक्ति के लिए जिससे आप कभी नहीं मिलेंगे",
+    "btn_plates": "प्लेटें देखें",
+    "btn_downloads": "निःशुल्क डाउनलोड",
+    "mission_quote": "\"यह आपके लिए बनाया गया था, उन लोगों द्वारा निःशुल्क जो भविष्य की परवाह करते थे। इसे मिलकर उपयोग करें। कुछ बेहतर बनाएं। दूसरों के लिए और कैप्सूल बनाएं।\"",
+    "mission_attr": "सेतु वाक्यांश — हर प्लेट पर, हर भाषा में उत्कीर्ण",
+    "sec_plates": "प्लेटें",
+    "plates_h2": "धैर्यपूर्ण संदेश",
+    "plates_p1": "प्रत्येक प्लेट एक लेज़र-एनग्रेवर-तैयार SVG फ़ाइल है, 480×680px पोर्ट्रेट प्रारूप में, निकेल या स्टेनलेस स्टील के लिए डिज़ाइन की गई। हर प्लेट केवल काले स्ट्रोक का उपयोग करती है — कोई भराव नहीं, कोई रंग नहीं — किसी भी पैमाने और किसी भी भविष्य की पठन तकनीक में अधिकतम सुपाठ्यता के लिए अनुकूलित।",
+    "plates_p2": "पूर्ण सेट में जीवन रक्षा से आध्यात्मिकता तक के ग्यारह ज्ञान प्लेट और पचास मानव भाषाओं में प्रति भाषा चार प्लेट शामिल हैं — कुल 214 प्लेट और एनालॉग ऑडियो डिस्क।",
+    "sub_knowledge": "ज्ञान प्लेटें",
+    "sub_languages": "भाषा श्रृंखला",
+    "plate_download": "SVG डाउनलोड करें",
+    "lang_plate_a": "लिपि",
+    "lang_plate_b": "स्वरविज्ञान",
+    "lang_plate_c": "व्याकरण",
+    "lang_plate_d": "पाठ",
+    "sec_containers": "कैप्सूल डिज़ाइन",
+    "containers_h2": "सात कंटेनर स्तर",
+    "containers_p": "कोई भी प्लेट सेट किसी भी कंटेनर में फिट होता है। स्तर जीवित रहने की क्षमता और लागत का वर्णन करते हैं, सामग्री का नहीं। लकड़ी की आग में पकी मिट्टी की जार से लेकर सीसे से पंक्तिबद्ध ग्रेनाइट तिजोरी तक — हर डिज़ाइन पूरी तरह से दस्तावेज़ीकृत और निःशुल्क निर्माण योग्य है।",
+    "sec_concords": "दस सहमतियाँ",
+    "concords_h2": "सार्वभौमिक सिद्धांत",
+    "concords_p": "सभी दर्ज इतिहास में मानव सभ्यताओं के अभिसरण बिंदुओं से आसवित। ये सहमति के बिंदु हैं, थोपने के नहीं — सहस्राब्दियों में ऐसे लोगों द्वारा स्वतंत्र रूप से खोजे गए जिनका एक दूसरे से कोई संपर्क नहीं था। उनका अभिसरण उनकी वैधता का प्रमाण है।",
+    "concord_1": "प्रत्येक व्यक्ति में अंतर्निहित मूल्य है।",
+    "concord_2": "सभ्यता को उसके सबसे कमज़ोर से मापें।",
+    "concord_3": "जीवित संसार एक संसाधन नहीं है।",
+    "concord_4": "ज्ञान एक सार्वजनिक संपत्ति है।",
+    "concord_5": "शक्ति को हल्के से धारण करना चाहिए।",
+    "concord_6": "सहयोग प्रतिस्पर्धा से अधिक शक्तिशाली है।",
+    "concord_7": "भविष्य की कोई आवाज़ नहीं है। उसके लिए बोलो।",
+    "concord_8": "सौंदर्य सजावट नहीं है।",
+    "concord_9": "दुख प्यार की कीमत है। इसे चुकाओ।",
+    "concord_10": "तुम पहले नहीं हो। तुम आखिरी नहीं होगे।",
+    "sec_downloads": "निःशुल्क डाउनलोड",
+    "downloads_h2": "सब कुछ निःशुल्क है",
+    "downloads_p": "इस प्रोजेक्ट की हर फ़ाइल CC BY-SA 4.0 के तहत जारी की गई है। उन्हें कॉपी करें। उनका अनुवाद करें। उन्हें बेहतर बनाएं। सभी को वितरित करें। कोई अनुमति नहीं चाहिए। कोई पंजीकरण नहीं। कोई शुल्क नहीं। ज्ञान उसका है जो इसे खोजे।",
+    "dl_knowledge": "ज्ञान प्लेटें (SVG)",
+    "dl_languages": "भाषा श्रृंखला (SVG)",
+    "dl_guides": "मार्गदर्शिकाएँ और दस्तावेज़",
+    "dl_founders": "संस्थापक का पत्र (DOCX)",
+    "footer_sub": "धैर्यपूर्ण संदेश · 2026",
+    "footer_copy": "CC BY-SA 4.0 · स्वतंत्र रूप से कॉपी करें · स्वतंत्र रूप से साझा करें · स्वतंत्र रूप से सुधारें · कोई अनुमति नहीं चाहिए",
+    "scroll": "स्क्रॉल",
+    "of_plates": "प्लेटें पूर्ण",
+    "of_series": "भाषा श्रृंखलाएँ",
+    "of_total": "में से"
+  },
+  "es": {
+    "lang_name": "Español",
+    "dir": "ltr",
+    "nav_plates": "Las Placas",
+    "nav_containers": "Contenedores",
+    "nav_concords": "Los Diez Concordes",
+    "nav_downloads": "Descargas",
+    "nav_github": "GitHub",
+    "hero_eyebrow": "Código Abierto · CC BY-SA 4.0 · Gratis para Siempre",
+    "hero_subtitle": "El Mensaje Paciente",
+    "hero_body": "Un sistema completo de código abierto de diseños de placas de níquel listas para grabado láser, para cápsulas del tiempo destinadas a preservar el conocimiento humano a través de eventos catastróficos — legible por quien lo encuentre en 200 a 2,000 años sin ningún lenguaje o contexto cultural compartido.",
+    "hero_tagline": "Cómpralo · Constrúyelo · Entiérralo · Para alguien que nunca conocerás",
+    "btn_plates": "Ver las Placas",
+    "btn_downloads": "Descargas Gratuitas",
+    "mission_quote": "\"Esto fue hecho para ti, gratuitamente, por personas que se preocuparon por el futuro. Úsalo juntos. Construye algo mejor. Haz más cápsulas para otros.\"",
+    "mission_attr": "La Frase Puente — grabada en cada placa, en cada idioma",
+    "sec_plates": "Las Placas",
+    "plates_h2": "El Mensaje Paciente",
+    "plates_p1": "Cada placa es un archivo SVG listo para grabado láser, formato vertical 480×680px, diseñado para níquel o acero inoxidable. Cada placa usa solo trazos negros — sin rellenos, sin color — optimizado para máxima legibilidad a cualquier escala y cualquier tecnología futura de lectura.",
+    "plates_p2": "El conjunto completo abarca once placas de conocimiento que cubren desde supervivencia hasta metafísica, y cuatro placas por idioma en cincuenta idiomas humanos — 214 placas en total más discos de audio analógico.",
+    "sub_knowledge": "Placas de Conocimiento",
+    "sub_languages": "Series de Idiomas",
+    "plate_download": "Descargar SVG",
+    "lang_plate_a": "Escritura",
+    "lang_plate_b": "Fonología",
+    "lang_plate_c": "Gramática",
+    "lang_plate_d": "Texto",
+    "sec_containers": "Los Diseños de Cápsulas",
+    "containers_h2": "Siete Niveles de Contenedor",
+    "containers_p": "Cualquier conjunto de placas cabe en cualquier contenedor. Los niveles describen durabilidad y costo, no contenido. Desde un jarro de arcilla cocida con fuego de madera hasta una bóveda de granito forrada de plomo — cada diseño está completamente documentado y es libre de construir.",
+    "sec_concords": "Los Diez Concordes",
+    "concords_h2": "Principios Universales",
+    "concords_p": "Destilados de los puntos de convergencia de las civilizaciones humanas a lo largo de toda la historia registrada. Son puntos de acuerdo, no de imposición — descubiertos de forma independiente por personas sin ningún contacto entre sí, a lo largo de milenios. Su convergencia es la evidencia de su validez.",
+    "concord_1": "Cada persona tiene un valor inherente.",
+    "concord_2": "Mide la civilización por sus más vulnerables.",
+    "concord_3": "El mundo vivo no es un recurso.",
+    "concord_4": "El conocimiento es un bien común.",
+    "concord_5": "El poder debe sostenerse con ligereza.",
+    "concord_6": "La cooperación es más fuerte que la competencia.",
+    "concord_7": "El futuro no tiene voz. Habla por él.",
+    "concord_8": "La belleza no es decoración.",
+    "concord_9": "El duelo es el precio del amor. Págalo.",
+    "concord_10": "No eres el primero. No serás el último.",
+    "sec_downloads": "Descargas Gratuitas",
+    "downloads_h2": "Todo es Gratis",
+    "downloads_p": "Cada archivo de este proyecto está publicado bajo CC BY-SA 4.0. Cópialos. Tradúcelos. Mejóralos. Distribúyelos a todos. No se necesita permiso. No hay registro. Sin costo. El conocimiento pertenece a quien lo encuentre.",
+    "dl_knowledge": "Placas de Conocimiento (SVG)",
+    "dl_languages": "Series de Idiomas (SVG)",
+    "dl_guides": "Guías y Documentos",
+    "dl_founders": "Carta del Fundador (DOCX)",
+    "footer_sub": "El Mensaje Paciente · 2026",
+    "footer_copy": "CC BY-SA 4.0 · Copia libremente · Comparte libremente · Mejora libremente · Sin permiso necesario",
+    "scroll": "Desplazar",
+    "of_plates": "placas completas",
+    "of_series": "series de idiomas",
+    "of_total": "de"
+  },
+  "ar": {
+    "lang_name": "العربية",
+    "dir": "rtl",
+    "nav_plates": "اللوحات",
+    "nav_containers": "الحاويات",
+    "nav_concords": "التوافقات العشر",
+    "nav_downloads": "التنزيلات",
+    "nav_github": "GitHub",
+    "hero_eyebrow": "مفتوح المصدر · CC BY-SA 4.0 · مجاني إلى الأبد",
+    "hero_subtitle": "الرسالة الصبورة",
+    "hero_body": "نظام متكامل مفتوح المصدر من تصاميم لوحات النيكل الجاهزة للنقش بالليزر، لكبسولات زمنية تهدف إلى الحفاظ على المعرفة البشرية عبر الكوارث — قابلة للقراءة من قِبل من يجدها بعد 200 إلى 2000 عام دون أي لغة مشتركة أو سياق ثقافي.",
+    "hero_tagline": "اشتره · ابنه · ادفنه · لشخص لن تلتقي به أبدًا",
+    "btn_plates": "عرض اللوحات",
+    "btn_downloads": "تنزيلات مجانية",
+    "mission_quote": "\"صُنع هذا لأجلك، مجانًا، من قِبل أشخاص اهتموا بالمستقبل. استخدمه معًا. ابنِ شيئًا أفضل. اصنع المزيد من الكبسولات للآخرين.\"",
+    "mission_attr": "العبارة الجسر — منقوشة على كل لوحة، بكل لغة",
+    "sec_plates": "اللوحات",
+    "plates_h2": "الرسالة الصبورة",
+    "plates_p1": "كل لوحة هي ملف SVG جاهز للنقش بالليزر، بتنسيق عمودي 480×680 بكسل، مصمم للنيكل أو الفولاذ المقاوم للصدأ. تستخدم كل لوحة خطوطًا سوداء فقط — بلا تعبئة، بلا لون — محسّنة لأقصى قدر من الوضوح على أي مقياس وأي تقنية قراءة مستقبلية.",
+    "plates_p2": "تشمل المجموعة الكاملة إحدى عشرة لوحة معرفية تغطي من البقاء إلى الميتافيزيقا، وأربع لوحات لكل لغة عبر خمسين لغة بشرية — 214 لوحة إجمالًا بالإضافة إلى أقراص صوتية تناظرية.",
+    "sub_knowledge": "لوحات المعرفة",
+    "sub_languages": "سلاسل اللغات",
+    "plate_download": "تنزيل SVG",
+    "lang_plate_a": "الكتابة",
+    "lang_plate_b": "الصوتيات",
+    "lang_plate_c": "القواعد",
+    "lang_plate_d": "النص",
+    "sec_containers": "تصاميم الكبسولات",
+    "containers_h2": "سبعة مستويات من الحاويات",
+    "containers_p": "أي مجموعة لوحات تناسب أي حاوية. المستويات تصف المتانة والتكلفة، لا المحتوى. من جرة طينية محروقة بنار الحطب إلى قبو جرانيتي مبطن بالرصاص — كل تصميم موثق بالكامل ومجاني للبناء.",
+    "sec_concords": "التوافقات العشر",
+    "concords_h2": "مبادئ كونية",
+    "concords_p": "مقطّرة من نقاط التقاء الحضارات البشرية عبر كل التاريخ المسجّل. هذه نقاط اتفاق لا فرض — اكتشفها أشخاص لم يتواصلوا مع بعضهم بشكل مستقل عبر آلاف السنين. تقاطعها هو الدليل على صحتها.",
+    "concord_1": "لكل شخص قيمة متأصلة.",
+    "concord_2": "قِس الحضارة بأكثر ضعفائها.",
+    "concord_3": "العالم الحي ليس موردًا.",
+    "concord_4": "المعرفة ملك مشترك.",
+    "concord_5": "يجب أن تُحمل السلطة بخفة.",
+    "concord_6": "التعاون أقوى من التنافس.",
+    "concord_7": "المستقبل لا صوت له. تحدث عنه.",
+    "concord_8": "الجمال ليس زينة.",
+    "concord_9": "الحزن ثمن الحب. ادفعه.",
+    "concord_10": "لست الأول. لن تكون الأخير.",
+    "sec_downloads": "تنزيلات مجانية",
+    "downloads_h2": "كل شيء مجاني",
+    "downloads_p": "كل ملف في هذا المشروع صادر تحت CC BY-SA 4.0. انسخها. ترجمها. حسّنها. وزّعها على الجميع. لا إذن مطلوب. لا تسجيل. بلا تكلفة. المعرفة تنتمي لمن يجدها.",
+    "dl_knowledge": "لوحات المعرفة (SVG)",
+    "dl_languages": "سلاسل اللغات (SVG)",
+    "dl_guides": "الأدلة والوثائق",
+    "dl_founders": "رسالة المؤسس (DOCX)",
+    "footer_sub": "الرسالة الصبورة · 2026",
+    "footer_copy": "CC BY-SA 4.0 · انسخ بحرية · شارك بحرية · حسّن بحرية · لا إذن مطلوب",
+    "scroll": "تمرير",
+    "of_plates": "لوحة مكتملة",
+    "of_series": "سلسلة لغوية",
+    "of_total": "من"
+  }
+};
+
+  let currentLang = localStorage.getItem('rf-lang') || 'en';
+
+  function setLang(lang) {
+    if (!TRANSLATIONS[lang]) return;
+    currentLang = lang;
+    localStorage.setItem('rf-lang', lang);
+    const t = TRANSLATIONS[lang];
+
+    // Direction
+    document.documentElement.lang = lang;
+    document.documentElement.dir = t.dir || 'ltr';
+
+    // All i18n elements
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.dataset.i18n;
+      if (t[key] !== undefined) el.innerHTML = t[key];
+    });
+
+    // Active button
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.lang === lang);
+    });
+  }
+
+  // Init
+  document.querySelectorAll('.lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => setLang(btn.dataset.lang));
+  });
+  setLang(currentLang);
+
   // Scroll reveal
   const reveals = document.querySelectorAll('.reveal');
   const observer = new IntersectionObserver((entries) => {
@@ -1409,9 +1720,9 @@
         observer.unobserve(entry.target);
       }
     });
-  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  }, { threshold: 0.08, rootMargin: '0px 0px -30px 0px' });
   reveals.forEach(el => observer.observe(el));
-</script>
 
+</script>
 </body>
 </html>

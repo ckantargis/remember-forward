@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lg { font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GREEK — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 21C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— INFLECTED LANGUAGE — CASES, GENDERS, VERB SYSTEM —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Greek is HIGHLY INFLECTED: nouns, adjectives, and verbs all change their endings.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >Modern Greek: 4 cases (nominative, genitive, accusative, vocative). Ancient Greek: +dative (5).</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >3 grammatical genders: masculine (ο), feminine (η), neuter (το). Articles indicate class.</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— DEFINITE ARTICLE — THE KEY TO NOUN CLASS —</text>
+<text x="240" y="121" text-anchor="middle" class="L" >The definite article agrees with gender and case. Masculine/Feminine/Neuter:</text>
+<text x="30" y="131" text-anchor="middle" class="Lx" >Case</text>
+<text x="100" y="131" text-anchor="middle" class="Lx" >Masc.</text>
+<text x="155" y="131" text-anchor="middle" class="Lx" >Fem.</text>
+<text x="210" y="131" text-anchor="middle" class="Lx" >Neut.</text>
+<text x="265" y="131" text-anchor="middle" class="Lx" >Masc.PL</text>
+<text x="330" y="131" text-anchor="middle" class="Lx" >Fem.PL</text>
+<text x="400" y="131" text-anchor="middle" class="Lx" >Neut.PL</text>
+<text x="30" y="144" text-anchor="middle" class="Ls" >Nominative</text>
+<text x="100" y="144" text-anchor="middle" class="Ls" >ο</text>
+<text x="155" y="144" text-anchor="middle" class="Ls" >η</text>
+<text x="210" y="144" text-anchor="middle" class="Ls" >το</text>
+<text x="265" y="144" text-anchor="middle" class="Ls" >οι</text>
+<text x="330" y="144" text-anchor="middle" class="Ls" >οι</text>
+<text x="400" y="144" text-anchor="middle" class="Ls" >τα</text>
+<text x="30" y="157" text-anchor="middle" class="Ls" >Genitive</text>
+<text x="100" y="157" text-anchor="middle" class="Ls" >του</text>
+<text x="155" y="157" text-anchor="middle" class="Ls" >της</text>
+<text x="210" y="157" text-anchor="middle" class="Ls" >του</text>
+<text x="265" y="157" text-anchor="middle" class="Ls" >των</text>
+<text x="330" y="157" text-anchor="middle" class="Ls" >των</text>
+<text x="400" y="157" text-anchor="middle" class="Ls" >των</text>
+<text x="30" y="170" text-anchor="middle" class="Ls" >Accusative</text>
+<text x="100" y="170" text-anchor="middle" class="Ls" >τον</text>
+<text x="155" y="170" text-anchor="middle" class="Ls" >την</text>
+<text x="210" y="170" text-anchor="middle" class="Ls" >το</text>
+<text x="265" y="170" text-anchor="middle" class="Ls" >τους</text>
+<text x="330" y="170" text-anchor="middle" class="Ls" >τις</text>
+<text x="400" y="170" text-anchor="middle" class="Ls" >τα</text>
+<text x="30" y="183" text-anchor="middle" class="Ls" >Vocative</text>
+<text x="100" y="183" text-anchor="middle" class="Ls" >—</text>
+<text x="155" y="183" text-anchor="middle" class="Ls" >—</text>
+<text x="210" y="183" text-anchor="middle" class="Ls" >—</text>
+<text x="265" y="183" text-anchor="middle" class="Ls" >—</text>
+<text x="330" y="183" text-anchor="middle" class="Ls" >—</text>
+<text x="400" y="183" text-anchor="middle" class="Ls" >—</text>
+<line x1="20" y1="200" x2="460" y2="200" stroke="black" stroke-width="0.3"/>
+<text x="240" y="208" text-anchor="middle" class="H" >— VERB CONJUGATION — PRESENT ACTIVE (λύω / λύνω — "to free/solve") —</text>
+<text x="240" y="217" text-anchor="middle" class="Ls" >Ancient Greek (Attic)  vs  Modern Greek — present active indicative</text>
+<text x="30" y="228" text-anchor="middle" class="Lx" >Person</text>
+<text x="100" y="228" text-anchor="middle" class="Lx" >Ancient</text>
+<text x="160" y="228" text-anchor="middle" class="Lx" >Translit.</text>
+<text x="230" y="228" text-anchor="middle" class="Lx" >Modern</text>
+<text x="295" y="228" text-anchor="middle" class="Lx" >Translit.</text>
+<text x="390" y="228" text-anchor="middle" class="Lx" >Meaning</text>
+<text x="30" y="238" text-anchor="middle" class="Lx" >1sg</text>
+<text x="100" y="238" text-anchor="middle" class="Ls" >λύω</text>
+<text x="160" y="238" text-anchor="middle" class="Lx" >lýō</text>
+<text x="230" y="238" text-anchor="middle" class="Ls" >λύνω</text>
+<text x="295" y="238" text-anchor="middle" class="Lx" >líno</text>
+<text x="390" y="238" text-anchor="middle" class="Lx" >I free/solve</text>
+<text x="30" y="251" text-anchor="middle" class="Lx" >2sg</text>
+<text x="100" y="251" text-anchor="middle" class="Ls" >λύεις</text>
+<text x="160" y="251" text-anchor="middle" class="Lx" >lýeis</text>
+<text x="230" y="251" text-anchor="middle" class="Ls" >λύνεις</text>
+<text x="295" y="251" text-anchor="middle" class="Lx" >líneis</text>
+<text x="390" y="251" text-anchor="middle" class="Lx" >you free</text>
+<text x="30" y="264" text-anchor="middle" class="Lx" >3sg</text>
+<text x="100" y="264" text-anchor="middle" class="Ls" >λύει</text>
+<text x="160" y="264" text-anchor="middle" class="Lx" >lýei</text>
+<text x="230" y="264" text-anchor="middle" class="Ls" >λύνει</text>
+<text x="295" y="264" text-anchor="middle" class="Lx" >línei</text>
+<text x="390" y="264" text-anchor="middle" class="Lx" >he/she frees</text>
+<text x="30" y="277" text-anchor="middle" class="Lx" >1pl</text>
+<text x="100" y="277" text-anchor="middle" class="Ls" >λύομεν</text>
+<text x="160" y="277" text-anchor="middle" class="Lx" >lýomen</text>
+<text x="230" y="277" text-anchor="middle" class="Ls" >λύνουμε</text>
+<text x="295" y="277" text-anchor="middle" class="Lx" >línoume</text>
+<text x="390" y="277" text-anchor="middle" class="Lx" >we free</text>
+<text x="30" y="290" text-anchor="middle" class="Lx" >2pl</text>
+<text x="100" y="290" text-anchor="middle" class="Ls" >λύετε</text>
+<text x="160" y="290" text-anchor="middle" class="Lx" >lýete</text>
+<text x="230" y="290" text-anchor="middle" class="Ls" >λύνετε</text>
+<text x="295" y="290" text-anchor="middle" class="Lx" >línete</text>
+<text x="390" y="290" text-anchor="middle" class="Lx" >you (pl) free</text>
+<text x="30" y="303" text-anchor="middle" class="Lx" >3pl</text>
+<text x="100" y="303" text-anchor="middle" class="Ls" >λύουσι(ν)</text>
+<text x="160" y="303" text-anchor="middle" class="Lx" >lýousi</text>
+<text x="230" y="303" text-anchor="middle" class="Ls" >λύνουν</text>
+<text x="295" y="303" text-anchor="middle" class="Lx" >línoun</text>
+<text x="390" y="303" text-anchor="middle" class="Lx" >they free</text>
+<line x1="20" y1="320" x2="460" y2="320" stroke="black" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H" >— NOUN DECLENSION — ANCIENT: ἄνθρωπος (HUMAN BEING, MASC.) —</text>
+<text x="40" y="338" text-anchor="middle" class="Lx" >Nom.</text>
+<text x="110" y="338" text-anchor="middle" class="Ls" >ἄνθρωπος</text>
+<text x="195" y="338" text-anchor="middle" class="Lx" >anthrōpos</text>
+<text x="360" y="338" text-anchor="middle" class="Lx" >the human being (subject)</text>
+<text x="40" y="350" text-anchor="middle" class="Lx" >Gen.</text>
+<text x="110" y="350" text-anchor="middle" class="Ls" >ἀνθρώπου</text>
+<text x="195" y="350" text-anchor="middle" class="Lx" >anthrōpou</text>
+<text x="360" y="350" text-anchor="middle" class="Lx" >of the human being</text>
+<text x="40" y="362" text-anchor="middle" class="Lx" >Dat.</text>
+<text x="110" y="362" text-anchor="middle" class="Ls" >ἀνθρώπῳ</text>
+<text x="195" y="362" text-anchor="middle" class="Lx" >anthrōpōi</text>
+<text x="360" y="362" text-anchor="middle" class="Lx" >to/for the human being</text>
+<text x="40" y="374" text-anchor="middle" class="Lx" >Acc.</text>
+<text x="110" y="374" text-anchor="middle" class="Ls" >ἄνθρωπον</text>
+<text x="195" y="374" text-anchor="middle" class="Lx" >anthrōpon</text>
+<text x="360" y="374" text-anchor="middle" class="Lx" >the human being (object)</text>
+<text x="40" y="386" text-anchor="middle" class="Lx" >Voc.</text>
+<text x="110" y="386" text-anchor="middle" class="Ls" >ἄνθρωπε</text>
+<text x="195" y="386" text-anchor="middle" class="Lx" >anthrōpe</text>
+<text x="360" y="386" text-anchor="middle" class="Lx" >O human being! (address)</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="410" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS (MODERN GREEK) —</text>
+<text x="80" y="420" text-anchor="middle" class="Ls" >ναι / όχι</text>
+<text x="180" y="420" text-anchor="middle" class="Lx" >nai / óchi</text>
+<text x="250" y="420" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="320" y="420" text-anchor="middle" class="Ls" >ευχαριστώ</text>
+<text x="420" y="420" text-anchor="middle" class="Lx" >efcharistó</text>
+<text x="490" y="420" text-anchor="middle" class="Lx" >thank you</text>
+<text x="80" y="432" text-anchor="middle" class="Ls" >παρακαλώ / συγγνώμη</text>
+<text x="180" y="432" text-anchor="middle" class="Lx" >parakaló / sygnómi</text>
+<text x="250" y="432" text-anchor="middle" class="Lx" >please / sorry</text>
+<text x="320" y="432" text-anchor="middle" class="Ls" >εγώ / εσύ</text>
+<text x="420" y="432" text-anchor="middle" class="Lx" >egó / esý</text>
+<text x="490" y="432" text-anchor="middle" class="Lx" >I / you</text>
+<text x="80" y="444" text-anchor="middle" class="Ls" >αυτός / αυτή</text>
+<text x="180" y="444" text-anchor="middle" class="Lx" >aftós / aftí</text>
+<text x="250" y="444" text-anchor="middle" class="Lx" >he / she</text>
+<text x="320" y="444" text-anchor="middle" class="Ls" >εδώ / εκεί</text>
+<text x="420" y="444" text-anchor="middle" class="Lx" >edó / ekéi</text>
+<text x="490" y="444" text-anchor="middle" class="Lx" >here / there</text>
+<text x="80" y="456" text-anchor="middle" class="Ls" >που</text>
+<text x="180" y="456" text-anchor="middle" class="Lx" >pou</text>
+<text x="250" y="456" text-anchor="middle" class="Lx" >where / who</text>
+<text x="320" y="456" text-anchor="middle" class="Ls" >τι</text>
+<text x="420" y="456" text-anchor="middle" class="Lx" >ti</text>
+<text x="490" y="456" text-anchor="middle" class="Lx" >what</text>
+<text x="80" y="468" text-anchor="middle" class="Ls" >πότε</text>
+<text x="180" y="468" text-anchor="middle" class="Lx" >póte</text>
+<text x="250" y="468" text-anchor="middle" class="Lx" >when</text>
+<text x="320" y="468" text-anchor="middle" class="Ls" >γιατί</text>
+<text x="420" y="468" text-anchor="middle" class="Lx" >giati</text>
+<text x="490" y="468" text-anchor="middle" class="Lx" >why</text>
+<text x="80" y="480" text-anchor="middle" class="Ls" >νερό</text>
+<text x="180" y="480" text-anchor="middle" class="Lx" >neró</text>
+<text x="250" y="480" text-anchor="middle" class="Lx" >water</text>
+<text x="320" y="480" text-anchor="middle" class="Ls" >φαγητό</text>
+<text x="420" y="480" text-anchor="middle" class="Lx" >fagitó</text>
+<text x="490" y="480" text-anchor="middle" class="Lx" >food</text>
+<text x="80" y="492" text-anchor="middle" class="Ls" >άνθρωπος</text>
+<text x="180" y="492" text-anchor="middle" class="Lx" >ánthrōpos</text>
+<text x="250" y="492" text-anchor="middle" class="Lx" >human being</text>
+<text x="320" y="492" text-anchor="middle" class="Ls" >σπίτι</text>
+<text x="420" y="492" text-anchor="middle" class="Lx" >spíti</text>
+<text x="490" y="492" text-anchor="middle" class="Lx" >house/home</text>
+<text x="80" y="504" text-anchor="middle" class="Ls" >δρόμος</text>
+<text x="180" y="504" text-anchor="middle" class="Lx" >drómos</text>
+<text x="250" y="504" text-anchor="middle" class="Lx" >road/way</text>
+<text x="320" y="504" text-anchor="middle" class="Ls" >ημέρα / νύχτα</text>
+<text x="420" y="504" text-anchor="middle" class="Lx" >iméra / níchta</text>
+<text x="490" y="504" text-anchor="middle" class="Lx" >day / night</text>
+<text x="80" y="516" text-anchor="middle" class="Ls" >βιβλίο</text>
+<text x="180" y="516" text-anchor="middle" class="Lx" >vivlío</text>
+<text x="250" y="516" text-anchor="middle" class="Lx" >book</text>
+<text x="320" y="516" text-anchor="middle" class="Ls" >γλώσσα</text>
+<text x="420" y="516" text-anchor="middle" class="Lx" >glóssa</text>
+<text x="490" y="516" text-anchor="middle" class="Lx" >language/tongue</text>
+<text x="80" y="528" text-anchor="middle" class="Ls" >κόσμος</text>
+<text x="180" y="528" text-anchor="middle" class="Lx" >kósmos</text>
+<text x="250" y="528" text-anchor="middle" class="Lx" >world/cosmos</text>
+<text x="320" y="528" text-anchor="middle" class="Ls" >αγάπη</text>
+<text x="420" y="528" text-anchor="middle" class="Lx" >agápi</text>
+<text x="490" y="528" text-anchor="middle" class="Lx" >love</text>
+<text x="80" y="540" text-anchor="middle" class="Ls" >μεγάλος / μικρός</text>
+<text x="180" y="540" text-anchor="middle" class="Lx" >megálos / mikrós</text>
+<text x="250" y="540" text-anchor="middle" class="Lx" >big / small</text>
+<text x="320" y="540" text-anchor="middle" class="Ls" >καλός / κακός</text>
+<text x="420" y="540" text-anchor="middle" class="Lx" >kalós / kakós</text>
+<text x="490" y="540" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="80" y="552" text-anchor="middle" class="Ls" >νέος / παλιός</text>
+<text x="180" y="552" text-anchor="middle" class="Lx" >néos / palios</text>
+<text x="250" y="552" text-anchor="middle" class="Lx" >new / old</text>
+<text x="320" y="552" text-anchor="middle" class="Ls" >μέλλον</text>
+<text x="420" y="552" text-anchor="middle" class="Lx" >méllon</text>
+<text x="490" y="552" text-anchor="middle" class="Lx" >future (neut. noun)</text>
+<text x="80" y="564" text-anchor="middle" class="Ls" >θυμάμαι / θυμούμαι</text>
+<text x="180" y="564" text-anchor="middle" class="Lx" >thimámai</text>
+<text x="250" y="564" text-anchor="middle" class="Lx" >I remember</text>
+<line x1="20" y1="580" x2="460" y2="580" stroke="black" stroke-width="0.3"/>
+<text x="240" y="588" text-anchor="middle" class="H" >— WORD ORDER AND SYNTAX —</text>
+<text x="240" y="598" text-anchor="middle" class="Ls" >Greek word order is flexible (due to inflection indicating roles) but SVO is most common.</text>
+<text x="240" y="607" text-anchor="middle" class="Ls" >The famous Greek copula: είμαι (I am) — Είμαι άνθρωπος. "I am a human being."</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 21 · GREEK · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

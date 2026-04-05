@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lj { font-size:14px; }
+  .Ljs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >JAPANESE — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 18D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — GREETING AND INTRODUCTION —</text>
+<text x="240" y="77" text-anchor="middle" class="Ljs" >はじめまして。わたしは　にんげんです。</text>
+<text x="240" y="87" text-anchor="middle" class="Lx" >Hajimemashite.  Watashi wa  ningen  desu.</text>
+<text x="240" y="95" text-anchor="middle" class="Lx" >How-do-you-do  I     TOPIC  human  am/be-POLITE</text>
+<text x="240" y="103" text-anchor="middle" class="Ls" >"How do you do. I am a human being."</text>
+<text x="240" y="112" text-anchor="middle" class="Ljs" >ことばは　きおくです。きおくは　みらいへの　てがみです。</text>
+<text x="240" y="122" text-anchor="middle" class="Lx" >Kotoba wa  kioku  desu.  Kioku wa  mirai e-no  tegami  desu.</text>
+<text x="240" y="130" text-anchor="middle" class="Lx" >Language TOP memory be.   Memory TOP future to-GEN letter  be.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >"Language is memory. Memory is a letter to the future."</text>
+<line x1="20" y1="145" x2="460" y2="145" stroke="black" stroke-width="0.3"/>
+<text x="240" y="153" text-anchor="middle" class="H" >— PASSAGE 2 — NATURE PASSAGE —</text>
+<text x="240" y="163" text-anchor="middle" class="Ljs" >やまは　たかく、かわは　ふかい。</text>
+<text x="240" y="173" text-anchor="middle" class="Lx" >Yama wa  takaku,  kawa wa  fukai.</text>
+<text x="240" y="181" text-anchor="middle" class="Lx" >Mountain TOP tall-CONJ  river TOP deep.</text>
+<text x="240" y="189" text-anchor="middle" class="Ls" >"The mountain is high, the river is deep."</text>
+<text x="240" y="198" text-anchor="middle" class="Ljs" >はるに　はなが　さき、ふゆに　ゆきが　ふる。</text>
+<text x="240" y="208" text-anchor="middle" class="Lx" >Haru-ni  hana-ga  saki,  fuyu-ni  yuki-ga  furu.</text>
+<text x="240" y="216" text-anchor="middle" class="Lx" >Spring-LOC flower-SUBJ bloom,  winter-LOC snow-SUBJ fall.</text>
+<text x="240" y="224" text-anchor="middle" class="Ls" >"In spring flowers bloom; in winter snow falls."</text>
+<line x1="20" y1="231" x2="460" y2="231" stroke="black" stroke-width="0.3"/>
+<text x="240" y="239" text-anchor="middle" class="H" >— PASSAGE 3 — TIME AND MEMORY (CLASSICAL STYLE) —</text>
+<text x="240" y="249" text-anchor="middle" class="Ljs" >ゆく　かわの　ながれは　たえずして…</text>
+<text x="240" y="259" text-anchor="middle" class="Lx" >Yuku  kawa-no  nagare wa  taezu-shite…</text>
+<text x="240" y="267" text-anchor="middle" class="Lx" >Going river-GEN flow  TOP  cease-not-CONJ…</text>
+<text x="240" y="275" text-anchor="middle" class="Ls" >"The flow of a passing river never ceases…"  — Kamo no Chōmei, Hōjōki (1212)</text>
+<text x="240" y="284" text-anchor="middle" class="Ljs" >むかしの　ひとの　こころも、いまの　わたしたちの　こころも、おなじ。</text>
+<text x="240" y="294" text-anchor="middle" class="Lx" >Mukashi-no hito-no kokoro mo, ima-no watashitachi-no kokoro mo, onaji.</text>
+<text x="240" y="302" text-anchor="middle" class="Lx" >Old-GEN  person-GEN heart also, now-GEN we-GEN  heart also, same.</text>
+<text x="240" y="310" text-anchor="middle" class="Ls" >"The hearts of people of old and the hearts of us today are the same."</text>
+<line x1="20" y1="317" x2="460" y2="317" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H" >— PASSAGE 4 — WISDOM SAYING —</text>
+<text x="240" y="335" text-anchor="middle" class="Ljs" >なせばなる。なさねばならぬ。なにごとも。</text>
+<text x="240" y="345" text-anchor="middle" class="Lx" >Naseba naru.  Nasaneba naranu.  Nanigoto mo.</text>
+<text x="240" y="353" text-anchor="middle" class="Lx" >Do-if become.  Do-not-if become-not.  Any-thing also.</text>
+<text x="240" y="361" text-anchor="middle" class="Ls" >"If you try, you can. If you do not try, you cannot. In anything."  — Uesugi Yōzan</text>
+<line x1="20" y1="369" x2="460" y2="369" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="390" text-anchor="middle" class="Ljs" >この　ことばは　あなたのために、みらいを　おぼえた　ひとびとによって、じゆうに　つくられた。</text>
+<text x="240" y="404" text-anchor="middle" class="Lx" >Kono kotoba wa anata-no tame-ni, mirai-wo oboeta hitobito-ni-yotte, jiyū-ni tsukureta.</text>
+<text x="240" y="413" text-anchor="middle" class="Lx" >This word/message TOP you-GEN for-PURP, future-ACC remembered people-by, freely made-was.</text>
+<text x="240" y="423" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="430" x2="460" y2="430" stroke="black" stroke-width="0.3"/>
+<text x="240" y="439" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN JAPANESE —</text>
+<text x="240" y="450" text-anchor="middle" class="L" >Japanese expresses "forward in time" as 未来 mirai (not-yet-arrived) or 将来 shōrai (soon-coming).</text>
+<text x="240" y="461" text-anchor="middle" class="Ls" >mirai 未来: "not-yet + arrived" — the future as what has not yet come; used for distant/abstract future.</text>
+<text x="240" y="471" text-anchor="middle" class="Ls" >shōrai 将来: "about to + come" — the future as what is on its way; personal future, career, near-term.</text>
+<text x="240" y="481" text-anchor="middle" class="Ls" >The phrase uses おぼえた oboeta (remembered, past tense) with 未来 mirai — a deliberate paradox:</text>
+<text x="240" y="491" text-anchor="middle" class="Ls" >"people who remembered the future" — echoing the project name: Remember Forward (未来へ向けて記憶する).</text>
+<text x="240" y="501" text-anchor="middle" class="Ls" >に よって ni yotte: "by means of / by (agent)" — the grammatical marker for passive agency in Japanese.</text>
+<text x="240" y="511" text-anchor="middle" class="Ls" >じゆうに jiyū-ni: "freely" — literally "free + ADV" — freedom from cost and from constraint.</text>
+<line x1="20" y1="520" x2="460" y2="520" stroke="black" stroke-width="0.3"/>
+<text x="240" y="528" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="538" text-anchor="middle" class="Ls" >If the kana symbols are unfamiliar: consult Plate 18A for the full hiragana and katakana syllabary tables.</text>
+<text x="240" y="547" text-anchor="middle" class="Ls" >Each symbol represents one syllable (mora). Read left to right, top to bottom in modern printed text.</text>
+<text x="240" y="556" text-anchor="middle" class="Ls" >Romaji (Latin-alphabet transcription) is provided line-by-line above for all passages on this plate.</text>
+<text x="240" y="565" text-anchor="middle" class="Ls" >Japanese is spoken by ~125 million people, primarily in Japan. It is a language isolate — no confirmed relatives.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 18 · JAPANESE · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

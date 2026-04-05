@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lj { font-size:14px; }
+  .Ljs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >JAPANESE — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 18A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THREE SCRIPTS — USED TOGETHER —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Japanese uses three interlocking scripts simultaneously in standard writing.</text>
+<text x="80" y="90" text-anchor="middle" class="Ls" >Hiragana ひらがな</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >Katakana カタカナ</text>
+<text x="400" y="90" text-anchor="middle" class="Ls" >Kanji 漢字</text>
+<text x="80" y="99" text-anchor="middle" class="Lx" >46 base syllables, native words</text>
+<text x="240" y="99" text-anchor="middle" class="Lx" >46 base syllables, loanwords</text>
+<text x="400" y="99" text-anchor="middle" class="Lx" >Chinese-origin logographs</text>
+<line x1="20" y1="107" x2="460" y2="107" stroke="black" stroke-width="0.3"/>
+<text x="240" y="116" text-anchor="middle" class="H" >— HIRAGANA TABLE — 46 BASE SYLLABLES —</text>
+<text x="240" y="125" text-anchor="middle" class="Lx" >Rows: vowel order a-i-u-e-o · Columns: consonant series</text>
+<text x="30" y="133" text-anchor="middle" class="Lx" >C\V</text>
+<text x="100" y="133" text-anchor="middle" class="Lx" >a</text>
+<text x="166" y="133" text-anchor="middle" class="Lx" >i</text>
+<text x="232" y="133" text-anchor="middle" class="Lx" >u</text>
+<text x="298" y="133" text-anchor="middle" class="Lx" >e</text>
+<text x="364" y="133" text-anchor="middle" class="Lx" >o</text>
+<text x="30" y="143" text-anchor="middle" class="Lx" >—</text>
+<text x="100" y="141" text-anchor="middle" class="Ljs" >あ</text>
+<text x="100" y="148" text-anchor="middle" class="Lx" >a</text>
+<text x="166" y="141" text-anchor="middle" class="Ljs" >い</text>
+<text x="166" y="148" text-anchor="middle" class="Lx" >i</text>
+<text x="232" y="141" text-anchor="middle" class="Ljs" >う</text>
+<text x="232" y="148" text-anchor="middle" class="Lx" >u</text>
+<text x="298" y="141" text-anchor="middle" class="Ljs" >え</text>
+<text x="298" y="148" text-anchor="middle" class="Lx" >e</text>
+<text x="364" y="141" text-anchor="middle" class="Ljs" >お</text>
+<text x="364" y="148" text-anchor="middle" class="Lx" >o</text>
+<text x="30" y="157" text-anchor="middle" class="Lx" >k</text>
+<text x="100" y="155" text-anchor="middle" class="Ljs" >か</text>
+<text x="100" y="162" text-anchor="middle" class="Lx" >ka</text>
+<text x="166" y="155" text-anchor="middle" class="Ljs" >き</text>
+<text x="166" y="162" text-anchor="middle" class="Lx" >ki</text>
+<text x="232" y="155" text-anchor="middle" class="Ljs" >く</text>
+<text x="232" y="162" text-anchor="middle" class="Lx" >ku</text>
+<text x="298" y="155" text-anchor="middle" class="Ljs" >け</text>
+<text x="298" y="162" text-anchor="middle" class="Lx" >ke</text>
+<text x="364" y="155" text-anchor="middle" class="Ljs" >こ</text>
+<text x="364" y="162" text-anchor="middle" class="Lx" >ko</text>
+<text x="30" y="171" text-anchor="middle" class="Lx" >s</text>
+<text x="100" y="169" text-anchor="middle" class="Ljs" >さ</text>
+<text x="100" y="176" text-anchor="middle" class="Lx" >sa</text>
+<text x="166" y="169" text-anchor="middle" class="Ljs" >し</text>
+<text x="166" y="176" text-anchor="middle" class="Lx" >shi</text>
+<text x="232" y="169" text-anchor="middle" class="Ljs" >す</text>
+<text x="232" y="176" text-anchor="middle" class="Lx" >su</text>
+<text x="298" y="169" text-anchor="middle" class="Ljs" >せ</text>
+<text x="298" y="176" text-anchor="middle" class="Lx" >se</text>
+<text x="364" y="169" text-anchor="middle" class="Ljs" >そ</text>
+<text x="364" y="176" text-anchor="middle" class="Lx" >so</text>
+<text x="30" y="185" text-anchor="middle" class="Lx" >t</text>
+<text x="100" y="183" text-anchor="middle" class="Ljs" >た</text>
+<text x="100" y="190" text-anchor="middle" class="Lx" >ta</text>
+<text x="166" y="183" text-anchor="middle" class="Ljs" >ち</text>
+<text x="166" y="190" text-anchor="middle" class="Lx" >chi</text>
+<text x="232" y="183" text-anchor="middle" class="Ljs" >つ</text>
+<text x="232" y="190" text-anchor="middle" class="Lx" >tsu</text>
+<text x="298" y="183" text-anchor="middle" class="Ljs" >て</text>
+<text x="298" y="190" text-anchor="middle" class="Lx" >te</text>
+<text x="364" y="183" text-anchor="middle" class="Ljs" >と</text>
+<text x="364" y="190" text-anchor="middle" class="Lx" >to</text>
+<text x="30" y="199" text-anchor="middle" class="Lx" >n</text>
+<text x="100" y="197" text-anchor="middle" class="Ljs" >な</text>
+<text x="100" y="204" text-anchor="middle" class="Lx" >na</text>
+<text x="166" y="197" text-anchor="middle" class="Ljs" >に</text>
+<text x="166" y="204" text-anchor="middle" class="Lx" >ni</text>
+<text x="232" y="197" text-anchor="middle" class="Ljs" >ぬ</text>
+<text x="232" y="204" text-anchor="middle" class="Lx" >nu</text>
+<text x="298" y="197" text-anchor="middle" class="Ljs" >ね</text>
+<text x="298" y="204" text-anchor="middle" class="Lx" >ne</text>
+<text x="364" y="197" text-anchor="middle" class="Ljs" >の</text>
+<text x="364" y="204" text-anchor="middle" class="Lx" >no</text>
+<text x="30" y="213" text-anchor="middle" class="Lx" >h</text>
+<text x="100" y="211" text-anchor="middle" class="Ljs" >は</text>
+<text x="100" y="218" text-anchor="middle" class="Lx" >ha</text>
+<text x="166" y="211" text-anchor="middle" class="Ljs" >ひ</text>
+<text x="166" y="218" text-anchor="middle" class="Lx" >hi</text>
+<text x="232" y="211" text-anchor="middle" class="Ljs" >ふ</text>
+<text x="232" y="218" text-anchor="middle" class="Lx" >fu</text>
+<text x="298" y="211" text-anchor="middle" class="Ljs" >へ</text>
+<text x="298" y="218" text-anchor="middle" class="Lx" >he</text>
+<text x="364" y="211" text-anchor="middle" class="Ljs" >ほ</text>
+<text x="364" y="218" text-anchor="middle" class="Lx" >ho</text>
+<text x="30" y="227" text-anchor="middle" class="Lx" >m</text>
+<text x="100" y="225" text-anchor="middle" class="Ljs" >ま</text>
+<text x="100" y="232" text-anchor="middle" class="Lx" >ma</text>
+<text x="166" y="225" text-anchor="middle" class="Ljs" >み</text>
+<text x="166" y="232" text-anchor="middle" class="Lx" >mi</text>
+<text x="232" y="225" text-anchor="middle" class="Ljs" >む</text>
+<text x="232" y="232" text-anchor="middle" class="Lx" >mu</text>
+<text x="298" y="225" text-anchor="middle" class="Ljs" >め</text>
+<text x="298" y="232" text-anchor="middle" class="Lx" >me</text>
+<text x="364" y="225" text-anchor="middle" class="Ljs" >も</text>
+<text x="364" y="232" text-anchor="middle" class="Lx" >mo</text>
+<text x="30" y="241" text-anchor="middle" class="Lx" >y</text>
+<text x="100" y="239" text-anchor="middle" class="Ljs" >や</text>
+<text x="100" y="246" text-anchor="middle" class="Lx" >ya</text>
+<text x="166" y="241" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="239" text-anchor="middle" class="Ljs" >ゆ</text>
+<text x="232" y="246" text-anchor="middle" class="Lx" >yu</text>
+<text x="298" y="241" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="239" text-anchor="middle" class="Ljs" >よ</text>
+<text x="364" y="246" text-anchor="middle" class="Lx" >yo</text>
+<text x="30" y="255" text-anchor="middle" class="Lx" >r</text>
+<text x="100" y="253" text-anchor="middle" class="Ljs" >ら</text>
+<text x="100" y="260" text-anchor="middle" class="Lx" >ra</text>
+<text x="166" y="253" text-anchor="middle" class="Ljs" >り</text>
+<text x="166" y="260" text-anchor="middle" class="Lx" >ri</text>
+<text x="232" y="253" text-anchor="middle" class="Ljs" >る</text>
+<text x="232" y="260" text-anchor="middle" class="Lx" >ru</text>
+<text x="298" y="253" text-anchor="middle" class="Ljs" >れ</text>
+<text x="298" y="260" text-anchor="middle" class="Lx" >re</text>
+<text x="364" y="253" text-anchor="middle" class="Ljs" >ろ</text>
+<text x="364" y="260" text-anchor="middle" class="Lx" >ro</text>
+<text x="30" y="269" text-anchor="middle" class="Lx" >w</text>
+<text x="100" y="267" text-anchor="middle" class="Ljs" >わ</text>
+<text x="100" y="274" text-anchor="middle" class="Lx" >wa</text>
+<text x="166" y="269" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="269" text-anchor="middle" class="Lx" >—</text>
+<text x="298" y="269" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="267" text-anchor="middle" class="Ljs" >を</text>
+<text x="364" y="274" text-anchor="middle" class="Lx" >wo</text>
+<text x="30" y="283" text-anchor="middle" class="Lx" >N</text>
+<text x="100" y="281" text-anchor="middle" class="Ljs" >ん</text>
+<text x="100" y="288" text-anchor="middle" class="Lx" >n</text>
+<text x="166" y="283" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="283" text-anchor="middle" class="Lx" >—</text>
+<text x="298" y="283" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="283" text-anchor="middle" class="Lx" >—</text>
+<text x="240" y="293" text-anchor="middle" class="Lx" >Voiced (dakuten ゛): が ga, ざ za, だ da, ば ba · Semi-voiced (handakuten ゜): ぱ pa</text>
+<text x="240" y="301" text-anchor="middle" class="Lx" >Combination kana (youon): きゃ kya, しゅ shu, ちょ cho — small ya/yu/yo</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H" >— KATAKANA TABLE — 46 BASE SYLLABLES —</text>
+<text x="240" y="324" text-anchor="middle" class="Lx" >Used for loanwords, foreign names, scientific terms, emphasis — same phonetic values as hiragana</text>
+<text x="30" y="332" text-anchor="middle" class="Lx" >C\V</text>
+<text x="100" y="332" text-anchor="middle" class="Lx" >a</text>
+<text x="166" y="332" text-anchor="middle" class="Lx" >i</text>
+<text x="232" y="332" text-anchor="middle" class="Lx" >u</text>
+<text x="298" y="332" text-anchor="middle" class="Lx" >e</text>
+<text x="364" y="332" text-anchor="middle" class="Lx" >o</text>
+<text x="30" y="342" text-anchor="middle" class="Lx" >—</text>
+<text x="100" y="340" text-anchor="middle" class="Ljs" >ア</text>
+<text x="100" y="347" text-anchor="middle" class="Lx" >a</text>
+<text x="166" y="340" text-anchor="middle" class="Ljs" >イ</text>
+<text x="166" y="347" text-anchor="middle" class="Lx" >i</text>
+<text x="232" y="340" text-anchor="middle" class="Ljs" >ウ</text>
+<text x="232" y="347" text-anchor="middle" class="Lx" >u</text>
+<text x="298" y="340" text-anchor="middle" class="Ljs" >エ</text>
+<text x="298" y="347" text-anchor="middle" class="Lx" >e</text>
+<text x="364" y="340" text-anchor="middle" class="Ljs" >オ</text>
+<text x="364" y="347" text-anchor="middle" class="Lx" >o</text>
+<text x="30" y="356" text-anchor="middle" class="Lx" >k</text>
+<text x="100" y="354" text-anchor="middle" class="Ljs" >カ</text>
+<text x="100" y="361" text-anchor="middle" class="Lx" >ka</text>
+<text x="166" y="354" text-anchor="middle" class="Ljs" >キ</text>
+<text x="166" y="361" text-anchor="middle" class="Lx" >ki</text>
+<text x="232" y="354" text-anchor="middle" class="Ljs" >ク</text>
+<text x="232" y="361" text-anchor="middle" class="Lx" >ku</text>
+<text x="298" y="354" text-anchor="middle" class="Ljs" >ケ</text>
+<text x="298" y="361" text-anchor="middle" class="Lx" >ke</text>
+<text x="364" y="354" text-anchor="middle" class="Ljs" >コ</text>
+<text x="364" y="361" text-anchor="middle" class="Lx" >ko</text>
+<text x="30" y="370" text-anchor="middle" class="Lx" >s</text>
+<text x="100" y="368" text-anchor="middle" class="Ljs" >サ</text>
+<text x="100" y="375" text-anchor="middle" class="Lx" >sa</text>
+<text x="166" y="368" text-anchor="middle" class="Ljs" >シ</text>
+<text x="166" y="375" text-anchor="middle" class="Lx" >shi</text>
+<text x="232" y="368" text-anchor="middle" class="Ljs" >ス</text>
+<text x="232" y="375" text-anchor="middle" class="Lx" >su</text>
+<text x="298" y="368" text-anchor="middle" class="Ljs" >セ</text>
+<text x="298" y="375" text-anchor="middle" class="Lx" >se</text>
+<text x="364" y="368" text-anchor="middle" class="Ljs" >ソ</text>
+<text x="364" y="375" text-anchor="middle" class="Lx" >so</text>
+<text x="30" y="384" text-anchor="middle" class="Lx" >t</text>
+<text x="100" y="382" text-anchor="middle" class="Ljs" >タ</text>
+<text x="100" y="389" text-anchor="middle" class="Lx" >ta</text>
+<text x="166" y="382" text-anchor="middle" class="Ljs" >チ</text>
+<text x="166" y="389" text-anchor="middle" class="Lx" >chi</text>
+<text x="232" y="382" text-anchor="middle" class="Ljs" >ツ</text>
+<text x="232" y="389" text-anchor="middle" class="Lx" >tsu</text>
+<text x="298" y="382" text-anchor="middle" class="Ljs" >テ</text>
+<text x="298" y="389" text-anchor="middle" class="Lx" >te</text>
+<text x="364" y="382" text-anchor="middle" class="Ljs" >ト</text>
+<text x="364" y="389" text-anchor="middle" class="Lx" >to</text>
+<text x="30" y="398" text-anchor="middle" class="Lx" >n</text>
+<text x="100" y="396" text-anchor="middle" class="Ljs" >ナ</text>
+<text x="100" y="403" text-anchor="middle" class="Lx" >na</text>
+<text x="166" y="396" text-anchor="middle" class="Ljs" >ニ</text>
+<text x="166" y="403" text-anchor="middle" class="Lx" >ni</text>
+<text x="232" y="396" text-anchor="middle" class="Ljs" >ヌ</text>
+<text x="232" y="403" text-anchor="middle" class="Lx" >nu</text>
+<text x="298" y="396" text-anchor="middle" class="Ljs" >ネ</text>
+<text x="298" y="403" text-anchor="middle" class="Lx" >ne</text>
+<text x="364" y="396" text-anchor="middle" class="Ljs" >ノ</text>
+<text x="364" y="403" text-anchor="middle" class="Lx" >no</text>
+<text x="30" y="412" text-anchor="middle" class="Lx" >h</text>
+<text x="100" y="410" text-anchor="middle" class="Ljs" >ハ</text>
+<text x="100" y="417" text-anchor="middle" class="Lx" >ha</text>
+<text x="166" y="410" text-anchor="middle" class="Ljs" >ヒ</text>
+<text x="166" y="417" text-anchor="middle" class="Lx" >hi</text>
+<text x="232" y="410" text-anchor="middle" class="Ljs" >フ</text>
+<text x="232" y="417" text-anchor="middle" class="Lx" >fu</text>
+<text x="298" y="410" text-anchor="middle" class="Ljs" >ヘ</text>
+<text x="298" y="417" text-anchor="middle" class="Lx" >he</text>
+<text x="364" y="410" text-anchor="middle" class="Ljs" >ホ</text>
+<text x="364" y="417" text-anchor="middle" class="Lx" >ho</text>
+<text x="30" y="426" text-anchor="middle" class="Lx" >m</text>
+<text x="100" y="424" text-anchor="middle" class="Ljs" >マ</text>
+<text x="100" y="431" text-anchor="middle" class="Lx" >ma</text>
+<text x="166" y="424" text-anchor="middle" class="Ljs" >ミ</text>
+<text x="166" y="431" text-anchor="middle" class="Lx" >mi</text>
+<text x="232" y="424" text-anchor="middle" class="Ljs" >ム</text>
+<text x="232" y="431" text-anchor="middle" class="Lx" >mu</text>
+<text x="298" y="424" text-anchor="middle" class="Ljs" >メ</text>
+<text x="298" y="431" text-anchor="middle" class="Lx" >me</text>
+<text x="364" y="424" text-anchor="middle" class="Ljs" >モ</text>
+<text x="364" y="431" text-anchor="middle" class="Lx" >mo</text>
+<text x="30" y="440" text-anchor="middle" class="Lx" >y</text>
+<text x="100" y="438" text-anchor="middle" class="Ljs" >ヤ</text>
+<text x="100" y="445" text-anchor="middle" class="Lx" >ya</text>
+<text x="166" y="440" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="438" text-anchor="middle" class="Ljs" >ユ</text>
+<text x="232" y="445" text-anchor="middle" class="Lx" >yu</text>
+<text x="298" y="440" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="438" text-anchor="middle" class="Ljs" >ヨ</text>
+<text x="364" y="445" text-anchor="middle" class="Lx" >yo</text>
+<text x="30" y="454" text-anchor="middle" class="Lx" >r</text>
+<text x="100" y="452" text-anchor="middle" class="Ljs" >ラ</text>
+<text x="100" y="459" text-anchor="middle" class="Lx" >ra</text>
+<text x="166" y="452" text-anchor="middle" class="Ljs" >リ</text>
+<text x="166" y="459" text-anchor="middle" class="Lx" >ri</text>
+<text x="232" y="452" text-anchor="middle" class="Ljs" >ル</text>
+<text x="232" y="459" text-anchor="middle" class="Lx" >ru</text>
+<text x="298" y="452" text-anchor="middle" class="Ljs" >レ</text>
+<text x="298" y="459" text-anchor="middle" class="Lx" >re</text>
+<text x="364" y="452" text-anchor="middle" class="Ljs" >ロ</text>
+<text x="364" y="459" text-anchor="middle" class="Lx" >ro</text>
+<text x="30" y="468" text-anchor="middle" class="Lx" >w</text>
+<text x="100" y="466" text-anchor="middle" class="Ljs" >ワ</text>
+<text x="100" y="473" text-anchor="middle" class="Lx" >wa</text>
+<text x="166" y="468" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="468" text-anchor="middle" class="Lx" >—</text>
+<text x="298" y="468" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="466" text-anchor="middle" class="Ljs" >ヲ</text>
+<text x="364" y="473" text-anchor="middle" class="Lx" >wo</text>
+<text x="30" y="482" text-anchor="middle" class="Lx" >N</text>
+<text x="100" y="480" text-anchor="middle" class="Ljs" >ン</text>
+<text x="100" y="487" text-anchor="middle" class="Lx" >n</text>
+<text x="166" y="482" text-anchor="middle" class="Lx" >—</text>
+<text x="232" y="482" text-anchor="middle" class="Lx" >—</text>
+<text x="298" y="482" text-anchor="middle" class="Lx" >—</text>
+<text x="364" y="482" text-anchor="middle" class="Lx" >—</text>
+<line x1="20" y1="492" x2="460" y2="492" stroke="black" stroke-width="0.3"/>
+<text x="240" y="500" text-anchor="middle" class="H" >— KANJI — LOGOGRAPHIC CHARACTERS —</text>
+<text x="240" y="510" text-anchor="middle" class="Lx" >Approx. 2,136 jōyō kanji (常用漢字) required for literacy · Each has ON (Chinese) + kun (Japanese) readings</text>
+<text x="50" y="520" text-anchor="middle" class="Ljs" >山</text>
+<text x="50" y="528" text-anchor="middle" class="Lx" >yama/SAN</text>
+<text x="50" y="534" text-anchor="middle" class="Lx" >mountain</text>
+<text x="150" y="520" text-anchor="middle" class="Ljs" >川</text>
+<text x="150" y="528" text-anchor="middle" class="Lx" >kawa/SEN</text>
+<text x="150" y="534" text-anchor="middle" class="Lx" >river</text>
+<text x="250" y="520" text-anchor="middle" class="Ljs" >火</text>
+<text x="250" y="528" text-anchor="middle" class="Lx" >hi/KA</text>
+<text x="250" y="534" text-anchor="middle" class="Lx" >fire</text>
+<text x="350" y="520" text-anchor="middle" class="Ljs" >水</text>
+<text x="350" y="528" text-anchor="middle" class="Lx" >mizu/SUI</text>
+<text x="350" y="534" text-anchor="middle" class="Lx" >water</text>
+<text x="440" y="520" text-anchor="middle" class="Ljs" >木</text>
+<text x="440" y="528" text-anchor="middle" class="Lx" >ki/MOKU</text>
+<text x="440" y="534" text-anchor="middle" class="Lx" >tree</text>
+<text x="50" y="542" text-anchor="middle" class="Ljs" >日</text>
+<text x="50" y="550" text-anchor="middle" class="Lx" >hi/NICHI</text>
+<text x="50" y="556" text-anchor="middle" class="Lx" >sun/day</text>
+<text x="150" y="542" text-anchor="middle" class="Ljs" >月</text>
+<text x="150" y="550" text-anchor="middle" class="Lx" >tsuki/GETSU</text>
+<text x="150" y="556" text-anchor="middle" class="Lx" >moon/month</text>
+<text x="250" y="542" text-anchor="middle" class="Ljs" >人</text>
+<text x="250" y="550" text-anchor="middle" class="Lx" >hito/JIN</text>
+<text x="250" y="556" text-anchor="middle" class="Lx" >person</text>
+<text x="350" y="542" text-anchor="middle" class="Ljs" >大</text>
+<text x="350" y="550" text-anchor="middle" class="Lx" >ōkii/DAI</text>
+<text x="350" y="556" text-anchor="middle" class="Lx" >big</text>
+<text x="440" y="542" text-anchor="middle" class="Ljs" >小</text>
+<text x="440" y="550" text-anchor="middle" class="Lx" >chiisai/SHŌ</text>
+<text x="440" y="556" text-anchor="middle" class="Lx" >small</text>
+<line x1="20" y1="564" x2="460" y2="564" stroke="black" stroke-width="0.3"/>
+<text x="240" y="572" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="582" text-anchor="middle" class="Lx" >300–700 CE: Chinese kanji adopted · 9th c: hiragana from cursive man'yōgana · katakana from radical elements</text>
+<text x="240" y="590" text-anchor="middle" class="Lx" >Man'yōgana (万葉仮名): oldest Japanese writing — Chinese characters used phonetically, not semantically</text>
+<text x="240" y="598" text-anchor="middle" class="Lx" >Meiji era (1868–): national literacy drive · 1946: postwar simplification of kanji forms and official list</text>
+<text x="240" y="606" text-anchor="middle" class="Lx" >Writing direction: traditionally right→left, top→bottom in columns; modern: left→right horizontal rows</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 18 · JAPANESE · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

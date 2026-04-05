@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >MALAY / INDONESIAN — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 19D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — GREETING —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Selamat datang.  Kami  gembira  kerana  anda  ada  di sini.</text>
+<text x="240" y="87" text-anchor="middle" class="Lx" >Welcome       We-EXCL happy   because  you  exist here.</text>
+<text x="240" y="95" text-anchor="middle" class="Ls" >"Welcome. We are glad that you are here."</text>
+<text x="240" y="105" text-anchor="middle" class="L" >Bahasa adalah  jambatan  antara  masa  lalu  dan  masa  depan.</text>
+<text x="240" y="115" text-anchor="middle" class="Lx" >Language is    bridge    between  time  past  and  time  ahead.</text>
+<text x="240" y="123" text-anchor="middle" class="Ls" >"Language is the bridge between the past and the future."</text>
+<line x1="20" y1="131" x2="460" y2="131" stroke="black" stroke-width="0.3"/>
+<text x="240" y="139" text-anchor="middle" class="H" >— PASSAGE 2 — NATURE PASSAGE —</text>
+<text x="240" y="149" text-anchor="middle" class="L" >Laut  yang  dalam  menyimpan  rahsia  yang  tidak  terhitung.</text>
+<text x="240" y="159" text-anchor="middle" class="Lx" >Sea   REL   deep   stores      secrets REL  not   counted.</text>
+<text x="240" y="167" text-anchor="middle" class="Ls" >"The deep sea stores uncountable secrets."</text>
+<text x="240" y="177" text-anchor="middle" class="L" >Seperti  air,  ilmu  mengalir  ke  tempat  yang  lebih  rendah.</text>
+<text x="240" y="187" text-anchor="middle" class="Lx" >Like     water knowledge flows  to  place   REL   lower.</text>
+<text x="240" y="195" text-anchor="middle" class="Ls" >"Like water, knowledge flows to lower places." — Malay proverb</text>
+<line x1="20" y1="203" x2="460" y2="203" stroke="black" stroke-width="0.3"/>
+<text x="240" y="211" text-anchor="middle" class="H" >— PASSAGE 3 — PERIBAHASA (MALAY PROVERB) —</text>
+<text x="240" y="221" text-anchor="middle" class="L" >Biar  putih  tulang,   jangan  putih  mata.</text>
+<text x="240" y="231" text-anchor="middle" class="Lx" >Let   white  bones-of, don't   white  eyes.</text>
+<text x="240" y="239" text-anchor="middle" class="Ls" >"Better to die (bones white) than to live in shame (eyes white with horror)."</text>
+<text x="240" y="249" text-anchor="middle" class="L" >Seperti  katak  di  bawah  tempurung  —  menyangka  langit  itu  sempit.</text>
+<text x="240" y="259" text-anchor="middle" class="Lx" >Like     frog   at  under  coconut-shell — thinks      sky    that  narrow.</text>
+<text x="240" y="267" text-anchor="middle" class="Ls" >"Like a frog under a coconut shell, thinking the sky is small." — parochialism</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="283" text-anchor="middle" class="H" >— PASSAGE 4 — PANTUN (MALAY POETIC FORM) —</text>
+<text x="240" y="293" text-anchor="middle" class="L" >Buah  pisang  masak  sebuah,</text>
+<text x="240" y="301" text-anchor="middle" class="Lx" >fruit banana  ripe   one-CLASSIFIER</text>
+<text x="240" y="311" text-anchor="middle" class="L" >Jatuh  ke  dalam   parit  tua;</text>
+<text x="240" y="319" text-anchor="middle" class="Lx" >falls  into inside  ditch   old</text>
+<text x="240" y="329" text-anchor="middle" class="L" >Kalau   kasih   masih  menanggung,</text>
+<text x="240" y="337" text-anchor="middle" class="Lx" >If      love    still   endures,</text>
+<text x="240" y="347" text-anchor="middle" class="L" >Sampai  mati   tidak  akan  lupa.</text>
+<text x="240" y="355" text-anchor="middle" class="Lx" >Until   death  not   will  forget.</text>
+<text x="240" y="363" text-anchor="middle" class="Lx" >A pantun: rhyming quatrain (AB AB). Lines 1-2 are imagery; lines 3-4 carry the meaning.</text>
+<text x="240" y="371" text-anchor="middle" class="Ls" >"If love still endures, until death we will not forget."</text>
+<line x1="20" y1="379" x2="460" y2="379" stroke="black" stroke-width="0.3"/>
+<text x="240" y="387" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="397" text-anchor="middle" class="L" >Ini  dibuat  untukmu,  dengan  cuma-cuma,  oleh  orang-orang  yang  mengingat  masa  depan.</text>
+<text x="240" y="407" text-anchor="middle" class="Lx" >This made   for-you,  with    free-free,  by    person-PLUR REL   remembers  time   ahead.</text>
+<text x="240" y="417" text-anchor="middle" class="Ls" >"This was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="425" x2="460" y2="425" stroke="black" stroke-width="0.3"/>
+<text x="240" y="433" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FORWARD / FUTURE" IN MALAY —</text>
+<text x="240" y="443" text-anchor="middle" class="L" >"masa depan" = "time ahead" (lit. masa=time, depan=front/ahead) — the future is spatially IN FRONT.</text>
+<text x="240" y="453" text-anchor="middle" class="Ls" >Malay/Indonesian conceives time as spatial movement: depan (front=future), belakang (back=past).</text>
+<text x="240" y="463" text-anchor="middle" class="Ls" >cuma-cuma: reduplication of cuma (only/free) → "completely free, at no cost" — colloquially natural.</text>
+<text x="240" y="472" text-anchor="middle" class="Ls" >orang-orang: reduplicated plural "people" (not orang alone, which is "a person" without number).</text>
+<text x="240" y="481" text-anchor="middle" class="Ls" >mengingat: active verb with me- prefix from ingat (remember) — "who are remembering / who remembered."</text>
+<text x="240" y="490" text-anchor="middle" class="Ls" >yang: relative clause marker — "people WHO remembered" — the same word as "which/that/who."</text>
+<line x1="20" y1="498" x2="460" y2="498" stroke="black" stroke-width="0.3"/>
+<text x="240" y="506" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="516" text-anchor="middle" class="Ls" >Malay/Indonesian is written in the Latin alphabet — the same 26 letters as English.</text>
+<text x="240" y="525" text-anchor="middle" class="Ls" >Pronunciation is highly phonemic: each letter has a consistent sound. c=/tʃ/ and j=/dʒ/ are key.</text>
+<text x="240" y="534" text-anchor="middle" class="Ls" >If you speak any language using Latin script, you can approximate the sounds from the spelling.</text>
+<text x="240" y="543" text-anchor="middle" class="Ls" >Spoken by ~270M people across Maritime Southeast Asia (Indonesia, Malaysia, Brunei, Singapore).</text>
+<text x="240" y="552" text-anchor="middle" class="Ls" >Related to Tagalog, Javanese, Sundanese, and other Austronesian languages of the Pacific.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 19 · MALAY/INDONESIAN · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

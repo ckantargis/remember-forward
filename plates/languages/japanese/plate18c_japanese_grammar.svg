@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lj { font-size:14px; }
+  .Ljs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >JAPANESE — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 18C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SOV + POSTPOSITIONS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Japanese is strictly SOV (Subject–Object–Verb). Verb ALWAYS comes last.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >わたしは　りんごを　たべます。  Watashi-wa ringo-wo tabemasu.  "I eat an apple."</text>
+<text x="240" y="98" text-anchor="middle" class="Lx" >S=わたし(I) + は(topic) · O=りんご(apple) + を(obj) · V=たべます(eat-POLITE)</text>
+<text x="240" y="107" text-anchor="middle" class="Ls" >Particles follow the noun they mark — they are POSTPOSITIONS not prepositions.</text>
+<line x1="20" y1="116" x2="460" y2="116" stroke="black" stroke-width="0.3"/>
+<text x="240" y="124" text-anchor="middle" class="H" >— PARTICLES — GRAMMATICAL MARKERS —</text>
+<text x="70" y="133" text-anchor="middle" class="Ls" >は wa</text>
+<text x="170" y="133" text-anchor="middle" class="Lx" >topic marker</text>
+<text x="340" y="133" text-anchor="middle" class="Lx" >わたしは watashi-wa "as for me"</text>
+<text x="70" y="145" text-anchor="middle" class="Ls" >が ga</text>
+<text x="170" y="145" text-anchor="middle" class="Lx" >subject marker</text>
+<text x="340" y="145" text-anchor="middle" class="Lx" >ねこがいる neko-ga iru "a cat exists"</text>
+<text x="70" y="157" text-anchor="middle" class="Ls" >を wo</text>
+<text x="170" y="157" text-anchor="middle" class="Lx" >direct object</text>
+<text x="340" y="157" text-anchor="middle" class="Lx" >りんごをたべる ringo-wo taberu "eat apple"</text>
+<text x="70" y="169" text-anchor="middle" class="Ls" >に ni</text>
+<text x="170" y="169" text-anchor="middle" class="Lx" >direction/time/location</text>
+<text x="340" y="169" text-anchor="middle" class="Lx" >がっこうに gakkō-ni "to school / at school"</text>
+<text x="70" y="181" text-anchor="middle" class="Ls" >で de</text>
+<text x="170" y="181" text-anchor="middle" class="Lx" >location of action/means</text>
+<text x="340" y="181" text-anchor="middle" class="Lx" >バスで basu-de "by bus"</text>
+<text x="70" y="193" text-anchor="middle" class="Ls" >の no</text>
+<text x="170" y="193" text-anchor="middle" class="Lx" >possession/attribution</text>
+<text x="340" y="193" text-anchor="middle" class="Lx" >わたしの hon watashi-no hon "my book"</text>
+<text x="70" y="205" text-anchor="middle" class="Ls" >と to</text>
+<text x="170" y="205" text-anchor="middle" class="Lx" >and / with</text>
+<text x="340" y="205" text-anchor="middle" class="Lx" >ともだちと tomodachi-to "with friend"</text>
+<text x="70" y="217" text-anchor="middle" class="Ls" >か ka</text>
+<text x="170" y="217" text-anchor="middle" class="Lx" >question marker</text>
+<text x="340" y="217" text-anchor="middle" class="Lx" >これはなんですか? "What is this?"</text>
+<text x="70" y="229" text-anchor="middle" class="Ls" >も mo</text>
+<text x="170" y="229" text-anchor="middle" class="Lx" >also / even</text>
+<text x="340" y="229" text-anchor="middle" class="Lx" >わたしも watashi-mo "I also"</text>
+<text x="70" y="241" text-anchor="middle" class="Ls" >から kara</text>
+<text x="170" y="241" text-anchor="middle" class="Lx" >from / because</text>
+<text x="340" y="241" text-anchor="middle" class="Lx" >とうきょうから Tōkyō-kara "from Tokyo"</text>
+<text x="70" y="253" text-anchor="middle" class="Ls" >まで made</text>
+<text x="170" y="253" text-anchor="middle" class="Lx" >until / up to</text>
+<text x="340" y="253" text-anchor="middle" class="Lx" >ごじまで goji-made "until 5 o'clock"</text>
+<line x1="20" y1="268" x2="460" y2="268" stroke="black" stroke-width="0.3"/>
+<text x="240" y="277" text-anchor="middle" class="H" >— VERB CONJUGATION — GROUP 1 (U-VERBS): たべる → taberu —</text>
+<text x="80" y="287" text-anchor="middle" class="Lx" >Dictionary</text>
+<text x="185" y="287" text-anchor="middle" class="Ls" >たべる</text>
+<text x="285" y="287" text-anchor="middle" class="Lx" >taberu</text>
+<text x="400" y="287" text-anchor="middle" class="Lx" >plain non-past</text>
+<text x="80" y="299" text-anchor="middle" class="Lx" >Polite</text>
+<text x="185" y="299" text-anchor="middle" class="Ls" >たべます</text>
+<text x="285" y="299" text-anchor="middle" class="Lx" >tabemasu</text>
+<text x="400" y="299" text-anchor="middle" class="Lx" >formal non-past</text>
+<text x="80" y="311" text-anchor="middle" class="Lx" >Negative plain</text>
+<text x="185" y="311" text-anchor="middle" class="Ls" >たべない</text>
+<text x="285" y="311" text-anchor="middle" class="Lx" >tabenai</text>
+<text x="400" y="311" text-anchor="middle" class="Lx" >plain negative</text>
+<text x="80" y="323" text-anchor="middle" class="Lx" >Negative polite</text>
+<text x="185" y="323" text-anchor="middle" class="Ls" >たべません</text>
+<text x="285" y="323" text-anchor="middle" class="Lx" >tabemasen</text>
+<text x="400" y="323" text-anchor="middle" class="Lx" >formal negative</text>
+<text x="80" y="335" text-anchor="middle" class="Lx" >Past plain</text>
+<text x="185" y="335" text-anchor="middle" class="Ls" >たべた</text>
+<text x="285" y="335" text-anchor="middle" class="Lx" >tabeta</text>
+<text x="400" y="335" text-anchor="middle" class="Lx" >plain past</text>
+<text x="80" y="347" text-anchor="middle" class="Lx" >Past polite</text>
+<text x="185" y="347" text-anchor="middle" class="Ls" >たべました</text>
+<text x="285" y="347" text-anchor="middle" class="Lx" >tabemashita</text>
+<text x="400" y="347" text-anchor="middle" class="Lx" >formal past</text>
+<text x="80" y="359" text-anchor="middle" class="Lx" >Te-form</text>
+<text x="185" y="359" text-anchor="middle" class="Ls" >たべて</text>
+<text x="285" y="359" text-anchor="middle" class="Lx" >tabete</text>
+<text x="400" y="359" text-anchor="middle" class="Lx" >connective / request base</text>
+<text x="80" y="371" text-anchor="middle" class="Lx" >Volitional</text>
+<text x="185" y="371" text-anchor="middle" class="Ls" >たべよう</text>
+<text x="285" y="371" text-anchor="middle" class="Lx" >tabeyō</text>
+<text x="400" y="371" text-anchor="middle" class="Lx" >"let's eat" / "I will eat"</text>
+<text x="80" y="383" text-anchor="middle" class="Lx" >Conditional</text>
+<text x="185" y="383" text-anchor="middle" class="Ls" >たべれば</text>
+<text x="285" y="383" text-anchor="middle" class="Lx" >tabereba</text>
+<text x="400" y="383" text-anchor="middle" class="Lx" >"if (one) eats"</text>
+<text x="80" y="395" text-anchor="middle" class="Lx" >Potential</text>
+<text x="185" y="395" text-anchor="middle" class="Ls" >たべられる</text>
+<text x="285" y="395" text-anchor="middle" class="Lx" >taberareru</text>
+<text x="400" y="395" text-anchor="middle" class="Lx" >"can eat"</text>
+<line x1="20" y1="409" x2="460" y2="409" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="70" y="428" text-anchor="middle" class="Lx" >はい / いいえ</text>
+<text x="210" y="428" text-anchor="middle" class="Lx" >hai / iie</text>
+<text x="370" y="428" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="70" y="439" text-anchor="middle" class="Lx" >ありがとう</text>
+<text x="210" y="439" text-anchor="middle" class="Lx" >arigatō</text>
+<text x="370" y="439" text-anchor="middle" class="Lx" >thank you</text>
+<text x="70" y="450" text-anchor="middle" class="Lx" >すみません</text>
+<text x="210" y="450" text-anchor="middle" class="Lx" >sumimasen</text>
+<text x="370" y="450" text-anchor="middle" class="Lx" >excuse me / sorry</text>
+<text x="70" y="461" text-anchor="middle" class="Lx" >わたし / あなた</text>
+<text x="210" y="461" text-anchor="middle" class="Lx" >watashi / anata</text>
+<text x="370" y="461" text-anchor="middle" class="Lx" >I / you</text>
+<text x="70" y="472" text-anchor="middle" class="Lx" >これ / それ / あれ</text>
+<text x="210" y="472" text-anchor="middle" class="Lx" >kore/sore/are</text>
+<text x="370" y="472" text-anchor="middle" class="Lx" >this / that / that (far)</text>
+<text x="70" y="483" text-anchor="middle" class="Lx" >どこ</text>
+<text x="210" y="483" text-anchor="middle" class="Lx" >doko</text>
+<text x="370" y="483" text-anchor="middle" class="Lx" >where</text>
+<text x="70" y="494" text-anchor="middle" class="Lx" >なに</text>
+<text x="210" y="494" text-anchor="middle" class="Lx" >nani</text>
+<text x="370" y="494" text-anchor="middle" class="Lx" >what</text>
+<text x="70" y="505" text-anchor="middle" class="Lx" >いつ</text>
+<text x="210" y="505" text-anchor="middle" class="Lx" >itsu</text>
+<text x="370" y="505" text-anchor="middle" class="Lx" >when</text>
+<text x="70" y="516" text-anchor="middle" class="Lx" >だれ</text>
+<text x="210" y="516" text-anchor="middle" class="Lx" >dare</text>
+<text x="370" y="516" text-anchor="middle" class="Lx" >who</text>
+<text x="70" y="527" text-anchor="middle" class="Lx" >なぜ</text>
+<text x="210" y="527" text-anchor="middle" class="Lx" >naze</text>
+<text x="370" y="527" text-anchor="middle" class="Lx" >why</text>
+<text x="70" y="538" text-anchor="middle" class="Lx" >みず</text>
+<text x="210" y="538" text-anchor="middle" class="Lx" >mizu</text>
+<text x="370" y="538" text-anchor="middle" class="Lx" >water</text>
+<text x="70" y="549" text-anchor="middle" class="Lx" >たべもの</text>
+<text x="210" y="549" text-anchor="middle" class="Lx" >tabemono</text>
+<text x="370" y="549" text-anchor="middle" class="Lx" >food</text>
+<text x="70" y="560" text-anchor="middle" class="Lx" >ひと</text>
+<text x="210" y="560" text-anchor="middle" class="Lx" >hito</text>
+<text x="370" y="560" text-anchor="middle" class="Lx" >person / people</text>
+<text x="70" y="571" text-anchor="middle" class="Lx" >ほん</text>
+<text x="210" y="571" text-anchor="middle" class="Lx" >hon</text>
+<text x="370" y="571" text-anchor="middle" class="Lx" >book</text>
+<text x="70" y="582" text-anchor="middle" class="Lx" >でんしゃ</text>
+<text x="210" y="582" text-anchor="middle" class="Lx" >densha</text>
+<text x="370" y="582" text-anchor="middle" class="Lx" >train</text>
+<text x="70" y="593" text-anchor="middle" class="Lx" >まち</text>
+<text x="210" y="593" text-anchor="middle" class="Lx" >machi</text>
+<text x="370" y="593" text-anchor="middle" class="Lx" >town / city</text>
+<text x="70" y="604" text-anchor="middle" class="Lx" >やま</text>
+<text x="210" y="604" text-anchor="middle" class="Lx" >yama</text>
+<text x="370" y="604" text-anchor="middle" class="Lx" >mountain</text>
+<text x="70" y="615" text-anchor="middle" class="Lx" >そら</text>
+<text x="210" y="615" text-anchor="middle" class="Lx" >sora</text>
+<text x="370" y="615" text-anchor="middle" class="Lx" >sky</text>
+<text x="70" y="626" text-anchor="middle" class="Lx" >ひ / つき</text>
+<text x="210" y="626" text-anchor="middle" class="Lx" >hi / tsuki</text>
+<text x="370" y="626" text-anchor="middle" class="Lx" >sun / moon</text>
+<text x="70" y="637" text-anchor="middle" class="Lx" >ことば</text>
+<text x="210" y="637" text-anchor="middle" class="Lx" >kotoba</text>
+<text x="370" y="637" text-anchor="middle" class="Lx" >word / language</text>
+<text x="70" y="648" text-anchor="middle" class="Lx" >おおきい / ちいさい</text>
+<text x="210" y="648" text-anchor="middle" class="Lx" >ōkii / chiisai</text>
+<text x="370" y="648" text-anchor="middle" class="Lx" >big / small</text>
+<text x="70" y="659" text-anchor="middle" class="Lx" >あたらしい / ふるい</text>
+<text x="210" y="659" text-anchor="middle" class="Lx" >atarashii / furui</text>
+<text x="370" y="659" text-anchor="middle" class="Lx" >new / old</text>
+<text x="70" y="670" text-anchor="middle" class="Lx" >いい / わるい</text>
+<text x="210" y="670" text-anchor="middle" class="Lx" >ii / warui</text>
+<text x="370" y="670" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="70" y="681" text-anchor="middle" class="Lx" >みらい</text>
+<text x="210" y="681" text-anchor="middle" class="Lx" >mirai</text>
+<text x="370" y="681" text-anchor="middle" class="Lx" >future</text>
+<text x="70" y="692" text-anchor="middle" class="Lx" >おもいで</text>
+<text x="210" y="692" text-anchor="middle" class="Lx" >omoide</text>
+<text x="370" y="692" text-anchor="middle" class="Lx" >memory / remembrance</text>
+<line x1="20" y1="705" x2="460" y2="705" stroke="black" stroke-width="0.3"/>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 18 · JAPANESE · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

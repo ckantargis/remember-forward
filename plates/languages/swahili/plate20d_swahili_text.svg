@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SWAHILI — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 20D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — GREETING AND INTRODUCTION —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Habari  yako?   Nzuri  sana,  asante.  Karibu.</text>
+<text x="240" y="87" text-anchor="middle" class="Lx" >News-of you?   Good   very,   thanks.   Welcome.</text>
+<text x="240" y="95" text-anchor="middle" class="Ls" >"How are you? Very well, thank you. Welcome."</text>
+<text x="240" y="105" text-anchor="middle" class="L" >Mimi  ni   binadamu.  Ninakuandikia   kutoka  zamani  zilizopita.</text>
+<text x="240" y="115" text-anchor="middle" class="Lx" >I     am   human.     I-write-to-you   from    times   which-passed.</text>
+<text x="240" y="123" text-anchor="middle" class="Ls" >"I am a human. I write to you from times that have passed."</text>
+<line x1="20" y1="131" x2="460" y2="131" stroke="black" stroke-width="0.3"/>
+<text x="240" y="139" text-anchor="middle" class="H" >— PASSAGE 2 — NATURE —</text>
+<text x="240" y="149" text-anchor="middle" class="L" >Bahari  ni  kubwa,    lakini   moyo  wa  binadamu  ni  mkubwa  zaidi.</text>
+<text x="240" y="159" text-anchor="middle" class="Lx" >Ocean   is  big/great, but      heart of  human     is  bigger   more.</text>
+<text x="240" y="167" text-anchor="middle" class="Ls" >"The ocean is great, but the heart of a human is greater still."</text>
+<text x="240" y="177" text-anchor="middle" class="L" >Mto   hauzuii     safari  —  mtu   hodari    huvuka.</text>
+<text x="240" y="187" text-anchor="middle" class="Lx" >River not-stops  journey —  person  capable  crosses.</text>
+<text x="240" y="195" text-anchor="middle" class="Ls" >"A river does not stop a journey — a capable person crosses it."  — Swahili proverb</text>
+<line x1="20" y1="203" x2="460" y2="203" stroke="black" stroke-width="0.3"/>
+<text x="240" y="211" text-anchor="middle" class="H" >— PASSAGE 3 — MSEMO (SWAHILI PROVERB) —</text>
+<text x="240" y="221" text-anchor="middle" class="L" >Usiku  ukijua  siri,   mchana  ukifichue.</text>
+<text x="240" y="231" text-anchor="middle" class="Lx" >Night  you-know secret, daytime you-reveal-it.</text>
+<text x="240" y="239" text-anchor="middle" class="Ls" >"What the night hides, the day reveals." — Swahili saying</text>
+<text x="240" y="249" text-anchor="middle" class="L" >Elimu  ni  nuru,    ujinga  ni  giza.</text>
+<text x="240" y="259" text-anchor="middle" class="Lx" >Knowledge is light,  ignorance is darkness.</text>
+<text x="240" y="267" text-anchor="middle" class="Ls" >"Knowledge is light; ignorance is darkness."  — common Swahili wisdom</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="283" text-anchor="middle" class="H" >— PASSAGE 4 — INDEPENDENCE DECLARATION ECHO —</text>
+<text x="240" y="293" text-anchor="middle" class="L" >Uhuru  na  Umoja.  Tanzania  ilipata  uhuru  wake  mwaka  wa  elfu  moja,</text>
+<text x="240" y="303" text-anchor="middle" class="Lx" >Freedom and Unity.  Tanzania  received  freedom its   year   of  thousand one,</text>
+<text x="240" y="313" text-anchor="middle" class="L" >mia  tisa  sitini  na  moja.  Kumbukumbu  yake  inadumu  milele.</text>
+<text x="240" y="323" text-anchor="middle" class="Lx" >hundred nine  sixty  and  one.   Memory       its   endures   forever.</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >"Freedom and Unity. Tanzania received independence in 1961. Its memory endures forever."</text>
+<line x1="20" y1="339" x2="460" y2="339" stroke="black" stroke-width="0.3"/>
+<text x="240" y="347" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="357" text-anchor="middle" class="L" >Hii  ilitengenezwa  kwa  ajili  yako,  bure,  na  watu  waliokumbuka  mbele.</text>
+<text x="240" y="367" text-anchor="middle" class="Lx" >This was-made      for  sake   your,  free,  by  people who-remembered  ahead/forward.</text>
+<text x="240" y="377" text-anchor="middle" class="Ls" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="385" x2="460" y2="385" stroke="black" stroke-width="0.3"/>
+<text x="240" y="393" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FORWARD / FUTURE" IN SWAHILI —</text>
+<text x="240" y="403" text-anchor="middle" class="L" >"mbele" = forward, ahead, in front — the SAME word for spatial "in front" and temporal "ahead."</text>
+<text x="240" y="413" text-anchor="middle" class="Ls" >Swahili time is spatial: mbele (future/ahead), nyuma (past/behind) — identical to Malay/Indonesian.</text>
+<text x="240" y="422" text-anchor="middle" class="Ls" >"siku zijazo" = "the days that will come" — formal word for future.  "kesho" = tomorrow/future.</text>
+<text x="240" y="431" text-anchor="middle" class="Ls" >"kumbuka" = to remember · "waliokumbuka" = "who remembered" (relative clause with past tense).</text>
+<text x="240" y="440" text-anchor="middle" class="Ls" >"bure" = free of charge / freely / without cost — the same word as "in vain" in some contexts.</text>
+<text x="240" y="449" text-anchor="middle" class="Ls" >"ilitengenezwa" = it was made — passive voice: i- (N class) + li- (past) + tengenez- (make) + -wa (passive).</text>
+<line x1="20" y1="457" x2="460" y2="457" stroke="black" stroke-width="0.3"/>
+<text x="240" y="465" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="475" text-anchor="middle" class="Ls" >Swahili uses the 26-letter Latin alphabet. One letter = one sound. Completely phonemic.</text>
+<text x="240" y="484" text-anchor="middle" class="Ls" >Every noun carries a class prefix — the prefix on verbs/adjectives tells you the noun class.</text>
+<text x="240" y="493" text-anchor="middle" class="Ls" >Stress is always on the second-to-last syllable of each word. No exceptions in native words.</text>
+<text x="240" y="502" text-anchor="middle" class="Ls" >Spoken across East and Central Africa; official in Tanzania, Kenya, Uganda, Rwanda, DRC.</text>
+<text x="240" y="511" text-anchor="middle" class="Ls" >Swahili was added as a United Nations working language in 2022 — a major living world language.</text>
+<text x="240" y="520" text-anchor="middle" class="Ls" >Consult Plate 20A for the script, digraphs, and noun class overview if starting from scratch.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 20 · SWAHILI · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

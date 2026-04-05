@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SWAHILI — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 20A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— LATIN SCRIPT — STANDARD SINCE ~1900 —</text>
+<text x="240" y="77" text-anchor="middle" class="L" >Swahili (Kiswahili) is written in the Latin alphabet — 26 letters, highly phonemic spelling.</text>
+<text x="240" y="87" text-anchor="middle" class="Ls" >Standardized by the Inter-Territorial Language Committee (ITLC) in 1930 for East Africa.</text>
+<text x="240" y="96" text-anchor="middle" class="Ls" >Before Latin script: Arabic-based Ajami script used from ~14th century along Swahili coast.</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H" >— THE 26-LETTER LATIN ALPHABET IN SWAHILI —</text>
+<text x="240" y="121" text-anchor="middle" class="Ls" >One letter = one sound. No silent letters. No tonal diacritics needed.</text>
+<text x="30" y="130" text-anchor="middle" class="L" >A</text>
+<text x="30" y="138" text-anchor="middle" class="Lx" >/a/</text>
+<text x="110" y="130" text-anchor="middle" class="L" >B</text>
+<text x="110" y="138" text-anchor="middle" class="Lx" >b</text>
+<text x="190" y="130" text-anchor="middle" class="L" >C</text>
+<text x="190" y="138" text-anchor="middle" class="Lx" >ch</text>
+<text x="270" y="130" text-anchor="middle" class="L" >D</text>
+<text x="270" y="138" text-anchor="middle" class="Lx" >d</text>
+<text x="350" y="130" text-anchor="middle" class="L" >E</text>
+<text x="350" y="138" text-anchor="middle" class="Lx" >/e/</text>
+<text x="430" y="130" text-anchor="middle" class="L" >F</text>
+<text x="430" y="138" text-anchor="middle" class="Lx" >f</text>
+<text x="30" y="145" text-anchor="middle" class="L" >G</text>
+<text x="30" y="153" text-anchor="middle" class="Lx" >g</text>
+<text x="110" y="145" text-anchor="middle" class="L" >H</text>
+<text x="110" y="153" text-anchor="middle" class="Lx" >h</text>
+<text x="190" y="145" text-anchor="middle" class="L" >I</text>
+<text x="190" y="153" text-anchor="middle" class="Lx" >/i/</text>
+<text x="270" y="145" text-anchor="middle" class="L" >J</text>
+<text x="270" y="153" text-anchor="middle" class="Lx" >j/dʒ</text>
+<text x="350" y="145" text-anchor="middle" class="L" >K</text>
+<text x="350" y="153" text-anchor="middle" class="Lx" >k</text>
+<text x="430" y="145" text-anchor="middle" class="L" >L</text>
+<text x="430" y="153" text-anchor="middle" class="Lx" >l</text>
+<text x="30" y="160" text-anchor="middle" class="L" >M</text>
+<text x="30" y="168" text-anchor="middle" class="Lx" >m</text>
+<text x="110" y="160" text-anchor="middle" class="L" >N</text>
+<text x="110" y="168" text-anchor="middle" class="Lx" >n</text>
+<text x="190" y="160" text-anchor="middle" class="L" >O</text>
+<text x="190" y="168" text-anchor="middle" class="Lx" >/o/</text>
+<text x="270" y="160" text-anchor="middle" class="L" >P</text>
+<text x="270" y="168" text-anchor="middle" class="Lx" >p</text>
+<text x="350" y="160" text-anchor="middle" class="L" >Q</text>
+<text x="350" y="168" text-anchor="middle" class="Lx" >q(loan)</text>
+<text x="430" y="160" text-anchor="middle" class="L" >R</text>
+<text x="430" y="168" text-anchor="middle" class="Lx" >r</text>
+<text x="30" y="175" text-anchor="middle" class="L" >S</text>
+<text x="30" y="183" text-anchor="middle" class="Lx" >s</text>
+<text x="110" y="175" text-anchor="middle" class="L" >T</text>
+<text x="110" y="183" text-anchor="middle" class="Lx" >t</text>
+<text x="190" y="175" text-anchor="middle" class="L" >U</text>
+<text x="190" y="183" text-anchor="middle" class="Lx" >/u/</text>
+<text x="270" y="175" text-anchor="middle" class="L" >V</text>
+<text x="270" y="183" text-anchor="middle" class="Lx" >v</text>
+<text x="350" y="175" text-anchor="middle" class="L" >W</text>
+<text x="350" y="183" text-anchor="middle" class="Lx" >w</text>
+<text x="430" y="175" text-anchor="middle" class="L" >X</text>
+<text x="430" y="183" text-anchor="middle" class="Lx" >x(loan)</text>
+<text x="30" y="190" text-anchor="middle" class="L" >Y</text>
+<text x="30" y="198" text-anchor="middle" class="Lx" >y/j</text>
+<text x="110" y="190" text-anchor="middle" class="L" >Z</text>
+<text x="110" y="198" text-anchor="middle" class="Lx" >z</text>
+<line x1="20" y1="202" x2="460" y2="202" stroke="black" stroke-width="0.3"/>
+<text x="240" y="210" text-anchor="middle" class="H" >— SWAHILI DIGRAPHS AND CONSONANT CLUSTERS —</text>
+<text x="35" y="220" text-anchor="middle" class="Ls" >ch</text>
+<text x="70" y="220" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="150" y="220" text-anchor="middle" class="Lx" >palatal affricate</text>
+<text x="340" y="220" text-anchor="middle" class="Lx" >chakula (food), chini (below)</text>
+<text x="35" y="233" text-anchor="middle" class="Ls" >sh</text>
+<text x="70" y="233" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="150" y="233" text-anchor="middle" class="Lx" >postalveolar fric.</text>
+<text x="340" y="233" text-anchor="middle" class="Lx" >shule (school), shamba (farm)</text>
+<text x="35" y="246" text-anchor="middle" class="Ls" >gh</text>
+<text x="70" y="246" text-anchor="middle" class="Lx" >/ɣ/</text>
+<text x="150" y="246" text-anchor="middle" class="Lx" >voiced velar fric.</text>
+<text x="340" y="246" text-anchor="middle" class="Lx" >ghali (expensive), balagha (rhetoric)</text>
+<text x="35" y="259" text-anchor="middle" class="Ls" >ng'</text>
+<text x="70" y="259" text-anchor="middle" class="Lx" >/ ŋ/</text>
+<text x="150" y="259" text-anchor="middle" class="Lx" >velar nasal (standalone)</text>
+<text x="340" y="259" text-anchor="middle" class="Lx" >ng'ombe (cattle), ng'o (emphatic)</text>
+<text x="35" y="272" text-anchor="middle" class="Ls" >ny</text>
+<text x="70" y="272" text-anchor="middle" class="Lx" >/ɲ/</text>
+<text x="150" y="272" text-anchor="middle" class="Lx" >palatal nasal</text>
+<text x="340" y="272" text-anchor="middle" class="Lx" >nyumba (house), nyama (meat)</text>
+<text x="35" y="285" text-anchor="middle" class="Ls" >dh</text>
+<text x="70" y="285" text-anchor="middle" class="Lx" >/ð/</text>
+<text x="150" y="285" text-anchor="middle" class="Lx" >voiced dental fric.</text>
+<text x="340" y="285" text-anchor="middle" class="Lx" >dhahabu (gold), dhana (concept)</text>
+<text x="35" y="298" text-anchor="middle" class="Ls" >th</text>
+<text x="70" y="298" text-anchor="middle" class="Lx" >/θ/</text>
+<text x="150" y="298" text-anchor="middle" class="Lx" >voiceless dental</text>
+<text x="340" y="298" text-anchor="middle" class="Lx" >thamani (value), thithi (gruel)</text>
+<text x="35" y="311" text-anchor="middle" class="Ls" >mb</text>
+<text x="70" y="311" text-anchor="middle" class="Lx" >/mb/</text>
+<text x="150" y="311" text-anchor="middle" class="Lx" >prenasalized stop</text>
+<text x="340" y="311" text-anchor="middle" class="Lx" >mbwa (dog), mbali (far)</text>
+<text x="35" y="324" text-anchor="middle" class="Ls" >nd</text>
+<text x="70" y="324" text-anchor="middle" class="Lx" >/nd/</text>
+<text x="150" y="324" text-anchor="middle" class="Lx" >prenasalized stop</text>
+<text x="340" y="324" text-anchor="middle" class="Lx" >ndizi (banana), ndani (inside)</text>
+<text x="35" y="337" text-anchor="middle" class="Ls" >ng</text>
+<text x="70" y="337" text-anchor="middle" class="Lx" >/ŋg/</text>
+<text x="150" y="337" text-anchor="middle" class="Lx" >prenasalized stop</text>
+<text x="340" y="337" text-anchor="middle" class="Lx" >ngoja (wait), ngapi (how many)</text>
+<text x="35" y="350" text-anchor="middle" class="Ls" >nj</text>
+<text x="70" y="350" text-anchor="middle" class="Lx" >/ndʒ/</text>
+<text x="150" y="350" text-anchor="middle" class="Lx" >prenasalized affric.</text>
+<text x="340" y="350" text-anchor="middle" class="Lx" >njia (path/way), njiwa (dove)</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="372" text-anchor="middle" class="H" >— AJAMI — ARABIC-BASED HISTORICAL SCRIPT —</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Ajami = Arabic script adapted for Swahili. Used ~14th–early 20th century along coast.</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Coastal city-states (Mombasa, Malindi, Zanzibar, Kilwa) produced Ajami manuscripts and poetry.</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >Utendi wa Tambuka (Epic of Heraklios, 1728) is among the oldest surviving Swahili texts in Ajami.</text>
+<text x="240" y="409" text-anchor="middle" class="Ls" >Read right-to-left like Arabic. Vowel diacritics added to mark Swahili vowels not in Arabic.</text>
+<text x="240" y="418" text-anchor="middle" class="Ls" >Sample: كيسواحيلي = Kiswahili · متو = mtu (person) · ماجي = maji (water)</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="434" text-anchor="middle" class="H" >— NOUN CLASS SYSTEM — OVERVIEW (8 MAJOR CLASSES) —</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >Swahili nouns belong to grammatical classes marked by prefixes. Each class has its own agreement prefix.</text>
+<text x="60" y="454" text-anchor="middle" class="Ls" >M/WA</text>
+<text x="120" y="454" text-anchor="middle" class="Lx" >M-/WA-</text>
+<text x="190" y="454" text-anchor="middle" class="Lx" >mtu/watu</text>
+<text x="250" y="454" text-anchor="middle" class="Lx" >people/humans</text>
+<text x="300" y="454" text-anchor="middle" class="Ls" >M/MI</text>
+<text x="360" y="454" text-anchor="middle" class="Lx" >M-/MI-</text>
+<text x="430" y="454" text-anchor="middle" class="Lx" >mti/miti</text>
+<text x="490" y="454" text-anchor="middle" class="Lx" >trees/plants</text>
+<text x="60" y="469" text-anchor="middle" class="Ls" >MA</text>
+<text x="120" y="469" text-anchor="middle" class="Lx" >Ø/MA-</text>
+<text x="190" y="469" text-anchor="middle" class="Lx" >tunda/matunda</text>
+<text x="250" y="469" text-anchor="middle" class="Lx" >fruits/paired things</text>
+<text x="300" y="469" text-anchor="middle" class="Ls" >KI/VI</text>
+<text x="360" y="469" text-anchor="middle" class="Lx" >KI-/VI-</text>
+<text x="430" y="469" text-anchor="middle" class="Lx" >kitu/vitu</text>
+<text x="490" y="469" text-anchor="middle" class="Lx" >things/objects</text>
+<text x="60" y="484" text-anchor="middle" class="Ls" >N/N</text>
+<text x="120" y="484" text-anchor="middle" class="Lx" >N-/N-</text>
+<text x="190" y="484" text-anchor="middle" class="Lx" >nyumba/nyumba</text>
+<text x="250" y="484" text-anchor="middle" class="Lx" >houses/animals</text>
+<text x="300" y="484" text-anchor="middle" class="Ls" >U/U</text>
+<text x="360" y="484" text-anchor="middle" class="Lx" >U-/Ø-</text>
+<text x="430" y="484" text-anchor="middle" class="Lx" >ukuta/kuta</text>
+<text x="490" y="484" text-anchor="middle" class="Lx" >walls/abstract</text>
+<text x="60" y="499" text-anchor="middle" class="Ls" >PA</text>
+<text x="120" y="499" text-anchor="middle" class="Lx" >PA-</text>
+<text x="190" y="499" text-anchor="middle" class="Lx" >mahali</text>
+<text x="250" y="499" text-anchor="middle" class="Lx" >specific place</text>
+<text x="300" y="499" text-anchor="middle" class="Ls" >KU</text>
+<text x="360" y="499" text-anchor="middle" class="Lx" >KU-</text>
+<text x="430" y="499" text-anchor="middle" class="Lx" >kusoma</text>
+<text x="490" y="499" text-anchor="middle" class="Lx" >verbal nouns (infinitive)</text>
+<line x1="20" y1="516" x2="460" y2="516" stroke="black" stroke-width="0.3"/>
+<text x="240" y="524" text-anchor="middle" class="H" >— LANGUAGE HISTORY AND SPREAD —</text>
+<text x="240" y="534" text-anchor="middle" class="Ls" >Swahili = Bantu base (~50-70%) + Arabic (~20-30%) + Persian, Portuguese, English, Hindi loanwords.</text>
+<text x="240" y="543" text-anchor="middle" class="Ls" >Origin: Swahili coast trade lingua franca from ~1st millennium CE. Name from Arabic sawahil (coasts).</text>
+<text x="240" y="552" text-anchor="middle" class="Ls" >Official language of Tanzania, Kenya, Uganda, Rwanda, DRC, Comoros. UN official language (2022).</text>
+<text x="240" y="561" text-anchor="middle" class="Ls" >~15-20M native speakers; ~100-200M as second language across East and Central Africa.</text>
+<text x="240" y="570" text-anchor="middle" class="Ls" >5 vowels /a e i o u/ — the same as Italian/Spanish. All pure, no diphthongs in native words.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 20 · SWAHILI · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
