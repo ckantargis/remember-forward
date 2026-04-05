@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >NAHUATL</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. HUEHUETLAHTOLLI — ANCIENT WORD —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >In ic tiquiāhuac, in ic timochihua tlalli ipan titemi.</text>
+<text x="240" y="90" text-anchor="middle" class="Lx" >in-ic=so-that tiquiāhuac=you-came-out timochihua=you-become tlalli=earth ipan=on titemi=you-walk</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"So that you came out into the world, so that you walk upon the earth." (Huehuetlahtolli birth blessing)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. ILNAMIQUI — ON MEMORY —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >In tlahtolli mo-ilnamiqui, ahmo polihua; teyolloh ipan mochi-ua.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >tlahtolli=word mo-ilnamiqui=is-remembered ahmo=not polihua=is-lost</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >teyolloh=in-hearts-of-people ipan=upon mochi-ua=it-is-made</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"The word that is remembered is not lost; it is made upon the hearts of people."</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. TOLTECAYOTL — ON CRAFT AND KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="L" >In toltecatl, iyolloco quimati, iyollopan quichihua.</text>
+<text x="240" y="196" text-anchor="middle" class="Lx" >toltecatl=craftsperson iyolloco=in-their-heart quimati=knows iyollopan=with-their-heart quichihua=does</text>
+<text x="240" y="206" text-anchor="middle" class="F" >"The craftsperson knows in their heart, does it with their heart." (Aztec concept of toltecayotl / mastery)</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— IV. HUITZTLAMPA — FORWARD —</text>
+<text x="240" y="234" text-anchor="middle" class="L" >Tihuitzeh huitztlampa, tilnamiquini in tohueyitatahuan.</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >tihuitzeh=we-go huitztlampa=toward-the-south/forward tilnamiquini=while-remembering</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >in=our tohueyitatahuan=great-grandfathers/ancestors</text>
+<text x="240" y="264" text-anchor="middle" class="F" >"We go forward, remembering our ancestors." (guiding principle)</text>
+<line x1="20" y1="273" x2="460" y2="273" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="294" text-anchor="middle" class="L" >In axcan tlahtoa inin, momac oticchiuhqueh,</text>
+<text x="240" y="304" text-anchor="middle" class="L" >amo tlamach, in tlahtoa huitztlampa tlalnamiquini.</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >in-axcan=this-now tlahtoa-inin=says-this momac=for-you oticchiuhqueh=we-made-it</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >amo-tlamach=without-payment in-tlahtoa=those-who huitztlampa=toward-forward</text>
+<text x="240" y="336" text-anchor="middle" class="Ls" >tlalnamiquini=are-remembering</text>
+<text x="240" y="348" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="359" x2="460" y2="359" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Huitztlampa = "toward the south / toward the direction of the thorn." In Aztec</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >cosmology, the future is in the south (the direction toward which one walks ahead).</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >Tlalnamiquini = "remembering upon the earth." Amo tlamach = free/without payment.</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >Polysynthetic grammar compresses the entire meaning into dense verb complexes.</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Nahuatl: ~1.7 million speakers in Mexico (Puebla, Veracruz, Guerrero, Hidalgo).</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >Language family: Uto-Aztecan (also includes Hopi, Comanche, Shoshone, Yaqui).</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >Classical Nahuatl: language of the Aztec Triple Alliance (~1428-1521 CE).</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >Words in English: chocolate, tomato, avocado, chile, coyote, ocelot, tamale.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 47D — NAHUATL: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

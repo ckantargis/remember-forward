@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >DUTCH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Nederlands — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Dutch uses the Latin alphabet (26 letters). Spelling is largely phonemic.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >More regular than English; fewer silent letters. IJ (/ɛɪ/) is sometimes counted as 27th letter.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Long vowels: doubled in closed syllables (aa, ee, oo, uu) or single in open syllables.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— ALPHABET —</text>
+<text x="240" y="131" text-anchor="middle" class="L" >A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >Special: IJ (ligature), sometimes written as Ĳĳ. Treated as one letter alphabetically.</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="158" text-anchor="middle" class="H" >— VOWEL SPELLING RULES —</text>
+<text x="240" y="168" text-anchor="middle" class="Ls" >Dutch vowel length is predictable from spelling:</text>
+<text x="150" y="178" text-anchor="middle" class="Ls" >Open syllable: single vowel = long</text>
+<text x="370" y="178" text-anchor="middle" class="Lx" >ba-ker /baːkər/, le-ven /leːvə(n)/</text>
+<text x="150" y="189" text-anchor="middle" class="Ls" >Closed syllable: double vowel = long</text>
+<text x="370" y="189" text-anchor="middle" class="Lx" >baal /baːl/, been /beːn/, boot /boːt/</text>
+<text x="150" y="200" text-anchor="middle" class="Ls" >Closed syllable: single vowel = short</text>
+<text x="370" y="200" text-anchor="middle" class="Lx" >bal /bɑl/, bed /bɛt/, bot /bɔt/</text>
+<text x="150" y="211" text-anchor="middle" class="Ls" >OE = /uː/: "boek" (book) /buːk/</text>
+<text x="370" y="211" text-anchor="middle" class="Lx" >not a double vowel, special digraph</text>
+<text x="150" y="222" text-anchor="middle" class="Ls" >IJ/EI = /ɛɪ/: "mijn" (my) /mɛɪ(n)/</text>
+<text x="370" y="222" text-anchor="middle" class="Lx" >same sound, two spellings</text>
+<text x="150" y="233" text-anchor="middle" class="Ls" >UI = /œy/: "huis" (house) /hœys/</text>
+<text x="370" y="233" text-anchor="middle" class="Lx" >front rounded diphthong</text>
+<line x1="20" y1="250" x2="460" y2="250" stroke="black" stroke-width="0.3"/>
+<text x="240" y="259" text-anchor="middle" class="H" >— G AND CH — VELAR FRICATIVES —</text>
+<text x="240" y="269" text-anchor="middle" class="Ls" >Dutch G /ɣ/ or /x/: velar fricative. The distinctive "guttural G."</text>
+<text x="240" y="279" text-anchor="middle" class="Ls" >Northern NL: voiced /ɣ/: "goed" /ɣut/. Southern NL/Belgium: voiceless /x/.</text>
+<text x="240" y="289" text-anchor="middle" class="Ls" >CH /x/: voiceless velar fricative: "licht" (light) /lɪx t/, "acht" /ɑxt/.</text>
+<text x="240" y="299" text-anchor="middle" class="Ls" >SCH = /sx/: "school" /sxoːl/, "schrijven" (write) /sxrɛɪvə(n)/.</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="0.3"/>
+<text x="240" y="316" text-anchor="middle" class="H" >— DUTCH NUMERALS —</text>
+<text x="55" y="326" text-anchor="middle" class="Lx" >0=nul</text>
+<text x="150" y="326" text-anchor="middle" class="Lx" >1=een</text>
+<text x="245" y="326" text-anchor="middle" class="Lx" >2=twee</text>
+<text x="340" y="326" text-anchor="middle" class="Lx" >3=drie</text>
+<text x="55" y="336" text-anchor="middle" class="Lx" >4=vier</text>
+<text x="150" y="336" text-anchor="middle" class="Lx" >5=vijf</text>
+<text x="245" y="336" text-anchor="middle" class="Lx" >6=zes</text>
+<text x="340" y="336" text-anchor="middle" class="Lx" >7=zeven</text>
+<text x="55" y="346" text-anchor="middle" class="Lx" >8=acht</text>
+<text x="150" y="346" text-anchor="middle" class="Lx" >9=negen</text>
+<text x="245" y="346" text-anchor="middle" class="Lx" >10=tien</text>
+<text x="340" y="346" text-anchor="middle" class="Lx" >20=twintig</text>
+<text x="55" y="356" text-anchor="middle" class="Lx" >100=honderd</text>
+<text x="150" y="356" text-anchor="middle" class="Lx" >1000=duizend</text>
+<line x1="20" y1="376" x2="460" y2="376" stroke="black" stroke-width="0.3"/>
+<text x="240" y="385" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="395" text-anchor="middle" class="Ls" >Dutch: standard language since ~16th century (Statenbijbel 1637 standardised spelling).</text>
+<text x="240" y="405" text-anchor="middle" class="Ls" >Latin alphabet adopted with Christianity (~8th century in Low Countries).</text>
+<text x="240" y="415" text-anchor="middle" class="Ls" >Dutch spelling reform 1947/1954/1995/2005: simplified some older spellings.</text>
+<text x="240" y="425" text-anchor="middle" class="Ls" >Afrikaans (S. Africa, Suriname) is a simplified daughter language of Dutch.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 49A — DUTCH: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

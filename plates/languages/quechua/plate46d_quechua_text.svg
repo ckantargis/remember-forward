@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >QUECHUA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. RIMAY — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Ama suwa, ama llulla, ama qhilla.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >ama=do-not suwa=steal llulla=lie qhilla=be-lazy</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"Do not steal, do not lie, do not be lazy." (Inca moral code; Quechua ethical triad)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. YUYAY — ON MEMORY —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Nawpa machulanchis yuyayninta qhawaspa, kay pachapi kawsanchis.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >nawpa=before machulanchis=our-ancestors yuyayninta=their-memory qhawaspa=looking-at</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >kay-pachapi=in-this-world kawsanchis=we-live</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"Looking at the memory of our ancestors, we live in this world."</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. YACHAY — ON KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="L" >Yachay mana tukukunchu; runakunap sunqunpi kawsan.</text>
+<text x="240" y="196" text-anchor="middle" class="Lx" >yachay=knowledge mana=not tukukunchu=ends-not runakunap=of-people sunqunpi=in-their-heart kawsan=lives</text>
+<text x="240" y="206" text-anchor="middle" class="F" >"Knowledge does not end; it lives in the hearts of people."</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— IV. QHIPA — FORWARD / FUTURE —</text>
+<text x="240" y="234" text-anchor="middle" class="L" >Qhipaman purishanchis, nawpaq machulanchis yuyayninta apashpa.</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >qhipaman=toward-the-future / ahead purishanchis=we-walk</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >nawpaq=our-ancient machulanchis=ancestors yuyayninta=their-memory apashpa=carrying</text>
+<text x="240" y="264" text-anchor="middle" class="F" >"We walk toward the future, carrying the memory of our ancestors."</text>
+<line x1="20" y1="273" x2="460" y2="273" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="294" text-anchor="middle" class="L" >Kay imata qampaq ruwarqanchis, mana qullqiyuqta,</text>
+<text x="240" y="304" text-anchor="middle" class="L" >qhipaman yuyariq runakunam.</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >kay-imata=this-thing qampaq=for-you ruwarqanchis=we-made mana-qullqiyuqta=without-cost</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >qhipaman=toward-the-future yuyariq=remembering runakuna-m=people (evidential -m)</text>
+<text x="240" y="339" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="350" x2="460" y2="350" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="369" text-anchor="middle" class="Ls" >Qhipa = "behind / the future." In Quechua spatial metaphor the PAST is in FRONT</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >(you can see it) and the FUTURE is BEHIND (you cannot see it). Qhipaman =</text>
+<text x="240" y="389" text-anchor="middle" class="Ls" >"toward the future / toward what is behind." This is the reverse of English.</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >The suffix -m (evidential) marks "I know this directly." A true patient message.</text>
+<line x1="20" y1="407" x2="460" y2="407" stroke="black" stroke-width="0.3"/>
+<text x="240" y="416" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >Quechua (Runasimi): ~8-10 million speakers in Peru, Bolivia, Ecuador, Colombia.</text>
+<text x="240" y="436" text-anchor="middle" class="Ls" >Language family: Quechuan (isolate family, not related to other known families).</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Lingua franca of the Inca Empire (~1438-1533). Survives as living language today.</text>
+<text x="240" y="456" text-anchor="middle" class="Ls" >Words borrowed into English: llama, condor, quinoa, puma, coca, guano.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 46D — QUECHUA: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

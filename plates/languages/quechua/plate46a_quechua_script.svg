@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >QUECHUA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Runasimi — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Quechua uses the Latin alphabet. No pre-colonial phonetic script (Inca used quipu).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Modern standardised orthography (1975, revised 1995): 3 vowels, ~20 consonants.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Dialects vary; "Quechua" is a dialect continuum of ~8-10 major varieties.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— QUIPU — KNOTTED RECORDS —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Quipu (khipu): knotted string recording system used by Inca Empire for accounting.</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >~600 surviving quipus; likely encoded numeric + narrative information.</text>
+<text x="240" y="151" text-anchor="middle" class="Ls" >NOT a phonetic script but may encode language structure in knot sequences.</text>
+<text x="240" y="161" text-anchor="middle" class="Ls" >Quipu not yet fully deciphered; represents a non-alphabetic information system.</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="black" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H" >— ALPHABET — STANDARD QUECHUA (RUNASIMI) —</text>
+<text x="240" y="188" text-anchor="middle" class="Ls" >Vowels: only 3 — a, i, u (no e or o in native words). Spanish loanwords add e/o.</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >Standard Quechua uses 3 vowels and ~20 consonants.</text>
+<text x="240" y="208" text-anchor="middle" class="L" >p  t  ch  k  q  ph  th  chh  kh  qh</text>
+<text x="240" y="218" text-anchor="middle" class="L" >p'  t'  ch'  k'  q'  (ejectives)</text>
+<text x="240" y="228" text-anchor="middle" class="L" >m  n  ny  ng  s  sh  h  l  ll  r  w  y</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="0.3"/>
+<text x="240" y="247" text-anchor="middle" class="H" >— THREE-WAY CONSONANT CONTRAST —</text>
+<text x="240" y="257" text-anchor="middle" class="Ls" >Quechua has a unique 3-way stop contrast (unlike 2-way in most languages):</text>
+<text x="240" y="267" text-anchor="middle" class="Ls" >PLAIN: p, t, ch, k, q (simple stops)</text>
+<text x="240" y="277" text-anchor="middle" class="Ls" >ASPIRATED: ph, th, chh, kh, qh (puff of air after release)</text>
+<text x="240" y="287" text-anchor="middle" class="Ls" >EJECTIVE: p', t', ch', k', q' (glottalic egressive, sharp release)</text>
+<text x="240" y="297" text-anchor="middle" class="Ls" >Example: papa (potato) vs. p'apa (peeled) vs. phapa (flat/bland).</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="black" stroke-width="0.3"/>
+<text x="240" y="314" text-anchor="middle" class="H" >— UVULAR Q AND RETROFLEX LL —</text>
+<text x="240" y="324" text-anchor="middle" class="Ls" >Q /q/: uvular stop (back of mouth, beyond velar). </text>
+<text x="240" y="334" text-anchor="middle" class="Ls" >    Qh /qʰ/ (aspirated), Q' /qʼ/ (ejective). Key distinction from K.</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >LL /ʎ/: palatal lateral. Varies by dialect: some dialects = /j/ or /ʞ̪/.</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >NY /ɲ/: palatal nasal, like Spanish ñ.</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H" >— QUECHUA NUMERALS —</text>
+<text x="55" y="381" text-anchor="middle" class="Lx" >1=huk</text>
+<text x="133" y="381" text-anchor="middle" class="Lx" >2=iskay</text>
+<text x="211" y="381" text-anchor="middle" class="Lx" >3=kimsa</text>
+<text x="289" y="381" text-anchor="middle" class="Lx" >4=tawa</text>
+<text x="367" y="381" text-anchor="middle" class="Lx" >5=pichqa</text>
+<text x="55" y="391" text-anchor="middle" class="Lx" >6=suqta</text>
+<text x="133" y="391" text-anchor="middle" class="Lx" >7=qanchis</text>
+<text x="211" y="391" text-anchor="middle" class="Lx" >8=pusaq</text>
+<text x="289" y="391" text-anchor="middle" class="Lx" >9=isqun</text>
+<text x="367" y="391" text-anchor="middle" class="Lx" >10=chunka</text>
+<text x="240" y="401" text-anchor="middle" class="Ls" >20 = iskay chunka · 100 = pachak · 1000 = waranqa · 10000 = chunka waranqa</text>
+<line x1="20" y1="409" x2="460" y2="409" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H" >— SCRIPT HISTORY AND DIALECTS —</text>
+<text x="240" y="428" text-anchor="middle" class="Ls" >Quechua spread with the Inca Empire (~1438-1533 CE) from Cuzco, Peru.</text>
+<text x="240" y="438" text-anchor="middle" class="Ls" >After Spanish conquest, Latin alphabet adopted. Quechua first written ~1560.</text>
+<text x="240" y="448" text-anchor="middle" class="Ls" >Major varieties: Cuzco-Collao, Ancash, Ayacucho, Ecuadorian (Kichwa), Bolivian.</text>
+<text x="240" y="458" text-anchor="middle" class="Ls" >~8-10 million speakers in Peru, Bolivia, Ecuador, Colombia, Argentina.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 46A — QUECHUA: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

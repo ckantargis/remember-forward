@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >ENGLISH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SVO, ANALYTIC —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >English is SVO and analytic (little inflection; function words carry grammar).</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Compared to Latin or Russian, English has minimal case endings and verb conjugations.</text>
+<line x1="20" y1="100" x2="460" y2="100" stroke="black" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="H" >— VERB TENSE SYSTEM —</text>
+<text x="240" y="119" text-anchor="middle" class="Ls" >English has 12 main tenses/aspects (simple, perfect, continuous, perfect-continuous x 3 times):</text>
+<text x="80" y="129" text-anchor="middle" class="Lx" >Simple present: I write / she writes</text>
+<text x="280" y="129" text-anchor="middle" class="Lx" >Present cont.: I am writing</text>
+<text x="80" y="139" text-anchor="middle" class="Lx" >Present perfect: I have written</text>
+<text x="280" y="139" text-anchor="middle" class="Lx" >Pres. perf. cont.: I have been writing</text>
+<text x="80" y="149" text-anchor="middle" class="Lx" >Simple past: I wrote</text>
+<text x="280" y="149" text-anchor="middle" class="Lx" >Past cont.: I was writing</text>
+<text x="80" y="159" text-anchor="middle" class="Lx" >Past perfect: I had written</text>
+<text x="280" y="159" text-anchor="middle" class="Lx" >Past perf. cont.: I had been writing</text>
+<text x="80" y="169" text-anchor="middle" class="Lx" >Simple future: I will write</text>
+<text x="280" y="169" text-anchor="middle" class="Lx" >Future cont.: I will be writing</text>
+<text x="80" y="179" text-anchor="middle" class="Lx" >Future perfect: I will have written</text>
+<text x="280" y="179" text-anchor="middle" class="Lx" >Fut. perf. cont.: I will have been writing</text>
+<line x1="20" y1="203" x2="460" y2="203" stroke="black" stroke-width="0.3"/>
+<text x="240" y="212" text-anchor="middle" class="H" >— IRREGULAR VERBS — STRONG VERBS —</text>
+<text x="240" y="222" text-anchor="middle" class="Ls" >English has ~200 irregular verbs from Old English strong conjugation:</text>
+<text x="65" y="232" text-anchor="middle" class="Lx" >be/was/were/been</text>
+<text x="195" y="232" text-anchor="middle" class="Lx" >go/went/gone</text>
+<text x="325" y="232" text-anchor="middle" class="Lx" >have/had/had</text>
+<text x="65" y="242" text-anchor="middle" class="Lx" >do/did/done</text>
+<text x="195" y="242" text-anchor="middle" class="Lx" >say/said/said</text>
+<text x="325" y="242" text-anchor="middle" class="Lx" >make/made/made</text>
+<text x="65" y="252" text-anchor="middle" class="Lx" >come/came/come</text>
+<text x="195" y="252" text-anchor="middle" class="Lx" >see/saw/seen</text>
+<text x="325" y="252" text-anchor="middle" class="Lx" >know/knew/known</text>
+<text x="65" y="262" text-anchor="middle" class="Lx" >give/gave/given</text>
+<text x="195" y="262" text-anchor="middle" class="Lx" >get/got/got/gotten</text>
+<text x="325" y="262" text-anchor="middle" class="Lx" >take/took/taken</text>
+<line x1="20" y1="290" x2="460" y2="290" stroke="black" stroke-width="0.3"/>
+<text x="240" y="299" text-anchor="middle" class="H" >— ARTICLES — DEFINITE AND INDEFINITE —</text>
+<text x="240" y="309" text-anchor="middle" class="Ls" >"The" (definite): specific known item. "A/an" (indefinite): any one item.</text>
+<text x="240" y="319" text-anchor="middle" class="Ls" >No articles in many languages (Mandarin, Russian, Latin, Swahili).</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >"A/an": use "an" before vowel sounds: "an hour" (/ˈaʊər/).</text>
+<line x1="20" y1="337" x2="460" y2="337" stroke="black" stroke-width="0.3"/>
+<text x="240" y="346" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="356" text-anchor="middle" class="Ls" >hello / hi</text>
+<text x="175" y="356" text-anchor="middle" class="Lx" >greeting</text>
+<text x="50" y="366" text-anchor="middle" class="Ls" >thank you</text>
+<text x="175" y="366" text-anchor="middle" class="Lx" >gratitude</text>
+<text x="50" y="376" text-anchor="middle" class="Ls" >yes</text>
+<text x="175" y="376" text-anchor="middle" class="Lx" >affirmation</text>
+<text x="50" y="386" text-anchor="middle" class="Ls" >no</text>
+<text x="175" y="386" text-anchor="middle" class="Lx" >negation</text>
+<text x="50" y="396" text-anchor="middle" class="Ls" >please</text>
+<text x="175" y="396" text-anchor="middle" class="Lx" >polite request</text>
+<text x="50" y="406" text-anchor="middle" class="Ls" >how are you?</text>
+<text x="175" y="406" text-anchor="middle" class="Lx" >greeting query</text>
+<text x="50" y="416" text-anchor="middle" class="Ls" >I am fine</text>
+<text x="175" y="416" text-anchor="middle" class="Lx" >standard reply</text>
+<text x="50" y="426" text-anchor="middle" class="Ls" >I love you</text>
+<text x="175" y="426" text-anchor="middle" class="Lx" >affection</text>
+<text x="50" y="436" text-anchor="middle" class="Ls" >water</text>
+<text x="175" y="436" text-anchor="middle" class="Lx" >liquid H2O</text>
+<text x="50" y="446" text-anchor="middle" class="Ls" >fire</text>
+<text x="175" y="446" text-anchor="middle" class="Lx" >combustion</text>
+<text x="50" y="456" text-anchor="middle" class="Ls" >earth</text>
+<text x="175" y="456" text-anchor="middle" class="Lx" >soil/ground</text>
+<text x="50" y="466" text-anchor="middle" class="Ls" >person</text>
+<text x="175" y="466" text-anchor="middle" class="Lx" >human being</text>
+<text x="285" y="356" text-anchor="middle" class="Ls" >time</text>
+<text x="410" y="356" text-anchor="middle" class="Lx" >duration</text>
+<text x="285" y="366" text-anchor="middle" class="Ls" >moon</text>
+<text x="410" y="366" text-anchor="middle" class="Lx" >Earth's satellite</text>
+<text x="285" y="376" text-anchor="middle" class="Ls" >star</text>
+<text x="410" y="376" text-anchor="middle" class="Lx" >celestial body</text>
+<text x="285" y="386" text-anchor="middle" class="Ls" >heart</text>
+<text x="410" y="386" text-anchor="middle" class="Lx" >organ/emotion</text>
+<text x="285" y="396" text-anchor="middle" class="Ls" >love</text>
+<text x="410" y="396" text-anchor="middle" class="Lx" >deep affection</text>
+<text x="285" y="406" text-anchor="middle" class="Ls" >freedom</text>
+<text x="410" y="406" text-anchor="middle" class="Lx" >liberty</text>
+<text x="285" y="416" text-anchor="middle" class="Ls" >memory</text>
+<text x="410" y="416" text-anchor="middle" class="Lx" >stored experience</text>
+<text x="285" y="426" text-anchor="middle" class="Ls" >future</text>
+<text x="410" y="426" text-anchor="middle" class="Lx" >time ahead</text>
+<text x="285" y="436" text-anchor="middle" class="Ls" >world</text>
+<text x="410" y="436" text-anchor="middle" class="Lx" >Earth/all</text>
+<text x="285" y="446" text-anchor="middle" class="Ls" >life</text>
+<text x="410" y="446" text-anchor="middle" class="Lx" >being alive</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 48C — ENGLISH: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

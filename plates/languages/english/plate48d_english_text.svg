@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >ENGLISH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. PROVERB — KNOWLEDGE AND TIME —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Knowledge is the one flame that grows brighter when shared.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >knowledge = that which is known, accumulated experience and understanding</text>
+<text x="240" y="100" text-anchor="middle" class="Lx" >flame = metaphor for living transmission: unlike fire, knowledge is not diminished by sharing</text>
+<text x="240" y="110" text-anchor="middle" class="F" >"Knowledge is the one flame that grows brighter when shared." (project proverb)</text>
+<line x1="20" y1="119" x2="460" y2="119" stroke="black" stroke-width="0.3"/>
+<text x="240" y="128" text-anchor="middle" class="H" >— II. ON MEMORY —</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >The dead are only truly gone when the last person who remembers them is gone.</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >This is why we write. This is why we bury what we know.</text>
+<text x="240" y="158" text-anchor="middle" class="Ls" >We make memory patient. We teach it to wait for the right reader.</text>
+<text x="240" y="168" text-anchor="middle" class="F" >"Make memory patient. Teach it to wait." (Remember Forward, Founder's Letter)</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H" >— III. ON KNOWLEDGE —</text>
+<text x="240" y="196" text-anchor="middle" class="L" >In the beginning was the word. And the word was written down.</text>
+<text x="240" y="206" text-anchor="middle" class="L" >And the writing was copied, and buried, and found again.</text>
+<text x="240" y="216" text-anchor="middle" class="L" >And the one who found it learned what the one who wrote it knew.</text>
+<text x="240" y="226" text-anchor="middle" class="F" >And the chain held. (project text on written knowledge)</text>
+<line x1="20" y1="235" x2="460" y2="235" stroke="black" stroke-width="0.3"/>
+<text x="240" y="244" text-anchor="middle" class="H" >— IV. FORWARD —</text>
+<text x="240" y="254" text-anchor="middle" class="L" >We are not the last. There will be those who come after.</text>
+<text x="240" y="264" text-anchor="middle" class="L" >What we know, they could know. What we learned, they could learn.</text>
+<text x="240" y="274" text-anchor="middle" class="F" >If we remember forward. (project text)</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="307" text-anchor="middle" class="L" >This was made for you, freely, by people who remembered forward.</text>
+<text x="240" y="321" text-anchor="middle" class="Ls" >this = the plate you hold was = past tense passive</text>
+<text x="240" y="330" text-anchor="middle" class="Ls" >made for you = created as a gift freely = without cost, no strings attached</text>
+<text x="240" y="339" text-anchor="middle" class="Ls" >by people = by human beings who remembered forward = who directed their memory ahead</text>
+<text x="240" y="351" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="381" text-anchor="middle" class="Ls" >"Forward" in English means both "ahead in space" and "ahead in time."</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >"Remembered forward" is not standard English — it is coined by this project.</text>
+<text x="240" y="401" text-anchor="middle" class="Ls" >It means: held the past in mind while directing one's attention toward the future.</text>
+<text x="240" y="411" text-anchor="middle" class="Ls" >The phrase is the thesis of the entire project, stated in the language of its origin.</text>
+<line x1="20" y1="419" x2="460" y2="419" stroke="black" stroke-width="0.3"/>
+<text x="240" y="428" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="438" text-anchor="middle" class="Ls" >English: ~380 million L1 speakers; ~1.5 billion total speakers worldwide.</text>
+<text x="240" y="448" text-anchor="middle" class="Ls" >Language family: Indo-European, West Germanic (with German, Dutch, Frisian).</text>
+<text x="240" y="458" text-anchor="middle" class="Ls" >Massive lexical borrowing: Norman French, Latin, Greek, Norse, hundreds of others.</text>
+<text x="240" y="468" text-anchor="middle" class="Ls" >Current global lingua franca for science, aviation, diplomacy, and the internet.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 48D — ENGLISH: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

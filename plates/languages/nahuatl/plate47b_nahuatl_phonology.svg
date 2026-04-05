@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >NAHUATL</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Sounds and Unique Features</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="80" y="82" text-anchor="middle" class="Lx" >p /p/: bilabial stop</text>
+<text x="280" y="82" text-anchor="middle" class="Lx" >t /t/: alveolar stop</text>
+<text x="80" y="92" text-anchor="middle" class="Lx" >k /k/: velar stop</text>
+<text x="280" y="92" text-anchor="middle" class="Lx" >kw /kw/: labiovelar stop</text>
+<text x="80" y="102" text-anchor="middle" class="Lx" >ts /ts/: alveolar affricate</text>
+<text x="280" y="102" text-anchor="middle" class="Lx" >tɕ /tɕ/: palatal affricate</text>
+<text x="80" y="112" text-anchor="middle" class="Lx" >tɬ /tɬ/: lateral affricate</text>
+<text x="280" y="112" text-anchor="middle" class="Lx" >s /s/: alveolar fricative</text>
+<text x="80" y="122" text-anchor="middle" class="Lx" >ʃ /ʃ/: postalveolar</text>
+<text x="280" y="122" text-anchor="middle" class="Lx" >l /l/: lateral</text>
+<text x="80" y="132" text-anchor="middle" class="Lx" >m /m/: bilabial nasal</text>
+<text x="280" y="132" text-anchor="middle" class="Lx" >n /n/: alveolar nasal</text>
+<text x="80" y="142" text-anchor="middle" class="Lx" >w /w/: labio-velar approx</text>
+<text x="280" y="142" text-anchor="middle" class="Lx" >y /j/: palatal approx</text>
+<text x="80" y="152" text-anchor="middle" class="Lx" >h /h/: glottal fric</text>
+<text x="280" y="152" text-anchor="middle" class="Lx" >ʔ /ʔ/: glottal stop</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="184" text-anchor="middle" class="H" >— TL — LATERAL AFFRICATE —</text>
+<text x="240" y="194" text-anchor="middle" class="Ls" >TL /tɬ/: simultaneous alveolar stop + lateral fricative release.</text>
+<text x="240" y="204" text-anchor="middle" class="Ls" >Unique to Nahuatl and related Uto-Aztecan languages; not found in most world languages.</text>
+<text x="240" y="214" text-anchor="middle" class="Ls" >Examples: atl (water), tlatoa (speak), tlahtoa (speak carefully), xochitl (flower).</text>
+<text x="240" y="224" text-anchor="middle" class="Ls" >Word-final tl: released with lateral air on both sides of tongue tip.</text>
+<line x1="20" y1="232" x2="460" y2="232" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H" >— VOWEL SYSTEM — 4 VOWELS + LENGTH —</text>
+<text x="120" y="251" text-anchor="middle" class="Ls" >a /a/ : ā /aː/</text>
+<text x="340" y="251" text-anchor="middle" class="Lx" >open central: atl (water), āmatl (paper)</text>
+<text x="120" y="262" text-anchor="middle" class="Ls" >e /e/ : ē /eː/</text>
+<text x="340" y="262" text-anchor="middle" class="Lx" >mid-front: te (stone), tētl (stone)</text>
+<text x="120" y="273" text-anchor="middle" class="Ls" >i /i/ : ī /iː/</text>
+<text x="340" y="273" text-anchor="middle" class="Lx" >high front: ichtli (thread)</text>
+<text x="120" y="284" text-anchor="middle" class="Ls" >o /o/ : ō /oː/</text>
+<text x="340" y="284" text-anchor="middle" class="Lx" >mid-back: ocelotl (jaguar)</text>
+<line x1="20" y1="300" x2="460" y2="300" stroke="black" stroke-width="0.3"/>
+<text x="240" y="309" text-anchor="middle" class="H" >— GLOTTAL STOP —</text>
+<text x="240" y="319" text-anchor="middle" class="Ls" >Glottal stop /ʔ/ phonemic in Classical Nahuatl. Often unmarked in modern texts.</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >Contrasts: "toca" (to sow) vs. "toʼa" (our aunt). Context-critical.</text>
+<line x1="20" y1="337" x2="460" y2="337" stroke="black" stroke-width="0.3"/>
+<text x="240" y="346" text-anchor="middle" class="H" >— STRESS —</text>
+<text x="240" y="356" text-anchor="middle" class="Ls" >Stress: penultimate syllable in Classical Nahuatl.</text>
+<text x="240" y="366" text-anchor="middle" class="Ls" >Modern dialects vary; some have shifted stress patterns.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 47B — NAHUATL: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

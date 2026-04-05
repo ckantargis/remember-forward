@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >NAHUATL</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Nahuatl — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Modern Nahuatl uses the Latin alphabet (adopted post-1521 Spanish conquest).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Multiple orthographies in use; Classical Nahuatl spelling system shown here.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Pre-colonial Nahuatl: pictographic/logographic writing (Aztec codices) + phonetic elements.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— PRE-COLONIAL WRITING — AZTEC PICTOGRAPHY —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Aztec writing combined pictograms, logograms, and phonetic complements (rebuses).</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >Not a fully phonetic system: partially logographic + phonetic signs for sounds.</text>
+<text x="240" y="151" text-anchor="middle" class="Ls" >Major codices: Codex Mendoza, Codex Borgia, Tonalamatl (ritual calendar).</text>
+<text x="240" y="161" text-anchor="middle" class="Ls" >After conquest, missionaries created Latin-based phonetic orthography (~1540s).</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="black" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H" >— NAHUATL ALPHABET — CLASSICAL ORTHOGRAPHY —</text>
+<text x="240" y="188" text-anchor="middle" class="Ls" >26 letters. Special sounds: tl, tz (affricates), hu/uh (labiovelar /w/), cu/uc (kw).</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >Long vowels marked with macron in careful text: ā, ī, ō, ū.</text>
+<text x="240" y="208" text-anchor="middle" class="Ls" >A Ā  C  CH  CU  E  Ē  H  HU  I  Ī  L  M  N  O  Ō  P  QU  T  TL  TZ  U  Ū  X  Y  Z</text>
+<line x1="20" y1="216" x2="460" y2="216" stroke="black" stroke-width="0.3"/>
+<text x="240" y="225" text-anchor="middle" class="H" >— SPECIAL CONSONANTS —</text>
+<text x="240" y="235" text-anchor="middle" class="Ls" >TL /tɬ/: lateral affricate (unique to Nahuatl family). "atl" (water) = /atɬ/.</text>
+<text x="240" y="245" text-anchor="middle" class="Ls" >TZ /ts/: alveolar affricate. "tzin" (small/revered) = /tsin/.</text>
+<text x="240" y="255" text-anchor="middle" class="Ls" >X /ʃ/: postalveolar fricative (like English "sh"). "xochitl" = /ʃo.tɕitɬ/.</text>
+<text x="240" y="265" text-anchor="middle" class="Ls" >HU/UH /w/: labiovelar approximant. "huey" (great) = /wej/.</text>
+<text x="240" y="275" text-anchor="middle" class="Ls" >CU/UC /kw/: labiovelar stop. "cueitl" (skirt) = /kwejtɬ/.</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H" >— LONG VOWELS —</text>
+<text x="240" y="302" text-anchor="middle" class="Ls" >Nahuatl distinguishes vowel length: a vs. ā, i vs. ī, o vs. ō, u vs. ū.</text>
+<text x="240" y="312" text-anchor="middle" class="Ls" >In modern texts often unmarked; Classical Nahuatl grammars mark length consistently.</text>
+<text x="240" y="322" text-anchor="middle" class="Ls" >Tlātocatl (ruler) vs. tlatocatl (speaker). Meaning changes with length.</text>
+<line x1="20" y1="330" x2="460" y2="330" stroke="black" stroke-width="0.3"/>
+<text x="240" y="339" text-anchor="middle" class="H" >— NAHUATL NUMERALS (VIGESIMAL BASE-20) —</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Nahuatl uses a vigesimal (base-20) counting system:</text>
+<text x="65" y="359" text-anchor="middle" class="Lx" >1=ce</text>
+<text x="195" y="359" text-anchor="middle" class="Lx" >2=ome</text>
+<text x="325" y="359" text-anchor="middle" class="Lx" >3=yei</text>
+<text x="65" y="369" text-anchor="middle" class="Lx" >4=nahui</text>
+<text x="195" y="369" text-anchor="middle" class="Lx" >5=mahcuilli</text>
+<text x="325" y="369" text-anchor="middle" class="Lx" >6=chicuace</text>
+<text x="65" y="379" text-anchor="middle" class="Lx" >10=mahtlactli</text>
+<text x="195" y="379" text-anchor="middle" class="Lx" >15=caxtoltic</text>
+<text x="325" y="379" text-anchor="middle" class="Lx" >20=cempohualli</text>
+<text x="65" y="389" text-anchor="middle" class="Lx" >400=centzontli</text>
+<text x="195" y="389" text-anchor="middle" class="Lx" >8000=cenxiquipilli</text>
+<text x="240" y="409" text-anchor="middle" class="Lx" >Base-20 counting: 20=1 score, 400=20x20, 8000=20x20x20 (like some Celtic numerals).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 47A — NAHUATL: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

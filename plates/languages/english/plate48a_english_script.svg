@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >ENGLISH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script — Latin Alphabet &amp; Orthography</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >English uses the Latin alphabet (26 letters). No diacritics in native words.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Orthography is highly irregular: historical spellings preserved despite sound changes.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >"though" /ðoʊ/, "through" /θruː/, "cough" /kɔf/, "rough" /rʌf/ — same -ough, 4 sounds.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— ALPHABET —</text>
+<text x="240" y="131" text-anchor="middle" class="L" >A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >Upper and lower case. Pronounced very differently from Latin or Spanish values.</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="158" text-anchor="middle" class="H" >— SPELLING IRREGULARITIES — KEY PATTERNS —</text>
+<text x="100" y="168" text-anchor="middle" class="Ls" >silent letters</text>
+<text x="310" y="168" text-anchor="middle" class="Lx" >"knight" /naɪt/, "write" /raɪt/, "gnome" /noʊm/</text>
+<text x="100" y="179" text-anchor="middle" class="Ls" >-tion suffix</text>
+<text x="310" y="179" text-anchor="middle" class="Lx" >/ʃən/: "nation", "station", "fiction"</text>
+<text x="100" y="190" text-anchor="middle" class="Ls" >c = /k/ or /s/</text>
+<text x="310" y="190" text-anchor="middle" class="Lx" >"cat" /kæt/ vs "cent" /sɛnt/ (before e/i/y)</text>
+<text x="100" y="201" text-anchor="middle" class="Ls" >gh = /f/ or silent</text>
+<text x="310" y="201" text-anchor="middle" class="Lx" >"rough" /rʌf/, "night" /naɪt/ (no sound)</text>
+<text x="100" y="212" text-anchor="middle" class="Ls" >ea = multiple sounds</text>
+<text x="310" y="212" text-anchor="middle" class="Lx" >"bread" /ɛ/, "bead" /iː/, "great" /eɪ/</text>
+<text x="100" y="223" text-anchor="middle" class="Ls" >-ed past tense</text>
+<text x="310" y="223" text-anchor="middle" class="Lx" >/t/ "walked", /d/ "lived", /ɪd/ "wanted"</text>
+<text x="100" y="234" text-anchor="middle" class="Ls" >double consonants</text>
+<text x="310" y="234" text-anchor="middle" class="Lx" >often signal short vowel: "bitter" vs "biter"</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="black" stroke-width="0.3"/>
+<text x="240" y="262" text-anchor="middle" class="H" >— IPA FOR ENGLISH — RECEIVED PRONUNCIATION —</text>
+<text x="240" y="272" text-anchor="middle" class="Ls" >English has ~44 phonemes (RP) but only 26 letters. IPA bridging essential.</text>
+<text x="240" y="282" text-anchor="middle" class="Ls" >Vowels: /iː ɪ e æ ɑː ɔː ʊ uː ʌ ə ɜː eɪ əʊ aɪ ɔɪ ɪə eə ʊə/</text>
+<text x="240" y="292" text-anchor="middle" class="Ls" >Consonants: /p b t d k ɡ tʃ dʒ f v θ ð s z ʃ ʒ m n ŋ l r w j h/</text>
+<line x1="20" y1="300" x2="460" y2="300" stroke="black" stroke-width="0.3"/>
+<text x="240" y="309" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="319" text-anchor="middle" class="Ls" >Old English (450-1100 CE): runic alphabet (futhorc) + Latin alphabet with thorn (þ), eth (ð), wynn.</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >Middle English (1100-1500): Norman French influence; many French spellings adopted.</text>
+<text x="240" y="339" text-anchor="middle" class="Ls" >Modern English (~1500+): printing press standardised spelling; Great Vowel Shift changed pronunciation.</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Result: spelling frozen in 1500s, pronunciation continued shifting — creating irregularities.</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="366" text-anchor="middle" class="H" >— ENGLISH NUMERALS AND COUNTING —</text>
+<text x="50" y="376" text-anchor="middle" class="Lx" >1=one</text>
+<text x="126" y="376" text-anchor="middle" class="Lx" >2=two</text>
+<text x="202" y="376" text-anchor="middle" class="Lx" >3=three</text>
+<text x="278" y="376" text-anchor="middle" class="Lx" >4=four</text>
+<text x="354" y="376" text-anchor="middle" class="Lx" >5=five</text>
+<text x="50" y="386" text-anchor="middle" class="Lx" >6=six</text>
+<text x="126" y="386" text-anchor="middle" class="Lx" >7=seven</text>
+<text x="202" y="386" text-anchor="middle" class="Lx" >8=eight</text>
+<text x="278" y="386" text-anchor="middle" class="Lx" >9=nine</text>
+<text x="354" y="386" text-anchor="middle" class="Lx" >10=ten</text>
+<text x="50" y="396" text-anchor="middle" class="Lx" >11=eleven</text>
+<text x="126" y="396" text-anchor="middle" class="Lx" >12=twelve</text>
+<text x="202" y="396" text-anchor="middle" class="Lx" >13=thirteen</text>
+<text x="278" y="396" text-anchor="middle" class="Lx" >20=twenty</text>
+<text x="354" y="396" text-anchor="middle" class="Lx" >100=hundred</text>
+<text x="240" y="406" text-anchor="middle" class="Ls" >1000 = thousand · 1,000,000 = million · 1,000,000,000 = billion</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 48A — ENGLISH: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

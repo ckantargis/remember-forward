@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >DUTCH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. SPREEKWOORD — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Wie niet waagt, wie niet wint.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >wie=who niet=not waagt=dares wint=wins</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"Who dares not, wins not." (Dutch proverb on courage and forward action)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. HERINNERING — ON MEMORY —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Wie zijn verleden niet kent, is gedwongen het te herhalen.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >wie=who zijn=his verleden=past niet-kent=does-not-know</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >is-gedwongen=is-forced het-te-herhalen=to-repeat-it</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"Who does not know their past is forced to repeat it." (Dutch version of Santayana)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. KENNIS — ON KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="L" >Kennis is de enige rijkdom die groeit als je haar deelt.</text>
+<text x="240" y="196" text-anchor="middle" class="Ls" >kennis=knowledge is=is de-enige=the-only rijkdom=wealth die=that groeit=grows</text>
+<text x="240" y="206" text-anchor="middle" class="Ls" >als=when je=you haar=it deelt=share</text>
+<text x="240" y="216" text-anchor="middle" class="F" >"Knowledge is the only wealth that grows when you share it." (Dutch educational saying)</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— IV. VOORUIT — FORWARD —</text>
+<text x="240" y="244" text-anchor="middle" class="L" >Wij gaan vooruit, terwijl wij denken aan hen die ons voorgingen.</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >wij=we gaan=go vooruit=forward terwijl=while wij=we denken-aan=think-of</text>
+<text x="240" y="264" text-anchor="middle" class="Ls" >hen=them die=who ons=us voorgingen=preceded/went-before</text>
+<text x="240" y="274" text-anchor="middle" class="F" >"We go forward, while thinking of those who preceded us." (guiding principle)</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="305" text-anchor="middle" class="L" >Dit werd voor jou gemaakt, gratis,</text>
+<text x="240" y="315" text-anchor="middle" class="L" >door mensen die vooruit herinnerden.</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >dit=this werd=was gemaakt=made voor-jou=for-you gratis=free of charge</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >door=by mensen=people die=who vooruit=forward herinnerden=remembered</text>
+<text x="240" y="350" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="361" x2="460" y2="361" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="380" text-anchor="middle" class="Ls" >Vooruit = "forward / ahead" (voor=before + uit=out). Herinnerden = "remembered" (past).</text>
+<text x="240" y="390" text-anchor="middle" class="Ls" >"Vooruit herinneren" is a coined phrase: "remember forward." In Dutch, herinneren</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >means "to remember" (recall the past); adding vooruit = directing that into the future.</text>
+<text x="240" y="410" text-anchor="middle" class="Ls" >Gratis = free of charge (from Latin gratis, "for grace/favor").</text>
+<line x1="20" y1="418" x2="460" y2="418" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="437" text-anchor="middle" class="Ls" >Dutch: ~24 million L1 speakers in Netherlands, Belgium (Flanders), Suriname.</text>
+<text x="240" y="447" text-anchor="middle" class="Ls" >Language family: Indo-European, West Germanic (with English, German, Frisian).</text>
+<text x="240" y="457" text-anchor="middle" class="Ls" >Dutch was dominant colonial language in South Africa, Indonesia, New York (New Amsterdam).</text>
+<text x="240" y="467" text-anchor="middle" class="Ls" >Hundreds of English words from Dutch: yacht, easel, landscape, cookie, boss, cruise.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 49D — DUTCH: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

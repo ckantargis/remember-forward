@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >QUECHUA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Ejectives, Aspirates, Uvulars</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY — CUZCO QUECHUA —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Cuzco Quechua: ~35 consonants with 3-way stop contrast at 5 places of articulation.</text>
+<text x="60" y="92" text-anchor="middle" class="Lx" >Place</text>
+<text x="180" y="92" text-anchor="middle" class="Lx" >Plain</text>
+<text x="290" y="92" text-anchor="middle" class="Lx" >Aspirated</text>
+<text x="400" y="92" text-anchor="middle" class="Lx" >Ejective</text>
+<text x="60" y="103" text-anchor="middle" class="Ls" >Bilabial</text>
+<text x="180" y="103" text-anchor="middle" class="Ls" >p /p/</text>
+<text x="290" y="103" text-anchor="middle" class="Ls" >ph /pʰ/</text>
+<text x="400" y="103" text-anchor="middle" class="Ls" >p' /pʼ/</text>
+<text x="60" y="114" text-anchor="middle" class="Ls" >Alveolar</text>
+<text x="180" y="114" text-anchor="middle" class="Ls" >t /t/</text>
+<text x="290" y="114" text-anchor="middle" class="Ls" >th /tʰ/</text>
+<text x="400" y="114" text-anchor="middle" class="Ls" >t' /tʼ/</text>
+<text x="60" y="125" text-anchor="middle" class="Ls" >Palatal</text>
+<text x="180" y="125" text-anchor="middle" class="Ls" >ch /tɕ/</text>
+<text x="290" y="125" text-anchor="middle" class="Ls" >chh /tɕʰ/</text>
+<text x="400" y="125" text-anchor="middle" class="Ls" >ch' /tɕʼ/</text>
+<text x="60" y="136" text-anchor="middle" class="Ls" >Velar</text>
+<text x="180" y="136" text-anchor="middle" class="Ls" >k /k/</text>
+<text x="290" y="136" text-anchor="middle" class="Ls" >kh /kʰ/</text>
+<text x="400" y="136" text-anchor="middle" class="Ls" >k' /kʼ/</text>
+<text x="60" y="147" text-anchor="middle" class="Ls" >Uvular</text>
+<text x="180" y="147" text-anchor="middle" class="Ls" >q /q/</text>
+<text x="290" y="147" text-anchor="middle" class="Ls" >qh /qʰ/</text>
+<text x="400" y="147" text-anchor="middle" class="Ls" >q' /qʼ/</text>
+<line x1="20" y1="163" x2="460" y2="163" stroke="black" stroke-width="0.3"/>
+<text x="240" y="172" text-anchor="middle" class="H" >— FRICATIVES AND NASALS —</text>
+<text x="65" y="182" text-anchor="middle" class="Lx" >s /s/ alveolar fric</text>
+<text x="195" y="182" text-anchor="middle" class="Lx" >sh /ʃ/ postalveolar</text>
+<text x="325" y="182" text-anchor="middle" class="Lx" >h /h/ glottal</text>
+<text x="65" y="192" text-anchor="middle" class="Lx" >m /m/ bilabial nasal</text>
+<text x="195" y="192" text-anchor="middle" class="Lx" >n /n/ alveolar nasal</text>
+<text x="325" y="192" text-anchor="middle" class="Lx" >ny /ɲ/ palatal nasal</text>
+<text x="65" y="202" text-anchor="middle" class="Lx" >ng /ŋ/ velar nasal</text>
+<text x="195" y="202" text-anchor="middle" class="Lx" >l /l/ lateral</text>
+<text x="325" y="202" text-anchor="middle" class="Lx" >ll /ʎ/ palatal lateral</text>
+<text x="65" y="212" text-anchor="middle" class="Lx" >r /r/ trill</text>
+<text x="195" y="212" text-anchor="middle" class="Lx" >w /w/ labio-velar</text>
+<text x="325" y="212" text-anchor="middle" class="Lx" >y /j/ palatal approx</text>
+<line x1="20" y1="232" x2="460" y2="232" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H" >— VOWEL SYSTEM — 3 VOWELS —</text>
+<text x="240" y="251" text-anchor="middle" class="Ls" >Native Quechua has only 3 phonemic vowels: /a/, /i/, /u/.</text>
+<text x="240" y="261" text-anchor="middle" class="Ls" >Adjacent to uvular Q, vowels lower: /i/→[ɛ], /u/→[ɔ], /a/→[aː].</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >Written "e" and "o" appear next to q: qiwa [qɛwa] (grass), qucha [qɔtɕa] (lake).</text>
+<text x="240" y="281" text-anchor="middle" class="Ls" >Spanish loanwords introduce /e/ and /o/ as distinct phonemes.</text>
+<line x1="20" y1="289" x2="460" y2="289" stroke="black" stroke-width="0.3"/>
+<text x="240" y="298" text-anchor="middle" class="H" >— EJECTIVE CONSONANTS — PHONETIC DETAIL —</text>
+<text x="240" y="308" text-anchor="middle" class="Ls" >Ejectives (/pʼ/, /tʼ/, etc.): produced by closing both glottis and oral stop simultaneously,</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >then releasing oral closure first. Creates a sharp, plosive click-like quality.</text>
+<text x="240" y="328" text-anchor="middle" class="Ls" >Found in Quechua, Aymara, Caucasian languages, some African languages.</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >Not in English or European languages; notable learning challenge.</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="355" text-anchor="middle" class="H" >— STRESS AND SYLLABLE STRUCTURE —</text>
+<text x="240" y="365" text-anchor="middle" class="Ls" >Stress: penultimate syllable in most words. No tone.</text>
+<text x="240" y="375" text-anchor="middle" class="Ls" >Syllable: (C)(C)V(C). Consonant clusters rare; V = a, i, or u primarily.</text>
+<text x="240" y="385" text-anchor="middle" class="Ls" >Vowel length contrastive in some dialects (Ancash Quechua).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 46B — QUECHUA: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

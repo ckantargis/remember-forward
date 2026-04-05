@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >QUECHUA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SOV, AGGLUTINATIVE —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Quechua is SOV and highly agglutinative. Long words are built by chaining suffixes.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Noqa mikuni. I eat. (noqa=I miku=eat -ni=1sg present)</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Noqa mikhunita munani. I want to eat. (mikhu-ni-ta=eating-OBJ muna-ni=want-1sg)</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— CASE SUFFIXES —</text>
+<text x="90" y="129" text-anchor="middle" class="Ls" >-ta</text>
+<text x="290" y="129" text-anchor="middle" class="Lx" >accusative/object: runtuta mikuni (I eat an egg)</text>
+<text x="90" y="139" text-anchor="middle" class="Ls" >-man</text>
+<text x="290" y="139" text-anchor="middle" class="Lx" >dative/allative: Limaman rini (I go to Lima)</text>
+<text x="90" y="149" text-anchor="middle" class="Ls" >-pi</text>
+<text x="290" y="149" text-anchor="middle" class="Lx" >locative: wasapi (in the house)</text>
+<text x="90" y="159" text-anchor="middle" class="Ls" >-manta</text>
+<text x="290" y="159" text-anchor="middle" class="Lx" >ablative: wasaymanta (from the house)</text>
+<text x="90" y="169" text-anchor="middle" class="Ls" >-pa / -q</text>
+<text x="290" y="169" text-anchor="middle" class="Lx" >genitive: wasaypa (of the house)</text>
+<text x="90" y="179" text-anchor="middle" class="Ls" >-wan</text>
+<text x="290" y="179" text-anchor="middle" class="Lx" >comitative: paywan (with him/her)</text>
+<text x="90" y="189" text-anchor="middle" class="Ls" >-kama</text>
+<text x="290" y="189" text-anchor="middle" class="Lx" >terminative: Limaykama (as far as Lima)</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="214" text-anchor="middle" class="H" >— VERB MORPHOLOGY —</text>
+<text x="240" y="224" text-anchor="middle" class="Ls" >Verb suffixes encode tense, aspect, person, evidentiality, direction:</text>
+<text x="130" y="234" text-anchor="middle" class="L" >miku-ni</text>
+<text x="320" y="234" text-anchor="middle" class="Ls" >I eat (present 1sg)</text>
+<text x="130" y="244" text-anchor="middle" class="L" >miku-nki</text>
+<text x="320" y="244" text-anchor="middle" class="Ls" >you eat (present 2sg)</text>
+<text x="130" y="254" text-anchor="middle" class="L" >miku-n</text>
+<text x="320" y="254" text-anchor="middle" class="Ls" >he/she eats (present 3sg)</text>
+<text x="130" y="264" text-anchor="middle" class="L" >miku-rqa-ni</text>
+<text x="320" y="264" text-anchor="middle" class="Ls" >I ate (past 1sg)</text>
+<text x="130" y="274" text-anchor="middle" class="L" >miku-sqa-ni</text>
+<text x="320" y="274" text-anchor="middle" class="Ls" >I ate (evidential past)</text>
+<text x="130" y="284" text-anchor="middle" class="L" >miku-nqa-ni</text>
+<text x="320" y="284" text-anchor="middle" class="Ls" >I will eat (future 1sg)</text>
+<text x="130" y="294" text-anchor="middle" class="L" >miku-sha-ni</text>
+<text x="320" y="294" text-anchor="middle" class="Ls" >I am eating (progressive)</text>
+<text x="130" y="304" text-anchor="middle" class="L" >mana miku-ni-chu</text>
+<text x="320" y="304" text-anchor="middle" class="Ls" >I don't eat (neg)</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H" >— EVIDENTIALITY — UNIQUE FEATURE —</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >Quechua grammatically marks how the speaker knows what they say (evidentiality):</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >-mi/-m: direct evidence (I saw it myself)</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >-si/-s: reported speech (I heard that...)</text>
+<text x="240" y="374" text-anchor="middle" class="Ls" >-chi: conjectural (I suppose/infer that...)</text>
+<text x="240" y="384" text-anchor="middle" class="Lx" >Example: Paymi hamun = He is coming (I see him). Paysi hamun = He is coming (I was told).</text>
+<line x1="20" y1="392" x2="460" y2="392" stroke="black" stroke-width="0.3"/>
+<text x="240" y="401" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="411" text-anchor="middle" class="Ls" >allianchu?</text>
+<text x="175" y="411" text-anchor="middle" class="Lx" >hello/how are you?</text>
+<text x="50" y="421" text-anchor="middle" class="Ls" >allinim</text>
+<text x="175" y="421" text-anchor="middle" class="Lx" >I am fine</text>
+<text x="50" y="431" text-anchor="middle" class="Ls" >sulpayki</text>
+<text x="175" y="431" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="441" text-anchor="middle" class="Ls" >ari</text>
+<text x="175" y="441" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="451" text-anchor="middle" class="Ls" >mana</text>
+<text x="175" y="451" text-anchor="middle" class="Lx" >no</text>
+<text x="50" y="461" text-anchor="middle" class="Ls" >noqa</text>
+<text x="175" y="461" text-anchor="middle" class="Lx" >I</text>
+<text x="50" y="471" text-anchor="middle" class="Ls" >qam</text>
+<text x="175" y="471" text-anchor="middle" class="Lx" >you</text>
+<text x="50" y="481" text-anchor="middle" class="Ls" >pay</text>
+<text x="175" y="481" text-anchor="middle" class="Lx" >he/she/it</text>
+<text x="50" y="491" text-anchor="middle" class="Ls" >unu / yaku</text>
+<text x="175" y="491" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="501" text-anchor="middle" class="Ls" >nina</text>
+<text x="175" y="501" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="511" text-anchor="middle" class="Ls" >allpa</text>
+<text x="175" y="511" text-anchor="middle" class="Lx" >earth/soil</text>
+<text x="285" y="411" text-anchor="middle" class="Ls" >runa</text>
+<text x="410" y="411" text-anchor="middle" class="Lx" >person/human</text>
+<text x="285" y="421" text-anchor="middle" class="Ls" >pacha</text>
+<text x="410" y="421" text-anchor="middle" class="Lx" >time/world/universe</text>
+<text x="285" y="431" text-anchor="middle" class="Ls" >killa</text>
+<text x="410" y="431" text-anchor="middle" class="Lx" >moon</text>
+<text x="285" y="441" text-anchor="middle" class="Ls" >ch'aska</text>
+<text x="410" y="441" text-anchor="middle" class="Lx" >star/Venus</text>
+<text x="285" y="451" text-anchor="middle" class="Ls" >sunqu</text>
+<text x="410" y="451" text-anchor="middle" class="Lx" >heart</text>
+<text x="285" y="461" text-anchor="middle" class="Ls" >munay</text>
+<text x="410" y="461" text-anchor="middle" class="Lx" >love</text>
+<text x="285" y="471" text-anchor="middle" class="Ls" >qispiy</text>
+<text x="410" y="471" text-anchor="middle" class="Lx" >freedom</text>
+<text x="285" y="481" text-anchor="middle" class="Ls" >yuyay</text>
+<text x="410" y="481" text-anchor="middle" class="Lx" >memory/thought</text>
+<text x="285" y="491" text-anchor="middle" class="Ls" >qhipa</text>
+<text x="410" y="491" text-anchor="middle" class="Lx" >behind / future</text>
+<text x="285" y="501" text-anchor="middle" class="Ls" >kay pacha</text>
+<text x="410" y="501" text-anchor="middle" class="Lx" >this world</text>
+<text x="285" y="511" text-anchor="middle" class="Ls" >kawsay</text>
+<text x="410" y="511" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 46C — QUECHUA: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

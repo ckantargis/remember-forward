@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >DUTCH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Guttural G, Vowels, Diphthongs</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="80" y="82" text-anchor="middle" class="Lx" >p /p/: bilabial stop</text>
+<text x="280" y="82" text-anchor="middle" class="Lx" >b /b/: bilabial stop vd</text>
+<text x="80" y="92" text-anchor="middle" class="Lx" >t /t/: alveolar stop</text>
+<text x="280" y="92" text-anchor="middle" class="Lx" >d /d/: alveolar stop vd</text>
+<text x="80" y="102" text-anchor="middle" class="Lx" >k /k/: velar stop</text>
+<text x="280" y="102" text-anchor="middle" class="Lx" >ɡ /ɡ/: velar stop vd (before vowels only)</text>
+<text x="80" y="112" text-anchor="middle" class="Lx" >f /f/: labiodental</text>
+<text x="280" y="112" text-anchor="middle" class="Lx" >v /v/: labiodental vd</text>
+<text x="80" y="122" text-anchor="middle" class="Lx" >s /s/: alveolar fric</text>
+<text x="280" y="122" text-anchor="middle" class="Lx" >z /z/: alveolar fric vd</text>
+<text x="80" y="132" text-anchor="middle" class="Lx" >ʃ /ʃ/: postalveolar fric</text>
+<text x="280" y="132" text-anchor="middle" class="Lx" >ʒ /ʒ/: postalveolar vd</text>
+<text x="80" y="142" text-anchor="middle" class="Lx" >x /x/: velar fricative vl (ch, g south)</text>
+<text x="280" y="142" text-anchor="middle" class="Lx" >ɣ /ɣ/: velar fricative vd (g north)</text>
+<text x="80" y="152" text-anchor="middle" class="Lx" >h /h/: glottal</text>
+<text x="280" y="152" text-anchor="middle" class="Lx" >m /m/: bilabial nasal</text>
+<text x="80" y="162" text-anchor="middle" class="Lx" >n /n/: alveolar nasal</text>
+<text x="280" y="162" text-anchor="middle" class="Lx" >ŋ /ŋ/: velar nasal (ng)</text>
+<text x="80" y="172" text-anchor="middle" class="Lx" >l /l/: lateral</text>
+<text x="280" y="172" text-anchor="middle" class="Lx" >r /r/: trill/uvular (varies by region)</text>
+<text x="80" y="182" text-anchor="middle" class="Lx" >w /β/: bilabial approx (between v/w)</text>
+<text x="280" y="182" text-anchor="middle" class="Lx" >j /j/: palatal</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— VOWEL SYSTEM —</text>
+<text x="80" y="244" text-anchor="middle" class="Lx" >a /ɑ/ (short): bal (ball), man (man)</text>
+<text x="280" y="244" text-anchor="middle" class="Lx" >ā /aː/ (long): baal (bale), maan (moon)</text>
+<text x="80" y="254" text-anchor="middle" class="Lx" >e /ɛ/ (short): bed (bed), net (net)</text>
+<text x="280" y="254" text-anchor="middle" class="Lx" >ē /eː/ (long): been (leg/bone)</text>
+<text x="80" y="264" text-anchor="middle" class="Lx" >ə /ə/ (schwa): de (the), unstressed syllables</text>
+<text x="280" y="264" text-anchor="middle" class="Lx" >i /ɪ/ (short): bit (bite)</text>
+<text x="80" y="274" text-anchor="middle" class="Lx" >ī /iː/ (long): niet (not)</text>
+<text x="280" y="274" text-anchor="middle" class="Lx" >o /ɔ/ (short): bot (bone)</text>
+<text x="80" y="284" text-anchor="middle" class="Lx" >ō /oː/ (long): boom (tree)</text>
+<text x="280" y="284" text-anchor="middle" class="Lx" >u /ʊ/ (short): bus (bus)</text>
+<text x="80" y="294" text-anchor="middle" class="Lx" >ū /uː/ (long): boek (book: oe=/uː/)</text>
+<text x="280" y="294" text-anchor="middle" class="Lx" >ö /øː/ (eu): deur (door) /døːr/</text>
+<line x1="20" y1="316" x2="460" y2="316" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H" >— DIPHTHONGS —</text>
+<text x="90" y="335" text-anchor="middle" class="Ls" >ij/ei /ɛɪ/</text>
+<text x="310" y="335" text-anchor="middle" class="Lx" >mijn (my), wijn (wine), ijzer (iron)</text>
+<text x="90" y="346" text-anchor="middle" class="Ls" >ui /œy/</text>
+<text x="310" y="346" text-anchor="middle" class="Lx" >huis (house), uit (out), ruim (spacious)</text>
+<text x="90" y="357" text-anchor="middle" class="Ls" >ou/au /ɑʊ/</text>
+<text x="310" y="357" text-anchor="middle" class="Lx" >oud (old), auto, blauw (blue)</text>
+<line x1="20" y1="375" x2="460" y2="375" stroke="black" stroke-width="0.3"/>
+<text x="240" y="384" text-anchor="middle" class="H" >— FINAL DEVOICING —</text>
+<text x="240" y="394" text-anchor="middle" class="Ls" >Dutch devoices obstruents (stops, fricatives) at word-final position:</text>
+<text x="240" y="404" text-anchor="middle" class="Ls" >hond (dog) /hɔnt/ (not /hɔnd/). honden (dogs) /hɔndən/ (restored in plural).</text>
+<text x="240" y="414" text-anchor="middle" class="Ls" >bed /bɛt/ (not /bɛd/). bedden /bɛdən/. Key rule for Dutch learners.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 49B — DUTCH: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
