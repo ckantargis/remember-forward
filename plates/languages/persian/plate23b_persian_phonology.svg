@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lp { font-size:13px; }
+  .Lps{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PERSIAN / FARSI — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 23B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— MODERN TEHRANI FARSI — STANDARD DIALECT —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Standard Persian (Farsi) is based on the Tehran dialect. 80+ million speakers across Iran, Afghanistan, Tajikistan.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Persian is an Indo-European language (Iranian branch) — related to English, Latin, and Sanskrit.</text>
+<line x1="20" y1="97" x2="460" y2="97" stroke="black" stroke-width="0.3"/>
+<text x="240" y="106" text-anchor="middle" class="H" >— VOWEL SYSTEM — 6 VOWELS —</text>
+<text x="240" y="117" text-anchor="middle" class="L" >Modern Farsi has 6 vowels (the Classical long/short distinction has collapsed in Tehrani dialect).</text>
+<text x="50" y="127" text-anchor="middle" class="Lx" >IPA</text>
+<text x="100" y="127" text-anchor="middle" class="Lx" >Script</text>
+<text x="145" y="127" text-anchor="middle" class="Lx" >Translit</text>
+<text x="340" y="127" text-anchor="middle" class="Lx" >Description + example</text>
+<text x="50" y="136" text-anchor="middle" class="Lx" >/ɑː/</text>
+<text x="100" y="136" text-anchor="middle" class="Lps" >ا</text>
+<text x="145" y="136" text-anchor="middle" class="Lx" >ā</text>
+<text x="320" y="136" text-anchor="middle" class="Lx" >low back, like "father" — آb āb "water"</text>
+<text x="50" y="148" text-anchor="middle" class="Lx" >/æ/</text>
+<text x="100" y="148" text-anchor="middle" class="Lps" >(zabar)</text>
+<text x="145" y="148" text-anchor="middle" class="Lx" >a</text>
+<text x="320" y="148" text-anchor="middle" class="Lx" >low front, like "cat" — بد bad "bad"</text>
+<text x="50" y="160" text-anchor="middle" class="Lx" >/e/</text>
+<text x="100" y="160" text-anchor="middle" class="Lps" >(zir)</text>
+<text x="145" y="160" text-anchor="middle" class="Lx" >e</text>
+<text x="320" y="160" text-anchor="middle" class="Lx" >mid front, like "bed" — دل del "heart"</text>
+<text x="50" y="172" text-anchor="middle" class="Lx" >/i/</text>
+<text x="100" y="172" text-anchor="middle" class="Lps" >ی</text>
+<text x="145" y="172" text-anchor="middle" class="Lx" >ī/i</text>
+<text x="320" y="172" text-anchor="middle" class="Lx" >high front, like "see" — شیر shīr "lion"</text>
+<text x="50" y="184" text-anchor="middle" class="Lx" >/o/</text>
+<text x="100" y="184" text-anchor="middle" class="Lps" >(pish)</text>
+<text x="145" y="184" text-anchor="middle" class="Lx" >o</text>
+<text x="320" y="184" text-anchor="middle" class="Lx" >mid back rounded — دست dost "friend"</text>
+<text x="50" y="196" text-anchor="middle" class="Lx" >/u/</text>
+<text x="100" y="196" text-anchor="middle" class="Lps" >و</text>
+<text x="145" y="196" text-anchor="middle" class="Lx" >ū/u</text>
+<text x="320" y="196" text-anchor="middle" class="Lx" >high back rounded — کود kūd "child"</text>
+<line x1="20" y1="212" x2="460" y2="212" stroke="black" stroke-width="0.3"/>
+<text x="240" y="221" text-anchor="middle" class="H" >— CONSONANT INVENTORY — 23 CONSONANTS —</text>
+<text x="40" y="231" text-anchor="middle" class="Ls" >p b</text>
+<text x="95" y="231" text-anchor="middle" class="Lx" >/p b/</text>
+<text x="175" y="231" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="355" y="231" text-anchor="middle" class="Lx" >pā "foot", bād "wind"</text>
+<text x="40" y="242" text-anchor="middle" class="Ls" >t d</text>
+<text x="95" y="242" text-anchor="middle" class="Lx" >/t d/</text>
+<text x="175" y="242" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="355" y="242" text-anchor="middle" class="Lx" >tāj "crown", dār "tree"</text>
+<text x="40" y="253" text-anchor="middle" class="Ls" >k g</text>
+<text x="95" y="253" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="175" y="253" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="355" y="253" text-anchor="middle" class="Lx" >kār "work", gol "flower"</text>
+<text x="40" y="264" text-anchor="middle" class="Ls" >ʼ</text>
+<text x="95" y="264" text-anchor="middle" class="Lx" >/ʼ/</text>
+<text x="175" y="264" text-anchor="middle" class="Lx" >glottal stop</text>
+<text x="355" y="264" text-anchor="middle" class="Lx" >عayn — in Arabic loans</text>
+<text x="40" y="275" text-anchor="middle" class="Ls" >f v</text>
+<text x="95" y="275" text-anchor="middle" class="Lx" >/f v/</text>
+<text x="175" y="275" text-anchor="middle" class="Lx" >labiodentals</text>
+<text x="355" y="275" text-anchor="middle" class="Lx" >fārs "Persia", vāžɛ "clear"</text>
+<text x="40" y="286" text-anchor="middle" class="Ls" >s z</text>
+<text x="95" y="286" text-anchor="middle" class="Lx" >/s z/</text>
+<text x="175" y="286" text-anchor="middle" class="Lx" >alveolar fricatives</text>
+<text x="355" y="286" text-anchor="middle" class="Lx" >sāl "year", zār "gold"</text>
+<text x="40" y="297" text-anchor="middle" class="Ls" >sh zh</text>
+<text x="95" y="297" text-anchor="middle" class="Lx" >/ʃ ʒ/</text>
+<text x="175" y="297" text-anchor="middle" class="Lx" >palato-alveolar</text>
+<text x="355" y="297" text-anchor="middle" class="Lx" >shāh "king", žhān "world"</text>
+<text x="40" y="308" text-anchor="middle" class="Ls" >kh</text>
+<text x="95" y="308" text-anchor="middle" class="Lx" >/x/</text>
+<text x="175" y="308" text-anchor="middle" class="Lx" >velar fricative</text>
+<text x="355" y="308" text-anchor="middle" class="Lx" >khāne "house" — like German "Bach"</text>
+<text x="40" y="319" text-anchor="middle" class="Ls" >gh</text>
+<text x="95" y="319" text-anchor="middle" class="Lx" >/ɣ/</text>
+<text x="175" y="319" text-anchor="middle" class="Lx" >voiced velar fricative</text>
+<text x="355" y="319" text-anchor="middle" class="Lx" >ghār "cave" — voiced "Bach"</text>
+<text x="40" y="330" text-anchor="middle" class="Ls" >q</text>
+<text x="95" y="330" text-anchor="middle" class="Lx" >/q/</text>
+<text x="175" y="330" text-anchor="middle" class="Lx" >uvular stop</text>
+<text x="355" y="330" text-anchor="middle" class="Lx" >qālam "pen" — Arabic loans</text>
+<text x="40" y="341" text-anchor="middle" class="Ls" >h</text>
+<text x="95" y="341" text-anchor="middle" class="Lx" >/h/</text>
+<text x="175" y="341" text-anchor="middle" class="Lx" >glottal fricative</text>
+<text x="355" y="341" text-anchor="middle" class="Lx" >hār "each"</text>
+<text x="40" y="352" text-anchor="middle" class="Ls" >m n</text>
+<text x="95" y="352" text-anchor="middle" class="Lx" >/m n/</text>
+<text x="175" y="352" text-anchor="middle" class="Lx" >nasals</text>
+<text x="355" y="352" text-anchor="middle" class="Lx" >māh "moon", nām "name"</text>
+<text x="40" y="363" text-anchor="middle" class="Ls" >l r</text>
+<text x="95" y="363" text-anchor="middle" class="Lx" >/l r/</text>
+<text x="175" y="363" text-anchor="middle" class="Lx" >lateral / tap</text>
+<text x="355" y="363" text-anchor="middle" class="Lx" >lāb "edge", rāh "road"</text>
+<text x="40" y="374" text-anchor="middle" class="Ls" >y</text>
+<text x="95" y="374" text-anchor="middle" class="Lx" >/j/</text>
+<text x="175" y="374" text-anchor="middle" class="Lx" >palatal glide</text>
+<text x="355" y="374" text-anchor="middle" class="Lx" >yār "friend"</text>
+<text x="40" y="385" text-anchor="middle" class="Ls" >ch</text>
+<text x="95" y="385" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="175" y="385" text-anchor="middle" class="Lx" >affricate</text>
+<text x="355" y="385" text-anchor="middle" class="Lx" >chāy "tea"</text>
+<text x="40" y="396" text-anchor="middle" class="Ls" >j</text>
+<text x="95" y="396" text-anchor="middle" class="Lx" >/dʒ/</text>
+<text x="175" y="396" text-anchor="middle" class="Lx" >voiced affricate</text>
+<text x="355" y="396" text-anchor="middle" class="Lx" >jangal "forest"</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="419" text-anchor="middle" class="H" >— STRESS AND PROSODY —</text>
+<text x="240" y="430" text-anchor="middle" class="L" >Stress: usually on the LAST syllable of the word (final stress), with exceptions for enclitics and some suffixes.</text>
+<text x="240" y="440" text-anchor="middle" class="Ls" >Prefixed verbs: stress shifts to the prefix (negative mi- or na- takes stress: NA-miram "I don't go").</text>
+<text x="240" y="449" text-anchor="middle" class="Ls" >Ezafe construction (see grammar plate) is unstressed — functions as a clitic.</text>
+<line x1="20" y1="457" x2="460" y2="457" stroke="black" stroke-width="0.3"/>
+<text x="240" y="466" text-anchor="middle" class="H" >— KEY PHONOLOGICAL FEATURES —</text>
+<text x="240" y="477" text-anchor="middle" class="Ls" >No tones. No consonant clusters at syllable onset in native words (up to 2 in codas).</text>
+<text x="240" y="486" text-anchor="middle" class="Ls" >Syllable structure: (C)V(C)(C) — open syllables preferred in native vocabulary.</text>
+<text x="240" y="495" text-anchor="middle" class="Ls" >/q/ and glottal stop /ʼ/: inherited from Arabic loanwords — some speakers merge /q/ with /k/ or /gh/.</text>
+<text x="240" y="504" text-anchor="middle" class="Ls" >Persian /r/ is a tap [ɾ] (single-contact trill), similar to Spanish "pero".</text>
+<text x="240" y="513" text-anchor="middle" class="Ls" >Word-final consonant clusters: possible (e.g. dast /dæst/ "hand", mard /mærd/ "man").</text>
+<text x="240" y="522" text-anchor="middle" class="Ls" >Colloquial Tehran: /ɑː/ often shortens to /æ/, /oŭ/ diphthong emerges from /av/ — significant dialect variation.</text>
+<text x="240" y="531" text-anchor="middle" class="Ls" >Borrowed Arabic emphatic consonants /s̰ z̰ t̰ ʒ̰/ merged with plain counterparts in most spoken Persian.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 23 · PERSIAN · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

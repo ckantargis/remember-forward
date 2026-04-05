@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lp { font-size:13px; }
+  .Lps{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PERSIAN / FARSI — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 23A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— PERSO-ARABIC SCRIPT — READ RIGHT TO LEFT —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Persian is written in a modified Arabic script (Perso-Arabic), reading RIGHT to LEFT.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >32 letters total (Arabic 28 + 4 Persian additions). Letters change form by position in word.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Cursive by nature: letters connect to their neighbors (some letters do not connect on the left).</text>
+<text x="240" y="107" text-anchor="middle" class="Ls" >Vowels: three long vowels written; three short vowels usually OMITTED in standard text (implied from context).</text>
+<line x1="20" y1="115" x2="460" y2="115" stroke="black" stroke-width="0.3"/>
+<text x="240" y="124" text-anchor="middle" class="H" >— THE 32 LETTERS — ISOLATED · INITIAL · MEDIAL · FINAL —</text>
+<text x="240" y="134" text-anchor="middle" class="Lx" >Each letter shown in isolated form with transliteration and name. Forms vary by position.</text>
+<text x="240" y="143" text-anchor="middle" class="Lx" >(Note: Persian text shown below reads right-to-left)</text>
+<text x="60" y="152" text-anchor="middle" class="Lp" >ا</text>
+<text x="60" y="160" text-anchor="middle" class="Lx" >a/ā · alef</text>
+<text x="60" y="166" text-anchor="middle" class="Lp" >ث</text>
+<text x="60" y="174" text-anchor="middle" class="Lx" >s · se</text>
+<text x="60" y="180" text-anchor="middle" class="Lp" >خ</text>
+<text x="60" y="188" text-anchor="middle" class="Lx" >kh · khe</text>
+<text x="60" y="194" text-anchor="middle" class="Lp" >ز</text>
+<text x="60" y="202" text-anchor="middle" class="Lx" >z · ze</text>
+<text x="60" y="208" text-anchor="middle" class="Lp" >ص</text>
+<text x="60" y="216" text-anchor="middle" class="Lx" >s · sad</text>
+<text x="60" y="222" text-anchor="middle" class="Lp" >ع</text>
+<text x="60" y="230" text-anchor="middle" class="Lx" >ʿ · ʿayn</text>
+<text x="60" y="236" text-anchor="middle" class="Lp" >ک</text>
+<text x="60" y="244" text-anchor="middle" class="Lx" >k · kaf</text>
+<text x="60" y="250" text-anchor="middle" class="Lp" >ن</text>
+<text x="60" y="258" text-anchor="middle" class="Lx" >n · nun</text>
+<text x="180" y="152" text-anchor="middle" class="Lp" >ب</text>
+<text x="180" y="160" text-anchor="middle" class="Lx" >b · be</text>
+<text x="180" y="166" text-anchor="middle" class="Lp" >ج</text>
+<text x="180" y="174" text-anchor="middle" class="Lx" >j · jim</text>
+<text x="180" y="180" text-anchor="middle" class="Lp" >د</text>
+<text x="180" y="188" text-anchor="middle" class="Lx" >d · dal</text>
+<text x="180" y="194" text-anchor="middle" class="Lp" >ژ</text>
+<text x="180" y="202" text-anchor="middle" class="Lx" >zh · zhe</text>
+<text x="180" y="208" text-anchor="middle" class="Lp" >ض</text>
+<text x="180" y="216" text-anchor="middle" class="Lx" >z · zad</text>
+<text x="180" y="222" text-anchor="middle" class="Lp" >غ</text>
+<text x="180" y="230" text-anchor="middle" class="Lx" >gh · gheyn</text>
+<text x="180" y="236" text-anchor="middle" class="Lp" >گ</text>
+<text x="180" y="244" text-anchor="middle" class="Lx" >g · gaf</text>
+<text x="180" y="250" text-anchor="middle" class="Lp" >و</text>
+<text x="180" y="258" text-anchor="middle" class="Lx" >v/w/ū · vav</text>
+<text x="300" y="152" text-anchor="middle" class="Lp" >پ</text>
+<text x="300" y="160" text-anchor="middle" class="Lx" >p · pe</text>
+<text x="300" y="166" text-anchor="middle" class="Lp" >چ</text>
+<text x="300" y="174" text-anchor="middle" class="Lx" >ch · che</text>
+<text x="300" y="180" text-anchor="middle" class="Lp" >ذ</text>
+<text x="300" y="188" text-anchor="middle" class="Lx" >z · zal</text>
+<text x="300" y="194" text-anchor="middle" class="Lp" >س</text>
+<text x="300" y="202" text-anchor="middle" class="Lx" >s · sin</text>
+<text x="300" y="208" text-anchor="middle" class="Lp" >ط</text>
+<text x="300" y="216" text-anchor="middle" class="Lx" >t · ta</text>
+<text x="300" y="222" text-anchor="middle" class="Lp" >ف</text>
+<text x="300" y="230" text-anchor="middle" class="Lx" >f · fe</text>
+<text x="300" y="236" text-anchor="middle" class="Lp" >ل</text>
+<text x="300" y="244" text-anchor="middle" class="Lx" >l · lam</text>
+<text x="300" y="250" text-anchor="middle" class="Lp" >ه</text>
+<text x="300" y="258" text-anchor="middle" class="Lx" >h · he</text>
+<text x="420" y="152" text-anchor="middle" class="Lp" >ت</text>
+<text x="420" y="160" text-anchor="middle" class="Lx" >t · te</text>
+<text x="420" y="166" text-anchor="middle" class="Lp" >ح</text>
+<text x="420" y="174" text-anchor="middle" class="Lx" >h · he</text>
+<text x="420" y="180" text-anchor="middle" class="Lp" >ر</text>
+<text x="420" y="188" text-anchor="middle" class="Lx" >r · re</text>
+<text x="420" y="194" text-anchor="middle" class="Lp" >ش</text>
+<text x="420" y="202" text-anchor="middle" class="Lx" >sh · shin</text>
+<text x="420" y="208" text-anchor="middle" class="Lp" >ظ</text>
+<text x="420" y="216" text-anchor="middle" class="Lx" >z · za</text>
+<text x="420" y="222" text-anchor="middle" class="Lp" >ق</text>
+<text x="420" y="230" text-anchor="middle" class="Lx" >q · qaf</text>
+<text x="420" y="236" text-anchor="middle" class="Lp" >م</text>
+<text x="420" y="244" text-anchor="middle" class="Lx" >m · mim</text>
+<text x="420" y="250" text-anchor="middle" class="Lp" >ی</text>
+<text x="420" y="258" text-anchor="middle" class="Lx" >y/ī · ye</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="280" text-anchor="middle" class="H" >— FOUR PERSIAN LETTERS — NOT IN ARABIC —</text>
+<text x="70" y="293" text-anchor="middle" class="Lp" >پ</text>
+<text x="70" y="303" text-anchor="middle" class="Ls" >pe /p/</text>
+<text x="70" y="312" text-anchor="middle" class="Lx" >p sound — not in Arabic</text>
+<text x="170" y="293" text-anchor="middle" class="Lp" >چ</text>
+<text x="170" y="303" text-anchor="middle" class="Ls" >che /tʃ/</text>
+<text x="170" y="312" text-anchor="middle" class="Lx" >ch sound — "church"</text>
+<text x="270" y="293" text-anchor="middle" class="Lp" >ژ</text>
+<text x="270" y="303" text-anchor="middle" class="Ls" >zhe /ʒ/</text>
+<text x="270" y="312" text-anchor="middle" class="Lx" >zh sound — "measure"</text>
+<text x="370" y="293" text-anchor="middle" class="Lp" >گ</text>
+<text x="370" y="303" text-anchor="middle" class="Ls" >gaf /ɡ/</text>
+<text x="370" y="312" text-anchor="middle" class="Lx" >g sound — hard g</text>
+<line x1="20" y1="320" x2="460" y2="320" stroke="black" stroke-width="0.3"/>
+<text x="240" y="329" text-anchor="middle" class="H" >— VOWELS — SHORT (USUALLY OMITTED) AND LONG —</text>
+<text x="240" y="340" text-anchor="middle" class="Ls" >Short vowels: /a/ (zabar َ), /e/ (zir ِ), /o/ (pish ُ) — written only in religious texts, poetry, children's books</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >Long vowels (always written): ا ā · ی ī · و ū (ū also represents /v/ and /o/ in some positions)</text>
+<text x="240" y="358" text-anchor="middle" class="Ls" >hamze (ء): glottal stop — may appear on alef, vav, or ye; written اْ/ؤ/ئ</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="0.3"/>
+<text x="240" y="375" text-anchor="middle" class="H" >— PERSIAN / EASTERN ARABIC NUMERALS —</text>
+<text x="240" y="386" text-anchor="middle" class="Ls" >Persian uses its own numeral glyphs (based on Eastern Arabic forms), not Western Arabic (0–9).</text>
+<text x="45" y="398" text-anchor="middle" class="Lp" >۰</text>
+<text x="45" y="408" text-anchor="middle" class="Lx" >0</text>
+<text x="85" y="398" text-anchor="middle" class="Lp" >۱</text>
+<text x="85" y="408" text-anchor="middle" class="Lx" >1</text>
+<text x="125" y="398" text-anchor="middle" class="Lp" >۲</text>
+<text x="125" y="408" text-anchor="middle" class="Lx" >2</text>
+<text x="165" y="398" text-anchor="middle" class="Lp" >۳</text>
+<text x="165" y="408" text-anchor="middle" class="Lx" >3</text>
+<text x="205" y="398" text-anchor="middle" class="Lp" >۴</text>
+<text x="205" y="408" text-anchor="middle" class="Lx" >4</text>
+<text x="245" y="398" text-anchor="middle" class="Lp" >۵</text>
+<text x="245" y="408" text-anchor="middle" class="Lx" >5</text>
+<text x="285" y="398" text-anchor="middle" class="Lp" >۶</text>
+<text x="285" y="408" text-anchor="middle" class="Lx" >6</text>
+<text x="325" y="398" text-anchor="middle" class="Lp" >۷</text>
+<text x="325" y="408" text-anchor="middle" class="Lx" >7</text>
+<text x="365" y="398" text-anchor="middle" class="Lp" >۸</text>
+<text x="365" y="408" text-anchor="middle" class="Lx" >8</text>
+<text x="405" y="398" text-anchor="middle" class="Lp" >۹</text>
+<text x="405" y="408" text-anchor="middle" class="Lx" >9</text>
+<line x1="20" y1="415" x2="460" y2="415" stroke="black" stroke-width="0.3"/>
+<text x="240" y="424" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Old Persian (~600–300 BCE): cuneiform script — 36 signs, semi-syllabic, used for Achaemenid inscriptions.</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >Middle Persian / Pahlavi (~3rd c. BCE – 9th c. CE): Aramaic-derived script, 20 letters (highly ambiguous).</text>
+<text x="240" y="453" text-anchor="middle" class="Ls" >7th–10th c. CE: Arab conquest → Perso-Arabic script adopted. Persian adapted Arabic letters, adding 4 new ones.</text>
+<text x="240" y="462" text-anchor="middle" class="Ls" >10th c.: New Persian (Dari/Farsi) written in Perso-Arabic — Rudaki, Ferdowsi write the first great Persian poetry.</text>
+<text x="240" y="471" text-anchor="middle" class="Ls" >Perso-Arabic script also adopted by Urdu, Pashto, Ottoman Turkish, Uyghur, Kashmiri, and others.</text>
+<text x="240" y="480" text-anchor="middle" class="Ls" >Direction: RIGHT to LEFT. Numbers written left to right within RTL text.</text>
+<text x="240" y="489" text-anchor="middle" class="Ls" >Today: Farsi (Iran), Dari (Afghanistan), Tajik (uses Cyrillic in Tajikistan, Perso-Arabic elsewhere).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 23 · PERSIAN · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

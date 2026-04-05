@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lp { font-size:13px; }
+  .Lps{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PERSIAN / FARSI — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 23D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="Ls" >Note: Persian text reads RIGHT TO LEFT. Transliteration and translation read left to right below each line.</text>
+<line x1="20" y1="76" x2="460" y2="76" stroke="black" stroke-width="0.3"/>
+<text x="240" y="85" text-anchor="middle" class="H" >— PASSAGE 1 — HAFEZ, DIVAN (14th c.) —</text>
+<text x="240" y="97" text-anchor="middle" class="Lp" >الا یا ایها ساقیا ادر کأسا و ناولها</text>
+<text x="240" y="109" text-anchor="middle" class="Lx" >Ala ya ayyu-ha saqi adri kasan wa nawil-ha</text>
+<text x="240" y="118" text-anchor="middle" class="Ls" >O you, O cup-bearer, bring the cup and pass it around</text>
+<text x="240" y="127" text-anchor="middle" class="Lp" >که عشق آسان نمود اول ولی افتاد مشکلها</text>
+<text x="240" y="139" text-anchor="middle" class="Lx" >ke eshq āsān namud avval vali oftad moshkelhā</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >"Love seemed easy at first, but then the difficulties arose."</text>
+<line x1="20" y1="156" x2="460" y2="156" stroke="black" stroke-width="0.3"/>
+<text x="240" y="165" text-anchor="middle" class="H" >— PASSAGE 2 — RUMI, MASNAVI I.1 (13th c.) —</text>
+<text x="240" y="177" text-anchor="middle" class="Lp" >بشنو این نی چون شکایت می‌کند</text>
+<text x="240" y="189" text-anchor="middle" class="Lx" >Beshno in ney chon shekayyat mikonad</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >Listen, how this reed-flute tells a tale of separations</text>
+<text x="240" y="207" text-anchor="middle" class="Lp" >از جدایی‌ها حکایت می‌کند</text>
+<text x="240" y="219" text-anchor="middle" class="Lx" >Az jodayihā hekāyat mikonad</text>
+<text x="240" y="228" text-anchor="middle" class="Ls" >"Listen to this reed, how it tells a tale — of separations it narrates."</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="black" stroke-width="0.3"/>
+<text x="240" y="245" text-anchor="middle" class="H" >— PASSAGE 3 — FERDOWSI, SHAHNAMEH (c. 1000 CE) —</text>
+<text x="240" y="257" text-anchor="middle" class="Lp" >توانا بود هر که دانا بود</text>
+<text x="240" y="269" text-anchor="middle" class="Lx" >Tavānā bud har ke dānā bud</text>
+<text x="240" y="278" text-anchor="middle" class="Ls" >Powerful was he who was wise</text>
+<text x="240" y="287" text-anchor="middle" class="Lp" >دانش یکی است و توانایی دگر</text>
+<text x="240" y="299" text-anchor="middle" class="Lx" >Dānesh yeki-st va tavānāyi digar</text>
+<text x="240" y="308" text-anchor="middle" class="Ls" >"Knowledge is one thing and power is another — Powerful was he who was wise."</text>
+<line x1="20" y1="316" x2="460" y2="316" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H" >— PASSAGE 4 — PERSIAN PROVERBS —</text>
+<text x="240" y="336" text-anchor="middle" class="Lp" >عمر در جویای یار گذرد</text>
+<text x="240" y="348" text-anchor="middle" class="Lx" >Omr dar juyay-e yār gozasht.</text>
+<text x="240" y="357" text-anchor="middle" class="Ls" >"Life passed in the search for a friend." — on the value of human connection</text>
+<text x="240" y="367" text-anchor="middle" class="Lp" >هر کی بیر شد امیدوارش جوان شد</text>
+<text x="240" y="379" text-anchor="middle" class="Lx" >Har ke pir shod omidvārash javān shod.</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >"Whoever grew old, their hope grew young." — on the endurance of hope</text>
+<line x1="20" y1="396" x2="460" y2="396" stroke="black" stroke-width="0.3"/>
+<text x="240" y="405" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="417" text-anchor="middle" class="Lps" >این پیام برای شما، آزادانه، توسط کسانی ساخته شده که آینده را به یاد می‌سپردند.</text>
+<text x="240" y="430" text-anchor="middle" class="Lx" >In peyyām barāye shomā, āzādāne, tavasat-e kesāni sakhte shode ke āyande rā be yād mi-sperand.</text>
+<text x="240" y="440" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who entrusted the future to memory."</text>
+<line x1="20" y1="448" x2="460" y2="448" stroke="black" stroke-width="0.3"/>
+<text x="240" y="457" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN PERSIAN —</text>
+<text x="240" y="468" text-anchor="middle" class="L" >Persian has two key words for future: āyande (آینده) = "the coming one" (participle of āmadan "to come")</text>
+<text x="240" y="478" text-anchor="middle" class="Ls" >and fardā (فردا) = "tomorrow" — the concrete near future, also used poetically for "the future" in general.</text>
+<text x="240" y="488" text-anchor="middle" class="Ls" >The phrase uses āyande rā be yād sperand: "committed the future to memory" — rā is the direct object marker.</text>
+<text x="240" y="498" text-anchor="middle" class="Ls" >yād (یاد): "memory / remembrance" — the root of yādāvar "memorable", yādbud "memorial".</text>
+<text x="240" y="508" text-anchor="middle" class="Ls" >āzādāne (آزادانه): "freely" — from āzād "free" + -āne (adverbial suffix). āzād derives from Old Persian.</text>
+<line x1="20" y1="517" x2="460" y2="517" stroke="black" stroke-width="0.3"/>
+<text x="240" y="526" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="537" text-anchor="middle" class="Ls" >Persian is spoken by ~80 million people as a first language; ~110 million total. Three main varieties:</text>
+<text x="240" y="546" text-anchor="middle" class="Ls" >Farsi (Iran), Dari (Afghanistan), Tajik (Tajikistan — written in Cyrillic script since Soviet era).</text>
+<text x="240" y="555" text-anchor="middle" class="Ls" >Script: Perso-Arabic, reading right to left. If unfamiliar, consult Plate 23A for the full letter table.</text>
+<text x="240" y="564" text-anchor="middle" class="Ls" >Persian is an Indo-European language: it is related to English, Latin, Greek, Sanskrit, and Russian.</text>
+<text x="240" y="573" text-anchor="middle" class="Ls" >Persian literature is among the oldest continuous literary traditions: Ferdowsi's Shahnameh (c. 1000 CE)</text>
+<text x="240" y="582" text-anchor="middle" class="Ls" >contains 50,000 couplets — one of the longest epic poems in world literature.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 23 · PERSIAN · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

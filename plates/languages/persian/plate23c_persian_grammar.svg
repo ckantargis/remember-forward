@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lp { font-size:13px; }
+  .Lps{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >PERSIAN / FARSI — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 23C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SOV LANGUAGE — VERB-FINAL, POSTPOSITIONS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Persian is SOV (Subject–Object–Verb). Verb comes last. No grammatical gender. No case endings on nouns.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >man sib mikharam. (I apple buy-PRES.1SG) = "I am buying an apple."</text>
+<text x="240" y="98" text-anchor="middle" class="Lx" >man = I · sib = apple · mi- = present prefix · kharam = buy-1sg</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— THE EZAFE CONSTRUCTION — NOUN CHAINS —</text>
+<text x="240" y="126" text-anchor="middle" class="L" >Ezafe (-e/-ye after vowel): links noun + adjective OR noun + possessor. Written as short /e/ (often omitted in script).</text>
+<text x="240" y="136" text-anchor="middle" class="Ls" >ketāb-e khub = "good book" (book-EZ good) — adjective FOLLOWS noun, joined by ezafe</text>
+<text x="240" y="145" text-anchor="middle" class="Ls" >ketāb-e mān = "my book" (book-EZ I) — possessor follows, joined by ezafe</text>
+<text x="240" y="154" text-anchor="middle" class="Ls" >ketāb-e khub-e mān = "my good book" — chains extend: book-EZ good-EZ my</text>
+<line x1="20" y1="162" x2="460" y2="162" stroke="black" stroke-width="0.3"/>
+<text x="240" y="171" text-anchor="middle" class="H" >— VERB CONJUGATION — kardan "to do/make" (present stem: kon-) —</text>
+<text x="100" y="181" text-anchor="middle" class="Lx" >Present (mi- + stem + ending)</text>
+<text x="360" y="181" text-anchor="middle" class="Lx" >Simple past (past stem + ending)</text>
+<text x="55" y="190" text-anchor="middle" class="Lx" >1sg</text>
+<text x="120" y="190" text-anchor="middle" class="Ls" >mikonam</text>
+<text x="195" y="190" text-anchor="middle" class="Lx" >I do / am doing</text>
+<text x="300" y="190" text-anchor="middle" class="Lx" >1sg</text>
+<text x="365" y="190" text-anchor="middle" class="Ls" >kardam</text>
+<text x="440" y="190" text-anchor="middle" class="Lx" >I did / made</text>
+<text x="55" y="201" text-anchor="middle" class="Lx" >2sg</text>
+<text x="120" y="201" text-anchor="middle" class="Ls" >mikoni</text>
+<text x="195" y="201" text-anchor="middle" class="Lx" >you do</text>
+<text x="300" y="201" text-anchor="middle" class="Lx" >2sg</text>
+<text x="365" y="201" text-anchor="middle" class="Ls" >kardi</text>
+<text x="440" y="201" text-anchor="middle" class="Lx" >you did</text>
+<text x="55" y="212" text-anchor="middle" class="Lx" >3sg</text>
+<text x="120" y="212" text-anchor="middle" class="Ls" >mikonad</text>
+<text x="195" y="212" text-anchor="middle" class="Lx" >he/she/it does</text>
+<text x="300" y="212" text-anchor="middle" class="Lx" >3sg</text>
+<text x="365" y="212" text-anchor="middle" class="Ls" >kard</text>
+<text x="440" y="212" text-anchor="middle" class="Lx" >he/she did</text>
+<text x="55" y="223" text-anchor="middle" class="Lx" >1pl</text>
+<text x="120" y="223" text-anchor="middle" class="Ls" >mikonim</text>
+<text x="195" y="223" text-anchor="middle" class="Lx" >we do</text>
+<text x="300" y="223" text-anchor="middle" class="Lx" >1pl</text>
+<text x="365" y="223" text-anchor="middle" class="Ls" >kardim</text>
+<text x="440" y="223" text-anchor="middle" class="Lx" >we did</text>
+<text x="55" y="234" text-anchor="middle" class="Lx" >2pl</text>
+<text x="120" y="234" text-anchor="middle" class="Ls" >mikonid</text>
+<text x="195" y="234" text-anchor="middle" class="Lx" >you (pl) do</text>
+<text x="300" y="234" text-anchor="middle" class="Lx" >2pl</text>
+<text x="365" y="234" text-anchor="middle" class="Ls" >kardid</text>
+<text x="440" y="234" text-anchor="middle" class="Lx" >you (pl) did</text>
+<text x="55" y="245" text-anchor="middle" class="Lx" >3pl</text>
+<text x="120" y="245" text-anchor="middle" class="Ls" >mikonand</text>
+<text x="195" y="245" text-anchor="middle" class="Lx" >they do</text>
+<text x="300" y="245" text-anchor="middle" class="Lx" >3pl</text>
+<text x="365" y="245" text-anchor="middle" class="Ls" >kardand</text>
+<text x="440" y="245" text-anchor="middle" class="Lx" >they did</text>
+<text x="240" y="258" text-anchor="middle" class="Ls" >Negation: na- prefix before verb: nami-konam "I do not do" · nakard "he did not do"</text>
+<line x1="20" y1="266" x2="460" y2="266" stroke="black" stroke-width="0.3"/>
+<text x="240" y="275" text-anchor="middle" class="H" >— KEY GRAMMATICAL FEATURES —</text>
+<text x="240" y="286" text-anchor="middle" class="Ls" >ra (را): direct object marker — added to definite/specific direct objects: "I bought the apple" → sib-ra kharidam</text>
+<text x="240" y="295" text-anchor="middle" class="Ls" >No articles ("a" / "the") in formal Persian; -i suffix indicates indefinite: ketab-i "a book"</text>
+<text x="240" y="304" text-anchor="middle" class="Ls" >Plural: -hā suffix for all nouns: ketāb-hā "books" · ādam-hā "people"</text>
+<text x="240" y="313" text-anchor="middle" class="Ls" >Relative clause: ke "that/which/who" — mārdi ke āmad "the man who came"</text>
+<text x="240" y="322" text-anchor="middle" class="Ls" >Verb-object compounds: very common — del-tan-e man shodeh "I am missing you" (lit. "my heart became tight")</text>
+<line x1="20" y1="330" x2="460" y2="330" stroke="black" stroke-width="0.3"/>
+<text x="240" y="339" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="40" y="349" text-anchor="middle" class="Lps" >بله / نه</text>
+<text x="115" y="349" text-anchor="middle" class="Lx" >bale / na</text>
+<text x="210" y="349" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="40" y="359" text-anchor="middle" class="Lps" >من / تو</text>
+<text x="115" y="359" text-anchor="middle" class="Lx" >man / to</text>
+<text x="210" y="359" text-anchor="middle" class="Lx" >I / you</text>
+<text x="40" y="369" text-anchor="middle" class="Lps" >این / آن</text>
+<text x="115" y="369" text-anchor="middle" class="Lx" >in / ān</text>
+<text x="210" y="369" text-anchor="middle" class="Lx" >this / that</text>
+<text x="40" y="379" text-anchor="middle" class="Lps" >کجا</text>
+<text x="115" y="379" text-anchor="middle" class="Lx" >kojā</text>
+<text x="210" y="379" text-anchor="middle" class="Lx" >where</text>
+<text x="40" y="389" text-anchor="middle" class="Lps" >چی</text>
+<text x="115" y="389" text-anchor="middle" class="Lx" >chi</text>
+<text x="210" y="389" text-anchor="middle" class="Lx" >what</text>
+<text x="40" y="399" text-anchor="middle" class="Lps" >کی</text>
+<text x="115" y="399" text-anchor="middle" class="Lx" >ki</text>
+<text x="210" y="399" text-anchor="middle" class="Lx" >who</text>
+<text x="40" y="409" text-anchor="middle" class="Lps" >چرا</text>
+<text x="115" y="409" text-anchor="middle" class="Lx" >cherā</text>
+<text x="210" y="409" text-anchor="middle" class="Lx" >why</text>
+<text x="40" y="419" text-anchor="middle" class="Lps" >آب</text>
+<text x="115" y="419" text-anchor="middle" class="Lx" >āb</text>
+<text x="210" y="419" text-anchor="middle" class="Lx" >water</text>
+<text x="40" y="429" text-anchor="middle" class="Lps" >آتش</text>
+<text x="115" y="429" text-anchor="middle" class="Lx" >ātash</text>
+<text x="210" y="429" text-anchor="middle" class="Lx" >fire</text>
+<text x="40" y="439" text-anchor="middle" class="Lps" >خاک</text>
+<text x="115" y="439" text-anchor="middle" class="Lx" >khāk</text>
+<text x="210" y="439" text-anchor="middle" class="Lx" >earth/soil</text>
+<text x="40" y="449" text-anchor="middle" class="Lps" >آدم</text>
+<text x="115" y="449" text-anchor="middle" class="Lx" >ādam</text>
+<text x="210" y="449" text-anchor="middle" class="Lx" >person/human</text>
+<text x="40" y="459" text-anchor="middle" class="Lps" >دوست</text>
+<text x="115" y="459" text-anchor="middle" class="Lx" >dust</text>
+<text x="210" y="459" text-anchor="middle" class="Lx" >friend</text>
+<text x="40" y="469" text-anchor="middle" class="Lps" >کتاب</text>
+<text x="115" y="469" text-anchor="middle" class="Lx" >ketāb</text>
+<text x="210" y="469" text-anchor="middle" class="Lx" >book</text>
+<text x="265" y="349" text-anchor="middle" class="Lps" >زمان</text>
+<text x="340" y="349" text-anchor="middle" class="Lx" >zamān</text>
+<text x="435" y="349" text-anchor="middle" class="Lx" >time</text>
+<text x="265" y="359" text-anchor="middle" class="Lps" >ماه</text>
+<text x="340" y="359" text-anchor="middle" class="Lx" >māh</text>
+<text x="435" y="359" text-anchor="middle" class="Lx" >moon/month</text>
+<text x="265" y="369" text-anchor="middle" class="Lps" >ستاره</text>
+<text x="340" y="369" text-anchor="middle" class="Lx" >setāre</text>
+<text x="435" y="369" text-anchor="middle" class="Lx" >star</text>
+<text x="265" y="379" text-anchor="middle" class="Lps" >دل</text>
+<text x="340" y="379" text-anchor="middle" class="Lx" >del</text>
+<text x="435" y="379" text-anchor="middle" class="Lx" >heart</text>
+<text x="265" y="389" text-anchor="middle" class="Lps" >عشق</text>
+<text x="340" y="389" text-anchor="middle" class="Lx" >eshq</text>
+<text x="435" y="389" text-anchor="middle" class="Lx" >love</text>
+<text x="265" y="399" text-anchor="middle" class="Lps" >آزاد</text>
+<text x="340" y="399" text-anchor="middle" class="Lx" >āzād</text>
+<text x="435" y="399" text-anchor="middle" class="Lx" >free/freedom</text>
+<text x="265" y="409" text-anchor="middle" class="Lps" >یاد</text>
+<text x="340" y="409" text-anchor="middle" class="Lx" >yād</text>
+<text x="435" y="409" text-anchor="middle" class="Lx" >memory/remembrance</text>
+<text x="265" y="419" text-anchor="middle" class="Lps" >آینده</text>
+<text x="340" y="419" text-anchor="middle" class="Lx" >āyande</text>
+<text x="435" y="419" text-anchor="middle" class="Lx" >future</text>
+<text x="265" y="429" text-anchor="middle" class="Lps" >دیروز</text>
+<text x="340" y="429" text-anchor="middle" class="Lx" >dirūz</text>
+<text x="435" y="429" text-anchor="middle" class="Lx" >yesterday</text>
+<text x="265" y="439" text-anchor="middle" class="Lps" >فردا</text>
+<text x="340" y="439" text-anchor="middle" class="Lx" >fardā</text>
+<text x="435" y="439" text-anchor="middle" class="Lx" >tomorrow/future</text>
+<text x="265" y="449" text-anchor="middle" class="Lps" >خوب / بد</text>
+<text x="340" y="449" text-anchor="middle" class="Lx" >khub / bad</text>
+<text x="435" y="449" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="265" y="459" text-anchor="middle" class="Lps" >همه چیز</text>
+<text x="340" y="459" text-anchor="middle" class="Lx" >hame chiz</text>
+<text x="435" y="459" text-anchor="middle" class="Lx" >everything</text>
+<line x1="20" y1="483" x2="460" y2="483" stroke="black" stroke-width="0.3"/>
+<text x="240" y="492" text-anchor="middle" class="H" >— PERSIAN LOANWORDS IN OTHER LANGUAGES —</text>
+<text x="240" y="503" text-anchor="middle" class="L" >Persian was the language of high culture, trade, and administration across a vast region for centuries.</text>
+<text x="240" y="513" text-anchor="middle" class="Ls" >English loans: check (chess piece), lemon, jasmine, paradise (Av. pairi-daeza "walled garden"), azure, caravan</text>
+<text x="240" y="522" text-anchor="middle" class="Ls" >Urdu, Hindi, Turkish, Azerbaijani, Armenian, Georgian all contain large Persian vocabulary layers.</text>
+<text x="240" y="531" text-anchor="middle" class="Ls" >Arabic borrowed from Persian too: shir (lion), khandaq (trench), zanjir (chain).</text>
+<text x="240" y="540" text-anchor="middle" class="Ls" >Persian was the court language of the Mughal Empire (India, 1526–1858) and the Ottoman court.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 23 · PERSIAN · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
