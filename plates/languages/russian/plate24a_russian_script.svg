@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lr { font-size:13px; }
+  .Lrs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >RUSSIAN — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 24A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THE CYRILLIC ALPHABET — RUSSIAN 33 LETTERS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Russian is written in the Cyrillic alphabet, derived from Greek uncial script in the 9th century CE.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Created by Saints Cyril and Methodius (c. 863 CE) to write Old Church Slavonic for Slavic peoples.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Russian Cyrillic: 33 letters — 10 vowel letters, 21 consonant letters, 2 signs (soft ь, hard ъ).</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— THE 33 LETTERS — PRINTED AND HANDWRITTEN FORMS —</text>
+<text x="38" y="124" text-anchor="middle" class="Lx" >Letter</text>
+<text x="90" y="124" text-anchor="middle" class="Lx" >Translit</text>
+<text x="135" y="124" text-anchor="middle" class="Lx" >IPA</text>
+<text x="310" y="124" text-anchor="middle" class="Lx" >Notes</text>
+<text x="38" y="132" text-anchor="middle" class="Lrs" >А а</text>
+<text x="90" y="132" text-anchor="middle" class="Lx" >a</text>
+<text x="135" y="132" text-anchor="middle" class="Lx" >/a/</text>
+<text x="310" y="132" text-anchor="middle" class="Lx" >as in "father"</text>
+<text x="38" y="141" text-anchor="middle" class="Lrs" >Б б</text>
+<text x="90" y="141" text-anchor="middle" class="Lx" >b</text>
+<text x="135" y="141" text-anchor="middle" class="Lx" >/b/</text>
+<text x="310" y="141" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="38" y="150" text-anchor="middle" class="Lrs" >В в</text>
+<text x="90" y="150" text-anchor="middle" class="Lx" >v</text>
+<text x="135" y="150" text-anchor="middle" class="Lx" >/v/</text>
+<text x="310" y="150" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="38" y="159" text-anchor="middle" class="Lrs" >Г г</text>
+<text x="90" y="159" text-anchor="middle" class="Lx" >g</text>
+<text x="135" y="159" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="310" y="159" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="38" y="168" text-anchor="middle" class="Lrs" >Д д</text>
+<text x="90" y="168" text-anchor="middle" class="Lx" >d</text>
+<text x="135" y="168" text-anchor="middle" class="Lx" >/d/</text>
+<text x="310" y="168" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="38" y="177" text-anchor="middle" class="Lrs" >Е е</text>
+<text x="90" y="177" text-anchor="middle" class="Lx" >ye</text>
+<text x="135" y="177" text-anchor="middle" class="Lx" >/je/ or /e/</text>
+<text x="310" y="177" text-anchor="middle" class="Lx" >iotic e after consonant softens it</text>
+<text x="38" y="186" text-anchor="middle" class="Lrs" >Ё ё</text>
+<text x="90" y="186" text-anchor="middle" class="Lx" >yo</text>
+<text x="135" y="186" text-anchor="middle" class="Lx" >/jo/</text>
+<text x="310" y="186" text-anchor="middle" class="Lx" >always stressed; often written as Е</text>
+<text x="38" y="195" text-anchor="middle" class="Lrs" >Ж ж</text>
+<text x="90" y="195" text-anchor="middle" class="Lx" >zh</text>
+<text x="135" y="195" text-anchor="middle" class="Lx" >/ʒ/</text>
+<text x="310" y="195" text-anchor="middle" class="Lx" >voiced palatal fricative — "measure"</text>
+<text x="38" y="204" text-anchor="middle" class="Lrs" >З з</text>
+<text x="90" y="204" text-anchor="middle" class="Lx" >z</text>
+<text x="135" y="204" text-anchor="middle" class="Lx" >/z/</text>
+<text x="310" y="204" text-anchor="middle" class="Lx" >voiced alveolar fricative</text>
+<text x="38" y="213" text-anchor="middle" class="Lrs" >И и</text>
+<text x="90" y="213" text-anchor="middle" class="Lx" >i</text>
+<text x="135" y="213" text-anchor="middle" class="Lx" >/i/</text>
+<text x="310" y="213" text-anchor="middle" class="Lx" >high front vowel</text>
+<text x="38" y="222" text-anchor="middle" class="Lrs" >Й й</text>
+<text x="90" y="222" text-anchor="middle" class="Lx" >y</text>
+<text x="135" y="222" text-anchor="middle" class="Lx" >/j/</text>
+<text x="310" y="222" text-anchor="middle" class="Lx" >palatal glide — "boy"</text>
+<text x="38" y="231" text-anchor="middle" class="Lrs" >К к</text>
+<text x="90" y="231" text-anchor="middle" class="Lx" >k</text>
+<text x="135" y="231" text-anchor="middle" class="Lx" >/k/</text>
+<text x="310" y="231" text-anchor="middle" class="Lx" >velar stop</text>
+<text x="38" y="240" text-anchor="middle" class="Lrs" >Л л</text>
+<text x="90" y="240" text-anchor="middle" class="Lx" >l</text>
+<text x="135" y="240" text-anchor="middle" class="Lx" >/l/</text>
+<text x="310" y="240" text-anchor="middle" class="Lx" >lateral</text>
+<text x="38" y="249" text-anchor="middle" class="Lrs" >М м</text>
+<text x="90" y="249" text-anchor="middle" class="Lx" >m</text>
+<text x="135" y="249" text-anchor="middle" class="Lx" >/m/</text>
+<text x="310" y="249" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="38" y="258" text-anchor="middle" class="Lrs" >Н н</text>
+<text x="90" y="258" text-anchor="middle" class="Lx" >n</text>
+<text x="135" y="258" text-anchor="middle" class="Lx" >/n/</text>
+<text x="310" y="258" text-anchor="middle" class="Lx" >alveolar nasal</text>
+<text x="38" y="267" text-anchor="middle" class="Lrs" >О о</text>
+<text x="90" y="267" text-anchor="middle" class="Lx" >o</text>
+<text x="135" y="267" text-anchor="middle" class="Lx" >/o/ (stressed)</text>
+<text x="310" y="267" text-anchor="middle" class="Lx" >unstressed: /ɐ/ — vowel reduction</text>
+<text x="38" y="276" text-anchor="middle" class="Lrs" >П п</text>
+<text x="90" y="276" text-anchor="middle" class="Lx" >p</text>
+<text x="135" y="276" text-anchor="middle" class="Lx" >/p/</text>
+<text x="310" y="276" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="38" y="285" text-anchor="middle" class="Lrs" >Р р</text>
+<text x="90" y="285" text-anchor="middle" class="Lx" >r</text>
+<text x="135" y="285" text-anchor="middle" class="Lx" >/r/</text>
+<text x="310" y="285" text-anchor="middle" class="Lx" >alveolar trill</text>
+<text x="38" y="294" text-anchor="middle" class="Lrs" >С с</text>
+<text x="90" y="294" text-anchor="middle" class="Lx" >s</text>
+<text x="135" y="294" text-anchor="middle" class="Lx" >/s/</text>
+<text x="310" y="294" text-anchor="middle" class="Lx" >voiceless alveolar fricative</text>
+<text x="38" y="303" text-anchor="middle" class="Lrs" >Т т</text>
+<text x="90" y="303" text-anchor="middle" class="Lx" >t</text>
+<text x="135" y="303" text-anchor="middle" class="Lx" >/t/</text>
+<text x="310" y="303" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="38" y="312" text-anchor="middle" class="Lrs" >У у</text>
+<text x="90" y="312" text-anchor="middle" class="Lx" >u</text>
+<text x="135" y="312" text-anchor="middle" class="Lx" >/u/</text>
+<text x="310" y="312" text-anchor="middle" class="Lx" >high back rounded</text>
+<text x="38" y="321" text-anchor="middle" class="Lrs" >Ф ф</text>
+<text x="90" y="321" text-anchor="middle" class="Lx" >f</text>
+<text x="135" y="321" text-anchor="middle" class="Lx" >/f/</text>
+<text x="310" y="321" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="38" y="330" text-anchor="middle" class="Lrs" >Х х</text>
+<text x="90" y="330" text-anchor="middle" class="Lx" >kh</text>
+<text x="135" y="330" text-anchor="middle" class="Lx" >/x/</text>
+<text x="310" y="330" text-anchor="middle" class="Lx" >velar fricative — like German "Bach"</text>
+<text x="38" y="339" text-anchor="middle" class="Lrs" >Ц ц</text>
+<text x="90" y="339" text-anchor="middle" class="Lx" >ts</text>
+<text x="135" y="339" text-anchor="middle" class="Lx" >/ts/</text>
+<text x="310" y="339" text-anchor="middle" class="Lx" >affricate — "cats"</text>
+<text x="38" y="348" text-anchor="middle" class="Lrs" >Ч ч</text>
+<text x="90" y="348" text-anchor="middle" class="Lx" >ch</text>
+<text x="135" y="348" text-anchor="middle" class="Lx" >/tʃ/</text>
+<text x="310" y="348" text-anchor="middle" class="Lx" >affricate — "church"</text>
+<text x="38" y="357" text-anchor="middle" class="Lrs" >Ш ш</text>
+<text x="90" y="357" text-anchor="middle" class="Lx" >sh</text>
+<text x="135" y="357" text-anchor="middle" class="Lx" >/ʃ/</text>
+<text x="310" y="357" text-anchor="middle" class="Lx" >voiceless palatal fricative</text>
+<text x="38" y="366" text-anchor="middle" class="Lrs" >Щ щ</text>
+<text x="90" y="366" text-anchor="middle" class="Lx" >shch</text>
+<text x="135" y="366" text-anchor="middle" class="Lx" >/ɕ/</text>
+<text x="310" y="366" text-anchor="middle" class="Lx" >long palatal fricative</text>
+<text x="38" y="375" text-anchor="middle" class="Lrs" >Ъ ъ</text>
+<text x="90" y="375" text-anchor="middle" class="Lx" >"</text>
+<text x="135" y="375" text-anchor="middle" class="Lx" >hard sign</text>
+<text x="310" y="375" text-anchor="middle" class="Lx" >separates prefix from iotic vowel</text>
+<text x="38" y="384" text-anchor="middle" class="Lrs" >Ы ы</text>
+<text x="90" y="384" text-anchor="middle" class="Lx" >y</text>
+<text x="135" y="384" text-anchor="middle" class="Lx" >/ɨ/</text>
+<text x="310" y="384" text-anchor="middle" class="Lx" >central high vowel — no English equivalent</text>
+<text x="38" y="393" text-anchor="middle" class="Lrs" >Ь ь</text>
+<text x="90" y="393" text-anchor="middle" class="Lx" >'</text>
+<text x="135" y="393" text-anchor="middle" class="Lx" >soft sign</text>
+<text x="310" y="393" text-anchor="middle" class="Lx" >palatalizes preceding consonant</text>
+<text x="38" y="402" text-anchor="middle" class="Lrs" >Э э</text>
+<text x="90" y="402" text-anchor="middle" class="Lx" >e</text>
+<text x="135" y="402" text-anchor="middle" class="Lx" >/e/</text>
+<text x="310" y="402" text-anchor="middle" class="Lx" >"backwards E" — non-iotic front vowel</text>
+<text x="38" y="411" text-anchor="middle" class="Lrs" >Ю ю</text>
+<text x="90" y="411" text-anchor="middle" class="Lx" >yu</text>
+<text x="135" y="411" text-anchor="middle" class="Lx" >/ju/</text>
+<text x="310" y="411" text-anchor="middle" class="Lx" >iotic u</text>
+<text x="38" y="420" text-anchor="middle" class="Lrs" >Я я</text>
+<text x="90" y="420" text-anchor="middle" class="Lx" >ya</text>
+<text x="135" y="420" text-anchor="middle" class="Lx" >/ja/</text>
+<text x="310" y="420" text-anchor="middle" class="Lx" >iotic a</text>
+<line x1="20" y1="432" x2="460" y2="432" stroke="black" stroke-width="0.3"/>
+<text x="240" y="441" text-anchor="middle" class="H" >— RUSSIAN NUMERALS — ARABIC (WESTERN) —</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >Russian uses standard Western Arabic numerals (0–9) with standard decimal notation.</text>
+<text x="240" y="461" text-anchor="middle" class="Ls" >Ordinals decline like adjectives: первый (pervyy) "first" · второй (vtoroy) "second" · третий (tretiy) "third"</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="479" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="490" text-anchor="middle" class="Ls" >863 CE: Cyril and Methodius create Glagolitic (first Slavic alphabet) and later Cyrillic for Old Church Slavonic.</text>
+<text x="240" y="499" text-anchor="middle" class="Ls" >~10th c.: Cyrillic adopted in Kievan Rus after Christianization (988 CE); early manuscripts in Old Church Slavonic.</text>
+<text x="240" y="508" text-anchor="middle" class="Ls" >1708: Peter the Great reforms the alphabet — "civil script" (гражданский шрифт) drops archaic letters.</text>
+<text x="240" y="517" text-anchor="middle" class="Ls" >1917–18: Soviet reform removes 4 more letters (ять, і, ижица, фита) — creates modern 33-letter alphabet.</text>
+<text x="240" y="526" text-anchor="middle" class="Ls" >Cyrillic today: used by ~250 million people — Russian, Ukrainian, Bulgarian, Serbian, Kazakh, Mongolian, and more.</text>
+<text x="240" y="535" text-anchor="middle" class="Ls" >Direction: left to right, top to bottom. Same as Latin script.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 24 · RUSSIAN · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

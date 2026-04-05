@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lr { font-size:13px; }
+  .Lrs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >RUSSIAN — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 24B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— KEY FEATURE: PALATALIZATION — SOFT AND HARD CONSONANTS —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Russian has a pervasive contrast between HARD (plain) and SOFT (palatalized) consonants.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Palatalization: the body of the tongue rises toward the hard palate during the consonant — like adding /j/.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Soft sign ь signals palatalization: брат brat "brother" vs. брать brat' "to take"</text>
+<text x="240" y="107" text-anchor="middle" class="Ls" >Iotic vowels (е, ё, ю, я, и) also palatalize the preceding consonant automatically.</text>
+<line x1="20" y1="115" x2="460" y2="115" stroke="black" stroke-width="0.3"/>
+<text x="240" y="124" text-anchor="middle" class="H" >— VOWEL SYSTEM — 6 PHONEMES, STRONG REDUCTION —</text>
+<text x="50" y="134" text-anchor="middle" class="Lx" >IPA</text>
+<text x="95" y="134" text-anchor="middle" class="Lx" >Letter</text>
+<text x="140" y="134" text-anchor="middle" class="Lx" >Translit</text>
+<text x="330" y="134" text-anchor="middle" class="Lx" >Notes</text>
+<text x="50" y="143" text-anchor="middle" class="Lx" >/a/</text>
+<text x="95" y="143" text-anchor="middle" class="Lrs" >а</text>
+<text x="140" y="143" text-anchor="middle" class="Lx" >a</text>
+<text x="315" y="143" text-anchor="middle" class="Lx" >low central — stressed: [a], unstressed after hard: [ə]</text>
+<text x="50" y="155" text-anchor="middle" class="Lx" >/e/</text>
+<text x="95" y="155" text-anchor="middle" class="Lrs" >э/е</text>
+<text x="140" y="155" text-anchor="middle" class="Lx" >e</text>
+<text x="315" y="155" text-anchor="middle" class="Lx" >mid front — stressed: [e], unstressed: [ɪ]</text>
+<text x="50" y="167" text-anchor="middle" class="Lx" >/i/</text>
+<text x="95" y="167" text-anchor="middle" class="Lrs" >и</text>
+<text x="140" y="167" text-anchor="middle" class="Lx" >i</text>
+<text x="315" y="167" text-anchor="middle" class="Lx" >high front — stable across stress</text>
+<text x="50" y="179" text-anchor="middle" class="Lx" >/ɨ/</text>
+<text x="95" y="179" text-anchor="middle" class="Lrs" >ы</text>
+<text x="140" y="179" text-anchor="middle" class="Lx" >y</text>
+<text x="315" y="179" text-anchor="middle" class="Lx" >high central — unique to Slavic; no English equivalent</text>
+<text x="50" y="191" text-anchor="middle" class="Lx" >/o/</text>
+<text x="95" y="191" text-anchor="middle" class="Lrs" >о</text>
+<text x="140" y="191" text-anchor="middle" class="Lx" >o</text>
+<text x="315" y="191" text-anchor="middle" class="Lx" >mid back — stressed: [o], unstressed: [ə] or [ɐ]</text>
+<text x="50" y="203" text-anchor="middle" class="Lx" >/u/</text>
+<text x="95" y="203" text-anchor="middle" class="Lrs" >у</text>
+<text x="140" y="203" text-anchor="middle" class="Lx" >u</text>
+<text x="315" y="203" text-anchor="middle" class="Lx" >high back rounded — relatively stable</text>
+<text x="240" y="218" text-anchor="middle" class="Ls" >VOWEL REDUCTION: unstressed /o/ and /a/ reduce toward [ə]/[ɐ] — молоко moloko [məlɐˈko] "milk"</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H" >— CONSONANT INVENTORY — 36 PHONEMES (18 HARD/SOFT PAIRS + OTHERS) —</text>
+<text x="240" y="246" text-anchor="middle" class="Ls" >Most consonants come in hard/soft pairs — 15 pairs = 30 phonemes, plus unpaired consonants:</text>
+<text x="55" y="255" text-anchor="middle" class="Lx" >п/п'</text>
+<text x="120" y="255" text-anchor="middle" class="Lx" >/p/ - /pʲ/</text>
+<text x="180" y="255" text-anchor="middle" class="Lx" >п/пь</text>
+<text x="360" y="255" text-anchor="middle" class="Lx" >п — папа papa · пь — петь pet'</text>
+<text x="55" y="265" text-anchor="middle" class="Lx" >б/б'</text>
+<text x="120" y="265" text-anchor="middle" class="Lx" >/b/ - /bʲ/</text>
+<text x="180" y="265" text-anchor="middle" class="Lx" >б/бь</text>
+<text x="360" y="265" text-anchor="middle" class="Lx" >б — баба baba · бь — бить bit'</text>
+<text x="55" y="275" text-anchor="middle" class="Lx" >т/т'</text>
+<text x="120" y="275" text-anchor="middle" class="Lx" >/t/ - /tʲ/</text>
+<text x="180" y="275" text-anchor="middle" class="Lx" >т/ть</text>
+<text x="360" y="275" text-anchor="middle" class="Lx" >т — там tam · ть — тесто testo</text>
+<text x="55" y="285" text-anchor="middle" class="Lx" >д/д'</text>
+<text x="120" y="285" text-anchor="middle" class="Lx" >/d/ - /dʲ/</text>
+<text x="180" y="285" text-anchor="middle" class="Lx" >д/дь</text>
+<text x="360" y="285" text-anchor="middle" class="Lx" >д — да da · дь — день den'</text>
+<text x="55" y="295" text-anchor="middle" class="Lx" >к/к'</text>
+<text x="120" y="295" text-anchor="middle" class="Lx" >/k/ - /kʲ/</text>
+<text x="180" y="295" text-anchor="middle" class="Lx" >к/кь</text>
+<text x="360" y="295" text-anchor="middle" class="Lx" >к — кот kot · кь — кит kit</text>
+<text x="55" y="305" text-anchor="middle" class="Lx" >г/г'</text>
+<text x="120" y="305" text-anchor="middle" class="Lx" >/ɡ/ - /ɡʲ/</text>
+<text x="180" y="305" text-anchor="middle" class="Lx" >г/гь</text>
+<text x="360" y="305" text-anchor="middle" class="Lx" >г — год god · гь — гиря girya</text>
+<text x="55" y="315" text-anchor="middle" class="Lx" >с/с'</text>
+<text x="120" y="315" text-anchor="middle" class="Lx" >/s/ - /sʲ/</text>
+<text x="180" y="315" text-anchor="middle" class="Lx" >с/сь</text>
+<text x="360" y="315" text-anchor="middle" class="Lx" >с — сад sad · сь — сесть sest'</text>
+<text x="55" y="325" text-anchor="middle" class="Lx" >з/з'</text>
+<text x="120" y="325" text-anchor="middle" class="Lx" >/z/ - /zʲ/</text>
+<text x="180" y="325" text-anchor="middle" class="Lx" >з/зь</text>
+<text x="360" y="325" text-anchor="middle" class="Lx" >з — зал zal · зь — зима zima</text>
+<text x="55" y="335" text-anchor="middle" class="Lx" >н/н'</text>
+<text x="120" y="335" text-anchor="middle" class="Lx" >/n/ - /nʲ/</text>
+<text x="180" y="335" text-anchor="middle" class="Lx" >н/нь</text>
+<text x="360" y="335" text-anchor="middle" class="Lx" >н — нос nos · нь — нет net</text>
+<text x="55" y="345" text-anchor="middle" class="Lx" >л/л'</text>
+<text x="120" y="345" text-anchor="middle" class="Lx" >/l/ - /lʲ/</text>
+<text x="180" y="345" text-anchor="middle" class="Lx" >л/ль</text>
+<text x="360" y="345" text-anchor="middle" class="Lx" >л — луна luna · ль — лес les</text>
+<text x="55" y="355" text-anchor="middle" class="Lx" >р/р'</text>
+<text x="120" y="355" text-anchor="middle" class="Lx" >/r/ - /rʲ/</text>
+<text x="180" y="355" text-anchor="middle" class="Lx" >р/рь</text>
+<text x="360" y="355" text-anchor="middle" class="Lx" >р — рот rot · рь — ряд ryad</text>
+<text x="55" y="365" text-anchor="middle" class="Lx" >м/м'</text>
+<text x="120" y="365" text-anchor="middle" class="Lx" >/m/ - /mʲ/</text>
+<text x="180" y="365" text-anchor="middle" class="Lx" >м/мь</text>
+<text x="360" y="365" text-anchor="middle" class="Lx" >м — мать mat' · мь — мир mir</text>
+<text x="55" y="375" text-anchor="middle" class="Lx" >в/в'</text>
+<text x="120" y="375" text-anchor="middle" class="Lx" >/v/ - /vʲ/</text>
+<text x="180" y="375" text-anchor="middle" class="Lx" >в/вь</text>
+<text x="360" y="375" text-anchor="middle" class="Lx" >в — вот vot · вь — весна vesna</text>
+<text x="55" y="385" text-anchor="middle" class="Lx" >ф/ф'</text>
+<text x="120" y="385" text-anchor="middle" class="Lx" >/f/ - /fʲ/</text>
+<text x="180" y="385" text-anchor="middle" class="Lx" >ф/фь</text>
+<text x="360" y="385" text-anchor="middle" class="Lx" >ф — факт fakt · фь — фитиль fitil'</text>
+<text x="55" y="395" text-anchor="middle" class="Lx" >х/х'</text>
+<text x="120" y="395" text-anchor="middle" class="Lx" >/x/ - /xʲ/</text>
+<text x="180" y="395" text-anchor="middle" class="Lx" >х/хь</text>
+<text x="360" y="395" text-anchor="middle" class="Lx" >х — ход khod · хь — химия khimiya</text>
+<text x="240" y="410" text-anchor="middle" class="Ls" >Unpaired hard: ж /ʒ/ ш /ʃ/ ц /ts/ · Unpaired soft: ч /tʃ/ щ /ɕ/ й /j/</text>
+<line x1="20" y1="418" x2="460" y2="418" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H" >— STRESS — FREE AND MOBILE —</text>
+<text x="240" y="438" text-anchor="middle" class="L" >Russian stress is FREE: it can fall on any syllable. It is MOBILE: shifts in inflected forms.</text>
+<text x="240" y="448" text-anchor="middle" class="Ls" >рука (ruka) "hand" NOM sg → руку (ruku) ACC sg → руки (ruki) NOM pl — stress shifts each form</text>
+<text x="240" y="457" text-anchor="middle" class="Ls" >Stress is not marked in normal writing. Dictionaries and learner texts mark it with an accent: á.</text>
+<text x="240" y="466" text-anchor="middle" class="Ls" >Unstressed vowels reduce: это (eto) "this" = [ˈetə]; молоко (moloko) "milk" = [məlɐˈko]</text>
+<line x1="20" y1="474" x2="460" y2="474" stroke="black" stroke-width="0.3"/>
+<text x="240" y="483" text-anchor="middle" class="H" >— ASSIMILATION AND FINAL DEVOICING —</text>
+<text x="240" y="494" text-anchor="middle" class="Ls" >Final devoicing: voiced obstruents become voiceless at word end — год god "year" pronounced [ɡot]</text>
+<text x="240" y="503" text-anchor="middle" class="Ls" >Regressive assimilation: consonants assimilate in voicing to the following consonant:</text>
+<text x="240" y="512" text-anchor="middle" class="Ls" >сделать sdelat' "to do" — с before voiced д → [z]: [zdʲelatʲ]</text>
+<text x="240" y="521" text-anchor="middle" class="Ls" >Consonant clusters: Russian allows complex clusters: встреча vstretcha "meeting" /fstrʲetʃə/</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 24 · RUSSIAN · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

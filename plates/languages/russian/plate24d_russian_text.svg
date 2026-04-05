@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Lr { font-size:13px; }
+  .Lrs{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >RUSSIAN — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 24D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — PUSHKIN, EUGENE ONEGIN I.1 (1825) —</text>
+<text x="240" y="78" text-anchor="middle" class="Lr" >Мой дядя самых честных правил,</text>
+<text x="240" y="89" text-anchor="middle" class="Lx" >Moy dyadya samykh chestnykh pravil,</text>
+<text x="240" y="98" text-anchor="middle" class="Lx" >My uncle [of-the] most honest rules,</text>
+<text x="240" y="107" text-anchor="middle" class="Lr" >Когда не в шутку занемог,</text>
+<text x="240" y="118" text-anchor="middle" class="Lx" >Kogda ne v shutku zanemog,</text>
+<text x="240" y="127" text-anchor="middle" class="Lx" >When [not as a] joke fell-ill,</text>
+<text x="240" y="136" text-anchor="middle" class="Ls" >"My uncle — of most honest principles — when he fell ill in earnest…"</text>
+<line x1="20" y1="144" x2="460" y2="144" stroke="black" stroke-width="0.3"/>
+<text x="240" y="152" text-anchor="middle" class="H" >— PASSAGE 2 — TOLSTOY, ANNA KARENINA I.1 (1877) —</text>
+<text x="240" y="163" text-anchor="middle" class="Lr" >Все счастливые семьи похожи друг на друга,</text>
+<text x="240" y="174" text-anchor="middle" class="Lx" >Vse schastlivye sem'i pokhozhi drug na druga,</text>
+<text x="240" y="183" text-anchor="middle" class="Lx" >All happy families resemble one another,</text>
+<text x="240" y="192" text-anchor="middle" class="Lr" >каждая несчастливая семья несчастлива по-своему.</text>
+<text x="240" y="203" text-anchor="middle" class="Lx" >kazhdaya neschastlivaya sem'ya neschastliva po-svoyemu.</text>
+<text x="240" y="212" text-anchor="middle" class="Ls" >"All happy families are alike; each unhappy family is unhappy in its own way."</text>
+<line x1="20" y1="220" x2="460" y2="220" stroke="black" stroke-width="0.3"/>
+<text x="240" y="228" text-anchor="middle" class="H" >— PASSAGE 3 — DOSTOEVSKY, THE IDIOT (1869) —</text>
+<text x="240" y="239" text-anchor="middle" class="Lr" >Красота спасёт мир.</text>
+<text x="240" y="250" text-anchor="middle" class="Lx" >Krasota spasyot mir.</text>
+<text x="240" y="259" text-anchor="middle" class="Lx" >Beauty will-save world/peace.</text>
+<text x="240" y="268" text-anchor="middle" class="Ls" >"Beauty will save the world." — Note: mir means both "world" and "peace" in Russian.</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H" >— PASSAGE 4 — RUSSIAN PROVERBS —</text>
+<text x="240" y="295" text-anchor="middle" class="Lr" >Не откладывай на завтра то, что можно сделать сегодня.</text>
+<text x="240" y="306" text-anchor="middle" class="Lx" >Ne otkladyvay na zavtra to, chto mozhno sdelat' segodnya.</text>
+<text x="240" y="315" text-anchor="middle" class="Ls" >"Do not put off until tomorrow what can be done today."</text>
+<text x="240" y="325" text-anchor="middle" class="Lr" >Язык до Киева доведёт.</text>
+<text x="240" y="336" text-anchor="middle" class="Lx" >Yazyk do Kiyeva dovedet.</text>
+<text x="240" y="345" text-anchor="middle" class="Ls" >"The tongue will lead you to Kiev." — Ask and you will find your way.</text>
+<line x1="20" y1="353" x2="460" y2="353" stroke="black" stroke-width="0.3"/>
+<text x="240" y="361" text-anchor="middle" class="H" >— PASSAGE 5 — CHEKHOV, THREE SISTERS (1901) —</text>
+<text x="240" y="372" text-anchor="middle" class="Lr" >В Москву! В Москву! В Москву!</text>
+<text x="240" y="383" text-anchor="middle" class="Lx" >V Moskvu! V Moskvu! V Moskvu!</text>
+<text x="240" y="392" text-anchor="middle" class="Ls" >"To Moscow! To Moscow! To Moscow!" — the longing for a life not lived, a future not reached.</text>
+<line x1="20" y1="400" x2="460" y2="400" stroke="black" stroke-width="0.3"/>
+<text x="240" y="409" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="421" text-anchor="middle" class="Lr" >Это послание создано для вас, бесплатно, людьми, которые помнили о будущем.</text>
+<text x="240" y="433" text-anchor="middle" class="Lx" >Eto poslaniye sozdano dlya vas, besplatno, lyud'mi, kotorye pomnili o budushchem.</text>
+<text x="240" y="443" text-anchor="middle" class="Lx" >This message  made    for  you  freely   people  who         remembered about future</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="460" x2="460" y2="460" stroke="black" stroke-width="0.3"/>
+<text x="240" y="469" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN RUSSIAN —</text>
+<text x="240" y="480" text-anchor="middle" class="L" >Russian: будущее (budushcheye) = "the future" — a present active participle of быть (byt') "to be".</text>
+<text x="240" y="490" text-anchor="middle" class="Ls" >Literally: "that which is becoming / the becoming" — the future as an ongoing process, not a fixed destination.</text>
+<text x="240" y="500" text-anchor="middle" class="Ls" >помнили (pomnili): past imperfective — they remembered (habitually, over time), not just once.</text>
+<text x="240" y="510" text-anchor="middle" class="Ls" >бесплатно (besplatno): "without payment" — бес (without) + плата (payment) — freely given.</text>
+<text x="240" y="520" text-anchor="middle" class="Ls" >мир (mir): appears in two senses in Russian culture — "world/universe" and "peace/community".</text>
+<text x="240" y="530" text-anchor="middle" class="Ls" >Tolstoy's title Война и мир (War and Peace) plays on this — some read it as "War and the World".</text>
+<line x1="20" y1="539" x2="460" y2="539" stroke="black" stroke-width="0.3"/>
+<text x="240" y="548" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="559" text-anchor="middle" class="Ls" >Russian is an East Slavic language, spoken by ~170 million as a first language, ~300 million total.</text>
+<text x="240" y="568" text-anchor="middle" class="Ls" >Cyrillic alphabet: 33 letters. If unfamiliar, consult Plate 24A for the complete letter table.</text>
+<text x="240" y="577" text-anchor="middle" class="Ls" >Russian is the most widely spoken Slavic language and the 8th most spoken in the world.</text>
+<text x="240" y="586" text-anchor="middle" class="Ls" >Related languages in Cyrillic: Ukrainian, Bulgarian, Serbian, Belarusian, Macedonian.</text>
+<text x="240" y="595" text-anchor="middle" class="Ls" >Russian literature is among the world's richest: Pushkin, Tolstoy, Dostoevsky, Chekhov, Akhmatova.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 24 · RUSSIAN · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
