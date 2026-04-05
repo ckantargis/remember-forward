@@ -661,6 +661,117 @@
     transform: translateY(0);
   }
 
+  /* ── SUBSECTION LABELS ── */
+  .subsection-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.35em;
+    color: var(--gold);
+    text-transform: uppercase;
+    margin: 3rem 0 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  /* ── PROGRESS NOTICE ── */
+  .progress-notice {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin: 1.5rem 0 0.5rem;
+  }
+  .progress-track {
+    height: 2px;
+    background: var(--rule);
+    margin: 0.4rem 0 2rem;
+  }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--gold-light));
+  }
+
+  /* ── LANGUAGE SERIES BLOCKS ── */
+  .lang-series-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .lang-block {
+    background: var(--dark-surface);
+    border: 1px solid var(--rule);
+    padding: 1.25rem 1.5rem;
+  }
+
+  .lang-block-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .lang-series-num {
+    font-family: 'Cinzel', serif;
+    font-size: 0.58rem;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    min-width: 2.8rem;
+  }
+
+  .lang-series-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.88rem;
+    letter-spacing: 0.1em;
+    color: var(--gold-light);
+  }
+
+  .lang-series-badge {
+    font-family: 'Cinzel', serif;
+    font-size: 0.55rem;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    margin-left: auto;
+  }
+
+  .lang-plate-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--text-faint);
+  }
+  .lang-plate-row:last-child { border-bottom: none; }
+
+  .lang-sub-name {
+    flex: 1;
+    font-size: 0.82rem;
+    color: var(--text);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-style: italic;
+  }
+
+  .lang-plate-link {
+    font-family: 'Cinzel', serif;
+    font-size: 0.52rem;
+    letter-spacing: 0.08em;
+    color: var(--gold);
+    text-decoration: none;
+    border: 1px solid var(--accent);
+    padding: 0.25em 0.55em;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+  .lang-plate-link:hover {
+    background: rgba(200,169,110,0.08);
+    border-color: var(--gold);
+  }
+
   /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
     .hero { padding: 5rem 1.5rem 4rem; }
@@ -670,6 +781,7 @@
     .tiers-grid { grid-template-columns: 1fr; }
     .concords-grid { grid-template-columns: repeat(2, 1fr); }
     .license-banner { flex-direction: column; text-align: center; }
+    .lang-series-grid { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -709,51 +821,57 @@
   <p class="section-label">The Plates</p>
   <h2>The Patient Message</h2>
   <p>
-    Each plate is a laser-engraver-ready SVG file, 480×680px portrait format,
+    Each plate is a laser-engraver-ready SVG file, 480&times;680px portrait format,
     designed for nickel or stainless steel. Every plate uses only black strokes —
     no fills, no color — optimized for maximum legibility at any scale and any
     future reading technology from unaided eye to microscope.
   </p>
   <p>
-    The complete set spans eight knowledge plates covering survival through
+    The complete set spans eleven knowledge plates covering survival through
     metaphysics, and four plates per language across fifty human languages —
     214 plates total plus analog audio discs.
   </p>
+
+  <p class="progress-notice">Progress &mdash; 46 of 214 plates complete &mdash; 6 of 50 language series</p>
+  <div class="progress-track"><div class="progress-fill" style="width:21.5%"></div></div>
+
+  <!-- ── Knowledge Plates ── -->
+  <p class="subsection-label">Knowledge Plates &mdash; 10 of 11 Complete</p>
 
   <div class="plates-grid" id="plates-grid">
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate01_v3_rosetta.svg" alt="Plate 1 — Rosetta Index" loading="lazy">
       <p class="plate-card-title">Plate 1</p>
-      <p class="plate-card-desc">Rosetta Index — pictographic key, Mayan numbers, star map</p>
+      <p class="plate-card-desc">Rosetta Index &mdash; pictographic key, Mayan numbers, star map</p>
       <a href="plates/knowledge/plate01_v3_rosetta.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate02_v2_water_fire_shelter.svg" alt="Plate 2 — Water · Fire · Shelter" loading="lazy">
       <p class="plate-card-title">Plate 2</p>
-      <p class="plate-card-desc">Water · Fire · Shelter — solar still, bow drill, debris hut</p>
+      <p class="plate-card-desc">Water &middot; Fire &middot; Shelter &mdash; solar still, bow drill, debris hut</p>
       <a href="plates/knowledge/plate02_v2_water_fire_shelter.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate03_v2_agriculture_seeds.svg" alt="Plate 3 — Agriculture &amp; Seeds" loading="lazy">
       <p class="plate-card-title">Plate 3</p>
-      <p class="plate-card-desc">Agriculture &amp; Seeds — Three Sisters, composting, seed saving</p>
+      <p class="plate-card-desc">Agriculture &amp; Seeds &mdash; Three Sisters, composting, seed saving</p>
       <a href="plates/knowledge/plate03_v2_agriculture_seeds.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate04_v2_technology.svg" alt="Plate 4 — Technology Re-foundation" loading="lazy">
       <p class="plate-card-title">Plate 4</p>
-      <p class="plate-card-desc">Technology Re-foundation — iron, glass, mathematics, printing</p>
+      <p class="plate-card-desc">Technology Re-foundation &mdash; iron, glass, mathematics, printing</p>
       <a href="plates/knowledge/plate04_v2_technology.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate05_v2_governance.svg" alt="Plate 5 — Governance &amp; Ethics" loading="lazy">
       <p class="plate-card-title">Plate 5</p>
-      <p class="plate-card-desc">Governance &amp; Ethics — corruption sequence, golden rule, rights</p>
+      <p class="plate-card-desc">Governance &amp; Ethics &mdash; corruption sequence, golden rule, rights</p>
       <a href="plates/knowledge/plate05_v2_governance.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
@@ -765,31 +883,160 @@
     </div>
 
     <div class="plate-card reveal">
+      <img src="plates/knowledge/plate07_encoding_communication.svg" alt="Plate 7 — Encoding &amp; Communication" loading="lazy">
+      <p class="plate-card-title">Plate 7</p>
+      <p class="plate-card-desc">Encoding &amp; Communication &mdash; binary, Morse, carrier wave, compression</p>
+      <a href="plates/knowledge/plate07_encoding_communication.svg" download class="plate-card-link">Download SVG</a>
+    </div>
+
+    <div class="plate-card reveal">
       <img src="plates/knowledge/plate08_physics_of_sound_v2.svg" alt="Plate 8 — Physics of Sound" loading="lazy">
       <p class="plate-card-title">Plate 8</p>
-      <p class="plate-card-desc">Physics of Sound — the wave, resonance, the groove</p>
+      <p class="plate-card-desc">Physics of Sound &mdash; the wave, resonance, the groove</p>
       <a href="plates/knowledge/plate08_physics_of_sound_v2.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate10_electrical_phenomena.svg" alt="Plate 10 — Electrical Phenomena" loading="lazy">
       <p class="plate-card-title">Plate 10</p>
-      <p class="plate-card-desc">Electrical Phenomena — charge, capacitor, arc, induction</p>
+      <p class="plate-card-desc">Electrical Phenomena &mdash; charge, capacitor, arc, induction</p>
       <a href="plates/knowledge/plate10_electrical_phenomena.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
     <div class="plate-card reveal">
       <img src="plates/knowledge/plate11_energy_generation.svg" alt="Plate 11 — Energy Generation" loading="lazy">
       <p class="plate-card-title">Plate 11</p>
-      <p class="plate-card-desc">Energy Generation — water wheel, wind, osmotic, capacitor</p>
+      <p class="plate-card-desc">Energy Generation &mdash; water wheel, wind, osmotic, capacitor</p>
       <a href="plates/knowledge/plate11_energy_generation.svg" download class="plate-card-link">Download SVG</a>
     </div>
 
-    <div class="plate-card reveal">
-      <img src="plates/languages/plate12a_modern_hebrew.svg" alt="Plate 12A — Modern Hebrew" loading="lazy">
-      <p class="plate-card-title">Plate 12A</p>
-      <p class="plate-card-desc">Modern Hebrew — Alef-Bet, Gematria, core vocabulary</p>
-      <a href="plates/languages/plate12a_modern_hebrew.svg" download class="plate-card-link">Download SVG</a>
+  </div>
+
+  <!-- ── Language Series ── -->
+  <p class="subsection-label">Language Series &mdash; 6 of 50 Complete &middot; 36 Plates</p>
+  <p>
+    Each language series comprises four plates: Script (A), Phonology (B), Grammar &amp; Vocabulary (C),
+    and Running Text with interlinear translation (D). Every Plate D ends with the Bridge Phrase
+    rendered in that language.
+  </p>
+
+  <div class="lang-series-grid">
+
+    <!-- Hebrew 09–12 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">09&ndash;12</span>
+        <span class="lang-series-name">Hebrew</span>
+        <span class="lang-series-badge">16 plates &middot; 4 variants</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">09 &middot; Biblical Hebrew</span>
+        <a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">10 &middot; Mishnaic Hebrew</span>
+        <a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">11 &middot; Yemenite Hebrew</span>
+        <a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">12 &middot; Modern Hebrew</span>
+        <a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+    </div>
+
+    <!-- Arabic 13 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">13</span>
+        <span class="lang-series-name">Arabic</span>
+        <span class="lang-series-badge">4 plates &middot; right-to-left</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">Classical Arabic</span>
+        <a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+    </div>
+
+    <!-- Tamil 14 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">14</span>
+        <span class="lang-series-name">Tamil</span>
+        <span class="lang-series-badge">4 plates &middot; Dravidian</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">Classical Tamil</span>
+        <a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+    </div>
+
+    <!-- Sanskrit 15 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">15</span>
+        <span class="lang-series-name">Sanskrit</span>
+        <span class="lang-series-badge">4 plates &middot; Devanagari</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">Classical Sanskrit</span>
+        <a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+    </div>
+
+    <!-- Bengali 16 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">16</span>
+        <span class="lang-series-name">Bengali</span>
+        <span class="lang-series-badge">4 plates &middot; abugida</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">Modern Bengali</span>
+        <a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
+    </div>
+
+    <!-- Mandarin 17 -->
+    <div class="lang-block reveal">
+      <div class="lang-block-header">
+        <span class="lang-series-num">17</span>
+        <span class="lang-series-name">Mandarin Chinese</span>
+        <span class="lang-series-badge">4 plates &middot; logographic</span>
+      </div>
+      <div class="lang-plate-row">
+        <span class="lang-sub-name">Standard Mandarin</span>
+        <a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="lang-plate-link" title="Script">A</a>
+        <a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="lang-plate-link" title="Phonology">B</a>
+        <a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="lang-plate-link" title="Grammar">C</a>
+        <a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="lang-plate-link" title="Text">D</a>
+      </div>
     </div>
 
   </div>
@@ -986,6 +1233,10 @@
         <a href="plates/knowledge/plate06_v2_concords_stars.svg" download class="download-link">SVG</a>
       </div>
       <div class="download-item">
+        <span class="download-name">Plate 7 — Encoding &amp; Communication</span>
+        <a href="plates/knowledge/plate07_encoding_communication.svg" download class="download-link">SVG</a>
+      </div>
+      <div class="download-item">
         <span class="download-name">Plate 8 — Physics of Sound</span>
         <a href="plates/knowledge/plate08_physics_of_sound_v2.svg" download class="download-link">SVG</a>
       </div>
@@ -1000,13 +1251,53 @@
     </div>
 
     <div class="download-group reveal">
-      <p class="download-group-title">Language Plates (SVG)</p>
+      <p class="download-group-title">Language Plates &mdash; Hebrew (SVG)</p>
+      <div class="download-item"><span class="download-name">09A &mdash; Biblical Hebrew Script</span><a href="plates/languages/hebrew/plate09a_biblical_hebrew.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">09B &mdash; Biblical Hebrew Phonology</span><a href="plates/languages/hebrew/plate09b_biblical_hebrew_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">09C &mdash; Biblical Hebrew Grammar</span><a href="plates/languages/hebrew/plate09c_biblical_hebrew_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">09D &mdash; Biblical Hebrew Text</span><a href="plates/languages/hebrew/plate09d_biblical_hebrew_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">10A &mdash; Mishnaic Hebrew Script</span><a href="plates/languages/hebrew/plate10a_mishnaic_hebrew_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">10B &mdash; Mishnaic Hebrew Phonology</span><a href="plates/languages/hebrew/plate10b_mishnaic_hebrew_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">10C &mdash; Mishnaic Hebrew Grammar</span><a href="plates/languages/hebrew/plate10c_mishnaic_hebrew_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">10D &mdash; Mishnaic Hebrew Text</span><a href="plates/languages/hebrew/plate10d_mishnaic_hebrew_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">11A &mdash; Yemenite Hebrew Script</span><a href="plates/languages/hebrew/plate11a_yemenite_hebrew_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">11B &mdash; Yemenite Hebrew Phonology</span><a href="plates/languages/hebrew/plate11b_yemenite_hebrew_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">11C &mdash; Yemenite Hebrew Grammar</span><a href="plates/languages/hebrew/plate11c_yemenite_hebrew_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">11D &mdash; Yemenite Hebrew Text</span><a href="plates/languages/hebrew/plate11d_yemenite_hebrew_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">12A &mdash; Modern Hebrew Script</span><a href="plates/languages/hebrew/plate12a_modern_hebrew.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">12B &mdash; Modern Hebrew Phonology</span><a href="plates/languages/hebrew/plate12b_modern_hebrew_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">12C &mdash; Modern Hebrew Grammar</span><a href="plates/languages/hebrew/plate12c_modern_hebrew_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">12D &mdash; Modern Hebrew Text</span><a href="plates/languages/hebrew/plate12d_modern_hebrew_text.svg" download class="download-link">SVG</a></div>
+    </div>
+
+    <div class="download-group reveal">
+      <p class="download-group-title">Language Plates &mdash; Arabic, Tamil, Sanskrit (SVG)</p>
+      <div class="download-item"><span class="download-name">13A &mdash; Arabic Script</span><a href="plates/languages/arabic/plate13a_arabic_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">13B &mdash; Arabic Phonology</span><a href="plates/languages/arabic/plate13b_arabic_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">13C &mdash; Arabic Grammar</span><a href="plates/languages/arabic/plate13c_arabic_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">13D &mdash; Arabic Text</span><a href="plates/languages/arabic/plate13d_arabic_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">14A &mdash; Tamil Script</span><a href="plates/languages/tamil/plate14a_tamil_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">14B &mdash; Tamil Phonology</span><a href="plates/languages/tamil/plate14b_tamil_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">14C &mdash; Tamil Grammar</span><a href="plates/languages/tamil/plate14c_tamil_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">14D &mdash; Tamil Text</span><a href="plates/languages/tamil/plate14d_tamil_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">15A &mdash; Sanskrit Script</span><a href="plates/languages/sanskrit/plate15a_sanskrit_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">15B &mdash; Sanskrit Phonology</span><a href="plates/languages/sanskrit/plate15b_sanskrit_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">15C &mdash; Sanskrit Grammar</span><a href="plates/languages/sanskrit/plate15c_sanskrit_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">15D &mdash; Sanskrit Text</span><a href="plates/languages/sanskrit/plate15d_sanskrit_text.svg" download class="download-link">SVG</a></div>
+    </div>
+
+    <div class="download-group reveal">
+      <p class="download-group-title">Language Plates &mdash; Bengali, Mandarin Chinese (SVG)</p>
+      <div class="download-item"><span class="download-name">16A &mdash; Bengali Script</span><a href="plates/languages/bengali/plate16a_bengali_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">16B &mdash; Bengali Phonology</span><a href="plates/languages/bengali/plate16b_bengali_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">16C &mdash; Bengali Grammar</span><a href="plates/languages/bengali/plate16c_bengali_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">16D &mdash; Bengali Text</span><a href="plates/languages/bengali/plate16d_bengali_text.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">17A &mdash; Mandarin Chinese Script</span><a href="plates/languages/mandarin/plate17a_mandarin_script.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">17B &mdash; Mandarin Chinese Phonology</span><a href="plates/languages/mandarin/plate17b_mandarin_phonology.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">17C &mdash; Mandarin Chinese Grammar</span><a href="plates/languages/mandarin/plate17c_mandarin_grammar.svg" download class="download-link">SVG</a></div>
+      <div class="download-item"><span class="download-name">17D &mdash; Mandarin Chinese Text</span><a href="plates/languages/mandarin/plate17d_mandarin_text.svg" download class="download-link">SVG</a></div>
       <div class="download-item">
-        <span class="download-name">Plate 12A — Modern Hebrew</span>
-        <a href="plates/languages/plate12a_modern_hebrew.svg" download class="download-link">SVG</a>
-      </div>
-      <div class="download-item">
-        <span class="download-name">More languages coming — contribute via GitHub</span>
+        <span class="download-name">More languages in progress &mdash; contribute via GitHub</span>
         <a href="https://github.com/ckantargis/remember-forward" class="download-link">GitHub</a>
       </div>
     </div>
