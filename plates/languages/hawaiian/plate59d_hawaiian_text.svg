@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans", "Georgia", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >HAWAIIAN  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Ka Moʻolelo Hawaiʻi</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Hawaii Ponoʻi — State Song (1874) —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >Hawaiʻi ponoʻi e</text>
+<text x="240" y="126" text-anchor="middle" class="X" >Hawaii, the righteous</text>
+<text x="240" y="146" text-anchor="middle" class="L" >Na pono o na mea kau</text>
+<text x="240" y="160" text-anchor="middle" class="X" >The blessings of the things above</text>
+<text x="240" y="180" text-anchor="middle" class="L" >E mau ke ea o ka ʻāina</text>
+<text x="240" y="194" text-anchor="middle" class="X" >May the life of the land endure</text>
+<text x="240" y="214" text-anchor="middle" class="L" >I ka pono</text>
+<text x="240" y="228" text-anchor="middle" class="X" >In righteousness</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="272" text-anchor="middle" class="H" >— Proverb — ʻōlelo Noʻeau —</text>
+<text x="240" y="289" text-anchor="middle" class="L" >ʻAʻohe pau ka ʻike me ka haʻawe</text>
+<text x="240" y="305" text-anchor="middle" class="X" >"All knowledge is not taught in one school"</text>
+<line x1="20" y1="319" x2="460" y2="319" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="335" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="355" text-anchor="middle" class="L" >Ua hana ʻia kēia nā ʻiʻo, nō ka mea lokomaikaʻi,</text>
+<text x="240" y="373" text-anchor="middle" class="L" >e nā kanaka nā mākua</text>
+<text x="240" y="391" text-anchor="middle" class="L" >i hoʻomanaʻo i ka wā e hiki mai ana.</text>
+<text x="240" y="411" text-anchor="middle" class="X" >"This was made for you, freely,</text>
+<text x="240" y="425" text-anchor="middle" class="X" >by people who remembered forward."</text>
+<line x1="20" y1="440" x2="460" y2="440" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="457" text-anchor="middle" class="X" >Hawaiian · ~37,000 speakers · Polynesian</text>
+<text x="240" y="473" text-anchor="middle" class="X" >Language revitalization since 1970s · Nā Pūpuna</text>
+<text x="240" y="489" text-anchor="middle" class="X" >Immersion schools restored intergenerational transmission</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 59D  ·  HAWAIIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

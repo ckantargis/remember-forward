@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Naskh Arabic", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >EGYPTIAN ARABIC  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >قواعد  (Qawaaʿid)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Word Order  SVO —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >أنا بشرب مية</text>
+<text x="240" y="128" text-anchor="middle" class="X" >ʼana bashrab mayya — "I drink water"</text>
+<line x1="20" y1="141" x2="460" y2="141" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H" >— Verb Conjugation —</text>
+<text x="240" y="174" text-anchor="middle" class="X" >Root system: 3-4 consonant roots + vowel patterns</text>
+<text x="240" y="190" text-anchor="middle" class="X" >k-t-b = writing: katab (wrote), yiktib (writes)</text>
+<text x="65" y="206" text-anchor="middle" class="L" >كتبت</text>
+<text x="150" y="206" text-anchor="middle" class="X" >katabt</text>
+<text x="285" y="206" text-anchor="start" class="X" >I wrote</text>
+<text x="65" y="222" text-anchor="middle" class="L" >كتبت</text>
+<text x="150" y="222" text-anchor="middle" class="X" >katabt</text>
+<text x="285" y="222" text-anchor="start" class="X" >you (m.) wrote</text>
+<text x="65" y="238" text-anchor="middle" class="L" >كتب</text>
+<text x="150" y="238" text-anchor="middle" class="X" >katab</text>
+<text x="285" y="238" text-anchor="start" class="X" >he wrote</text>
+<text x="65" y="254" text-anchor="middle" class="L" >كتبت</text>
+<text x="150" y="254" text-anchor="middle" class="X" >katabit</text>
+<text x="285" y="254" text-anchor="start" class="X" >she wrote</text>
+<text x="65" y="270" text-anchor="middle" class="L" >كتبنا</text>
+<text x="150" y="270" text-anchor="middle" class="X" >katabna</text>
+<text x="285" y="270" text-anchor="start" class="X" >we wrote</text>
+<line x1="20" y1="296" x2="460" y2="296" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="312" text-anchor="middle" class="H" >— Dual and Plural —</text>
+<text x="240" y="329" text-anchor="middle" class="X" >Dual suffix: -́ōn (2 of something)</text>
+<text x="240" y="345" text-anchor="middle" class="X" >Sound plural: -īn (m.) / -āt (f.)</text>
+<text x="240" y="361" text-anchor="middle" class="X" >Broken plural: internal vowel change (most common)</text>
+<text x="240" y="377" text-anchor="middle" class="L" >kītab (book) → kutub (books)</text>
+<line x1="20" y1="391" x2="460" y2="391" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="407" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="50" y="424" text-anchor="middle" class="L" >مية</text>
+<text x="115" y="424" text-anchor="middle" class="X" >mayya</text>
+<text x="180" y="424" text-anchor="middle" class="X" >water</text>
+<text x="275" y="424" text-anchor="middle" class="L" >عيش</text>
+<text x="350" y="424" text-anchor="middle" class="X" >eesh</text>
+<text x="425" y="424" text-anchor="middle" class="X" >bread</text>
+<text x="50" y="442" text-anchor="middle" class="L" >بيت</text>
+<text x="115" y="442" text-anchor="middle" class="X" >beet</text>
+<text x="180" y="442" text-anchor="middle" class="X" >house</text>
+<text x="275" y="442" text-anchor="middle" class="L" >مما</text>
+<text x="350" y="442" text-anchor="middle" class="X" >mama</text>
+<text x="425" y="442" text-anchor="middle" class="X" >mother</text>
+<text x="50" y="460" text-anchor="middle" class="L" >صاحب</text>
+<text x="115" y="460" text-anchor="middle" class="X" >saahib</text>
+<text x="180" y="460" text-anchor="middle" class="X" >friend</text>
+<text x="275" y="460" text-anchor="middle" class="L" >آه</text>
+<text x="350" y="460" text-anchor="middle" class="X" >aah</text>
+<text x="425" y="460" text-anchor="middle" class="X" >yes</text>
+<text x="50" y="478" text-anchor="middle" class="L" >لأ</text>
+<text x="115" y="478" text-anchor="middle" class="X" >laʼ</text>
+<text x="180" y="478" text-anchor="middle" class="X" >no</text>
+<text x="275" y="478" text-anchor="middle" class="L" >اسم</text>
+<text x="350" y="478" text-anchor="middle" class="X" >esm</text>
+<text x="425" y="478" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 60C  ·  EGYPTIAN ARABIC</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · Roots · Broken Plurals</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Khmer", "Noto Sans Khmer", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >KHMER  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >សង្គឹតស្តរ  (sangkhetsathar)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Register System —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Each consonant belongs to one of two series:</text>
+<text x="240" y="128" text-anchor="middle" class="X" >1st series: consonant + inherent vowel /a/</text>
+<text x="240" y="144" text-anchor="middle" class="X" >2nd series: consonant + inherent vowel /ɔ/</text>
+<text x="240" y="160" text-anchor="middle" class="X" >Same vowel diacritic = different sound by register</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="190" text-anchor="middle" class="H" >— Initial Consonants —</text>
+<text x="240" y="207" text-anchor="middle" class="X" >Khmer lost voiced/voiceless distinction historically</text>
+<text x="240" y="223" text-anchor="middle" class="X" >Replaced by register contrast in vowel quality</text>
+<text x="240" y="239" text-anchor="middle" class="X" >Modern: /k kh p ph t th c ch m n ng/ etc.</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="269" text-anchor="middle" class="H" >— Vowels —</text>
+<text x="240" y="286" text-anchor="middle" class="X" >Rich vowel system: ~30 vowel sounds</text>
+<text x="240" y="302" text-anchor="middle" class="X" >Short/long pairs + diphthongs + register variants</text>
+<text x="60" y="318" text-anchor="middle" class="X" >a / ə</text>
+<text x="175" y="318" text-anchor="middle" class="X" >aa / ɨə</text>
+<text x="300" y="318" text-anchor="middle" class="X" >i / ɪ</text>
+<text x="415" y="318" text-anchor="middle" class="X" >ī / ɨɪ</text>
+<text x="60" y="336" text-anchor="middle" class="X" >u / ʊ</text>
+<text x="175" y="336" text-anchor="middle" class="X" >ū / ɨʊ</text>
+<text x="300" y="336" text-anchor="middle" class="X" >e / ɛ</text>
+<text x="415" y="336" text-anchor="middle" class="X" >ei / ɪɛ</text>
+<text x="60" y="354" text-anchor="middle" class="X" >ae / aɛ</text>
+<text x="175" y="354" text-anchor="middle" class="X" >ao / ao</text>
+<text x="300" y="354" text-anchor="middle" class="X" >oa / ɔə</text>
+<text x="415" y="354" text-anchor="middle" class="X" >ua / ɨə</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="394" text-anchor="middle" class="H" >— No Tones —</text>
+<text x="240" y="411" text-anchor="middle" class="X" >Khmer is NOT tonal (unlike Thai and Vietnamese)</text>
+<text x="240" y="427" text-anchor="middle" class="X" >Rhythm is iambic: weak + STRONG syllable pairs</text>
+<line x1="20" y1="441" x2="460" y2="441" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="457" text-anchor="middle" class="H" >— Stress —</text>
+<text x="240" y="474" text-anchor="middle" class="X" >Stress falls on final syllable of a word</text>
+<text x="240" y="490" text-anchor="middle" class="X" >Minor syllables (presyllables) are unstressed</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 58B  ·  KHMER</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Register · Vowels</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Khmer", "Noto Sans Khmer", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >KHMER  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >វឹយាករណ៍  (veyiakorn)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Analytic Language  ·  SVO  Order —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >ខ្ញុម ផឹក តឹក</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Khnhom phik teuk — "I drink water"</text>
+<line x1="20" y1="141" x2="460" y2="141" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H" >— No Inflection —</text>
+<text x="240" y="174" text-anchor="middle" class="X" >Khmer has NO grammatical inflection:</text>
+<text x="240" y="190" text-anchor="middle" class="X" >No verb conjugation · No noun declension</text>
+<text x="240" y="206" text-anchor="middle" class="X" >No grammatical gender · No tense markers on verbs</text>
+<text x="240" y="222" text-anchor="middle" class="X" >Tense conveyed by time words and aspect particles</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="252" text-anchor="middle" class="H" >— Particles and Auxiliaries —</text>
+<text x="65" y="269" text-anchor="middle" class="L" >បាន</text>
+<text x="140" y="269" text-anchor="middle" class="X" >baan</text>
+<text x="290" y="269" text-anchor="start" class="X" >past/ability marker</text>
+<text x="65" y="287" text-anchor="middle" class="L" >នឹង</text>
+<text x="140" y="287" text-anchor="middle" class="X" >neung</text>
+<text x="290" y="287" text-anchor="start" class="X" >future marker</text>
+<text x="65" y="305" text-anchor="middle" class="L" >កម្ពុង</text>
+<text x="140" y="305" text-anchor="middle" class="X" >kampung</text>
+<text x="290" y="305" text-anchor="start" class="X" >progressive aspect</text>
+<text x="65" y="323" text-anchor="middle" class="L" >ហើយ</text>
+<text x="140" y="323" text-anchor="middle" class="X" >haei</text>
+<text x="290" y="323" text-anchor="start" class="X" >already/completion</text>
+<text x="65" y="341" text-anchor="middle" class="L" >តើ</text>
+<text x="140" y="341" text-anchor="middle" class="X" >teh</text>
+<text x="290" y="341" text-anchor="start" class="X" >negation (sentence-final)</text>
+<line x1="20" y1="363" x2="460" y2="363" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="379" text-anchor="middle" class="H" >— Classifiers —</text>
+<text x="240" y="396" text-anchor="middle" class="X" >Nouns take classifiers when counted:</text>
+<text x="240" y="412" text-anchor="middle" class="L" >មនុស្សពីរ ម្នាក (person: mneak)</text>
+<text x="240" y="428" text-anchor="middle" class="L" >សត្វ កបាល (animal: kbal)</text>
+<line x1="20" y1="442" x2="460" y2="442" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="458" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="50" y="474" text-anchor="middle" class="L" >តឹក</text>
+<text x="115" y="474" text-anchor="middle" class="X" >teuk</text>
+<text x="185" y="474" text-anchor="middle" class="X" >water</text>
+<text x="280" y="474" text-anchor="middle" class="L" >នំបាញ</text>
+<text x="355" y="474" text-anchor="middle" class="X" >nambang</text>
+<text x="430" y="474" text-anchor="middle" class="X" >bread</text>
+<text x="50" y="492" text-anchor="middle" class="L" >ព័ក</text>
+<text x="115" y="492" text-anchor="middle" class="X" >pteah</text>
+<text x="185" y="492" text-anchor="middle" class="X" >house</text>
+<text x="280" y="492" text-anchor="middle" class="L" >ម័ទាយ</text>
+<text x="355" y="492" text-anchor="middle" class="X" >madaay</text>
+<text x="430" y="492" text-anchor="middle" class="X" >mother</text>
+<text x="50" y="510" text-anchor="middle" class="L" >បាទ</text>
+<text x="115" y="510" text-anchor="middle" class="X" >បាទ</text>
+<text x="185" y="510" text-anchor="middle" class="X" >friend</text>
+<text x="280" y="510" text-anchor="middle" class="L" >បាតឺ</text>
+<text x="355" y="510" text-anchor="middle" class="X" >baateu</text>
+<text x="430" y="510" text-anchor="middle" class="X" >yes</text>
+<text x="50" y="528" text-anchor="middle" class="L" >អតី</text>
+<text x="115" y="528" text-anchor="middle" class="X" >atei</text>
+<text x="185" y="528" text-anchor="middle" class="X" >no</text>
+<text x="280" y="528" text-anchor="middle" class="L" >ច្ម្អែស</text>
+<text x="355" y="528" text-anchor="middle" class="X" >chmaaes</text>
+<text x="430" y="528" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 58C  ·  KHMER</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · Analytic · Particles</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

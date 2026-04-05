@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GERMAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Deutsch — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >German uses the Latin alphabet (26 letters) plus 4 special characters: ä, ö, ü, ß.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Highly regular spelling; German is phonemic with few exceptions.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Capital letters: ALL nouns capitalised in German. Unique among major European languages.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— SPECIAL CHARACTERS —</text>
+<text x="60" y="131" text-anchor="middle" class="L" >ä /ɛ/ or /ɛː/</text>
+<text x="290" y="131" text-anchor="middle" class="Lx" >A-umlaut: Mädchen (girl), Säge (saw). Alternate: ae.</text>
+<text x="60" y="143" text-anchor="middle" class="L" >ö /ø/ or /øː/</text>
+<text x="290" y="143" text-anchor="middle" class="Lx" >O-umlaut: öffnen (open), König (king). Alt: oe.</text>
+<text x="60" y="155" text-anchor="middle" class="L" >ü /y/ or /yː/</text>
+<text x="290" y="155" text-anchor="middle" class="Lx" >U-umlaut: über (over), München. Alt: ue.</text>
+<text x="60" y="167" text-anchor="middle" class="L" >ß /sː/ or /s/</text>
+<text x="290" y="167" text-anchor="middle" class="Lx" >Sharp S (Eszett): straße (street), weiß (white). Alt: ss.</text>
+<line x1="20" y1="185" x2="460" y2="185" stroke="black" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H" >— GOTHIC / FRAKTUR SCRIPT —</text>
+<text x="240" y="204" text-anchor="middle" class="Ls" >Historical German: Fraktur (Gothic/Blackletter) script used until ~1940s.</text>
+<text x="240" y="214" text-anchor="middle" class="Ls" >Nazi Germany abolished Fraktur 1941; modern German uses Latin (Antiqua).</text>
+<text x="240" y="224" text-anchor="middle" class="Ls" >Fraktur still seen on historic documents, decorative signs, beer labels.</text>
+<line x1="20" y1="232" x2="460" y2="232" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H" >— KEY PRONUNCIATION RULES —</text>
+<text x="240" y="251" text-anchor="middle" class="Ls" >CH: /x/ after back vowels (Bach, acht), /ç/ after front vowels (ich, nicht).</text>
+<text x="240" y="261" text-anchor="middle" class="Ls" >W = /v/: Wasser (water) = /vasər/. V = /f/: Vater (father) = /faːtər/.</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >Z = /ts/: Zeit (time) = /tsaɪt/. J = /j/: Jahr (year) = /jaːr/.</text>
+<text x="240" y="281" text-anchor="middle" class="Ls" >Final devoicing: Tag /taːk/, Wald /valt/ (d→t, g→k at word end).</text>
+<line x1="20" y1="289" x2="460" y2="289" stroke="black" stroke-width="0.3"/>
+<text x="240" y="298" text-anchor="middle" class="H" >— GERMAN NUMERALS —</text>
+<text x="55" y="308" text-anchor="middle" class="Lx" >0=null</text>
+<text x="150" y="308" text-anchor="middle" class="Lx" >1=ein</text>
+<text x="245" y="308" text-anchor="middle" class="Lx" >2=zwei</text>
+<text x="340" y="308" text-anchor="middle" class="Lx" >3=drei</text>
+<text x="55" y="318" text-anchor="middle" class="Lx" >4=vier</text>
+<text x="150" y="318" text-anchor="middle" class="Lx" >5=fünf</text>
+<text x="245" y="318" text-anchor="middle" class="Lx" >6=sechs</text>
+<text x="340" y="318" text-anchor="middle" class="Lx" >7=sieben</text>
+<text x="55" y="328" text-anchor="middle" class="Lx" >8=acht</text>
+<text x="150" y="328" text-anchor="middle" class="Lx" >9=neun</text>
+<text x="245" y="328" text-anchor="middle" class="Lx" >10=zehn</text>
+<text x="340" y="328" text-anchor="middle" class="Lx" >20=zwanzig</text>
+<text x="55" y="338" text-anchor="middle" class="Lx" >100=hundert</text>
+<text x="150" y="338" text-anchor="middle" class="Lx" >1000=tausend</text>
+<text x="240" y="348" text-anchor="middle" class="Ls" >Large numbers: 1,000,000 = eine Million. Compound: siebenundzwanzig = 27 (seven-and-twenty).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 52A — GERMAN: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

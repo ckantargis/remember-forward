@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Mongolian", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >MONGOLIAN  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Текст ба гүүр</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Secret History of the Mongols — c. 1227 —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >Чинггис Хааний танилцаа нь тэргүүл</text>
+<text x="240" y="128" text-anchor="middle" class="X" >"The secret history of Chinggis Khan"</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Oldest surviving Mongolic literature</text>
+<text x="240" y="160" text-anchor="middle" class="L" >Орчлан хуварги их түгээ гарч харахдаа</text>
+<text x="240" y="176" text-anchor="middle" class="X" >"The sky has ordered it thus — the earth has agreed"</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="223" text-anchor="middle" class="L" >Дэлхийцийг нь хямт дэлхийц дараагуй</text>
+<text x="240" y="239" text-anchor="middle" class="X" >"Tame the tongue, and it will become your ally"</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="269" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="289" text-anchor="middle" class="L" >Энэ таны түлөө чөлөөлсөн,</text>
+<text x="240" y="305" text-anchor="middle" class="L" >үнэгүйгээр, цаашда харагдсан хүмүүсийн</text>
+<text x="240" y="321" text-anchor="middle" class="L" >иргэдийг санасан хүмүүсийнэр хийгээсэн.</text>
+<text x="240" y="341" text-anchor="middle" class="X" >Ene tany tuloöl choloolson,</text>
+<text x="240" y="357" text-anchor="middle" class="X" >unegiigeer, tsaashda kharagdsan khumuusiin</text>
+<text x="240" y="373" text-anchor="middle" class="X" >irgediyig sanasan khumuusiiner khiygeesen.</text>
+<text x="240" y="391" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="405" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="420" x2="460" y2="420" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="437" text-anchor="middle" class="X" >Mongolian · ~5.2M speakers · Mongolic family</text>
+<text x="240" y="453" text-anchor="middle" class="X" >Mongolia + Inner Mongolia · steppe heritage</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 57D  ·  MONGOLIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

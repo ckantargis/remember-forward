@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Tibetan", "Noto Sans Tibetan", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >TIBETAN  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >སྐད་ཆཱ</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Om Mani Padme Hum —</text>
+<text x="240" y="120" text-anchor="middle" class="L" >ༀམ་མ༣ི་པད་མེ།</text>
+<text x="240" y="142" text-anchor="middle" class="X" >om ma-ni pad-me hum</text>
+<text x="240" y="158" text-anchor="middle" class="X" >"The jewel in the lotus" — most recited mantra</text>
+<text x="240" y="174" text-anchor="middle" class="X" >Engraved on mani stones throughout Tibet and Ladakh</text>
+<line x1="20" y1="188" x2="460" y2="188" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="204" text-anchor="middle" class="H" >— Tibetan Proverb —</text>
+<text x="240" y="221" text-anchor="middle" class="L" >དགོན་པ་རང་ལམ་ཡོད།</text>
+<text x="240" y="237" text-anchor="middle" class="X" >dgon pa rang lam yod</text>
+<text x="240" y="253" text-anchor="middle" class="X" >"Every monastery has its own path"</text>
+<line x1="20" y1="267" x2="460" y2="267" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="283" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="303" text-anchor="middle" class="L" >དི་ཆུང་ཁོ་ཀཱ་བལསབས་</text>
+<text x="240" y="321" text-anchor="middle" class="L" >པརཤཱ་མེད་འབཡུང་ཞར་ཀཡཱན</text>
+<text x="240" y="339" text-anchor="middle" class="L" >དེ་ངཱ་སཱར་བལསབས་ཡོད།</text>
+<text x="240" y="361" text-anchor="middle" class="X" >Di khyong kho kā blas bas,</text>
+<text x="240" y="377" text-anchor="middle" class="X" >par shad med par, khyod rnams kyi chan</text>
+<text x="240" y="393" text-anchor="middle" class="X" >de nā sāra blas bas yod.</text>
+<text x="240" y="411" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="425" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="440" x2="460" y2="440" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="457" text-anchor="middle" class="X" >Tibetan · ~6M native speakers · Sino-Tibetan family</text>
+<text x="240" y="473" text-anchor="middle" class="X" >Tibetan Plateau · language of Vajrayana Buddhism</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 56D  ·  TIBETAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PASHTO  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >متن او د دوې د پل جوړ</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Rahman Baba — 17th-century Pashto poet —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >د مېنې پایلې ژوبا شاه دې</text>
+<text x="240" y="126" text-anchor="middle" class="X" >da mene pāyla zhoba shāh da</text>
+<text x="240" y="146" text-anchor="middle" class="L" >په لار ںاندل خپل کېژۍ</text>
+<text x="240" y="160" text-anchor="middle" class="X" >pa lār nandal xpal kejy</text>
+<text x="240" y="180" text-anchor="middle" class="L" >ۍ دې ڈول راحت وې</text>
+<text x="240" y="194" text-anchor="middle" class="X" >ye da dhol rāhat way</text>
+<text x="240" y="214" text-anchor="middle" class="X" >"Pashto is the queen of languages / walk in its path"</text>
+<line x1="20" y1="230" x2="460" y2="230" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="263" text-anchor="middle" class="L" >پښتون پښتونه کوې</text>
+<text x="240" y="279" text-anchor="middle" class="X" >Paxtūn paxtonaʰ kaway — "A Pashtun does Pashtunwali"</text>
+<text x="240" y="295" text-anchor="middle" class="X" >(Pashtunwali = code of honor, hospitality, and justice)</text>
+<line x1="20" y1="309" x2="460" y2="309" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="345" text-anchor="middle" class="L" >دا ستاسو لپاره جوړې شوې,</text>
+<text x="240" y="361" text-anchor="middle" class="L" >بلندپرېزې, د هغو د خلکو له چې</text>
+<text x="240" y="377" text-anchor="middle" class="L" >په مخکې وڕاندل.</text>
+<text x="240" y="397" text-anchor="middle" class="X" >Dā stāso lapāra joṛe shwe, bilnde payreze,</text>
+<text x="240" y="413" text-anchor="middle" class="X" >da hagho da xalko le ce</text>
+<text x="240" y="429" text-anchor="middle" class="X" >pa maxke wuṛāndal.</text>
+<text x="240" y="447" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="461" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="475" x2="460" y2="475" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="492" text-anchor="middle" class="X" >Pashto · ~50M speakers · Eastern Iranian</text>
+<text x="240" y="508" text-anchor="middle" class="X" >Afghanistan + Pakistan · Pashtunwali oral tradition</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 55D  ·  PASHTO</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Mongolian", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >MONGOLIAN  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Дүрмийн зүй</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Agglutinative  ·  SOV  Word Order —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >Би ус ууґна</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Bi us uudhna — "I drink water"</text>
+<line x1="20" y1="141" x2="460" y2="141" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H" >— Cases — 8 Cases via Suffixes —</text>
+<text x="55" y="174" text-anchor="middle" class="X" >Нэрлэл</text>
+<text x="155" y="174" text-anchor="middle" class="X" >nominative</text>
+<text x="240" y="174" text-anchor="middle" class="L" >-Ø</text>
+<text x="340" y="174" text-anchor="start" class="X" >subject</text>
+<text x="55" y="191" text-anchor="middle" class="X" >Харьялал</text>
+<text x="155" y="191" text-anchor="middle" class="X" >accusative</text>
+<text x="240" y="191" text-anchor="middle" class="L" >-ийг</text>
+<text x="340" y="191" text-anchor="start" class="X" >definite object</text>
+<text x="55" y="208" text-anchor="middle" class="X" >Гарах</text>
+<text x="155" y="208" text-anchor="middle" class="X" >genitive</text>
+<text x="240" y="208" text-anchor="middle" class="L" >-ын/ийн</text>
+<text x="340" y="208" text-anchor="start" class="X" >possession</text>
+<text x="55" y="225" text-anchor="middle" class="X" >Өгөх</text>
+<text x="155" y="225" text-anchor="middle" class="X" >dative</text>
+<text x="240" y="225" text-anchor="middle" class="L" >-д/т</text>
+<text x="340" y="225" text-anchor="start" class="X" >to, for</text>
+<text x="55" y="242" text-anchor="middle" class="X" >Зайн</text>
+<text x="155" y="242" text-anchor="middle" class="X" >locative</text>
+<text x="240" y="242" text-anchor="middle" class="L" >-д/т</text>
+<text x="340" y="242" text-anchor="start" class="X" >at, in</text>
+<text x="55" y="259" text-anchor="middle" class="X" >Гарах</text>
+<text x="155" y="259" text-anchor="middle" class="X" >ablative</text>
+<text x="240" y="259" text-anchor="middle" class="L" >-аас/ээс</text>
+<text x="340" y="259" text-anchor="start" class="X" >from</text>
+<text x="55" y="276" text-anchor="middle" class="X" >Хэрэглэл</text>
+<text x="155" y="276" text-anchor="middle" class="X" >instrumental</text>
+<text x="240" y="276" text-anchor="middle" class="L" >-аар/ээр</text>
+<text x="340" y="276" text-anchor="start" class="X" >by means of</text>
+<text x="55" y="293" text-anchor="middle" class="X" >Хамтран</text>
+<text x="155" y="293" text-anchor="middle" class="X" >comitative</text>
+<text x="240" y="293" text-anchor="middle" class="L" >-тай</text>
+<text x="340" y="293" text-anchor="start" class="X" >together with</text>
+<line x1="20" y1="322" x2="460" y2="322" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="338" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="55" y="355" text-anchor="middle" class="L" >ус</text>
+<text x="115" y="355" text-anchor="middle" class="X" >us</text>
+<text x="180" y="355" text-anchor="middle" class="X" >water</text>
+<text x="275" y="355" text-anchor="middle" class="L" >талх</text>
+<text x="345" y="355" text-anchor="middle" class="X" >talkh</text>
+<text x="415" y="355" text-anchor="middle" class="X" >bread</text>
+<text x="55" y="373" text-anchor="middle" class="L" >гэр</text>
+<text x="115" y="373" text-anchor="middle" class="X" >ger</text>
+<text x="180" y="373" text-anchor="middle" class="X" >house/yurt</text>
+<text x="275" y="373" text-anchor="middle" class="L" >ээж</text>
+<text x="345" y="373" text-anchor="middle" class="X" >eej</text>
+<text x="415" y="373" text-anchor="middle" class="X" >mother</text>
+<text x="55" y="391" text-anchor="middle" class="L" >нүхөр</text>
+<text x="115" y="391" text-anchor="middle" class="X" >nukhur</text>
+<text x="180" y="391" text-anchor="middle" class="X" >friend</text>
+<text x="275" y="391" text-anchor="middle" class="L" >тийм</text>
+<text x="345" y="391" text-anchor="middle" class="X" >tiim</text>
+<text x="415" y="391" text-anchor="middle" class="X" >yes</text>
+<text x="55" y="409" text-anchor="middle" class="L" >үгүй</text>
+<text x="115" y="409" text-anchor="middle" class="X" >ugui</text>
+<text x="180" y="409" text-anchor="middle" class="X" >no</text>
+<text x="275" y="409" text-anchor="middle" class="L" >нэр</text>
+<text x="345" y="409" text-anchor="middle" class="X" >ner</text>
+<text x="415" y="409" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 57C  ·  MONGOLIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · 8 Cases · Agglutination</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

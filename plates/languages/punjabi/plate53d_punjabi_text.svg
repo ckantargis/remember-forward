@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Gurmukhi", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PUNJABI  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ਲਿਖਤ ਅਤੇ ਪੁਲ</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— The Mul Mantar (Opening of Sri Guru Granth Sahib) —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >ਇੱਕ ਓਅਂਕਾਰ</text>
+<text x="240" y="126" text-anchor="middle" class="X" >Ikk Oankār  —  One Creator God</text>
+<text x="240" y="144" text-anchor="middle" class="L" >ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ</text>
+<text x="240" y="158" text-anchor="middle" class="X" >Sat nām, kartā purakh  —  True Name, the Creator Being</text>
+<text x="240" y="176" text-anchor="middle" class="L" >ਨਿਰਭੌ ਨਿਰਵੈਰੁ</text>
+<text x="240" y="190" text-anchor="middle" class="X" >Nirbhau, nirvair  —  Without fear, without enmity</text>
+<text x="240" y="208" text-anchor="middle" class="L" >ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ</text>
+<text x="240" y="222" text-anchor="middle" class="X" >Akāl mūrat, ajūnī  —  Timeless form, unborn</text>
+<line x1="20" y1="268" x2="460" y2="268" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="300" text-anchor="middle" class="L" >ਬੰਦਾ ਸੋਚ ਵਿਚਾਰ ਕੇ ਚੱਲਦਾ ਹੈ</text>
+<text x="240" y="316" text-anchor="middle" class="X" >Bandā soc vicār ke calldā hai</text>
+<text x="240" y="332" text-anchor="middle" class="X" >"A person moves forward through thought and reflection"</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="382" text-anchor="middle" class="L" >ਇਹ ਤੁਹਾਡੇ ਲਈ ਬਣਾਈ ਗਈ ਸੀ,</text>
+<text x="240" y="398" text-anchor="middle" class="L" >ਮੁਫ਼ਤ, ਉਨ ਲੋਕਾਂ ਦੁਆਰਾ</text>
+<text x="240" y="414" text-anchor="middle" class="L" >ਜਿਨ੍ਹਾਂ ਨੇ ਅਗੇ ੜਾੰਕੇ ਵੇਖਿਆ੍</text>
+<text x="240" y="434" text-anchor="middle" class="X" >Ih tuhāḍe laī baṇāī gaī sī, muft,</text>
+<text x="240" y="450" text-anchor="middle" class="X" >un lokāṃ duārā jinhaṃ ne age ṛhāṃke vekhiā.</text>
+<text x="240" y="470" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="484" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="498" x2="460" y2="498" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="515" text-anchor="middle" class="X" >Punjabi · ~100M speakers · Punjab region</text>
+<text x="240" y="531" text-anchor="middle" class="X" >India and Pakistan · Sikh sacred language</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 53D  ·  PUNJABI</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

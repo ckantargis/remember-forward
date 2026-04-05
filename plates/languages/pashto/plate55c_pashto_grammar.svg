@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PASHTO  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >آڕوند  (Ārwand)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Split Ergativity —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Pashto has a split ergative system:</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Present: nominative-accusative (subject = agent)</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Past/Perfective: ergative (agent takes oblique case)</text>
+<text x="240" y="160" text-anchor="middle" class="L" >ما پلار لیده = mā palār līda (I saw father)</text>
+<text x="240" y="176" text-anchor="middle" class="X" >"mā" (I) is in ergative/oblique case in past</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H" >— Cases —</text>
+<text x="80" y="222" text-anchor="end" class="X" >Direct</text>
+<text x="90" y="222" text-anchor="start" class="L" >قاعدې حالت</text>
+<text x="295" y="222" text-anchor="start" class="X" >subject of intrans./pres. trans.</text>
+<text x="80" y="240" text-anchor="end" class="X" >Oblique</text>
+<text x="90" y="240" text-anchor="start" class="L" >غیر مستقیم</text>
+<text x="295" y="240" text-anchor="start" class="X" >object, past-tense agent, postpositional</text>
+<text x="80" y="258" text-anchor="end" class="X" >Vocative</text>
+<text x="90" y="258" text-anchor="start" class="L" >ندایۍ</text>
+<text x="295" y="258" text-anchor="start" class="X" >direct address</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="280" text-anchor="middle" class="H" >— Verb Agreement —</text>
+<text x="240" y="297" text-anchor="middle" class="X" >Verbs agree with subject in present, and with</text>
+<text x="240" y="313" text-anchor="middle" class="X" >OBJECT in past transitive (ergative agreement)</text>
+<text x="240" y="329" text-anchor="middle" class="X" >Gender (masc./fem.) and number marked on verbs</text>
+<line x1="20" y1="342" x2="460" y2="342" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="358" text-anchor="middle" class="H" >— Word Order  SOV —</text>
+<text x="240" y="375" text-anchor="middle" class="L" >چې پانی ستی  (ce pānī stī?)</text>
+<text x="240" y="391" text-anchor="middle" class="X" >"Is there water?" — question by rising intonation</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="50" y="436" text-anchor="middle" class="L" >اوبه</text>
+<text x="115" y="436" text-anchor="middle" class="X" >obah</text>
+<text x="180" y="436" text-anchor="middle" class="X" >water</text>
+<text x="275" y="436" text-anchor="middle" class="L" >ډوک</text>
+<text x="350" y="436" text-anchor="middle" class="X" >ḍok</text>
+<text x="430" y="436" text-anchor="middle" class="X" >bread</text>
+<text x="50" y="454" text-anchor="middle" class="L" >کور</text>
+<text x="115" y="454" text-anchor="middle" class="X" >كor</text>
+<text x="180" y="454" text-anchor="middle" class="X" >house</text>
+<text x="275" y="454" text-anchor="middle" class="L" >مور</text>
+<text x="350" y="454" text-anchor="middle" class="X" >mor</text>
+<text x="430" y="454" text-anchor="middle" class="X" >mother</text>
+<text x="50" y="472" text-anchor="middle" class="L" >ورور</text>
+<text x="115" y="472" text-anchor="middle" class="X" >wror</text>
+<text x="180" y="472" text-anchor="middle" class="X" >brother</text>
+<text x="275" y="472" text-anchor="middle" class="L" >هو</text>
+<text x="350" y="472" text-anchor="middle" class="X" >ho</text>
+<text x="430" y="472" text-anchor="middle" class="X" >yes</text>
+<text x="50" y="490" text-anchor="middle" class="L" >نه</text>
+<text x="115" y="490" text-anchor="middle" class="X" >na</text>
+<text x="180" y="490" text-anchor="middle" class="X" >no</text>
+<text x="275" y="490" text-anchor="middle" class="L" >نوم</text>
+<text x="350" y="490" text-anchor="middle" class="X" >num</text>
+<text x="430" y="490" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 55C  ·  PASHTO</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · Split Ergativity · Cases</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

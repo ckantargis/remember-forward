@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >URDU  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >صوتیات  (Sautiyāt)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Consonants —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Urdu has 4-way stop contrast at bilabial and dental:</text>
+<text x="60" y="128" text-anchor="middle" class="L" >p</text>
+<text x="150" y="128" text-anchor="middle" class="X" >plain voiceless</text>
+<text x="290" y="128" text-anchor="middle" class="L" >b</text>
+<text x="380" y="128" text-anchor="middle" class="X" >plain voiced</text>
+<text x="60" y="144" text-anchor="middle" class="L" >ph</text>
+<text x="150" y="144" text-anchor="middle" class="X" >aspirated vl.</text>
+<text x="290" y="144" text-anchor="middle" class="L" >bh</text>
+<text x="380" y="144" text-anchor="middle" class="X" >murmured/breathy</text>
+<line x1="20" y1="162" x2="460" y2="162" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H" >— Special Sounds —</text>
+<text x="70" y="195" text-anchor="middle" class="L" >q  ق</text>
+<text x="130" y="195" text-anchor="middle" class="X" >/q/</text>
+<text x="290" y="195" text-anchor="start" class="X" >uvular stop — Arabic loanwords</text>
+<text x="70" y="212" text-anchor="middle" class="L" >x  خ</text>
+<text x="130" y="212" text-anchor="middle" class="X" >/x/</text>
+<text x="290" y="212" text-anchor="start" class="X" >velar fricative — khaṭṭā (letters)</text>
+<text x="70" y="229" text-anchor="middle" class="L" >gh غ</text>
+<text x="130" y="229" text-anchor="middle" class="X" >/ɣ/</text>
+<text x="290" y="229" text-anchor="start" class="X" >voiced velar fricative — ġussul (solution)</text>
+<text x="70" y="246" text-anchor="middle" class="L" >ẖ / h</text>
+<text x="130" y="246" text-anchor="middle" class="X" >/ʰ/</text>
+<text x="290" y="246" text-anchor="start" class="X" >murmur/aspiration — bh, dh, gh, jh...</text>
+<text x="70" y="263" text-anchor="middle" class="L" >ʔ  ع</text>
+<text x="130" y="263" text-anchor="middle" class="X" >/ʿ/</text>
+<text x="290" y="263" text-anchor="start" class="X" >pharyngeal — Arabic ʻain</text>
+<text x="70" y="280" text-anchor="middle" class="L" >ẖ</text>
+<text x="130" y="280" text-anchor="middle" class="X" >/h/</text>
+<text x="290" y="280" text-anchor="start" class="X" >glottal — he in Urdu</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H" >— Vowels —</text>
+<text x="55" y="341" text-anchor="middle" class="L" >a</text>
+<text x="150" y="341" text-anchor="middle" class="X" >short low central</text>
+<text x="270" y="341" text-anchor="middle" class="L" >ā</text>
+<text x="385" y="341" text-anchor="middle" class="X" >long low</text>
+<text x="55" y="358" text-anchor="middle" class="L" >i</text>
+<text x="150" y="358" text-anchor="middle" class="X" >short high front</text>
+<text x="270" y="358" text-anchor="middle" class="L" >ī</text>
+<text x="385" y="358" text-anchor="middle" class="X" >long high front</text>
+<text x="55" y="375" text-anchor="middle" class="L" >u</text>
+<text x="150" y="375" text-anchor="middle" class="X" >short high back</text>
+<text x="270" y="375" text-anchor="middle" class="L" >ū</text>
+<text x="385" y="375" text-anchor="middle" class="X" >long high back</text>
+<text x="55" y="392" text-anchor="middle" class="L" >e</text>
+<text x="150" y="392" text-anchor="middle" class="X" >mid front</text>
+<text x="270" y="392" text-anchor="middle" class="L" >o</text>
+<text x="385" y="392" text-anchor="middle" class="X" >mid back</text>
+<text x="55" y="409" text-anchor="middle" class="L" >ai</text>
+<text x="150" y="409" text-anchor="middle" class="X" >/ɛ/ or /æ/</text>
+<text x="270" y="409" text-anchor="middle" class="L" >au</text>
+<text x="385" y="409" text-anchor="middle" class="X" >/ɔ/</text>
+<line x1="20" y1="428" x2="460" y2="428" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="444" text-anchor="middle" class="H" >— Nasalization —</text>
+<text x="240" y="461" text-anchor="middle" class="X" >Nasalized vowels contrast with oral vowels</text>
+<text x="240" y="477" text-anchor="middle" class="L" >ہونا  honā (to be) vs ہوܢ  hoṃ (be!)</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 54B  ·  URDU</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Stops · Murmur</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

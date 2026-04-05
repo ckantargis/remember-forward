@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Mongolian", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >MONGOLIAN  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Дуу зүйн шинжлэл</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Vowel Harmony —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Vowels divide into FRONT and BACK groups:</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Back: a  o  u  (а о у)</text>
+<text x="240" y="144" text-anchor="middle" class="L" >Front: ə  ø  y (э ө ү)</text>
+<text x="240" y="160" text-anchor="middle" class="L" >Neutral: i (и) — compatible with both</text>
+<text x="240" y="176" text-anchor="middle" class="X" >All vowels in a word must belong to same class</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H" >— Consonants —</text>
+<text x="90" y="223" text-anchor="end" class="X" >Stops:</text>
+<text x="100" y="223" text-anchor="start" class="L" >p b t d k g (aspirated in some positions)</text>
+<text x="90" y="241" text-anchor="end" class="X" >Fricatives:</text>
+<text x="100" y="241" text-anchor="start" class="L" >s z sh zh x h</text>
+<text x="90" y="259" text-anchor="end" class="X" >Affricates:</text>
+<text x="100" y="259" text-anchor="start" class="L" >ts ch j (dz)</text>
+<text x="90" y="277" text-anchor="end" class="X" >Nasals:</text>
+<text x="100" y="277" text-anchor="start" class="L" >m n ng (ŋ)</text>
+<text x="90" y="295" text-anchor="end" class="X" >Liquids:</text>
+<text x="100" y="295" text-anchor="start" class="L" >l r</text>
+<text x="90" y="313" text-anchor="end" class="X" >Approximants:</text>
+<text x="100" y="313" text-anchor="start" class="L" >w y</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="357" text-anchor="middle" class="H" >— Long Vowels —</text>
+<text x="240" y="374" text-anchor="middle" class="X" >Vowel length is contrastive:</text>
+<text x="240" y="390" text-anchor="middle" class="L" >хол  (khol) = boiled  vs  хоол (khool) = food</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H" >— Stress —</text>
+<text x="240" y="437" text-anchor="middle" class="X" >Word-initial stress in most words</text>
+<text x="240" y="453" text-anchor="middle" class="X" >Long vowels in non-initial syllables attract stress</text>
+<line x1="20" y1="466" x2="460" y2="466" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="482" text-anchor="middle" class="H" >— Consonant Clusters —</text>
+<text x="240" y="499" text-anchor="middle" class="X" >Rich onset clusters: гр, дж, тр...</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 57B  ·  MONGOLIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Vowel Harmony · Tones</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

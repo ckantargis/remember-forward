@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GERMAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Sounds and Key Contrasts</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="65" y="82" text-anchor="middle" class="Lx" >p /p/: bilabial</text>
+<text x="195" y="82" text-anchor="middle" class="Lx" >b /b/: bilabial vd</text>
+<text x="325" y="82" text-anchor="middle" class="Lx" >t /t/: alveolar</text>
+<text x="65" y="92" text-anchor="middle" class="Lx" >d /d/: alveolar vd</text>
+<text x="195" y="92" text-anchor="middle" class="Lx" >k /k/: velar</text>
+<text x="325" y="92" text-anchor="middle" class="Lx" >ɡ /ɡ/: velar vd</text>
+<text x="65" y="102" text-anchor="middle" class="Lx" >f /f/: labiodental</text>
+<text x="195" y="102" text-anchor="middle" class="Lx" >v /v/: labiodental vd</text>
+<text x="325" y="102" text-anchor="middle" class="Lx" >s /s/: alveolar fric</text>
+<text x="65" y="112" text-anchor="middle" class="Lx" >z /z/: alveolar fric vd</text>
+<text x="195" y="112" text-anchor="middle" class="Lx" >ʃ /ʃ/: postalveolar</text>
+<text x="325" y="112" text-anchor="middle" class="Lx" >x /x/: velar fric (ch-back)</text>
+<text x="65" y="122" text-anchor="middle" class="Lx" >ç /ç/: palatal fric (ch-front)</text>
+<text x="195" y="122" text-anchor="middle" class="Lx" >h /h/: glottal</text>
+<text x="325" y="122" text-anchor="middle" class="Lx" >ts /ts/: affricate (z)</text>
+<text x="65" y="132" text-anchor="middle" class="Lx" >tʃ /tʃ/: affricate (sch+stop)</text>
+<text x="195" y="132" text-anchor="middle" class="Lx" >pf /pf/: labial affricate (Pferd)</text>
+<text x="325" y="132" text-anchor="middle" class="Lx" >m /m/: bilabial nasal</text>
+<text x="65" y="142" text-anchor="middle" class="Lx" >n /n/: alveolar nasal</text>
+<text x="195" y="142" text-anchor="middle" class="Lx" >ŋ /ŋ/: velar nasal (ng)</text>
+<text x="325" y="142" text-anchor="middle" class="Lx" >l /l/: lateral</text>
+<text x="65" y="152" text-anchor="middle" class="Lx" >r /r~ʁ/: trill or uvular (regional)</text>
+<text x="195" y="152" text-anchor="middle" class="Lx" >w/v /v/: =v in German</text>
+<text x="325" y="152" text-anchor="middle" class="Lx" >j /j/: palatal approx</text>
+<line x1="20" y1="232" x2="460" y2="232" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H" >— VOWELS — SHORT, LONG, UMLAUT —</text>
+<text x="240" y="251" text-anchor="middle" class="Ls" >German has 15+ vowel distinctions (short/long pairs + umlauts + diphthongs):</text>
+<text x="65" y="261" text-anchor="middle" class="Lx" >a/ā /a/~/aː/: Mann/Bahn</text>
+<text x="195" y="261" text-anchor="middle" class="Lx" >e/ē /ɛ/~/eː/: Bett/Weg</text>
+<text x="325" y="261" text-anchor="middle" class="Lx" >i/ī /ɪ/~/iː/: mit/ihm</text>
+<text x="65" y="272" text-anchor="middle" class="Lx" >ä/ǣ /ɛ/~/ɛː/: Hände/spät</text>
+<text x="195" y="272" text-anchor="middle" class="Lx" >o/ō /ɔ/~/oː/: Gott/Boot</text>
+<text x="325" y="272" text-anchor="middle" class="Lx" >ö/ǿ /œ/~/øː/: höllen/schön</text>
+<text x="65" y="283" text-anchor="middle" class="Lx" >u/ū /ʊ/~/uː/: Mutter/Uhr</text>
+<text x="195" y="283" text-anchor="middle" class="Lx" >ü/ǖ /ʏ/~/yː/: müssen/fühl</text>
+<text x="325" y="283" text-anchor="middle" class="Lx" >ə /ə/: schwa: unstressed syllables</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H" >— DIPHTHONGS —</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >ei/ai /aɪ/: Eis (ice), Mai (May). eu/äu /ɔʊ/: neu (new), häufig (frequent).</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >au /aʊ/: Haus (house), Baum (tree).</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H" >— FINAL DEVOICING AND AUSLAUTVERHÄRTUNG —</text>
+<text x="240" y="381" text-anchor="middle" class="Ls" >All obstruents devoice at word/morpheme end:</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Hund /hUnt/ (dog). Hundes /hʊndəs/ (dog's). D restored before vowel.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 52B — GERMAN: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

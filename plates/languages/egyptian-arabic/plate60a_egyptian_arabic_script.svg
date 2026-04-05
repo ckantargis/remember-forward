@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Naskh Arabic", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >EGYPTIAN ARABIC</text>
+<text x="240" y="65" text-anchor="middle" class="T" >عامِية مصرية  (Masri)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Arabic Script — Naskh Style —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Right-to-left cursive · 28 base letters</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Each letter has 4 contextual forms: isolated/initial/medial/final</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Egyptian Arabic is most-understood Arabic dialect globally</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Arabic Alphabet — 28 Letters —</text>
+<text x="50" y="192" text-anchor="middle" class="L" >ا alif</text>
+<text x="130" y="192" text-anchor="middle" class="L" >ب ba</text>
+<text x="210" y="192" text-anchor="middle" class="L" >ت ta</text>
+<text x="290" y="192" text-anchor="middle" class="L" >ث tha</text>
+<text x="370" y="192" text-anchor="middle" class="L" >ج jeem</text>
+<text x="50" y="210" text-anchor="middle" class="L" >ح ha</text>
+<text x="130" y="210" text-anchor="middle" class="L" >خ kha</text>
+<text x="210" y="210" text-anchor="middle" class="L" >د dal</text>
+<text x="290" y="210" text-anchor="middle" class="L" >ذ dhal</text>
+<text x="370" y="210" text-anchor="middle" class="L" >ر ra</text>
+<text x="50" y="228" text-anchor="middle" class="L" >ز zay</text>
+<text x="130" y="228" text-anchor="middle" class="L" >س seen</text>
+<text x="210" y="228" text-anchor="middle" class="L" >ش sheen</text>
+<text x="290" y="228" text-anchor="middle" class="L" >ص suad</text>
+<text x="370" y="228" text-anchor="middle" class="L" >ض duad</text>
+<text x="50" y="246" text-anchor="middle" class="L" >ط tuah</text>
+<text x="130" y="246" text-anchor="middle" class="L" >ظ zuah</text>
+<text x="210" y="246" text-anchor="middle" class="L" >ع ain</text>
+<text x="290" y="246" text-anchor="middle" class="L" >غ ghain</text>
+<text x="370" y="246" text-anchor="middle" class="L" >ف fa</text>
+<text x="50" y="264" text-anchor="middle" class="L" >ق qaf</text>
+<text x="130" y="264" text-anchor="middle" class="L" >ك kaf</text>
+<text x="210" y="264" text-anchor="middle" class="L" >ل lam</text>
+<text x="290" y="264" text-anchor="middle" class="L" >م meem</text>
+<text x="370" y="264" text-anchor="middle" class="L" >ن nun</text>
+<text x="50" y="282" text-anchor="middle" class="L" >ه ha</text>
+<text x="130" y="282" text-anchor="middle" class="L" >و waw</text>
+<text x="210" y="282" text-anchor="middle" class="L" >ي ya</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="326" text-anchor="middle" class="H" >— Egyptian-Specific Letters —</text>
+<text x="240" y="343" text-anchor="middle" class="L" >ج  = /g/ in Egyptian (not /dʒ/ like Modern Standard)</text>
+<text x="240" y="359" text-anchor="middle" class="L" >ق  = /ʼ/ (glottal stop) in most Egyptian words</text>
+<text x="240" y="375" text-anchor="middle" class="L" >ث  = /s/ in colloquial (not /θ/)</text>
+<line x1="20" y1="390" x2="460" y2="390" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="406" text-anchor="middle" class="H" >— Diglossia —</text>
+<text x="240" y="423" text-anchor="middle" class="X" >Masri (spoken) vs Fusha (written formal Arabic)</text>
+<text x="240" y="439" text-anchor="middle" class="X" >Speakers switch registers by context</text>
+<text x="240" y="455" text-anchor="middle" class="X" >Most Egyptians understand 3+ Arabic varieties</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 60A  ·  EGYPTIAN ARABIC</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Arabic · Diglossia</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

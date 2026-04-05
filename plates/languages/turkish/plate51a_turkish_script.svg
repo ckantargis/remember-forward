@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TURKISH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Türkçe — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Turkish uses a Latin-based alphabet since 1928 (Atatürk script reform from Arabic).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >29 letters. Phonemic spelling: one letter = one sound. Very regular.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Dotted and dotless i distinction crucial: i (ı dotless) and i (dotted) are separate letters.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— TURKISH ALPHABET — 29 LETTERS —</text>
+<text x="240" y="131" text-anchor="middle" class="L" >A B C Ç D E F G Ğ H I İ J K L M N O Ö P R S Ş T U Ü V Y Z</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >Note: Q, W, X absent from native Turkish. Appear in loanwords only.</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="158" text-anchor="middle" class="H" >— SPECIAL LETTERS AND SOUNDS —</text>
+<text x="60" y="168" text-anchor="middle" class="L" >ç /tʃ/</text>
+<text x="290" y="168" text-anchor="middle" class="Lx" >C cedilla: affricate. çay (tea), çocuk (child).</text>
+<text x="60" y="179" text-anchor="middle" class="L" >ğ /ɣ~ː/</text>
+<text x="290" y="179" text-anchor="middle" class="Lx" >Soft G: lengthens preceding vowel. dağ (mountain) = /daː/.</text>
+<text x="60" y="190" text-anchor="middle" class="L" >ı /ɯ/</text>
+<text x="290" y="190" text-anchor="middle" class="Lx" >Dotless i: unrounded high back. ışık (light), kıl (hair).</text>
+<text x="60" y="201" text-anchor="middle" class="L" >İ /i/</text>
+<text x="290" y="201" text-anchor="middle" class="Lx" >Dotted I: capital of dotted i. İstanbul.</text>
+<text x="60" y="212" text-anchor="middle" class="L" >ö /ø/</text>
+<text x="290" y="212" text-anchor="middle" class="Lx" >O umlaut: front rounded. göz (eye), özgür (free).</text>
+<text x="60" y="223" text-anchor="middle" class="L" >ş /ʃ/</text>
+<text x="290" y="223" text-anchor="middle" class="Lx" >S cedilla: sh sound. şeher (city), şiş (branch).</text>
+<text x="60" y="234" text-anchor="middle" class="L" >ü /y/</text>
+<text x="290" y="234" text-anchor="middle" class="Lx" >U umlaut: front rounded. gün (day), ümit (hope).</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="261" text-anchor="middle" class="H" >— OLD OTTOMAN SCRIPT —</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >Before 1928: Ottoman Turkish used Arabic-based Perso-Arabic script.</text>
+<text x="240" y="281" text-anchor="middle" class="Ls" >Right to left. Poor fit for Turkish phonology (no vowels written in standard Arabic).</text>
+<text x="240" y="291" text-anchor="middle" class="Ls" >Script reform 1928 was a radical modernisation under Atatürk's republic.</text>
+<line x1="20" y1="299" x2="460" y2="299" stroke="black" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H" >— TURKISH NUMERALS —</text>
+<text x="55" y="318" text-anchor="middle" class="Lx" >0=sıfır</text>
+<text x="150" y="318" text-anchor="middle" class="Lx" >1=bir</text>
+<text x="245" y="318" text-anchor="middle" class="Lx" >2=iki</text>
+<text x="340" y="318" text-anchor="middle" class="Lx" >3=üç</text>
+<text x="55" y="328" text-anchor="middle" class="Lx" >4=dört</text>
+<text x="150" y="328" text-anchor="middle" class="Lx" >5=beş</text>
+<text x="245" y="328" text-anchor="middle" class="Lx" >6=altı</text>
+<text x="340" y="328" text-anchor="middle" class="Lx" >7=yedi</text>
+<text x="55" y="338" text-anchor="middle" class="Lx" >8=sekiz</text>
+<text x="150" y="338" text-anchor="middle" class="Lx" >9=dokuz</text>
+<text x="245" y="338" text-anchor="middle" class="Lx" >10=on</text>
+<text x="240" y="348" text-anchor="middle" class="Ls" >20=yirmi 100=yüz 1000=bin 1,000,000=milyon</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 51A — TURKISH: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans", "Georgia", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >HAWAIIAN  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Ka ʻOlelo Hawaiʻi</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— VSO Word Order —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Verb-Subject-Object (typical Polynesian)</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Inu au i ka wai — "I drink water"</text>
+<text x="240" y="144" text-anchor="middle" class="X" >(drink I PREP the water)</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Particles —</text>
+<text x="45" y="190" text-anchor="middle" class="L" >ka / ke</text>
+<text x="155" y="190" text-anchor="middle" class="X" >the (singular)</text>
+<text x="320" y="190" text-anchor="start" class="X" >ke before k-, e-, a-</text>
+<text x="45" y="207" text-anchor="middle" class="L" >nā</text>
+<text x="155" y="207" text-anchor="middle" class="X" >the (plural)</text>
+<text x="320" y="207" text-anchor="start" class="X" >plural definite article</text>
+<text x="45" y="224" text-anchor="middle" class="L" >he</text>
+<text x="155" y="224" text-anchor="middle" class="X" >a / an</text>
+<text x="320" y="224" text-anchor="start" class="X" >indefinite article</text>
+<text x="45" y="241" text-anchor="middle" class="L" >i</text>
+<text x="155" y="241" text-anchor="middle" class="X" >direct object marker</text>
+<text x="320" y="241" text-anchor="start" class="X" >before specific nouns</text>
+<text x="45" y="258" text-anchor="middle" class="L" >ma</text>
+<text x="155" y="258" text-anchor="middle" class="X" >at, on, in</text>
+<text x="320" y="258" text-anchor="start" class="X" >locative</text>
+<text x="45" y="275" text-anchor="middle" class="L" >no</text>
+<text x="155" y="275" text-anchor="middle" class="X" >for, about, from</text>
+<text x="320" y="275" text-anchor="start" class="X" >benefactive/ablative</text>
+<text x="45" y="292" text-anchor="middle" class="L" >me</text>
+<text x="155" y="292" text-anchor="middle" class="X" >with</text>
+<text x="320" y="292" text-anchor="start" class="X" >comitative</text>
+<text x="45" y="309" text-anchor="middle" class="L" >ʻo</text>
+<text x="155" y="309" text-anchor="middle" class="X" >at, in (animate)</text>
+<text x="320" y="309" text-anchor="start" class="X" >possessive locative</text>
+<line x1="20" y1="333" x2="460" y2="333" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H" >— Possession — A-class vs O-class —</text>
+<text x="240" y="366" text-anchor="middle" class="X" >A-class (kō): things you control (children, actions)</text>
+<text x="240" y="382" text-anchor="middle" class="X" >O-class (kō): things that possess you (parents, body)</text>
+<text x="240" y="398" text-anchor="middle" class="X" >koʻu kāne (your husband — O) vs kāu kāne (your man)</text>
+<line x1="20" y1="412" x2="460" y2="412" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="428" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="50" y="445" text-anchor="middle" class="L" >wai</text>
+<text x="120" y="445" text-anchor="middle" class="X" >wai</text>
+<text x="185" y="445" text-anchor="middle" class="X" >water</text>
+<text x="280" y="445" text-anchor="middle" class="L" >berena</text>
+<text x="355" y="445" text-anchor="middle" class="X" >berena</text>
+<text x="425" y="445" text-anchor="middle" class="X" >bread</text>
+<text x="50" y="463" text-anchor="middle" class="L" >hale</text>
+<text x="120" y="463" text-anchor="middle" class="X" >hale</text>
+<text x="185" y="463" text-anchor="middle" class="X" >house</text>
+<text x="280" y="463" text-anchor="middle" class="L" >ʻamā</text>
+<text x="355" y="463" text-anchor="middle" class="X" >ama</text>
+<text x="425" y="463" text-anchor="middle" class="X" >mother</text>
+<text x="50" y="481" text-anchor="middle" class="L" >aloha</text>
+<text x="120" y="481" text-anchor="middle" class="X" >aloha</text>
+<text x="185" y="481" text-anchor="middle" class="X" >love/hello</text>
+<text x="280" y="481" text-anchor="middle" class="L" >ʾaʻe</text>
+<text x="355" y="481" text-anchor="middle" class="X" >ae</text>
+<text x="425" y="481" text-anchor="middle" class="X" >yes</text>
+<text x="50" y="499" text-anchor="middle" class="L" >ʻaʻe</text>
+<text x="120" y="499" text-anchor="middle" class="X" >aole</text>
+<text x="185" y="499" text-anchor="middle" class="X" >no</text>
+<text x="280" y="499" text-anchor="middle" class="L" >inoa</text>
+<text x="355" y="499" text-anchor="middle" class="X" >inoa</text>
+<text x="425" y="499" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 59C  ·  HAWAIIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · VSO · Particles · Possession</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

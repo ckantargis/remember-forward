@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PASHTO</text>
+<text x="240" y="65" text-anchor="middle" class="T" >پښتو  (Paxʰto)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Pashto Script —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Extended Perso-Arabic · right-to-left · cursive</text>
+<text x="240" y="128" text-anchor="middle" class="X" >44 letters — largest Arabic-based alphabet</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Extra letters added for sounds unique to Pashto</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Unique Pashto Letters —</text>
+<text x="130" y="190" text-anchor="middle" class="L" >ځ  tsay  /ʣ/</text>
+<text x="340" y="190" text-anchor="middle" class="L" >څ  che  /ʧ/</text>
+<text x="130" y="208" text-anchor="middle" class="L" >ښ  shin-xe  /ʃʰ/</text>
+<text x="340" y="208" text-anchor="middle" class="L" >ړ  rre  /ɖ/</text>
+<text x="130" y="226" text-anchor="middle" class="L" >ږ  zhe  /ʒ/</text>
+<text x="340" y="226" text-anchor="middle" class="L" >ژ  zhe2  /dʒ/</text>
+<text x="130" y="244" text-anchor="middle" class="L" >ڼ  noon-ghunna  /ŋ/</text>
+<text x="340" y="244" text-anchor="middle" class="L" >ۍ  ye-barri  /aj/</text>
+<text x="130" y="262" text-anchor="middle" class="L" >ې  ye  /e/</text>
+<text x="340" y="262" text-anchor="middle" class="L" >ض  dvad  /ɖ/</text>
+<line x1="20" y1="382" x2="460" y2="382" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="398" text-anchor="middle" class="H" >— Shared Arabic Letters —</text>
+<text x="240" y="415" text-anchor="middle" class="L" >ا ب ت ث ج ح خ د ذ ر ز</text>
+<text x="240" y="433" text-anchor="middle" class="L" >س ش ص ض ط ظ ع غ ف ق ك ل م ن و ی ہ</text>
+<line x1="20" y1="448" x2="460" y2="448" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="464" text-anchor="middle" class="H" >— Geographic Context —</text>
+<text x="240" y="481" text-anchor="middle" class="X" >Afghanistan (co-official) · NW Pakistan</text>
+<text x="240" y="497" text-anchor="middle" class="X" >~50 million speakers · Eastern Iranian family</text>
+<text x="240" y="513" text-anchor="middle" class="X" >Closely related to Dari (Afghan Persian)</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 55A  ·  PASHTO</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Pashto-Extended Arabic</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

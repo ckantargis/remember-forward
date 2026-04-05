@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans", "Georgia", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >HAWAIIAN</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ʻŌlelo Hawaiʻi  (Hawaiian Language)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Latin-Based Alphabet — 13 Letters —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Smallest phoneme inventory of any world language</text>
+<text x="240" y="128" text-anchor="middle" class="X" >5 vowels + 7 consonants + glottal stop (ʻ okina)</text>
+<line x1="20" y1="141" x2="460" y2="141" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H" >— The 13 Letters —</text>
+<text x="240" y="175" text-anchor="middle" class="L" >a  e  i  o  u</text>
+<text x="240" y="195" text-anchor="middle" class="L" >h  k  l  m  n  p  w</text>
+<text x="240" y="213" text-anchor="middle" class="L" >ʻ  okina (glottal stop)</text>
+<line x1="20" y1="227" x2="460" y2="227" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="243" text-anchor="middle" class="H" >— Vowels with Macron — Kahako —</text>
+<text x="240" y="261" text-anchor="middle" class="L" >Ā  Ē  Ī  Ō  Ū  (long vowels)</text>
+<text x="240" y="279" text-anchor="middle" class="X" >Macron marks long vowel — changes meaning:</text>
+<text x="240" y="295" text-anchor="middle" class="L" >kai (sea) vs kāī (to eat)</text>
+<line x1="20" y1="309" x2="460" y2="309" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H" >— Glottal Stop — ʻ Okina —</text>
+<text x="240" y="343" text-anchor="middle" class="X" >ʻ is a full consonant — changes word meaning</text>
+<text x="240" y="359" text-anchor="middle" class="L" >Hawaiʻi (Hawaii) vs Hawaii (without glottal)</text>
+<text x="240" y="375" text-anchor="middle" class="L" >ʻiʻi = the thread   vs   ʻī = the fish</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="405" text-anchor="middle" class="H" >— Syllable Structure —</text>
+<text x="240" y="423" text-anchor="middle" class="X" >Every syllable ends in a vowel: CV or V</text>
+<text x="240" y="439" text-anchor="middle" class="X" >No consonant clusters · No final consonants</text>
+<text x="240" y="455" text-anchor="middle" class="X" >Result: very melodic, open-syllable language</text>
+<line x1="20" y1="469" x2="460" y2="469" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="485" text-anchor="middle" class="H" >— Geographic Context —</text>
+<text x="240" y="503" text-anchor="middle" class="X" >Polynesian family (Austronesian) · ~37,000 speakers</text>
+<text x="240" y="519" text-anchor="middle" class="X" >Official language of Hawaii (with English)</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 59A  ·  HAWAIIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · 13-Letter Alphabet</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

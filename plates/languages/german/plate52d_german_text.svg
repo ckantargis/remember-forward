@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >GERMAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. SPRICHWORT — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Wer nicht wagt, der nicht gewinnt.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >wer=who nicht-wagt=does-not-dare der=that-one nicht=not gewinnt=wins</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"Who dares not, wins not." (German proverb; like the Dutch)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. ERINNERUNG — ON MEMORY —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Wer die Vergangenheit nicht kennt, ist verdammt, sie zu wiederholen.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >wer=who die-Vergangenheit=the-past nicht-kennt=does-not-know</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >ist-verdammt=is-condemned sie-zu-wiederholen=to-repeat-it</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"Who does not know the past is condemned to repeat it." (after Santayana, German form)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. WISSEN — ON KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="L" >Das Wissen ist die einzige Flamme, die heller wird, wenn man sie teilt.</text>
+<text x="240" y="196" text-anchor="middle" class="Ls" >das-Wissen=knowledge ist=is die-einzige=the-only Flamme=flame</text>
+<text x="240" y="206" text-anchor="middle" class="Ls" >die-heller-wird=that-gets-brighter wenn-man-sie-teilt=when-one-shares-it</text>
+<text x="240" y="216" text-anchor="middle" class="F" >"Knowledge is the only flame that grows brighter when shared."</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— IV. VORWÄRTS — FORWARD —</text>
+<text x="240" y="244" text-anchor="middle" class="L" >Wir gehen vorwärts, während wir an jene denken, die vor uns gingen.</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >vorwärts=forward während=while an-jene-denken=think-of-those</text>
+<text x="240" y="264" text-anchor="middle" class="Ls" >die-vor-uns-gingen=who-went-before-us</text>
+<text x="240" y="274" text-anchor="middle" class="F" >"We go forward while thinking of those who went before us."</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="305" text-anchor="middle" class="L" >Dies wurde für dich gemacht, kostenlos,</text>
+<text x="240" y="315" text-anchor="middle" class="L" >von Menschen, die vorwärts erinnerten.</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >dies=this wurde=was gemacht=made für-dich=for-you kostenlos=free-of-cost</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >von=by Menschen=people die=who vorwärts=forward erinnerten=remembered</text>
+<text x="240" y="350" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="361" x2="460" y2="361" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="380" text-anchor="middle" class="Ls" >Vorwärts = "forward." Sich erinnern = to remember. "Vorwärts erinnern" is coined.</text>
+<text x="240" y="390" text-anchor="middle" class="Ls" >It means: directing one's remembering toward the future rather than backward.</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >Kostenlos = free/gratis (Kosten=costs + -los=without).</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="black" stroke-width="0.3"/>
+<text x="240" y="417" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="427" text-anchor="middle" class="Ls" >German: ~100 million L1 speakers in Germany, Austria, Switzerland, Luxembourg.</text>
+<text x="240" y="437" text-anchor="middle" class="Ls" >Language family: Indo-European, West Germanic (with English, Dutch, Frisian).</text>
+<text x="240" y="447" text-anchor="middle" class="Ls" >Gutenberg's printing press (1440) standardised German orthography and spread literacy.</text>
+<text x="240" y="457" text-anchor="middle" class="Ls" >Scientific/philosophical heritage: Kant, Hegel, Marx, Einstein, Freud, Nietzsche.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 52D — GERMAN: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

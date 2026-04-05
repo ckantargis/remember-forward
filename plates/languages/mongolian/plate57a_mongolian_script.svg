@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Mongolian", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >MONGOLIAN</text>
+<text x="240" y="65" text-anchor="middle" class="T" >Монгол  (Монгол хэл)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Two Scripts —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Traditional Mongolian Script: vertical, top-to-bottom</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Used in Inner Mongolia (China) · revived in Mongolia</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Cyrillic: introduced 1941 · official script in Mongolia</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Cyrillic Alphabet — 35 Letters —</text>
+<text x="240" y="192" text-anchor="middle" class="L" >А Б В Г Д Е Ё Ж З И</text>
+<text x="240" y="210" text-anchor="middle" class="L" >Й К Л М Н О Ө П Р С</text>
+<text x="240" y="228" text-anchor="middle" class="L" >Т У Ү Ф Х Ц Ч Ш Щ Ъ</text>
+<text x="240" y="246" text-anchor="middle" class="L" >Ы Ь Э Ю Я</text>
+<line x1="20" y1="298" x2="460" y2="298" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="314" text-anchor="middle" class="H" >— Unique Mongolian Cyrillic Letters —</text>
+<text x="240" y="331" text-anchor="middle" class="L" >Ө  Өө  = vowel /ø/ (front rounded o)</text>
+<text x="240" y="347" text-anchor="middle" class="L" >Ү  ү  = vowel /y/ (front rounded u)</text>
+<text x="240" y="363" text-anchor="middle" class="X" >These distinguish Mongolian from Russian Cyrillic</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="394" text-anchor="middle" class="H" >— Traditional Script Basics —</text>
+<text x="240" y="411" text-anchor="middle" class="X" >Written vertically: top to bottom, columns left to right</text>
+<text x="240" y="427" text-anchor="middle" class="X" >Derived from Uyghur script via Sogdian (Aramaic)</text>
+<text x="240" y="443" text-anchor="middle" class="X" >Letters have initial/medial/final forms</text>
+<text x="240" y="459" text-anchor="middle" class="X" >Unicode block: U+1800-U+18AF</text>
+<line x1="20" y1="474" x2="460" y2="474" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="491" text-anchor="middle" class="X" >~5.2M speakers · Mongolia + Inner Mongolia</text>
+<text x="240" y="507" text-anchor="middle" class="X" >Mongolic language family · agglutinative</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 57A  ·  MONGOLIAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Cyrillic + Traditional</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

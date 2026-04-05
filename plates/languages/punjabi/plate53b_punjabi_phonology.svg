@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Gurmukhi", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PUNJABI  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ਧੁਨੀ ਵਿਗਿਆਨ  (Dhunī vigiyān)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Tonal System — 3 Tones —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Punjabi is one of the few Indo-Aryan tonal languages</text>
+<text x="100" y="128" text-anchor="end" class="L" >Level (mid)</text>
+<text x="200" y="128" text-anchor="middle" class="L" >ਕੋੜਾ  kōṛā</text>
+<text x="380" y="128" text-anchor="start" class="X" >"whip"</text>
+<text x="100" y="146" text-anchor="end" class="L" >Rising</text>
+<text x="200" y="146" text-anchor="middle" class="L" >ਕੋੜਾ  kòṛā</text>
+<text x="380" y="146" text-anchor="start" class="X" >"leper"</text>
+<text x="100" y="164" text-anchor="end" class="L" >Falling</text>
+<text x="200" y="164" text-anchor="middle" class="L" >ਕੋੜਾ  kôṛā</text>
+<text x="380" y="164" text-anchor="start" class="X" >"40 (forty)"</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="193" text-anchor="middle" class="H" >— Tone Origin — Murmured Consonants —</text>
+<text x="240" y="210" text-anchor="middle" class="X" >Tones arose from loss of voiced aspirates (bh, dh, gh)</text>
+<text x="240" y="226" text-anchor="middle" class="X" >Preceding vowel developed compensatory tone contour</text>
+<line x1="20" y1="240" x2="460" y2="240" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="256" text-anchor="middle" class="H" >— Consonant Features —</text>
+<text x="90" y="274" text-anchor="end" class="X" >Aspirates:</text>
+<text x="100" y="274" text-anchor="start" class="L" >kh, gh, ch, jh, ph, bh (breathy burst)</text>
+<text x="90" y="292" text-anchor="end" class="X" >Retroflex:</text>
+<text x="100" y="292" text-anchor="start" class="L" >ṭ ṭh ḍ ḍh — tongue tip curled back</text>
+<text x="90" y="310" text-anchor="end" class="X" >Nasals:</text>
+<text x="100" y="310" text-anchor="start" class="L" >m n ṇ ŋ — place-assimilating</text>
+<text x="90" y="328" text-anchor="end" class="X" >Trill:</text>
+<text x="100" y="328" text-anchor="start" class="L" >r = alveolar trill; ṛ = retroflex flap</text>
+<text x="90" y="346" text-anchor="end" class="X" >Sibilant:</text>
+<text x="100" y="346" text-anchor="start" class="L" >s — Punjabi lacks /z/ natively</text>
+<line x1="20" y1="368" x2="460" y2="368" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="384" text-anchor="middle" class="H" >— Vowels —</text>
+<text x="240" y="401" text-anchor="middle" class="L" >Short: a  i  u</text>
+<text x="240" y="419" text-anchor="middle" class="L" >Long:  ā  ī  ū  e  o  ai  au</text>
+<text x="240" y="437" text-anchor="middle" class="X" >Vowel length is phonemic (kāl=time vs kal=yesterday)</text>
+<line x1="20" y1="450" x2="460" y2="450" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="466" text-anchor="middle" class="H" >— Nasalization —</text>
+<text x="240" y="483" text-anchor="middle" class="X" >Tippi ੰ and Bindi ਂ mark nasal vowels</text>
+<text x="240" y="499" text-anchor="middle" class="L" >ਪੰਜਾਬੀ  Pañjābī — ੰ marks nasalization</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 53B  ·  PUNJABI</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Tones · Consonants</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

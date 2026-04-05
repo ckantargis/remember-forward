@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Khmer", "Noto Sans Khmer", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >KHMER  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ស្តឹពពាសាខ្មែរ</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Cpap (Khmer classical verse code) —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >កូនជាតិកម្មកអ្នកជាតិស្រី</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Kun jaat kami ka anak jaat sri</text>
+<text x="240" y="144" text-anchor="middle" class="X" >"Know your origin, know your birth status"</text>
+<text x="240" y="160" text-anchor="middle" class="X" >From the Cpap Srei — code of conduct for women</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="190" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="207" text-anchor="middle" class="L" >ត្វាយត្រកាលក័រមឹនានត្វាយ</text>
+<text x="240" y="223" text-anchor="middle" class="X" >The great tree gives shade to all below it</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="253" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="273" text-anchor="middle" class="L" >ណើសើវ្វាត្វូតសម្រាប់អនក,</text>
+<text x="240" y="291" text-anchor="middle" class="L" >តែប័រន់គិតជន</text>
+<text x="240" y="309" text-anchor="middle" class="L" >ដើលនឹកនុវ័ននាកំលងមុខនឹងត.</text>
+<text x="240" y="331" text-anchor="middle" class="X" >Nih tveu sraap neak, doy mein kic,</text>
+<text x="240" y="347" text-anchor="middle" class="X" >dael prak nit jn</text>
+<text x="240" y="363" text-anchor="middle" class="X" >del neuk nuov vean neak kmleng muk neung t.</text>
+<text x="240" y="381" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="395" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="X" >Khmer · ~16M speakers · Cambodia (official)</text>
+<text x="240" y="443" text-anchor="middle" class="X" >Austroasiatic family · oldest SE Asian script</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 58D  ·  KHMER</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

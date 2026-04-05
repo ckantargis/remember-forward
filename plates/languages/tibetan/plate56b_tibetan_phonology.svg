@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Tibetan", "Noto Sans Tibetan", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >TIBETAN  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >སྒྲ་དབཞཱན་  (sgra dbyangs)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Classical vs Spoken Tibetan —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Classical script preserves archaic spelling</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Modern Lhasa dialect dropped many consonants</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Written "bkra shis" — pronounced "Trashi"</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Tonal System — Lhasa Dialect —</text>
+<text x="240" y="190" text-anchor="middle" class="X" >Two tones: HIGH and LOW (from earlier voicing contrast)</text>
+<text x="110" y="206" text-anchor="end" class="L" >High</text>
+<text x="120" y="206" text-anchor="start" class="X" >from voiceless onset consonants</text>
+<text x="110" y="223" text-anchor="end" class="L" >Low</text>
+<text x="120" y="223" text-anchor="start" class="X" >from voiced/preaspirated onset consonants</text>
+<text x="110" y="240" text-anchor="end" class="L" >High rising</text>
+<text x="120" y="240" text-anchor="start" class="X" >short syllables on high tone</text>
+<text x="110" y="257" text-anchor="end" class="L" >Low falling</text>
+<text x="120" y="257" text-anchor="start" class="X" >long syllables on low tone</text>
+<line x1="20" y1="284" x2="460" y2="284" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="300" text-anchor="middle" class="H" >— Initial Consonants —</text>
+<text x="240" y="317" text-anchor="middle" class="X" >Lhasa: /p t k ts/ voiceless, aspiration contrastive</text>
+<text x="240" y="333" text-anchor="middle" class="X" >Voiced stops of Classical: merged or tonal in spoken</text>
+<text x="240" y="349" text-anchor="middle" class="X" >Pre-nasalization (nga, na) survives in some dialects</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H" >— Vowels — Lhasa —</text>
+<text x="240" y="395" text-anchor="middle" class="X" >a  i  u  e  o  plus ɛ (open-e) and ø</text>
+<text x="240" y="411" text-anchor="middle" class="X" >Vowel length is contrastive</text>
+<line x1="20" y1="424" x2="460" y2="424" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="440" text-anchor="middle" class="H" >— Dialects —</text>
+<text x="240" y="457" text-anchor="middle" class="X" >Lhasa (prestige) · Kham · Amdo · Ladakhi</text>
+<text x="240" y="473" text-anchor="middle" class="X" >Dzongkha (Bhutan) is closely related</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 56B  ·  TIBETAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Tones · Dialects</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

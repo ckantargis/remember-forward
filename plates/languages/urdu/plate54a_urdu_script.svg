@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >URDU</text>
+<text x="240" y="65" text-anchor="middle" class="T" >اردو  (Urdū)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Nastaliq Script —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Nastaliq = hanging style of Arabic calligraphy</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Right-to-left · Cursive · Context-sensitive letter forms</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Each letter has 4 forms: isolated / initial / medial / final</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Selected Letters —</text>
+<text x="70" y="190" text-anchor="middle" class="L" >ا alif</text>
+<text x="180" y="190" text-anchor="middle" class="L" >ب be</text>
+<text x="300" y="190" text-anchor="middle" class="L" >پ pe</text>
+<text x="410" y="190" text-anchor="middle" class="L" >ت te</text>
+<text x="70" y="208" text-anchor="middle" class="L" >ج jeem</text>
+<text x="180" y="208" text-anchor="middle" class="L" >خ khe</text>
+<text x="300" y="208" text-anchor="middle" class="L" >د dal</text>
+<text x="410" y="208" text-anchor="middle" class="L" >ذ zal</text>
+<text x="70" y="226" text-anchor="middle" class="L" >ر re</text>
+<text x="180" y="226" text-anchor="middle" class="L" >س seen</text>
+<text x="300" y="226" text-anchor="middle" class="L" >ش sheen</text>
+<text x="410" y="226" text-anchor="middle" class="L" >ص suad</text>
+<text x="70" y="244" text-anchor="middle" class="L" >ع ain</text>
+<text x="180" y="244" text-anchor="middle" class="L" >غ ghain</text>
+<text x="300" y="244" text-anchor="middle" class="L" >ف fe</text>
+<text x="410" y="244" text-anchor="middle" class="L" >ق qaf</text>
+<text x="70" y="262" text-anchor="middle" class="L" >ک kaf</text>
+<text x="180" y="262" text-anchor="middle" class="L" >گ gaf</text>
+<text x="300" y="262" text-anchor="middle" class="L" >ل lam</text>
+<text x="410" y="262" text-anchor="middle" class="L" >م meem</text>
+<text x="70" y="280" text-anchor="middle" class="L" >ن nun</text>
+<text x="180" y="280" text-anchor="middle" class="L" >و wao</text>
+<text x="300" y="280" text-anchor="middle" class="L" >ی ye</text>
+<text x="410" y="280" text-anchor="middle" class="L" >ہ he</text>
+<line x1="20" y1="312" x2="460" y2="312" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H" >— Unique Urdu Letters (not in Arabic) —</text>
+<text x="130" y="345" text-anchor="middle" class="L" >پ  pe  p</text>
+<text x="350" y="345" text-anchor="middle" class="L" >ٹ  tte  ṭ</text>
+<text x="130" y="363" text-anchor="middle" class="L" >ڈ  dde  ḍ</text>
+<text x="350" y="363" text-anchor="middle" class="L" >ں  noon ghunna  ḿ</text>
+<text x="130" y="381" text-anchor="middle" class="L" >گ  gaf  g</text>
+<text x="350" y="381" text-anchor="middle" class="L" >ہ  choti he  h</text>
+<line x1="20" y1="396" x2="460" y2="396" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="412" text-anchor="middle" class="H" >— Vowel Diacritics (Harakat) —</text>
+<text x="240" y="429" text-anchor="middle" class="X" >Short vowels usually omitted in everyday text</text>
+<text x="80" y="447" text-anchor="middle" class="L" >َ  zabar = a</text>
+<text x="210" y="447" text-anchor="middle" class="L" >ِ  zer = i</text>
+<text x="340" y="447" text-anchor="middle" class="L" >ُ  pesh = u</text>
+<text x="240" y="465" text-anchor="middle" class="X" >Shadda ّ = consonant doubling</text>
+<text x="240" y="481" text-anchor="middle" class="L" >آ alef madd = long /aa/</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 54A  ·  URDU</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Nastaliq · Letters</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

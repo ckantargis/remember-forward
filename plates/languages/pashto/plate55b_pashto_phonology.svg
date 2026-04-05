@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PASHTO  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >آوازونه  (Awāzonah)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Distinctive Sounds —</text>
+<text x="75" y="112" text-anchor="middle" class="L" >/ʃʰ/</text>
+<text x="270" y="112" text-anchor="start" class="X" >retroflex aspirated sh — xin with aspiration</text>
+<text x="75" y="130" text-anchor="middle" class="L" >/ɖ/</text>
+<text x="270" y="130" text-anchor="start" class="X" >retroflex d — rare cross-linguistically</text>
+<text x="75" y="148" text-anchor="middle" class="L" >/ʣ/ /ʧ/</text>
+<text x="270" y="148" text-anchor="start" class="X" >affricates: ts and ch</text>
+<text x="75" y="166" text-anchor="middle" class="L" >/x/ /ɣ/</text>
+<text x="270" y="166" text-anchor="start" class="X" >velar fricatives from Persian</text>
+<text x="75" y="184" text-anchor="middle" class="L" >/ʒ/</text>
+<text x="270" y="184" text-anchor="start" class="X" >voiced postalveolar fricative (zh)</text>
+<text x="75" y="202" text-anchor="middle" class="L" >/q/</text>
+<text x="270" y="202" text-anchor="start" class="X" >uvular stop — Arabic-origin words</text>
+<text x="75" y="220" text-anchor="middle" class="L" >/ʿ/</text>
+<text x="270" y="220" text-anchor="start" class="X" >pharyngeal — ʿain from Arabic</text>
+<line x1="20" y1="248" x2="460" y2="248" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H" >— Vowels —</text>
+<text x="120" y="281" text-anchor="middle" class="X" >a  short low</text>
+<text x="340" y="281" text-anchor="middle" class="X" >ā  long low</text>
+<text x="120" y="298" text-anchor="middle" class="X" >i  short high front</text>
+<text x="340" y="298" text-anchor="middle" class="X" >ī  long high front</text>
+<text x="120" y="315" text-anchor="middle" class="X" >u  short back</text>
+<text x="340" y="315" text-anchor="middle" class="X" >ū  long back</text>
+<text x="120" y="332" text-anchor="middle" class="X" >e  mid front</text>
+<text x="340" y="332" text-anchor="middle" class="X" >o  mid back</text>
+<line x1="20" y1="352" x2="460" y2="352" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— Dialect Variation —</text>
+<text x="240" y="385" text-anchor="middle" class="X" >Southern (Kandahari): distinguishes /ʃ/ vs /х/</text>
+<text x="240" y="401" text-anchor="middle" class="X" >Northern (Peshawar): merges some retroflex sounds</text>
+<text x="240" y="417" text-anchor="middle" class="X" >Eastern: preserves older vowel contrasts</text>
+<line x1="20" y1="430" x2="460" y2="430" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="446" text-anchor="middle" class="H" >— Stress —</text>
+<text x="240" y="463" text-anchor="middle" class="X" >Stress is contrastive and marks grammatical function</text>
+<text x="240" y="479" text-anchor="middle" class="X" >Verb stems shift stress in conjugation</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 55B  ·  PASHTO</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Retroflex · Uvulars</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TURKISH</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Vowel Harmony, Agglutination</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— VOWEL HARMONY — DEFINING FEATURE —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Turkish vowels harmonise: all vowels in a word must share frontness and rounding.</text>
+<text x="240" y="92" text-anchor="middle" class="L" >Front vowels: e i ö ü  /  Back vowels: a ı o u</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Suffixes have multiple forms that harmonise with the stem:</text>
+<text x="240" y="114" text-anchor="middle" class="Ls" >ev-ler (houses) vs. araba-lar (cars): -ler/-lar plural, harmonises front/back.</text>
+<text x="240" y="124" text-anchor="middle" class="Ls" >gün-lür (days) vs. kol-lar (arms): rounding also harmonises.</text>
+<line x1="20" y1="132" x2="460" y2="132" stroke="black" stroke-width="0.3"/>
+<text x="240" y="141" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="65" y="151" text-anchor="middle" class="Lx" >b /b/: bilabial</text>
+<text x="195" y="151" text-anchor="middle" class="Lx" >c /dʒ/: palatal affricate vd</text>
+<text x="325" y="151" text-anchor="middle" class="Lx" >ç /tʃ/: palatal affricate vl</text>
+<text x="65" y="161" text-anchor="middle" class="Lx" >d /d/: alveolar</text>
+<text x="195" y="161" text-anchor="middle" class="Lx" >f /f/: labiodental</text>
+<text x="325" y="161" text-anchor="middle" class="Lx" >g /ɡ/: velar</text>
+<text x="65" y="171" text-anchor="middle" class="Lx" >ğ /ɣ~ː/: soft g / vowel lengthener</text>
+<text x="195" y="171" text-anchor="middle" class="Lx" >h /h/: glottal</text>
+<text x="325" y="171" text-anchor="middle" class="Lx" >j /ʒ/: postalveolar fric vd</text>
+<text x="65" y="181" text-anchor="middle" class="Lx" >k /k/: velar stop</text>
+<text x="195" y="181" text-anchor="middle" class="Lx" >l /l~ɮ/: lateral (front/back allophone)</text>
+<text x="325" y="181" text-anchor="middle" class="Lx" >m /m/: bilabial nasal</text>
+<text x="65" y="191" text-anchor="middle" class="Lx" >n /n/: alveolar nasal</text>
+<text x="195" y="191" text-anchor="middle" class="Lx" >p /p/: bilabial</text>
+<text x="325" y="191" text-anchor="middle" class="Lx" >r /r/: trill/flap</text>
+<text x="65" y="201" text-anchor="middle" class="Lx" >s /s/: alveolar fric</text>
+<text x="195" y="201" text-anchor="middle" class="Lx" >ş /ʃ/: postalveolar</text>
+<text x="325" y="201" text-anchor="middle" class="Lx" >t /t/: alveolar stop</text>
+<text x="65" y="211" text-anchor="middle" class="Lx" >v /v/: labiodental</text>
+<text x="195" y="211" text-anchor="middle" class="Lx" >y /j/: palatal</text>
+<text x="325" y="211" text-anchor="middle" class="Lx" >z /z/: alveolar fric</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="black" stroke-width="0.3"/>
+<text x="240" y="254" text-anchor="middle" class="H" >— VOWEL SYSTEM — 8 VOWELS —</text>
+<text x="80" y="264" text-anchor="middle" class="Lx" >a /a/: open back</text>
+<text x="280" y="264" text-anchor="middle" class="Lx" >e /e/: mid-front</text>
+<text x="80" y="274" text-anchor="middle" class="Lx" >i /i/: high front (dotted)</text>
+<text x="280" y="274" text-anchor="middle" class="Lx" >ı /ɯ/: high back unrounded (dotless)</text>
+<text x="80" y="284" text-anchor="middle" class="Lx" >o /o/: mid-back rounded</text>
+<text x="280" y="284" text-anchor="middle" class="Lx" >ö /ø/: mid-front rounded</text>
+<text x="80" y="294" text-anchor="middle" class="Lx" >u /u/: high back rounded</text>
+<text x="280" y="294" text-anchor="middle" class="Lx" >ü /y/: high front rounded</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="black" stroke-width="0.3"/>
+<text x="240" y="327" text-anchor="middle" class="H" >— CONSONANT ALTERNATIONS —</text>
+<text x="240" y="337" text-anchor="middle" class="Ls" >Final devoicing: d → t, g → k in word-final position.</text>
+<text x="240" y="347" text-anchor="middle" class="Ls" >kitap (book) /kitap/, kitabım (my book) /kitabɯm/ — voiced in medial position.</text>
+<text x="240" y="357" text-anchor="middle" class="Ls" >Buffer consonant -y- inserted between vowels to prevent hiatus.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 51B — TURKISH: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

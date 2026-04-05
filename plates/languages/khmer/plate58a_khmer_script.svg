@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Khmer", "Noto Sans Khmer", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >KHMER</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ភាសាខ្មែរ  (Phiasaa Khmaer)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Khmer Script —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Oldest dated inscription in mainland SE Asia: 611 CE</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Abugida: consonants carry inherent vowel /a/ or /ɔ/</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Two registers: first series (voiced) and second series</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Consonants — First Series (a-register) —</text>
+<text x="70" y="190" text-anchor="middle" class="L" >ក k</text>
+<text x="180" y="190" text-anchor="middle" class="L" >ខ kh</text>
+<text x="300" y="190" text-anchor="middle" class="L" >គ g</text>
+<text x="410" y="190" text-anchor="middle" class="L" >ឃ gh</text>
+<text x="70" y="208" text-anchor="middle" class="L" >ង ng</text>
+<text x="180" y="208" text-anchor="middle" class="L" >ច c</text>
+<text x="300" y="208" text-anchor="middle" class="L" >ឆ ch</text>
+<text x="410" y="208" text-anchor="middle" class="L" >ជ j</text>
+<text x="70" y="226" text-anchor="middle" class="L" >ឈ jh</text>
+<text x="180" y="226" text-anchor="middle" class="L" >ញ ny</text>
+<text x="300" y="226" text-anchor="middle" class="L" >ដ d</text>
+<text x="410" y="226" text-anchor="middle" class="L" >ឋ t</text>
+<line x1="20" y1="250" x2="460" y2="250" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="265" text-anchor="middle" class="H" >— Consonants — Continued —</text>
+<text x="70" y="282" text-anchor="middle" class="L" >ឌ th</text>
+<text x="180" y="282" text-anchor="middle" class="L" >ឍ d</text>
+<text x="300" y="282" text-anchor="middle" class="L" >ណ dh</text>
+<text x="410" y="282" text-anchor="middle" class="L" >ត n</text>
+<text x="70" y="300" text-anchor="middle" class="L" >ថ p</text>
+<text x="180" y="300" text-anchor="middle" class="L" >ទ ph</text>
+<text x="300" y="300" text-anchor="middle" class="L" >ធ b</text>
+<text x="410" y="300" text-anchor="middle" class="L" >ន bh</text>
+<text x="70" y="318" text-anchor="middle" class="L" >ប m</text>
+<text x="180" y="318" text-anchor="middle" class="L" >យ y</text>
+<text x="300" y="318" text-anchor="middle" class="L" >រ r</text>
+<text x="410" y="318" text-anchor="middle" class="L" >ល l</text>
+<text x="70" y="336" text-anchor="middle" class="L" >វ v</text>
+<text x="180" y="336" text-anchor="middle" class="L" >ស s</text>
+<text x="300" y="336" text-anchor="middle" class="L" >ហ h</text>
+<text x="410" y="336" text-anchor="middle" class="L" >ឡ l</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="376" text-anchor="middle" class="H" >— Independent Vowels —</text>
+<text x="240" y="394" text-anchor="middle" class="L" >អ ឣ ឤ ឥ ឦ ឧ ឨ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ ឲ ឳ</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="426" text-anchor="middle" class="H" >— Subscript Consonants —</text>
+<text x="240" y="443" text-anchor="middle" class="X" >Consonant clusters use subscript (coeng) forms</text>
+<text x="240" y="459" text-anchor="middle" class="X" >Written below the base consonant</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 58A  ·  KHMER</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Abugida · Two Registers</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Gurmukhi", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PUNJABI</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ਪੰਜਾਬੀ  (Pañjābī)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Gurmukhi Script —</text>
+<text x="240" y="118" text-anchor="middle" class="X" >Gurmukhi = "from the mouth of the Guru"</text>
+<text x="240" y="134" text-anchor="middle" class="X" >Created by Guru Angad Dev (2nd Sikh Guru) ~1539 CE</text>
+<text x="240" y="150" text-anchor="middle" class="X" >Abugida: each consonant carries inherent vowel /a/</text>
+<text x="240" y="166" text-anchor="middle" class="X" >Vowel diacritics (lāhā/mātrā) modify the base consonant</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="193" text-anchor="middle" class="H" >— Vowel Carriers —</text>
+<text x="70" y="212" text-anchor="middle" class="L" >ਅ  a</text>
+<text x="180" y="212" text-anchor="middle" class="L" >ਆ  ā</text>
+<text x="300" y="212" text-anchor="middle" class="L" >ਇ  i</text>
+<text x="410" y="212" text-anchor="middle" class="L" >ਈ  ī</text>
+<text x="70" y="232" text-anchor="middle" class="L" >ਉ  u</text>
+<text x="180" y="232" text-anchor="middle" class="L" >ਊ  ū</text>
+<text x="300" y="232" text-anchor="middle" class="L" >ਏ  e</text>
+<text x="410" y="232" text-anchor="middle" class="L" >ਔ  au</text>
+<line x1="20" y1="242" x2="460" y2="242" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="258" text-anchor="middle" class="H" >— Consonants — Selected —</text>
+<text x="70" y="276" text-anchor="middle" class="L" >ਕ k</text>
+<text x="180" y="276" text-anchor="middle" class="L" >ਖ kh</text>
+<text x="300" y="276" text-anchor="middle" class="L" >ਗ g</text>
+<text x="410" y="276" text-anchor="middle" class="L" >ਘ gh</text>
+<text x="70" y="294" text-anchor="middle" class="L" >ਚ c</text>
+<text x="180" y="294" text-anchor="middle" class="L" >ਛ ch</text>
+<text x="300" y="294" text-anchor="middle" class="L" >ਜ j</text>
+<text x="410" y="294" text-anchor="middle" class="L" >ਝ jh</text>
+<text x="70" y="312" text-anchor="middle" class="L" >ਟ ṭ</text>
+<text x="180" y="312" text-anchor="middle" class="L" >ਠ ṭh</text>
+<text x="300" y="312" text-anchor="middle" class="L" >ਡ ḍ</text>
+<text x="410" y="312" text-anchor="middle" class="L" >ਢ ḍh</text>
+<text x="70" y="330" text-anchor="middle" class="L" >ਤ t</text>
+<text x="180" y="330" text-anchor="middle" class="L" >ਥ th</text>
+<text x="300" y="330" text-anchor="middle" class="L" >ਦ d</text>
+<text x="410" y="330" text-anchor="middle" class="L" >ਧ dh</text>
+<text x="70" y="348" text-anchor="middle" class="L" >ਪ p</text>
+<text x="180" y="348" text-anchor="middle" class="L" >ਫ ph</text>
+<text x="300" y="348" text-anchor="middle" class="L" >ਬ b</text>
+<text x="410" y="348" text-anchor="middle" class="L" >ਭ bh</text>
+<text x="70" y="366" text-anchor="middle" class="L" >ਮ m</text>
+<text x="180" y="366" text-anchor="middle" class="L" >ਨ n</text>
+<text x="300" y="366" text-anchor="middle" class="L" >ਰ r</text>
+<text x="410" y="366" text-anchor="middle" class="L" >ਲ l</text>
+<text x="70" y="384" text-anchor="middle" class="L" >ਸ s</text>
+<text x="180" y="384" text-anchor="middle" class="L" >ਹ h</text>
+<text x="300" y="384" text-anchor="middle" class="L" >ਵ v</text>
+<text x="410" y="384" text-anchor="middle" class="L" >ਯ y</text>
+<line x1="20" y1="406" x2="460" y2="406" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H" >— Numerals —</text>
+<text x="60" y="438" text-anchor="middle" class="L" >੦ 0</text>
+<text x="140" y="438" text-anchor="middle" class="L" >੧ 1</text>
+<text x="220" y="438" text-anchor="middle" class="L" >੨ 2</text>
+<text x="300" y="438" text-anchor="middle" class="L" >੩ 3</text>
+<text x="380" y="438" text-anchor="middle" class="L" >੪ 4</text>
+<text x="60" y="458" text-anchor="middle" class="L" >੫ 5</text>
+<text x="140" y="458" text-anchor="middle" class="L" >੬ 6</text>
+<text x="220" y="458" text-anchor="middle" class="L" >੭ 7</text>
+<text x="300" y="458" text-anchor="middle" class="L" >੮ 8</text>
+<text x="380" y="458" text-anchor="middle" class="L" >੯ 9</text>
+<line x1="20" y1="468" x2="460" y2="468" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="484" text-anchor="middle" class="X" >Written right-to-left in Shahmukhi script (Urdu)</text>
+<text x="240" y="500" text-anchor="middle" class="X" >(Pakistani Punjabi) · Gurmukhi used in India</text>
+<text x="240" y="516" text-anchor="middle" class="X" >~100 million speakers (5th most spoken language)</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 53A  ·  PUNJABI</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Gurmukhi Abugida</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

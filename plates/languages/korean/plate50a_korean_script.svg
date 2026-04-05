@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lk{font-size:11px;}
+.Lks{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >KOREAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >한국어 — Script: Hangeul (한글)</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— HANGEUL — THE KOREAN ALPHABET —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Hangeul created 1443 CE by King Sejong. One of the few scripts with a known author.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Featural alphabet: letter shapes encode phonetic features (place/manner of articulation).</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Letters combined into syllable blocks. Each block = one syllable.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— CONSONANTS (JAMO) — 19 LETTERS —</text>
+<text x="50" y="131" text-anchor="middle" class="Lk" >ㄱ</text>
+<text x="50" y="140" text-anchor="middle" class="Lx" >g/k /kʰ~ɡ/</text>
+<text x="148" y="131" text-anchor="middle" class="Lk" >ㄲ</text>
+<text x="148" y="140" text-anchor="middle" class="Lx" >kk /k*/ tense</text>
+<text x="246" y="131" text-anchor="middle" class="Lk" >ㄴ</text>
+<text x="246" y="140" text-anchor="middle" class="Lx" >n /n/</text>
+<text x="344" y="131" text-anchor="middle" class="Lk" >ㄷ</text>
+<text x="344" y="140" text-anchor="middle" class="Lx" >d/t /tʰ~d/</text>
+<text x="50" y="143" text-anchor="middle" class="Lk" >ㄸ</text>
+<text x="50" y="152" text-anchor="middle" class="Lx" >tt /t*/ tense</text>
+<text x="148" y="143" text-anchor="middle" class="Lk" >ㄹ</text>
+<text x="148" y="152" text-anchor="middle" class="Lx" >r/l /r~l/</text>
+<text x="246" y="143" text-anchor="middle" class="Lk" >ㅁ</text>
+<text x="246" y="152" text-anchor="middle" class="Lx" >m /m/</text>
+<text x="344" y="143" text-anchor="middle" class="Lk" >ㅂ</text>
+<text x="344" y="152" text-anchor="middle" class="Lx" >b/p /pʰ~b/</text>
+<text x="50" y="155" text-anchor="middle" class="Lk" >ㅃ</text>
+<text x="50" y="164" text-anchor="middle" class="Lx" >pp /p*/ tense</text>
+<text x="148" y="155" text-anchor="middle" class="Lk" >ㅅ</text>
+<text x="148" y="164" text-anchor="middle" class="Lx" >s /s/</text>
+<text x="246" y="155" text-anchor="middle" class="Lk" >ㅆ</text>
+<text x="246" y="164" text-anchor="middle" class="Lx" >ss /s*/ tense</text>
+<text x="344" y="155" text-anchor="middle" class="Lk" >ㅇ</text>
+<text x="344" y="164" text-anchor="middle" class="Lx" >ʔ/ŋ</text>
+<text x="50" y="167" text-anchor="middle" class="Lk" >ㅈ</text>
+<text x="50" y="176" text-anchor="middle" class="Lx" >j /tɕʰ/</text>
+<text x="148" y="167" text-anchor="middle" class="Lk" >ㅉ</text>
+<text x="148" y="176" text-anchor="middle" class="Lx" >jj /tɕ*/ tense</text>
+<text x="246" y="167" text-anchor="middle" class="Lk" >ㅊ</text>
+<text x="246" y="176" text-anchor="middle" class="Lx" >ch /tɕʰʰ/</text>
+<text x="344" y="167" text-anchor="middle" class="Lk" >ㅋ</text>
+<text x="344" y="176" text-anchor="middle" class="Lx" >kh /kʰʰ/</text>
+<text x="50" y="179" text-anchor="middle" class="Lk" >ㅌ</text>
+<text x="50" y="188" text-anchor="middle" class="Lx" >th /tʰʰ/</text>
+<text x="148" y="179" text-anchor="middle" class="Lk" >ㅍ</text>
+<text x="148" y="188" text-anchor="middle" class="Lx" >ph /pʰʰ/</text>
+<text x="246" y="179" text-anchor="middle" class="Lk" >ㅎ</text>
+<text x="246" y="188" text-anchor="middle" class="Lx" >h /h/</text>
+<line x1="20" y1="203" x2="460" y2="203" stroke="black" stroke-width="0.3"/>
+<text x="240" y="212" text-anchor="middle" class="H" >— VOWELS (JAMO) — 21 LETTERS —</text>
+<text x="35" y="222" text-anchor="middle" class="Lk" >ㅏ</text>
+<text x="35" y="231" text-anchor="middle" class="Lx" >/a/</text>
+<text x="97" y="222" text-anchor="middle" class="Lk" >ㅐ</text>
+<text x="97" y="231" text-anchor="middle" class="Lx" >/æ/</text>
+<text x="159" y="222" text-anchor="middle" class="Lk" >ㅑ</text>
+<text x="159" y="231" text-anchor="middle" class="Lx" >/ʌ/</text>
+<text x="221" y="222" text-anchor="middle" class="Lk" >ㅒ</text>
+<text x="221" y="231" text-anchor="middle" class="Lx" >/ɛ/</text>
+<text x="283" y="222" text-anchor="middle" class="Lk" >ㅓ</text>
+<text x="283" y="231" text-anchor="middle" class="Lx" >/ə/</text>
+<text x="345" y="222" text-anchor="middle" class="Lk" >ㅔ</text>
+<text x="345" y="231" text-anchor="middle" class="Lx" >/e/</text>
+<text x="407" y="222" text-anchor="middle" class="Lk" >ㅕ</text>
+<text x="407" y="231" text-anchor="middle" class="Lx" >/je/</text>
+<text x="35" y="234" text-anchor="middle" class="Lk" >ㅖ</text>
+<text x="35" y="243" text-anchor="middle" class="Lx" >/jo/</text>
+<text x="97" y="234" text-anchor="middle" class="Lk" >ㅗ</text>
+<text x="97" y="243" text-anchor="middle" class="Lx" >/o/</text>
+<text x="159" y="234" text-anchor="middle" class="Lk" >ㅘ</text>
+<text x="159" y="243" text-anchor="middle" class="Lx" >/wa/</text>
+<text x="221" y="234" text-anchor="middle" class="Lk" >ㅙ</text>
+<text x="221" y="243" text-anchor="middle" class="Lx" >/wæ/</text>
+<text x="283" y="234" text-anchor="middle" class="Lk" >ㅚ</text>
+<text x="283" y="243" text-anchor="middle" class="Lx" >/we/</text>
+<text x="345" y="234" text-anchor="middle" class="Lk" >ㅛ</text>
+<text x="345" y="243" text-anchor="middle" class="Lx" >/jo/</text>
+<text x="407" y="234" text-anchor="middle" class="Lk" >ㅜ</text>
+<text x="407" y="243" text-anchor="middle" class="Lx" >/u/</text>
+<text x="35" y="246" text-anchor="middle" class="Lk" >ㅝ</text>
+<text x="35" y="255" text-anchor="middle" class="Lx" >/wə/</text>
+<text x="97" y="246" text-anchor="middle" class="Lk" >ㅞ</text>
+<text x="97" y="255" text-anchor="middle" class="Lx" >/we/</text>
+<text x="159" y="246" text-anchor="middle" class="Lk" >ㅟ</text>
+<text x="159" y="255" text-anchor="middle" class="Lx" >/wi/</text>
+<text x="221" y="246" text-anchor="middle" class="Lk" >ㅠ</text>
+<text x="221" y="255" text-anchor="middle" class="Lx" >/ju/</text>
+<text x="283" y="246" text-anchor="middle" class="Lk" >ㅡ</text>
+<text x="283" y="255" text-anchor="middle" class="Lx" >/ɯ/</text>
+<text x="345" y="246" text-anchor="middle" class="Lk" >ㅢ</text>
+<text x="345" y="255" text-anchor="middle" class="Lx" >/ɯi/</text>
+<text x="407" y="246" text-anchor="middle" class="Lk" >ㅣ</text>
+<text x="407" y="255" text-anchor="middle" class="Lx" >/i/</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H" >— SYLLABLE BLOCK STRUCTURE —</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >Syllables assembled in blocks: Initial consonant (onset) + vowel + optional final consonant (coda).</text>
+<text x="240" y="294" text-anchor="middle" class="Ls" >Example: 한 = ㅎ + ㅡ + ㄴ (h + eu + n = han). 글 = ㄱ + ㅳ + ㄹ (g + eu + l = geul).</text>
+<text x="240" y="304" text-anchor="middle" class="Ls" >Vowels written below horizontal consonants, right of vertical consonants.</text>
+<line x1="20" y1="312" x2="460" y2="312" stroke="black" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H" >— KOREAN NUMERALS — TWO SYSTEMS —</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >Korean has Sino-Korean (Chinese-based) and Native Korean number systems:</text>
+<text x="240" y="341" text-anchor="middle" class="Lk" >Sino: 일(一) 이(二) 삼(三) 사(四) 오(五) 육(六) 칠(七) 팔(八) 구(九) 십(十)</text>
+<text x="240" y="354" text-anchor="middle" class="Lk" >Native: 하나 둘 셋 넷 다섯 여섯 일곱 여덟 아홉 열</text>
+<text x="240" y="367" text-anchor="middle" class="Ls" >Sino used for dates, money, addresses; Native for counting objects, age (older style).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 50A — KOREAN: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

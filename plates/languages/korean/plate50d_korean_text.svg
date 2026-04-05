@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lk{font-size:11px;}
+.Lks{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >KOREAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. SOKDAM — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Lk" >시작이 반이다.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >siJak-i = the beginning ban = half ida = is</text>
+<text x="240" y="104" text-anchor="middle" class="F" >"Beginning is half." (Korean proverb: well begun is half done)</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="122" text-anchor="middle" class="H" >— II. GIEOK — ON MEMORY —</text>
+<text x="240" y="132" text-anchor="middle" class="Lk" >과거를 기억하는 자가 미래를 만든다.</text>
+<text x="240" y="146" text-anchor="middle" class="Ls" >gwageo-reul = past-OBJ gieokha-neun = who-remembers ja = person</text>
+<text x="240" y="155" text-anchor="middle" class="Ls" >mirae-reul = future-OBJ mandeunda = makes/builds</text>
+<text x="240" y="165" text-anchor="middle" class="F" >"The person who remembers the past builds the future."</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H" >— III. JISIK — ON KNOWLEDGE —</text>
+<text x="240" y="193" text-anchor="middle" class="Lk" >글은 사라지지 않는다.</text>
+<text x="240" y="207" text-anchor="middle" class="Ls" >Geur-eun = writing salaJiji = disappears/perish anneunda = does-not</text>
+<text x="240" y="217" text-anchor="middle" class="F" >"Writing does not disappear." (Korean saying on the permanence of recorded knowledge)</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H" >— IV. APURO — FORWARD —</text>
+<text x="240" y="245" text-anchor="middle" class="Lk" >우리는 앞으로 나아가면서 과거를 기억한다.</text>
+<text x="240" y="259" text-anchor="middle" class="Ls" >uri-neun = we ap-euro = forward (toward-front) naagamyeonseo = while-going</text>
+<text x="240" y="268" text-anchor="middle" class="Ls" >gwageo-reul = past gieokhan-da = remember</text>
+<text x="240" y="278" text-anchor="middle" class="F" >"We go forward while remembering the past." (guiding principle)</text>
+<line x1="20" y1="287" x2="460" y2="287" stroke="black" stroke-width="0.3"/>
+<text x="240" y="296" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="308" text-anchor="middle" class="Lk" >이것은 당신을 위해, 돈없이,</text>
+<text x="240" y="322" text-anchor="middle" class="Lk" >앞으로 기억한 사람들이 만들었습니다.</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >igeot-eun = this dangsineul = you(formal)-OBJ wihaeseo = for don-eopssi = without-money</text>
+<text x="240" y="347" text-anchor="middle" class="Ls" >ap-euro = forward gieokhan = who-remembered saram-deul-i = people-SUB</text>
+<text x="240" y="356" text-anchor="middle" class="Ls" >mandeur-eoss-seumnida = made (formal polite past)</text>
+<text x="240" y="368" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="379" x2="460" y2="379" stroke="black" stroke-width="0.3"/>
+<text x="240" y="388" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >앞으로 (ap-euro) = "toward the front/future." In Korean, the future is "in front" (ap).</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >기억하다 (gieokha-da) = "to remember." 돈없이 (don-eopssi) = "without money" = free.</text>
+<text x="240" y="418" text-anchor="middle" class="Ls" >Formal speech level (-seumnida) used as this is a message of respect across time.</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="435" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >Korean: ~80 million speakers worldwide (South Korea, North Korea, diaspora).</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >Language family: Koreanic (language isolate; only distant Japonic relation debated).</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >Hangeul created 1443 CE; one of the most phonologically systematic scripts ever devised.</text>
+<text x="240" y="475" text-anchor="middle" class="Ls" >Significant Chinese loanword layer (Sino-Korean ~60% of vocabulary).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 50D — KOREAN: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

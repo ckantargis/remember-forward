@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Naskh Arabic", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >EGYPTIAN ARABIC  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >نص وجسر</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Umm Kulthum — Al-Atlal (1966) —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >إعطني حريتي أطلقني</text>
+<text x="240" y="128" text-anchor="middle" class="L" >إعطني ولا تظلمني</text>
+<text x="240" y="144" text-anchor="middle" class="X" >ʼITni Huriyyati, aTliqni</text>
+<text x="240" y="160" text-anchor="middle" class="X" >ʼITni wala tazlimni</text>
+<text x="240" y="176" text-anchor="middle" class="X" >"Give me my freedom, release me / Give it to me and wrong me not"</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="223" text-anchor="middle" class="L" >اللي مايعرفش يتعلم</text>
+<text x="240" y="239" text-anchor="middle" class="X" >Illi mayifarafsh, yitallam</text>
+<text x="240" y="255" text-anchor="middle" class="X" >"He who does not know — let him learn"</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="285" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="305" text-anchor="middle" class="L" >دا عملوه عشانك, بجد و مجاناً,</text>
+<text x="240" y="321" text-anchor="middle" class="L" >من ناس فاكرين في المستقبل.</text>
+<text x="240" y="341" text-anchor="middle" class="X" >Da ʿamalooh ʿashānak, bi-gadd wi-magaanan,</text>
+<text x="240" y="357" text-anchor="middle" class="X" >min naas faakriyn fi l-mustaqbal.</text>
+<text x="240" y="375" text-anchor="middle" class="X" >"This was made for you, for real and for free,</text>
+<text x="240" y="389" text-anchor="middle" class="X" >by people who were thinking of the future."</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H" >— Series Complete — 60 Languages —</text>
+<text x="240" y="437" text-anchor="middle" class="X" >Egyptian Arabic · ~100M speakers · North Africa</text>
+<text x="240" y="453" text-anchor="middle" class="X" >Most widely understood Arabic dialect globally</text>
+<text x="240" y="469" text-anchor="middle" class="X" >Through film, music, and television since 1930s</text>
+<text x="240" y="489" text-anchor="middle" class="S" >PLATE 60 OF 60  ·  REMEMBER FORWARD</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 60D  ·  EGYPTIAN ARABIC</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Series Complete</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

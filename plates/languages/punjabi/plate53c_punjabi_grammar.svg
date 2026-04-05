@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Sans Gurmukhi", "Noto Sans", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >PUNJABI  GRAMMAR</text>
+<text x="240" y="65" text-anchor="middle" class="T" >ਵਿਆਕਰਣ  (Viākraṇ)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Word Order  SOV —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >Subject → Object → Verb (like Hindi/Urdu)</text>
+<text x="240" y="128" text-anchor="middle" class="L" >ਮੈਂ ਪਾਣੀ ਪੀਂਦਾ ਹਾਂ</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Maĩ pāṇī pīndā hāĩ — "I drink water"</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Postpositions —</text>
+<text x="55" y="190" text-anchor="middle" class="L" >ਦਾ / ਦੀ / ਦੇ</text>
+<text x="130" y="190" text-anchor="middle" class="X" >dā/dī/de</text>
+<text x="300" y="190" text-anchor="start" class="X" >of (gen., agrees w/ possessed)</text>
+<text x="55" y="207" text-anchor="middle" class="L" >ਨੂੰ / ਕੂ</text>
+<text x="130" y="207" text-anchor="middle" class="X" >nū̃/kū</text>
+<text x="300" y="207" text-anchor="start" class="X" >to, DATIVE/ACCUSATIVE</text>
+<text x="55" y="224" text-anchor="middle" class="L" >ਤੋਂ</text>
+<text x="130" y="224" text-anchor="middle" class="X" >tō̃</text>
+<text x="300" y="224" text-anchor="start" class="X" >from, ABLATIVE</text>
+<text x="55" y="241" text-anchor="middle" class="L" >ਚ</text>
+<text x="130" y="241" text-anchor="middle" class="X" >ca</text>
+<text x="300" y="241" text-anchor="start" class="X" >in, LOCATIVE (archaic; vich more common)</text>
+<text x="55" y="258" text-anchor="middle" class="L" >ਵਿੱਚ</text>
+<text x="130" y="258" text-anchor="middle" class="X" >vich</text>
+<text x="300" y="258" text-anchor="start" class="X" >in, inside</text>
+<text x="55" y="275" text-anchor="middle" class="L" >ਨਾਲ</text>
+<text x="130" y="275" text-anchor="middle" class="X" >nāl</text>
+<text x="300" y="275" text-anchor="start" class="X" >with, INSTRUMENTAL</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="320" text-anchor="middle" class="H" >— Verb Agreement —</text>
+<text x="240" y="337" text-anchor="middle" class="X" >Verbs agree with subject in gender and number</text>
+<text x="240" y="353" text-anchor="middle" class="X" >In perfective, verb agrees with OBJECT (ergative)</text>
+<text x="240" y="369" text-anchor="middle" class="L" >ਮੁੰਡੇ ਰੋਟੀ ਖਾਧੀ  (munde rotī khādhī)</text>
+<text x="240" y="385" text-anchor="middle" class="X" >"The boy ate bread" — verb agrees w/ bread (f.)</text>
+<line x1="20" y1="398" x2="460" y2="398" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="413" text-anchor="middle" class="H" >— Core Vocabulary —</text>
+<text x="55" y="430" text-anchor="middle" class="L" >ਪਾਣੀ</text>
+<text x="120" y="430" text-anchor="middle" class="X" >pāṇī</text>
+<text x="190" y="430" text-anchor="middle" class="X" >water</text>
+<text x="285" y="430" text-anchor="middle" class="L" >ਰੋਟੀ</text>
+<text x="360" y="430" text-anchor="middle" class="X" >rotī</text>
+<text x="430" y="430" text-anchor="middle" class="X" >bread</text>
+<text x="55" y="448" text-anchor="middle" class="L" >ਘਰ</text>
+<text x="120" y="448" text-anchor="middle" class="X" >ghar</text>
+<text x="190" y="448" text-anchor="middle" class="X" >house</text>
+<text x="285" y="448" text-anchor="middle" class="L" >ਮਾਂ</text>
+<text x="360" y="448" text-anchor="middle" class="X" >māṃ</text>
+<text x="430" y="448" text-anchor="middle" class="X" >mother</text>
+<text x="55" y="466" text-anchor="middle" class="L" >ਪਿੰਡ</text>
+<text x="120" y="466" text-anchor="middle" class="X" >piṇḍ</text>
+<text x="190" y="466" text-anchor="middle" class="X" >village</text>
+<text x="285" y="466" text-anchor="middle" class="L" >ਹਾਂ</text>
+<text x="360" y="466" text-anchor="middle" class="X" >hāṃ</text>
+<text x="430" y="466" text-anchor="middle" class="X" >yes</text>
+<text x="55" y="484" text-anchor="middle" class="L" >ਨਹੀਂ</text>
+<text x="120" y="484" text-anchor="middle" class="X" >nahī̃</text>
+<text x="190" y="484" text-anchor="middle" class="X" >no</text>
+<text x="285" y="484" text-anchor="middle" class="L" >ਨਾਮ</text>
+<text x="360" y="484" text-anchor="middle" class="X" >nām</text>
+<text x="430" y="484" text-anchor="middle" class="X" >name</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 53C  ·  PUNJABI</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Grammar · Postpositions · Ergativity</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

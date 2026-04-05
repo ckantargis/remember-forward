@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Naskh Arabic", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >EGYPTIAN ARABIC  PHONOLOGY</text>
+<text x="240" y="65" text-anchor="middle" class="T" >صوتيات  (Sawtiyaat)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Egyptian vs Classical Arabic Sounds —</text>
+<text x="100" y="112" text-anchor="end" class="X" >MSA /q/</text>
+<text x="110" y="112" text-anchor="start" class="L" >Masri /ʼ/</text>
+<text x="285" y="112" text-anchor="start" class="X" >qalb → ʼaʽb = heart</text>
+<text x="100" y="130" text-anchor="end" class="X" >MSA /θ/</text>
+<text x="110" y="130" text-anchor="start" class="L" >Masri /t/ or /s/</text>
+<text x="285" y="130" text-anchor="start" class="X" >thalātha → talaʽa = three</text>
+<text x="100" y="148" text-anchor="end" class="X" >MSA /ð/</text>
+<text x="110" y="148" text-anchor="start" class="L" >Masri /z/ or /d/</text>
+<text x="285" y="148" text-anchor="start" class="X" >dhāhib → dāhib = going</text>
+<text x="100" y="166" text-anchor="end" class="X" >MSA /dʒ/</text>
+<text x="110" y="166" text-anchor="start" class="L" >Masri /g/</text>
+<text x="285" y="166" text-anchor="start" class="X" >jamal → gamal = camel</text>
+<text x="100" y="184" text-anchor="end" class="X" >MSA /x/</text>
+<text x="110" y="184" text-anchor="start" class="L" >Masri /x/</text>
+<text x="285" y="184" text-anchor="start" class="X" >shared — velar fricative</text>
+<line x1="20" y1="210" x2="460" y2="210" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H" >— Pharyngeals and Emphatics —</text>
+<text x="240" y="243" text-anchor="middle" class="L" >ʿ  = voiced pharyngeal fricative (/ʿ ain/) — unique</text>
+<text x="240" y="259" text-anchor="middle" class="L" >ħ  = voiceless pharyngeal fricative (/ḥ a/)</text>
+<text x="240" y="275" text-anchor="middle" class="L" >Emphatics: ṣ ḍ ṭ ẓ — pharyngealized consonants</text>
+<text x="240" y="291" text-anchor="middle" class="X" >Emphatics cause vowels to become back/low</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H" >— Vowels —</text>
+<text x="240" y="338" text-anchor="middle" class="X" >Short: a  i  u  (often reduced or deleted)</text>
+<text x="240" y="354" text-anchor="middle" class="X" >Long: ā  ī  ū</text>
+<text x="240" y="370" text-anchor="middle" class="X" >Diphthongs: ay  aw</text>
+<text x="240" y="386" text-anchor="middle" class="X" >Short vowels often not written in Arabic script</text>
+<line x1="20" y1="400" x2="460" y2="400" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="416" text-anchor="middle" class="H" >— Stress —</text>
+<text x="240" y="433" text-anchor="middle" class="X" >Stress falls on last heavy syllable (CVV or CVC)</text>
+<text x="240" y="449" text-anchor="middle" class="X" >Light syllables (CV) attract stress only if final</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 60B  ·  EGYPTIAN ARABIC</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Phonology · Pharyngeals · Emphatics</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Serif Tibetan", "Noto Sans Tibetan", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >TIBETAN</text>
+<text x="240" y="65" text-anchor="middle" class="T" >བོད་སྐད་  (Bod skad)</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Uchen Script — Dbu-can —</text>
+<text x="240" y="112" text-anchor="middle" class="X" >"Uchen" = headed/upright · the formal print style</text>
+<text x="240" y="128" text-anchor="middle" class="X" >Derived from Brahmi via Gupta script · ~620 CE</text>
+<text x="240" y="144" text-anchor="middle" class="X" >Abugida: consonants stack vertically, vowels are diacritics</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H" >— Consonants — 30 Radicals —</text>
+<text x="70" y="190" text-anchor="middle" class="L" >ཀ ka</text>
+<text x="180" y="190" text-anchor="middle" class="L" >ཁ kha</text>
+<text x="300" y="190" text-anchor="middle" class="L" >ག ga</text>
+<text x="410" y="190" text-anchor="middle" class="L" >ང nga</text>
+<text x="70" y="208" text-anchor="middle" class="L" >ཅ ca</text>
+<text x="180" y="208" text-anchor="middle" class="L" >ཆ cha</text>
+<text x="300" y="208" text-anchor="middle" class="L" >ཇ ja</text>
+<text x="410" y="208" text-anchor="middle" class="L" >ཉ nya</text>
+<text x="70" y="226" text-anchor="middle" class="L" >ཏ ta</text>
+<text x="180" y="226" text-anchor="middle" class="L" >ཐ tha</text>
+<text x="300" y="226" text-anchor="middle" class="L" >ད da</text>
+<text x="410" y="226" text-anchor="middle" class="L" >ན na</text>
+<text x="70" y="244" text-anchor="middle" class="L" >པ pa</text>
+<text x="180" y="244" text-anchor="middle" class="L" >ཕ pha</text>
+<text x="300" y="244" text-anchor="middle" class="L" >བ ba</text>
+<text x="410" y="244" text-anchor="middle" class="L" >མ ma</text>
+<text x="70" y="262" text-anchor="middle" class="L" >ཟ tsa</text>
+<text x="180" y="262" text-anchor="middle" class="L" >འ wa</text>
+<text x="300" y="262" text-anchor="middle" class="L" >ཡ zha</text>
+<text x="410" y="262" text-anchor="middle" class="L" >ར ra</text>
+<text x="70" y="280" text-anchor="middle" class="L" >ལ la</text>
+<text x="180" y="280" text-anchor="middle" class="L" >ཤ sha</text>
+<text x="300" y="280" text-anchor="middle" class="L" >ས sa</text>
+<text x="410" y="280" text-anchor="middle" class="L" >ཧ ha</text>
+<text x="70" y="298" text-anchor="middle" class="L" >ཨ a</text>
+<text x="180" y="298" text-anchor="middle" class="L" >་ tsek</text>
+<text x="300" y="298" text-anchor="middle" class="L" >། shad</text>
+<text x="410" y="298" text-anchor="middle" class="L" >༁ yig mgo</text>
+<line x1="20" y1="334" x2="460" y2="334" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="H" >— Vowel Diacritics —</text>
+<text x="240" y="367" text-anchor="middle" class="L" >ཱ aa  ི i  ུ u  ེ e  ོ o</text>
+<text x="240" y="385" text-anchor="middle" class="X" >Written above or below the base consonant</text>
+<line x1="20" y1="398" x2="460" y2="398" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H" >— Stacking —</text>
+<text x="240" y="431" text-anchor="middle" class="X" >Consonant clusters stack vertically:</text>
+<text x="240" y="449" text-anchor="middle" class="L" >སྐར་ (sgra) = sound — s+g+r stacked</text>
+<text x="240" y="467" text-anchor="middle" class="X" >Superscript and subscript positions defined by tradition</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 56A  ·  TIBETAN</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Script · Uchen · Stacking</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

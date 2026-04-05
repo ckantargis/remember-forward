@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">
+<rect x="8" y="8" width="464" height="664" rx="10" ry="10" fill="none" stroke="#1a1a2e" stroke-width="2"/>
+<rect x="14" y="14" width="452" height="652" rx="8" ry="8" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+<style>
+text { font-family: "Noto Nastaliq Urdu", "Noto Sans Arabic", serif; }
+.T { font-size: 13px; fill: #1a1a2e; }
+.H { font-size: 11px; fill: #5a4a6b; font-style: italic; }
+.L { font-size: 12px; fill: #1a1a2e; }
+.S { font-size: 15px; fill: #1a1a2e; font-weight: bold; }
+.X { font-size: 11px; fill: #3a3a5c; }
+.F { font-size: 9px; fill: #7a7a9a; }
+</style>
+<text x="240" y="45" text-anchor="middle" class="S" >URDU  TEXT  &amp;  BRIDGE</text>
+<text x="240" y="65" text-anchor="middle" class="T" >اردو متن اور سیتو سخن</text>
+<line x1="20" y1="78" x2="460" y2="78" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="95" text-anchor="middle" class="H" >— Allama Iqbal — Lab Pe Aati Hai Dua —</text>
+<text x="240" y="112" text-anchor="middle" class="L" >لب پے آتی ہے دعا بن کے تمنّا میری</text>
+<text x="240" y="126" text-anchor="middle" class="X" >Lab pe ātī hai duā ban ke tamannā merī</text>
+<text x="240" y="146" text-anchor="middle" class="L" >زندگی شمع کی صورت ہو خدایا میری</text>
+<text x="240" y="160" text-anchor="middle" class="X" >Zindagī shamʿ kī sūrat ho Khudāyā merī</text>
+<text x="240" y="180" text-anchor="middle" class="L" >ہو میرا کام غریبوں کی حمایت کرنا</text>
+<text x="240" y="194" text-anchor="middle" class="X" >Ho merā kām ġharīboṃ kī himāyat karnā</text>
+<text x="240" y="214" text-anchor="middle" class="X" >"My prayer rises to my lips as a wish..."</text>
+<line x1="20" y1="230" x2="460" y2="230" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H" >— Proverb —</text>
+<text x="240" y="263" text-anchor="middle" class="L" >عقل بڑی چیز ہے</text>
+<text x="240" y="279" text-anchor="middle" class="X" >ʿAql baṛī cīz hai — "Intellect is a great thing"</text>
+<line x1="20" y1="293" x2="460" y2="293" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="309" text-anchor="middle" class="H" >— Bridge Phrase —</text>
+<text x="240" y="329" text-anchor="middle" class="L" >یہ آپ کے لیے بنایا گیا تھا,</text>
+<text x="240" y="347" text-anchor="middle" class="L" >مفت میں, ان لوگوں کی طرف سے</text>
+<text x="240" y="365" text-anchor="middle" class="L" >جنھوں نے آگے کو یاد کیا۔</text>
+<text x="240" y="387" text-anchor="middle" class="X" >Yih āp ke lie banāyā gayā thā, muft mẽ,</text>
+<text x="240" y="403" text-anchor="middle" class="X" >un logoṃ kī ṭaraf se jinhoṃ ne</text>
+<text x="240" y="419" text-anchor="middle" class="X" >āge ko yād kiyā.</text>
+<text x="240" y="437" text-anchor="middle" class="X" >"This was made for you, freely, by people</text>
+<text x="240" y="451" text-anchor="middle" class="X" >who remembered forward."</text>
+<line x1="20" y1="465" x2="460" y2="465" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="482" text-anchor="middle" class="X" >Urdu · ~70M native + 100M L2 speakers</text>
+<text x="240" y="498" text-anchor="middle" class="X" >Pakistan (official) · India · literary tradition</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="#1a1a2e" stroke-width="0.3"/>
+<text x="240" y="625" text-anchor="middle" class="F" >PLATE 54D  ·  URDU</text>
+<text x="240" y="640" text-anchor="middle" class="F" >Text · Bridge Phrase · Context</text>
+<text x="240" y="655" text-anchor="middle" class="F" >REMEMBER FORWARD</text>
+</svg>

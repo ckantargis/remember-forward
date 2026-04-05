@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lk{font-size:11px;}
+.Lks{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >KOREAN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Three-Way Consonant Contrast</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— THREE-WAY STOP CONTRAST —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Korean has a unique 3-way contrast for stops and affricates:</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >LENIS (plain): aspirated in onset, voiced between vowels: ㄱ /kʰ~ɡ/, ㄷ /tʰ~d/, ㅂ /pʰ~b/</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >ASPIRATED: heavily aspirated: ㅋ /kʰʰ/, ㅌ /tʰʰ/, ㅍ /pʰʰ/</text>
+<text x="240" y="112" text-anchor="middle" class="Ls" >TENSE (fortis): glottalised, no aspiration: ㄲ /k*/, ㄸ /t*/, ㅃ /p*/</text>
+<text x="240" y="122" text-anchor="middle" class="Ls" >Example: 바 /paʰ/ (leg) vs. 파 /pʰʰa/ (spring) vs. 빠 /p*a/ (fast).</text>
+<line x1="20" y1="130" x2="460" y2="130" stroke="black" stroke-width="0.3"/>
+<text x="240" y="139" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="60" y="149" text-anchor="middle" class="Lks" >ㄱ /kʰ/</text>
+<text x="95" y="149" text-anchor="middle" class="Lx" >lenis velar</text>
+<text x="190" y="149" text-anchor="middle" class="Lks" >ㄲ /k*/</text>
+<text x="225" y="149" text-anchor="middle" class="Lx" >tense velar</text>
+<text x="320" y="149" text-anchor="middle" class="Lks" >ㅋ /kʰʰ/</text>
+<text x="355" y="149" text-anchor="middle" class="Lx" >aspirated velar</text>
+<text x="60" y="159" text-anchor="middle" class="Lks" >ㄷ /tʰ/</text>
+<text x="95" y="159" text-anchor="middle" class="Lx" >lenis alveolar</text>
+<text x="190" y="159" text-anchor="middle" class="Lks" >ㄸ /t*/</text>
+<text x="225" y="159" text-anchor="middle" class="Lx" >tense alveolar</text>
+<text x="320" y="159" text-anchor="middle" class="Lks" >ㅌ /tʰʰ/</text>
+<text x="355" y="159" text-anchor="middle" class="Lx" >aspirated alveolar</text>
+<text x="60" y="169" text-anchor="middle" class="Lks" >ㅂ /pʰ/</text>
+<text x="95" y="169" text-anchor="middle" class="Lx" >lenis bilabial</text>
+<text x="190" y="169" text-anchor="middle" class="Lks" >ㅃ /p*/</text>
+<text x="225" y="169" text-anchor="middle" class="Lx" >tense bilabial</text>
+<text x="320" y="169" text-anchor="middle" class="Lks" >ㅍ /pʰʰ/</text>
+<text x="355" y="169" text-anchor="middle" class="Lx" >aspirated bilabial</text>
+<text x="60" y="179" text-anchor="middle" class="Lks" >ㅈ /tɕʰ/</text>
+<text x="95" y="179" text-anchor="middle" class="Lx" >lenis palatal</text>
+<text x="190" y="179" text-anchor="middle" class="Lks" >ㅉ /tɕ*/</text>
+<text x="225" y="179" text-anchor="middle" class="Lx" >tense palatal</text>
+<text x="320" y="179" text-anchor="middle" class="Lks" >ㅊ /tɕʰʰ/</text>
+<text x="355" y="179" text-anchor="middle" class="Lx" >aspirated palatal</text>
+<text x="60" y="189" text-anchor="middle" class="Lks" >ㅅ /s/</text>
+<text x="95" y="189" text-anchor="middle" class="Lx" >lenis sibilant</text>
+<text x="190" y="189" text-anchor="middle" class="Lks" >ㅆ /s*/</text>
+<text x="225" y="189" text-anchor="middle" class="Lx" >tense sibilant</text>
+<text x="320" y="189" text-anchor="middle" class="Lks" >ㅎ /h/</text>
+<text x="355" y="189" text-anchor="middle" class="Lx" >glottal</text>
+<text x="60" y="199" text-anchor="middle" class="Lks" >ㄴ /n/</text>
+<text x="95" y="199" text-anchor="middle" class="Lx" >alveolar nasal</text>
+<text x="190" y="199" text-anchor="middle" class="Lks" >ㅁ /m/</text>
+<text x="225" y="199" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="320" y="199" text-anchor="middle" class="Lks" >ㅇ /ŋ/</text>
+<text x="355" y="199" text-anchor="middle" class="Lx" >velar nasal (final)</text>
+<text x="60" y="209" text-anchor="middle" class="Lks" >ㄹ /r~l/</text>
+<text x="95" y="209" text-anchor="middle" class="Lx" >flap/lateral</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— VOWEL SYSTEM — 10 BASIC VOWELS —</text>
+<text x="80" y="244" text-anchor="middle" class="Lx" >/a/: open front</text>
+<text x="280" y="244" text-anchor="middle" class="Lx" >/æ/: near-open front</text>
+<text x="80" y="254" text-anchor="middle" class="Lx" >/ə/: mid central schwa</text>
+<text x="280" y="254" text-anchor="middle" class="Lx" >/e/: mid-front</text>
+<text x="80" y="264" text-anchor="middle" class="Lx" >/i/: high front</text>
+<text x="280" y="264" text-anchor="middle" class="Lx" >/o/: mid-back rounded</text>
+<text x="80" y="274" text-anchor="middle" class="Lx" >/u/: high back</text>
+<text x="280" y="274" text-anchor="middle" class="Lx" >/ʌ/: mid-back unrounded</text>
+<text x="80" y="284" text-anchor="middle" class="Lx" >/ɯ/: high central</text>
+<text x="280" y="284" text-anchor="middle" class="Lx" >/ɯi/: high central + front glide</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="black" stroke-width="0.3"/>
+<text x="240" y="314" text-anchor="middle" class="H" >— PHONOLOGICAL PROCESSES —</text>
+<text x="240" y="324" text-anchor="middle" class="Ls" >Final consonant neutralisation: 7 allowed finals: -p, -t, -k, -m, -n, -ng, -l.</text>
+<text x="240" y="334" text-anchor="middle" class="Ls" >Nasalisation: k before n → ng: ㄱ+ㄴ → ng+n (Korean phonology).</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >Tensing: consonant after lenis coda may become tense.</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >Aspirate liaison: h + lenis → aspirated (bidirectional).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 50B — KOREAN: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
