@@ -640,6 +640,68 @@
   }
   .download-link:hover { color: var(--gold-pale); }
 
+  /* ── DOWNLOAD PACKS ── */
+  .download-packs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.5rem;
+    margin: 2.5rem 0 3rem;
+  }
+  .download-pack {
+    border: 1px solid var(--gold);
+    padding: 1.8rem 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    background: rgba(200,169,110,0.03);
+    transition: background 0.3s;
+  }
+  .download-pack:hover { background: rgba(200,169,110,0.07); }
+  .pack-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    color: var(--gold);
+    text-transform: uppercase;
+  }
+  .pack-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.05rem;
+    color: var(--text);
+    letter-spacing: 0.06em;
+  }
+  .pack-desc {
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    line-height: 1.5;
+    flex-grow: 1;
+  }
+  .pack-meta {
+    font-size: 0.72rem;
+    color: var(--text-faint);
+    letter-spacing: 0.05em;
+  }
+  .pack-btn {
+    display: inline-block;
+    margin-top: 0.8rem;
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--gold-light);
+    border: 1px solid var(--gold);
+    padding: 0.65em 1.4em;
+    text-align: center;
+    transition: all 0.3s;
+    align-self: flex-start;
+  }
+  .pack-btn:hover {
+    background: rgba(200,169,110,0.12);
+    color: var(--gold-pale);
+    box-shadow: 0 0 18px rgba(200,169,110,0.15);
+  }
+
   /* ── FOOTER ── */
   footer {
     background: var(--dark-mid);
@@ -742,7 +804,7 @@
   <p class="section-label" data-i18n="sec_plates">The Plates</p>
   <h2 data-i18n="plates_h2">The Patient Message</h2>
   <p data-i18n="plates_p1">Each plate is a laser-engraver-ready SVG file, 480×680px portrait format, designed for nickel or stainless steel. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.</p>
-  <p data-i18n="plates_p2">The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across fifty human languages — 214 plates total plus analog audio discs.</p>
+  <p data-i18n="plates_p2">The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across 49 human languages — 219 plates total.</p>
 
   <p class="progress-notice">46 of 214 plates complete · 6 of 50 language series</p>
   <div class="progress-track"><div class="progress-fill" style="width:21.5%"></div></div>
@@ -1557,6 +1619,30 @@
   <p class="section-label" data-i18n="sec_downloads">Free Downloads</p>
   <h2 data-i18n="downloads_h2">Everything Is Free</h2>
   <p data-i18n="downloads_p">Every file in this project is released under CC BY-SA 4.0. Copy them. Translate them. Improve them. Distribute them to everyone. No permission needed. No registration. No cost. The knowledge belongs to whoever finds it.</p>
+
+  <div class="download-packs">
+    <div class="download-pack">
+      <p class="pack-label">Complete Archive</p>
+      <p class="pack-title">All Plates — ZIP Bundle</p>
+      <p class="pack-desc">All 219 SVG plates in original folder structure. Open in any vector editor, laser engraver software, or browser. Knowledge plates, all 49 language series, build scripts included.</p>
+      <p class="pack-meta">SVG · 219 files · ~0.5 MB compressed</p>
+      <a href="downloads/remember-forward-all-plates.zip" download class="pack-btn">Download ZIP</a>
+    </div>
+    <div class="download-pack">
+      <p class="pack-label">Print Ready</p>
+      <p class="pack-title">All Plates — PDF Pack</p>
+      <p class="pack-desc">All 219 plates as a single print-ready PDF. 480×680 pt pages — prints at 5&quot;×7&quot; on standard paper. Bring to a print shop or laser engraving service as a single file.</p>
+      <p class="pack-meta">PDF · 219 pages · ~0.8 MB</p>
+      <a href="downloads/remember-forward-plates.pdf" download class="pack-btn">Download PDF</a>
+    </div>
+    <div class="download-pack">
+      <p class="pack-label">Permanent Archive</p>
+      <p class="pack-title">Internet Archive</p>
+      <p class="pack-desc">Mirrored permanently at the Internet Archive. Includes all plates, guides, and container documentation. DOI-stable URL — citable, preserved indefinitely.</p>
+      <p class="pack-meta">archive.org · All formats · Free forever</p>
+      <a href="https://archive.org/details/remember-forward-patient-message-plates" target="_blank" rel="noopener" class="pack-btn">View on Archive.org</a>
+    </div>
+  </div>
 
   <div class="downloads-grid">
     <div class="download-group reveal">
