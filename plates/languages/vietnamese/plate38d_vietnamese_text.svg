@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >VIETNAMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. TỤC NGỮ — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Học, học nữa, học mãi.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >học=study học=study nữa=more học=study mãi=always/forever</text>
+<text x="240" y="100" text-anchor="middle" class="F" >"Study, study more, study always." (Ho Chi Minh; continuous learning imperative)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="black" stroke-width="0.3"/>
+<text x="240" y="118" text-anchor="middle" class="H" >— II. KÝ ỨC VÀ TƯƠNG LAI — MEMORY AND FUTURE —</text>
+<text x="240" y="128" text-anchor="middle" class="L" >Uống nước nhớ nguồn.</text>
+<text x="240" y="138" text-anchor="middle" class="Ls" >uống=drink nước=water nhớ=remember nguồn=source/spring</text>
+<text x="240" y="148" text-anchor="middle" class="F" >"When you drink water, remember its source." (proverb on gratitude and memory)</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H" >— III. TRI THỨC — ON KNOWLEDGE —</text>
+<text x="240" y="176" text-anchor="middle" class="Ls" >Một kho báu không bao giờ cạn kiệt là tri thức.</text>
+<text x="240" y="186" text-anchor="middle" class="Lx" >một=one kho-báu=treasure không=not bao-giờ=ever cạn-kiệt=exhausted là=is tri-thức=knowledge</text>
+<text x="240" y="196" text-anchor="middle" class="F" >"A treasure that never runs out is knowledge." (Vietnamese educational maxim)</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="214" text-anchor="middle" class="H" >— IV. TIẾN LÊN — FORWARD —</text>
+<text x="240" y="224" text-anchor="middle" class="Ls" >Chúng ta bước tiến phía trước, mang theo ký ức của những người đi trước.</text>
+<text x="240" y="234" text-anchor="middle" class="Ls" >bước-tiến=step-forward phía-trước=toward-front mang-theo=carry-along</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >ký-ức=memory của=of những-người=those-people đi-trước=went-before</text>
+<text x="240" y="254" text-anchor="middle" class="F" >"We step forward, carrying the memory of those who went before." </text>
+<line x1="20" y1="263" x2="460" y2="263" stroke="black" stroke-width="0.3"/>
+<text x="240" y="272" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="285" text-anchor="middle" class="L" >Vật này được làm ra cho bạn, miễn phí,</text>
+<text x="240" y="295" text-anchor="middle" class="L" >bởi những người đã nhớ về phía trước.</text>
+<text x="240" y="309" text-anchor="middle" class="Ls" >vật-này=this-thing được-làm-ra=was-made cho=for bạn=you</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >miễn-phí=free-of-charge bởi=by những-người=those-people</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >đã=PAST nhớ=remember về=toward phía-trước=the-front/forward</text>
+<text x="240" y="339" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="350" x2="460" y2="350" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="369" text-anchor="middle" class="Ls" >Phía trước = "the front / ahead / forward." In Vietnamese spatial metaphor,</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >the future is phía trước (in front) and the past is phía sau (behind).</text>
+<text x="240" y="389" text-anchor="middle" class="Ls" >Nhớ về phía trước = "remember toward the front" — an unusual collocation</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >that captures the spirit of forward-facing memory. Miễn phí = free of charge.</text>
+<line x1="20" y1="407" x2="460" y2="407" stroke="black" stroke-width="0.3"/>
+<text x="240" y="416" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >Vietnamese: ~90 million L1 speakers; official language of Vietnam.</text>
+<text x="240" y="436" text-anchor="middle" class="Ls" >Language family: Austroasiatic, Mon-Khmer branch (Viet-Muong sub-group).</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Heavy Chinese loanword influence (Sino-Vietnamese layer, ~60% of formal vocab).</text>
+<text x="240" y="456" text-anchor="middle" class="Ls" >Spoken also in overseas communities: USA, France, Australia, Cambodia.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 38D — VIETNAMESE: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

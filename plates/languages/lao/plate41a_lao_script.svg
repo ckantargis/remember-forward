@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Ll{font-size:11px;}
+.Lls{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LAO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >ຠາສາລາວ — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM — ABUGIDA —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Lao script is an abugida closely related to Thai script. Written left to right.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Derived from Khmer/Old Khmer via the same Brahmic lineage as Thai (13th century).</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Consonants have inherent vowel /o/; vowel diacritics modify the inherent sound.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— CONSONANTS — 27 LETTERS, 2 CLASSES —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Unlike Thai (3 classes), Lao has 2 consonant classes: high and low.</text>
+<text x="240" y="141" text-anchor="middle" class="Ll" >High class (7): ກ ຂ ຈ ຊ ຍ ມ ສ</text>
+<text x="240" y="155" text-anchor="middle" class="Ll" >Low class (20): ງ ຊ ຍ ນ ມ ຢ ຣ ລ ວ ຫ ບ ປ ພ ຟ ມ ຜ ຝ ພ ຟ ຠ</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="black" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H" >— SELECTED CONSONANTS —</text>
+<text x="60" y="188" text-anchor="middle" class="Ll" >ກ</text>
+<text x="85" y="190" text-anchor="middle" class="Lx" >k /k/</text>
+<text x="190" y="188" text-anchor="middle" class="Ll" >ຂ</text>
+<text x="215" y="190" text-anchor="middle" class="Lx" >kh /kʰ/</text>
+<text x="320" y="188" text-anchor="middle" class="Ll" >ງ</text>
+<text x="345" y="190" text-anchor="middle" class="Lx" >ng /ŋ/</text>
+<text x="60" y="200" text-anchor="middle" class="Ll" >ຈ</text>
+<text x="85" y="202" text-anchor="middle" class="Lx" >ch /tɕ/</text>
+<text x="190" y="200" text-anchor="middle" class="Ll" >ຍ</text>
+<text x="215" y="202" text-anchor="middle" class="Lx" >ny /ɲ/</text>
+<text x="320" y="200" text-anchor="middle" class="Ll" >ນ</text>
+<text x="345" y="202" text-anchor="middle" class="Lx" >n /n/</text>
+<text x="60" y="212" text-anchor="middle" class="Ll" >ມ</text>
+<text x="85" y="214" text-anchor="middle" class="Lx" >m /m/</text>
+<text x="190" y="212" text-anchor="middle" class="Ll" >ຢ</text>
+<text x="215" y="214" text-anchor="middle" class="Lx" >y /j/</text>
+<text x="320" y="212" text-anchor="middle" class="Ll" >ຣ</text>
+<text x="345" y="214" text-anchor="middle" class="Lx" >r /r/ rare</text>
+<text x="60" y="224" text-anchor="middle" class="Ll" >ລ</text>
+<text x="85" y="226" text-anchor="middle" class="Lx" >l /l/</text>
+<text x="190" y="224" text-anchor="middle" class="Ll" >ວ</text>
+<text x="215" y="226" text-anchor="middle" class="Lx" >w /w/</text>
+<text x="320" y="224" text-anchor="middle" class="Ll" >ສ</text>
+<text x="345" y="226" text-anchor="middle" class="Lx" >s /s/</text>
+<text x="60" y="236" text-anchor="middle" class="Ll" >ຫ</text>
+<text x="85" y="238" text-anchor="middle" class="Lx" >h /h/</text>
+<text x="190" y="236" text-anchor="middle" class="Ll" >ຠ</text>
+<text x="215" y="238" text-anchor="middle" class="Lx" >silent h (class marker)</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H" >— VOWEL DIACRITICS —</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >C = consonant placeholder. Vowels written around the base consonant.</text>
+<text x="120" y="294" text-anchor="middle" class="Lls" >ಁC</text>
+<text x="290" y="294" text-anchor="middle" class="Ls" >aa /aː/</text>
+<text x="120" y="304" text-anchor="middle" class="Lls" >ຼCິ</text>
+<text x="290" y="304" text-anchor="middle" class="Ls" >i /i/</text>
+<text x="120" y="314" text-anchor="middle" class="Lls" >ເC</text>
+<text x="290" y="314" text-anchor="middle" class="Ls" >e /e/</text>
+<text x="120" y="324" text-anchor="middle" class="Lls" >ໂC</text>
+<text x="290" y="324" text-anchor="middle" class="Ls" >o /o/</text>
+<text x="120" y="334" text-anchor="middle" class="Lls" >ເCາ</text>
+<text x="290" y="334" text-anchor="middle" class="Ls" >ua /uə/</text>
+<text x="120" y="344" text-anchor="middle" class="Lls" >ຼCຸ</text>
+<text x="290" y="344" text-anchor="middle" class="Ls" >u /u/</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="black" stroke-width="0.3"/>
+<text x="240" y="369" text-anchor="middle" class="H" >— SIX TONES —</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >Lao has 6 tones (some dialects 5). Tone determined by consonant class + tone marks.</text>
+<text x="100" y="389" text-anchor="middle" class="Ls" >Low</text>
+<text x="300" y="389" text-anchor="middle" class="Lx" >mid-low level: saōnā /33/</text>
+<text x="100" y="399" text-anchor="middle" class="Ls" >Mid</text>
+<text x="300" y="399" text-anchor="middle" class="Lx" >mid level: ek /33/ (same as low in some analyses)</text>
+<text x="100" y="409" text-anchor="middle" class="Ls" >High</text>
+<text x="300" y="409" text-anchor="middle" class="Lx" >high level: tho /44/</text>
+<text x="100" y="419" text-anchor="middle" class="Ls" >Rising</text>
+<text x="300" y="419" text-anchor="middle" class="Lx" >low-rising: tri /13/</text>
+<text x="100" y="429" text-anchor="middle" class="Ls" >High falling</text>
+<text x="300" y="429" text-anchor="middle" class="Lx" >high-falling: jattawa /42/</text>
+<text x="100" y="439" text-anchor="middle" class="Ls" >Low falling</text>
+<text x="300" y="439" text-anchor="middle" class="Lx" >low-falling: may ek low /21/</text>
+<line x1="20" y1="455" x2="460" y2="455" stroke="black" stroke-width="0.3"/>
+<text x="240" y="464" text-anchor="middle" class="H" >— LAO NUMERALS —</text>
+<text x="240" y="474" text-anchor="middle" class="Ll" >໐໑໒໓໔໕໖໗໘໙  (0–9)</text>
+<text x="240" y="488" text-anchor="middle" class="Ll" >10 = ໑໐  100 = ຮ້ອຍ  1000 = ພັນ</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 41A — LAO: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

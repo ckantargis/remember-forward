@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lsi{font-size:11px;}
+.Lsis{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SINHALA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >සිංහල — Script (Abugida)</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM — ABUGIDA —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Sinhala script: abugida derived from Brahmi via Old Sinhala (3rd century BCE).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Distinctive rounded letters. Written left to right. 54 letters total.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Consonants carry inherent vowel /a/. Diacritics modify or cancel the vowel.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— INDEPENDENT VOWEL LETTERS —</text>
+<text x="45" y="131" text-anchor="middle" class="Lsi" >අ</text>
+<text x="45" y="140" text-anchor="middle" class="Lx" >a</text>
+<text x="113" y="131" text-anchor="middle" class="Lsi" >ආ</text>
+<text x="113" y="140" text-anchor="middle" class="Lx" >aa</text>
+<text x="181" y="131" text-anchor="middle" class="Lsi" >ඇ</text>
+<text x="181" y="140" text-anchor="middle" class="Lx" >ae</text>
+<text x="249" y="131" text-anchor="middle" class="Lsi" >ඈ</text>
+<text x="249" y="140" text-anchor="middle" class="Lx" >aae</text>
+<text x="317" y="131" text-anchor="middle" class="Lsi" >ඉ</text>
+<text x="317" y="140" text-anchor="middle" class="Lx" >i</text>
+<text x="385" y="131" text-anchor="middle" class="Lsi" >ඊ</text>
+<text x="385" y="140" text-anchor="middle" class="Lx" >ii</text>
+<text x="45" y="145" text-anchor="middle" class="Lsi" >උ</text>
+<text x="45" y="154" text-anchor="middle" class="Lx" >u</text>
+<text x="113" y="145" text-anchor="middle" class="Lsi" >ඌ</text>
+<text x="113" y="154" text-anchor="middle" class="Lx" >uu</text>
+<text x="181" y="145" text-anchor="middle" class="Lsi" >ඏ</text>
+<text x="181" y="154" text-anchor="middle" class="Lx" >e</text>
+<text x="249" y="145" text-anchor="middle" class="Lsi" >එ</text>
+<text x="249" y="154" text-anchor="middle" class="Lx" >ee</text>
+<text x="317" y="145" text-anchor="middle" class="Lsi" >ඔ</text>
+<text x="317" y="154" text-anchor="middle" class="Lx" >o</text>
+<text x="385" y="145" text-anchor="middle" class="Lsi" >ඖ</text>
+<text x="385" y="154" text-anchor="middle" class="Lx" >oo</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— SELECTED CONSONANTS —</text>
+<text x="45" y="186" text-anchor="middle" class="Lsi" >ක</text>
+<text x="45" y="195" text-anchor="middle" class="Lx" >ka</text>
+<text x="113" y="186" text-anchor="middle" class="Lsi" >ග</text>
+<text x="113" y="195" text-anchor="middle" class="Lx" >ga</text>
+<text x="181" y="186" text-anchor="middle" class="Lsi" >ච</text>
+<text x="181" y="195" text-anchor="middle" class="Lx" >ca</text>
+<text x="249" y="186" text-anchor="middle" class="Lsi" >ජ</text>
+<text x="249" y="195" text-anchor="middle" class="Lx" >ja</text>
+<text x="317" y="186" text-anchor="middle" class="Lsi" >ට</text>
+<text x="317" y="195" text-anchor="middle" class="Lx" >ta</text>
+<text x="385" y="186" text-anchor="middle" class="Lsi" >ඩ</text>
+<text x="385" y="195" text-anchor="middle" class="Lx" >da</text>
+<text x="45" y="200" text-anchor="middle" class="Lsi" >ද</text>
+<text x="45" y="209" text-anchor="middle" class="Lx" >na</text>
+<text x="113" y="200" text-anchor="middle" class="Lsi" >ප</text>
+<text x="113" y="209" text-anchor="middle" class="Lx" >pa</text>
+<text x="181" y="200" text-anchor="middle" class="Lsi" >බ</text>
+<text x="181" y="209" text-anchor="middle" class="Lx" >ba</text>
+<text x="249" y="200" text-anchor="middle" class="Lsi" >ම</text>
+<text x="249" y="209" text-anchor="middle" class="Lx" >ma</text>
+<text x="317" y="200" text-anchor="middle" class="Lsi" >ය</text>
+<text x="317" y="209" text-anchor="middle" class="Lx" >ya</text>
+<text x="385" y="200" text-anchor="middle" class="Lsi" >ර</text>
+<text x="385" y="209" text-anchor="middle" class="Lx" >ra</text>
+<text x="45" y="214" text-anchor="middle" class="Lsi" >ල</text>
+<text x="45" y="223" text-anchor="middle" class="Lx" >la</text>
+<text x="113" y="214" text-anchor="middle" class="Lsi" >ව</text>
+<text x="113" y="223" text-anchor="middle" class="Lx" >va</text>
+<text x="181" y="214" text-anchor="middle" class="Lsi" >ස</text>
+<text x="181" y="223" text-anchor="middle" class="Lx" >sa</text>
+<text x="249" y="214" text-anchor="middle" class="Lsi" >හ</text>
+<text x="249" y="223" text-anchor="middle" class="Lx" >ha</text>
+<text x="317" y="214" text-anchor="middle" class="Lsi" >ළ</text>
+<text x="317" y="223" text-anchor="middle" class="Lx" >la(2)</text>
+<text x="385" y="214" text-anchor="middle" class="Lsi" >ෆ</text>
+<text x="385" y="223" text-anchor="middle" class="Lx" >fa</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H" >— VOWEL DIACRITICS —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls" >Vowel diacritics (pilla) are written around the base consonant:</text>
+<text x="65" y="284" text-anchor="middle" class="Lsis" >කා = ka + aa = kaa</text>
+<text x="195" y="284" text-anchor="middle" class="Lsis" >කි = ka + i = ki</text>
+<text x="325" y="284" text-anchor="middle" class="Lsis" >කු = ka + u = ku</text>
+<text x="65" y="295" text-anchor="middle" class="Lsis" >කේ = ka + ee = kee</text>
+<text x="195" y="295" text-anchor="middle" class="Lsis" >කේ = ka + oo variant</text>
+<text x="325" y="295" text-anchor="middle" class="Lsis" >කෟ = ka + o = ko</text>
+<line x1="20" y1="322" x2="460" y2="322" stroke="black" stroke-width="0.3"/>
+<text x="240" y="331" text-anchor="middle" class="H" >— SINHALA NUMERALS —</text>
+<text x="240" y="341" text-anchor="middle" class="Lsi" >෦෧෨෩෪෫෬෭෮෯  (0–9)</text>
+<text x="240" y="355" text-anchor="middle" class="Ls" >Sinhala numerals used in traditional contexts; Arabic numerals in modern use.</text>
+<line x1="20" y1="363" x2="460" y2="363" stroke="black" stroke-width="0.3"/>
+<text x="240" y="372" text-anchor="middle" class="H" >— SCRIPT HISTORY —</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Sinhala script: descended from Brahmi (Ashokan inscriptions ~3rd c BCE).</text>
+<text x="240" y="392" text-anchor="middle" class="Ls" >Oldest surviving Sinhala inscriptions: ~3rd century BCE, in caves of Sri Lanka.</text>
+<text x="240" y="402" text-anchor="middle" class="Ls" >Rounded letterforms developed through palm-leaf manuscripts (avoid leaf tearing).</text>
+<text x="240" y="412" text-anchor="middle" class="Ls" >Sinhala script used for both Sinhala and Pali (Buddhist canonical language).</text>
+<line x1="20" y1="420" x2="460" y2="420" stroke="black" stroke-width="0.3"/>
+<text x="240" y="429" text-anchor="middle" class="H" >— DIGLOSSIC REGISTERS —</text>
+<text x="240" y="439" text-anchor="middle" class="Ls" >Written (Literary) Sinhala vs. Spoken (Colloquial) Sinhala differ significantly.</text>
+<text x="240" y="449" text-anchor="middle" class="Ls" >Literary: මැමා ගයා (mama gaya = I went). Spoken: මම ගියා (mama giya).</text>
+<text x="240" y="459" text-anchor="middle" class="Ls" >Grammar, pronouns, and verb forms all differ between registers.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 44A — SINHALA: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

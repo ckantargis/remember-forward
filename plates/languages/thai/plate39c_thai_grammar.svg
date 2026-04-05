@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lt{font-size:11px;}
+.Lts{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >THAI</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SVO, ISOLATING —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Thai is an isolating language like Vietnamese. No inflection, no case markers.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Phom kin khao. I eat rice. (phom=I[male] kin=eat khao=rice)</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Politeness particles: phom (I, male), chan/dichon (I, female), khun (you).</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— POLITENESS PARTICLES —</text>
+<text x="240" y="129" text-anchor="middle" class="Ls" >Sentence-final particles mark politeness and gender:</text>
+<text x="240" y="139" text-anchor="middle" class="Ls" >khāp (male speaker) / kha (female speaker) — respectful acknowledgement.</text>
+<text x="240" y="149" text-anchor="middle" class="Ls" >na — softening/seeking agreement. Si — mild emphasis/suggestion.</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H" >— VERB SYSTEM —</text>
+<text x="240" y="176" text-anchor="middle" class="Ls" >Verbs uninflected. Tense/aspect by time words and aspect particles:</text>
+<text x="120" y="186" text-anchor="middle" class="Ls" >laeo</text>
+<text x="290" y="186" text-anchor="middle" class="Ls" >completed/already</text>
+<text x="120" y="196" text-anchor="middle" class="Ls" >yaŋ</text>
+<text x="290" y="196" text-anchor="middle" class="Ls" >still/continuing</text>
+<text x="120" y="206" text-anchor="middle" class="Ls" >ja</text>
+<text x="290" y="206" text-anchor="middle" class="Ls" >will/future intent</text>
+<text x="120" y="216" text-anchor="middle" class="Ls" >kēoap</text>
+<text x="290" y="216" text-anchor="middle" class="Ls" >about to</text>
+<text x="120" y="226" text-anchor="middle" class="Ls" >tham-mai</text>
+<text x="290" y="226" text-anchor="middle" class="Ls" >why</text>
+<text x="120" y="236" text-anchor="middle" class="Ls" >yů</text>
+<text x="290" y="236" text-anchor="middle" class="Ls" >have been doing</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="261" text-anchor="middle" class="H" >— CLASSIFIERS (LAKSANANAM) —</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >Like Vietnamese and Chinese, Thai requires classifiers with numbers.</text>
+<text x="80" y="281" text-anchor="middle" class="Lx" >khon: people</text>
+<text x="280" y="281" text-anchor="middle" class="Lx" >tua: animals, clothing</text>
+<text x="80" y="291" text-anchor="middle" class="Lx" >lam: boats, aircraft</text>
+<text x="280" y="291" text-anchor="middle" class="Lx" >khạn: books</text>
+<text x="80" y="301" text-anchor="middle" class="Lx" >bai: flat things, leaves, tickets</text>
+<text x="280" y="301" text-anchor="middle" class="Lx" >an: general small items</text>
+<text x="80" y="311" text-anchor="middle" class="Lx" >hōng: rooms</text>
+<text x="280" y="311" text-anchor="middle" class="Lx" >lang: houses/buildings</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="H" >— NEGATION AND QUESTIONS —</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >Negation: mai before verb: mai kin = not eat. mai dai = cannot/did not.</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Yes/no question: add mai at end: kin khao mai? = eat rice? (do you eat?)</text>
+<text x="240" y="374" text-anchor="middle" class="Ls" >Answer: chai (yes) / mai chai (no).</text>
+<line x1="20" y1="382" x2="460" y2="382" stroke="black" stroke-width="0.3"/>
+<text x="240" y="391" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="401" text-anchor="middle" class="Ls" >sawasdee</text>
+<text x="175" y="401" text-anchor="middle" class="Lx" >hello/goodbye</text>
+<text x="50" y="411" text-anchor="middle" class="Ls" >khop khun</text>
+<text x="175" y="411" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="421" text-anchor="middle" class="Ls" >chai</text>
+<text x="175" y="421" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="431" text-anchor="middle" class="Ls" >mai chai</text>
+<text x="175" y="431" text-anchor="middle" class="Lx" >no</text>
+<text x="50" y="441" text-anchor="middle" class="Ls" >khana thoht</text>
+<text x="175" y="441" text-anchor="middle" class="Lx" >excuse me/sorry</text>
+<text x="50" y="451" text-anchor="middle" class="Ls" >sabai dee mai?</text>
+<text x="175" y="451" text-anchor="middle" class="Lx" >how are you?</text>
+<text x="50" y="461" text-anchor="middle" class="Ls" >sabai dee</text>
+<text x="175" y="461" text-anchor="middle" class="Lx" >I am fine</text>
+<text x="50" y="471" text-anchor="middle" class="Ls" >chan rak khun</text>
+<text x="175" y="471" text-anchor="middle" class="Lx" >I love you [female]</text>
+<text x="50" y="481" text-anchor="middle" class="Ls" >phom rak khun</text>
+<text x="175" y="481" text-anchor="middle" class="Lx" >I love you [male]</text>
+<text x="50" y="491" text-anchor="middle" class="Ls" >nam</text>
+<text x="175" y="491" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="501" text-anchor="middle" class="Ls" >fai</text>
+<text x="175" y="501" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="511" text-anchor="middle" class="Ls" >din</text>
+<text x="175" y="511" text-anchor="middle" class="Lx" >earth/soil</text>
+<text x="285" y="401" text-anchor="middle" class="Ls" >khon</text>
+<text x="410" y="401" text-anchor="middle" class="Lx" >person</text>
+<text x="285" y="411" text-anchor="middle" class="Ls" >wela</text>
+<text x="410" y="411" text-anchor="middle" class="Lx" >time</text>
+<text x="285" y="421" text-anchor="middle" class="Ls" >duang jan</text>
+<text x="410" y="421" text-anchor="middle" class="Lx" >moon</text>
+<text x="285" y="431" text-anchor="middle" class="Ls" >dao</text>
+<text x="410" y="431" text-anchor="middle" class="Lx" >star</text>
+<text x="285" y="441" text-anchor="middle" class="Ls" >hua jai</text>
+<text x="410" y="441" text-anchor="middle" class="Lx" >heart</text>
+<text x="285" y="451" text-anchor="middle" class="Ls" >khwam rak</text>
+<text x="410" y="451" text-anchor="middle" class="Lx" >love</text>
+<text x="285" y="461" text-anchor="middle" class="Ls" >seriphap</text>
+<text x="410" y="461" text-anchor="middle" class="Lx" >freedom</text>
+<text x="285" y="471" text-anchor="middle" class="Ls" >khwam jam</text>
+<text x="410" y="471" text-anchor="middle" class="Lx" >memory</text>
+<text x="285" y="481" text-anchor="middle" class="Ls" >anakhot</text>
+<text x="410" y="481" text-anchor="middle" class="Lx" >future</text>
+<text x="285" y="491" text-anchor="middle" class="Ls" >lok</text>
+<text x="410" y="491" text-anchor="middle" class="Lx" >world</text>
+<text x="285" y="501" text-anchor="middle" class="Ls" >chiwit</text>
+<text x="410" y="501" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 39C — THAI: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

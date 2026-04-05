@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TAGALOG / FILIPINO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar — Focus System &amp; Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — FOCUS SYSTEM (UNIQUE) —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Tagalog has a focus/trigger system rather than standard SVO/SOV.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >The focus particle marks which argument is "in focus" (topic/pivot).</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Verb affixes change to show which semantic role is focused.</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— FOCUS TYPES —</text>
+<text x="100" y="129" text-anchor="middle" class="Ls" >Actor focus (AF)</text>
+<text x="190" y="129" text-anchor="middle" class="Ls" >-um- / mag-</text>
+<text x="360" y="129" text-anchor="middle" class="Lx" >Bumili siya ng tinapay. HE bought bread.</text>
+<text x="100" y="143" text-anchor="middle" class="Ls" >Patient/Object focus (PF)</text>
+<text x="190" y="143" text-anchor="middle" class="Ls" >-in / -hin</text>
+<text x="360" y="143" text-anchor="middle" class="Lx" >Binili niya ang tinapay. BREAD was bought by him.</text>
+<text x="100" y="157" text-anchor="middle" class="Ls" >Locative focus (LF)</text>
+<text x="190" y="157" text-anchor="middle" class="Ls" >-an</text>
+<text x="360" y="157" text-anchor="middle" class="Lx" >Binilhan niya ng tinapay ang tindahan. AT the store.</text>
+<text x="100" y="171" text-anchor="middle" class="Ls" >Benefactive focus (BF)</text>
+<text x="190" y="171" text-anchor="middle" class="Ls" >-an / i-</text>
+<text x="360" y="171" text-anchor="middle" class="Lx" >Ibinili niya siya ng tinapay. FOR her, he bought bread.</text>
+<line x1="20" y1="195" x2="460" y2="195" stroke="black" stroke-width="0.3"/>
+<text x="240" y="204" text-anchor="middle" class="H" >— ANG, NG, SA — CASE MARKERS —</text>
+<text x="240" y="214" text-anchor="middle" class="Ls" >Tagalog uses three case markers (not inflections on the noun):</text>
+<text x="80" y="224" text-anchor="middle" class="L" >ang</text>
+<text x="290" y="224" text-anchor="middle" class="Ls" >nominative / focus / definite: ang bahay (THE house)</text>
+<text x="80" y="234" text-anchor="middle" class="L" >ng /naŋ/</text>
+<text x="290" y="234" text-anchor="middle" class="Ls" >genitive/object: ng bahay (of a house)</text>
+<text x="80" y="244" text-anchor="middle" class="L" >sa</text>
+<text x="290" y="244" text-anchor="middle" class="Ls" >oblique/locative: sa bahay (at/in/to the house)</text>
+<line x1="20" y1="260" x2="460" y2="260" stroke="black" stroke-width="0.3"/>
+<text x="240" y="269" text-anchor="middle" class="H" >— LINKER — NA/NG —</text>
+<text x="240" y="279" text-anchor="middle" class="Ls" >Linker na (after consonant) / ng (after vowel) connects modifier to head.</text>
+<text x="240" y="289" text-anchor="middle" class="Ls" >magandang babae = beautiful woman (maganda + ng + babae).</text>
+<text x="240" y="299" text-anchor="middle" class="Ls" >Linker marks adjectives, relative clauses, and genitive relationships.</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="0.3"/>
+<text x="240" y="316" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="326" text-anchor="middle" class="Ls" >mabuhay</text>
+<text x="175" y="326" text-anchor="middle" class="Lx" >welcome / long live</text>
+<text x="50" y="336" text-anchor="middle" class="Ls" >salamat</text>
+<text x="175" y="336" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="346" text-anchor="middle" class="Ls" >oo</text>
+<text x="175" y="346" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="356" text-anchor="middle" class="Ls" >hindi</text>
+<text x="175" y="356" text-anchor="middle" class="Lx" >no/not</text>
+<text x="50" y="366" text-anchor="middle" class="Ls" >paumanhin</text>
+<text x="175" y="366" text-anchor="middle" class="Lx" >excuse me/sorry</text>
+<text x="50" y="376" text-anchor="middle" class="Ls" >kamusta ka?</text>
+<text x="175" y="376" text-anchor="middle" class="Lx" >how are you?</text>
+<text x="50" y="386" text-anchor="middle" class="Ls" >mabuti naman</text>
+<text x="175" y="386" text-anchor="middle" class="Lx" >I am fine/well</text>
+<text x="50" y="396" text-anchor="middle" class="Ls" >mahal kita</text>
+<text x="175" y="396" text-anchor="middle" class="Lx" >I love you</text>
+<text x="50" y="406" text-anchor="middle" class="Ls" >tubig</text>
+<text x="175" y="406" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="416" text-anchor="middle" class="Ls" >apoy</text>
+<text x="175" y="416" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="426" text-anchor="middle" class="Ls" >lupa</text>
+<text x="175" y="426" text-anchor="middle" class="Lx" >earth/land</text>
+<text x="285" y="326" text-anchor="middle" class="Ls" >tao</text>
+<text x="410" y="326" text-anchor="middle" class="Lx" >person</text>
+<text x="285" y="336" text-anchor="middle" class="Ls" >oras</text>
+<text x="410" y="336" text-anchor="middle" class="Lx" >time</text>
+<text x="285" y="346" text-anchor="middle" class="Ls" >buwan</text>
+<text x="410" y="346" text-anchor="middle" class="Lx" >moon</text>
+<text x="285" y="356" text-anchor="middle" class="Ls" >bituin</text>
+<text x="410" y="356" text-anchor="middle" class="Lx" >star</text>
+<text x="285" y="366" text-anchor="middle" class="Ls" >puso</text>
+<text x="410" y="366" text-anchor="middle" class="Lx" >heart</text>
+<text x="285" y="376" text-anchor="middle" class="Ls" >pagmamahal</text>
+<text x="410" y="376" text-anchor="middle" class="Lx" >love</text>
+<text x="285" y="386" text-anchor="middle" class="Ls" >kalayaan</text>
+<text x="410" y="386" text-anchor="middle" class="Lx" >freedom</text>
+<text x="285" y="396" text-anchor="middle" class="Ls" >alaala</text>
+<text x="410" y="396" text-anchor="middle" class="Lx" >memory/remembrance</text>
+<text x="285" y="406" text-anchor="middle" class="Ls" >kinabukasan</text>
+<text x="410" y="406" text-anchor="middle" class="Lx" >future/tomorrow</text>
+<text x="285" y="416" text-anchor="middle" class="Ls" >mundo</text>
+<text x="410" y="416" text-anchor="middle" class="Lx" >world</text>
+<text x="285" y="426" text-anchor="middle" class="Ls" >buhay</text>
+<text x="410" y="426" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 42C — TAGALOG: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

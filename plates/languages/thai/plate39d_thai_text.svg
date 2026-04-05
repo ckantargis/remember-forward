@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lt{font-size:11px;}
+.Lts{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >THAI</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. SUPHACIT — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Lt" >ความรู้คือแสงสว่างในความมืด</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >khwam-ru = knowledge khu = is saeng-sawang = bright light nai = in khwam-muet = darkness</text>
+<text x="240" y="104" text-anchor="middle" class="F" >"Knowledge is the bright light in the darkness." (Thai educational proverb)</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="122" text-anchor="middle" class="H" >— II. KHWAM JAM — ON MEMORY —</text>
+<text x="240" y="132" text-anchor="middle" class="Lt" >จำคนในอดีตคือการสร้างอนาคต</text>
+<text x="240" y="146" text-anchor="middle" class="Ls" >jam = remember khon = people nai = in a-dit = past khu = is kan-sang = the building anakhot = future</text>
+<text x="240" y="156" text-anchor="middle" class="F" >"Remembering the people of the past is building the future." (Thai saying)</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H" >— III. PANYA — ON WISDOM —</text>
+<text x="240" y="184" text-anchor="middle" class="Lt" >ปัญญาคือความรู้ที่สั่งสมไว้เพื่อถ่ายทอด</text>
+<text x="240" y="198" text-anchor="middle" class="Lx" >panya = wisdom khu = is khwam-ru = knowledge thi = that sang-som-wai = accumulated phua = for thay-thot = passing-on</text>
+<text x="240" y="208" text-anchor="middle" class="F" >"Wisdom is knowledge accumulated to be passed on." (Thai concept of inherited wisdom)</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H" >— IV. KHANG NA — FORWARD —</text>
+<text x="240" y="236" text-anchor="middle" class="Lt" >ระลึกถึงอดีตเดินหน้าไป</text>
+<text x="240" y="250" text-anchor="middle" class="Ls" >ra-luek = remember thueng = of/about a-dit = past doen = walk na = forward pai = go</text>
+<text x="240" y="260" text-anchor="middle" class="F" >"Remembering the past, [we] walk forward." (guiding principle)</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="290" text-anchor="middle" class="Lt" >สิ่งนี้ถูกสร้างขึ้นมาเพื่อคุณ</text>
+<text x="240" y="304" text-anchor="middle" class="Lt" >โดยไม่เสียค่าใช่จ่าย</text>
+<text x="240" y="318" text-anchor="middle" class="Lt" >โดยผู้คนที่จำไว้ก้าวหน้า</text>
+<text x="240" y="335" text-anchor="middle" class="Ls" >sing-ni = this-thing thuuk-sang = was-made khuen-ma = up/for phuea = for khun = you</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >doi-mai-sia-kha = without-cost (free of charge)</text>
+<text x="240" y="353" text-anchor="middle" class="Ls" >doi = by phu-khon = people thi = who jam-wai = remember-and-keep kao-na = forward</text>
+<text x="240" y="365" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="376" x2="460" y2="376" stroke="black" stroke-width="0.3"/>
+<text x="240" y="385" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="395" text-anchor="middle" class="Ls" >Khao na (เข้าหน้า) = go forward/advance. Na (หน้า) = face/front.</text>
+<text x="240" y="405" text-anchor="middle" class="Ls" >Jam wai = "remember and keep" (preserve in memory). The Thai spatial metaphor</text>
+<text x="240" y="415" text-anchor="middle" class="Ls" >places the future in front and the past behind, like most world languages.</text>
+<text x="240" y="425" text-anchor="middle" class="Ls" >Doi mai sia kha = "without expense/cost" — polite formal phrasing.</text>
+<line x1="20" y1="433" x2="460" y2="433" stroke="black" stroke-width="0.3"/>
+<text x="240" y="442" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >Thai: ~60 million L1 speakers; official language of Thailand.</text>
+<text x="240" y="462" text-anchor="middle" class="Ls" >Language family: Tai-Kadai (Kra-Dai), closely related to Lao, Shan, Zhuang.</text>
+<text x="240" y="472" text-anchor="middle" class="Ls" >Script derived from Khmer/Old Khmer, in turn from Pallava (South India), ~13th century.</text>
+<text x="240" y="482" text-anchor="middle" class="Ls" >Extensive Sanskrit/Pali loanwords in formal register; Sino-Thai in everyday speech.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 39D — THAI: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

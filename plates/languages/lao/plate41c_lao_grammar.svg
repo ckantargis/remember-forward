@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Ll{font-size:11px;}
+.Lls{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LAO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SVO, ISOLATING —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Lao is SVO and isolating, like Thai. No inflection; particles carry meaning.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Khoi kin khao. I eat rice. (khoi=I kin=eat khao=rice)</text>
+<line x1="20" y1="100" x2="460" y2="100" stroke="black" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="H" >— PRONOUNS AND POLITENESS —</text>
+<text x="120" y="119" text-anchor="middle" class="L" >khoi</text>
+<text x="300" y="119" text-anchor="middle" class="Ls" >I (standard/neutral)</text>
+<text x="120" y="129" text-anchor="middle" class="L" >khao</text>
+<text x="300" y="129" text-anchor="middle" class="Ls" >he/she/they</text>
+<text x="120" y="139" text-anchor="middle" class="L" >jao</text>
+<text x="300" y="139" text-anchor="middle" class="Ls" >you (informal)</text>
+<text x="120" y="149" text-anchor="middle" class="L" >than</text>
+<text x="300" y="149" text-anchor="middle" class="Ls" >you (respectful)</text>
+<text x="120" y="159" text-anchor="middle" class="L" >phualao</text>
+<text x="300" y="159" text-anchor="middle" class="Ls" >we (incl)</text>
+<text x="120" y="169" text-anchor="middle" class="L" >phakkhao</text>
+<text x="300" y="169" text-anchor="middle" class="Ls" >they (group)</text>
+<line x1="20" y1="185" x2="460" y2="185" stroke="black" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H" >— VERB PARTICLES —</text>
+<text x="80" y="204" text-anchor="middle" class="Lx" >laeo = already/completed</text>
+<text x="280" y="204" text-anchor="middle" class="Lx" >si = future</text>
+<text x="80" y="214" text-anchor="middle" class="Lx" >yang = still</text>
+<text x="280" y="214" text-anchor="middle" class="Lx" >kamlang = progressive</text>
+<text x="80" y="224" text-anchor="middle" class="Lx" >ja = will/about to</text>
+<text x="280" y="224" text-anchor="middle" class="Lx" >ko = also/then</text>
+<line x1="20" y1="250" x2="460" y2="250" stroke="black" stroke-width="0.3"/>
+<text x="240" y="259" text-anchor="middle" class="H" >— CLASSIFIERS —</text>
+<text x="80" y="269" text-anchor="middle" class="Lx" >khon: people</text>
+<text x="280" y="269" text-anchor="middle" class="Lx" >tua: animals</text>
+<text x="80" y="279" text-anchor="middle" class="Lx" >bai: flat things</text>
+<text x="280" y="279" text-anchor="middle" class="Lx" >kan: tools/instruments</text>
+<text x="80" y="289" text-anchor="middle" class="Lx" >hon: houses</text>
+<text x="280" y="289" text-anchor="middle" class="Lx" >kham: words</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="black" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="329" text-anchor="middle" class="Ls" >sabaidi</text>
+<text x="175" y="329" text-anchor="middle" class="Lx" >hello / well-being</text>
+<text x="50" y="339" text-anchor="middle" class="Ls" >khop jai</text>
+<text x="175" y="339" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="349" text-anchor="middle" class="Ls" >muen</text>
+<text x="175" y="349" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="359" text-anchor="middle" class="Ls" >boh</text>
+<text x="175" y="359" text-anchor="middle" class="Lx" >no/not</text>
+<text x="50" y="369" text-anchor="middle" class="Ls" >khothot</text>
+<text x="175" y="369" text-anchor="middle" class="Lx" >excuse me</text>
+<text x="50" y="379" text-anchor="middle" class="Ls" >jao sabai di boh?</text>
+<text x="175" y="379" text-anchor="middle" class="Lx" >how are you?</text>
+<text x="50" y="389" text-anchor="middle" class="Ls" >khoi sabai di</text>
+<text x="175" y="389" text-anchor="middle" class="Lx" >I am fine</text>
+<text x="50" y="399" text-anchor="middle" class="Ls" >khoi hak jao</text>
+<text x="175" y="399" text-anchor="middle" class="Lx" >I love you</text>
+<text x="50" y="409" text-anchor="middle" class="Ls" >nam</text>
+<text x="175" y="409" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="419" text-anchor="middle" class="Ls" >fai</text>
+<text x="175" y="419" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="429" text-anchor="middle" class="Ls" >din</text>
+<text x="175" y="429" text-anchor="middle" class="Lx" >earth</text>
+<text x="50" y="439" text-anchor="middle" class="Ls" >khon</text>
+<text x="175" y="439" text-anchor="middle" class="Lx" >person</text>
+<text x="285" y="329" text-anchor="middle" class="Ls" >wela</text>
+<text x="410" y="329" text-anchor="middle" class="Lx" >time</text>
+<text x="285" y="339" text-anchor="middle" class="Ls" >duan</text>
+<text x="410" y="339" text-anchor="middle" class="Lx" >moon</text>
+<text x="285" y="349" text-anchor="middle" class="Ls" >dao</text>
+<text x="410" y="349" text-anchor="middle" class="Lx" >star</text>
+<text x="285" y="359" text-anchor="middle" class="Ls" >hua jai</text>
+<text x="410" y="359" text-anchor="middle" class="Lx" >heart</text>
+<text x="285" y="369" text-anchor="middle" class="Ls" >khwam hak</text>
+<text x="410" y="369" text-anchor="middle" class="Lx" >love</text>
+<text x="285" y="379" text-anchor="middle" class="Ls" >seli phap</text>
+<text x="410" y="379" text-anchor="middle" class="Lx" >freedom</text>
+<text x="285" y="389" text-anchor="middle" class="Ls" >khwam jam</text>
+<text x="410" y="389" text-anchor="middle" class="Lx" >memory</text>
+<text x="285" y="399" text-anchor="middle" class="Ls" >anakhot</text>
+<text x="410" y="399" text-anchor="middle" class="Lx" >future</text>
+<text x="285" y="409" text-anchor="middle" class="Ls" >lok</text>
+<text x="410" y="409" text-anchor="middle" class="Lx" >world</text>
+<text x="285" y="419" text-anchor="middle" class="Ls" >chiwitkan</text>
+<text x="410" y="419" text-anchor="middle" class="Lx" >life</text>
+<text x="285" y="429" text-anchor="middle" class="Ls" >na</text>
+<text x="410" y="429" text-anchor="middle" class="Lx" >forward / face / front</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 41C — LAO: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

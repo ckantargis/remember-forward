@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TAGALOG / FILIPINO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. SALAWIKAIN — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Ls" >Ang hindi marunong lumingon sa pinanggalingan ay hindi makararating sa paroroonan.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >hindi=not marunong=know lumingon=look-back pinanggalingan=origin</text>
+<text x="240" y="100" text-anchor="middle" class="Ls" >hindi=not makararating=reach paroroonan=destination</text>
+<text x="240" y="110" text-anchor="middle" class="F" >"One who does not look back at where they came from will not reach their destination."</text>
+<line x1="20" y1="119" x2="460" y2="119" stroke="black" stroke-width="0.3"/>
+<text x="240" y="128" text-anchor="middle" class="H" >— II. ALAALA — ON MEMORY —</text>
+<text x="240" y="138" text-anchor="middle" class="L" >Ang alaala ng nakaraan ay gabay sa kinabukasan.</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >alaala=memory nakaraan=the-past gabay=guide kinabukasan=future/tomorrow</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"The memory of the past is a guide to the future." (Filipino saying)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. KAALAMAN — ON KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="L" >Ang kaalaman ay kayamanan na hindi mananakaw.</text>
+<text x="240" y="196" text-anchor="middle" class="Ls" >kaalaman=knowledge kayamanan=wealth hindi=not mananakaw=can-be-stolen</text>
+<text x="240" y="206" text-anchor="middle" class="F" >"Knowledge is wealth that cannot be stolen." (Filipino educational proverb)</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H" >— IV. PASULONG — FORWARD —</text>
+<text x="240" y="234" text-anchor="middle" class="Ls" >Lumalakad tayong pasulong habang inaalala ang mga nauna sa atin.</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >lumalakad=walk tayo=we pasulong=forward habang=while inaalala=remembering</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >mga=plural-marker nauna=those-who-came-before atin=us</text>
+<text x="240" y="264" text-anchor="middle" class="F" >"We walk forward while remembering those who came before us." (guiding principle)</text>
+<line x1="20" y1="273" x2="460" y2="273" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="294" text-anchor="middle" class="L" >Ang bagay na ito ay ginawa para sa iyo, nang libre,</text>
+<text x="240" y="304" text-anchor="middle" class="L" >ng mga taong nagtatandang pasulong.</text>
+<text x="240" y="318" text-anchor="middle" class="Ls" >bagay-na-ito=this-thing ginawa=was-made para-sa-iyo=for-you</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >nang-libre=freely (without cost)</text>
+<text x="240" y="336" text-anchor="middle" class="Ls" >ng-mga-tao=by-people nagtatandang=who-remember pasulong=forward</text>
+<text x="240" y="348" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="359" x2="460" y2="359" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Pasulong = "forward / ahead" (from pa- directional + sulong = advance).</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >Nagtatandang pasulong = "who remember forward" — the -ng linker attaches pasulong</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >to nagtatanda as an adverb of direction. Nang libre = "freely/at no cost."</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >Philippine concept of utang na loob (debt of gratitude) inverted: this gift has none.</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Tagalog: ~25 million L1 speakers; basis of Filipino, national language of Philippines.</text>
+<text x="240" y="445" text-anchor="middle" class="Ls" >Language family: Austronesian, Malayo-Polynesian, Philippine branch.</text>
+<text x="240" y="455" text-anchor="middle" class="Ls" >Related: Cebuano, Ilocano, Hiligaynon, Malay/Indonesian, Malagasy.</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >Spanish influence ~333 years (1565-1898); English since 1898 (US period).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 42D — TAGALOG: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

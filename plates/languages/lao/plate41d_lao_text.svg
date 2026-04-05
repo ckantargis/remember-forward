@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Ll{font-size:11px;}
+.Lls{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LAO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. PHAXITH — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Ll" >ໄດ້ຢິນ ເບິ່ງດີ ບໍ່ເຕັ້ນຕົບເງິນ</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >dai-yin beuang-di boh-tan-top-ngoen = received-hearing good cannot-answer-money</text>
+<text x="240" y="104" text-anchor="middle" class="F" >"Good advice received cannot be repaid with money." (Lao proverb on wisdom)</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="122" text-anchor="middle" class="H" >— II. KHWAM JAM — ON MEMORY —</text>
+<text x="240" y="132" text-anchor="middle" class="Ll" >ການໄວ້ໃຈ ຂອງຄົນໃນອດີຕ ເປັນໂຊກຊະຕາເດີນນາ</text>
+<text x="240" y="146" text-anchor="middle" class="Ls" >kan-wai-chai khong-khon nai-a-dit pen-chok-cha-ta-doen-na</text>
+<text x="240" y="156" text-anchor="middle" class="F" >"Trusting the people of the past is the good fortune that moves us forward."</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H" >— III. SANYALAK — ON KNOWLEDGE —</text>
+<text x="240" y="184" text-anchor="middle" class="Ll" >ພູມີປັນຍາ ຜູ້ນັ້ນບໍ່ເຄຍອດຫອກ</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >phu-mi-panya phunun boh-koei-ot-hok = one-who-has-wisdom that-one never-thirsty</text>
+<text x="240" y="208" text-anchor="middle" class="F" >"One who has wisdom is never thirsty [for understanding]." (Lao educational saying)</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H" >— IV. NA — FORWARD —</text>
+<text x="240" y="236" text-anchor="middle" class="Ll" >ຮາເດີນນາ ໂດຍຈົ່ບໍ່ລືມຕົນເຫງໃນອດີຕ</text>
+<text x="240" y="250" text-anchor="middle" class="Ls" >hao-doen-na doi-job-boh-leum ton-heng nai-a-dit</text>
+<text x="240" y="260" text-anchor="middle" class="F" >"We walk forward without forgetting our roots in the past." (guiding principle)</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="290" text-anchor="middle" class="Ll" >ສິ່ງນີ້ເປັນສິ່ງທີ່ທໍຯສາງໃຫ້ເຈົ້ສົ</text>
+<text x="240" y="304" text-anchor="middle" class="Ll" >ບໍ່ເພີຍໃຊ້ເງິນ ໂດຍຜູ້ຄົນທີ່ຈົ່ນຳໃຈນາ</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >sing-ni pen-sing-thi-thao-sang-hai-jao = this-thing is-the-thing-that-they-made-for-you</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >boh-phia-chai-ngoen = without-cost (free) doi-phu-khon = by-people</text>
+<text x="240" y="338" text-anchor="middle" class="Ls" >thi-job-nam-jai-na = who-hold-the-spirit-forward</text>
+<text x="240" y="350" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="361" x2="460" y2="361" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="380" text-anchor="middle" class="Ls" >Na (ໜ້າ) = face/front/forward. Nam-jai (ນຳໃຈ) = "water-heart" = spirit/memory/intention.</text>
+<text x="240" y="390" text-anchor="middle" class="Ls" >Job-nam-jai-na = "hold the spirit forward" captures deliberate forward memory.</text>
+<text x="240" y="400" text-anchor="middle" class="Ls" >Boh-phia-chai-ngoen = "not necessary to pay money" = free of charge.</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="black" stroke-width="0.3"/>
+<text x="240" y="417" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="427" text-anchor="middle" class="Ls" >Lao: ~7 million L1 speakers; official language of Laos.</text>
+<text x="240" y="437" text-anchor="middle" class="Ls" >Language family: Tai-Kadai (Kra-Dai), same branch as Thai, Shan, Zhuang.</text>
+<text x="240" y="447" text-anchor="middle" class="Ls" >Spoken across Isan (northeastern Thailand) by ~20 million as a dialect of Lao/Thai.</text>
+<text x="240" y="457" text-anchor="middle" class="Ls" >Script: closely related to Thai script, both from Khmer/Brahmic origin.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 41D — LAO: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

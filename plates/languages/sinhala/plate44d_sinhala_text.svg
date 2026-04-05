@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lsi{font-size:11px;}
+.Lsis{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SINHALA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. WACHANA — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Lsi" >ගෙදර ගස්සෙන් පෙනෙන්නට එය් යායි.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >gedara gassenin penennaata ey yayi = home from-outside trying-to-see only go</text>
+<text x="240" y="104" text-anchor="middle" class="F" >"[Do not try to] understand your own home only from the outside." (Sinhala proverb on wisdom)</text>
+<line x1="20" y1="113" x2="460" y2="113" stroke="black" stroke-width="0.3"/>
+<text x="240" y="122" text-anchor="middle" class="H" >— II. SMARANA — ON MEMORY —</text>
+<text x="240" y="132" text-anchor="middle" class="Lsi" >ඊතට ගිය ඉතිහාසය පිලිකේ කරන්නට ආකාරය්</text>
+<text x="240" y="146" text-anchor="middle" class="Ls" >iyata giya ithihasaya pililikee karannaata aakaara = those who-went history to-reflect way</text>
+<text x="240" y="156" text-anchor="middle" class="F" >"The way to illuminate history is to reflect on those who have gone before us."</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H" >— III. JNANA — ON KNOWLEDGE —</text>
+<text x="240" y="184" text-anchor="middle" class="Lsi" >ගියාවීන් කගෙන් හැයියාම ල්ලාඨ්යෙන්</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >giyavin kagen haeyiyaa llaadyen = from those-who-went lighting burning = light taken from past</text>
+<text x="240" y="208" text-anchor="middle" class="F" >"The light is taken from those who have gone before." (Sinhala saying on inherited wisdom)</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H" >— IV. ANUWA — FORWARD —</text>
+<text x="240" y="236" text-anchor="middle" class="Lsi" >ආපි ඉදිරියට යන්නට ඊතට ගියවුන් ස්මරන කරනා</text>
+<text x="240" y="250" text-anchor="middle" class="Ls" >aapit idiriyata yannata iitaata giyavun smarana karana</text>
+<text x="240" y="260" text-anchor="middle" class="F" >"While moving forward together, remembering those who went ahead." (guiding concept)</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="290" text-anchor="middle" class="Lsi" >මම මීය ඉදිරියට කයා කරන්ලට ස්මරන කරන ග඼යන්ට</text>
+<text x="240" y="304" text-anchor="middle" class="Lsi" >මීය ඒබට නිර෍මේළිය කරේළි.</text>
+<text x="240" y="320" text-anchor="middle" class="Ls" >mama mee idiiriyata kaya karanlaata smarana kara giyanta</text>
+<text x="240" y="329" text-anchor="middle" class="Ls" >mee oba ata nirmela kereeli = this for-you freely was-made</text>
+<text x="240" y="341" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="352" x2="460" y2="352" stroke="black" stroke-width="0.3"/>
+<text x="240" y="361" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="371" text-anchor="middle" class="Ls" >Idiriya (ඉදිරිය) = forward/front/ahead. Nirmela = free of charge/pure/free.</text>
+<text x="240" y="381" text-anchor="middle" class="Ls" >Sinhala SOV structure places the main verb at the end: subject + object + verb.</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >The forward-memory concept in Sinhala connects to Buddhist concept of karmic continuity.</text>
+<line x1="20" y1="399" x2="460" y2="399" stroke="black" stroke-width="0.3"/>
+<text x="240" y="408" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="418" text-anchor="middle" class="Ls" >Sinhala: ~17 million L1 speakers; official language of Sri Lanka.</text>
+<text x="240" y="428" text-anchor="middle" class="Ls" >Language family: Indo-European, Indo-Aryan, insular branch (isolated from mainland).</text>
+<text x="240" y="438" text-anchor="middle" class="Ls" >Settled in Sri Lanka ~5th century BCE from northern India. Rich Pali Buddhist tradition.</text>
+<text x="240" y="448" text-anchor="middle" class="Ls" >Sinhala diverged significantly from other Indo-Aryan languages due to island isolation.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 44D — SINHALA: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

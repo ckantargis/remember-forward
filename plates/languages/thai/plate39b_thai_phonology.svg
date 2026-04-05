@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lt{font-size:11px;}
+.Lts{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >THAI</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Five Tones and Sound System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— FIVE-TONE SYSTEM —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Thai (Bangkok) has 5 phonemic tones. Tone is determined by consonant class + tone marks.</text>
+<text x="90" y="92" text-anchor="middle" class="Ls" >Mid (saōnā)</text>
+<text x="210" y="92" text-anchor="middle" class="Lx" >mid level 33</text>
+<text x="370" y="92" text-anchor="middle" class="Lx" >kao = he/she (mid class, no mark)</text>
+<text x="90" y="103" text-anchor="middle" class="Ls" >Low (ek)</text>
+<text x="210" y="103" text-anchor="middle" class="Lx" >low falling 21</text>
+<text x="370" y="103" text-anchor="middle" class="Lx" >kào = news/rice (low class, mai ek)</text>
+<text x="90" y="114" text-anchor="middle" class="Ls" >Falling (tho)</text>
+<text x="210" y="114" text-anchor="middle" class="Lx" >high falling 51</text>
+<text x="370" y="114" text-anchor="middle" class="Lx" >kâo = nine (mid class, mai tho)</text>
+<text x="90" y="125" text-anchor="middle" class="Ls" >High (tri)</text>
+<text x="210" y="125" text-anchor="middle" class="Lx" >high rising 45</text>
+<text x="370" y="125" text-anchor="middle" class="Lx" >kāo = enter (high class, no mark)</text>
+<text x="90" y="136" text-anchor="middle" class="Ls" >Rising (jattawa)</text>
+<text x="210" y="136" text-anchor="middle" class="Lx" >low dipping 213</text>
+<text x="370" y="136" text-anchor="middle" class="Lx" >kǎo = white (mid class, mai jattawa)</text>
+<line x1="20" y1="153" x2="460" y2="153" stroke="black" stroke-width="0.3"/>
+<text x="240" y="162" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="172" text-anchor="middle" class="Ls" >Initial consonants: 21 distinct sounds. Final consonants: 8 allowed (-k, -t, -p, -m, -n, -ng, -j, -w).</text>
+<text x="65" y="182" text-anchor="middle" class="Lx" >/p/ bilabial stop</text>
+<text x="195" y="182" text-anchor="middle" class="Lx" >/pʰ/ aspirated bilabial</text>
+<text x="325" y="182" text-anchor="middle" class="Lx" >/b/ bilabial stop vd</text>
+<text x="65" y="192" text-anchor="middle" class="Lx" >/t/ alveolar stop</text>
+<text x="195" y="192" text-anchor="middle" class="Lx" >/tʰ/ aspirated alveolar</text>
+<text x="325" y="192" text-anchor="middle" class="Lx" >/d/ alveolar stop vd</text>
+<text x="65" y="202" text-anchor="middle" class="Lx" >/k/ velar stop</text>
+<text x="195" y="202" text-anchor="middle" class="Lx" >/kʰ/ aspirated velar</text>
+<text x="325" y="202" text-anchor="middle" class="Lx" >/ʔ/ glottal stop</text>
+<text x="65" y="212" text-anchor="middle" class="Lx" >/tɕ/ palatal affricate</text>
+<text x="195" y="212" text-anchor="middle" class="Lx" >/tɕʰ/ aspirated palatal</text>
+<text x="325" y="212" text-anchor="middle" class="Lx" >/f/ labiodental</text>
+<text x="65" y="222" text-anchor="middle" class="Lx" >/s/ alveolar fric</text>
+<text x="195" y="222" text-anchor="middle" class="Lx" >/h/ glottal</text>
+<text x="325" y="222" text-anchor="middle" class="Lx" >/m/ bilabial nasal</text>
+<text x="65" y="232" text-anchor="middle" class="Lx" >/n/ alveolar nasal</text>
+<text x="195" y="232" text-anchor="middle" class="Lx" >/ŋ/ velar nasal</text>
+<text x="325" y="232" text-anchor="middle" class="Lx" >/l/ lateral</text>
+<text x="65" y="242" text-anchor="middle" class="Lx" >/r/ trill</text>
+<text x="195" y="242" text-anchor="middle" class="Lx" >/w/ labio-velar</text>
+<text x="325" y="242" text-anchor="middle" class="Lx" >/j/ palatal</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H" >— VOWEL SYSTEM — 21 VOWELS (SHORT + LONG) —</text>
+<text x="240" y="294" text-anchor="middle" class="Ls" >Thai distinguishes vowel length: short/long pairs. 9 short + 9 long + 3 triphthongs.</text>
+<text x="240" y="304" text-anchor="middle" class="Ls" >Short: /a ɪ ɯ ʊ ɛ e ɔ o ɐ/  Long: /aː iː ɯː uː ɛː eː ɔː oː ɐː/</text>
+<line x1="20" y1="312" x2="460" y2="312" stroke="black" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H" >— TONE CALCULATION RULES —</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >Tone depends on: (1) consonant class (high/mid/low), (2) syllable type (live/dead),</text>
+<text x="240" y="341" text-anchor="middle" class="Ls" >(3) tone mark present. Dead syllable = ends in stop or short vowel.</text>
+<text x="240" y="351" text-anchor="middle" class="Ls" >Mid class + no mark + live = mid tone. Mid class + no mark + dead = low tone.</text>
+<text x="240" y="361" text-anchor="middle" class="Ls" >High class consonant raises tones. Low class consonant lowers tones.</text>
+<line x1="20" y1="369" x2="460" y2="369" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H" >— BORROWED SOUNDS —</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >Foreign loanwords may use /v/, /f/ (limited), and complex onsets (kr-, kl-, pr-, pl-, tr-).</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >English loanwords common: อินเตอร์ (internet), โทรศัพท์ (telephone).</text>
+<line x1="20" y1="406" x2="460" y2="406" stroke="black" stroke-width="0.3"/>
+<text x="240" y="415" text-anchor="middle" class="H" >— PHONOTACTICS —</text>
+<text x="240" y="425" text-anchor="middle" class="Ls" >No consonant clusters in coda. Onset clusters limited to: stop/nasal + r/l/w.</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Syllable: (C)(C)V(V)(C)(T) — T = tone. CV is minimal syllable.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 39B — THAI: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

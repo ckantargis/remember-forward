@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >VIETNAMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script — Chữ Quốc Ngữ (National Script)</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Vietnamese uses Chữ Quốc Ngữ, a Latin-based alphabet with diacritics.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Developed by Portuguese missionaries (17th c.), standardised in French colonial era.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Two types of diacritics: (1) letter modifiers (shape), (2) tone marks (pitch).</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— MODIFIED LETTERS —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Each modifier creates a distinct vowel quality:</text>
+<text x="80" y="141" text-anchor="middle" class="L" >â / Â</text>
+<text x="300" y="141" text-anchor="middle" class="Lx" >/ɐ/ — a with circumflex: ân (grace), bây (seven)</text>
+<text x="80" y="151" text-anchor="middle" class="L" >ă / Ă</text>
+<text x="300" y="151" text-anchor="middle" class="Lx" >/æ/ — a with breve: ăn (eat), băm (press)</text>
+<text x="80" y="161" text-anchor="middle" class="L" >ê / Ê</text>
+<text x="300" y="161" text-anchor="middle" class="Lx" >/e/ — e with circumflex: êm (warm), đêm (night)</text>
+<text x="80" y="171" text-anchor="middle" class="L" >ô / Ô</text>
+<text x="300" y="171" text-anchor="middle" class="Lx" >/o/ — o with circumflex: ông (grandfather), cô (aunt)</text>
+<text x="80" y="181" text-anchor="middle" class="L" >ơ / O+</text>
+<text x="300" y="181" text-anchor="middle" class="Lx" >/ə/ — o with horn: ơn (debt), trơi (sky)</text>
+<text x="80" y="191" text-anchor="middle" class="L" >ư / U+</text>
+<text x="300" y="191" text-anchor="middle" class="Lx" >/ɯ/ — u with horn: ước (wish), ưu (wish for)</text>
+<text x="80" y="201" text-anchor="middle" class="L" >đ / D-</text>
+<text x="300" y="201" text-anchor="middle" class="Lx" >/d/ — d with stroke: đây (here), đó (that)</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="black" stroke-width="0.3"/>
+<text x="240" y="227" text-anchor="middle" class="H" >— SIX TONES — DIACRITIC MARKS —</text>
+<text x="60" y="237" text-anchor="middle" class="L" >a (no mark)</text>
+<text x="140" y="237" text-anchor="middle" class="Ls" >ngang / flat</text>
+<text x="330" y="237" text-anchor="middle" class="Lx" >mid level: a = ah (interjection)</text>
+<text x="60" y="248" text-anchor="middle" class="L" >à (grave)</text>
+<text x="140" y="248" text-anchor="middle" class="Ls" >huyền / falling</text>
+<text x="330" y="248" text-anchor="middle" class="Lx" >low falling: à = but, then</text>
+<text x="60" y="259" text-anchor="middle" class="L" >á (acute)</text>
+<text x="140" y="259" text-anchor="middle" class="Ls" >sắc / rising</text>
+<text x="330" y="259" text-anchor="middle" class="Lx" >high rising: á = ah! (exclamation)</text>
+<text x="60" y="270" text-anchor="middle" class="L" >ả (hook)</text>
+<text x="140" y="270" text-anchor="middle" class="Ls" >hỏi / dipping</text>
+<text x="330" y="270" text-anchor="middle" class="Lx" >mid dipping-rising: hỏi = to ask</text>
+<text x="60" y="281" text-anchor="middle" class="L" >ã (tilde)</text>
+<text x="140" y="281" text-anchor="middle" class="Ls" >ngã / broken</text>
+<text x="330" y="281" text-anchor="middle" class="Lx" >high broken/glottalised: ngã = to fall</text>
+<text x="60" y="292" text-anchor="middle" class="L" >ạ (dot)</text>
+<text x="140" y="292" text-anchor="middle" class="Ls" >nặng / heavy</text>
+<text x="330" y="292" text-anchor="middle" class="Lx" >low glottalised-falling: nặng = heavy</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="black" stroke-width="0.3"/>
+<text x="240" y="317" text-anchor="middle" class="H" >— ALPHABET — 29 LETTERS —</text>
+<text x="240" y="327" text-anchor="middle" class="Ls" >A Â Ă B C D Đ E Ê G H I K L M N O Ô Ơ P Q R S T U Ư V X Y</text>
+<text x="240" y="337" text-anchor="middle" class="Lx" >Note: F, J, W, Z appear only in loanwords. C=/k/, X=/s/, Y=/j/.</text>
+<line x1="20" y1="345" x2="460" y2="345" stroke="black" stroke-width="0.3"/>
+<text x="240" y="354" text-anchor="middle" class="H" >— HISTORICAL SCRIPTS —</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Chữ Nôm: logographic script based on Chinese characters, used ~10th-19th century.</text>
+<text x="240" y="373" text-anchor="middle" class="Ls" >Chữ Hán: Classical Chinese used for official/literary writing before French era.</text>
+<text x="240" y="382" text-anchor="middle" class="Ls" >Chữ Quốc Ngữ became official in 1910 (French mandate), now universal.</text>
+<line x1="20" y1="390" x2="460" y2="390" stroke="black" stroke-width="0.3"/>
+<text x="240" y="399" text-anchor="middle" class="H" >— NUMERALS —</text>
+<text x="60" y="409" text-anchor="middle" class="Lx" >0=không</text>
+<text x="155" y="409" text-anchor="middle" class="Lx" >1=một</text>
+<text x="250" y="409" text-anchor="middle" class="Lx" >2=hai</text>
+<text x="345" y="409" text-anchor="middle" class="Lx" >3=ba</text>
+<text x="60" y="419" text-anchor="middle" class="Lx" >4=bốn</text>
+<text x="155" y="419" text-anchor="middle" class="Lx" >5=năm</text>
+<text x="250" y="419" text-anchor="middle" class="Lx" >6=sáu</text>
+<text x="345" y="419" text-anchor="middle" class="Lx" >7=bảy</text>
+<text x="60" y="429" text-anchor="middle" class="Lx" >8=tám</text>
+<text x="155" y="429" text-anchor="middle" class="Lx" >9=chín</text>
+<text x="250" y="429" text-anchor="middle" class="Lx" >10=mười</text>
+<text x="240" y="439" text-anchor="middle" class="Ls" >100 = một trăm · 1000 = một nghìn · 1,000,000 = một triệu</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 38A — VIETNAMESE: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

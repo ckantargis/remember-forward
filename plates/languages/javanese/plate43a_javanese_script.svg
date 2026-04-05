@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >JAVANESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Basa Jawa — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEMS —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Javanese uses three scripts in different contexts:</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >(1) Hanacaraka / Aksara Jawa: traditional Brahmi-derived abugida.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >(2) Latin (Pegon-influenced): used in modern education and daily writing.</text>
+<text x="240" y="114" text-anchor="middle" class="Ls" >(3) Pegon: Arabic-based script used in Islamic educational contexts.</text>
+<line x1="20" y1="122" x2="460" y2="122" stroke="black" stroke-width="0.3"/>
+<text x="240" y="131" text-anchor="middle" class="H" >— HANACARAKA — JAVANESE SCRIPT —</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >20 base letters (aksara) arranged in 4 rows of 5 (traditional mnemonic order):</text>
+<text x="240" y="151" text-anchor="middle" class="L" >ha na ca ra ka / da ta sa wa la / pa dha ja ya nya / ma ga ba tha nga</text>
+<text x="240" y="163" text-anchor="middle" class="Ls" >Each aksara = consonant + inherent vowel /a/. Stack forms modify consonants.</text>
+<text x="240" y="173" text-anchor="middle" class="L" >Javanese script: ꦘꦠꦢꦰꦦ ꦧꦫꦸ꧀꧂ ꦞꦨꦪ꧄꧆ ꦰꦲꦴꦶꦸ</text>
+<line x1="20" y1="184" x2="460" y2="184" stroke="black" stroke-width="0.3"/>
+<text x="240" y="193" text-anchor="middle" class="H" >— VOWEL SYSTEM — LATIN ORTHOGRAPHY —</text>
+<text x="240" y="203" text-anchor="middle" class="Ls" >Standard Javanese uses Latin orthography in modern texts. 6 vowels:</text>
+<text x="80" y="213" text-anchor="middle" class="Ls" >a /ɔ/</text>
+<text x="290" y="213" text-anchor="middle" class="Lx" >schwa-like open back: ora (no), apa (what)</text>
+<text x="80" y="223" text-anchor="middle" class="Ls" >e /ɛ/ or /ə/</text>
+<text x="290" y="223" text-anchor="middle" class="Lx" >context-dependent: elek (bad), mengko (later)</text>
+<text x="80" y="233" text-anchor="middle" class="Ls" >i /i/</text>
+<text x="290" y="233" text-anchor="middle" class="Lx" >high front: iki (this), siji (one)</text>
+<text x="80" y="243" text-anchor="middle" class="Ls" >o /o/</text>
+<text x="290" y="243" text-anchor="middle" class="Lx" >mid-back: loro (two), roto (all)</text>
+<text x="80" y="253" text-anchor="middle" class="Ls" >u /u/</text>
+<text x="290" y="253" text-anchor="middle" class="Lx" >high back: udan (rain), satu (one)</text>
+<text x="80" y="263" text-anchor="middle" class="Ls" >é /e/</text>
+<text x="290" y="263" text-anchor="middle" class="Lx" >close-mid (marked in careful texts)</text>
+<line x1="20" y1="280" x2="460" y2="280" stroke="black" stroke-width="0.3"/>
+<text x="240" y="289" text-anchor="middle" class="H" >— SPEECH REGISTERS — NGOKO, MADYA, KRAMA —</text>
+<text x="240" y="299" text-anchor="middle" class="Ls" >Javanese has 3 main speech registers encoding social hierarchy:</text>
+<text x="90" y="309" text-anchor="middle" class="Ls" >Ngoko</text>
+<text x="310" y="309" text-anchor="middle" class="Lx" >informal: used with close friends, younger/lower-status. Core vocabulary.</text>
+<text x="90" y="320" text-anchor="middle" class="Ls" >Madya</text>
+<text x="310" y="320" text-anchor="middle" class="Lx" >intermediate: polite but not highly formal. Urban/modern register.</text>
+<text x="90" y="331" text-anchor="middle" class="Ls" >Krama</text>
+<text x="310" y="331" text-anchor="middle" class="Lx" >formal: used with elders, superiors, strangers. Different vocabulary.</text>
+<text x="90" y="342" text-anchor="middle" class="Ls" >Krama Inggil</text>
+<text x="310" y="342" text-anchor="middle" class="Lx" >highest respect: special vocabulary for high-status persons.</text>
+<line x1="20" y1="358" x2="460" y2="358" stroke="black" stroke-width="0.3"/>
+<text x="240" y="367" text-anchor="middle" class="H" >— REGISTER COMPARISON —</text>
+<text x="240" y="377" text-anchor="middle" class="Lx" >Concept       Ngoko          Madya          Krama</text>
+<text x="240" y="387" text-anchor="middle" class="Lx" >"I"           aku            kula           dalem</text>
+<text x="240" y="397" text-anchor="middle" class="Lx" >"you"         kowe           sampeyan       panjenengan</text>
+<text x="240" y="407" text-anchor="middle" class="Lx" >"eat"         mangan         nedha           dhahar</text>
+<text x="240" y="417" text-anchor="middle" class="Lx" >"sleep"       turu           tilem            sare</text>
+<text x="240" y="427" text-anchor="middle" class="Lx" >"house"       omah           griya           dalem</text>
+<line x1="20" y1="435" x2="460" y2="435" stroke="black" stroke-width="0.3"/>
+<text x="240" y="444" text-anchor="middle" class="H" >— JAVANESE NUMERALS —</text>
+<text x="55" y="454" text-anchor="middle" class="Lx" >1=siji</text>
+<text x="133" y="454" text-anchor="middle" class="Lx" >2=loro</text>
+<text x="211" y="454" text-anchor="middle" class="Lx" >3=telu</text>
+<text x="289" y="454" text-anchor="middle" class="Lx" >4=papat</text>
+<text x="367" y="454" text-anchor="middle" class="Lx" >5=lima</text>
+<text x="55" y="464" text-anchor="middle" class="Lx" >6=enem</text>
+<text x="133" y="464" text-anchor="middle" class="Lx" >7=pitu</text>
+<text x="211" y="464" text-anchor="middle" class="Lx" >8=wolu</text>
+<text x="289" y="464" text-anchor="middle" class="Lx" >9=songo</text>
+<text x="367" y="464" text-anchor="middle" class="Lx" >10=sepuluh</text>
+<text x="240" y="474" text-anchor="middle" class="Ls" >100 = satus · 1000 = sewu · 1,000,000 = yuta</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 43A — JAVANESE: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

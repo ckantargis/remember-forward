@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lb{font-size:11px;}
+.Lbs{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >BURMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >မြန်မာဘာသာ — Script (Abugida)</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM — ABUGIDA —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Burmese script: abugida derived from Mon script, which came from South Indian Brahmic.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Distinctive rounded letters developed due to palm-leaf writing (curved strokes avoid tearing).</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Written left to right. Consonants carry inherent vowel /a/; diacritics modify vowels.</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— CONSONANT TABLE — 33 LETTERS —</text>
+<text x="240" y="129" text-anchor="middle" class="Ls" >Burmese has 33 consonants arranged in traditional Sanskrit-derived order:</text>
+<text x="40" y="139" text-anchor="middle" class="Lb" >က</text>
+<text x="40" y="147" text-anchor="middle" class="Lx" >ka</text>
+<text x="122" y="139" text-anchor="middle" class="Lb" >ခ</text>
+<text x="122" y="147" text-anchor="middle" class="Lx" >hka</text>
+<text x="204" y="139" text-anchor="middle" class="Lb" >ဂ</text>
+<text x="204" y="147" text-anchor="middle" class="Lx" >ga</text>
+<text x="286" y="139" text-anchor="middle" class="Lb" >ဃ</text>
+<text x="286" y="147" text-anchor="middle" class="Lx" >gha</text>
+<text x="368" y="139" text-anchor="middle" class="Lb" >င</text>
+<text x="368" y="147" text-anchor="middle" class="Lx" >nga</text>
+<text x="40" y="151" text-anchor="middle" class="Lb" >စ</text>
+<text x="40" y="159" text-anchor="middle" class="Lx" >ca</text>
+<text x="122" y="151" text-anchor="middle" class="Lb" >ဆ</text>
+<text x="122" y="159" text-anchor="middle" class="Lx" >hca</text>
+<text x="204" y="151" text-anchor="middle" class="Lb" >ဇ</text>
+<text x="204" y="159" text-anchor="middle" class="Lx" >ja</text>
+<text x="286" y="151" text-anchor="middle" class="Lb" >ဈ</text>
+<text x="286" y="159" text-anchor="middle" class="Lx" >jha</text>
+<text x="368" y="151" text-anchor="middle" class="Lb" >ဉ</text>
+<text x="368" y="159" text-anchor="middle" class="Lx" >nya</text>
+<text x="40" y="163" text-anchor="middle" class="Lb" >ည</text>
+<text x="40" y="171" text-anchor="middle" class="Lx" >nnya</text>
+<text x="122" y="163" text-anchor="middle" class="Lb" >ဋ</text>
+<text x="122" y="171" text-anchor="middle" class="Lx" >ta</text>
+<text x="204" y="163" text-anchor="middle" class="Lb" >ဌ</text>
+<text x="204" y="171" text-anchor="middle" class="Lx" >hta</text>
+<text x="286" y="163" text-anchor="middle" class="Lb" >ဍ</text>
+<text x="286" y="171" text-anchor="middle" class="Lx" >da</text>
+<text x="368" y="163" text-anchor="middle" class="Lb" >ဎ</text>
+<text x="368" y="171" text-anchor="middle" class="Lx" >dha</text>
+<text x="40" y="175" text-anchor="middle" class="Lb" >ဏ</text>
+<text x="40" y="183" text-anchor="middle" class="Lx" >na</text>
+<text x="122" y="175" text-anchor="middle" class="Lb" >တ</text>
+<text x="122" y="183" text-anchor="middle" class="Lx" >ta</text>
+<text x="204" y="175" text-anchor="middle" class="Lb" >ထ</text>
+<text x="204" y="183" text-anchor="middle" class="Lx" >hta</text>
+<text x="286" y="175" text-anchor="middle" class="Lb" >ဒ</text>
+<text x="286" y="183" text-anchor="middle" class="Lx" >da</text>
+<text x="368" y="175" text-anchor="middle" class="Lb" >ဓ</text>
+<text x="368" y="183" text-anchor="middle" class="Lx" >dha</text>
+<text x="40" y="187" text-anchor="middle" class="Lb" >န</text>
+<text x="40" y="195" text-anchor="middle" class="Lx" >na</text>
+<text x="122" y="187" text-anchor="middle" class="Lb" >ပ</text>
+<text x="122" y="195" text-anchor="middle" class="Lx" >pa</text>
+<text x="204" y="187" text-anchor="middle" class="Lb" >ဖ</text>
+<text x="204" y="195" text-anchor="middle" class="Lx" >hpa</text>
+<text x="286" y="187" text-anchor="middle" class="Lb" >ဗ</text>
+<text x="286" y="195" text-anchor="middle" class="Lx" >ba</text>
+<text x="368" y="187" text-anchor="middle" class="Lb" >ဘ</text>
+<text x="368" y="195" text-anchor="middle" class="Lx" >bha</text>
+<text x="40" y="199" text-anchor="middle" class="Lb" >မ</text>
+<text x="40" y="207" text-anchor="middle" class="Lx" >ma</text>
+<text x="122" y="199" text-anchor="middle" class="Lb" >ယ</text>
+<text x="122" y="207" text-anchor="middle" class="Lx" >ya</text>
+<text x="204" y="199" text-anchor="middle" class="Lb" >ရ</text>
+<text x="204" y="207" text-anchor="middle" class="Lx" >ra</text>
+<text x="286" y="199" text-anchor="middle" class="Lb" >လ</text>
+<text x="286" y="207" text-anchor="middle" class="Lx" >la</text>
+<text x="368" y="199" text-anchor="middle" class="Lb" >ဝ</text>
+<text x="368" y="207" text-anchor="middle" class="Lx" >wa</text>
+<text x="40" y="211" text-anchor="middle" class="Lb" >သ</text>
+<text x="40" y="219" text-anchor="middle" class="Lx" >sa</text>
+<text x="122" y="211" text-anchor="middle" class="Lb" >ဟ</text>
+<text x="122" y="219" text-anchor="middle" class="Lx" >ha</text>
+<text x="204" y="211" text-anchor="middle" class="Lb" >ဠ</text>
+<text x="204" y="219" text-anchor="middle" class="Lx" >la</text>
+<text x="286" y="211" text-anchor="middle" class="Lb" >အ</text>
+<text x="286" y="219" text-anchor="middle" class="Lx" >a</text>
+<line x1="20" y1="228" x2="460" y2="228" stroke="black" stroke-width="0.3"/>
+<text x="240" y="237" text-anchor="middle" class="H" >— VOWEL DIACRITICS —</text>
+<text x="240" y="247" text-anchor="middle" class="Ls" >C = consonant. Vowels written as diacritics above, below, or surrounding:</text>
+<text x="65" y="257" text-anchor="middle" class="Lb" >ကါ = kaa /kɑː/</text>
+<text x="195" y="257" text-anchor="middle" class="Lb" >ကာ = kaa2 /kɑ/</text>
+<text x="325" y="257" text-anchor="middle" class="Lb" >ကိ = ki /ki/</text>
+<text x="65" y="268" text-anchor="middle" class="Lb" >ကီ = kii /kiː/</text>
+<text x="195" y="268" text-anchor="middle" class="Lb" >ကု = ku /ku/</text>
+<text x="325" y="268" text-anchor="middle" class="Lb" >ကူ = kuu /kuː/</text>
+<text x="65" y="279" text-anchor="middle" class="Lb" >ကေ = ke /kɛ/</text>
+<text x="195" y="279" text-anchor="middle" class="Lb" >ကော = kae /kɛː/</text>
+<text x="325" y="279" text-anchor="middle" class="Lb" >ကေါ = ko /ko/</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="black" stroke-width="0.3"/>
+<text x="240" y="314" text-anchor="middle" class="H" >— THREE TONES — MARKED BY DIACRITICS —</text>
+<text x="90" y="324" text-anchor="middle" class="Ls" >Level (low short)</text>
+<text x="230" y="324" text-anchor="middle" class="Lbs" >no mark: ကာ ka</text>
+<text x="380" y="324" text-anchor="middle" class="Lx" >short, modal voice</text>
+<text x="90" y="335" text-anchor="middle" class="Ls" >Heavy (low long)</text>
+<text x="230" y="335" text-anchor="middle" class="Lbs" >colon mark ော: ကား kaa</text>
+<text x="380" y="335" text-anchor="middle" class="Lx" >long, creaky voice</text>
+<text x="90" y="346" text-anchor="middle" class="Ls" >Creaky (high short)</text>
+<text x="230" y="346" text-anchor="middle" class="Lbs" >ိ above: ကိ့ kai'</text>
+<text x="380" y="346" text-anchor="middle" class="Lx" >short, creaky+glottal stop</text>
+<line x1="20" y1="365" x2="460" y2="365" stroke="black" stroke-width="0.3"/>
+<text x="240" y="374" text-anchor="middle" class="H" >— BURMESE NUMERALS —</text>
+<text x="240" y="384" text-anchor="middle" class="Lb" >၀၁၂၃၄၅၆၇၈၉  (0–9)</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >Burmese numerals based on same Brahmi origin as Arabic numerals.</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >10 = ၁၀  100 = ၁ကန်  1000 = ၁သော</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 40A — BURMESE: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

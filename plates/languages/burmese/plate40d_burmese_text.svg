@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lb{font-size:11px;}
+.Lbs{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >BURMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. PYAN YA — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="Lb" >မသတီကားမှာ ပညညဪcကာ တသိုးမှာ ပညညာသောလ</text>
+<text x="240" y="95" text-anchor="middle" class="Ls" >mashi-kaa-mha pannya-kaa to-shi-kaa-mha to-shi-kaa tha-le</text>
+<text x="240" y="105" text-anchor="middle" class="F" >"What is not yet known, knowledge will bring; what is already there, wisdom will show."</text>
+<line x1="20" y1="114" x2="460" y2="114" stroke="black" stroke-width="0.3"/>
+<text x="240" y="123" text-anchor="middle" class="H" >— II. HTIDAW — ON MEMORY —</text>
+<text x="240" y="133" text-anchor="middle" class="Lb" >ရှောသူးကို မှတညညာသည့ အနာခာလာနေ့</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >yaungo-kyi mhaw-htaung-tha ana-kala la-ne</text>
+<text x="240" y="158" text-anchor="middle" class="F" >"Remembering the past is how the future comes to us." (Burmese proverb on memory)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H" >— III. THUTEH — ON KNOWLEDGE —</text>
+<text x="240" y="186" text-anchor="middle" class="Lb" >ပညညာဆာသည့ မီးကိုး မပြုထဏာအံ</text>
+<text x="240" y="201" text-anchor="middle" class="Ls" >pannya-hka-tha myi-kyi-mya ma-pyaw-hpan</text>
+<text x="240" y="211" text-anchor="middle" class="F" >"The flame of wisdom can never be extinguished." (Burmese saying on enduring knowledge)</text>
+<line x1="20" y1="220" x2="460" y2="220" stroke="black" stroke-width="0.3"/>
+<text x="240" y="229" text-anchor="middle" class="H" >— IV. NA-NAING — FORWARD —</text>
+<text x="240" y="239" text-anchor="middle" class="Lb" >ရှောသူးကို သတိမှတား အရှောသိုးအောခာသည့</text>
+<text x="240" y="253" text-anchor="middle" class="Ls" >yaungo-kyi shi-thma-de amyaungo-da-la-tha</text>
+<text x="240" y="263" text-anchor="middle" class="F" >"Moving forward while keeping the past in mind." (guiding concept)</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="281" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="293" text-anchor="middle" class="Lb" >ဒီဒဝလာသည့ကို ခငါသူးအတ်ကာ</text>
+<text x="240" y="308" text-anchor="middle" class="Lb" >စရိုခညးနှင့သည့</text>
+<text x="240" y="323" text-anchor="middle" class="Lb" >အရှောသိုး သတိမှတားသည့ လူလာသည့ကသိ့</text>
+<text x="240" y="340" text-anchor="middle" class="Ls" >di-da-la-tha kyi u-hka-mhu mashi-pya-ta (this-thing for-you free-of-cost was-made)</text>
+<text x="240" y="349" text-anchor="middle" class="Ls" >amyaungo-da-la-tha shi-thma-de (who-forward remember keeping)</text>
+<text x="240" y="358" text-anchor="middle" class="Ls" >lu-la-tha doh-a-hyi (by-those-people by)</text>
+<text x="240" y="370" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="380" x2="460" y2="380" stroke="black" stroke-width="0.3"/>
+<text x="240" y="389" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="399" text-anchor="middle" class="Ls" >A-myaung-go (အရှောသိုး) = forward / front. In Burmese, the future is "ahead" (a-myaung).</text>
+<text x="240" y="409" text-anchor="middle" class="Ls" >Mashi-pyaw-ta = free of charge (no-cost-given). SOV order maintained.</text>
+<text x="240" y="419" text-anchor="middle" class="Ls" >The phrase encodes the project's core philosophy across the tonal system.</text>
+<line x1="20" y1="427" x2="460" y2="427" stroke="black" stroke-width="0.3"/>
+<text x="240" y="436" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >Burmese (Myanmar): ~33 million L1 speakers; official language of Myanmar.</text>
+<text x="240" y="456" text-anchor="middle" class="Ls" >Language family: Sino-Tibetan, Tibeto-Burman branch (Lolo-Burmese group).</text>
+<text x="240" y="466" text-anchor="middle" class="Ls" >Script: Mon/Brahmi-derived, rounded due to palm-leaf writing tradition.</text>
+<text x="240" y="476" text-anchor="middle" class="Ls" >Significant diglossia between written (literary) and spoken registers.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 40D — BURMESE: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

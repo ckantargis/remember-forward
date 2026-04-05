@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lt{font-size:11px;}
+.Lts{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >THAI</text>
+<text x="240" y="50" text-anchor="middle" class="S" >ภาษาไทย — Script &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM — ABUGIDA —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Thai script is an abugida: consonants carry an inherent vowel /ɔ/. Written left to right.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Derived from Khmer script, which descended from South Indian Brahmic scripts (~13th c).</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >No spaces between words; sentence boundaries marked by spaces.</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— CONSONANT CLASSES — THREE CLASSES —</text>
+<text x="240" y="129" text-anchor="middle" class="Ls" >Each consonant belongs to one of three classes that determine tone calculation.</text>
+<text x="240" y="139" text-anchor="middle" class="Lt" >High class (11): ข ฃ ฉ ฐ ฑ ฒ ณ ด ห ฟ ส</text>
+<text x="240" y="152" text-anchor="middle" class="Lt" >Mid class (9): ก จ ด ต บ ป อ ฮ ฯ</text>
+<text x="240" y="165" text-anchor="middle" class="Lt" >Low class (24): ง ช ซ ญ ฐ ฑ ฒ ณ น พ ฟ ฝ พ ภ ม ย ร ล ว ฬ ฮ อ ส ฮ</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H" >— SELECTED CONSONANTS WITH RTGS ROMANISATION —</text>
+<text x="55" y="197" text-anchor="middle" class="Lts" >ก</text>
+<text x="80" y="197" text-anchor="middle" class="Lx" >k /k/</text>
+<text x="185" y="197" text-anchor="middle" class="Lts" >ข</text>
+<text x="210" y="197" text-anchor="middle" class="Lx" >ḵh /kʰ/</text>
+<text x="315" y="197" text-anchor="middle" class="Lts" >ค</text>
+<text x="340" y="197" text-anchor="middle" class="Lx" >kh /kʰ/</text>
+<text x="55" y="208" text-anchor="middle" class="Lts" >ง</text>
+<text x="80" y="208" text-anchor="middle" class="Lx" >ng /ŋ/</text>
+<text x="185" y="208" text-anchor="middle" class="Lts" >จ</text>
+<text x="210" y="208" text-anchor="middle" class="Lx" >ch /tɕ/</text>
+<text x="315" y="208" text-anchor="middle" class="Lts" >ช</text>
+<text x="340" y="208" text-anchor="middle" class="Lx" >ch /tɕ/</text>
+<text x="55" y="219" text-anchor="middle" class="Lts" >ญ</text>
+<text x="80" y="219" text-anchor="middle" class="Lx" >y /j/</text>
+<text x="185" y="219" text-anchor="middle" class="Lts" >ต</text>
+<text x="210" y="219" text-anchor="middle" class="Lx" >t /t/</text>
+<text x="315" y="219" text-anchor="middle" class="Lts" >ถ</text>
+<text x="340" y="219" text-anchor="middle" class="Lx" >th /tʰ/</text>
+<text x="55" y="230" text-anchor="middle" class="Lts" >น</text>
+<text x="80" y="230" text-anchor="middle" class="Lx" >n /n/</text>
+<text x="185" y="230" text-anchor="middle" class="Lts" >บ</text>
+<text x="210" y="230" text-anchor="middle" class="Lx" >b /b/</text>
+<text x="315" y="230" text-anchor="middle" class="Lts" >ป</text>
+<text x="340" y="230" text-anchor="middle" class="Lx" >p /p/</text>
+<text x="55" y="241" text-anchor="middle" class="Lts" >พ</text>
+<text x="80" y="241" text-anchor="middle" class="Lx" >ph /pʰ/</text>
+<text x="185" y="241" text-anchor="middle" class="Lts" >ม</text>
+<text x="210" y="241" text-anchor="middle" class="Lx" >m /m/</text>
+<text x="315" y="241" text-anchor="middle" class="Lts" >ย</text>
+<text x="340" y="241" text-anchor="middle" class="Lx" >y /j/</text>
+<text x="55" y="252" text-anchor="middle" class="Lts" >ร</text>
+<text x="80" y="252" text-anchor="middle" class="Lx" >r /r/</text>
+<text x="185" y="252" text-anchor="middle" class="Lts" >ล</text>
+<text x="210" y="252" text-anchor="middle" class="Lx" >l /l/</text>
+<text x="315" y="252" text-anchor="middle" class="Lts" >ว</text>
+<text x="340" y="252" text-anchor="middle" class="Lx" >w /w/</text>
+<text x="55" y="263" text-anchor="middle" class="Lts" >ส</text>
+<text x="80" y="263" text-anchor="middle" class="Lx" >s /s/</text>
+<text x="185" y="263" text-anchor="middle" class="Lts" >ห</text>
+<text x="210" y="263" text-anchor="middle" class="Lx" >h /h/</text>
+<text x="315" y="263" text-anchor="middle" class="Lts" >อ</text>
+<text x="340" y="263" text-anchor="middle" class="Lx" >— (silent/ɔ/ onset)</text>
+<line x1="20" y1="290" x2="460" y2="290" stroke="black" stroke-width="0.3"/>
+<text x="240" y="299" text-anchor="middle" class="H" >— VOWEL DIACRITICS —</text>
+<text x="240" y="309" text-anchor="middle" class="Ls" >Thai vowels are written as diacritics around the base consonant.</text>
+<text x="240" y="319" text-anchor="middle" class="Ls" >C = consonant placeholder. Vowel position: above, below, before, after, or surrounding.</text>
+<text x="65" y="329" text-anchor="middle" class="Ls" >แC = ae /æ/</text>
+<text x="195" y="329" text-anchor="middle" class="Ls" >Cา = aa /aː/</text>
+<text x="325" y="329" text-anchor="middle" class="Ls" >Cิ = i /i/</text>
+<text x="65" y="340" text-anchor="middle" class="Ls" >Cี = ii /iː/</text>
+<text x="195" y="340" text-anchor="middle" class="Ls" >Cึ = ue /ɯ/</text>
+<text x="325" y="340" text-anchor="middle" class="Ls" >เC = e /e/</text>
+<text x="65" y="351" text-anchor="middle" class="Ls" >เCีย = ia /iə/</text>
+<text x="195" y="351" text-anchor="middle" class="Ls" >Cว = ua /uə/</text>
+<text x="325" y="351" text-anchor="middle" class="Ls" >Cุ = u /u/</text>
+<line x1="20" y1="377" x2="460" y2="377" stroke="black" stroke-width="0.3"/>
+<text x="240" y="386" text-anchor="middle" class="H" >— TONE MARKS —</text>
+<text x="240" y="396" text-anchor="middle" class="Ls" >Thai has 4 tone marks + unmarked, combined with consonant class to produce 5 tones.</text>
+<text x="120" y="406" text-anchor="middle" class="Lt" >่</text>
+<text x="290" y="406" text-anchor="middle" class="Ls" >mai ek (low/falling marker)</text>
+<text x="120" y="416" text-anchor="middle" class="Lt" >้</text>
+<text x="290" y="416" text-anchor="middle" class="Ls" >mai tho (falling/high marker)</text>
+<text x="120" y="426" text-anchor="middle" class="Lt" >๊</text>
+<text x="290" y="426" text-anchor="middle" class="Ls" >mai tri (high marker)</text>
+<text x="120" y="436" text-anchor="middle" class="Lt" >๋</text>
+<text x="290" y="436" text-anchor="middle" class="Ls" >mai jattawa (rising marker)</text>
+<line x1="20" y1="450" x2="460" y2="450" stroke="black" stroke-width="0.3"/>
+<text x="240" y="459" text-anchor="middle" class="H" >— THAI NUMERALS —</text>
+<text x="240" y="469" text-anchor="middle" class="Lt" >๐๑๒๓๔๕๖๗๘๙  (0-9)</text>
+<text x="240" y="482" text-anchor="middle" class="Ls" >Thai numerals are still used alongside Arabic numerals.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 39A — THAI: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

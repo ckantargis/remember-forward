@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lb{font-size:11px;}
+.Lbs{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >BURMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Three Tones and Consonant System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— THREE-TONE SYSTEM —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Burmese has 3 phonemic tones (plus a 4th "checked" syllable type):</text>
+<text x="100" y="92" text-anchor="middle" class="Ls" >Level (low)</text>
+<text x="320" y="92" text-anchor="middle" class="Lx" >short, modal voice, mid-low pitch: ma (horse)</text>
+<text x="100" y="104" text-anchor="middle" class="Ls" >Heavy (long)</text>
+<text x="320" y="104" text-anchor="middle" class="Lx" >long, modal/creaky voice, falling: maa (come)</text>
+<text x="100" y="116" text-anchor="middle" class="Ls" >Creaky (high)</text>
+<text x="320" y="116" text-anchor="middle" class="Lx" >short, creaky voice, high pitch with glottal stop: ma' (hard)</text>
+<text x="100" y="128" text-anchor="middle" class="Ls" >Checked (stop)</text>
+<text x="320" y="128" text-anchor="middle" class="Lx" >short syllable ending in glottal stop or unreleased stop</text>
+<line x1="20" y1="145" x2="460" y2="145" stroke="black" stroke-width="0.3"/>
+<text x="240" y="154" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="65" y="164" text-anchor="middle" class="Lx" >p /p/ bilabial vl</text>
+<text x="195" y="164" text-anchor="middle" class="Lx" >ph /pʰ/ bilabial asp</text>
+<text x="325" y="164" text-anchor="middle" class="Lx" >b /b/ bilabial vd</text>
+<text x="65" y="174" text-anchor="middle" class="Lx" >t /t/ alveolar vl</text>
+<text x="195" y="174" text-anchor="middle" class="Lx" >th /tʰ/ alveolar asp</text>
+<text x="325" y="174" text-anchor="middle" class="Lx" >d /d/ alveolar vd</text>
+<text x="65" y="184" text-anchor="middle" class="Lx" >s /s/ alveolar fric</text>
+<text x="195" y="184" text-anchor="middle" class="Lx" >sh /ʃ/ postalveolar</text>
+<text x="325" y="184" text-anchor="middle" class="Lx" >k /k/ velar vl</text>
+<text x="65" y="194" text-anchor="middle" class="Lx" >kh /kʰ/ velar asp</text>
+<text x="195" y="194" text-anchor="middle" class="Lx" >g /ɡ/ velar vd</text>
+<text x="325" y="194" text-anchor="middle" class="Lx" >c /tɕ/ palatal aff</text>
+<text x="65" y="204" text-anchor="middle" class="Lx" >m /m/ bilabial nasal</text>
+<text x="195" y="204" text-anchor="middle" class="Lx" >n /n/ alveolar nasal</text>
+<text x="325" y="204" text-anchor="middle" class="Lx" >ng /ŋ/ velar nasal</text>
+<text x="65" y="214" text-anchor="middle" class="Lx" >ny /ɲ/ palatal nasal</text>
+<text x="195" y="214" text-anchor="middle" class="Lx" >l /l/ lateral</text>
+<text x="325" y="214" text-anchor="middle" class="Lx" >r /j/ palatal glide (modern)</text>
+<text x="65" y="224" text-anchor="middle" class="Lx" >w /w/ labio-velar</text>
+<text x="195" y="224" text-anchor="middle" class="Lx" >y /j/ palatal</text>
+<text x="325" y="224" text-anchor="middle" class="Lx" >h /h/ glottal</text>
+<text x="65" y="234" text-anchor="middle" class="Lx" >? /ʔ/ glottal stop</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H" >— CONSONANT MEDIALS —</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >Burmese allows medial consonants (w, y, r, h) before the vowel in a syllable:</text>
+<text x="240" y="294" text-anchor="middle" class="Ls" >kw- (k+w medial), ky- (k+y medial), khy- (kh+y), my- (m+y), etc.</text>
+<text x="240" y="304" text-anchor="middle" class="Ls" >Medials affect pronunciation: kya = /tɕa/, mya = /mja/.</text>
+<line x1="20" y1="312" x2="460" y2="312" stroke="black" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H" >— VOWEL SYSTEM —</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >Short/long pairs: a/aa, i/ii, u/uu, e/ee, o/oo, plus diphthongs.</text>
+<text x="240" y="341" text-anchor="middle" class="Ls" >Vowel length + tone together = distinct syllable types.</text>
+<text x="240" y="351" text-anchor="middle" class="Ls" >Schwa /ə/ common in unstressed syllables (often written as -a).</text>
+<line x1="20" y1="359" x2="460" y2="359" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— SANDHI AND SPOKEN BURMESE —</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Literary Burmese and spoken Burmese differ significantly.</text>
+<text x="240" y="388" text-anchor="middle" class="Ls" >Spoken: copula "is" = hpyi (written: jaa). Questions use final particles.</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >Diglossia: formal/written vs. colloquial/spoken registers differ in vocabulary + structure.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 40B — BURMESE: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

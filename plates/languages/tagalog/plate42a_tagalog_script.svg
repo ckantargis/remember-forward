@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TAGALOG / FILIPINO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script — Latin Alphabet + Baybayin</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Modern Filipino uses the Latin alphabet (28 letters + ng, adapted from Spanish era).</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Standard Filipino alphabet (1976, revised 2013): a b k d e g h i l m n ng o p r s t u w y.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Spanish-derived letters retained for loanwords: c, f, j, q, v, x, z.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— BAYBAYIN — TRADITIONAL SCRIPT —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Baybayin (pre-colonial Tagalog): abugida used before Spanish colonisation (~16th c).</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >17 consonants, each with inherent /a/ vowel. Diacritics above/below modify vowel.</text>
+<text x="240" y="151" text-anchor="middle" class="Ls" >Cross-mark (pamudpod) kills the inherent vowel for final consonants.</text>
+<text x="240" y="161" text-anchor="middle" class="Ls" >Baybayin revived as cultural symbol; now taught in Philippine schools.</text>
+<text x="50" y="171" text-anchor="middle" class="L" >ᜀ</text>
+<text x="50" y="180" text-anchor="middle" class="Lx" >ka /ka/</text>
+<text x="128" y="171" text-anchor="middle" class="L" >ᜁ</text>
+<text x="128" y="180" text-anchor="middle" class="Lx" >ga /ɡa/</text>
+<text x="206" y="171" text-anchor="middle" class="L" >ᜂ</text>
+<text x="206" y="180" text-anchor="middle" class="Lx" >nga /ŋa/</text>
+<text x="284" y="171" text-anchor="middle" class="L" >ᜃ</text>
+<text x="284" y="180" text-anchor="middle" class="Lx" >ta /ta/</text>
+<text x="362" y="171" text-anchor="middle" class="L" >ᜄ</text>
+<text x="362" y="180" text-anchor="middle" class="Lx" >da /da/</text>
+<text x="50" y="185" text-anchor="middle" class="L" >ᜅ</text>
+<text x="50" y="194" text-anchor="middle" class="Lx" >na /na/</text>
+<text x="128" y="185" text-anchor="middle" class="L" >ᜆ</text>
+<text x="128" y="194" text-anchor="middle" class="Lx" >pa /pa/</text>
+<text x="206" y="185" text-anchor="middle" class="L" >ᜇ</text>
+<text x="206" y="194" text-anchor="middle" class="Lx" >ba /ba/</text>
+<text x="284" y="185" text-anchor="middle" class="L" >ᜈ</text>
+<text x="284" y="194" text-anchor="middle" class="Lx" >ma /ma/</text>
+<text x="362" y="185" text-anchor="middle" class="L" >ᜉ</text>
+<text x="362" y="194" text-anchor="middle" class="Lx" >ya /ja/</text>
+<text x="50" y="199" text-anchor="middle" class="L" >ᜊ</text>
+<text x="50" y="208" text-anchor="middle" class="Lx" >la /la/</text>
+<text x="128" y="199" text-anchor="middle" class="L" >ᜋ</text>
+<text x="128" y="208" text-anchor="middle" class="Lx" >wa /wa/</text>
+<text x="206" y="199" text-anchor="middle" class="L" >ᜌ</text>
+<text x="206" y="208" text-anchor="middle" class="Lx" >sa /sa/</text>
+<text x="284" y="199" text-anchor="middle" class="L" >ᜎ</text>
+<text x="284" y="208" text-anchor="middle" class="Lx" >ha /ha/</text>
+<text x="362" y="199" text-anchor="middle" class="L" >ᜏ</text>
+<text x="362" y="208" text-anchor="middle" class="Lx" >a /a/</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="black" stroke-width="0.3"/>
+<text x="240" y="227" text-anchor="middle" class="H" >— MODERN FILIPINO ALPHABET —</text>
+<text x="240" y="237" text-anchor="middle" class="Ls" >A B K D E G H I L M N Ng O P R S T U W Y (+ C F J Q V X Z for loanwords)</text>
+<text x="240" y="247" text-anchor="middle" class="Ls" >Note: K replaces Spanish C/QU; W and Y are vowels in some contexts.</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H" >— DIGRAPH NG —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls" >NG /ŋ/: the 19th letter. Counts as single letter in alphabetical order.</text>
+<text x="240" y="284" text-anchor="middle" class="Ls" >Used as velar nasal onset (ngayon = now) and in final position (buhay = life).</text>
+<text x="240" y="294" text-anchor="middle" class="Ls" >Ngang (with A inherent in Baybayin) = the Baybayin character for /ŋa/.</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="black" stroke-width="0.3"/>
+<text x="240" y="311" text-anchor="middle" class="H" >— ACCENT MARKS — STRESS AND GLOTTAL STOP —</text>
+<text x="240" y="321" text-anchor="middle" class="Ls" >Tagalog marks stress and glottal stops with diacritics in formal/educational texts:</text>
+<text x="240" y="331" text-anchor="middle" class="Ls" >Acute ´ = stress on that vowel: baháy (house) vs. báhay (dialect variant).</text>
+<text x="240" y="341" text-anchor="middle" class="Ls" >Circumflex ˆ = final stressed vowel + glottal stop: matâ (eyes).</text>
+<text x="240" y="351" text-anchor="middle" class="Ls" >Grave ` = final unstressed vowel + glottal stop: bokà (hole).</text>
+<line x1="20" y1="359" x2="460" y2="359" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— NUMERALS —</text>
+<text x="55" y="378" text-anchor="middle" class="Lx" >1=isa</text>
+<text x="133" y="378" text-anchor="middle" class="Lx" >2=dalawa</text>
+<text x="211" y="378" text-anchor="middle" class="Lx" >3=tatlo</text>
+<text x="289" y="378" text-anchor="middle" class="Lx" >4=apat</text>
+<text x="367" y="378" text-anchor="middle" class="Lx" >5=lima</text>
+<text x="55" y="388" text-anchor="middle" class="Lx" >6=anim</text>
+<text x="133" y="388" text-anchor="middle" class="Lx" >7=pito</text>
+<text x="211" y="388" text-anchor="middle" class="Lx" >8=walo</text>
+<text x="289" y="388" text-anchor="middle" class="Lx" >9=siyam</text>
+<text x="367" y="388" text-anchor="middle" class="Lx" >10=sampu</text>
+<text x="240" y="398" text-anchor="middle" class="Ls" >100 = isang daan · 1000 = isang libo · 1,000,000 = isang milyon</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 42A — TAGALOG: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lsi{font-size:11px;}
+.Lsis{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SINHALA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Sounds and Contrast System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Sinhala has ~34 consonants including prenasalised and aspiration distinctions.</text>
+<text x="65" y="92" text-anchor="middle" class="Lx" >p /p/ bilabial</text>
+<text x="195" y="92" text-anchor="middle" class="Lx" >b /b/ bilabial vd</text>
+<text x="325" y="92" text-anchor="middle" class="Lx" >ph /pʰ/ aspirated bilabial</text>
+<text x="65" y="102" text-anchor="middle" class="Lx" >t /t/ dental</text>
+<text x="195" y="102" text-anchor="middle" class="Lx" >d /d/ dental vd</text>
+<text x="325" y="102" text-anchor="middle" class="Lx" >th /tʰ/ aspirated dental</text>
+<text x="65" y="112" text-anchor="middle" class="Lx" >ʈ /ṭ/ retroflex vl</text>
+<text x="195" y="112" text-anchor="middle" class="Lx" >ɖ /ḍ/ retroflex vd</text>
+<text x="325" y="112" text-anchor="middle" class="Lx" >k /k/ velar</text>
+<text x="65" y="122" text-anchor="middle" class="Lx" >g /ɡ/ velar vd</text>
+<text x="195" y="122" text-anchor="middle" class="Lx" >kh /kʰ/ aspirated velar</text>
+<text x="325" y="122" text-anchor="middle" class="Lx" >c /tɕ/ palatal affricate</text>
+<text x="65" y="132" text-anchor="middle" class="Lx" >j /dʒ/ palatal affricate vd</text>
+<text x="195" y="132" text-anchor="middle" class="Lx" >m /m/ bilabial nasal</text>
+<text x="325" y="132" text-anchor="middle" class="Lx" >n /n/ dental nasal</text>
+<text x="65" y="142" text-anchor="middle" class="Lx" >ɳ /ṉ/ retroflex nasal</text>
+<text x="195" y="142" text-anchor="middle" class="Lx" >ɲ /ɲ/ palatal nasal</text>
+<text x="325" y="142" text-anchor="middle" class="Lx" >ŋ /ŋ/ velar nasal</text>
+<text x="65" y="152" text-anchor="middle" class="Lx" >l /l/ lateral</text>
+<text x="195" y="152" text-anchor="middle" class="Lx" >r /r/ trill</text>
+<text x="325" y="152" text-anchor="middle" class="Lx" >v /v/ labiodental</text>
+<text x="65" y="162" text-anchor="middle" class="Lx" >s /s/ alveolar</text>
+<text x="195" y="162" text-anchor="middle" class="Lx" >h /h/ glottal</text>
+<line x1="20" y1="258" x2="460" y2="258" stroke="black" stroke-width="0.3"/>
+<text x="240" y="267" text-anchor="middle" class="H" >— VOWEL SYSTEM — SHORT AND LONG —</text>
+<text x="240" y="277" text-anchor="middle" class="Ls" >Sinhala has contrastive vowel length (short vs. long pairs):</text>
+<text x="120" y="287" text-anchor="middle" class="Ls" >a /a/ vs aa /aː/</text>
+<text x="340" y="287" text-anchor="middle" class="Lx" >open central: ata (eight) vs aata (eight [formal])</text>
+<text x="120" y="298" text-anchor="middle" class="Ls" >i /i/ vs ii /iː/</text>
+<text x="340" y="298" text-anchor="middle" class="Lx" >high front: ithin (from here) vs iitin</text>
+<text x="120" y="309" text-anchor="middle" class="Ls" >u /u/ vs uu /uː/</text>
+<text x="340" y="309" text-anchor="middle" class="Lx" >high back: uda (up) vs uuda (plough)</text>
+<text x="120" y="320" text-anchor="middle" class="Ls" >e /e/ vs ee /eː/</text>
+<text x="340" y="320" text-anchor="middle" class="Lx" >mid-front: ela (it went) vs eela (arrow)</text>
+<text x="120" y="331" text-anchor="middle" class="Ls" >o /o/ vs oo /oː/</text>
+<text x="340" y="331" text-anchor="middle" class="Lx" >mid-back: oda (bed) vs ooda (boat)</text>
+<line x1="20" y1="355" x2="460" y2="355" stroke="black" stroke-width="0.3"/>
+<text x="240" y="364" text-anchor="middle" class="H" >— PRENASALISED STOPS —</text>
+<text x="240" y="374" text-anchor="middle" class="Ls" >Sinhala has phonemic prenasalised stops: /ṇd/ /ṇb/ /ṅɡ/ etc.</text>
+<text x="240" y="384" text-anchor="middle" class="Ls" >anda (cry) vs. ada (today). Prenasalised = nasal+stop as single phoneme.</text>
+<line x1="20" y1="392" x2="460" y2="392" stroke="black" stroke-width="0.3"/>
+<text x="240" y="401" text-anchor="middle" class="H" >— STRESS AND SYLLABLE STRUCTURE —</text>
+<text x="240" y="411" text-anchor="middle" class="Ls" >Stress: generally on the first syllable of a root. Not phonemic.</text>
+<text x="240" y="421" text-anchor="middle" class="Ls" >Syllable structure: (C)(C)V(V)(C)(C). Allows complex clusters.</text>
+<text x="240" y="431" text-anchor="middle" class="Ls" >Sinhala underwent significant changes isolating it from other Indo-Aryan languages.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 44B — SINHALA: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

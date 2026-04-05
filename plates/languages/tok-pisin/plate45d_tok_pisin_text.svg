@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TOK PISIN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Running Text — Four Passages + Bridge Phrase</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="70" text-anchor="middle" class="H" >— I. TOKTOK — PROVERB —</text>
+<text x="240" y="80" text-anchor="middle" class="L" >Gutpela save i stap long bel bilong ol lapun man.</text>
+<text x="240" y="90" text-anchor="middle" class="Ls" >gutpela=good save=knowledge i=predicate-marker stap=stay/is long=in bel=belly/inside</text>
+<text x="240" y="100" text-anchor="middle" class="Ls" >bilong=of ol=plural lapun=old man=people</text>
+<text x="240" y="110" text-anchor="middle" class="F" >"Good knowledge lives inside old people." (PNG proverb on elder wisdom)</text>
+<line x1="20" y1="119" x2="460" y2="119" stroke="black" stroke-width="0.3"/>
+<text x="240" y="128" text-anchor="middle" class="H" >— II. TINGTING — ON MEMORY —</text>
+<text x="240" y="138" text-anchor="middle" class="L" >Sapos yu tingim ol manmeri i go pinis, yu stap strong.</text>
+<text x="240" y="148" text-anchor="middle" class="Ls" >sapos=if yu=you tingim=remember ol=those manmeri=people i-go-pinis=have-gone-and-finished</text>
+<text x="240" y="158" text-anchor="middle" class="Ls" >yu=you stap=stay strong=strong</text>
+<text x="240" y="168" text-anchor="middle" class="F" >"If you remember those people who have passed, you remain strong."</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H" >— III. SAVE — ON KNOWLEDGE —</text>
+<text x="240" y="196" text-anchor="middle" class="L" >Save i no ken bagarap. Em i stap oltaim oltaim.</text>
+<text x="240" y="206" text-anchor="middle" class="Ls" >save=knowledge i=marker no-ken=cannot bagarap=be destroyed em=it stap=stays</text>
+<text x="240" y="216" text-anchor="middle" class="Ls" >oltaim-oltaim=always forever (reduplication of "all time")</text>
+<text x="240" y="226" text-anchor="middle" class="F" >"Knowledge cannot be destroyed. It stays forever."</text>
+<line x1="20" y1="235" x2="460" y2="235" stroke="black" stroke-width="0.3"/>
+<text x="240" y="244" text-anchor="middle" class="H" >— IV. HARIAP — FORWARD —</text>
+<text x="240" y="254" text-anchor="middle" class="Ls" >Yumi go hariap, tasol yumi mas tingim ol manmeri i stap bifo.</text>
+<text x="240" y="264" text-anchor="middle" class="Ls" >yumi=we go=go hariap=fast/forward tasol=but yumi-mas=we-must tingim=remember</text>
+<text x="240" y="274" text-anchor="middle" class="Ls" >ol-manmeri=people i-stap=who-were bifo=before/ahead</text>
+<text x="240" y="284" text-anchor="middle" class="F" >"We go forward, but we must remember the people who were here before."</text>
+<line x1="20" y1="293" x2="460" y2="293" stroke="black" stroke-width="0.3"/>
+<text x="240" y="302" text-anchor="middle" class="H" >— V. BRIDGE PHRASE —</text>
+<text x="240" y="315" text-anchor="middle" class="L" >Dispela samting i bin mekim bilong yu, nating tumas,</text>
+<text x="240" y="325" text-anchor="middle" class="L" >long han bilong ol manmeri i bin tingim go hariap.</text>
+<text x="240" y="339" text-anchor="middle" class="Ls" >dispela-samting=this-thing i-bin-mekim=was-made bilong=for yu=you</text>
+<text x="240" y="348" text-anchor="middle" class="Ls" >nating-tumas=completely free (nating=nothing/free, tumas=very much)</text>
+<text x="240" y="357" text-anchor="middle" class="Ls" >long-han-bilong=from-the-hands-of ol-manmeri=people</text>
+<text x="240" y="366" text-anchor="middle" class="Ls" >i-bin-tingim=who-remembered go-hariap=forward</text>
+<text x="240" y="378" text-anchor="middle" class="F" >"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="black" stroke-width="0.3"/>
+<text x="240" y="398" text-anchor="middle" class="H" >— BRIDGE PHRASE — NOTES —</text>
+<text x="240" y="408" text-anchor="middle" class="Ls" >Go hariap = "go forward" (go fast / advance). Hariap from "hurry up."</text>
+<text x="240" y="418" text-anchor="middle" class="Ls" >Tingim go hariap = "remember going forward" = forward-facing memory.</text>
+<text x="240" y="428" text-anchor="middle" class="Ls" >Nating tumas = "nothing very much" = completely free of charge.</text>
+<text x="240" y="438" text-anchor="middle" class="Ls" >I bin = past tense marker (from "have been"). Long han bilong = "from the hands of."</text>
+<line x1="20" y1="446" x2="460" y2="446" stroke="black" stroke-width="0.3"/>
+<text x="240" y="455" text-anchor="middle" class="H" >— LANGUAGE NOTES —</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >Tok Pisin: ~4 million L1, ~4 million L2 speakers; official language of Papua New Guinea.</text>
+<text x="240" y="475" text-anchor="middle" class="Ls" >One of ~840 languages spoken in PNG — Tok Pisin is the national lingua franca.</text>
+<text x="240" y="485" text-anchor="middle" class="Ls" >Developed as a creole from 19th-century labor and trade contact languages.</text>
+<text x="240" y="495" text-anchor="middle" class="Ls" >English-based lexicon; Austronesian (especially Tolai) grammatical substrate.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 45D — TOK PISIN: RUNNING TEXT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

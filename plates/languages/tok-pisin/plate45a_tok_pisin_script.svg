@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >TOK PISIN</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Script, Origins &amp; Writing System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— WHAT IS TOK PISIN? —</text>
+<text x="240" y="84" text-anchor="middle" class="Ls" >Tok Pisin is an English-based creole language. Official language of Papua New Guinea.</text>
+<text x="240" y="94" text-anchor="middle" class="Ls" >Developed from 19th-century Pacific pidgin English. Now a native language for 4+ million.</text>
+<text x="240" y="104" text-anchor="middle" class="Ls" >Name: "Tok" = talk/language (from English), "Pisin" = pidgin (from English pidgin/pigeon).</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="121" text-anchor="middle" class="H" >— WRITING SYSTEM —</text>
+<text x="240" y="131" text-anchor="middle" class="Ls" >Tok Pisin uses the Latin alphabet (24 letters; no q, x in native words).</text>
+<text x="240" y="141" text-anchor="middle" class="Ls" >Standardised orthography since ~1970s. Phonemic spelling (sounds = letters).</text>
+<text x="240" y="151" text-anchor="middle" class="Ls" >Words usually spelled as pronounced, unlike English.</text>
+<line x1="20" y1="159" x2="460" y2="159" stroke="black" stroke-width="0.3"/>
+<text x="240" y="168" text-anchor="middle" class="H" >— ALPHABET AND PHONEMIC SPELLING —</text>
+<text x="240" y="178" text-anchor="middle" class="Ls" >A B D E F G H I J K L M N O P R S T U V W Y (24 letters + digraphs)</text>
+<text x="240" y="188" text-anchor="middle" class="Ls" >Key digraphs: NG /ŋ/, NG- (velar nasal onset), AI /ai/, AU /au/, OI /oi/.</text>
+<text x="240" y="198" text-anchor="middle" class="Ls" >English "th" = "t" in Tok Pisin: think = tingting. "sh" = "s": ship = sip.</text>
+<line x1="20" y1="206" x2="460" y2="206" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H" >— ENGLISH SOURCE WORDS AND TRANSFORMATIONS —</text>
+<text x="80" y="225" text-anchor="middle" class="Lx" >man = man (person/man)</text>
+<text x="280" y="225" text-anchor="middle" class="Lx" >meri = Mary / woman (from English "Mary")</text>
+<text x="80" y="235" text-anchor="middle" class="Lx" >pikinini = child (from Portuguese pequenino)</text>
+<text x="280" y="235" text-anchor="middle" class="Lx" >gras = grass / hair / fur</text>
+<text x="80" y="245" text-anchor="middle" class="Lx" >han = hand / arm</text>
+<text x="280" y="245" text-anchor="middle" class="Lx" >lek = leg / foot</text>
+<text x="80" y="255" text-anchor="middle" class="Lx" >ai = eye</text>
+<text x="280" y="255" text-anchor="middle" class="Lx" >bel = belly / stomach / feelings</text>
+<text x="80" y="265" text-anchor="middle" class="Lx" >het = head</text>
+<text x="280" y="265" text-anchor="middle" class="Lx" >pes = face</text>
+<text x="80" y="275" text-anchor="middle" class="Lx" >haus = house</text>
+<text x="280" y="275" text-anchor="middle" class="Lx" >wara = water</text>
+<text x="80" y="285" text-anchor="middle" class="Lx" >paia = fire</text>
+<text x="280" y="285" text-anchor="middle" class="Lx" >graun = ground/earth</text>
+<text x="80" y="295" text-anchor="middle" class="Lx" >gutpela = good (good+fellow)</text>
+<text x="280" y="295" text-anchor="middle" class="Lx" >bikpela = big (big+fellow)</text>
+<text x="80" y="305" text-anchor="middle" class="Lx" >liklik = small (little+little, reduplication)</text>
+<text x="280" y="305" text-anchor="middle" class="Lx" >lapun = old (laplap+un)</text>
+<text x="80" y="315" text-anchor="middle" class="Lx" >nau = now</text>
+<text x="280" y="315" text-anchor="middle" class="Lx" >baimbai / bai = future marker (by and by)</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="black" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H" >— LANGUAGE SOURCES —</text>
+<text x="240" y="359" text-anchor="middle" class="Ls" >~80% English-derived vocabulary (colonial + labor contact language).</text>
+<text x="240" y="369" text-anchor="middle" class="Ls" >~10% Tolai and Austronesian substrate: -im (transitive suffix from Tolai), -pela (fellow).</text>
+<text x="240" y="379" text-anchor="middle" class="Ls" >~5% German (colonial era PNG was German New Guinea): maus (mouth, from Ger. Mund).</text>
+<text x="240" y="389" text-anchor="middle" class="Ls" >Malay, Portuguese: pikinini (small child), susu (breast/milk).</text>
+<line x1="20" y1="397" x2="460" y2="397" stroke="black" stroke-width="0.3"/>
+<text x="240" y="406" text-anchor="middle" class="H" >— NUMERALS —</text>
+<text x="55" y="416" text-anchor="middle" class="Lx" >0=siro</text>
+<text x="150" y="416" text-anchor="middle" class="Lx" >1=wan</text>
+<text x="245" y="416" text-anchor="middle" class="Lx" >2=tu</text>
+<text x="340" y="416" text-anchor="middle" class="Lx" >3=tri</text>
+<text x="55" y="426" text-anchor="middle" class="Lx" >4=foa</text>
+<text x="150" y="426" text-anchor="middle" class="Lx" >5=faiv</text>
+<text x="245" y="426" text-anchor="middle" class="Lx" >6=sikis</text>
+<text x="340" y="426" text-anchor="middle" class="Lx" >7=seven</text>
+<text x="55" y="436" text-anchor="middle" class="Lx" >8=et</text>
+<text x="150" y="436" text-anchor="middle" class="Lx" >9=nain</text>
+<text x="245" y="436" text-anchor="middle" class="Lx" >10=ten</text>
+<text x="240" y="446" text-anchor="middle" class="Ls" >100 = wan handet · 1000 = wan tausen · 1,000,000 = wan milion</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 45A — TOK PISIN: SCRIPT — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

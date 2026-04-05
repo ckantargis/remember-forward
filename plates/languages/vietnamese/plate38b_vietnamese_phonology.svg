@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >VIETNAMESE</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Six Tones and Consonant System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SIX-TONE SYSTEM —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Vietnamese (Hanoi dialect) has 6 phonemic tones. Each tone has distinct pitch + contour.</text>
+<text x="80" y="92" text-anchor="middle" class="Ls" >Ngang</text>
+<text x="200" y="92" text-anchor="middle" class="Lx" >mid level 33</text>
+<text x="360" y="92" text-anchor="middle" class="Lx" >ma = ghost</text>
+<text x="80" y="103" text-anchor="middle" class="Ls" >Huyền</text>
+<text x="200" y="103" text-anchor="middle" class="Lx" >low falling 21</text>
+<text x="360" y="103" text-anchor="middle" class="Lx" >mà = but</text>
+<text x="80" y="114" text-anchor="middle" class="Ls" >Sắc</text>
+<text x="200" y="114" text-anchor="middle" class="Lx" >high rising 35</text>
+<text x="360" y="114" text-anchor="middle" class="Lx" >má = cheek</text>
+<text x="80" y="125" text-anchor="middle" class="Ls" >Hỏi</text>
+<text x="200" y="125" text-anchor="middle" class="Lx" >dipping-rising 312</text>
+<text x="360" y="125" text-anchor="middle" class="Lx" >mả = grave/tomb</text>
+<text x="80" y="136" text-anchor="middle" class="Ls" >Ngã</text>
+<text x="200" y="136" text-anchor="middle" class="Lx" >high broken 35+glottal</text>
+<text x="360" y="136" text-anchor="middle" class="Lx" >mã = horse [north dialect]</text>
+<text x="80" y="147" text-anchor="middle" class="Ls" >Nặng</text>
+<text x="200" y="147" text-anchor="middle" class="Lx" >low glottalised 21+constriction</text>
+<text x="360" y="147" text-anchor="middle" class="Lx" >mạ = rice seedling</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H" >— INITIAL CONSONANTS —</text>
+<text x="65" y="184" text-anchor="middle" class="Lx" >b /b/</text>
+<text x="195" y="184" text-anchor="middle" class="Lx" >c/k/q /k/</text>
+<text x="325" y="184" text-anchor="middle" class="Lx" >ch /c/ palatal</text>
+<text x="65" y="194" text-anchor="middle" class="Lx" >d/gi /z/ north /j/ south</text>
+<text x="195" y="194" text-anchor="middle" class="Lx" >đ /d/ north /j/ south</text>
+<text x="325" y="194" text-anchor="middle" class="Lx" >g/gh /ɣ/</text>
+<text x="65" y="204" text-anchor="middle" class="Lx" >h /h/</text>
+<text x="195" y="204" text-anchor="middle" class="Lx" >kh /x/</text>
+<text x="325" y="204" text-anchor="middle" class="Lx" >l /l/</text>
+<text x="65" y="214" text-anchor="middle" class="Lx" >m /m/</text>
+<text x="195" y="214" text-anchor="middle" class="Lx" >n /n/</text>
+<text x="325" y="214" text-anchor="middle" class="Lx" >ng/ngh /ŋ/</text>
+<text x="65" y="224" text-anchor="middle" class="Lx" >nh /ɲ/</text>
+<text x="195" y="224" text-anchor="middle" class="Lx" >p /p/ rare</text>
+<text x="325" y="224" text-anchor="middle" class="Lx" >ph /f/</text>
+<text x="65" y="234" text-anchor="middle" class="Lx" >r /r/ north /z/ south</text>
+<text x="195" y="234" text-anchor="middle" class="Lx" >s /s/ north /ʃ/ south</text>
+<text x="325" y="234" text-anchor="middle" class="Lx" >t /t/</text>
+<text x="65" y="244" text-anchor="middle" class="Lx" >th /tʰ/</text>
+<text x="195" y="244" text-anchor="middle" class="Lx" >tr /tʃ/ north /tʃ/ south</text>
+<text x="325" y="244" text-anchor="middle" class="Lx" >v /v/ north /j/ south</text>
+<text x="65" y="254" text-anchor="middle" class="Lx" >x /s/ north /s/ south</text>
+<text x="195" y="254" text-anchor="middle" class="Lx" >x /s/</text>
+<text x="325" y="254" text-anchor="middle" class="Lx" >gi /z/ north /j/ south</text>
+<line x1="20" y1="278" x2="460" y2="278" stroke="black" stroke-width="0.3"/>
+<text x="240" y="287" text-anchor="middle" class="H" >— FINAL CONSONANTS AND CODAS —</text>
+<text x="240" y="297" text-anchor="middle" class="Ls" >Vietnamese allows only limited codas: -c/-ch, -m, -n, -ng/-nh, -p, -t.</text>
+<text x="240" y="307" text-anchor="middle" class="Ls" >No consonant clusters in onset or coda; syllable structure: (C)(G)V(C)(T).</text>
+<text x="240" y="317" text-anchor="middle" class="Ls" >Final -c and -ch are unreleased stops (no audible burst).</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H" >— VOWEL SYSTEM —</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >14 monophthongs + triphthongs; vowel length not phonemic (tone-conditioned).</text>
+<text x="65" y="354" text-anchor="middle" class="Lx" >a /a/ open front</text>
+<text x="195" y="354" text-anchor="middle" class="Lx" >ă /æ/ near-open front</text>
+<text x="325" y="354" text-anchor="middle" class="Lx" >â /ɐ/ open central</text>
+<text x="65" y="364" text-anchor="middle" class="Lx" >e /ɛ/ mid-front</text>
+<text x="195" y="364" text-anchor="middle" class="Lx" >ê /e/ close-mid front</text>
+<text x="325" y="364" text-anchor="middle" class="Lx" >i /i/ high front</text>
+<text x="65" y="374" text-anchor="middle" class="Lx" >o /ɔ/ mid-back</text>
+<text x="195" y="374" text-anchor="middle" class="Lx" >ô /o/ close-mid back</text>
+<text x="325" y="374" text-anchor="middle" class="Lx" >ơ /ə/ mid central</text>
+<text x="65" y="384" text-anchor="middle" class="Lx" >u /u/ high back</text>
+<text x="195" y="384" text-anchor="middle" class="Lx" >ư /ɯ/ high central</text>
+<text x="325" y="384" text-anchor="middle" class="Lx" >y /i/ =i in diphthong</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="411" text-anchor="middle" class="H" >— NORTH vs. SOUTH DIALECT DIFFERENCES —</text>
+<text x="240" y="421" text-anchor="middle" class="Ls" >Hanoi (north): 6 tones; d=ɖ, gi=z, s=s, x=s, r=r.</text>
+<text x="240" y="431" text-anchor="middle" class="Ls" >Saigon/HCMC (south): 5 tones (ngã=hỏi merged); d=j, gi=j, s=ʃ, r=z.</text>
+<text x="240" y="441" text-anchor="middle" class="Ls" >Standard orthography represents Hanoi pronunciation.</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 38B — VIETNAMESE: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

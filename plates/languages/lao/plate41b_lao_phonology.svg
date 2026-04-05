@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Ll{font-size:11px;}
+.Lls{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LAO</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Phonology — Tones and Sound System</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SIX-TONE SYSTEM (VIENTIANE DIALECT) —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Lao has 6 phonemic tones in the Vientiane (standard) dialect:</text>
+<text x="90" y="92" text-anchor="middle" class="Ls" >Low (samān)</text>
+<text x="310" y="92" text-anchor="middle" class="Lx" >mid-low 22: no mark, low class</text>
+<text x="90" y="103" text-anchor="middle" class="Ls" >Mid (ek)</text>
+<text x="310" y="103" text-anchor="middle" class="Lx" >mid 33: may ek on low class</text>
+<text x="90" y="114" text-anchor="middle" class="Ls" >High (tho)</text>
+<text x="310" y="114" text-anchor="middle" class="Lx" >high 44: high class, no mark</text>
+<text x="90" y="125" text-anchor="middle" class="Ls" >Rising (tri)</text>
+<text x="310" y="125" text-anchor="middle" class="Lx" >low-rising 13: may ek on high class</text>
+<text x="90" y="136" text-anchor="middle" class="Ls" >High falling</text>
+<text x="310" y="136" text-anchor="middle" class="Lx" >high-falling 42: may tho on high class</text>
+<text x="90" y="147" text-anchor="middle" class="Ls" >Low falling</text>
+<text x="310" y="147" text-anchor="middle" class="Lx" >low-dipping 21: may tho on low class</text>
+<line x1="20" y1="163" x2="460" y2="163" stroke="black" stroke-width="0.3"/>
+<text x="240" y="172" text-anchor="middle" class="H" >— CONSONANTS —</text>
+<text x="65" y="182" text-anchor="middle" class="Lx" >k /k/ velar stop vl</text>
+<text x="195" y="182" text-anchor="middle" class="Lx" >kh /kʰ/ aspirated velar</text>
+<text x="325" y="182" text-anchor="middle" class="Lx" >ng /ŋ/ velar nasal</text>
+<text x="65" y="192" text-anchor="middle" class="Lx" >ch /tɕ/ palatal affricate</text>
+<text x="195" y="192" text-anchor="middle" class="Lx" >ny /ɲ/ palatal nasal</text>
+<text x="325" y="192" text-anchor="middle" class="Lx" >n /n/ alveolar nasal</text>
+<text x="65" y="202" text-anchor="middle" class="Lx" >b /b/ bilabial stop</text>
+<text x="195" y="202" text-anchor="middle" class="Lx" >p /p/ bilabial stop vl</text>
+<text x="325" y="202" text-anchor="middle" class="Lx" >ph /pʰ/ aspirated bilabial</text>
+<text x="65" y="212" text-anchor="middle" class="Lx" >f /f/ labiodental</text>
+<text x="195" y="212" text-anchor="middle" class="Lx" >m /m/ bilabial nasal</text>
+<text x="325" y="212" text-anchor="middle" class="Lx" >y /j/ palatal approximant</text>
+<text x="65" y="222" text-anchor="middle" class="Lx" >r /r̃/ trill (rare in standard)</text>
+<text x="195" y="222" text-anchor="middle" class="Lx" >l /l/ lateral</text>
+<text x="325" y="222" text-anchor="middle" class="Lx" >w /w/ labio-velar</text>
+<text x="65" y="232" text-anchor="middle" class="Lx" >s /s/ alveolar fricative</text>
+<text x="195" y="232" text-anchor="middle" class="Lx" >h /h/ glottal</text>
+<line x1="20" y1="278" x2="460" y2="278" stroke="black" stroke-width="0.3"/>
+<text x="240" y="287" text-anchor="middle" class="H" >— VOWELS —</text>
+<text x="240" y="297" text-anchor="middle" class="Ls" >Lao has short/long vowel pairs. 9 monophthongs (short+long) + diphthongs.</text>
+<text x="240" y="307" text-anchor="middle" class="Ls" >/a aa/ /ɪ iː/ /ɯ uː (approx)/ /ɛ eː/ /ɔ oː/ /ɐ ɐː/ + diphthongs /ia ua ɯa/</text>
+<line x1="20" y1="315" x2="460" y2="315" stroke="black" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H" >— COMPARISON WITH THAI —</text>
+<text x="240" y="334" text-anchor="middle" class="Ls" >Lao and Thai are mutually intelligible at high register; closely related.</text>
+<text x="240" y="344" text-anchor="middle" class="Ls" >Lao has 2 consonant classes (vs Thai's 3); some consonant simplifications.</text>
+<text x="240" y="354" text-anchor="middle" class="Ls" >Spoken Lao: r often merged to l; final -r dropped; ng- onset rare.</text>
+<text x="240" y="364" text-anchor="middle" class="Ls" >Lao script cannot write all sounds of formal Thai vocabulary.</text>
+<line x1="20" y1="372" x2="460" y2="372" stroke="black" stroke-width="0.3"/>
+<text x="240" y="381" text-anchor="middle" class="H" >— PHONOTACTICS —</text>
+<text x="240" y="391" text-anchor="middle" class="Ls" >Syllable: (C)(G)V(V)(C). Codas: -k, -t, -p, -m, -n, -ng, -j, -w.</text>
+<text x="240" y="401" text-anchor="middle" class="Ls" >Onset clusters: only C+w or C+j (written with semi-vowel diacritics).</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 41B — LAO: PHONOLOGY — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<defs><style>
+text{font-family:Georgia,serif;}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+.S{font-size:7px;letter-spacing:1.5px;}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.Lsi{font-size:11px;}
+.Lsis{font-size:8px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >SINHALA</text>
+<text x="240" y="50" text-anchor="middle" class="S" >Grammar &amp; Core Vocabulary</text>
+<line x1="20" y1="60" x2="460" y2="60" stroke="black" stroke-width="0.3"/>
+<text x="240" y="72" text-anchor="middle" class="H" >— SENTENCE STRUCTURE — SOV —</text>
+<text x="240" y="82" text-anchor="middle" class="Ls" >Sinhala is Subject-Object-Verb (SOV). Verb is always final.</text>
+<text x="240" y="92" text-anchor="middle" class="Ls" >Mama bata kanna. I rice eat. (mama=I bata=rice kanna=eat-INF)</text>
+<text x="240" y="102" text-anchor="middle" class="Ls" >Colloquial: Mama bat kanna. (shorter form, vowel reduction)</text>
+<line x1="20" y1="110" x2="460" y2="110" stroke="black" stroke-width="0.3"/>
+<text x="240" y="119" text-anchor="middle" class="H" >— CASE SYSTEM —</text>
+<text x="240" y="129" text-anchor="middle" class="Ls" >Sinhala has 7 cases marked by suffixes on nouns:</text>
+<text x="90" y="139" text-anchor="middle" class="Ls" >Nominative</text>
+<text x="170" y="139" text-anchor="middle" class="Ls" >-ø / -a</text>
+<text x="340" y="139" text-anchor="middle" class="Lx" >subject: minisa (the man)</text>
+<text x="90" y="150" text-anchor="middle" class="Ls" >Accusative</text>
+<text x="170" y="150" text-anchor="middle" class="Ls" >-va / -ta</text>
+<text x="340" y="150" text-anchor="middle" class="Lx" >object: minisata (to the man)</text>
+<text x="90" y="161" text-anchor="middle" class="Ls" >Dative</text>
+<text x="170" y="161" text-anchor="middle" class="Ls" >-ta / -ge</text>
+<text x="340" y="161" text-anchor="middle" class="Lx" >for/to: minisage (man's)</text>
+<text x="90" y="172" text-anchor="middle" class="Ls" >Genitive</text>
+<text x="170" y="172" text-anchor="middle" class="Ls" >-ge / -lagin</text>
+<text x="340" y="172" text-anchor="middle" class="Lx" >of: minisalagin (from the man)</text>
+<text x="90" y="183" text-anchor="middle" class="Ls" >Ablative</text>
+<text x="170" y="183" text-anchor="middle" class="Ls" >-lagin</text>
+<text x="340" y="183" text-anchor="middle" class="Lx" >from: lamaya lagin (from the child)</text>
+<text x="90" y="194" text-anchor="middle" class="Ls" >Instrumental</text>
+<text x="170" y="194" text-anchor="middle" class="Ls" >-gen</text>
+<text x="340" y="194" text-anchor="middle" class="Lx" >by/with: minisagen (by the man)</text>
+<text x="90" y="205" text-anchor="middle" class="Ls" >Locative</text>
+<text x="170" y="205" text-anchor="middle" class="Ls" >-ee / -hi</text>
+<text x="340" y="205" text-anchor="middle" class="Lx" >at/in: gamahe (in the village)</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H" >— VERB SYSTEM —</text>
+<text x="240" y="244" text-anchor="middle" class="Ls" >Verbs agree with subject in person, number, and gender.</text>
+<text x="120" y="254" text-anchor="middle" class="L" >kanna</text>
+<text x="310" y="254" text-anchor="middle" class="Ls" >eat (infinitive)</text>
+<text x="120" y="264" text-anchor="middle" class="L" >kamin inne</text>
+<text x="310" y="264" text-anchor="middle" class="Ls" >is eating (progressive)</text>
+<text x="120" y="274" text-anchor="middle" class="L" >kae-va</text>
+<text x="310" y="274" text-anchor="middle" class="Ls" >ate (past)</text>
+<text x="120" y="284" text-anchor="middle" class="L" >kanava</text>
+<text x="310" y="284" text-anchor="middle" class="Ls" >eats (present habitual)</text>
+<text x="120" y="294" text-anchor="middle" class="L" >kamin yavi</text>
+<text x="310" y="294" text-anchor="middle" class="Ls" >will be eating</text>
+<text x="120" y="304" text-anchor="middle" class="L" >nokana</text>
+<text x="310" y="304" text-anchor="middle" class="Ls" >does not eat (negative)</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H" >— CORE VOCABULARY —</text>
+<text x="50" y="344" text-anchor="middle" class="Ls" >අයිය්බල</text>
+<text x="175" y="344" text-anchor="middle" class="Lx" >hello (අයිය්බල)</text>
+<text x="50" y="354" text-anchor="middle" class="Ls" >ස්තුතියි</text>
+<text x="175" y="354" text-anchor="middle" class="Lx" >thank you</text>
+<text x="50" y="364" text-anchor="middle" class="Ls" >ඔඅ ලේ</text>
+<text x="175" y="364" text-anchor="middle" class="Lx" >yes</text>
+<text x="50" y="374" text-anchor="middle" class="Ls" >නේ</text>
+<text x="175" y="374" text-anchor="middle" class="Lx" >no</text>
+<text x="50" y="384" text-anchor="middle" class="Ls" >කනෝ කරයි</text>
+<text x="175" y="384" text-anchor="middle" class="Lx" >excuse me</text>
+<text x="50" y="394" text-anchor="middle" class="Ls" >oya kohomada?</text>
+<text x="175" y="394" text-anchor="middle" class="Lx" >how are you?</text>
+<text x="50" y="404" text-anchor="middle" class="Ls" >mama honda tama</text>
+<text x="175" y="404" text-anchor="middle" class="Lx" >I am fine</text>
+<text x="50" y="414" text-anchor="middle" class="Ls" >mama oyata adare karanava</text>
+<text x="175" y="414" text-anchor="middle" class="Lx" >I love you</text>
+<text x="50" y="424" text-anchor="middle" class="Ls" >vatura</text>
+<text x="175" y="424" text-anchor="middle" class="Lx" >water</text>
+<text x="50" y="434" text-anchor="middle" class="Ls" >gini</text>
+<text x="175" y="434" text-anchor="middle" class="Lx" >fire</text>
+<text x="50" y="444" text-anchor="middle" class="Ls" >bhumi</text>
+<text x="175" y="444" text-anchor="middle" class="Lx" >earth</text>
+<text x="50" y="454" text-anchor="middle" class="Ls" >minisa</text>
+<text x="175" y="454" text-anchor="middle" class="Lx" >person</text>
+<text x="285" y="344" text-anchor="middle" class="Ls" >kaalaya</text>
+<text x="410" y="344" text-anchor="middle" class="Lx" >time</text>
+<text x="285" y="354" text-anchor="middle" class="Ls" >sandha</text>
+<text x="410" y="354" text-anchor="middle" class="Lx" >moon</text>
+<text x="285" y="364" text-anchor="middle" class="Ls" >taruva</text>
+<text x="410" y="364" text-anchor="middle" class="Lx" >star</text>
+<text x="285" y="374" text-anchor="middle" class="Ls" >hitha</text>
+<text x="410" y="374" text-anchor="middle" class="Lx" >heart</text>
+<text x="285" y="384" text-anchor="middle" class="Ls" >adara</text>
+<text x="410" y="384" text-anchor="middle" class="Lx" >love</text>
+<text x="285" y="394" text-anchor="middle" class="Ls" >nidahas</text>
+<text x="410" y="394" text-anchor="middle" class="Lx" >freedom</text>
+<text x="285" y="404" text-anchor="middle" class="Ls" >smarana</text>
+<text x="410" y="404" text-anchor="middle" class="Lx" >memory</text>
+<text x="285" y="414" text-anchor="middle" class="Ls" >anagatha</text>
+<text x="410" y="414" text-anchor="middle" class="Lx" >future</text>
+<text x="285" y="424" text-anchor="middle" class="Ls" >lokaya</text>
+<text x="410" y="424" text-anchor="middle" class="Lx" >world</text>
+<text x="285" y="434" text-anchor="middle" class="Ls" >jiwithe</text>
+<text x="410" y="434" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="610" x2="460" y2="610" stroke="black" stroke-width="0.3"/>
+<text x="240" y="622" text-anchor="middle" class="M" >REMEMBER FORWARD — PLATE 44C — SINHALA: GRAMMAR — rememberforward.org — CC BY-SA 4.0</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
