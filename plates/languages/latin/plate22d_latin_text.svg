@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LATIN — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 22D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — VIRGIL, AENEID I.1–3 (19 BCE) —</text>
+<text x="240" y="78" text-anchor="middle" class="L" >Arma virumque cano, Troiae qui primus ab oris</text>
+<text x="240" y="88" text-anchor="middle" class="Lx" >arms man-and I-sing  Troy-of who first from shores</text>
+<text x="240" y="97" text-anchor="middle" class="L" >Italiam, fato profugus, Laviniaque venit</text>
+<text x="240" y="107" text-anchor="middle" class="Lx" >Italy fate-by exile-NOM Lavinian-and came</text>
+<text x="240" y="116" text-anchor="middle" class="L" >litora — multum ille et terris iactatus et alto</text>
+<text x="240" y="126" text-anchor="middle" class="Lx" >shores — much he both on-lands tossed and on-deep</text>
+<text x="240" y="135" text-anchor="middle" class="Ls" >"I sing of arms and the man, who first from the shores of Troy, exiled by fate,</text>
+<text x="240" y="143" text-anchor="middle" class="Ls" >came to Italy and the Lavinian shores — tossed much on land and sea."</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H" >— PASSAGE 2 — CAESAR, DE BELLO GALLICO I.1 (52 BCE) —</text>
+<text x="240" y="170" text-anchor="middle" class="L" >Gallia est omnis divisa in partes tres,</text>
+<text x="240" y="180" text-anchor="middle" class="Lx" >Gaul  is  all   divided into parts  three</text>
+<text x="240" y="189" text-anchor="middle" class="L" >quarum unam incolunt Belgae, aliam Aquitani,</text>
+<text x="240" y="199" text-anchor="middle" class="Lx" >of-which one  inhabit  Belgians another Aquitanians</text>
+<text x="240" y="208" text-anchor="middle" class="Ls" >tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.</text>
+<text x="240" y="217" text-anchor="middle" class="Ls" >"All of Gaul is divided into three parts, one of which the Belgians inhabit,</text>
+<text x="240" y="225" text-anchor="middle" class="Ls" >another the Aquitanians, the third those who in their own language are called Celts, in ours Gauls."</text>
+<line x1="20" y1="233" x2="460" y2="233" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H" >— PASSAGE 3 — CICERO, DE SENECTUTE 2.5 (44 BCE) —</text>
+<text x="240" y="252" text-anchor="middle" class="L" >Omnia aliena sunt, tempus tantum nostrum.</text>
+<text x="240" y="262" text-anchor="middle" class="Lx" >All   foreign are  time   only    our-own</text>
+<text x="240" y="271" text-anchor="middle" class="Ls" >"All things are foreign to us; time alone is our own."</text>
+<text x="240" y="281" text-anchor="middle" class="L" >Dum differtur vita transcurrit.</text>
+<text x="240" y="291" text-anchor="middle" class="Lx" >While it-is-delayed life runs-past</text>
+<text x="240" y="300" text-anchor="middle" class="Ls" >"While we delay, life runs on."  — Seneca, Epistulae I.1</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="black" stroke-width="0.3"/>
+<text x="240" y="316" text-anchor="middle" class="H" >— PASSAGE 4 — HORACE, ODES I.11 (23 BCE) —</text>
+<text x="240" y="327" text-anchor="middle" class="L" >Carpe diem, quam minimum credula postero.</text>
+<text x="240" y="337" text-anchor="middle" class="Lx" >Seize day   how  least   trusting  to-tomorrow</text>
+<text x="240" y="346" text-anchor="middle" class="Ls" >"Seize the day, trusting as little as possible in the next."</text>
+<text x="240" y="356" text-anchor="middle" class="Lx" >Note: carpe is imperative of carpo "to pluck/harvest" — more "pluck the day (like fruit)" than merely seize.</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="372" text-anchor="middle" class="H" >— PASSAGE 5 — LUCRETIUS, DE RERUM NATURA I.1–2 (60s BCE) —</text>
+<text x="240" y="383" text-anchor="middle" class="L" >Aeneadum genetrix, hominum divumque voluptas,</text>
+<text x="240" y="393" text-anchor="middle" class="Lx" >Of-Aeneas-sons mother  humans-of gods-and  pleasure</text>
+<text x="240" y="402" text-anchor="middle" class="L" >alma Venus, caeli subter labentia signa</text>
+<text x="240" y="412" text-anchor="middle" class="Lx" >nurturing Venus  sky-of beneath gliding  signs</text>
+<text x="240" y="421" text-anchor="middle" class="Ls" >"Mother of the sons of Aeneas, delight of men and gods, nurturing Venus,</text>
+<text x="240" y="429" text-anchor="middle" class="Ls" >who beneath the gliding signs of heaven…" — opening of the first Latin philosophical poem.</text>
+<line x1="20" y1="437" x2="460" y2="437" stroke="black" stroke-width="0.3"/>
+<text x="240" y="446" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="458" text-anchor="middle" class="L" >Hoc vobis, gratis, ab hominibus qui futura memoria tenebant, factum est.</text>
+<text x="240" y="469" text-anchor="middle" class="Lx" >This  for-you freely by  men       who  future-ACC memory  held        made   is</text>
+<text x="240" y="479" text-anchor="middle" class="Ls" >"This was made for you, freely, by people who held the future in their memory."</text>
+<line x1="20" y1="487" x2="460" y2="487" stroke="black" stroke-width="0.3"/>
+<text x="240" y="496" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN LATIN —</text>
+<text x="240" y="507" text-anchor="middle" class="L" >Latin expresses "forward in time" via futurum (neut. gerundive of esse "to be" = "what is about to be").</text>
+<text x="240" y="517" text-anchor="middle" class="Ls" >futurum = "that which will be" — a participial noun, not an abstract concept: the future as event in motion.</text>
+<text x="240" y="527" text-anchor="middle" class="Ls" >memoria tenebant: "held in memory" — tenere is to hold physically; memory as something grasped, not merely stored.</text>
+<text x="240" y="537" text-anchor="middle" class="Ls" >gratis: ablative plural of gratia "grace/favor" — freely given, without expectation of return.</text>
+<text x="240" y="547" text-anchor="middle" class="Ls" >factum est: perfect passive — "it was made" — emphasizing the completed act and its recipient, not the maker.</text>
+<line x1="20" y1="556" x2="460" y2="556" stroke="black" stroke-width="0.3"/>
+<text x="240" y="565" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="576" text-anchor="middle" class="Ls" >Latin is the ancestor of French, Spanish, Portuguese, Italian, Romanian, and Catalan.</text>
+<text x="240" y="585" text-anchor="middle" class="Ls" >It underlies ~60% of English vocabulary, all scientific nomenclature, and most legal and medical terms.</text>
+<text x="240" y="594" text-anchor="middle" class="Ls" >If this script is unfamiliar: the Latin alphabet is the same script used in English. All 26 letters appear above.</text>
+<text x="240" y="603" text-anchor="middle" class="Ls" >Latin was spoken ~700 BCE – 7th c. CE; thereafter it became the language of scholarship until ~1700 CE.</text>
+<text x="240" y="612" text-anchor="middle" class="Ls" >Estimated native speakers today: none. Estimated readers: millions. It is a living scholarly language.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 22 · LATIN · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

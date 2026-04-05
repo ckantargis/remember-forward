@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LATIN — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 22A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— THE LATIN ALPHABET — ORIGIN AND SPREAD —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Latin is written in the Latin alphabet — the most widely used writing system on Earth today.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Descended from Etruscan script (7th c. BCE), itself from Greek, ultimately from Phoenician.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >Classical Latin used 23 letters. Modern Latin-based alphabets vary from 18 (Hawaiian) to 40+ letters.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— CLASSICAL LATIN ALPHABET — 23 LETTERS —</text>
+<text x="240" y="125" text-anchor="middle" class="Lx" >Letters I/J and U/V were single letters in Classical Latin (I=vowel/consonant; V=vowel/consonant).</text>
+<text x="240" y="133" text-anchor="middle" class="Lx" >Letter W did not exist. K and Y/Z were rare (used in Greek loanwords only).</text>
+<text x="32" y="143" text-anchor="middle" class="Lx" >MAJ</text>
+<text x="60" y="143" text-anchor="middle" class="Lx" >min</text>
+<text x="95" y="143" text-anchor="middle" class="Lx" >IPA</text>
+<text x="270" y="143" text-anchor="middle" class="Lx" >Notes</text>
+<text x="32" y="151" text-anchor="middle" class="Ls" >A</text>
+<text x="60" y="151" text-anchor="middle" class="Lx" >a</text>
+<text x="95" y="151" text-anchor="middle" class="Lx" >/a/</text>
+<text x="275" y="151" text-anchor="middle" class="Lx" >as in "father"</text>
+<text x="32" y="160" text-anchor="middle" class="Ls" >B</text>
+<text x="60" y="160" text-anchor="middle" class="Lx" >b</text>
+<text x="95" y="160" text-anchor="middle" class="Lx" >/b/</text>
+<text x="275" y="160" text-anchor="middle" class="Lx" >bilabial stop</text>
+<text x="32" y="169" text-anchor="middle" class="Ls" >C</text>
+<text x="60" y="169" text-anchor="middle" class="Lx" >c</text>
+<text x="95" y="169" text-anchor="middle" class="Lx" >/k/</text>
+<text x="275" y="169" text-anchor="middle" class="Lx" >always hard [k]; no /s/ in Classical Latin</text>
+<text x="32" y="178" text-anchor="middle" class="Ls" >D</text>
+<text x="60" y="178" text-anchor="middle" class="Lx" >d</text>
+<text x="95" y="178" text-anchor="middle" class="Lx" >/d/</text>
+<text x="275" y="178" text-anchor="middle" class="Lx" >alveolar stop</text>
+<text x="32" y="187" text-anchor="middle" class="Ls" >E</text>
+<text x="60" y="187" text-anchor="middle" class="Lx" >e</text>
+<text x="95" y="187" text-anchor="middle" class="Lx" >/e/</text>
+<text x="275" y="187" text-anchor="middle" class="Lx" >short, like "bed"</text>
+<text x="32" y="196" text-anchor="middle" class="Ls" >F</text>
+<text x="60" y="196" text-anchor="middle" class="Lx" >f</text>
+<text x="95" y="196" text-anchor="middle" class="Lx" >/f/</text>
+<text x="275" y="196" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="32" y="205" text-anchor="middle" class="Ls" >G</text>
+<text x="60" y="205" text-anchor="middle" class="Lx" >g</text>
+<text x="95" y="205" text-anchor="middle" class="Lx" >/ɡ/</text>
+<text x="275" y="205" text-anchor="middle" class="Lx" >always hard [g]</text>
+<text x="32" y="214" text-anchor="middle" class="Ls" >H</text>
+<text x="60" y="214" text-anchor="middle" class="Lx" >h</text>
+<text x="95" y="214" text-anchor="middle" class="Lx" >/h/</text>
+<text x="275" y="214" text-anchor="middle" class="Lx" >weakly aspirated, often silent</text>
+<text x="32" y="223" text-anchor="middle" class="Ls" >I</text>
+<text x="60" y="223" text-anchor="middle" class="Lx" >i</text>
+<text x="95" y="223" text-anchor="middle" class="Lx" >/i/ or /j/</text>
+<text x="275" y="223" text-anchor="middle" class="Lx" >vowel or glide (consonant before vowel)</text>
+<text x="32" y="232" text-anchor="middle" class="Ls" >K</text>
+<text x="60" y="232" text-anchor="middle" class="Lx" >k</text>
+<text x="95" y="232" text-anchor="middle" class="Lx" >/k/</text>
+<text x="275" y="232" text-anchor="middle" class="Lx" >rare; used in Kalendae and Greek loans</text>
+<text x="32" y="241" text-anchor="middle" class="Ls" >L</text>
+<text x="60" y="241" text-anchor="middle" class="Lx" >l</text>
+<text x="95" y="241" text-anchor="middle" class="Lx" >/l/</text>
+<text x="275" y="241" text-anchor="middle" class="Lx" >lateral approximant</text>
+<text x="32" y="250" text-anchor="middle" class="Ls" >M</text>
+<text x="60" y="250" text-anchor="middle" class="Lx" >m</text>
+<text x="95" y="250" text-anchor="middle" class="Lx" >/m/</text>
+<text x="275" y="250" text-anchor="middle" class="Lx" >bilabial nasal</text>
+<text x="32" y="259" text-anchor="middle" class="Ls" >N</text>
+<text x="60" y="259" text-anchor="middle" class="Lx" >n</text>
+<text x="95" y="259" text-anchor="middle" class="Lx" >/n/</text>
+<text x="275" y="259" text-anchor="middle" class="Lx" >alveolar nasal; [ŋ] before velar</text>
+<text x="32" y="268" text-anchor="middle" class="Ls" >O</text>
+<text x="60" y="268" text-anchor="middle" class="Lx" >o</text>
+<text x="95" y="268" text-anchor="middle" class="Lx" >/o/</text>
+<text x="275" y="268" text-anchor="middle" class="Lx" >mid back vowel</text>
+<text x="32" y="277" text-anchor="middle" class="Ls" >P</text>
+<text x="60" y="277" text-anchor="middle" class="Lx" >p</text>
+<text x="95" y="277" text-anchor="middle" class="Lx" >/p/</text>
+<text x="275" y="277" text-anchor="middle" class="Lx" >bilabial stop, unaspirated</text>
+<text x="32" y="286" text-anchor="middle" class="Ls" >Q</text>
+<text x="60" y="286" text-anchor="middle" class="Lx" >q</text>
+<text x="95" y="286" text-anchor="middle" class="Lx" >/k/</text>
+<text x="275" y="286" text-anchor="middle" class="Lx" >used only before V: QV = [kw]</text>
+<text x="32" y="295" text-anchor="middle" class="Ls" >R</text>
+<text x="60" y="295" text-anchor="middle" class="Lx" >r</text>
+<text x="95" y="295" text-anchor="middle" class="Lx" >/r/</text>
+<text x="275" y="295" text-anchor="middle" class="Lx" >trilled alveolar [r]</text>
+<text x="32" y="304" text-anchor="middle" class="Ls" >S</text>
+<text x="60" y="304" text-anchor="middle" class="Lx" >s</text>
+<text x="95" y="304" text-anchor="middle" class="Lx" >/s/</text>
+<text x="275" y="304" text-anchor="middle" class="Lx" >always voiceless [s]</text>
+<text x="32" y="313" text-anchor="middle" class="Ls" >T</text>
+<text x="60" y="313" text-anchor="middle" class="Lx" >t</text>
+<text x="95" y="313" text-anchor="middle" class="Lx" >/t/</text>
+<text x="275" y="313" text-anchor="middle" class="Lx" >alveolar stop, unaspirated</text>
+<text x="32" y="322" text-anchor="middle" class="Ls" >V</text>
+<text x="60" y="322" text-anchor="middle" class="Lx" >v</text>
+<text x="95" y="322" text-anchor="middle" class="Lx" >/u/ or /w/</text>
+<text x="275" y="322" text-anchor="middle" class="Lx" >vowel [u] or consonant [w]</text>
+<text x="32" y="331" text-anchor="middle" class="Ls" >X</text>
+<text x="60" y="331" text-anchor="middle" class="Lx" >x</text>
+<text x="95" y="331" text-anchor="middle" class="Lx" >/ks/</text>
+<text x="275" y="331" text-anchor="middle" class="Lx" >digraph sound</text>
+<text x="32" y="340" text-anchor="middle" class="Ls" >Y</text>
+<text x="60" y="340" text-anchor="middle" class="Lx" >y</text>
+<text x="95" y="340" text-anchor="middle" class="Lx" >/y/</text>
+<text x="275" y="340" text-anchor="middle" class="Lx" >Greek upsilon; rare in loans</text>
+<text x="32" y="349" text-anchor="middle" class="Ls" >Z</text>
+<text x="60" y="349" text-anchor="middle" class="Lx" >z</text>
+<text x="95" y="349" text-anchor="middle" class="Lx" >/z/</text>
+<text x="275" y="349" text-anchor="middle" class="Lx" >Greek zeta; rare in loans</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H" >— ROMAN NUMERALS —</text>
+<text x="240" y="378" text-anchor="middle" class="Ls" >Additive-subtractive system using letter symbols. No zero. Positional value limited.</text>
+<text x="80" y="388" text-anchor="middle" class="Ls" >I=1</text>
+<text x="170" y="388" text-anchor="middle" class="Ls" >V=5</text>
+<text x="260" y="388" text-anchor="middle" class="Ls" >X=10</text>
+<text x="350" y="388" text-anchor="middle" class="Ls" >L=50</text>
+<text x="80" y="398" text-anchor="middle" class="Ls" >C=100</text>
+<text x="170" y="398" text-anchor="middle" class="Ls" >D=500</text>
+<text x="260" y="398" text-anchor="middle" class="Ls" >M=1000</text>
+<text x="240" y="409" text-anchor="middle" class="Lx" >Subtraction rule: smaller before larger = subtract (IV=4, IX=9, XL=40, XC=90, CD=400, CM=900)</text>
+<text x="240" y="418" text-anchor="middle" class="Lx" >MCMXCIX = 1999 · MMXXVI = 2026 · Overbar: V̅ = 5000 · M̅ = 1,000,000</text>
+<line x1="20" y1="427" x2="460" y2="427" stroke="black" stroke-width="0.3"/>
+<text x="240" y="436" text-anchor="middle" class="H" >— SCRIPT HISTORY AND EVOLUTION —</text>
+<text x="240" y="447" text-anchor="middle" class="Ls" >~700 BCE: Etruscan alphabet adapted from western Greek (Euboean) variant at Cumae</text>
+<text x="240" y="456" text-anchor="middle" class="Ls" >~600 BCE: Romans adapt Etruscan alphabet — dropping unused letters, adding G (Spurius Carvilius, 3rd c.)</text>
+<text x="240" y="465" text-anchor="middle" class="Ls" >1st c. BCE: Classical 23-letter Latin alphabet stabilized — monumental inscriptions (CAPITALIS QUADRATA)</text>
+<text x="240" y="474" text-anchor="middle" class="Ls" >2nd–4th c. CE: Rustic capitals (handwriting), then uncial (rounded) for manuscripts</text>
+<text x="240" y="483" text-anchor="middle" class="Ls" >8th–9th c.: Carolingian minuscule — lowercase letters standardized by Alcuin under Charlemagne</text>
+<text x="240" y="492" text-anchor="middle" class="Ls" >15th c.: Humanist script (basis of modern Roman type) — Poggio Bracciolini from Carolingian models</text>
+<text x="240" y="501" text-anchor="middle" class="Ls" >1450s: Gutenberg moveable type — Latin letters cast in metal, spread Latin alphabet globally</text>
+<line x1="20" y1="510" x2="460" y2="510" stroke="black" stroke-width="0.3"/>
+<text x="240" y="519" text-anchor="middle" class="H" >— INSCRIPTION EXAMPLE — TRAJAN'S COLUMN, 113 CE —</text>
+<text x="240" y="530" text-anchor="middle" class="L" >SENATVS POPVLVSQVE ROMANVS</text>
+<text x="240" y="540" text-anchor="middle" class="Lx" >Senatus Populusque Romanus</text>
+<text x="240" y="549" text-anchor="middle" class="Ls" >"The Senate and People of Rome" — SPQR, official motto of Rome, still used today</text>
+<text x="240" y="558" text-anchor="middle" class="Lx" >Note V for both U and W sounds · Q followed by V as [kw] · No word spacing in early inscriptions</text>
+<line x1="20" y1="566" x2="460" y2="566" stroke="black" stroke-width="0.3"/>
+<text x="240" y="575" text-anchor="middle" class="H" >— MODERN LATIN ALPHABET (26 LETTERS) —</text>
+<text x="240" y="585" text-anchor="middle" class="Ls" >Added letters: J (from I, ~15th c.) · U (from V, vowel use, ~16th c.) · W (from VV, ~10th c. Germanic)</text>
+<text x="240" y="595" text-anchor="middle" class="Ls" >Modern variants add diacritics: é ñ ü ç ø ă — same 26 base letters underlie ~70 national alphabets</text>
+<text x="240" y="604" text-anchor="middle" class="Ls" >Latin alphabet now writes: English, Spanish, French, Portuguese, German, Malay, Swahili, Vietnamese, and more</text>
+<text x="240" y="613" text-anchor="middle" class="Ls" >Estimated 4+ billion people read some form of Latin-script language today</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 22 · LATIN · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

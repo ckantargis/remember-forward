@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LATIN — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 22B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— CLASSICAL LATIN PRONUNCIATION —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Classical Latin (1st c. BCE – 2nd c. CE) pronunciation reconstructed from grammarians, meter, and borrowings.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Latin is quantity-sensitive: vowel length (short vs. long) is phonemic — it changes meaning.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >malum (short a) = "evil" · mālum (long ā) = "apple" — distinguished only by vowel length</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VOWELS — 5 SHORT + 5 LONG —</text>
+<text x="55" y="125" text-anchor="middle" class="Lx" >Letter</text>
+<text x="130" y="125" text-anchor="middle" class="Lx" >IPA</text>
+<text x="250" y="125" text-anchor="middle" class="Lx" >Quality</text>
+<text x="390" y="125" text-anchor="middle" class="Lx" >Example</text>
+<text x="55" y="134" text-anchor="middle" class="Ls" >a / ā</text>
+<text x="130" y="134" text-anchor="middle" class="Lx" >/a/ vs /aː/</text>
+<text x="250" y="134" text-anchor="middle" class="Lx" >low central open</text>
+<text x="390" y="134" text-anchor="middle" class="Lx" >pater / māter</text>
+<text x="55" y="145" text-anchor="middle" class="Ls" >e / ē</text>
+<text x="130" y="145" text-anchor="middle" class="Lx" >/e/ vs /eː/</text>
+<text x="250" y="145" text-anchor="middle" class="Lx" >mid front</text>
+<text x="390" y="145" text-anchor="middle" class="Lx" >et / rēx</text>
+<text x="55" y="156" text-anchor="middle" class="Ls" >i / ī</text>
+<text x="130" y="156" text-anchor="middle" class="Lx" >/i/ vs /iː/</text>
+<text x="250" y="156" text-anchor="middle" class="Lx" >high front</text>
+<text x="390" y="156" text-anchor="middle" class="Lx" >in / vīta</text>
+<text x="55" y="167" text-anchor="middle" class="Ls" >o / ō</text>
+<text x="130" y="167" text-anchor="middle" class="Lx" >/o/ vs /oː/</text>
+<text x="250" y="167" text-anchor="middle" class="Lx" >mid back rounded</text>
+<text x="390" y="167" text-anchor="middle" class="Lx" >os / vōx</text>
+<text x="55" y="178" text-anchor="middle" class="Ls" >u / ū</text>
+<text x="130" y="178" text-anchor="middle" class="Lx" >/u/ vs /uː/</text>
+<text x="250" y="178" text-anchor="middle" class="Lx" >high back rounded</text>
+<text x="390" y="178" text-anchor="middle" class="Lx" >ut / lūna</text>
+<text x="55" y="189" text-anchor="middle" class="Ls" >y / ȳ</text>
+<text x="130" y="189" text-anchor="middle" class="Lx" >/y/ vs /yː/</text>
+<text x="250" y="189" text-anchor="middle" class="Lx" >high front rounded (Greek loans)</text>
+<text x="390" y="189" text-anchor="middle" class="Lx" >tyrannus</text>
+<text x="240" y="206" text-anchor="middle" class="Ls" >Diphthongs: ae /aĕ/ → "eye" · oe /oĕ/ → rare · au /aŭ/ → "ow" · eu /eŭ/ → rare</text>
+<line x1="20" y1="214" x2="460" y2="214" stroke="black" stroke-width="0.3"/>
+<text x="240" y="223" text-anchor="middle" class="H" >— CONSONANT INVENTORY —</text>
+<text x="45" y="233" text-anchor="middle" class="Ls" >p b</text>
+<text x="100" y="233" text-anchor="middle" class="Lx" >/p b/</text>
+<text x="185" y="233" text-anchor="middle" class="Lx" >bilabial stops</text>
+<text x="360" y="233" text-anchor="middle" class="Lx" >unaspirated — pater, bellum</text>
+<text x="45" y="245" text-anchor="middle" class="Ls" >t d</text>
+<text x="100" y="245" text-anchor="middle" class="Lx" >/t d/</text>
+<text x="185" y="245" text-anchor="middle" class="Lx" >alveolar stops</text>
+<text x="360" y="245" text-anchor="middle" class="Lx" >unaspirated — terra, deus</text>
+<text x="45" y="257" text-anchor="middle" class="Ls" >c g</text>
+<text x="100" y="257" text-anchor="middle" class="Lx" >/k ɡ/</text>
+<text x="185" y="257" text-anchor="middle" class="Lx" >velar stops</text>
+<text x="360" y="257" text-anchor="middle" class="Lx" >always hard — caelum, gloria</text>
+<text x="45" y="269" text-anchor="middle" class="Ls" >f</text>
+<text x="100" y="269" text-anchor="middle" class="Lx" >/f/</text>
+<text x="185" y="269" text-anchor="middle" class="Lx" >labiodental fricative</text>
+<text x="360" y="269" text-anchor="middle" class="Lx" >filia, fortis</text>
+<text x="45" y="281" text-anchor="middle" class="Ls" >s</text>
+<text x="100" y="281" text-anchor="middle" class="Lx" >/s/</text>
+<text x="185" y="281" text-anchor="middle" class="Lx" >always voiceless</text>
+<text x="360" y="281" text-anchor="middle" class="Lx" >sol, rosa (never /z/)</text>
+<text x="45" y="293" text-anchor="middle" class="Ls" >h</text>
+<text x="100" y="293" text-anchor="middle" class="Lx" >/h/</text>
+<text x="185" y="293" text-anchor="middle" class="Lx" >glottal, often silent</text>
+<text x="360" y="293" text-anchor="middle" class="Lx" >homo, herba</text>
+<text x="45" y="305" text-anchor="middle" class="Ls" >m n</text>
+<text x="100" y="305" text-anchor="middle" class="Lx" >/m n/</text>
+<text x="185" y="305" text-anchor="middle" class="Lx" >nasals</text>
+<text x="360" y="305" text-anchor="middle" class="Lx" >[ŋ] before velars: nunc /nuŋk/</text>
+<text x="45" y="317" text-anchor="middle" class="Ls" >l r</text>
+<text x="100" y="317" text-anchor="middle" class="Lx" >/l r/</text>
+<text x="185" y="317" text-anchor="middle" class="Lx" >lateral / trill</text>
+<text x="360" y="317" text-anchor="middle" class="Lx" >r = trilled [r], l = clear [l]</text>
+<text x="45" y="329" text-anchor="middle" class="Ls" >v</text>
+<text x="100" y="329" text-anchor="middle" class="Lx" >/w/</text>
+<text x="185" y="329" text-anchor="middle" class="Lx" >labio-velar glide</text>
+<text x="360" y="329" text-anchor="middle" class="Lx" >vir = [wir], not [vir]</text>
+<text x="45" y="341" text-anchor="middle" class="Ls" >i/j</text>
+<text x="100" y="341" text-anchor="middle" class="Lx" >/j/</text>
+<text x="185" y="341" text-anchor="middle" class="Lx" >palatal glide</text>
+<text x="360" y="341" text-anchor="middle" class="Lx" >iam = [jam], iocus = [jokus]</text>
+<text x="45" y="353" text-anchor="middle" class="Ls" >qu</text>
+<text x="100" y="353" text-anchor="middle" class="Lx" >/kw/</text>
+<text x="185" y="353" text-anchor="middle" class="Lx" >labiovelar cluster</text>
+<text x="360" y="353" text-anchor="middle" class="Lx" >quis, aqua = /akwa/</text>
+<text x="45" y="365" text-anchor="middle" class="Ls" >x</text>
+<text x="100" y="365" text-anchor="middle" class="Lx" >/ks/</text>
+<text x="185" y="365" text-anchor="middle" class="Lx" >consonant cluster</text>
+<text x="360" y="365" text-anchor="middle" class="Lx" >rex /reks/</text>
+<text x="45" y="377" text-anchor="middle" class="Ls" >z</text>
+<text x="100" y="377" text-anchor="middle" class="Lx" >/z/ or /dz/</text>
+<text x="185" y="377" text-anchor="middle" class="Lx" >Greek loans only</text>
+<text x="360" y="377" text-anchor="middle" class="Lx" >zona /zona/</text>
+<line x1="20" y1="394" x2="460" y2="394" stroke="black" stroke-width="0.3"/>
+<text x="240" y="403" text-anchor="middle" class="H" >— SYLLABLE QUANTITY AND STRESS —</text>
+<text x="240" y="414" text-anchor="middle" class="L" >A syllable is HEAVY (long) if: (1) it contains a long vowel/diphthong, OR (2) it is closed by a consonant.</text>
+<text x="240" y="424" text-anchor="middle" class="Ls" >A syllable is LIGHT (short) if: it contains a short vowel and ends in that vowel.</text>
+<text x="240" y="433" text-anchor="middle" class="Ls" >Stress rule: stress the PENULTIMATE (second-to-last) syllable IF it is heavy.</text>
+<text x="240" y="442" text-anchor="middle" class="Ls" >If penultimate is light, stress falls on ANTEPENULTIMATE (third from last).</text>
+<text x="240" y="451" text-anchor="middle" class="Ls" >Two-syllable words: always stress first syllable.</text>
+<text x="240" y="460" text-anchor="middle" class="Lx" >amī-cus: ami- heavy (long ī) → stress ami- → a-MĪ-cus</text>
+<text x="240" y="469" text-anchor="middle" class="Lx" >do-mi-nus: -mi- light (short i, open) → stress DOM- → DŌ-mi-nus</text>
+<text x="240" y="478" text-anchor="middle" class="Lx" >re-pub-li-ca: -pub- heavy (closed by b) → stress -pub- → re-PŪB-li-ca</text>
+<line x1="20" y1="486" x2="460" y2="486" stroke="black" stroke-width="0.3"/>
+<text x="240" y="495" text-anchor="middle" class="H" >— POETIC METER — DACTYLIC HEXAMETER —</text>
+<text x="240" y="506" text-anchor="middle" class="L" >Homer and Virgil use dactylic hexameter: six feet per line, dactyl (— ∪ ∪) or spondee (— —).</text>
+<text x="240" y="516" text-anchor="middle" class="Ls" >Arma virumque cano — AR-ma vi-RUM-que CA-no (Aeneid I.1)</text>
+<text x="240" y="525" text-anchor="middle" class="Lx" >— ∪∪ | — — | — — | — ∪∪ | — ∪∪ | — —</text>
+<text x="240" y="534" text-anchor="middle" class="Ls" >"I sing of arms and the man" — quantity-based, NOT stress-based meter</text>
+<line x1="20" y1="542" x2="460" y2="542" stroke="black" stroke-width="0.3"/>
+<text x="240" y="551" text-anchor="middle" class="H" >— VOWEL CHANGES IN VULGAR LATIN → ROMANCE —</text>
+<text x="240" y="562" text-anchor="middle" class="Ls" >By 4th–5th c. CE: vowel length distinctions collapsed; stressed syllable quality (open/close) replaced them.</text>
+<text x="240" y="571" text-anchor="middle" class="Ls" >This collapse drove Romance divergence: Latin ē and ĭ merged in many areas; ō and ŭ merged elsewhere.</text>
+<text x="240" y="580" text-anchor="middle" class="Ls" >Latin caballum → Spanish caballo, French cheval, Italian cavallo, Portuguese cavalo</text>
+<text x="240" y="589" text-anchor="middle" class="Ls" >Latin noctem → Spanish noche, French nuit, Italian notte, Portuguese noite</text>
+<text x="240" y="598" text-anchor="middle" class="Ls" >The sound changes that built five modern languages are visible in the Latin source words.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 22 · LATIN · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >LATIN — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 22C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— INFLECTED LANGUAGE — SIX NOUN CASES —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Latin is highly inflected: endings mark grammatical role, not word order. Word order is flexible.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Nouns decline for: CASE (6) × NUMBER (singular/plural) × GENDER (M/F/N) × DECLENSION (5 patterns).</text>
+<text x="60" y="99" text-anchor="middle" class="Lx" >Case</text>
+<text x="115" y="99" text-anchor="middle" class="Lx" >Abbr</text>
+<text x="185" y="99" text-anchor="middle" class="Lx" >Function</text>
+<text x="310" y="99" text-anchor="middle" class="Lx" >Example</text>
+<text x="415" y="99" text-anchor="middle" class="Lx" >Gloss</text>
+<text x="60" y="108" text-anchor="middle" class="Lx" >Nominative</text>
+<text x="115" y="108" text-anchor="middle" class="Lx" >NOM</text>
+<text x="185" y="108" text-anchor="middle" class="Lx" >Subject</text>
+<text x="310" y="108" text-anchor="middle" class="Lx" >Puella amat.</text>
+<text x="415" y="108" text-anchor="middle" class="Lx" >The girl loves.</text>
+<text x="60" y="119" text-anchor="middle" class="Lx" >Genitive</text>
+<text x="115" y="119" text-anchor="middle" class="Lx" >GEN</text>
+<text x="185" y="119" text-anchor="middle" class="Lx" >Possession / of</text>
+<text x="310" y="119" text-anchor="middle" class="Lx" >amor puellae</text>
+<text x="415" y="119" text-anchor="middle" class="Lx" >love of the girl</text>
+<text x="60" y="130" text-anchor="middle" class="Lx" >Dative</text>
+<text x="115" y="130" text-anchor="middle" class="Lx" >DAT</text>
+<text x="185" y="130" text-anchor="middle" class="Lx" >Indirect object / to</text>
+<text x="310" y="130" text-anchor="middle" class="Lx" >dat puellae</text>
+<text x="415" y="130" text-anchor="middle" class="Lx" >gives to the girl</text>
+<text x="60" y="141" text-anchor="middle" class="Lx" >Accusative</text>
+<text x="115" y="141" text-anchor="middle" class="Lx" >ACC</text>
+<text x="185" y="141" text-anchor="middle" class="Lx" >Direct object</text>
+<text x="310" y="141" text-anchor="middle" class="Lx" >amat puellam</text>
+<text x="415" y="141" text-anchor="middle" class="Lx" >loves the girl</text>
+<text x="60" y="152" text-anchor="middle" class="Lx" >Ablative</text>
+<text x="115" y="152" text-anchor="middle" class="Lx" >ABL</text>
+<text x="185" y="152" text-anchor="middle" class="Lx" >By/with/from/in</text>
+<text x="310" y="152" text-anchor="middle" class="Lx" >cum puellā</text>
+<text x="415" y="152" text-anchor="middle" class="Lx" >with the girl</text>
+<text x="60" y="163" text-anchor="middle" class="Lx" >Vocative</text>
+<text x="115" y="163" text-anchor="middle" class="Lx" >VOC</text>
+<text x="185" y="163" text-anchor="middle" class="Lx" >Direct address</text>
+<text x="310" y="163" text-anchor="middle" class="Lx" >O puella!</text>
+<text x="415" y="163" text-anchor="middle" class="Lx" >O girl!</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H" >— 1ST DECLENSION — puella "girl" (Feminine) —</text>
+<text x="240" y="196" text-anchor="middle" class="Lx" >Pattern -a stems: puella, terra, aqua, via, luna, stella — mostly feminine nouns</text>
+<text x="120" y="204" text-anchor="middle" class="Lx" >Singular</text>
+<text x="320" y="204" text-anchor="middle" class="Lx" >Plural</text>
+<text x="60" y="212" text-anchor="middle" class="Lx" >NOM</text>
+<text x="155" y="212" text-anchor="middle" class="Ls" >puella</text>
+<text x="320" y="212" text-anchor="middle" class="Ls" >puellae</text>
+<text x="60" y="221" text-anchor="middle" class="Lx" >GEN</text>
+<text x="155" y="221" text-anchor="middle" class="Ls" >puellae</text>
+<text x="320" y="221" text-anchor="middle" class="Ls" >puellarum</text>
+<text x="60" y="230" text-anchor="middle" class="Lx" >DAT</text>
+<text x="155" y="230" text-anchor="middle" class="Ls" >puellae</text>
+<text x="320" y="230" text-anchor="middle" class="Ls" >puellis</text>
+<text x="60" y="239" text-anchor="middle" class="Lx" >ACC</text>
+<text x="155" y="239" text-anchor="middle" class="Ls" >puellam</text>
+<text x="320" y="239" text-anchor="middle" class="Ls" >puellas</text>
+<text x="60" y="248" text-anchor="middle" class="Lx" >ABL</text>
+<text x="155" y="248" text-anchor="middle" class="Ls" >puellā</text>
+<text x="320" y="248" text-anchor="middle" class="Ls" >puellis</text>
+<text x="60" y="257" text-anchor="middle" class="Lx" >VOC</text>
+<text x="155" y="257" text-anchor="middle" class="Ls" >puella</text>
+<text x="320" y="257" text-anchor="middle" class="Ls" >puellae</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="H" >— VERB SYSTEM — amare "to love" —</text>
+<text x="240" y="288" text-anchor="middle" class="Ls" >Latin verbs conjugate for: PERSON (1/2/3) × NUMBER (sg/pl) × TENSE × MOOD × VOICE (active/passive).</text>
+<text x="240" y="297" text-anchor="middle" class="Lx" >6 tenses: present, imperfect, future, perfect, pluperfect, future perfect.</text>
+<text x="240" y="306" text-anchor="middle" class="Lx" >4 moods: indicative, subjunctive, imperative, infinitive.</text>
+<text x="120" y="314" text-anchor="middle" class="Lx" >Present Active Indicative</text>
+<text x="70" y="322" text-anchor="middle" class="Lx" >1sg</text>
+<text x="155" y="322" text-anchor="middle" class="Ls" >amō</text>
+<text x="270" y="322" text-anchor="middle" class="Lx" >I love</text>
+<text x="70" y="332" text-anchor="middle" class="Lx" >2sg</text>
+<text x="155" y="332" text-anchor="middle" class="Ls" >amās</text>
+<text x="270" y="332" text-anchor="middle" class="Lx" >you love</text>
+<text x="70" y="342" text-anchor="middle" class="Lx" >3sg</text>
+<text x="155" y="342" text-anchor="middle" class="Ls" >amat</text>
+<text x="270" y="342" text-anchor="middle" class="Lx" >he/she/it loves</text>
+<text x="70" y="352" text-anchor="middle" class="Lx" >1pl</text>
+<text x="155" y="352" text-anchor="middle" class="Ls" >amāmus</text>
+<text x="270" y="352" text-anchor="middle" class="Lx" >we love</text>
+<text x="70" y="362" text-anchor="middle" class="Lx" >2pl</text>
+<text x="155" y="362" text-anchor="middle" class="Ls" >amātis</text>
+<text x="270" y="362" text-anchor="middle" class="Lx" >you (pl) love</text>
+<text x="70" y="372" text-anchor="middle" class="Lx" >3pl</text>
+<text x="155" y="372" text-anchor="middle" class="Ls" >amant</text>
+<text x="270" y="372" text-anchor="middle" class="Lx" >they love</text>
+<text x="360" y="314" text-anchor="middle" class="Lx" >Perfect Active Indicative</text>
+<text x="320" y="322" text-anchor="middle" class="Lx" >1sg</text>
+<text x="385" y="322" text-anchor="middle" class="Ls" >amāvī</text>
+<text x="450" y="322" text-anchor="start" class="Lx" >I loved / have loved</text>
+<text x="320" y="332" text-anchor="middle" class="Lx" >2sg</text>
+<text x="385" y="332" text-anchor="middle" class="Ls" >amāvistī</text>
+<text x="450" y="332" text-anchor="start" class="Lx" >you loved</text>
+<text x="320" y="342" text-anchor="middle" class="Lx" >3sg</text>
+<text x="385" y="342" text-anchor="middle" class="Ls" >amāvit</text>
+<text x="450" y="342" text-anchor="start" class="Lx" >he/she loved</text>
+<text x="320" y="352" text-anchor="middle" class="Lx" >1pl</text>
+<text x="385" y="352" text-anchor="middle" class="Ls" >amāvimus</text>
+<text x="450" y="352" text-anchor="start" class="Lx" >we loved</text>
+<text x="320" y="362" text-anchor="middle" class="Lx" >2pl</text>
+<text x="385" y="362" text-anchor="middle" class="Ls" >amāvistis</text>
+<text x="450" y="362" text-anchor="start" class="Lx" >you (pl) loved</text>
+<text x="320" y="372" text-anchor="middle" class="Lx" >3pl</text>
+<text x="385" y="372" text-anchor="middle" class="Ls" >amāvērunt</text>
+<text x="450" y="372" text-anchor="start" class="Lx" >they loved</text>
+<line x1="20" y1="386" x2="460" y2="386" stroke="black" stroke-width="0.3"/>
+<text x="240" y="395" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="70" y="405" text-anchor="middle" class="Ls" >ita / non</text>
+<text x="200" y="405" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="70" y="415" text-anchor="middle" class="Ls" >et / sed</text>
+<text x="200" y="415" text-anchor="middle" class="Lx" >and / but</text>
+<text x="70" y="425" text-anchor="middle" class="Ls" >ego / tu</text>
+<text x="200" y="425" text-anchor="middle" class="Lx" >I / you</text>
+<text x="70" y="435" text-anchor="middle" class="Ls" >hic / ille</text>
+<text x="200" y="435" text-anchor="middle" class="Lx" >this / that</text>
+<text x="70" y="445" text-anchor="middle" class="Ls" >ubi</text>
+<text x="200" y="445" text-anchor="middle" class="Lx" >where</text>
+<text x="70" y="455" text-anchor="middle" class="Ls" >quid</text>
+<text x="200" y="455" text-anchor="middle" class="Lx" >what</text>
+<text x="70" y="465" text-anchor="middle" class="Ls" >quando</text>
+<text x="200" y="465" text-anchor="middle" class="Lx" >when</text>
+<text x="70" y="475" text-anchor="middle" class="Ls" >quis</text>
+<text x="200" y="475" text-anchor="middle" class="Lx" >who</text>
+<text x="70" y="485" text-anchor="middle" class="Ls" >cur</text>
+<text x="200" y="485" text-anchor="middle" class="Lx" >why</text>
+<text x="70" y="495" text-anchor="middle" class="Ls" >aqua</text>
+<text x="200" y="495" text-anchor="middle" class="Lx" >water</text>
+<text x="70" y="505" text-anchor="middle" class="Ls" >ignis</text>
+<text x="200" y="505" text-anchor="middle" class="Lx" >fire</text>
+<text x="70" y="515" text-anchor="middle" class="Ls" >terra</text>
+<text x="200" y="515" text-anchor="middle" class="Lx" >earth</text>
+<text x="70" y="525" text-anchor="middle" class="Ls" >homo</text>
+<text x="200" y="525" text-anchor="middle" class="Lx" >human being</text>
+<text x="300" y="405" text-anchor="middle" class="Ls" >deus</text>
+<text x="430" y="405" text-anchor="middle" class="Lx" >god</text>
+<text x="300" y="415" text-anchor="middle" class="Ls" >vita</text>
+<text x="430" y="415" text-anchor="middle" class="Lx" >life</text>
+<text x="300" y="425" text-anchor="middle" class="Ls" >mors</text>
+<text x="430" y="425" text-anchor="middle" class="Lx" >death</text>
+<text x="300" y="435" text-anchor="middle" class="Ls" >tempus</text>
+<text x="430" y="435" text-anchor="middle" class="Lx" >time</text>
+<text x="300" y="445" text-anchor="middle" class="Ls" >lux</text>
+<text x="430" y="445" text-anchor="middle" class="Lx" >light</text>
+<text x="300" y="455" text-anchor="middle" class="Ls" >verba</text>
+<text x="430" y="455" text-anchor="middle" class="Lx" >words</text>
+<text x="300" y="465" text-anchor="middle" class="Ls" >memoria</text>
+<text x="430" y="465" text-anchor="middle" class="Lx" >memory</text>
+<text x="300" y="475" text-anchor="middle" class="Ls" >futurum</text>
+<text x="430" y="475" text-anchor="middle" class="Lx" >the future</text>
+<text x="300" y="485" text-anchor="middle" class="Ls" >liber</text>
+<text x="430" y="485" text-anchor="middle" class="Lx" >book / free</text>
+<text x="300" y="495" text-anchor="middle" class="Ls" >pax</text>
+<text x="430" y="495" text-anchor="middle" class="Lx" >peace</text>
+<text x="300" y="505" text-anchor="middle" class="Ls" >amor</text>
+<text x="430" y="505" text-anchor="middle" class="Lx" >love</text>
+<text x="300" y="515" text-anchor="middle" class="Ls" >omnia</text>
+<text x="430" y="515" text-anchor="middle" class="Lx" >all things</text>
+<line x1="20" y1="540" x2="460" y2="540" stroke="black" stroke-width="0.3"/>
+<text x="240" y="549" text-anchor="middle" class="H" >— WORD ORDER AND STYLE —</text>
+<text x="240" y="560" text-anchor="middle" class="L" >Latin has NO fixed word order — case endings carry meaning. Any order is grammatically valid.</text>
+<text x="240" y="570" text-anchor="middle" class="Ls" >Preferred order: SOV in prose (Caesar, Cicero). Verb-final marks emphasis and closure.</text>
+<text x="240" y="579" text-anchor="middle" class="Ls" >"Gallia est omnis divisa in partes tres" — Gaul as a whole is divided into three parts (Caesar, BG I.1)</text>
+<text x="240" y="588" text-anchor="middle" class="Ls" >Adjectives usually follow their noun; possessives precede; emphatics can go anywhere.</text>
+<text x="240" y="597" text-anchor="middle" class="Ls" >No definite or indefinite article (no "the" / "a"). Context determines specificity.</text>
+<text x="240" y="606" text-anchor="middle" class="Ls" >Latin vocabulary survives in: ~60% of English vocabulary, legal/scientific/medical terms worldwide.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 22 · LATIN · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
