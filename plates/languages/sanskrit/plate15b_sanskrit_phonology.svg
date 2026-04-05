@@ -1,0 +1,141 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Ld{font-size:13px;}
+  .Ldm{font-size:10px;}
+  .Lds{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 15B  ·  SANSKRIT  ·  PHONOLOGY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">48 phonemes · aspiration contrast · sandhi rules · Panini's Shiva Sutras · vowel gradation</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  PANINI AND THE SHIVA SUTRAS  ·  THE FIRST PHONOLOGY  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Panini (c.400 BCE) analyzed Sanskrit phonology so completely that nothing was added for 2,000 years</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">his Shiva Sutras organize ALL Sanskrit phonemes in 14 groups by acoustic similarity</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">this grouping IS the grammar  ·  rules reference groups by their boundary markers</text>
+<rect x="22" y="101" width="436" height="60" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="111" text-anchor="middle" class="Ls">THE SHIVA SUTRAS  ·  14 PHONEME GROUPS</text>
+<text x="30" y="120" text-anchor="start" class="Lx">1-4</text>
+<text x="240" y="120" text-anchor="middle" class="Lds">a i u  •  ṛ ḷ  •  e o  •  ai au</text>
+<text x="450" y="120" text-anchor="end" class="Lx">vowel groups</text>
+<text x="30" y="134" text-anchor="start" class="Lx">5-9</text>
+<text x="240" y="134" text-anchor="middle" class="Lds">ha ya va ra  •  la  •  ña ma ṅa ṇa na  •  jha bha  •  gha ḍha dha</text>
+<text x="450" y="134" text-anchor="end" class="Lx">sonorants + voiced</text>
+<text x="30" y="148" text-anchor="start" class="Lx">10-14</text>
+<text x="240" y="148" text-anchor="middle" class="Lds">ja ba ga ḍa da  •  kha pha cha ṭha tha ca ṭa ta  •  ka pa  •  śa ṣa sa  •  ha</text>
+<text x="450" y="148" text-anchor="end" class="Lx">stops + sibilants</text>
+<line x1="22" y1="168" x2="458" y2="168" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="174" text-anchor="middle" class="H">— · —  ASPIRATION  ·  THE DEFINING PHONOLOGICAL FEATURE  — · —</text>
+<line x1="22" y1="178" x2="458" y2="178" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="Lx">Sanskrit uniquely contrasts all four combinations: voiced, unvoiced, aspirated, unaspirated</text>
+<rect x="22" y="190" width="140" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="92" y="201" text-anchor="middle" class="Ls"></text>
+<rect x="162" y="190" width="140" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="232" y="201" text-anchor="middle" class="Ls">UNASPIRATED</text>
+<rect x="302" y="190" width="140" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="372" y="201" text-anchor="middle" class="Ls">ASPIRATED</text>
+<rect x="22" y="208" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="92" y="219" text-anchor="middle" class="Ls">VOICELESS</text>
+<rect x="162" y="208" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="232" y="219" text-anchor="middle" class="Lx">क ka  /k/</text>
+<rect x="302" y="208" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="372" y="219" text-anchor="middle" class="Lx">ख kha  /kʰ/</text>
+<rect x="22" y="226" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="92" y="237" text-anchor="middle" class="Ls">VOICED</text>
+<rect x="162" y="226" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="232" y="237" text-anchor="middle" class="Lx">ग ga  /g/</text>
+<rect x="302" y="226" width="140" height="18" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="372" y="237" text-anchor="middle" class="Lx">घ gha  /gʰ/</text>
+<text x="240" y="248" text-anchor="middle" class="Lx">this four-way contrast applies to ALL five varga series  ·  20 stops total in Sanskrit</text>
+<text x="240" y="257" text-anchor="middle" class="Lx">aspirated = produced with a puff of breath  ·  hold hand in front of mouth to feel the difference</text>
+<text x="240" y="266" text-anchor="middle" class="Lx">kha (ख) = k with puff  ·  ka (क) = k without puff  ·  different words</text>
+<line x1="22" y1="271" x2="458" y2="271" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="277" text-anchor="middle" class="H">— · —  SANDHI  ·  SOUND FUSION RULES  — · —</text>
+<line x1="22" y1="281" x2="458" y2="281" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="289" text-anchor="middle" class="Lx">sandhi = joining  ·  when words or morphemes meet, sounds change according to strict rules</text>
+<text x="240" y="298" text-anchor="middle" class="Lx">Panini codified ALL sandhi rules  ·  Sanskrit is read as written  ·  the script encodes the spoken sound</text>
+<rect x="22" y="302" width="210" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="312" text-anchor="middle" class="Ls">a + a</text>
+<text x="127" y="322" text-anchor="middle" class="Lds">a + a → ā</text>
+<text x="127" y="331" text-anchor="middle" class="Lx">deva + artha → devārtha</text>
+<text x="127" y="339" text-anchor="middle" class="Lx">two short a merge to long</text>
+<rect x="236" y="302" width="210" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="341" y="312" text-anchor="middle" class="Ls">a + i</text>
+<text x="341" y="322" text-anchor="middle" class="Lds">a + i → e</text>
+<text x="341" y="331" text-anchor="middle" class="Lx">vana + iśvara → vaneśvara</text>
+<text x="341" y="339" text-anchor="middle" class="Lx">a + i merge to e</text>
+<rect x="22" y="344" width="210" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="354" text-anchor="middle" class="Ls">n + s</text>
+<text x="127" y="364" text-anchor="middle" class="Lds">n → m before labials</text>
+<text x="127" y="373" text-anchor="middle" class="Lx">tan + paśyati → tampaśyati</text>
+<text x="127" y="381" text-anchor="middle" class="Lx">nasal assimilates</text>
+<rect x="236" y="344" width="210" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="341" y="354" text-anchor="middle" class="Ls">t + j</text>
+<text x="341" y="364" text-anchor="middle" class="Lds">t + j → jj</text>
+<text x="341" y="373" text-anchor="middle" class="Lx">tad + jayati → tajjayati</text>
+<text x="341" y="381" text-anchor="middle" class="Lx">stop voices before voiced</text>
+<line x1="22" y1="384" x2="458" y2="384" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="390" text-anchor="middle" class="H">— · —  VOWEL GRADATION  ·  GUNA AND VRDDHI  — · —</text>
+<line x1="22" y1="394" x2="458" y2="394" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="402" text-anchor="middle" class="Lx">Sanskrit grammar operates by changing vowels  ·  zero/weak  ·  full grade (guna)  ·  long grade (vrddhi)</text>
+<rect x="22" y="406" width="108" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="417" text-anchor="middle" class="Ls">ROOT</text>
+<rect x="130" y="406" width="108" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="184" y="417" text-anchor="middle" class="Ls">GUNA
+(full grade)</text>
+<rect x="238" y="406" width="108" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="292" y="417" text-anchor="middle" class="Ls">VRDDHI
+(long grade)</text>
+<rect x="346" y="406" width="108" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="400" y="417" text-anchor="middle" class="Ls">MEANING</text>
+<rect x="22" y="424" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="76" y="435" text-anchor="middle" class="Lx">ṛ (vocalic r)</text>
+<rect x="130" y="424" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="184" y="435" text-anchor="middle" class="Lds">रव ra</text>
+<rect x="238" y="424" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="292" y="435" text-anchor="middle" class="Lds">रा va rā</text>
+<rect x="346" y="424" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="400" y="435" text-anchor="middle" class="Lx">root meaning changes</text>
+<rect x="22" y="442" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="76" y="453" text-anchor="middle" class="Lx">i</text>
+<rect x="130" y="442" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="184" y="453" text-anchor="middle" class="Lds">ए e</text>
+<rect x="238" y="442" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="292" y="453" text-anchor="middle" class="Lds">ऐ ai</text>
+<rect x="346" y="442" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="400" y="453" text-anchor="middle" class="Lx">same root, different form</text>
+<rect x="22" y="460" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="76" y="471" text-anchor="middle" class="Lx">u</text>
+<rect x="130" y="460" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="184" y="471" text-anchor="middle" class="Lds">ओ o</text>
+<rect x="238" y="460" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="292" y="471" text-anchor="middle" class="Lds">औ au</text>
+<rect x="346" y="460" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="400" y="471" text-anchor="middle" class="Lx">same root, different form</text>
+<rect x="22" y="478" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="76" y="489" text-anchor="middle" class="Lx">a</text>
+<rect x="130" y="478" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="184" y="489" text-anchor="middle" class="Lds">आ ā</text>
+<rect x="238" y="478" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="292" y="489" text-anchor="middle" class="Lds">आ ā</text>
+<rect x="346" y="478" width="108" height="18" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="400" y="489" text-anchor="middle" class="Lx">already long</text>
+<text x="240" y="502" text-anchor="middle" class="Lx">guna/vrddhi is the core morphological engine  ·  same as English sing/sang/sung but systematic</text>
+<text x="240" y="511" text-anchor="middle" class="Lx">Proto-Indo-European ablaut (vowel alternation) preserved most clearly in Sanskrit</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

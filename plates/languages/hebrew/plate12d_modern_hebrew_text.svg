@@ -1,0 +1,140 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 12D  ·  MODERN HEBREW  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">Declaration of Independence · daily speech · news · Hebrew series closure · bridge phrase</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">Modern Hebrew · read right to left · written without vowels in everyday use</text>
+<line x1="22" y1="68" x2="458" y2="68" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="74" text-anchor="middle" class="H">— · —  DECLARATION OF INDEPENDENCE  ·  MAY 14, 1948  — · —</text>
+<line x1="22" y1="78" x2="458" y2="78" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="81" width="436" height="46" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="95" text-anchor="middle" class="Lh">אנו מכריזים בזאת על הקמת מדינת ישראל</text>
+<text x="240" y="107" text-anchor="middle" class="Lx">anu makhrizim b'zot al haqamat medinat Yisra'el</text>
+<text x="240" y="118" text-anchor="middle" class="Lx">we hereby declare the establishment of a Jewish state in the Land of Israel</text>
+<text x="22" y="126" text-anchor="start" class="Lx">anu = we  ·  makhrizim = declare (pi'el participle)  ·  b'zot = hereby  ·  haqamat = establishment of</text>
+<line x1="22" y1="132" x2="458" y2="132" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="138" text-anchor="middle" class="H">— · —  DAILY SPEECH  ·  COMMON PHRASES  — · —</text>
+<line x1="22" y1="142" x2="458" y2="142" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="146" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="67" y="156" text-anchor="middle" class="Lhm">מה שלומך?</text>
+<text x="67" y="165" text-anchor="middle" class="Lx">ma shlom'kha?</text>
+<text x="228" y="160" text-anchor="end" class="Lx">how are you? (m)</text>
+<rect x="236" y="146" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="281" y="156" text-anchor="middle" class="Lhm">בסדר</text>
+<text x="281" y="165" text-anchor="middle" class="Lx">beseder</text>
+<text x="442" y="160" text-anchor="end" class="Lx">OK / in order</text>
+<rect x="22" y="173" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="67" y="183" text-anchor="middle" class="Lhm">תודה רבה</text>
+<text x="67" y="192" text-anchor="middle" class="Lx">toda raba</text>
+<text x="228" y="187" text-anchor="end" class="Lx">thank you very much</text>
+<rect x="236" y="173" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="281" y="183" text-anchor="middle" class="Lhm">בבקשה</text>
+<text x="281" y="192" text-anchor="middle" class="Lx">b'vakasha</text>
+<text x="442" y="187" text-anchor="end" class="Lx">please / you're welcome</text>
+<rect x="22" y="200" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="67" y="210" text-anchor="middle" class="Lhm">סליחה</text>
+<text x="67" y="219" text-anchor="middle" class="Lx">s'licha</text>
+<text x="228" y="214" text-anchor="end" class="Lx">sorry / excuse me</text>
+<rect x="236" y="200" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="281" y="210" text-anchor="middle" class="Lhm">בוקר טוב</text>
+<text x="281" y="219" text-anchor="middle" class="Lx">boker tov</text>
+<text x="442" y="214" text-anchor="end" class="Lx">good morning</text>
+<rect x="22" y="227" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="67" y="237" text-anchor="middle" class="Lhm">לילה טוב</text>
+<text x="67" y="246" text-anchor="middle" class="Lx">layla tov</text>
+<text x="228" y="241" text-anchor="end" class="Lx">good night</text>
+<rect x="236" y="227" width="210" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="281" y="237" text-anchor="middle" class="Lhm">אני אוהב אותך</text>
+<text x="281" y="246" text-anchor="middle" class="Lx">ani ohev otakh</text>
+<text x="442" y="241" text-anchor="end" class="Lx">I love you (m to f)</text>
+<line x1="22" y1="250" x2="458" y2="250" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="256" text-anchor="middle" class="H">— · —  MODERN WRITTEN HEBREW  ·  NEWS AND FORMAL PROSE  — · —</text>
+<line x1="22" y1="260" x2="458" y2="260" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="263" width="436" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="276" text-anchor="middle" class="Lhm">המדענים גילו כי השפה העברית היא היחידה בעולם שהוחזרה לחיים</text>
+<text x="240" y="289" text-anchor="middle" class="Lx">ha-mad'anim gilu ki ha-safa ha-'ivrit hi ha-yechida ba-olam she-chazra le-chayyim</text>
+<text x="240" y="299" text-anchor="middle" class="Lx">scientists revealed that Hebrew is the only language in the world that returned to life</text>
+<text x="22" y="308" text-anchor="start" class="Lx">modern written style: no nikkud  ·  readers infer vowels from context  ·  unambiguous to fluent readers</text>
+<line x1="22" y1="314" x2="458" y2="314" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="320" text-anchor="middle" class="H">— · —  THE ROOT SYSTEM IN MODERN HEBREW  ·  K-T-V IN ALL SEVEN STEMS  — · —</text>
+<line x1="22" y1="324" x2="458" y2="324" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="332" text-anchor="middle" class="Lx">root כ-ת-ב (K-T-V) = writing  ·  seven stems  ·  all in daily use</text>
+<rect x="22" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="51" y="347" text-anchor="middle" class="Lhm">כתב</text>
+<text x="51" y="355" text-anchor="middle" class="Lx">katav</text>
+<rect x="85" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="114" y="347" text-anchor="middle" class="Lhm">נכתב</text>
+<text x="114" y="355" text-anchor="middle" class="Lx">nichtav</text>
+<rect x="148" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="177" y="347" text-anchor="middle" class="Lhm">כיתב</text>
+<text x="177" y="355" text-anchor="middle" class="Lx">kitav</text>
+<rect x="211" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="240" y="347" text-anchor="middle" class="Lhm">הכתיב</text>
+<text x="240" y="355" text-anchor="middle" class="Lx">hichtiv</text>
+<rect x="274" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="303" y="347" text-anchor="middle" class="Lhm">התכתב</text>
+<text x="303" y="355" text-anchor="middle" class="Lx">hitkatev</text>
+<rect x="337" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="366" y="347" text-anchor="middle" class="Lhm">כתבה</text>
+<text x="366" y="355" text-anchor="middle" class="Lx">k'tiva</text>
+<rect x="400" y="336" width="58" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="429" y="347" text-anchor="middle" class="Lhm">מכתב</text>
+<text x="429" y="355" text-anchor="middle" class="Lx">michtav</text>
+<text x="240" y="374" text-anchor="middle" class="Lx">one root generates nouns, adjectives, verbs in all aspects  ·  the system works in Modern Hebrew as in Biblical</text>
+<line x1="22" y1="379" x2="458" y2="379" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="385" text-anchor="middle" class="H">— · —  THE HEBREW SERIES  ·  09A THROUGH 12D  ·  COMPLETE  — · —</text>
+<line x1="22" y1="389" x2="458" y2="389" stroke="#000" stroke-width="0.3"/>
+<rect x="31" y="393" width="100" height="40" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="81" y="402" text-anchor="middle" class="Lx">09A-D</text>
+<text x="81" y="411" text-anchor="middle" class="Lx">Biblical</text>
+<text x="81" y="419" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="81" y="427" text-anchor="middle" class="Lx">1000 BCE</text>
+<line x1="132" y1="413" x2="133" y2="413" stroke="#000" stroke-width="0.7"/><polygon points="133,412 136,413 133,414" fill="#000"/>
+<rect x="137" y="393" width="100" height="40" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="187" y="402" text-anchor="middle" class="Lx">10A-D</text>
+<text x="187" y="411" text-anchor="middle" class="Lx">Mishnaic</text>
+<text x="187" y="419" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="187" y="427" text-anchor="middle" class="Lx">200 CE</text>
+<line x1="238" y1="413" x2="239" y2="413" stroke="#000" stroke-width="0.7"/><polygon points="239,412 242,413 239,414" fill="#000"/>
+<rect x="243" y="393" width="100" height="40" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="293" y="402" text-anchor="middle" class="Lx">11A-D</text>
+<text x="293" y="411" text-anchor="middle" class="Lx">Yemenite</text>
+<text x="293" y="419" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="293" y="427" text-anchor="middle" class="Lx">preserved</text>
+<line x1="344" y1="413" x2="345" y2="413" stroke="#000" stroke-width="0.7"/><polygon points="345,412 348,413 345,414" fill="#000"/>
+<rect x="349" y="393" width="100" height="40" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="399" y="402" text-anchor="middle" class="Lx">12A-D</text>
+<text x="399" y="411" text-anchor="middle" class="Lx">Modern</text>
+<text x="399" y="419" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="399" y="427" text-anchor="middle" class="Lx">1880 CE+</text>
+<text x="240" y="440" text-anchor="middle" class="Lx">16 plates  ·  one language  ·  3,000 years of continuous literary tradition</text>
+<text x="240" y="449" text-anchor="middle" class="Lx">the same 22 letters  ·  the same root system  ·  the same gematria  ·  carried across every catastrophe</text>
+<line x1="22" y1="455" x2="458" y2="455" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="461" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  MODERN HEBREW  — · —</text>
+<line x1="22" y1="465" x2="458" y2="465" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="468" width="436" height="46" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="482" text-anchor="middle" class="Lhm">זה נעשה עבורך  בחינם  על ידי אנשים שזכרו קדימה</text>
+<text x="240" y="494" text-anchor="middle" class="Lx">ze na'asa 'avurkha  b'chinam  al y'dei anashim she-zakhru qadima</text>
+<text x="240" y="506" text-anchor="middle" class="Lx">this was made for you  freely  by people who remembered forward</text>
+<text x="22" y="512" text-anchor="start" class="Lx">qadima = forward/ahead  ·  'avor = past  ·  qadima from same root as qedem (ancient times) = look ahead</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,225 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lb{font-size:14px;}
+  .Lbm{font-size:11px;}
+  .Lbs{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 16C  ·  BENGALI  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">SOV order · verb-final · postpositions · honorific levels · case endings · 30 core words</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  BENGALI GRAMMAR  ·  SOV  ·  VERB COMES LAST  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Bengali is Subject-Object-Verb  ·  the verb always ends the clause</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">agglutinative: meaning built by chaining suffixes to roots  ·  highly inflected verbs</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">no grammatical gender for verbs  ·  postpositions (not prepositions)  ·  verb encodes person and honor</text>
+<text x="240" y="106" text-anchor="middle" class="Lx">determiners -টা/-টি (singular 'the') and -গুলো (plural) follow the noun</text>
+<line x1="22" y1="110" x2="458" y2="110" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">— · —  WORD ORDER  ·  SUBJECT → OBJECT → VERB  — · —</text>
+<line x1="22" y1="121" x2="458" y2="121" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="126" width="130" height="22" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="87" y="137" text-anchor="middle" class="Ls">SUBJECT  ·  কর্তা</text>
+<line x1="152" y1="137" x2="170" y2="137" stroke="#000" stroke-width="0.7"/>
+<polygon points="170,135 175,137 170,139" fill="#000"/>
+<rect x="175" y="126" width="130" height="22" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="137" text-anchor="middle" class="Ls">OBJECT  ·  কর্ম</text>
+<line x1="305" y1="137" x2="323" y2="137" stroke="#000" stroke-width="0.7"/>
+<polygon points="323,135 328,137 323,139" fill="#000"/>
+<rect x="328" y="126" width="110" height="22" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="383" y="137" text-anchor="middle" class="Ls">VERB  ·  ক্রিয়া</text>
+<text x="240" y="158" text-anchor="middle" class="Lbm">আমি ভাত খাই  ·  ami bhat khai  ·  I rice eat  =  I eat rice</text>
+<text x="240" y="169" text-anchor="middle" class="Lx">সে বাড়ি যায়  ·  she bari jay  ·  s/he house goes  =  s/he goes home</text>
+<line x1="22" y1="175" x2="458" y2="175" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="181" text-anchor="middle" class="H">— · —  VERB MORPHOLOGY  ·  ROOT + ASPECT + TENSE + PERSON  — · —</text>
+<line x1="22" y1="185" x2="458" y2="185" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="192" text-anchor="middle" class="Lx">template: VERB ROOT  +  aspect marker  +  tense marker  +  person/honor suffix</text>
+<text x="240" y="200" text-anchor="middle" class="Lx">aspects: simple (no mark) · continuous -চ্ছ/-চ্ছি · perfect -য়েছ/-য়েছি</text>
+<text x="22" y="207" text-anchor="start" class="Lbm">খাওয়া (kha-oẏa) = to eat  —  1st person forms:</text>
+<rect x="22" y="214" width="80" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="62" y="225" text-anchor="middle" class="Lx">TENSE/ASPECT</text>
+<rect x="102" y="214" width="80" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="142" y="225" text-anchor="middle" class="Lx">BENGALI</text>
+<rect x="182" y="214" width="90" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="227" y="225" text-anchor="middle" class="Lx">ROMAN.</text>
+<rect x="272" y="214" width="186" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="365" y="225" text-anchor="middle" class="Lx">MEANING</text>
+<rect x="22" y="230" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="62" y="241" text-anchor="middle" class="Lx">simple pres.</text>
+<rect x="102" y="230" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="142" y="241" text-anchor="middle" class="Lx">খাই</text>
+<rect x="182" y="230" width="90" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="227" y="241" text-anchor="middle" class="Lx">khai</text>
+<rect x="272" y="230" width="186" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="365" y="241" text-anchor="middle" class="Lx">I eat</text>
+<rect x="22" y="246" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="62" y="257" text-anchor="middle" class="Lx">continuous</text>
+<rect x="102" y="246" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="142" y="257" text-anchor="middle" class="Lx">খাচ্ছি</text>
+<rect x="182" y="246" width="90" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="227" y="257" text-anchor="middle" class="Lx">khacchi</text>
+<rect x="272" y="246" width="186" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="365" y="257" text-anchor="middle" class="Lx">I am eating</text>
+<rect x="22" y="262" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="62" y="273" text-anchor="middle" class="Lx">simple past</text>
+<rect x="102" y="262" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="142" y="273" text-anchor="middle" class="Lx">খেলাম</text>
+<rect x="182" y="262" width="90" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="227" y="273" text-anchor="middle" class="Lx">khelam</text>
+<rect x="272" y="262" width="186" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="365" y="273" text-anchor="middle" class="Lx">I ate</text>
+<rect x="22" y="278" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="62" y="289" text-anchor="middle" class="Lx">perfect</text>
+<rect x="102" y="278" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="142" y="289" text-anchor="middle" class="Lx">খেয়েছি</text>
+<rect x="182" y="278" width="90" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="227" y="289" text-anchor="middle" class="Lx">kheyechi</text>
+<rect x="272" y="278" width="186" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="365" y="289" text-anchor="middle" class="Lx">I have eaten</text>
+<rect x="22" y="294" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="62" y="305" text-anchor="middle" class="Lx">future</text>
+<rect x="102" y="294" width="80" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="142" y="305" text-anchor="middle" class="Lx">খাব</text>
+<rect x="182" y="294" width="90" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="227" y="305" text-anchor="middle" class="Lx">khabo</text>
+<rect x="272" y="294" width="186" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="365" y="305" text-anchor="middle" class="Lx">I will eat</text>
+<line x1="22" y1="310" x2="458" y2="310" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="316" text-anchor="middle" class="H">— · —  HONORIFIC LEVELS  ·  5 FORMS  ·  VERB CONJUGATION CHANGES WITH EACH  — · —</text>
+<line x1="22" y1="320" x2="458" y2="320" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="327" text-anchor="middle" class="Lx">Bengali has 5 distinct levels of address  ·  each changes the verb ending  ·  using wrong level is a social error</text>
+<rect x="22" y="335" width="72" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="58" y="346" text-anchor="middle" class="Lx">PRONOUN</text>
+<rect x="94" y="335" width="84" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="136" y="346" text-anchor="middle" class="Lx">REGISTER</text>
+<rect x="178" y="335" width="84" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="220" y="346" text-anchor="middle" class="Lx">eat (pres.)</text>
+<rect x="262" y="335" width="84" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="304" y="346" text-anchor="middle" class="Lx">go (past)</text>
+<rect x="346" y="335" width="112" height="16" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="402" y="346" text-anchor="middle" class="Lx">ENGLISH</text>
+<rect x="22" y="351" width="72" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="58" y="362" text-anchor="middle" class="Lx">তুই tui</text>
+<rect x="94" y="351" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="136" y="362" text-anchor="middle" class="Lx">2nd intimate</text>
+<rect x="178" y="351" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="220" y="362" text-anchor="middle" class="Lx">খাস khas</text>
+<rect x="262" y="351" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="304" y="362" text-anchor="middle" class="Lx">গেলি geli</text>
+<rect x="22" y="367" width="72" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="58" y="378" text-anchor="middle" class="Lx">তুমি tumi</text>
+<rect x="94" y="367" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="136" y="378" text-anchor="middle" class="Lx">2nd familiar</text>
+<rect x="178" y="367" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="220" y="378" text-anchor="middle" class="Lx">খাও khao</text>
+<rect x="262" y="367" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="304" y="378" text-anchor="middle" class="Lx">গেলে gele</text>
+<rect x="22" y="383" width="72" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="58" y="394" text-anchor="middle" class="Lx">আপনি apni</text>
+<rect x="94" y="383" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="136" y="394" text-anchor="middle" class="Lx">2nd formal</text>
+<rect x="178" y="383" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="220" y="394" text-anchor="middle" class="Lx">খান khan</text>
+<rect x="262" y="383" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="304" y="394" text-anchor="middle" class="Lx">গেলেন gelen</text>
+<rect x="22" y="399" width="72" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="58" y="410" text-anchor="middle" class="Lx">সে/ও she/o</text>
+<rect x="94" y="399" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="136" y="410" text-anchor="middle" class="Lx">3rd familiar</text>
+<rect x="178" y="399" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="220" y="410" text-anchor="middle" class="Lx">খায় khay</text>
+<rect x="262" y="399" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="304" y="410" text-anchor="middle" class="Lx">গেল gelo</text>
+<rect x="22" y="415" width="72" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="58" y="426" text-anchor="middle" class="Lx">তিনি tini</text>
+<rect x="94" y="415" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="136" y="426" text-anchor="middle" class="Lx">3rd formal</text>
+<rect x="178" y="415" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="220" y="426" text-anchor="middle" class="Lx">খান khan</text>
+<rect x="262" y="415" width="84" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="304" y="426" text-anchor="middle" class="Lx">গেলেন gelen</text>
+<line x1="22" y1="431" x2="458" y2="431" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="437" text-anchor="middle" class="H">— · —  CASE ENDINGS  ·  POSTPOSITIONS  ·  NO PREPOSITIONS IN BENGALI  — · —</text>
+<line x1="22" y1="441" x2="458" y2="441" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="448" text-anchor="middle" class="Lx">বাড়ি-র (bari-r) = of the house  ·  আমা-কে (ama-ke) = to me  ·  ঘর-ে (ghor-e) = in the room  ·  কলম-ে (kolom-e) = by pen</text>
+<text x="240" y="456" text-anchor="middle" class="Lx">genitive -এর (of/belonging to)  ·  objective -কে/-রে (to/for)  ·  locative -তে/-এ (in/at)  ·  postpositions: দ্বারা (by), জন্য (for), সাথে (with)</text>
+<line x1="22" y1="466" x2="458" y2="466" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="472" text-anchor="middle" class="H">— · —  CORE VOCABULARY  ·  30 ESSENTIAL WORDS  — · —</text>
+<line x1="22" y1="476" x2="458" y2="476" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="482" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="491" text-anchor="middle" class="Lx">আমি ami  ·  I</text>
+<rect x="168" y="482" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="491" text-anchor="middle" class="Lx">তুমি tumi  ·  you (fam.)</text>
+<rect x="314" y="482" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="491" text-anchor="middle" class="Lx">সে she  ·  he/she/it</text>
+<rect x="22" y="495" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="504" text-anchor="middle" class="Lx">আমরা amra  ·  we</text>
+<rect x="168" y="495" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="504" text-anchor="middle" class="Lx">এটা eta  ·  this</text>
+<rect x="314" y="495" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="504" text-anchor="middle" class="Lx">ওটা ota  ·  that</text>
+<rect x="22" y="508" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="517" text-anchor="middle" class="Lx">হ্যাঁ hya  ·  yes</text>
+<rect x="168" y="508" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="517" text-anchor="middle" class="Lx">না na  ·  no</text>
+<rect x="314" y="508" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="517" text-anchor="middle" class="Lx">মানুষ manush  ·  person</text>
+<rect x="22" y="521" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="530" text-anchor="middle" class="Lx">জল jol  ·  water</text>
+<rect x="168" y="521" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="530" text-anchor="middle" class="Lx">খাবার khabar  ·  food</text>
+<rect x="314" y="521" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="530" text-anchor="middle" class="Lx">মাটি mati  ·  earth/soil</text>
+<rect x="22" y="534" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="543" text-anchor="middle" class="Lx">আকাশ akash  ·  sky</text>
+<rect x="168" y="534" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="543" text-anchor="middle" class="Lx">সূর্য surjo  ·  sun</text>
+<rect x="314" y="534" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="543" text-anchor="middle" class="Lx">আলো alo  ·  light</text>
+<rect x="22" y="547" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="556" text-anchor="middle" class="Lx">আগুন agun  ·  fire</text>
+<rect x="168" y="547" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="556" text-anchor="middle" class="Lx">বাড়ি bari  ·  house</text>
+<rect x="314" y="547" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="556" text-anchor="middle" class="Lx">দিন din  ·  day</text>
+<rect x="22" y="560" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="569" text-anchor="middle" class="Lx">রাত rat  ·  night</text>
+<rect x="168" y="560" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="569" text-anchor="middle" class="Lx">সময় shomoy  ·  time</text>
+<rect x="314" y="560" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="569" text-anchor="middle" class="Lx">ভাষা bhasha  ·  language</text>
+<rect x="22" y="573" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="582" text-anchor="middle" class="Lx">লেখা lekha  ·  writing</text>
+<rect x="168" y="573" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="582" text-anchor="middle" class="Lx">বলা bola  ·  speak</text>
+<rect x="314" y="573" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="582" text-anchor="middle" class="Lx">শোনা shona  ·  hear</text>
+<rect x="22" y="586" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="595" text-anchor="middle" class="Lx">দেখা dekha  ·  see</text>
+<rect x="168" y="586" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="595" text-anchor="middle" class="Lx">ভালো bhalo  ·  good</text>
+<rect x="314" y="586" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="595" text-anchor="middle" class="Lx">খারাপ kharap  ·  bad</text>
+<rect x="22" y="599" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="94" y="608" text-anchor="middle" class="Lx">বড় boro  ·  big</text>
+<rect x="168" y="599" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="608" text-anchor="middle" class="Lx">ছোট chhoto  ·  small</text>
+<rect x="314" y="599" width="144" height="13" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="386" y="608" text-anchor="middle" class="Lx">ভবিষ্যৎ bhobishyot  ·  future</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

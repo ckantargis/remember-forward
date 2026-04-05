@@ -1,0 +1,71 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lb{font-size:14px;}
+  .Lbm{font-size:11px;}
+  .Lbs{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 16D  ·  BENGALI  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">Tagore · Gitanjali · Amar Sonar Bangla · proverb · bridge phrase  ·  read left to right</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">read left to right  ·  Bengali above  ·  transliteration middle  ·  translation below</text>
+<line x1="22" y1="68" x2="458" y2="68" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="76" text-anchor="middle" class="H">— · —  GITANJALI · SONG 1 · RABINDRANATH TAGORE · 1910  — · —</text>
+<line x1="22" y1="81" x2="458" y2="81" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="84" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="97" text-anchor="middle" class="Lbm">আমারে তুমি অশেষ করেছ, এমনি লীলা তব।</text>
+<text x="240" y="109" text-anchor="middle" class="Lx">amare tumi oshesh korechho, emni lila tabo.</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">You have made me endless — such is your divine delight.</text>
+<text x="22" y="134" text-anchor="start" class="Lx">Note: amare=me · oshesh=endless · korechho=have made · lila=divine play · tabo=your  ·  Nobel Prize Literature 1913</text>
+<line x1="22" y1="142" x2="458" y2="142" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="148" text-anchor="middle" class="H">— · —  WHERE THE MIND IS WITHOUT FEAR · GITANJALI 35 · TAGORE  — · —</text>
+<line x1="22" y1="153" x2="458" y2="153" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="156" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="169" text-anchor="middle" class="Lbm">চিত্ত যেথা ভয়শূন্য উচ্চ যেথা শির</text>
+<text x="240" y="181" text-anchor="middle" class="Lx">chitta jetha bhoyshuônyô, uccho jetha shir</text>
+<text x="240" y="191" text-anchor="middle" class="Lx">Where the mind is without fear and the head is held high</text>
+<text x="22" y="206" text-anchor="start" class="Lx">Note: chitta=mind/heart · jetha=where · bhoyshunyô=fear-empty · uccho=high · shir=head</text>
+<line x1="22" y1="214" x2="458" y2="214" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="220" text-anchor="middle" class="H">— · —  AMAR SONAR BANGLA · NATIONAL ANTHEM OF BANGLADESH · TAGORE 1906  — · —</text>
+<line x1="22" y1="225" x2="458" y2="225" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="228" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="241" text-anchor="middle" class="Lbm">আমার সোনার বাংলা, আমি তোমায় ভালোবাসি।</text>
+<text x="240" y="253" text-anchor="middle" class="Lx">amar shonar bangla, ami tomay bhalobashi.</text>
+<text x="240" y="263" text-anchor="middle" class="Lx">My golden Bengal, I love you.</text>
+<text x="22" y="278" text-anchor="start" class="Lx">Note: amar=my · shonar=golden · bangla=Bengal · ami=I · tomay=you · bhalobashi=love  ·  also India's national song</text>
+<line x1="22" y1="286" x2="458" y2="286" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="292" text-anchor="middle" class="H">— · —  BENGALI PROVERB  ·  ON CARE AND REWARD  — · —</text>
+<line x1="22" y1="297" x2="458" y2="297" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="300" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="313" text-anchor="middle" class="Lbm">যত্ন করলে রত্ন মেলে।</text>
+<text x="240" y="325" text-anchor="middle" class="Lx">jotno korle rotno mele.</text>
+<text x="240" y="335" text-anchor="middle" class="Lx">With care, precious things are found.</text>
+<text x="22" y="350" text-anchor="start" class="Lx">Note: jotno=care/attention · korle=if one does · rotno=gem/jewel · mele=is obtained  ·  proverb on the reward of diligence</text>
+<line x1="22" y1="358" x2="458" y2="358" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="364" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  IN BENGALI  — · —</text>
+<line x1="22" y1="369" x2="458" y2="369" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="372" width="436" height="55" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="385" text-anchor="middle" class="Lbm">এটি তোমার জন্য তৈরি করা হয়েছে — বিনামূল্যে —</text>
+<text x="240" y="398" text-anchor="middle" class="Lbm">তাদের দ্বারা যারা ভবিষ্যৎকে মনে রেখেছিল।</text>
+<text x="240" y="410" text-anchor="middle" class="Lx">eti tomar jonno toiri kora hoyeche — binamulle — tader dwara jara bhobishotkke mone rekhechhilo.</text>
+<text x="240" y="420" text-anchor="middle" class="Lx">This was made for you — freely — by those who kept the future in their hearts.</text>
+<text x="22" y="433" text-anchor="start" class="Lx">Note: ভবিষ্যৎ (bhobishyot) = future / what is yet to become  ·  মনে রাখা (mone rakha) = to keep in mind/heart</text>
+<text x="22" y="441" text-anchor="start" class="Lx">Bengali expresses ‘remembered forward’ as মনে রেখেছিল — had kept in the heart — the future cherished from the present.</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

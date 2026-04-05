@@ -1,0 +1,164 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 11C  ·  YEMENITE HEBREW  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">follows Mishnaic patterns · Diwan poetry tradition · Yemeni Arabic loanwords · liturgical vocabulary</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  GRAMMAR  ·  FOLLOWS MISHNAIC HEBREW WITH YEMENITE FEATURES  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Yemenite Hebrew grammar = Mishnaic Hebrew grammar  ·  see Plate 10C for full paradigms</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">the differences are phonological (how it sounds) not grammatical (how it works)</text>
+<text x="240" y="98" text-anchor="middle" class="H">— · —  YEMENITE-SPECIFIC FEATURES  — · —</text>
+<line x1="22" y1="102" x2="458" y2="102" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="106" width="213" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="128" y="116" text-anchor="middle" class="Ls">VAV CONJUNCTION</text>
+<line x1="22" y1="128" x2="458" y2="128" stroke="#000" stroke-width="0.3"/>
+<text x="26" y="136" text-anchor="start" class="Lx">Written: וְ (standard)</text>
+<text x="26" y="144" text-anchor="start" class="Lx">Yemenite sound: /wu-/ before labials</text>
+<text x="26" y="152" text-anchor="start" class="Lx">Israeli sound: /v-/ always</text>
+<text x="26" y="160" text-anchor="start" class="Lx">Example: וּמֹשֶׁה wu-Moshe (and Moses)</text>
+<rect x="239" y="106" width="213" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="345" y="116" text-anchor="middle" class="Ls">CONSTRUCT STATE</text>
+<line x1="22" y1="128" x2="458" y2="128" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="136" text-anchor="start" class="Lx">Yemenite preserves both:· old construct + modern שֶׁל</text>
+<text x="243" y="144" text-anchor="start" class="Lx">Example: בֵּית הְמֶּלֶך = bayit ha-melekh</text>
+<text x="243" y="152" text-anchor="start" class="Lx">or: הבּית שֶׁל המּלך = ha-bayit shel ha-melech</text>
+<text x="243" y="160" text-anchor="start" class="Lx">both forms used contextually</text>
+<rect x="22" y="172" width="213" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="128" y="182" text-anchor="middle" class="Ls">TENSE SYSTEM</text>
+<line x1="22" y1="194" x2="458" y2="194" stroke="#000" stroke-width="0.3"/>
+<text x="26" y="202" text-anchor="start" class="Lx">Same as Mishnaic Hebrew:</text>
+<text x="26" y="210" text-anchor="start" class="Lx">Perfect: past/completed</text>
+<text x="26" y="218" text-anchor="start" class="Lx">Participle: present/ongoing</text>
+<text x="26" y="226" text-anchor="start" class="Lx">Imperfect: future/modal</text>
+<text x="26" y="234" text-anchor="start" class="Lx">No waw-consecutive (lost in Mishnaic)</text>
+<rect x="239" y="172" width="213" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="345" y="182" text-anchor="middle" class="Ls">CANTILLATION</text>
+<text x="345" y="190" text-anchor="middle" class="Ls">(TROPE) SYSTEM</text>
+<line x1="22" y1="194" x2="458" y2="194" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="202" text-anchor="start" class="Lx">Full Tiberian trope preserved</text>
+<text x="243" y="210" text-anchor="start" class="Lx">Every biblical word carries</text>
+<text x="243" y="218" text-anchor="start" class="Lx">its traditional accent marking</text>
+<text x="243" y="226" text-anchor="start" class="Lx">Most accurate oral Torah tradition</text>
+<text x="243" y="234" text-anchor="start" class="Lx">recorded by modern linguists</text>
+<line x1="22" y1="240" x2="458" y2="240" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="246" text-anchor="middle" class="H">— · —  THE DIWAN  ·  YEMENITE HEBREW POETRY  — · —</text>
+<line x1="22" y1="250" x2="458" y2="250" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="258" text-anchor="middle" class="Lx">the Diwan is the complete body of Yemenite Hebrew sacred poetry  ·  compiled 16th-17th century CE</text>
+<text x="240" y="267" text-anchor="middle" class="Lx">sung at Shabbat and holiday celebrations  ·  distinctive melodies and Arabic poetic meters</text>
+<text x="240" y="276" text-anchor="middle" class="Lx">Rabbi Shalom Shabazi (1619-c.1720) is the most celebrated Yemenite Hebrew poet</text>
+<rect x="22" y="280" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="293" text-anchor="middle" class="Lhm">שופר</text>
+<text x="76" y="289" text-anchor="start" class="Lx">shofar</text>
+<text x="76" y="297" text-anchor="start" class="Lx">ram's horn trumpet</text>
+<rect x="130" y="280" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="293" text-anchor="middle" class="Lhm">דיואן</text>
+<text x="184" y="289" text-anchor="start" class="Lx">diwan</text>
+<text x="184" y="297" text-anchor="start" class="Lx">sacred song collection</text>
+<rect x="238" y="280" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="293" text-anchor="middle" class="Lhm">זמירות</text>
+<text x="292" y="289" text-anchor="start" class="Lx">z'mirot</text>
+<text x="292" y="297" text-anchor="start" class="Lx">Sabbath songs</text>
+<rect x="346" y="280" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="293" text-anchor="middle" class="Lhm">פייט</text>
+<text x="400" y="289" text-anchor="start" class="Lx">piyyut</text>
+<text x="400" y="297" text-anchor="start" class="Lx">liturgical poem</text>
+<rect x="22" y="307" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="320" text-anchor="middle" class="Lhm">סייק</text>
+<text x="76" y="316" text-anchor="start" class="Lx">siyaq</text>
+<text x="76" y="324" text-anchor="start" class="Lx">numerical code</text>
+<rect x="130" y="307" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="320" text-anchor="middle" class="Lhm">מורש</text>
+<text x="184" y="316" text-anchor="start" class="Lx">morasha</text>
+<text x="184" y="324" text-anchor="start" class="Lx">heritage/inheritance</text>
+<rect x="238" y="307" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="320" text-anchor="middle" class="Lhm">יחיד</text>
+<text x="292" y="316" text-anchor="start" class="Lx">yachid</text>
+<text x="292" y="324" text-anchor="start" class="Lx">unique/alone (God)</text>
+<rect x="346" y="307" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="320" text-anchor="middle" class="Lhm">גולה</text>
+<text x="400" y="316" text-anchor="start" class="Lx">golah</text>
+<text x="400" y="324" text-anchor="start" class="Lx">exile/diaspora</text>
+<rect x="22" y="334" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="347" text-anchor="middle" class="Lhm">סדר</text>
+<text x="76" y="343" text-anchor="start" class="Lx">seder</text>
+<text x="76" y="351" text-anchor="start" class="Lx">order/ceremony</text>
+<rect x="130" y="334" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="347" text-anchor="middle" class="Lhm">הגדה</text>
+<text x="184" y="343" text-anchor="start" class="Lx">Haggadah</text>
+<text x="184" y="351" text-anchor="start" class="Lx">the telling (Passover)</text>
+<rect x="238" y="334" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="347" text-anchor="middle" class="Lhm">שבת</text>
+<text x="292" y="343" text-anchor="start" class="Lx">Shabbat</text>
+<text x="292" y="351" text-anchor="start" class="Lx">the Sabbath</text>
+<rect x="346" y="334" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="347" text-anchor="middle" class="Lhm">ירושלים</text>
+<text x="400" y="343" text-anchor="start" class="Lx">Yerushalayim</text>
+<text x="400" y="351" text-anchor="start" class="Lx">Jerusalem</text>
+<line x1="22" y1="374" x2="458" y2="374" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="380" text-anchor="middle" class="H">— · —  YEMENI ARABIC INFLUENCE  ·  DAILY VOCABULARY  — · —</text>
+<line x1="22" y1="384" x2="458" y2="384" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="392" text-anchor="middle" class="Lx">Yemenite Jews used Hebrew liturgically and Judeo-Yemeni Arabic daily  ·  some crossover into Hebrew</text>
+<rect x="22" y="396" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="409" text-anchor="middle" class="Lhm">חנות</text>
+<text x="77" y="405" text-anchor="start" class="Lx">chanut</text>
+<text x="77" y="413" text-anchor="start" class="Lx">shop (Arabic dukkan area)</text>
+<rect x="162" y="396" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="184" y="409" text-anchor="middle" class="Lhm">סוק</text>
+<text x="217" y="405" text-anchor="start" class="Lx">shuk</text>
+<text x="217" y="413" text-anchor="start" class="Lx">market (Arabic souq)</text>
+<rect x="302" y="396" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="324" y="409" text-anchor="middle" class="Lhm">הינא</text>
+<text x="357" y="405" text-anchor="start" class="Lx">hina</text>
+<text x="357" y="413" text-anchor="start" class="Lx">henna (Arabic hinna)</text>
+<rect x="22" y="424" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="437" text-anchor="middle" class="Lhm">מרהבי</text>
+<text x="77" y="433" text-anchor="start" class="Lx">marhabi</text>
+<text x="77" y="441" text-anchor="start" class="Lx">welcome (Arabic marhaba)</text>
+<rect x="162" y="424" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="184" y="437" text-anchor="middle" class="Lhm">טבלה</text>
+<text x="217" y="433" text-anchor="start" class="Lx">tawla</text>
+<text x="217" y="441" text-anchor="start" class="Lx">table (Arabic tawila)</text>
+<rect x="302" y="424" width="136" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="324" y="437" text-anchor="middle" class="Lhm">משק</text>
+<text x="357" y="433" text-anchor="start" class="Lx">mashq</text>
+<text x="357" y="441" text-anchor="start" class="Lx">writing practice (Arabic)</text>
+<line x1="22" y1="454" x2="458" y2="454" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="460" text-anchor="middle" class="H">— · —  NUMBERS  ·  SAME AS BIBLICAL AND MISHNAIC  ·  DIFFERENT PRONUNCIATION  — · —</text>
+<line x1="22" y1="464" x2="458" y2="464" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="462" width="436" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="50" y="472" text-anchor="middle" class="Lhm">אֶחָד</text>
+<text x="185" y="472" text-anchor="middle" class="Lx">Yemenite: /eḥað/</text>
+<text x="320" y="472" text-anchor="middle" class="Lx">Israeli: /eḥad/</text>
+<text x="430" y="472" text-anchor="middle" class="Lx">Tav as /ð/</text>
+<rect x="22" y="482" width="436" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="50" y="492" text-anchor="middle" class="Lhm">שְדַיִם</text>
+<text x="185" y="492" text-anchor="middle" class="Lx">Yemenite: /ʃəθaʏim/</text>
+<text x="320" y="492" text-anchor="middle" class="Lx">Israeli: /ʃnaim/</text>
+<text x="430" y="492" text-anchor="middle" class="Lx">Tav as /ð/; Daleth as /ð/</text>
+<rect x="22" y="502" width="436" height="18" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="50" y="512" text-anchor="middle" class="Lhm">שְלֹשָה</text>
+<text x="185" y="512" text-anchor="middle" class="Lx">Yemenite: /ʃəlσθa/</text>
+<text x="320" y="512" text-anchor="middle" class="Lx">Israeli: /ʃaloʃ/</text>
+<text x="430" y="512" text-anchor="middle" class="Lx">Tav as /θ/</text>
+<text x="240" y="534" text-anchor="middle" class="Lx">the numbers are identical in writing  ·  the pronunciation reveals 2,500 years of divergence</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

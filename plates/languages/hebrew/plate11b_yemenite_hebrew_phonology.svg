@@ -1,0 +1,267 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 11B  ·  YEMENITE HEBREW  ·  PHONOLOGY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">preserved archaic sounds · full begadkefat · all gutturals · vav as /w/</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE PRESERVED SOUNDS  ·  WHAT YEMENITE KEPT THAT OTHERS LOST  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">comparison of key consonants across four Hebrew traditions</text>
+<rect x="22" y="83" width="436" height="14" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="40" y="93" text-anchor="middle" class="Lx">LETTER</text>
+<line x1="58" y1="83" x2="58" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="93" text-anchor="middle" class="Lx">BIBLICAL</text>
+<line x1="132" y1="83" x2="132" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="93" text-anchor="middle" class="Lx">YEMENITE</text>
+<line x1="206" y1="83" x2="206" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="93" text-anchor="middle" class="Lx">SEPHARDI</text>
+<line x1="280" y1="83" x2="280" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="93" text-anchor="middle" class="Lx">ASHKENAZI</text>
+<line x1="354" y1="83" x2="354" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="93" text-anchor="middle" class="Lx">ISRAELI</text>
+<rect x="22" y="97" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="108" text-anchor="middle" class="Lx">א Aleph</text>
+<line x1="58" y1="97" x2="58" y2="115" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="108" text-anchor="middle" class="Lx">glottal /ʔ/</text>
+<line x1="132" y1="97" x2="132" y2="115" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="108" text-anchor="middle" class="Lx">glottal /ʔ/</text>
+<line x1="206" y1="97" x2="206" y2="115" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="108" text-anchor="middle" class="Lx">glottal/silent</text>
+<line x1="280" y1="97" x2="280" y2="115" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="108" text-anchor="middle" class="Lx">silent</text>
+<line x1="354" y1="97" x2="354" y2="115" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="108" text-anchor="middle" class="Lx">silent</text>
+<rect x="22" y="115" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="126" text-anchor="middle" class="Lx">ה He</text>
+<line x1="58" y1="115" x2="58" y2="133" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="126" text-anchor="middle" class="Lx">breathy /h/</text>
+<line x1="132" y1="115" x2="132" y2="133" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="126" text-anchor="middle" class="Lx">breathy /h/</text>
+<line x1="206" y1="115" x2="206" y2="133" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="126" text-anchor="middle" class="Lx">often silent</text>
+<line x1="280" y1="115" x2="280" y2="133" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="126" text-anchor="middle" class="Lx">often silent</text>
+<line x1="354" y1="115" x2="354" y2="133" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="126" text-anchor="middle" class="Lx">often silent</text>
+<rect x="22" y="133" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="144" text-anchor="middle" class="Lx">ח Chet</text>
+<line x1="58" y1="133" x2="58" y2="151" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="144" text-anchor="middle" class="Lx">/ḥ/ pharyngeal</text>
+<line x1="132" y1="133" x2="132" y2="151" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="144" text-anchor="middle" class="Lx">/ḥ/ pharyngeal</text>
+<line x1="206" y1="133" x2="206" y2="151" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="144" text-anchor="middle" class="Lx">/x/ or /ḥ/</text>
+<line x1="280" y1="133" x2="280" y2="151" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="144" text-anchor="middle" class="Lx">/x/ guttural</text>
+<line x1="354" y1="133" x2="354" y2="151" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="144" text-anchor="middle" class="Lx">/x/ velar</text>
+<rect x="22" y="151" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="162" text-anchor="middle" class="Lx">ע Ayin</text>
+<line x1="58" y1="151" x2="58" y2="169" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="162" text-anchor="middle" class="Lx">/ˁ/ pharyngeal</text>
+<line x1="132" y1="151" x2="132" y2="169" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="162" text-anchor="middle" class="Lx">/ˁ/ pharyngeal</text>
+<line x1="206" y1="151" x2="206" y2="169" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="162" text-anchor="middle" class="Lx">varies</text>
+<line x1="280" y1="151" x2="280" y2="169" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="162" text-anchor="middle" class="Lx">/ˁ/ weakened</text>
+<line x1="354" y1="151" x2="354" y2="169" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="162" text-anchor="middle" class="Lx">silent</text>
+<rect x="22" y="169" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="180" text-anchor="middle" class="Lx">ב Vav (soft)</text>
+<line x1="58" y1="169" x2="58" y2="187" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="180" text-anchor="middle" class="Lx">/w/</text>
+<line x1="132" y1="169" x2="132" y2="187" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="180" text-anchor="middle" class="Ls">/w/ ancient</text>
+<line x1="206" y1="169" x2="206" y2="187" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="180" text-anchor="middle" class="Lx">/v/</text>
+<line x1="280" y1="169" x2="280" y2="187" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="180" text-anchor="middle" class="Lx">/v/</text>
+<line x1="354" y1="169" x2="354" y2="187" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="180" text-anchor="middle" class="Lx">/v/</text>
+<rect x="22" y="187" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="198" text-anchor="middle" class="Lx">ג Gimel (soft)</text>
+<line x1="58" y1="187" x2="58" y2="205" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="198" text-anchor="middle" class="Lx">gh /ɣ/</text>
+<line x1="132" y1="187" x2="132" y2="205" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="198" text-anchor="middle" class="Ls">gh /ɣ/ kept</text>
+<line x1="206" y1="187" x2="206" y2="205" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="198" text-anchor="middle" class="Lx">/g/ lost</text>
+<line x1="280" y1="187" x2="280" y2="205" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="198" text-anchor="middle" class="Lx">usually /g/</text>
+<line x1="354" y1="187" x2="354" y2="205" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="198" text-anchor="middle" class="Lx">/g/</text>
+<rect x="22" y="205" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="216" text-anchor="middle" class="Lx">ד Dalet (soft)</text>
+<line x1="58" y1="205" x2="58" y2="223" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="216" text-anchor="middle" class="Lx">th /ð/</text>
+<line x1="132" y1="205" x2="132" y2="223" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="216" text-anchor="middle" class="Ls">th /ð/ kept</text>
+<line x1="206" y1="205" x2="206" y2="223" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="216" text-anchor="middle" class="Lx">/d/ lost</text>
+<line x1="280" y1="205" x2="280" y2="223" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="216" text-anchor="middle" class="Lx">/d/ lost</text>
+<line x1="354" y1="205" x2="354" y2="223" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="216" text-anchor="middle" class="Lx">/d/</text>
+<rect x="22" y="223" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="234" text-anchor="middle" class="Lx">ת Tav (soft)</text>
+<line x1="58" y1="223" x2="58" y2="241" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="234" text-anchor="middle" class="Lx">th /θ/</text>
+<line x1="132" y1="223" x2="132" y2="241" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="234" text-anchor="middle" class="Ls">th /θ/ kept</text>
+<line x1="206" y1="223" x2="206" y2="241" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="234" text-anchor="middle" class="Lx">th kept (Ir.)</text>
+<line x1="280" y1="223" x2="280" y2="241" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="234" text-anchor="middle" class="Lx">/s/</text>
+<line x1="354" y1="223" x2="354" y2="241" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="234" text-anchor="middle" class="Lx">/t/</text>
+<rect x="22" y="241" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="252" text-anchor="middle" class="Lx">ר Resh</text>
+<line x1="58" y1="241" x2="58" y2="259" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="252" text-anchor="middle" class="Lx">trilled /r/</text>
+<line x1="132" y1="241" x2="132" y2="259" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="252" text-anchor="middle" class="Lx">trilled /r/ or /ʁ/</text>
+<line x1="206" y1="241" x2="206" y2="259" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="252" text-anchor="middle" class="Lx">uvular /ʁ/</text>
+<line x1="280" y1="241" x2="280" y2="259" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="252" text-anchor="middle" class="Lx">uvular /ʁ/</text>
+<line x1="354" y1="241" x2="354" y2="259" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="252" text-anchor="middle" class="Lx">uvular /ʁ/</text>
+<rect x="22" y="259" width="436" height="18" fill="none" stroke="#000" stroke-width="0.3"/>
+<text x="40" y="270" text-anchor="middle" class="Lx">ק Qoph</text>
+<line x1="58" y1="259" x2="58" y2="277" stroke="#000" stroke-width="0.3"/>
+<text x="95" y="270" text-anchor="middle" class="Lx">uvular /q/</text>
+<line x1="132" y1="259" x2="132" y2="277" stroke="#000" stroke-width="0.3"/>
+<text x="169" y="270" text-anchor="middle" class="Lx">emphatic /qˤ/</text>
+<line x1="206" y1="259" x2="206" y2="277" stroke="#000" stroke-width="0.3"/>
+<text x="243" y="270" text-anchor="middle" class="Lx">/ k/</text>
+<line x1="280" y1="259" x2="280" y2="277" stroke="#000" stroke-width="0.3"/>
+<text x="317" y="270" text-anchor="middle" class="Lx">/k/</text>
+<line x1="354" y1="259" x2="354" y2="277" stroke="#000" stroke-width="0.3"/>
+<text x="389" y="270" text-anchor="middle" class="Lx">/k/</text>
+<text x="22" y="278" text-anchor="start" class="Lx">bold = Yemenite preserves archaic form lost elsewhere</text>
+<line x1="22" y1="283" x2="458" y2="283" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="289" text-anchor="middle" class="H">— · —  BEGADKEFAT  ·  ALL SIX PAIRS FULLY PRESERVED IN YEMENITE  — · —</text>
+<line x1="22" y1="293" x2="458" y2="293" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="Lx">Yemenite is the only modern Hebrew tradition preserving all 6 soft/hard alternations</text>
+<rect x="22" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="56" y1="305" x2="56" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="39" y="318" text-anchor="middle" class="Lh">בּ</text>
+<text x="39" y="328" text-anchor="middle" class="Lx">/b/</text>
+<text x="39" y="337" text-anchor="middle" class="Lx">boy</text>
+<text x="73" y="318" text-anchor="middle" class="Lh">ב</text>
+<text x="73" y="328" text-anchor="middle" class="Lx">/v/</text>
+<text x="73" y="337" text-anchor="middle" class="Lx">vine</text>
+<text x="73" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<rect x="94" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="128" y1="305" x2="128" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="111" y="318" text-anchor="middle" class="Lh">גּ</text>
+<text x="111" y="328" text-anchor="middle" class="Lx">/g/</text>
+<text x="111" y="337" text-anchor="middle" class="Lx">go</text>
+<text x="145" y="318" text-anchor="middle" class="Lh">ג</text>
+<text x="145" y="328" text-anchor="middle" class="Lx">/gh/</text>
+<text x="145" y="337" text-anchor="middle" class="Lx">Arabic ghayn</text>
+<text x="145" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<rect x="166" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="200" y1="305" x2="200" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="183" y="318" text-anchor="middle" class="Lh">דּ</text>
+<text x="183" y="328" text-anchor="middle" class="Lx">/d/</text>
+<text x="183" y="337" text-anchor="middle" class="Lx">door</text>
+<text x="217" y="318" text-anchor="middle" class="Lh">ד</text>
+<text x="217" y="328" text-anchor="middle" class="Lx">/ð/</text>
+<text x="217" y="337" text-anchor="middle" class="Lx">this (voiced th)</text>
+<text x="217" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<rect x="238" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="272" y1="305" x2="272" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="255" y="318" text-anchor="middle" class="Lh">כּ</text>
+<text x="255" y="328" text-anchor="middle" class="Lx">/k/</text>
+<text x="255" y="337" text-anchor="middle" class="Lx">king</text>
+<text x="289" y="318" text-anchor="middle" class="Lh">כ</text>
+<text x="289" y="328" text-anchor="middle" class="Lx">/kh/</text>
+<text x="289" y="337" text-anchor="middle" class="Lx">Bach</text>
+<text x="289" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<rect x="310" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="344" y1="305" x2="344" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="327" y="318" text-anchor="middle" class="Lh">פּ</text>
+<text x="327" y="328" text-anchor="middle" class="Lx">/p/</text>
+<text x="327" y="337" text-anchor="middle" class="Lx">pick</text>
+<text x="361" y="318" text-anchor="middle" class="Lh">פ</text>
+<text x="361" y="328" text-anchor="middle" class="Lx">/f/</text>
+<text x="361" y="337" text-anchor="middle" class="Lx">five</text>
+<text x="361" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<rect x="382" y="305" width="68" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<line x1="416" y1="305" x2="416" y2="345" stroke="#000" stroke-width="0.4"/>
+<text x="399" y="318" text-anchor="middle" class="Lh">תּ</text>
+<text x="399" y="328" text-anchor="middle" class="Lx">/t/</text>
+<text x="399" y="337" text-anchor="middle" class="Lx">top</text>
+<text x="433" y="318" text-anchor="middle" class="Lh">ת</text>
+<text x="433" y="328" text-anchor="middle" class="Lx">/θ/</text>
+<text x="433" y="337" text-anchor="middle" class="Lx">think (unvoiced th)</text>
+<text x="433" y="342" text-anchor="middle" class="Lx">Yem.+Biblical</text>
+<text x="240" y="350" text-anchor="middle" class="Lx">Israeli Hebrew lost gimel-gh, dalet-dh, tav-th  ·  Yemenite preserves all three with Biblical Hebrew</text>
+<line x1="22" y1="355" x2="458" y2="355" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="361" text-anchor="middle" class="H">— · —  SHEVA MOBILE  ·  THE PERFECTLY PRESERVED TIBERIAN RULE  — · —</text>
+<line x1="22" y1="365" x2="458" y2="365" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="373" text-anchor="middle" class="Lx">Yemenite is the only tradition that still follows the full Tiberian sheva mobile rules</text>
+<text x="240" y="382" text-anchor="middle" class="Lx">Israeli grammarian Shelomo Morag: Yemenite sheva is 'the way the sheva was known to have been in Tiberian'</text>
+<rect x="22" y="388" width="436" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="105" y="398" text-anchor="middle" class="Ls">Before REGULAR consonant</text>
+<line x1="188" y1="388" x2="188" y2="414" stroke="#000" stroke-width="0.3"/>
+<text x="270" y="398" text-anchor="middle" class="Lx">sheva = ultra-short /a/</text>
+<line x1="350" y1="388" x2="350" y2="414" stroke="#000" stroke-width="0.3"/>
+<text x="395" y="397" text-anchor="middle" class="Lhm">בְמֶלֶך  b'-ME-lekh</text>
+<text x="395" y="407" text-anchor="middle" class="Lx">not b'meelekh</text>
+<rect x="22" y="418" width="436" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="105" y="428" text-anchor="middle" class="Ls">Before GUTTURAL</text>
+<line x1="188" y1="418" x2="188" y2="444" stroke="#000" stroke-width="0.3"/>
+<text x="270" y="428" text-anchor="middle" class="Lx">sheva copies guttural vowel</text>
+<line x1="350" y1="418" x2="350" y2="444" stroke="#000" stroke-width="0.3"/>
+<text x="395" y="427" text-anchor="middle" class="Lhm">וְחוּט  wu-KHUT</text>
+<text x="395" y="437" text-anchor="middle" class="Lx">not v'khut</text>
+<rect x="22" y="448" width="436" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="105" y="458" text-anchor="middle" class="Ls">Before YOD</text>
+<line x1="188" y1="448" x2="188" y2="474" stroke="#000" stroke-width="0.3"/>
+<text x="270" y="458" text-anchor="middle" class="Lx">sheva = ultra-short /i/</text>
+<line x1="350" y1="448" x2="350" y2="474" stroke="#000" stroke-width="0.3"/>
+<text x="395" y="457" text-anchor="middle" class="Lhm">בְיוֹם  bi-YOM</text>
+<text x="395" y="467" text-anchor="middle" class="Lx">not b'yom</text>
+<line x1="22" y1="483" x2="458" y2="483" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="489" text-anchor="middle" class="H">— · —  EMPHATIC CONSONANTS  ·  PHARYNGEALIZED SOUNDS  — · —</text>
+<line x1="22" y1="493" x2="458" y2="493" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="497" width="138" height="38" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="44" y="512" text-anchor="middle" class="Lh">ט</text>
+<text x="102" y="506" text-anchor="middle" class="Ls">Tet  /tˤ/</text>
+<text x="102" y="515" text-anchor="middle" class="Lx">emphatic T</text>
+<text x="102" y="524" text-anchor="middle" class="Lx">like Arabic ط  ·  tongue pressed back</text>
+<rect x="164" y="497" width="138" height="38" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="186" y="512" text-anchor="middle" class="Lh">צ</text>
+<text x="244" y="506" text-anchor="middle" class="Ls">Tsade  /sˤ/</text>
+<text x="244" y="515" text-anchor="middle" class="Lx">emphatic S/Ts</text>
+<text x="244" y="524" text-anchor="middle" class="Lx">like Arabic ص  ·  pharyngealized</text>
+<rect x="306" y="497" width="138" height="38" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="328" y="512" text-anchor="middle" class="Lh">ק</text>
+<text x="386" y="506" text-anchor="middle" class="Ls">Qoph  /q/</text>
+<text x="386" y="515" text-anchor="middle" class="Lx">uvular stop</text>
+<text x="386" y="524" text-anchor="middle" class="Lx">deep in throat like Arabic ق</text>
+<text x="240" y="542" text-anchor="middle" class="Lx">emphatics lost in Ashkenazi and Israeli  ·  preserved in Yemenite and Mizrahi traditions</text>
+<text x="240" y="551" text-anchor="middle" class="Lx">Arabic preserved the same emphatics from Proto-Semitic  ·  mutual intelligibility of these sounds historically</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,161 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lt{font-size:14px;}
+  .Ltm{font-size:11px;}
+  .Lts{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 14B  ·  TAMIL  ·  PHONOLOGY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">retroflex consonants · the zh sound · vowel length · no aspirates · positional allophones</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE DISTINCTIVE SOUNDS OF TAMIL  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Tamil has sounds found nowhere else in the world  ·  the retroflex series is its defining feature</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">retroflex consonants: tongue tip curled back to touch roof of mouth</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">Tamil has NO voiced/unvoiced distinction and NO aspirated consonants in pure Tamil</text>
+<line x1="22" y1="102" x2="458" y2="102" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="108" text-anchor="middle" class="H">— · —  RETROFLEX CONSONANTS  ·  TONGUE CURLED BACK  — · —</text>
+<line x1="22" y1="112" x2="458" y2="112" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="116" width="84" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="64" y="130" text-anchor="middle" class="Lt">ඣ்</text>
+<text x="64" y="142" text-anchor="middle" class="Ls">ṭ  /ʈ/</text>
+<text x="64" y="151" text-anchor="middle" class="Lx">retroflex stop T</text>
+<text x="64" y="160" text-anchor="middle" class="Lx">tongue tip curled back</text>
+<text x="64" y="168" text-anchor="middle" class="Lx">to hard palate</text>
+<text x="64" y="176" text-anchor="middle" class="Lx">no English equivalent</text>
+<rect x="110" y="116" width="84" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="152" y="130" text-anchor="middle" class="Lt">ண்</text>
+<text x="152" y="142" text-anchor="middle" class="Ls">ṇ  /ɳ/</text>
+<text x="152" y="151" text-anchor="middle" class="Lx">retroflex nasal N</text>
+<text x="152" y="160" text-anchor="middle" class="Lx">nasal with tongue curled</text>
+<text x="152" y="168" text-anchor="middle" class="Lx">like 'n' but retroflex</text>
+<text x="152" y="176" text-anchor="middle" class="Lx">like 'n' in some Hindi words</text>
+<rect x="198" y="116" width="84" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="130" text-anchor="middle" class="Lt">ற்</text>
+<text x="240" y="142" text-anchor="middle" class="Ls">R  /r̪/</text>
+<text x="240" y="151" text-anchor="middle" class="Lx">retroflex trill R</text>
+<text x="240" y="160" text-anchor="middle" class="Lx">trilled r with curl</text>
+<text x="240" y="168" text-anchor="middle" class="Lx">distinct from dental r</text>
+<text x="240" y="176" text-anchor="middle" class="Lx">heavier than Spanish rr</text>
+<rect x="286" y="116" width="84" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="328" y="130" text-anchor="middle" class="Lt">ழ்</text>
+<text x="328" y="142" text-anchor="middle" class="Ls">zh  /ɹ/</text>
+<text x="328" y="151" text-anchor="middle" class="Lx">retroflex approximant
+ZH  ·  appears in தமிழ் itself</text>
+<text x="328" y="160" text-anchor="middle" class="Lx">NO equivalent anywhere</text>
+<text x="328" y="168" text-anchor="middle" class="Lx">unique to Tamil and Malayalam</text>
+<text x="328" y="176" text-anchor="middle" class="Lx">retroflex lateral approximant</text>
+<rect x="374" y="116" width="84" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="416" y="130" text-anchor="middle" class="Lt">ள்</text>
+<text x="416" y="142" text-anchor="middle" class="Ls">ḷ  /ɭ/</text>
+<text x="416" y="151" text-anchor="middle" class="Lx">retroflex lateral L</text>
+<text x="416" y="160" text-anchor="middle" class="Lx">l with tongue curled back</text>
+<text x="416" y="168" text-anchor="middle" class="Lx">distinct from dental l</text>
+<text x="416" y="176" text-anchor="middle" class="Lx">some similarity to Welsh ll</text>
+<line x1="22" y1="188" x2="458" y2="188" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="194" text-anchor="middle" class="H">— · —  THE ZH SOUND  ·  ழ்  ·  UNIQUE TO TAMIL  — · —</text>
+<line x1="22" y1="198" x2="458" y2="198" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="202" width="436" height="50" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="214" text-anchor="middle" class="Ls">ழ்  zh  /ɹ/  ·  retroflex approximant  ·  appears in the word Tamil itself</text>
+<text x="240" y="224" text-anchor="middle" class="Ltm">தமிழ் = ta-mi-zh  ·  the zh is the last sound in Tamil's own name</text>
+<text x="240" y="236" text-anchor="middle" class="Lx">tongue curled back  ·  not quite r  ·  not quite l  ·  somewhere between  ·  no English equivalent</text>
+<text x="240" y="245" text-anchor="middle" class="Lx">closest analogy: the British English 'r' in 'here' said with tongue pushed further back</text>
+<line x1="22" y1="258" x2="458" y2="258" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="264" text-anchor="middle" class="H">— · —  VOWEL LENGTH  ·  CHANGES WORD MEANING  — · —</text>
+<line x1="22" y1="268" x2="458" y2="268" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="276" text-anchor="middle" class="Lx">Tamil vowel length is phonemic  ·  short vowel vs long vowel = completely different word</text>
+<rect x="22" y="280" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="48" y="292" text-anchor="middle" class="Ltm">பழ்</text>
+<text x="48" y="300" text-anchor="middle" class="Lx">pazh=ripe/old</text>
+<line x1="74" y1="280" x2="74" y2="316" stroke="#000" stroke-width="0.4"/>
+<text x="100" y="292" text-anchor="middle" class="Ltm">பாழ்</text>
+<text x="100" y="300" text-anchor="middle" class="Lx">pāzh=wasteland</text>
+<rect x="131" y="280" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="157" y="292" text-anchor="middle" class="Ltm">பட்</text>
+<text x="157" y="300" text-anchor="middle" class="Lx">pat=army/group</text>
+<line x1="183" y1="280" x2="183" y2="316" stroke="#000" stroke-width="0.4"/>
+<text x="209" y="292" text-anchor="middle" class="Ltm">பாட்</text>
+<text x="209" y="300" text-anchor="middle" class="Lx">pāt=song</text>
+<rect x="240" y="280" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="266" y="292" text-anchor="middle" class="Ltm">இரு</text>
+<text x="266" y="300" text-anchor="middle" class="Lx">iru=be/exist</text>
+<line x1="292" y1="280" x2="292" y2="316" stroke="#000" stroke-width="0.4"/>
+<text x="318" y="292" text-anchor="middle" class="Ltm">ஈரு</text>
+<text x="318" y="300" text-anchor="middle" class="Lx">īru=two (formal)</text>
+<rect x="349" y="280" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="375" y="292" text-anchor="middle" class="Ltm">தோல்</text>
+<text x="375" y="300" text-anchor="middle" class="Lx">tōl=skin</text>
+<line x1="401" y1="280" x2="401" y2="316" stroke="#000" stroke-width="0.4"/>
+<text x="427" y="292" text-anchor="middle" class="Ltm">தொல்</text>
+<text x="427" y="300" text-anchor="middle" class="Lx">tol=work</text>
+<text x="240" y="322" text-anchor="middle" class="Lx">short vowels held for 1 unit (matra)  ·  long vowels held for 2 units</text>
+<line x1="22" y1="327" x2="458" y2="327" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="333" text-anchor="middle" class="H">— · —  NO ASPIRATES  ·  POSITIONAL ALLOPHONES  — · —</text>
+<line x1="22" y1="337" x2="458" y2="337" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="345" text-anchor="middle" class="Lx">Tamil has NO voiced/unvoiced distinction and NO aspirated consonants in pure Tamil</text>
+<text x="240" y="354" text-anchor="middle" class="Lx">instead: position in word determines pronunciation of each consonant</text>
+<rect x="22" y="358" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="370" text-anchor="middle" class="Ltm">க்  k</text>
+<text x="112" y="366" text-anchor="middle" class="Lx">word-initial</text>
+<text x="112" y="374" text-anchor="middle" class="Lx">/k/  like English k in king</text>
+<rect x="240" y="358" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="266" y="370" text-anchor="middle" class="Ltm">க்  k</text>
+<text x="330" y="366" text-anchor="middle" class="Lx">after nasal</text>
+<text x="330" y="374" text-anchor="middle" class="Lx">/g/  voiced like English g</text>
+<rect x="22" y="380" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="392" text-anchor="middle" class="Ltm">க்  k</text>
+<text x="112" y="388" text-anchor="middle" class="Lx">medial position</text>
+<text x="112" y="396" text-anchor="middle" class="Lx">/x/ or /g/  like Spanish j or g</text>
+<rect x="240" y="380" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="266" y="392" text-anchor="middle" class="Ltm">ச்  c</text>
+<text x="330" y="388" text-anchor="middle" class="Lx">word-initial</text>
+<text x="330" y="396" text-anchor="middle" class="Lx">/tɕ/  like ch in church</text>
+<rect x="22" y="402" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="414" text-anchor="middle" class="Ltm">ச்  c</text>
+<text x="112" y="410" text-anchor="middle" class="Lx">medial position</text>
+<text x="112" y="418" text-anchor="middle" class="Lx">/s/  like English s</text>
+<rect x="240" y="402" width="214" height="20" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="266" y="414" text-anchor="middle" class="Ltm">ச்  c</text>
+<text x="330" y="410" text-anchor="middle" class="Lx">after nasal</text>
+<text x="330" y="418" text-anchor="middle" class="Lx">/dʑ/  like j in jungle</text>
+<text x="240" y="428" text-anchor="middle" class="Lx">same letter  ·  different position  ·  different sound  ·  context determines pronunciation</text>
+<line x1="22" y1="433" x2="458" y2="433" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="439" text-anchor="middle" class="H">— · —  DENTAL VS RETROFLEX  ·  THREE SETS OF PAIRED SOUNDS  — · —</text>
+<line x1="22" y1="443" x2="458" y2="443" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="451" text-anchor="middle" class="Lx">Tamil uniquely distinguishes three different places for each stop/nasal: dental, alveolar, retroflex</text>
+<rect x="22" y="455" width="210" height="24" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="74" y="465" text-anchor="middle" class="Lts">ந்  n (dental)</text>
+<text x="74" y="473" text-anchor="middle" class="Lx">tongue tip on teeth</text>
+<line x1="127" y1="455" x2="127" y2="479" stroke="#000" stroke-width="0.3"/>
+<text x="179" y="465" text-anchor="middle" class="Lts">ண்  N (retroflex)</text>
+<text x="179" y="473" text-anchor="middle" class="Lx">tongue curled back</text>
+<rect x="236" y="455" width="210" height="24" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="288" y="465" text-anchor="middle" class="Lts">த்  t (dental)</text>
+<text x="288" y="473" text-anchor="middle" class="Lx">tongue tip on teeth</text>
+<line x1="341" y1="455" x2="341" y2="479" stroke="#000" stroke-width="0.3"/>
+<text x="393" y="465" text-anchor="middle" class="Lts">ඣ்  T (retroflex)</text>
+<text x="393" y="473" text-anchor="middle" class="Lx">tongue curled back</text>
+<rect x="125" y="483" width="210" height="24" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="177" y="493" text-anchor="middle" class="Lts">ல்  l (dental)</text>
+<text x="177" y="501" text-anchor="middle" class="Lx">tongue tip on teeth</text>
+<line x1="230" y1="483" x2="230" y2="507" stroke="#000" stroke-width="0.3"/>
+<text x="282" y="493" text-anchor="middle" class="Lts">ள்  L (retroflex)</text>
+<text x="282" y="501" text-anchor="middle" class="Lx">tongue curled back</text>
+<text x="240" y="516" text-anchor="middle" class="Lx">this three-way distinction is one of Tamil's most ancient and distinctive phonological features</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

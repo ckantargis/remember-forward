@@ -1,0 +1,225 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lt{font-size:14px;}
+  .Ltm{font-size:11px;}
+  .Lts{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 14C  ·  TAMIL  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">SOV order · agglutinative · case system · verb structure · Tolkappiyam · core vocabulary</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  TAMIL GRAMMAR  ·  SOV ORDER  ·  AGGLUTINATIVE  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Tamil places the verb at the END of the sentence  ·  opposite of Arabic and English</text>
+<rect x="22" y="83" width="130" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="87" y="95" text-anchor="middle" class="Ls">SUBJECT</text>
+<text x="87" y="104" text-anchor="middle" class="Lx">the actor</text>
+<line x1="154" y1="95" x2="177" y2="95" stroke="#000" stroke-width="0.7"/><polygon points="177,93 182,95 177,97" fill="#000"/>
+<rect x="184" y="83" width="130" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="249" y="95" text-anchor="middle" class="Ls">OBJECT</text>
+<text x="249" y="104" text-anchor="middle" class="Lx">what is acted on</text>
+<line x1="316" y1="95" x2="339" y2="95" stroke="#000" stroke-width="0.7"/><polygon points="339,93 344,95 339,97" fill="#000"/>
+<rect x="346" y="83" width="112" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="402" y="95" text-anchor="middle" class="Ls">VERB</text>
+<text x="402" y="104" text-anchor="middle" class="Lx">the action</text>
+<text x="240" y="115" text-anchor="middle" class="Ltm">அவன் தண்ணீர் குடிக்கிறான்  ·  avan tannir kutikkiran  ·  he water drinks</text>
+<line x1="22" y1="122" x2="458" y2="122" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">— · —  AGGLUTINATION  ·  MEANING BUILT BY ADDING SUFFIXES  — · —</text>
+<line x1="22" y1="132" x2="458" y2="132" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="140" text-anchor="middle" class="Lx">Tamil is highly agglutinative  ·  one word can express what English takes a sentence to say</text>
+<rect x="22" y="144" width="108" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="76" y="156" text-anchor="middle" class="Lts">கடல்</text>
+<text x="76" y="165" text-anchor="middle" class="Lx">katal</text>
+<text x="76" y="174" text-anchor="middle" class="Lx">sea</text>
+<rect x="132" y="144" width="108" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="186" y="156" text-anchor="middle" class="Lts">கடலில்</text>
+<text x="186" y="165" text-anchor="middle" class="Lx">katali-l</text>
+<text x="186" y="174" text-anchor="middle" class="Lx">in the sea</text>
+<text x="186" y="178" text-anchor="middle" class="Lx"></text>
+<rect x="242" y="144" width="108" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="296" y="156" text-anchor="middle" class="Lts">கடலிலிருந்து</text>
+<text x="296" y="165" text-anchor="middle" class="Lx">katal-il-iruntu</text>
+<text x="296" y="174" text-anchor="middle" class="Lx">from inside the sea</text>
+<text x="296" y="178" text-anchor="middle" class="Lx"></text>
+<text x="296" y="178" text-anchor="middle" class="Lx"></text>
+<rect x="352" y="144" width="108" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="406" y="156" text-anchor="middle" class="Lts">கடலிலிருந்துவருகிறேன்</text>
+<text x="406" y="165" text-anchor="middle" class="Lx">katal-il-iruntu-varukiren</text>
+<text x="406" y="174" text-anchor="middle" class="Lx">I am coming from inside the sea</text>
+<text x="406" y="178" text-anchor="middle" class="Lx"></text>
+<text x="406" y="178" text-anchor="middle" class="Lx"></text>
+<text x="406" y="178" text-anchor="middle" class="Lx"></text>
+<line x1="22" y1="185" x2="458" y2="185" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="191" text-anchor="middle" class="H">— · —  THE CASE SYSTEM  ·  SUFFIXES REPLACE PREPOSITIONS  — · —</text>
+<line x1="22" y1="195" x2="458" y2="195" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="203" text-anchor="middle" class="Lx">Tamil uses case suffixes where English uses prepositions  ·  8 main cases</text>
+<rect x="22" y="207" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="74" y="216" text-anchor="middle" class="Lx">Nominative</text>
+<text x="74" y="224" text-anchor="middle" class="Lx">-அ/ஆன் = subject</text>
+<rect x="130" y="207" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="182" y="216" text-anchor="middle" class="Lx">Accusative</text>
+<text x="182" y="224" text-anchor="middle" class="Lx">-ஐ = direct object</text>
+<rect x="238" y="207" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="290" y="216" text-anchor="middle" class="Lx">Dative</text>
+<text x="290" y="224" text-anchor="middle" class="Lx">-க்கு = to/for</text>
+<rect x="346" y="207" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="398" y="216" text-anchor="middle" class="Lx">Sociative</text>
+<text x="398" y="224" text-anchor="middle" class="Lx">-ொடு = with</text>
+<rect x="22" y="232" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="74" y="241" text-anchor="middle" class="Lx">Instrumental</text>
+<text x="74" y="249" text-anchor="middle" class="Lx">-ஆல் = by means of</text>
+<rect x="130" y="232" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="182" y="241" text-anchor="middle" class="Lx">Ablative</text>
+<text x="182" y="249" text-anchor="middle" class="Lx">-இலிருந்து = from</text>
+<rect x="238" y="232" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="290" y="241" text-anchor="middle" class="Lx">Locative</text>
+<text x="290" y="249" text-anchor="middle" class="Lx">-இல் = in/at</text>
+<rect x="346" y="232" width="104" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="398" y="241" text-anchor="middle" class="Lx">Vocative</text>
+<text x="398" y="249" text-anchor="middle" class="Lx">-இரோ/ஆய் = O! (address)</text>
+<line x1="22" y1="260" x2="458" y2="260" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="266" text-anchor="middle" class="H">— · —  VERB STRUCTURE  ·  ROOT + TENSE + PERSON  — · —</text>
+<line x1="22" y1="270" x2="458" y2="270" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="Lx">Tamil verb: ROOT + tense marker + person/number/gender suffix</text>
+<text x="240" y="287" text-anchor="middle" class="Ltm">root குடி- (kudi = drink)  ·  present: குடிக்கிறேன்  (kudi-kk-iren = I drink)</text>
+<text x="240" y="297" text-anchor="middle" class="Ltm">past: குடித்தேன் (kudi-tt-en = I drank)  ·  future: குடிப்பேன் (kudi-pp-en = I will drink)</text>
+<line x1="22" y1="305" x2="458" y2="305" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="311" text-anchor="middle" class="H">— · —  CORE VOCABULARY  ·  30 ESSENTIAL WORDS  — · —</text>
+<line x1="22" y1="315" x2="458" y2="315" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="319" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="331" text-anchor="middle" class="Lts">தண்ணீர்</text>
+<text x="80" y="327" text-anchor="start" class="Lx">tannir</text>
+<text x="80" y="335" text-anchor="start" class="Lx">water</text>
+<rect x="125" y="319" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="331" text-anchor="middle" class="Lts">நெருப்பு</text>
+<text x="183" y="327" text-anchor="start" class="Lx">neruppu</text>
+<text x="183" y="335" text-anchor="start" class="Lx">fire</text>
+<rect x="228" y="319" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="331" text-anchor="middle" class="Lts">மண்</text>
+<text x="286" y="327" text-anchor="start" class="Lx">man</text>
+<text x="286" y="335" text-anchor="start" class="Lx">earth/soil</text>
+<rect x="331" y="319" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="331" text-anchor="middle" class="Lts">ஆகாயம்</text>
+<text x="389" y="327" text-anchor="start" class="Lx">akayam</text>
+<text x="389" y="335" text-anchor="start" class="Lx">sky</text>
+<rect x="22" y="343" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="355" text-anchor="middle" class="Lts">சூரியன்</text>
+<text x="80" y="351" text-anchor="start" class="Lx">suriyan</text>
+<text x="80" y="359" text-anchor="start" class="Lx">sun</text>
+<rect x="125" y="343" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="355" text-anchor="middle" class="Lts">நிலா</text>
+<text x="183" y="351" text-anchor="start" class="Lx">nila</text>
+<text x="183" y="359" text-anchor="start" class="Lx">moon</text>
+<rect x="228" y="343" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="355" text-anchor="middle" class="Lts">மனிதன்</text>
+<text x="286" y="351" text-anchor="start" class="Lx">manitan</text>
+<text x="286" y="359" text-anchor="start" class="Lx">person</text>
+<rect x="331" y="343" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="355" text-anchor="middle" class="Lts">பெண்</text>
+<text x="389" y="351" text-anchor="start" class="Lx">pen</text>
+<text x="389" y="359" text-anchor="start" class="Lx">woman</text>
+<rect x="22" y="367" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="379" text-anchor="middle" class="Lts">தாய்</text>
+<text x="80" y="375" text-anchor="start" class="Lx">tay</text>
+<text x="80" y="383" text-anchor="start" class="Lx">mother</text>
+<rect x="125" y="367" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="379" text-anchor="middle" class="Lts">தந்தை</text>
+<text x="183" y="375" text-anchor="start" class="Lx">tantai</text>
+<text x="183" y="383" text-anchor="start" class="Lx">father</text>
+<rect x="228" y="367" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="379" text-anchor="middle" class="Lts">வீடு</text>
+<text x="286" y="375" text-anchor="start" class="Lx">vitu</text>
+<text x="286" y="383" text-anchor="start" class="Lx">house</text>
+<rect x="331" y="367" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="379" text-anchor="middle" class="Lts">நாடு</text>
+<text x="389" y="375" text-anchor="start" class="Lx">natu</text>
+<text x="389" y="383" text-anchor="start" class="Lx">country/land</text>
+<rect x="22" y="391" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="403" text-anchor="middle" class="Lts">அன்பு</text>
+<text x="80" y="399" text-anchor="start" class="Lx">anbu</text>
+<text x="80" y="407" text-anchor="start" class="Lx">love</text>
+<rect x="125" y="391" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="403" text-anchor="middle" class="Lts">உண்மை</text>
+<text x="183" y="399" text-anchor="start" class="Lx">unmai</text>
+<text x="183" y="407" text-anchor="start" class="Lx">truth</text>
+<rect x="228" y="391" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="403" text-anchor="middle" class="Lts">அமைதி</text>
+<text x="286" y="399" text-anchor="start" class="Lx">amaiti</text>
+<text x="286" y="407" text-anchor="start" class="Lx">peace</text>
+<rect x="331" y="391" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="403" text-anchor="middle" class="Lts">அறிவு</text>
+<text x="389" y="399" text-anchor="start" class="Lx">arivu</text>
+<text x="389" y="407" text-anchor="start" class="Lx">knowledge</text>
+<rect x="22" y="415" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="427" text-anchor="middle" class="Lts">படை</text>
+<text x="80" y="423" text-anchor="start" class="Lx">patai</text>
+<text x="80" y="431" text-anchor="start" class="Lx">army</text>
+<rect x="125" y="415" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="427" text-anchor="middle" class="Lts">மன்</text>
+<text x="183" y="423" text-anchor="start" class="Lx">man</text>
+<text x="183" y="431" text-anchor="start" class="Lx">mind/heart</text>
+<rect x="228" y="415" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="427" text-anchor="middle" class="Lts">படித்தல்</text>
+<text x="286" y="423" text-anchor="start" class="Lx">patittal</text>
+<text x="286" y="431" text-anchor="start" class="Lx">to read</text>
+<rect x="331" y="415" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="427" text-anchor="middle" class="Lts">எழுதுதல்</text>
+<text x="389" y="423" text-anchor="start" class="Lx">ezhututal</text>
+<text x="389" y="431" text-anchor="start" class="Lx">to write</text>
+<rect x="22" y="439" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="451" text-anchor="middle" class="Lts">பேசுதல்</text>
+<text x="80" y="447" text-anchor="start" class="Lx">pesutal</text>
+<text x="80" y="455" text-anchor="start" class="Lx">to speak</text>
+<rect x="125" y="439" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="451" text-anchor="middle" class="Lts">கேட்டல்</text>
+<text x="183" y="447" text-anchor="start" class="Lx">kettal</text>
+<text x="183" y="455" text-anchor="start" class="Lx">to hear</text>
+<rect x="228" y="439" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="451" text-anchor="middle" class="Lts">உணவு</text>
+<text x="286" y="447" text-anchor="start" class="Lx">unavu</text>
+<text x="286" y="455" text-anchor="start" class="Lx">food</text>
+<rect x="331" y="439" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="451" text-anchor="middle" class="Lts">நீர்</text>
+<text x="389" y="447" text-anchor="start" class="Lx">nir</text>
+<text x="389" y="455" text-anchor="start" class="Lx">water (formal)</text>
+<rect x="22" y="463" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="475" text-anchor="middle" class="Lts">வான்</text>
+<text x="80" y="471" text-anchor="start" class="Lx">van</text>
+<text x="80" y="479" text-anchor="start" class="Lx">sky (poetic)</text>
+<rect x="125" y="463" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="475" text-anchor="middle" class="Lts">படி</text>
+<text x="183" y="471" text-anchor="start" class="Lx">pati</text>
+<text x="183" y="479" text-anchor="start" class="Lx">lesson</text>
+<rect x="228" y="463" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="475" text-anchor="middle" class="Lts">நடத்தல்</text>
+<text x="286" y="471" text-anchor="start" class="Lx">natattal</text>
+<text x="286" y="479" text-anchor="start" class="Lx">to walk</text>
+<rect x="331" y="463" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="355" y="475" text-anchor="middle" class="Lts">வருதல்</text>
+<text x="389" y="471" text-anchor="start" class="Lx">varutal</text>
+<text x="389" y="479" text-anchor="start" class="Lx">to come</text>
+<rect x="22" y="487" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="46" y="499" text-anchor="middle" class="Lts">போதல்</text>
+<text x="80" y="495" text-anchor="start" class="Lx">potal</text>
+<text x="80" y="503" text-anchor="start" class="Lx">to go</text>
+<rect x="125" y="487" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="149" y="499" text-anchor="middle" class="Lts">தின்</text>
+<text x="183" y="495" text-anchor="start" class="Lx">tin</text>
+<text x="183" y="503" text-anchor="start" class="Lx">day</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

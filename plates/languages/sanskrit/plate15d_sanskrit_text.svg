@@ -1,0 +1,69 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Ld{font-size:13px;}
+  .Ldm{font-size:10px;}
+  .Lds{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 15D  ·  SANSKRIT  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">Rig Veda · Upanishads · Bhagavad Gita · bridge phrase  · read left to right</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">read left to right  ·  Sanskrit/Devanagari above  ·  IAST transliteration middle  ·  translation below</text>
+<line x1="22" y1="68" x2="458" y2="68" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="76" text-anchor="middle" class="H">— · —  RIG VEDA 1.1.1  ·  c.1200-1500 BCE  ·  OLDEST INDO-EUROPEAN TEXT  — · —</text>
+<line x1="22" y1="81" x2="458" y2="81" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="84" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="97" text-anchor="middle" class="Ldm">अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्</text>
+<text x="240" y="109" text-anchor="middle" class="Lx">agnimīḷe purohitaṃ yajnasya devamṛtvijam</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">I praise Agni the priest of the sacrifice the divine minister</text>
+<text x="22" y="130" text-anchor="start" class="Lx">First verse of the Rig Veda  ·  agni = fire/the divine fire  ·  oldest surviving text of any Indo-European language</text>
+<line x1="22" y1="140" x2="458" y2="140" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="146" text-anchor="middle" class="H">— · —  CHANDOGYA UPANISHAD  ·  c.700 BCE  ·  TAT TVAM ASI  — · —</text>
+<line x1="22" y1="151" x2="458" y2="151" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="154" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="167" text-anchor="middle" class="Ldm">तत् त्वम् असि</text>
+<text x="240" y="179" text-anchor="middle" class="Lx">tat tvam asi</text>
+<text x="240" y="189" text-anchor="middle" class="Lx">That thou art  ·  you are that</text>
+<text x="22" y="200" text-anchor="start" class="Lx">One of the four mahavakyas (great sayings)  ·  tat = that (brahman/ultimate reality)  ·  tvam = you  ·  asi = are</text>
+<line x1="22" y1="210" x2="458" y2="210" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="216" text-anchor="middle" class="H">— · —  BHAGAVAD GITA 2:47  ·  c.200 BCE  ·  ON ACTION  — · —</text>
+<line x1="22" y1="221" x2="458" y2="221" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="224" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="237" text-anchor="middle" class="Ldm">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन</text>
+<text x="240" y="249" text-anchor="middle" class="Lx">karmaṇyēvādhikāraste mā phaleṣu kadācana</text>
+<text x="240" y="259" text-anchor="middle" class="Lx">You have a right to perform your prescribed duty but not to the fruits of action</text>
+<text x="22" y="270" text-anchor="start" class="Lx">Note: karmaṇi = in action  ·  adhikaras = right/authority  ·  phaleṣu = in fruits/results</text>
+<line x1="22" y1="280" x2="458" y2="280" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="286" text-anchor="middle" class="H">— · —  YOGA SUTRAS 1:2  ·  PATANJALI  ·  c.400 CE  — · —</text>
+<line x1="22" y1="291" x2="458" y2="291" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="294" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="307" text-anchor="middle" class="Ldm">योगश्चित्तवृत्तिनिरोधः</text>
+<text x="240" y="319" text-anchor="middle" class="Lx">yogaś citta-vṛtti-nirodhaḥ</text>
+<text x="240" y="329" text-anchor="middle" class="Lx">yoga is the cessation of the fluctuations of the mind</text>
+<text x="22" y="340" text-anchor="start" class="Lx">Note: citta = mind-stuff  ·  vṛtti = fluctuations/movements  ·  nirodha = cessation/restraint</text>
+<line x1="22" y1="350" x2="458" y2="350" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="356" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  IN SANSKRIT  — · —</text>
+<line x1="22" y1="361" x2="458" y2="361" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="364" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="377" text-anchor="middle" class="Ldm">इदं तवकृते  निःशुल्कम्  तेषां पुरुषाणां कृते ये पुरस्तात् स्मृतवन्तः</text>
+<text x="240" y="389" text-anchor="middle" class="Lx">idaṃ tava-kṛte  niḥśuklam  teṣāṃ puruṣāṇāṃ kṛte ye purastāt smṛtavantaḥ</text>
+<text x="240" y="399" text-anchor="middle" class="Lx">this was made for you  without cost  by those people who remembered toward what came before</text>
+<text x="22" y="410" text-anchor="start" class="Lx">Note: purastāt smṛtavantaḥ = they remembered toward the future  ·  smṛ = remember (root of Sanskrit)</text>
+<line x1="22" y1="420" x2="458" y2="420" stroke="#000" stroke-width="0.4"/>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

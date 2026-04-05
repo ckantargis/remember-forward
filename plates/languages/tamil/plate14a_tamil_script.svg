@@ -1,0 +1,227 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lt{font-size:14px;}
+  .Ltm{font-size:11px;}
+  .Lts{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 14A  ·  TAMIL  ·  SCRIPT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">தமிழ் · 2,000 years unbroken · Dravidian · abugida · left to right · 12 vowels · 18 consonants</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  TAMIL  ·  THE LANGUAGE THAT NEVER BROKE  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Tamil is the oldest living classical language with unbroken literary tradition</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">2,000+ years of literature  ·  UNESCO classical language  ·  75 million speakers</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">Dravidian family  ·  entirely independent of Indo-European and Semitic language families</text>
+<text x="240" y="106" text-anchor="middle" class="Lx">soul letters (vowels) + body letters (consonants) = living letters (compound syllables)</text>
+<line x1="22" y1="111" x2="458" y2="111" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">— · —  THE 12 VOWELS  ·  UYIR EZHUTTU  ·  SOUL LETTERS  — · —</text>
+<line x1="22" y1="121" x2="458" y2="121" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="129" text-anchor="middle" class="Lx">5 short  ·  5 long  ·  2 diphthongs  ·  vowel length changes meaning</text>
+<rect x="24" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="41" y="146" text-anchor="middle" class="Lt">அ</text>
+<text x="41" y="155" text-anchor="middle" class="Lx">a</text>
+<text x="41" y="165" text-anchor="middle" class="Lx">short</text>
+<rect x="61" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="78" y="146" text-anchor="middle" class="Lt">ஆ</text>
+<text x="78" y="155" text-anchor="middle" class="Lx">ā</text>
+<text x="78" y="165" text-anchor="middle" class="Lx">long</text>
+<rect x="98" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="115" y="146" text-anchor="middle" class="Lt">இ</text>
+<text x="115" y="155" text-anchor="middle" class="Lx">i</text>
+<text x="115" y="165" text-anchor="middle" class="Lx">short</text>
+<rect x="135" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="152" y="146" text-anchor="middle" class="Lt">ஈ</text>
+<text x="152" y="155" text-anchor="middle" class="Lx">ī</text>
+<text x="152" y="165" text-anchor="middle" class="Lx">long</text>
+<rect x="172" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="189" y="146" text-anchor="middle" class="Lt">உ</text>
+<text x="189" y="155" text-anchor="middle" class="Lx">u</text>
+<text x="189" y="165" text-anchor="middle" class="Lx">short</text>
+<rect x="209" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="226" y="146" text-anchor="middle" class="Lt">ஊ</text>
+<text x="226" y="155" text-anchor="middle" class="Lx">ū</text>
+<text x="226" y="165" text-anchor="middle" class="Lx">long</text>
+<rect x="246" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="263" y="146" text-anchor="middle" class="Lt">எ</text>
+<text x="263" y="155" text-anchor="middle" class="Lx">e</text>
+<text x="263" y="165" text-anchor="middle" class="Lx">short</text>
+<rect x="283" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="300" y="146" text-anchor="middle" class="Lt">ஏ</text>
+<text x="300" y="155" text-anchor="middle" class="Lx">ē</text>
+<text x="300" y="165" text-anchor="middle" class="Lx">long</text>
+<rect x="320" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="337" y="146" text-anchor="middle" class="Lt">ஒ</text>
+<text x="337" y="155" text-anchor="middle" class="Lx">o</text>
+<text x="337" y="165" text-anchor="middle" class="Lx">short</text>
+<rect x="357" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="374" y="146" text-anchor="middle" class="Lt">ஓ</text>
+<text x="374" y="155" text-anchor="middle" class="Lx">ō</text>
+<text x="374" y="165" text-anchor="middle" class="Lx">long</text>
+<rect x="394" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="411" y="146" text-anchor="middle" class="Lt">ஐ</text>
+<text x="411" y="155" text-anchor="middle" class="Lx">ai</text>
+<text x="411" y="165" text-anchor="middle" class="Lx">dipht.</text>
+<rect x="431" y="133" width="34" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="448" y="146" text-anchor="middle" class="Lt">ஔ</text>
+<text x="448" y="155" text-anchor="middle" class="Lx">au</text>
+<text x="448" y="165" text-anchor="middle" class="Lx">dipht.</text>
+<line x1="22" y1="174" x2="458" y2="174" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="180" text-anchor="middle" class="H">— · —  THE 18 CONSONANTS  ·  MEI EZHUTTU  ·  BODY LETTERS  — · —</text>
+<line x1="22" y1="184" x2="458" y2="184" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="188" width="145" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="188" width="145" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="94" y="197" text-anchor="middle" class="Lx">VALLINAM  ·  HARD</text>
+<text x="46" y="216" text-anchor="middle" class="Ltm">க்</text>
+<text x="46" y="226" text-anchor="middle" class="Lx">k</text>
+<text x="94" y="216" text-anchor="middle" class="Ltm">ச்</text>
+<text x="94" y="226" text-anchor="middle" class="Lx">c</text>
+<text x="142" y="216" text-anchor="middle" class="Ltm">ඣ்</text>
+<text x="142" y="226" text-anchor="middle" class="Lx">T</text>
+<text x="46" y="244" text-anchor="middle" class="Ltm">த்</text>
+<text x="46" y="254" text-anchor="middle" class="Lx">t</text>
+<text x="94" y="244" text-anchor="middle" class="Ltm">ப்</text>
+<text x="94" y="254" text-anchor="middle" class="Lx">p</text>
+<text x="142" y="244" text-anchor="middle" class="Ltm">ற்</text>
+<text x="142" y="254" text-anchor="middle" class="Lx">R</text>
+<rect x="169" y="188" width="145" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="169" y="188" width="145" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="241" y="197" text-anchor="middle" class="Lx">MELLINAM  ·  SOFT/NASAL</text>
+<text x="193" y="216" text-anchor="middle" class="Ltm">ங்</text>
+<text x="193" y="226" text-anchor="middle" class="Lx">ng</text>
+<text x="241" y="216" text-anchor="middle" class="Ltm">ஞ்</text>
+<text x="241" y="226" text-anchor="middle" class="Lx">ny</text>
+<text x="289" y="216" text-anchor="middle" class="Ltm">ண்</text>
+<text x="289" y="226" text-anchor="middle" class="Lx">N</text>
+<text x="193" y="244" text-anchor="middle" class="Ltm">ந்</text>
+<text x="193" y="254" text-anchor="middle" class="Lx">n</text>
+<text x="241" y="244" text-anchor="middle" class="Ltm">ம்</text>
+<text x="241" y="254" text-anchor="middle" class="Lx">m</text>
+<text x="289" y="244" text-anchor="middle" class="Ltm">ன்</text>
+<text x="289" y="254" text-anchor="middle" class="Lx">n̩</text>
+<rect x="316" y="188" width="145" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="316" y="188" width="145" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="388" y="197" text-anchor="middle" class="Lx">IDAIYINAM  ·  MEDIUM</text>
+<text x="340" y="216" text-anchor="middle" class="Ltm">ய்</text>
+<text x="340" y="226" text-anchor="middle" class="Lx">y</text>
+<text x="388" y="216" text-anchor="middle" class="Ltm">ர்</text>
+<text x="388" y="226" text-anchor="middle" class="Lx">r</text>
+<text x="436" y="216" text-anchor="middle" class="Ltm">ல்</text>
+<text x="436" y="226" text-anchor="middle" class="Lx">l</text>
+<text x="340" y="244" text-anchor="middle" class="Ltm">வ்</text>
+<text x="340" y="254" text-anchor="middle" class="Lx">v</text>
+<text x="388" y="244" text-anchor="middle" class="Ltm">ழ்</text>
+<text x="388" y="254" text-anchor="middle" class="Lx">zh</text>
+<text x="436" y="244" text-anchor="middle" class="Ltm">ள்</text>
+<text x="436" y="254" text-anchor="middle" class="Lx">ḷ</text>
+<text x="240" y="266" text-anchor="middle" class="Lx">pulli (dot) · suppresses inherent /a/ vowel: க = ka · க் = k (pure consonant)</text>
+<line x1="22" y1="271" x2="458" y2="271" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="277" text-anchor="middle" class="H">— · —  COMPOUND CHARACTERS  ·  VOWEL + CONSONANT = LIVING LETTER  — · —</text>
+<line x1="22" y1="281" x2="458" y2="281" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="289" text-anchor="middle" class="Lx">each consonant + each vowel = 216 compound characters  ·  total system: 247 characters</text>
+<text x="240" y="298" text-anchor="middle" class="Ls">THE க (KA) FAMILY  ·  ONE CONSONANT + ALL 12 VOWELS</text>
+<rect x="24" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="41" y="314" text-anchor="middle" class="Ltm">க</text>
+<text x="41" y="324" text-anchor="middle" class="Lx">ka</text>
+<rect x="61" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="78" y="314" text-anchor="middle" class="Ltm">கா</text>
+<text x="78" y="324" text-anchor="middle" class="Lx">kā</text>
+<rect x="98" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="115" y="314" text-anchor="middle" class="Ltm">கி</text>
+<text x="115" y="324" text-anchor="middle" class="Lx">ki</text>
+<rect x="135" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="314" text-anchor="middle" class="Ltm">கீ</text>
+<text x="152" y="324" text-anchor="middle" class="Lx">kī</text>
+<rect x="172" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="189" y="314" text-anchor="middle" class="Ltm">கு</text>
+<text x="189" y="324" text-anchor="middle" class="Lx">ku</text>
+<rect x="209" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="226" y="314" text-anchor="middle" class="Ltm">கூ</text>
+<text x="226" y="324" text-anchor="middle" class="Lx">kū</text>
+<rect x="246" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="263" y="314" text-anchor="middle" class="Ltm">கெ</text>
+<text x="263" y="324" text-anchor="middle" class="Lx">ke</text>
+<rect x="283" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="300" y="314" text-anchor="middle" class="Ltm">கே</text>
+<text x="300" y="324" text-anchor="middle" class="Lx">kē</text>
+<rect x="320" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="337" y="314" text-anchor="middle" class="Ltm">கை</text>
+<text x="337" y="324" text-anchor="middle" class="Lx">kai</text>
+<rect x="357" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="374" y="314" text-anchor="middle" class="Ltm">கொ</text>
+<text x="374" y="324" text-anchor="middle" class="Lx">ko</text>
+<rect x="394" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="411" y="314" text-anchor="middle" class="Ltm">கோ</text>
+<text x="411" y="324" text-anchor="middle" class="Lx">kō</text>
+<rect x="431" y="302" width="34" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="448" y="314" text-anchor="middle" class="Ltm">கௌ</text>
+<text x="448" y="324" text-anchor="middle" class="Lx">kau</text>
+<text x="240" y="337" text-anchor="middle" class="Lx">same pattern repeats for all 18 consonants  ·  learn the pattern  ·  read any compound character</text>
+<line x1="22" y1="342" x2="458" y2="342" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="348" text-anchor="middle" class="H">— · —  TAMIL NUMERALS  ·  OWN NUMBER SYSTEM  — · —</text>
+<line x1="22" y1="352" x2="458" y2="352" stroke="#000" stroke-width="0.3"/>
+<rect x="26" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="41" y="368" text-anchor="middle" class="Ltm">௦</text>
+<text x="41" y="378" text-anchor="middle" class="Lx">0</text>
+<rect x="60" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="75" y="368" text-anchor="middle" class="Ltm">௧</text>
+<text x="75" y="378" text-anchor="middle" class="Lx">1</text>
+<rect x="94" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="109" y="368" text-anchor="middle" class="Ltm">௨</text>
+<text x="109" y="378" text-anchor="middle" class="Lx">2</text>
+<rect x="128" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="143" y="368" text-anchor="middle" class="Ltm">௩</text>
+<text x="143" y="378" text-anchor="middle" class="Lx">3</text>
+<rect x="162" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="177" y="368" text-anchor="middle" class="Ltm">௪</text>
+<text x="177" y="378" text-anchor="middle" class="Lx">4</text>
+<rect x="196" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="211" y="368" text-anchor="middle" class="Ltm">௫</text>
+<text x="211" y="378" text-anchor="middle" class="Lx">5</text>
+<rect x="230" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="245" y="368" text-anchor="middle" class="Ltm">௬</text>
+<text x="245" y="378" text-anchor="middle" class="Lx">6</text>
+<rect x="264" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="279" y="368" text-anchor="middle" class="Ltm">௭</text>
+<text x="279" y="378" text-anchor="middle" class="Lx">7</text>
+<rect x="298" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="313" y="368" text-anchor="middle" class="Ltm">௮</text>
+<text x="313" y="378" text-anchor="middle" class="Lx">8</text>
+<rect x="332" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="347" y="368" text-anchor="middle" class="Ltm">௯</text>
+<text x="347" y="378" text-anchor="middle" class="Lx">9</text>
+<rect x="366" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="381" y="368" text-anchor="middle" class="Ltm">௰</text>
+<text x="381" y="378" text-anchor="middle" class="Lx">10</text>
+<rect x="400" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="415" y="368" text-anchor="middle" class="Ltm">௱</text>
+<text x="415" y="378" text-anchor="middle" class="Lx">100</text>
+<rect x="434" y="356" width="30" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="449" y="368" text-anchor="middle" class="Ltm">௲</text>
+<text x="449" y="378" text-anchor="middle" class="Lx">1000</text>
+<text x="240" y="392" text-anchor="middle" class="Lx">Tamil has dedicated symbols for 10, 100, and 1,000  ·  very old mathematical tradition</text>
+<line x1="22" y1="397" x2="458" y2="397" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="403" text-anchor="middle" class="H">— · —  SCRIPT ORIGINS  ·  PALM LEAF TRADITION  — · —</text>
+<line x1="22" y1="407" x2="458" y2="407" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="411" width="436" height="50" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="422" text-anchor="middle" class="Ls">ஃ  Aytham  ·  the special character  ·  neither vowel nor consonant</text>
+<text x="240" y="432" text-anchor="middle" class="Lx">used in classical Tamil  ·  marks aspirate before stops  ·  rare in modern use</text>
+<text x="240" y="443" text-anchor="middle" class="Lx">PALM LEAF ORIGIN: letters are rounded because scribes carved on palm leaves</text>
+<text x="240" y="453" text-anchor="middle" class="Lx">straight lines would split the leaf  ·  curves did not  ·  the script shape encodes its own history</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

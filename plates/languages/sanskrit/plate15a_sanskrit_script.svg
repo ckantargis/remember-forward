@@ -1,0 +1,268 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Ld{font-size:13px;}
+  .Ldm{font-size:10px;}
+  .Lds{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 15A  ·  SANSKRIT  ·  SCRIPT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">संस्कृतम् · Devanagari · 48 characters · phonetically organized · left to right</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  SANSKRIT  ·  संस्कृतम्  ·  THE PERFECTED LANGUAGE  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Sanskrit = samskrtam = refined/perfected  ·  Indo-European family  ·  sister to Greek, Latin, Persian</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">Panini's grammar (c.400 BCE) is so precise it predates modern linguistics by 2,000 years</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">Devanagari script = 4th most used writing system in world  ·  120+ languages  ·  ancestor of most South Asian scripts</text>
+<line x1="22" y1="102" x2="458" y2="102" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="108" text-anchor="middle" class="H">— · —  VOWELS  ·  SVARA  ·  14 IN DEVANAGARI  — · —</text>
+<line x1="22" y1="112" x2="458" y2="112" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="120" text-anchor="middle" class="Lx">vowels named svara (sound/tone)  ·  5 short  ·  5 long  ·  2 vocalic liquids  ·  2 diphthongs</text>
+<rect x="25" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="44" y="137" text-anchor="middle" class="Ld">अ</text>
+<text x="44" y="147" text-anchor="middle" class="Lx">a</text>
+<text x="44" y="155" text-anchor="middle" class="Lx">short</text>
+<rect x="66" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="85" y="137" text-anchor="middle" class="Ld">आ</text>
+<text x="85" y="147" text-anchor="middle" class="Lx">ā</text>
+<text x="85" y="155" text-anchor="middle" class="Lx">long</text>
+<rect x="107" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="126" y="137" text-anchor="middle" class="Ld">इ</text>
+<text x="126" y="147" text-anchor="middle" class="Lx">i</text>
+<text x="126" y="155" text-anchor="middle" class="Lx">short</text>
+<rect x="148" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="167" y="137" text-anchor="middle" class="Ld">ई</text>
+<text x="167" y="147" text-anchor="middle" class="Lx">ī</text>
+<text x="167" y="155" text-anchor="middle" class="Lx">long</text>
+<rect x="189" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="208" y="137" text-anchor="middle" class="Ld">उ</text>
+<text x="208" y="147" text-anchor="middle" class="Lx">u</text>
+<text x="208" y="155" text-anchor="middle" class="Lx">short</text>
+<rect x="230" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="249" y="137" text-anchor="middle" class="Ld">ऊ</text>
+<text x="249" y="147" text-anchor="middle" class="Lx">ū</text>
+<text x="249" y="155" text-anchor="middle" class="Lx">long</text>
+<rect x="271" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="290" y="137" text-anchor="middle" class="Ld">ऋ</text>
+<text x="290" y="147" text-anchor="middle" class="Lx">ṛ</text>
+<text x="290" y="155" text-anchor="middle" class="Lx">vocalic r</text>
+<rect x="312" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="331" y="137" text-anchor="middle" class="Ld">ए</text>
+<text x="331" y="147" text-anchor="middle" class="Lx">e</text>
+<text x="331" y="155" text-anchor="middle" class="Lx">diphth.</text>
+<rect x="353" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="372" y="137" text-anchor="middle" class="Ld">ऐ</text>
+<text x="372" y="147" text-anchor="middle" class="Lx">ai</text>
+<text x="372" y="155" text-anchor="middle" class="Lx">diphth.</text>
+<rect x="394" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="413" y="137" text-anchor="middle" class="Ld">ओ</text>
+<text x="413" y="147" text-anchor="middle" class="Lx">o</text>
+<text x="413" y="155" text-anchor="middle" class="Lx">diphth.</text>
+<rect x="435" y="124" width="38" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="454" y="137" text-anchor="middle" class="Ld">औ</text>
+<text x="454" y="147" text-anchor="middle" class="Lx">au</text>
+<text x="454" y="155" text-anchor="middle" class="Lx">diphth.</text>
+<line x1="22" y1="167" x2="458" y2="167" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="173" text-anchor="middle" class="H">— · —  CONSONANTS  ·  VYANJANA  ·  ORGANIZED BY PLACE OF ARTICULATION  — · —</text>
+<line x1="22" y1="177" x2="458" y2="177" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="185" text-anchor="middle" class="Lx">Devanagari organizes consonants by WHERE in the mouth they are made  ·  back to front</text>
+<rect x="22" y="189" width="87" height="76" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="189" width="87" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="65" y="197" text-anchor="middle" class="Lx">VELAR</text>
+<text x="65" y="205" text-anchor="middle" class="Lx">back of throat</text>
+<text x="30" y="222" text-anchor="middle" class="Ldm">क</text>
+<text x="30" y="232" text-anchor="middle" class="Lx">ka</text>
+<text x="30" y="241" text-anchor="middle" class="Lx">hard</text>
+<text x="47" y="222" text-anchor="middle" class="Ldm">ख</text>
+<text x="47" y="232" text-anchor="middle" class="Lx">kha</text>
+<text x="47" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="64" y="222" text-anchor="middle" class="Ldm">ग</text>
+<text x="64" y="232" text-anchor="middle" class="Lx">ga</text>
+<text x="64" y="241" text-anchor="middle" class="Lx">soft</text>
+<text x="81" y="222" text-anchor="middle" class="Ldm">घ</text>
+<text x="81" y="232" text-anchor="middle" class="Lx">gha</text>
+<text x="81" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="98" y="222" text-anchor="middle" class="Ldm">ङ</text>
+<text x="98" y="232" text-anchor="middle" class="Lx">ṅa</text>
+<rect x="111" y="189" width="87" height="76" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="111" y="189" width="87" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="154" y="197" text-anchor="middle" class="Lx">PALATAL</text>
+<text x="154" y="205" text-anchor="middle" class="Lx">mid-palate</text>
+<text x="119" y="222" text-anchor="middle" class="Ldm">च</text>
+<text x="119" y="232" text-anchor="middle" class="Lx">ca</text>
+<text x="119" y="241" text-anchor="middle" class="Lx">hard</text>
+<text x="136" y="222" text-anchor="middle" class="Ldm">छ</text>
+<text x="136" y="232" text-anchor="middle" class="Lx">cha</text>
+<text x="136" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="153" y="222" text-anchor="middle" class="Ldm">ज</text>
+<text x="153" y="232" text-anchor="middle" class="Lx">ja</text>
+<text x="153" y="241" text-anchor="middle" class="Lx">soft</text>
+<text x="170" y="222" text-anchor="middle" class="Ldm">झ</text>
+<text x="170" y="232" text-anchor="middle" class="Lx">jha</text>
+<text x="170" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="187" y="222" text-anchor="middle" class="Ldm">ञ</text>
+<text x="187" y="232" text-anchor="middle" class="Lx">ña</text>
+<rect x="200" y="189" width="87" height="76" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="200" y="189" width="87" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="243" y="197" text-anchor="middle" class="Lx">RETROFLEX</text>
+<text x="243" y="205" text-anchor="middle" class="Lx">tongue curled</text>
+<text x="208" y="222" text-anchor="middle" class="Ldm">ट</text>
+<text x="208" y="232" text-anchor="middle" class="Lx">ṭa</text>
+<text x="208" y="241" text-anchor="middle" class="Lx">hard</text>
+<text x="225" y="222" text-anchor="middle" class="Ldm">ठ</text>
+<text x="225" y="232" text-anchor="middle" class="Lx">ṭha</text>
+<text x="225" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="242" y="222" text-anchor="middle" class="Ldm">ड</text>
+<text x="242" y="232" text-anchor="middle" class="Lx">ḍa</text>
+<text x="242" y="241" text-anchor="middle" class="Lx">soft</text>
+<text x="259" y="222" text-anchor="middle" class="Ldm">ढ</text>
+<text x="259" y="232" text-anchor="middle" class="Lx">ḍha</text>
+<text x="259" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="276" y="222" text-anchor="middle" class="Ldm">ण</text>
+<text x="276" y="232" text-anchor="middle" class="Lx">ṇa</text>
+<rect x="289" y="189" width="87" height="76" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="289" y="189" width="87" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="332" y="197" text-anchor="middle" class="Lx">DENTAL</text>
+<text x="332" y="205" text-anchor="middle" class="Lx">tongue to teeth</text>
+<text x="297" y="222" text-anchor="middle" class="Ldm">त</text>
+<text x="297" y="232" text-anchor="middle" class="Lx">ta</text>
+<text x="297" y="241" text-anchor="middle" class="Lx">hard</text>
+<text x="314" y="222" text-anchor="middle" class="Ldm">थ</text>
+<text x="314" y="232" text-anchor="middle" class="Lx">tha</text>
+<text x="314" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="331" y="222" text-anchor="middle" class="Ldm">द</text>
+<text x="331" y="232" text-anchor="middle" class="Lx">da</text>
+<text x="331" y="241" text-anchor="middle" class="Lx">soft</text>
+<text x="348" y="222" text-anchor="middle" class="Ldm">ध</text>
+<text x="348" y="232" text-anchor="middle" class="Lx">dha</text>
+<text x="348" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="365" y="222" text-anchor="middle" class="Ldm">न</text>
+<text x="365" y="232" text-anchor="middle" class="Lx">na</text>
+<rect x="378" y="189" width="87" height="76" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="378" y="189" width="87" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="421" y="197" text-anchor="middle" class="Lx">LABIAL</text>
+<text x="421" y="205" text-anchor="middle" class="Lx">lips</text>
+<text x="386" y="222" text-anchor="middle" class="Ldm">प</text>
+<text x="386" y="232" text-anchor="middle" class="Lx">pa</text>
+<text x="386" y="241" text-anchor="middle" class="Lx">hard</text>
+<text x="403" y="222" text-anchor="middle" class="Ldm">फ</text>
+<text x="403" y="232" text-anchor="middle" class="Lx">pha</text>
+<text x="403" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="420" y="222" text-anchor="middle" class="Ldm">ब</text>
+<text x="420" y="232" text-anchor="middle" class="Lx">ba</text>
+<text x="420" y="241" text-anchor="middle" class="Lx">soft</text>
+<text x="437" y="222" text-anchor="middle" class="Ldm">भ</text>
+<text x="437" y="232" text-anchor="middle" class="Lx">bha</text>
+<text x="437" y="241" text-anchor="middle" class="Lx">asp.</text>
+<text x="454" y="222" text-anchor="middle" class="Ldm">म</text>
+<text x="454" y="232" text-anchor="middle" class="Lx">ma</text>
+<line x1="22" y1="272" x2="458" y2="272" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="278" text-anchor="middle" class="H">— · —  SEMIVOWELS  ·  SIBILANTS  ·  ASPIRATE  — · —</text>
+<line x1="22" y1="282" x2="458" y2="282" stroke="#000" stroke-width="0.3"/>
+<rect x="26" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="51" y="299" text-anchor="middle" class="Ld">य</text>
+<text x="51" y="309" text-anchor="middle" class="Lx">ya</text>
+<text x="51" y="317" text-anchor="middle" class="Lx">semivowel</text>
+<rect x="80" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="105" y="299" text-anchor="middle" class="Ld">र</text>
+<text x="105" y="309" text-anchor="middle" class="Lx">ra</text>
+<text x="105" y="317" text-anchor="middle" class="Lx">liquid</text>
+<rect x="134" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="159" y="299" text-anchor="middle" class="Ld">ल</text>
+<text x="159" y="309" text-anchor="middle" class="Lx">la</text>
+<text x="159" y="317" text-anchor="middle" class="Lx">liquid</text>
+<rect x="188" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="213" y="299" text-anchor="middle" class="Ld">व</text>
+<text x="213" y="309" text-anchor="middle" class="Lx">va</text>
+<text x="213" y="317" text-anchor="middle" class="Lx">semivowel</text>
+<rect x="242" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="267" y="299" text-anchor="middle" class="Ld">श</text>
+<text x="267" y="309" text-anchor="middle" class="Lx">śa</text>
+<text x="267" y="317" text-anchor="middle" class="Lx">palatal sibilant</text>
+<rect x="296" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="321" y="299" text-anchor="middle" class="Ld">ष</text>
+<text x="321" y="309" text-anchor="middle" class="Lx">ṣa</text>
+<text x="321" y="317" text-anchor="middle" class="Lx">retroflex sibilant</text>
+<rect x="350" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="375" y="299" text-anchor="middle" class="Ld">स</text>
+<text x="375" y="309" text-anchor="middle" class="Lx">sa</text>
+<text x="375" y="317" text-anchor="middle" class="Lx">dental sibilant</text>
+<rect x="404" y="286" width="50" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="429" y="299" text-anchor="middle" class="Ld">ह</text>
+<text x="429" y="309" text-anchor="middle" class="Lx">ha</text>
+<text x="429" y="317" text-anchor="middle" class="Lx">aspirate</text>
+<line x1="22" y1="330" x2="458" y2="330" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="336" text-anchor="middle" class="H">— · —  THE HALANT  ·  VIRAMA  ·  SUPPRESSES THE INHERENT VOWEL  — · —</text>
+<line x1="22" y1="340" x2="458" y2="340" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="348" text-anchor="middle" class="Lx">every consonant inherently carries /a/  ·  halant (्) removes it  ·  ka = क  ·  k alone = क्</text>
+<text x="240" y="357" text-anchor="middle" class="Lx">vowel diacritics (matras) change the inherent /a/ to another vowel</text>
+<rect x="26" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="45" y="373" text-anchor="middle" class="Ldm">क</text>
+<text x="45" y="382" text-anchor="middle" class="Lx">ka</text>
+<rect x="67" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="86" y="373" text-anchor="middle" class="Ldm">का</text>
+<text x="86" y="382" text-anchor="middle" class="Lx">kā</text>
+<rect x="108" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="127" y="373" text-anchor="middle" class="Ldm">कि</text>
+<text x="127" y="382" text-anchor="middle" class="Lx">ki</text>
+<rect x="149" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="168" y="373" text-anchor="middle" class="Ldm">की</text>
+<text x="168" y="382" text-anchor="middle" class="Lx">kī</text>
+<rect x="190" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="209" y="373" text-anchor="middle" class="Ldm">कु</text>
+<text x="209" y="382" text-anchor="middle" class="Lx">ku</text>
+<rect x="231" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="250" y="373" text-anchor="middle" class="Ldm">कू</text>
+<text x="250" y="382" text-anchor="middle" class="Lx">kū</text>
+<rect x="272" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="291" y="373" text-anchor="middle" class="Ldm">के</text>
+<text x="291" y="382" text-anchor="middle" class="Lx">ke</text>
+<rect x="313" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="332" y="373" text-anchor="middle" class="Ldm">कै</text>
+<text x="332" y="382" text-anchor="middle" class="Lx">kai</text>
+<rect x="354" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="373" y="373" text-anchor="middle" class="Ldm">को</text>
+<text x="373" y="382" text-anchor="middle" class="Lx">ko</text>
+<rect x="395" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="414" y="373" text-anchor="middle" class="Ldm">कौ</text>
+<text x="414" y="382" text-anchor="middle" class="Lx">kau</text>
+<rect x="436" y="361" width="38" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="455" y="373" text-anchor="middle" class="Ldm">क्</text>
+<text x="455" y="382" text-anchor="middle" class="Lx">k (halant)</text>
+<line x1="22" y1="395" x2="458" y2="395" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="401" text-anchor="middle" class="H">— · —  CONJUNCT CONSONANTS  ·  SAMYUKTAKSARA  — · —</text>
+<line x1="22" y1="405" x2="458" y2="405" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="413" text-anchor="middle" class="Lx">consonants combine into single ligatures when no vowel intervenes</text>
+<rect x="22" y="417" width="100" height="36" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="72" y="430" text-anchor="middle" class="Ld">क्ष</text>
+<text x="72" y="441" text-anchor="middle" class="Lx">k+ṣ = kṣ</text>
+<text x="72" y="449" text-anchor="middle" class="Lx">field/knowledge area</text>
+<rect x="128" y="417" width="100" height="36" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="178" y="430" text-anchor="middle" class="Ld">त्र</text>
+<text x="178" y="441" text-anchor="middle" class="Lx">t+r = tra</text>
+<text x="178" y="449" text-anchor="middle" class="Lx">suffix meaning instrument</text>
+<rect x="234" y="417" width="100" height="36" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="284" y="430" text-anchor="middle" class="Ld">ज्ञ</text>
+<text x="284" y="441" text-anchor="middle" class="Lx">j+ñ = jñā</text>
+<text x="284" y="449" text-anchor="middle" class="Lx">wisdom/knowing</text>
+<rect x="340" y="417" width="100" height="36" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="390" y="430" text-anchor="middle" class="Ld">श्र</text>
+<text x="390" y="441" text-anchor="middle" class="Lx">f+r = śra</text>
+<text x="390" y="449" text-anchor="middle" class="Lx">auspicious</text>
+<text x="240" y="460" text-anchor="middle" class="Lx">some conjuncts are highly irregular  ·  must be memorized  ·  very common in Sanskrit texts</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

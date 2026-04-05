@@ -1,0 +1,158 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 12B  ·  MODERN HEBREW  ·  PHONOLOGY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">5-vowel system · gutturals lost · 3 begadkefat pairs · revived 1880s · Israeli standard</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE SIMPLIFIED SOUND SYSTEM  ·  WHAT WAS GAINED AND LOST  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Modern Hebrew was revived as a spoken language in 1880s Palestine by Eliezer Ben-Yehuda</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">speakers came from Europe (Yiddish/Russian) and could not produce pharyngeal sounds</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">result: simplified phonology  ·  gained new loanword sounds  ·  lost ancient distinctions</text>
+<line x1="22" y1="102" x2="458" y2="102" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="108" text-anchor="middle" class="H">— · —  THE VOWEL SYSTEM  ·  7 + LENGTH → 5 FLAT  — · —</text>
+<line x1="22" y1="112" x2="458" y2="112" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="115" width="210" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="115" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="124" text-anchor="middle" class="Lx">BIBLICAL HEBREW  ·  7 qualities</text>
+<text x="70" y="133" text-anchor="middle" class="Lx">/a/ patah</text>
+<text x="170" y="133" text-anchor="middle" class="Lx">/a:/ qamats</text>
+<text x="70" y="145" text-anchor="middle" class="Lx">/e/ segol</text>
+<text x="170" y="145" text-anchor="middle" class="Lx">/e:/ tsere</text>
+<text x="70" y="157" text-anchor="middle" class="Lx">/i/ hiriq</text>
+<text x="170" y="157" text-anchor="middle" class="Lx">/o:/ holem</text>
+<text x="70" y="169" text-anchor="middle" class="Lx">/u/ qibbuts</text>
+<text x="170" y="169" text-anchor="middle" class="Lx">+ 3 hataf forms</text>
+<text x="127" y="183" text-anchor="middle" class="Lx">7 qualities x short/long = 14+ forms</text>
+<rect x="248" y="115" width="210" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="115" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="124" text-anchor="middle" class="Lx">MODERN HEBREW  ·  5 qualities</text>
+<text x="257" y="131" text-anchor="start" class="Lx">/a/ (all a-vowels merged)</text>
+<text x="257" y="141" text-anchor="start" class="Lx"></text>
+<text x="257" y="143" text-anchor="start" class="Lx">/i/ (hiriq)</text>
+<text x="257" y="153" text-anchor="start" class="Lx"></text>
+<text x="257" y="155" text-anchor="start" class="Lx">/u/ (qibbuts+shuruq)</text>
+<text x="257" y="165" text-anchor="start" class="Lx"></text>
+<text x="353" y="135" text-anchor="middle" class="Lx">/a/</text>
+<text x="353" y="145" text-anchor="middle" class="Lx">/e/</text>
+<text x="353" y="155" text-anchor="middle" class="Lx">/i/</text>
+<text x="353" y="165" text-anchor="middle" class="Lx">/o/</text>
+<text x="353" y="175" text-anchor="middle" class="Lx">/u/</text>
+<text x="353" y="188" text-anchor="middle" class="Lx">5 qualities  ·  no length</text>
+<line x1="232" y1="151" x2="243" y2="151" stroke="#000" stroke-width="0.7"/><polygon points="243,149 248,151 243,153" fill="#000"/>
+<text x="240" y="148" text-anchor="middle" class="Lx">simplifies</text>
+<line x1="22" y1="192" x2="458" y2="192" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="198" text-anchor="middle" class="H">— · —  CONSONANT CHANGES  ·  THE MERGERS  — · —</text>
+<line x1="22" y1="202" x2="458" y2="202" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="198" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="208" text-anchor="middle" class="Lx">MERGED</text>
+<text x="184" y="208" text-anchor="middle" class="Lx">Aleph א + Ayin ע</text>
+<text x="292" y="208" text-anchor="middle" class="Lx">→ both silent or /ʔ/</text>
+<text x="400" y="208" text-anchor="middle" class="Lx">lost pharyngeal distinction</text>
+<rect x="22" y="216" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="226" text-anchor="middle" class="Lx">MERGED</text>
+<text x="184" y="226" text-anchor="middle" class="Lx">Tet ט + Tav ת</text>
+<text x="292" y="226" text-anchor="middle" class="Lx">→ both /t/</text>
+<text x="400" y="226" text-anchor="middle" class="Lx">lost emphatic tet</text>
+<rect x="22" y="234" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="244" text-anchor="middle" class="Lx">MERGED</text>
+<text x="184" y="244" text-anchor="middle" class="Lx">Qoph ק + Kaph כ</text>
+<text x="292" y="244" text-anchor="middle" class="Lx">→ both /k/</text>
+<text x="400" y="244" text-anchor="middle" class="Lx">lost uvular qoph (mostly)</text>
+<rect x="22" y="252" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="262" text-anchor="middle" class="Lx">MERGED</text>
+<text x="184" y="262" text-anchor="middle" class="Lx">Samekh ס + Sin שׂ</text>
+<text x="292" y="262" text-anchor="middle" class="Lx">→ both /s/</text>
+<text x="400" y="262" text-anchor="middle" class="Lx">lost lateral fricative</text>
+<rect x="22" y="270" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="280" text-anchor="middle" class="Ls">KEPT</text>
+<text x="184" y="280" text-anchor="middle" class="Lx">Bet ב / Vet ב</text>
+<text x="292" y="280" text-anchor="middle" class="Lx">→ /b/ and /v/</text>
+<text x="400" y="280" text-anchor="middle" class="Lx">still distinct</text>
+<rect x="22" y="288" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="298" text-anchor="middle" class="Ls">KEPT</text>
+<text x="184" y="298" text-anchor="middle" class="Lx">Kaf כ / Khaf כ</text>
+<text x="292" y="298" text-anchor="middle" class="Lx">→ /k/ and /x/</text>
+<text x="400" y="298" text-anchor="middle" class="Lx">still distinct</text>
+<rect x="22" y="306" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="316" text-anchor="middle" class="Ls">KEPT</text>
+<text x="184" y="316" text-anchor="middle" class="Lx">Pe פ / Fe פ</text>
+<text x="292" y="316" text-anchor="middle" class="Lx">→ /p/ and /f/</text>
+<text x="400" y="316" text-anchor="middle" class="Lx">still distinct</text>
+<rect x="22" y="324" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="334" text-anchor="middle" class="Lx">LOST</text>
+<text x="184" y="334" text-anchor="middle" class="Lx">Gimel-soft ג</text>
+<text x="292" y="334" text-anchor="middle" class="Lx">→ just /g/</text>
+<text x="400" y="334" text-anchor="middle" class="Lx">gh sound gone</text>
+<rect x="22" y="342" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="352" text-anchor="middle" class="Lx">LOST</text>
+<text x="184" y="352" text-anchor="middle" class="Lx">Dalet-soft ד</text>
+<text x="292" y="352" text-anchor="middle" class="Lx">→ just /d/</text>
+<text x="400" y="352" text-anchor="middle" class="Lx">th-voiced gone</text>
+<rect x="22" y="360" width="106" height="16" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="76" y="370" text-anchor="middle" class="Lx">LOST</text>
+<text x="184" y="370" text-anchor="middle" class="Lx">Tav-soft ת</text>
+<text x="292" y="370" text-anchor="middle" class="Lx">→ just /t/</text>
+<text x="400" y="370" text-anchor="middle" class="Lx">th-unvoiced gone</text>
+<line x1="22" y1="393" x2="458" y2="393" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="399" text-anchor="middle" class="H">— · —  NEW SOUNDS  ·  FROM LOANWORDS AND REVIVAL  — · —</text>
+<line x1="22" y1="403" x2="458" y2="403" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="411" text-anchor="middle" class="Lx">new consonants entered Hebrew through loanwords and are now standard</text>
+<rect x="22" y="415" width="100" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="72" y="427" text-anchor="middle" class="Lh">ג'</text>
+<text x="72" y="437" text-anchor="middle" class="Lx">j / dj /dʒ/</text>
+<text x="72" y="445" text-anchor="middle" class="Lx">jungle</text>
+<text x="72" y="453" text-anchor="middle" class="Lx">like English j</text>
+<rect x="127" y="415" width="100" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="177" y="427" text-anchor="middle" class="Lh">צ'</text>
+<text x="177" y="437" text-anchor="middle" class="Lx">ch / tʃ/</text>
+<text x="177" y="445" text-anchor="middle" class="Lx">check</text>
+<text x="177" y="453" text-anchor="middle" class="Lx">like English ch</text>
+<rect x="232" y="415" width="100" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="282" y="427" text-anchor="middle" class="Lh">ז'</text>
+<text x="282" y="437" text-anchor="middle" class="Lx">zh /ʒ/</text>
+<text x="282" y="445" text-anchor="middle" class="Lx">measure</text>
+<text x="282" y="453" text-anchor="middle" class="Lx">like French j</text>
+<rect x="337" y="415" width="100" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="387" y="427" text-anchor="middle" class="Lh">ו (foreign)</text>
+<text x="387" y="437" text-anchor="middle" class="Lx">w /w/</text>
+<text x="387" y="445" text-anchor="middle" class="Lx">Wikipedia</text>
+<text x="387" y="453" text-anchor="middle" class="Lx">in foreign loanwords</text>
+<line x1="22" y1="462" x2="458" y2="462" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="468" text-anchor="middle" class="H">— · —  STRESS  ·  NOW PHONEMIC  — · —</text>
+<line x1="22" y1="472" x2="458" y2="472" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="Lx">Biblical Hebrew stress followed vowel length rules  ·  Modern Hebrew lost vowel length</text>
+<text x="240" y="489" text-anchor="middle" class="Lx">result: stress became phonemic  ·  two words can differ only in stress position</text>
+<rect x="22" y="492" width="210" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="62" y="503" text-anchor="middle" class="Lhm">אֹכֶל</text>
+<text x="62" y="513" text-anchor="middle" class="Lx">O-khel = food</text>
+<text x="127" y="508" text-anchor="middle" class="Lx">vs</text>
+<text x="192" y="503" text-anchor="middle" class="Lhm">אוֹכֵל</text>
+<text x="192" y="513" text-anchor="middle" class="Lx">o-KHEL = eats</text>
+<rect x="242" y="492" width="210" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="282" y="503" text-anchor="middle" class="Lhm">נָקָמ</text>
+<text x="282" y="513" text-anchor="middle" class="Lx">NA-qam = was avenged</text>
+<text x="347" y="508" text-anchor="middle" class="Lx">vs</text>
+<text x="412" y="503" text-anchor="middle" class="Lhm">נָקָם</text>
+<text x="412" y="513" text-anchor="middle" class="Lx">na-QAM = he took revenge</text>
+<text x="240" y="530" text-anchor="middle" class="Lx">same letters  ·  same vowels  ·  different stress = different meaning</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

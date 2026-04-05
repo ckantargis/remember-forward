@@ -1,0 +1,301 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lb{font-size:14px;}
+  .Lbm{font-size:11px;}
+  .Lbs{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 16A  ·  BENGALI  ·  SCRIPT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">বাংলা · 1,000 years · Indo-Aryan · abugida · left to right · 11 vowels · 39 consonants</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  BENGALI  ·  THE LANGUAGE OF GOLDEN BENGAL  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Bengali (বাংলা Bangla) is the 7th most spoken language  ·  300 million speakers worldwide</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">official language of Bangladesh and West Bengal  ·  also used in Assam and Tripura</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">abugida: every consonant carries inherent vowel /ɔ/  ·  diacritics override it</text>
+<text x="240" y="106" text-anchor="middle" class="Lx">script evolved from Brahmi via Siddhamatrika  ·  Unicode block U+0980–U+09FF</text>
+<line x1="22" y1="110" x2="458" y2="110" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">— · —  11 INDEPENDENT VOWELS  ·  স্বরবর্ণ  ·  SHOROBORNO  — · —</text>
+<line x1="22" y1="121" x2="458" y2="121" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="129" text-anchor="middle" class="Lx">vowels stand alone at syllable start · as diacritics on consonants otherwise · /ɔ/ is the inherent vowel</text>
+<rect x="22" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="41" y="150" text-anchor="middle" class="Lb">অ</text>
+<text x="41" y="161" text-anchor="middle" class="Lx">ô</text>
+<text x="41" y="169" text-anchor="middle" class="Lx">/ɔ/</text>
+<rect x="61" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="80" y="150" text-anchor="middle" class="Lb">আ</text>
+<text x="80" y="161" text-anchor="middle" class="Lx">ā</text>
+<text x="80" y="169" text-anchor="middle" class="Lx">/a/</text>
+<rect x="100" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="119" y="150" text-anchor="middle" class="Lb">ই</text>
+<text x="119" y="161" text-anchor="middle" class="Lx">i</text>
+<text x="119" y="169" text-anchor="middle" class="Lx">/i/</text>
+<rect x="139" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="158" y="150" text-anchor="middle" class="Lb">ঈ</text>
+<text x="158" y="161" text-anchor="middle" class="Lx">ī</text>
+<text x="158" y="169" text-anchor="middle" class="Lx">/i/</text>
+<rect x="178" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="197" y="150" text-anchor="middle" class="Lb">উ</text>
+<text x="197" y="161" text-anchor="middle" class="Lx">u</text>
+<text x="197" y="169" text-anchor="middle" class="Lx">/u/</text>
+<rect x="217" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="236" y="150" text-anchor="middle" class="Lb">ঊ</text>
+<text x="236" y="161" text-anchor="middle" class="Lx">ū</text>
+<text x="236" y="169" text-anchor="middle" class="Lx">/u/</text>
+<rect x="256" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="275" y="150" text-anchor="middle" class="Lb">ঋ</text>
+<text x="275" y="161" text-anchor="middle" class="Lx">ṛ</text>
+<text x="275" y="169" text-anchor="middle" class="Lx">/ri/</text>
+<rect x="295" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="314" y="150" text-anchor="middle" class="Lb">এ</text>
+<text x="314" y="161" text-anchor="middle" class="Lx">e</text>
+<text x="314" y="169" text-anchor="middle" class="Lx">/e/</text>
+<rect x="334" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="353" y="150" text-anchor="middle" class="Lb">ঐ</text>
+<text x="353" y="161" text-anchor="middle" class="Lx">oi</text>
+<text x="353" y="169" text-anchor="middle" class="Lx">/oi̯/</text>
+<rect x="373" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="392" y="150" text-anchor="middle" class="Lb">ও</text>
+<text x="392" y="161" text-anchor="middle" class="Lx">o</text>
+<text x="392" y="169" text-anchor="middle" class="Lx">/o/</text>
+<rect x="412" y="133" width="39" height="38" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="431" y="150" text-anchor="middle" class="Lb">ঔ</text>
+<text x="431" y="161" text-anchor="middle" class="Lx">ou</text>
+<text x="431" y="169" text-anchor="middle" class="Lx">/ou̯/</text>
+<line x1="22" y1="175" x2="458" y2="175" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="181" text-anchor="middle" class="H">— · —  VOWEL DIACRITICS  ·  কার  ·  KAAR  ·  SHOWN ON CONSONANT ক (K)  — · —</text>
+<line x1="22" y1="185" x2="458" y2="185" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="193" text-anchor="middle" class="Lx">consonant + diacritic replaces /ɔ/ · hasanta ্ removes inherent vowel entirely · ক alone = /kɔ/</text>
+<rect x="22" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="43" y="214" text-anchor="middle" class="Lb">কা</text>
+<text x="43" y="224" text-anchor="middle" class="Lx">kā</text>
+<text x="43" y="231" text-anchor="middle" class="Lx">ā</text>
+<rect x="65" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="86" y="214" text-anchor="middle" class="Lb">কি</text>
+<text x="86" y="224" text-anchor="middle" class="Lx">ki</text>
+<text x="86" y="231" text-anchor="middle" class="Lx">i</text>
+<rect x="108" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="129" y="214" text-anchor="middle" class="Lb">কী</text>
+<text x="129" y="224" text-anchor="middle" class="Lx">kī</text>
+<text x="129" y="231" text-anchor="middle" class="Lx">ī</text>
+<rect x="151" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="172" y="214" text-anchor="middle" class="Lb">কু</text>
+<text x="172" y="224" text-anchor="middle" class="Lx">ku</text>
+<text x="172" y="231" text-anchor="middle" class="Lx">u</text>
+<rect x="194" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="215" y="214" text-anchor="middle" class="Lb">কূ</text>
+<text x="215" y="224" text-anchor="middle" class="Lx">kū</text>
+<text x="215" y="231" text-anchor="middle" class="Lx">ū</text>
+<rect x="237" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="258" y="214" text-anchor="middle" class="Lb">কৃ</text>
+<text x="258" y="224" text-anchor="middle" class="Lx">kṛ</text>
+<text x="258" y="231" text-anchor="middle" class="Lx">ṛ</text>
+<rect x="280" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="301" y="214" text-anchor="middle" class="Lb">কে</text>
+<text x="301" y="224" text-anchor="middle" class="Lx">ke</text>
+<text x="301" y="231" text-anchor="middle" class="Lx">e</text>
+<rect x="323" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="344" y="214" text-anchor="middle" class="Lb">কৈ</text>
+<text x="344" y="224" text-anchor="middle" class="Lx">koi</text>
+<text x="344" y="231" text-anchor="middle" class="Lx">oi</text>
+<rect x="366" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="387" y="214" text-anchor="middle" class="Lb">কো</text>
+<text x="387" y="224" text-anchor="middle" class="Lx">ko</text>
+<text x="387" y="231" text-anchor="middle" class="Lx">o</text>
+<rect x="409" y="198" width="43" height="34" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="430" y="214" text-anchor="middle" class="Lb">কৌ</text>
+<text x="430" y="224" text-anchor="middle" class="Lx">kou</text>
+<text x="430" y="231" text-anchor="middle" class="Lx">ou</text>
+<text x="240" y="237" text-anchor="middle" class="Lx">ক্ = /k/ (hasanta kills /ɔ/) · conjunct: ক + ্ + ষ = ক্ষ /kʃ/ · clusters of up to 4 consonants fuse into one ligature</text>
+<line x1="22" y1="242" x2="458" y2="242" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="248" text-anchor="middle" class="H">— · —  32 BASIC CONSONANTS  ·  ব্যঞ্জনবর্ণ  ·  BYANJANBORNO  — · —</text>
+<line x1="22" y1="252" x2="458" y2="252" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="258" text-anchor="middle" class="Lx">ordered by place of articulation: velar → palatal → retroflex → dental → labial → other</text>
+<rect x="22" y="263" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="280" text-anchor="middle" class="Lx">velar</text>
+<rect x="48" y="263" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="89" y="280" text-anchor="middle" class="Lb">ক</text>
+<text x="89" y="289" text-anchor="middle" class="Lx">k</text>
+<rect x="130" y="263" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="171" y="280" text-anchor="middle" class="Lb">খ</text>
+<text x="171" y="289" text-anchor="middle" class="Lx">kh</text>
+<rect x="212" y="263" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="253" y="280" text-anchor="middle" class="Lb">গ</text>
+<text x="253" y="289" text-anchor="middle" class="Lx">g</text>
+<rect x="294" y="263" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="335" y="280" text-anchor="middle" class="Lb">ঘ</text>
+<text x="335" y="289" text-anchor="middle" class="Lx">gh</text>
+<rect x="376" y="263" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="417" y="280" text-anchor="middle" class="Lb">ঙ</text>
+<text x="417" y="289" text-anchor="middle" class="Lx">ng</text>
+<rect x="22" y="291" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="308" text-anchor="middle" class="Lx">palatal</text>
+<rect x="48" y="291" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="89" y="308" text-anchor="middle" class="Lb">চ</text>
+<text x="89" y="317" text-anchor="middle" class="Lx">c</text>
+<rect x="130" y="291" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="171" y="308" text-anchor="middle" class="Lb">ছ</text>
+<text x="171" y="317" text-anchor="middle" class="Lx">ch</text>
+<rect x="212" y="291" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="253" y="308" text-anchor="middle" class="Lb">জ</text>
+<text x="253" y="317" text-anchor="middle" class="Lx">j</text>
+<rect x="294" y="291" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="335" y="308" text-anchor="middle" class="Lb">ঝ</text>
+<text x="335" y="317" text-anchor="middle" class="Lx">jh</text>
+<rect x="376" y="291" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="417" y="308" text-anchor="middle" class="Lb">ঞ</text>
+<text x="417" y="317" text-anchor="middle" class="Lx">ñ</text>
+<rect x="22" y="319" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="336" text-anchor="middle" class="Lx">retroflex</text>
+<rect x="48" y="319" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="89" y="336" text-anchor="middle" class="Lb">ট</text>
+<text x="89" y="345" text-anchor="middle" class="Lx">ṭ</text>
+<rect x="130" y="319" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="171" y="336" text-anchor="middle" class="Lb">ঠ</text>
+<text x="171" y="345" text-anchor="middle" class="Lx">ṭh</text>
+<rect x="212" y="319" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="253" y="336" text-anchor="middle" class="Lb">ড</text>
+<text x="253" y="345" text-anchor="middle" class="Lx">ḍ</text>
+<rect x="294" y="319" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="335" y="336" text-anchor="middle" class="Lb">ঢ</text>
+<text x="335" y="345" text-anchor="middle" class="Lx">ḍh</text>
+<rect x="376" y="319" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="417" y="336" text-anchor="middle" class="Lb">ণ</text>
+<text x="417" y="345" text-anchor="middle" class="Lx">ṇ</text>
+<rect x="22" y="347" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="364" text-anchor="middle" class="Lx">dental</text>
+<rect x="48" y="347" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="89" y="364" text-anchor="middle" class="Lb">ত</text>
+<text x="89" y="373" text-anchor="middle" class="Lx">t</text>
+<rect x="130" y="347" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="171" y="364" text-anchor="middle" class="Lb">থ</text>
+<text x="171" y="373" text-anchor="middle" class="Lx">th</text>
+<rect x="212" y="347" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="253" y="364" text-anchor="middle" class="Lb">দ</text>
+<text x="253" y="373" text-anchor="middle" class="Lx">d</text>
+<rect x="294" y="347" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="335" y="364" text-anchor="middle" class="Lb">ধ</text>
+<text x="335" y="373" text-anchor="middle" class="Lx">dh</text>
+<rect x="376" y="347" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="417" y="364" text-anchor="middle" class="Lb">ন</text>
+<text x="417" y="373" text-anchor="middle" class="Lx">n</text>
+<rect x="22" y="375" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="392" text-anchor="middle" class="Lx">labial</text>
+<rect x="48" y="375" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="89" y="392" text-anchor="middle" class="Lb">প</text>
+<text x="89" y="401" text-anchor="middle" class="Lx">p</text>
+<rect x="130" y="375" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="171" y="392" text-anchor="middle" class="Lb">ফ</text>
+<text x="171" y="401" text-anchor="middle" class="Lx">ph</text>
+<rect x="212" y="375" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="253" y="392" text-anchor="middle" class="Lb">ব</text>
+<text x="253" y="401" text-anchor="middle" class="Lx">b</text>
+<rect x="294" y="375" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="335" y="392" text-anchor="middle" class="Lb">ভ</text>
+<text x="335" y="401" text-anchor="middle" class="Lx">bh</text>
+<rect x="376" y="375" width="82" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="417" y="392" text-anchor="middle" class="Lb">ম</text>
+<text x="417" y="401" text-anchor="middle" class="Lx">m</text>
+<rect x="22" y="403" width="26" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="35" y="420" text-anchor="middle" class="Lx">other</text>
+<rect x="48" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="77" y="420" text-anchor="middle" class="Lb">য</text>
+<text x="77" y="429" text-anchor="middle" class="Lx">y</text>
+<rect x="106" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="135" y="420" text-anchor="middle" class="Lb">র</text>
+<text x="135" y="429" text-anchor="middle" class="Lx">r</text>
+<rect x="164" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="193" y="420" text-anchor="middle" class="Lb">ল</text>
+<text x="193" y="429" text-anchor="middle" class="Lx">l</text>
+<rect x="222" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="251" y="420" text-anchor="middle" class="Lb">শ</text>
+<text x="251" y="429" text-anchor="middle" class="Lx">ś</text>
+<rect x="280" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="309" y="420" text-anchor="middle" class="Lb">ষ</text>
+<text x="309" y="429" text-anchor="middle" class="Lx">ṣ</text>
+<rect x="338" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="367" y="420" text-anchor="middle" class="Lb">স</text>
+<text x="367" y="429" text-anchor="middle" class="Lx">s</text>
+<rect x="396" y="403" width="58" height="28" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="425" y="420" text-anchor="middle" class="Lb">হ</text>
+<text x="425" y="429" text-anchor="middle" class="Lx">h</text>
+<line x1="22" y1="431" x2="458" y2="431" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="437" text-anchor="middle" class="H">— · —  BENGALI NUMERALS  ·  বাংলা সংখ্যা  — · —</text>
+<line x1="22" y1="441" x2="458" y2="441" stroke="#000" stroke-width="0.3"/>
+<rect x="24" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="45" y="463" text-anchor="middle" class="Lb">০</text>
+<text x="45" y="473" text-anchor="middle" class="Lx">0</text>
+<rect x="67" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="88" y="463" text-anchor="middle" class="Lb">১</text>
+<text x="88" y="473" text-anchor="middle" class="Lx">1</text>
+<rect x="110" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="131" y="463" text-anchor="middle" class="Lb">২</text>
+<text x="131" y="473" text-anchor="middle" class="Lx">2</text>
+<rect x="153" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="174" y="463" text-anchor="middle" class="Lb">৩</text>
+<text x="174" y="473" text-anchor="middle" class="Lx">3</text>
+<rect x="196" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="217" y="463" text-anchor="middle" class="Lb">৪</text>
+<text x="217" y="473" text-anchor="middle" class="Lx">4</text>
+<rect x="239" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="260" y="463" text-anchor="middle" class="Lb">৫</text>
+<text x="260" y="473" text-anchor="middle" class="Lx">5</text>
+<rect x="282" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="303" y="463" text-anchor="middle" class="Lb">৬</text>
+<text x="303" y="473" text-anchor="middle" class="Lx">6</text>
+<rect x="325" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="346" y="463" text-anchor="middle" class="Lb">৭</text>
+<text x="346" y="473" text-anchor="middle" class="Lx">7</text>
+<rect x="368" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="389" y="463" text-anchor="middle" class="Lb">৮</text>
+<text x="389" y="473" text-anchor="middle" class="Lx">8</text>
+<rect x="411" y="447" width="43" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="432" y="463" text-anchor="middle" class="Lb">৯</text>
+<text x="432" y="473" text-anchor="middle" class="Lx">9</text>
+<line x1="22" y1="479" x2="458" y2="479" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="485" text-anchor="middle" class="H">— · —  CONJUNCT CONSONANTS  ·  যুক্তব্যঞ্জন  ·  JOINED CLUSTERS  — · —</text>
+<line x1="22" y1="489" x2="458" y2="489" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="496" text-anchor="middle" class="Lx">hasanta ্ (U+09CD) joins consonants · removes inherent vowel · creates ligature clusters of up to 4</text>
+<rect x="22" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="58" y="521" text-anchor="middle" class="Lb">ক্ষ</text>
+<text x="58" y="530" text-anchor="middle" class="Lx">k+ṣ</text>
+<text x="58" y="537" text-anchor="middle" class="Lx">ksha</text>
+<rect x="94" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="130" y="521" text-anchor="middle" class="Lb">ষ্ট</text>
+<text x="130" y="530" text-anchor="middle" class="Lx">ṣ+ṭ</text>
+<text x="130" y="537" text-anchor="middle" class="Lx">shṭa</text>
+<rect x="166" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="202" y="521" text-anchor="middle" class="Lb">ন্ত</text>
+<text x="202" y="530" text-anchor="middle" class="Lx">n+t</text>
+<text x="202" y="537" text-anchor="middle" class="Lx">nta</text>
+<rect x="238" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="274" y="521" text-anchor="middle" class="Lb">ত্র</text>
+<text x="274" y="530" text-anchor="middle" class="Lx">t+r</text>
+<text x="274" y="537" text-anchor="middle" class="Lx">tra</text>
+<rect x="310" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="346" y="521" text-anchor="middle" class="Lb">প্র</text>
+<text x="346" y="530" text-anchor="middle" class="Lx">p+r</text>
+<text x="346" y="537" text-anchor="middle" class="Lx">pra</text>
+<rect x="382" y="505" width="72" height="33" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="418" y="521" text-anchor="middle" class="Lb">স্থ</text>
+<text x="418" y="530" text-anchor="middle" class="Lx">s+th</text>
+<text x="418" y="537" text-anchor="middle" class="Lx">stha</text>
+<text x="240" y="543" text-anchor="middle" class="Lx">ড় /ṝ/ retroflex flap  ·  ঢ় /ṝh/  ·  য় /ẏ/  ·  ৎ final /t/  ·  ং /ŋ/ anusvara  ·  ঃ visarga  ·  ঁ chandrabindu (nasal)</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

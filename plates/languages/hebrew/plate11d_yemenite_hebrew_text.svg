@@ -1,0 +1,99 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 11D  ·  YEMENITE HEBREW  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">liturgical passages · Diwan poetry · pronunciation comparison · bridge phrase</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">same text  ·  two traditions  ·  the pronunciation difference is the entire story of this plate</text>
+<line x1="22" y1="68" x2="458" y2="68" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="74" text-anchor="middle" class="H">— · —  GENESIS 1:1  ·  YEMENITE vs ISRAELI PRONUNCIATION  — · —</text>
+<line x1="22" y1="78" x2="458" y2="78" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="81" width="436" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="91" text-anchor="middle" class="Lh">בְּרֵאשִׁית  בָּרְא  אֱלֹהִים  אֵת  הַשָּׁמַיִם  וְאֵת  הָאָרֶץ</text>
+<rect x="22" y="96" width="210" height="30" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="96" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="105" text-anchor="middle" class="Lx">YEMENITE pronunciation</text>
+<text x="127" y="119" text-anchor="middle" class="Lx">b'-re-SHIθ  ba-RA  E-lo-HIM  eθ  ha-sha-MA-yim  wu-Eθ  ha-A-rets</text>
+<rect x="248" y="96" width="210" height="30" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="96" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="105" text-anchor="middle" class="Lx">ISRAELI pronunciation</text>
+<text x="353" y="119" text-anchor="middle" class="Lx">b'-re-SHIT  ba-RA  e-lo-HIM  et  ha-sha-MA-yim  v'-ET  ha-A-rets</text>
+<text x="22" y="132" text-anchor="start" class="Lx">θ = Yemenite tav-soft  ·  wu = Yemenite vav  ·  every difference reflects 2,500 years of divergence</text>
+<line x1="22" y1="138" x2="458" y2="138" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="144" text-anchor="middle" class="H">— · —  THE SHEMA  ·  DEUTERONOMY 6:4  ·  PRONUNCIATION COMPARISON  — · —</text>
+<line x1="22" y1="148" x2="458" y2="148" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="151" width="436" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="160" text-anchor="middle" class="Lh">שְׁמַע  יִשְׂרָאֵל  יְהוָה  אֱלֹהֵינוּ  יְהוָה  אֶחָד</text>
+<text x="240" y="176" text-anchor="middle" class="Lx">Yemenite: Sh'-MA  Yis-ra-EL  YHWH  E-lo-HEI-nu  YHWH  E-ḤAð</text>
+<text x="240" y="185" text-anchor="middle" class="Lx">Israeli:   Sh'-MA  Yis-ra-EL  YHWH  E-lo-HEI-nu  YHWH  E-ḤAD</text>
+<text x="22" y="194" text-anchor="start" class="Lx">key: Yemenite echad = e-Ḥa-ð  ·  the dalet-soft (/ð/) and pharyngeal chet (/ḥ/) both heard</text>
+<line x1="22" y1="199" x2="458" y2="199" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="205" text-anchor="middle" class="H">— · —  DIWAN POETRY  ·  RABBI SHALOM SHABAZI  ·  c.1650 CE  — · —</text>
+<line x1="22" y1="209" x2="458" y2="209" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="212" width="436" height="42" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="226" text-anchor="middle" class="Lh">אֶשְׁאַל שְׁאֵלוֹתְךָ אֵל שַׁדַּי</text>
+<text x="240" y="238" text-anchor="middle" class="Lx">esh'al sh'elot'kha  El Shaddai</text>
+<text x="240" y="248" text-anchor="middle" class="Lx">I-ask requests-of-you  God Almighty</text>
+<text x="22" y="258" text-anchor="start" class="Lx">from Shalom Shabazi  ·  opening of a famous Diwan poem  ·  distinctive Arabic metric pattern</text>
+<line x1="22" y1="264" x2="458" y2="264" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="270" text-anchor="middle" class="H">— · —  LECHA DODI  ·  SABBATH HYMN  ·  YEMENITE MELODY VERSION  — · —</text>
+<line x1="22" y1="274" x2="458" y2="274" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="277" width="436" height="42" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="290" text-anchor="middle" class="Lh">לְכָה דוֹדִי לִקְרַאת כַּלָּה  שְׁנֵי שַׁבָּת נְקַבְּלָה</text>
+<text x="240" y="302" text-anchor="middle" class="Lx">l'kha dodi liqrat kala  sh'nei Shabbat n'qab'la</text>
+<text x="240" y="312" text-anchor="middle" class="Lx">come my-beloved to-meet the-bride  two aspects-of Shabbat we-receive</text>
+<text x="22" y="322" text-anchor="start" class="Lx">Yemenite melody: slower, more ornate, each syllable fully pronounced with ancient weight</text>
+<line x1="22" y1="328" x2="458" y2="328" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="334" text-anchor="middle" class="H">— · —  SHEVA MOBILE  ·  YEMENITE RULE IN ACTION  — · —</text>
+<line x1="22" y1="338" x2="458" y2="338" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="341" width="436" height="50" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="50" y="350" text-anchor="middle" class="Lhm">בְמֶלֶך</text>
+<text x="130" y="350" text-anchor="middle" class="Lx">b'-ME-lekh</text>
+<text x="240" y="350" text-anchor="middle" class="Lx">in-the-king</text>
+<text x="380" y="350" text-anchor="middle" class="Lx">sheva = /ə/ (brief a)</text>
+<text x="50" y="364" text-anchor="middle" class="Lhm">וּבְחוּט</text>
+<text x="130" y="364" text-anchor="middle" class="Lx">wu-ḥUT</text>
+<text x="240" y="364" text-anchor="middle" class="Lx">and-thread</text>
+<text x="380" y="364" text-anchor="middle" class="Lx">sheva copies following chet-vowel: /u/</text>
+<text x="50" y="378" text-anchor="middle" class="Lhm">בְיוֹם</text>
+<text x="130" y="378" text-anchor="middle" class="Lx">bi-YOM</text>
+<text x="240" y="378" text-anchor="middle" class="Lx">on-the-day</text>
+<text x="380" y="378" text-anchor="middle" class="Lx">sheva = /i/ before yod</text>
+<text x="22" y="398" text-anchor="start" class="Lx">the sheva mobile adapts its vowel quality to its phonetic environment  ·  preserved only in Yemenite</text>
+<line x1="22" y1="404" x2="458" y2="404" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="410" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  YEMENITE PRONUNCIATION  — · —</text>
+<line x1="22" y1="414" x2="458" y2="414" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="417" width="436" height="50" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="432" text-anchor="middle" class="Lhm">זֶה נֶעֱשׂה לְמַעְןךָ  בְּחִנָּם  עַל יְדֵי אֲנָשִׁים שֶׁזָכְרוּ לְפָנִים</text>
+<text x="240" y="444" text-anchor="middle" class="Lx">ZE ne-Aˁ-sa l'-ma-AN-kha  b'-Ḥi-NAM  al y'-ðEI a-na-SHIM she-ZA-kh'-RU l'-fa-NIM</text>
+<text x="240" y="455" text-anchor="middle" class="Lx">this was made for you  freely  by people who remembered forward</text>
+<text x="22" y="465" text-anchor="start" class="Lx">Yemenite /ˁ/ = voiced pharyngeal (ayin)  ·  /ð/ = voiced dental fricative (dalet-soft)  ·  /ḥ/ = pharyngeal chet</text>
+<line x1="22" y1="472" x2="458" y2="472" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="478" text-anchor="middle" class="H">— · —  WHY THIS TRADITION MATTERS  ·  THE PHONOLOGICAL BRIDGE  — · —</text>
+<line x1="22" y1="482" x2="458" y2="482" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="491" text-anchor="middle" class="Ls">Yemenite Hebrew is not old-fashioned  ·  it is accurate</text>
+<text x="240" y="501" text-anchor="middle" class="Lx">when scholars debate what Biblical Hebrew sounded like  ·  Yemenite pronunciation is the evidence</text>
+<text x="240" y="511" text-anchor="middle" class="Lx">isolated by geography for 2,000 years  ·  preserved by rigorous oral transmission generation to generation</text>
+<text x="240" y="521" text-anchor="middle" class="Lx">the guttural sounds that other traditions lost are the sounds closest to the original language</text>
+<text x="240" y="531" text-anchor="middle" class="Lx">this plate series follows the chain: Biblical → Mishnaic → Yemenite → Modern</text>
+<text x="240" y="541" text-anchor="middle" class="Lx">Yemenite is not a branch  ·  it is the trunk that the other traditions grew from and then diverged</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

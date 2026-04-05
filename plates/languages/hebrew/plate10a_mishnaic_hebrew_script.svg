@@ -1,0 +1,213 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .Lhs{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 10A  ·  MISHNAIC HEBREW  ·  SCRIPT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">square script · Ktav Ashuri · c.200 CE · the alphabet used today</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  HISTORICAL CONTEXT  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="80" text-anchor="middle" class="Lx">70 CE: Temple destroyed by Rome  ·  132-135 CE: Bar Kokhba revolt  ·  200 CE: Mishnah compiled</text>
+<text x="240" y="89" text-anchor="middle" class="Lx">Hebrew preserved as literary and legal language  ·  square script fully standardized  ·  nikkud added 600-950 CE</text>
+<line x1="22" y1="94" x2="458" y2="94" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="102" text-anchor="middle" class="Ls">PALEO → SQUARE: THE SAME 22 LETTERS, TWO SCRIPTS</text>
+<rect x="24" y="106" width="80" height="32" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="122" text-anchor="middle" class="Lh">𐤀</text>
+<line x1="56" y1="122" x2="68" y2="122" stroke="#000" stroke-width="0.7"/><polygon points="68,120 72,122 68,124" fill="#000"/>
+<text x="84" y="122" text-anchor="middle" class="Lh">א</text>
+<text x="64" y="132" text-anchor="middle" class="Lx">Aleph</text>
+<rect x="108" y="106" width="80" height="32" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="128" y="122" text-anchor="middle" class="Lh">𐤁</text>
+<line x1="140" y1="122" x2="152" y2="122" stroke="#000" stroke-width="0.7"/><polygon points="152,120 156,122 152,124" fill="#000"/>
+<text x="168" y="122" text-anchor="middle" class="Lh">ב</text>
+<text x="148" y="132" text-anchor="middle" class="Lx">Beth</text>
+<rect x="192" y="106" width="80" height="32" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="212" y="122" text-anchor="middle" class="Lh">𐤃</text>
+<line x1="224" y1="122" x2="236" y2="122" stroke="#000" stroke-width="0.7"/><polygon points="236,120 240,122 236,124" fill="#000"/>
+<text x="252" y="122" text-anchor="middle" class="Lh">ד</text>
+<text x="232" y="132" text-anchor="middle" class="Lx">Daleth</text>
+<rect x="276" y="106" width="80" height="32" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="296" y="122" text-anchor="middle" class="Lh">𐤌</text>
+<line x1="308" y1="122" x2="320" y2="122" stroke="#000" stroke-width="0.7"/><polygon points="320,120 324,122 320,124" fill="#000"/>
+<text x="336" y="122" text-anchor="middle" class="Lh">מ</text>
+<text x="316" y="132" text-anchor="middle" class="Lx">Mem</text>
+<rect x="360" y="106" width="80" height="32" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="380" y="122" text-anchor="middle" class="Lh">𐤔</text>
+<line x1="392" y1="122" x2="404" y2="122" stroke="#000" stroke-width="0.7"/><polygon points="404,120 408,122 404,124" fill="#000"/>
+<text x="420" y="122" text-anchor="middle" class="Lh">ש</text>
+<text x="400" y="132" text-anchor="middle" class="Lx">Shin</text>
+<text x="24" y="144" text-anchor="start" class="Lx">same letter · same name · same gematria value · different visual form</text>
+<line x1="22" y1="148" x2="458" y2="148" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="154" text-anchor="middle" class="H">— · —  THE 22 LETTERS  ·  SQUARE SCRIPT  ·  WITH GEMATRIA  — · —</text>
+<line x1="22" y1="158" x2="458" y2="158" stroke="#000" stroke-width="0.3"/>
+<text x="43" y="177" text-anchor="middle" class="Lh">א</text>
+<text x="43" y="188" text-anchor="middle" class="Lx">Aleph</text>
+<text x="43" y="196" text-anchor="middle" class="Lx">1</text>
+<text x="82" y="177" text-anchor="middle" class="Lh">ב</text>
+<text x="82" y="188" text-anchor="middle" class="Lx">Beth</text>
+<text x="82" y="196" text-anchor="middle" class="Lx">2</text>
+<text x="121" y="177" text-anchor="middle" class="Lh">ג</text>
+<text x="121" y="188" text-anchor="middle" class="Lx">Gimel</text>
+<text x="121" y="196" text-anchor="middle" class="Lx">3</text>
+<text x="160" y="177" text-anchor="middle" class="Lh">ד</text>
+<text x="160" y="188" text-anchor="middle" class="Lx">Daleth</text>
+<text x="160" y="196" text-anchor="middle" class="Lx">4</text>
+<text x="199" y="177" text-anchor="middle" class="Lh">ה</text>
+<text x="199" y="188" text-anchor="middle" class="Lx">He</text>
+<text x="199" y="196" text-anchor="middle" class="Lx">5</text>
+<text x="238" y="177" text-anchor="middle" class="Lh">ו</text>
+<text x="238" y="188" text-anchor="middle" class="Lx">Vav</text>
+<text x="238" y="196" text-anchor="middle" class="Lx">6</text>
+<text x="277" y="177" text-anchor="middle" class="Lh">ז</text>
+<text x="277" y="188" text-anchor="middle" class="Lx">Zayin</text>
+<text x="277" y="196" text-anchor="middle" class="Lx">7</text>
+<text x="316" y="177" text-anchor="middle" class="Lh">ח</text>
+<text x="316" y="188" text-anchor="middle" class="Lx">Chet</text>
+<text x="316" y="196" text-anchor="middle" class="Lx">8</text>
+<text x="355" y="177" text-anchor="middle" class="Lh">ט</text>
+<text x="355" y="188" text-anchor="middle" class="Lx">Tet</text>
+<text x="355" y="196" text-anchor="middle" class="Lx">9</text>
+<text x="394" y="177" text-anchor="middle" class="Lh">י</text>
+<text x="394" y="188" text-anchor="middle" class="Lx">Yod</text>
+<text x="394" y="196" text-anchor="middle" class="Lx">10</text>
+<text x="433" y="177" text-anchor="middle" class="Lh">כ</text>
+<text x="433" y="188" text-anchor="middle" class="Lx">Kaph</text>
+<text x="433" y="196" text-anchor="middle" class="Lx">20</text>
+<text x="433" y="204" text-anchor="middle" class="Lx">final:ך</text>
+<text x="43" y="229" text-anchor="middle" class="Lh">ל</text>
+<text x="43" y="240" text-anchor="middle" class="Lx">Lamed</text>
+<text x="43" y="248" text-anchor="middle" class="Lx">30</text>
+<text x="82" y="229" text-anchor="middle" class="Lh">מ</text>
+<text x="82" y="240" text-anchor="middle" class="Lx">Mem</text>
+<text x="82" y="248" text-anchor="middle" class="Lx">40</text>
+<text x="82" y="256" text-anchor="middle" class="Lx">final:ם</text>
+<text x="121" y="229" text-anchor="middle" class="Lh">נ</text>
+<text x="121" y="240" text-anchor="middle" class="Lx">Nun</text>
+<text x="121" y="248" text-anchor="middle" class="Lx">50</text>
+<text x="121" y="256" text-anchor="middle" class="Lx">final:ן</text>
+<text x="160" y="229" text-anchor="middle" class="Lh">ס</text>
+<text x="160" y="240" text-anchor="middle" class="Lx">Samekh</text>
+<text x="160" y="248" text-anchor="middle" class="Lx">60</text>
+<text x="199" y="229" text-anchor="middle" class="Lh">ע</text>
+<text x="199" y="240" text-anchor="middle" class="Lx">Ayin</text>
+<text x="199" y="248" text-anchor="middle" class="Lx">70</text>
+<text x="238" y="229" text-anchor="middle" class="Lh">פ</text>
+<text x="238" y="240" text-anchor="middle" class="Lx">Pe</text>
+<text x="238" y="248" text-anchor="middle" class="Lx">80</text>
+<text x="238" y="256" text-anchor="middle" class="Lx">final:ף</text>
+<text x="277" y="229" text-anchor="middle" class="Lh">צ</text>
+<text x="277" y="240" text-anchor="middle" class="Lx">Tsade</text>
+<text x="277" y="248" text-anchor="middle" class="Lx">90</text>
+<text x="277" y="256" text-anchor="middle" class="Lx">final:ץ</text>
+<text x="316" y="229" text-anchor="middle" class="Lh">ק</text>
+<text x="316" y="240" text-anchor="middle" class="Lx">Qoph</text>
+<text x="316" y="248" text-anchor="middle" class="Lx">100</text>
+<text x="355" y="229" text-anchor="middle" class="Lh">ר</text>
+<text x="355" y="240" text-anchor="middle" class="Lx">Resh</text>
+<text x="355" y="248" text-anchor="middle" class="Lx">200</text>
+<text x="394" y="229" text-anchor="middle" class="Lh">ש</text>
+<text x="394" y="240" text-anchor="middle" class="Lx">Shin</text>
+<text x="394" y="248" text-anchor="middle" class="Lx">300</text>
+<text x="433" y="229" text-anchor="middle" class="Lh">ת</text>
+<text x="433" y="240" text-anchor="middle" class="Lx">Tav</text>
+<text x="433" y="248" text-anchor="middle" class="Lx">400</text>
+<line x1="22" y1="275" x2="458" y2="275" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="283" text-anchor="middle" class="Lx">square script adds 5 FINAL FORMS (sofit) for letters at end of word  ·  not in Paleo-Hebrew</text>
+<rect x="24" y="287" width="82" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="55" y="302" text-anchor="middle" class="Lh">כ</text>
+<text x="65" y="302" text-anchor="middle" class="L">→</text>
+<text x="75" y="302" text-anchor="middle" class="Lh">ך</text>
+<text x="65" y="309" text-anchor="middle" class="Lx">Kaph/Khaph</text>
+<rect x="110" y="287" width="82" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="141" y="302" text-anchor="middle" class="Lh">מ</text>
+<text x="151" y="302" text-anchor="middle" class="L">→</text>
+<text x="161" y="302" text-anchor="middle" class="Lh">ם</text>
+<text x="151" y="309" text-anchor="middle" class="Lx">Mem</text>
+<rect x="196" y="287" width="82" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="227" y="302" text-anchor="middle" class="Lh">נ</text>
+<text x="237" y="302" text-anchor="middle" class="L">→</text>
+<text x="247" y="302" text-anchor="middle" class="Lh">ן</text>
+<text x="237" y="309" text-anchor="middle" class="Lx">Nun</text>
+<rect x="282" y="287" width="82" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="313" y="302" text-anchor="middle" class="Lh">פ</text>
+<text x="323" y="302" text-anchor="middle" class="L">→</text>
+<text x="333" y="302" text-anchor="middle" class="Lh">ף</text>
+<text x="323" y="309" text-anchor="middle" class="Lx">Pe/Phe</text>
+<rect x="368" y="287" width="82" height="28" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="399" y="302" text-anchor="middle" class="Lh">צ</text>
+<text x="409" y="302" text-anchor="middle" class="L">→</text>
+<text x="419" y="302" text-anchor="middle" class="Lh">ץ</text>
+<text x="409" y="309" text-anchor="middle" class="Lx">Tsade</text>
+<line x1="22" y1="320" x2="458" y2="320" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="326" text-anchor="middle" class="H">— · —  NIKKUD  ·  VOWEL POINTING STANDARDIZED BY MASORETES  — · —</text>
+<line x1="22" y1="330" x2="458" y2="330" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="338" text-anchor="middle" class="Lx">same consonants · different vowel points · different words</text>
+<rect x="26" y="342" width="100" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="76" y="356" text-anchor="middle" class="Lh">שָׁלוֹם</text>
+<text x="76" y="365" text-anchor="middle" class="Lx">sha-LOM</text>
+<text x="76" y="374" text-anchor="middle" class="Lx">peace</text>
+<rect x="131" y="342" width="100" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="181" y="356" text-anchor="middle" class="Lh">שֶׁלֶם</text>
+<text x="181" y="365" text-anchor="middle" class="Lx">she-LEM</text>
+<text x="181" y="374" text-anchor="middle" class="Lx">complete</text>
+<rect x="236" y="342" width="100" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="286" y="356" text-anchor="middle" class="Lh">שֵׁלֶם</text>
+<text x="286" y="365" text-anchor="middle" class="Lx">she-LEM</text>
+<text x="286" y="374" text-anchor="middle" class="Lx">to pay</text>
+<rect x="341" y="342" width="100" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="391" y="356" text-anchor="middle" class="Lh">מְשֻׁלָּם</text>
+<text x="391" y="365" text-anchor="middle" class="Lx">m-shul-LAM</text>
+<text x="391" y="374" text-anchor="middle" class="Lx">reconciled</text>
+<text x="240" y="384" text-anchor="middle" class="Lx">all four from the root SH-L-M (ש-ל-מ)  ·  same consonants  ·  vowels change the meaning</text>
+<line x1="22" y1="389" x2="458" y2="389" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="395" text-anchor="middle" class="H">— · —  HEBREW SCRIPT TIMELINE  — · —</text>
+<line x1="22" y1="399" x2="458" y2="399" stroke="#000" stroke-width="0.3"/>
+<rect x="24" y="403" width="78" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="63" y="412" text-anchor="middle" class="Lx">c.1000 BCE</text>
+<text x="63" y="423" text-anchor="middle" class="Lx">Paleo-Hebrew</text>
+<text x="63" y="432" text-anchor="middle" class="Lx">K'tav Ivri</text>
+<line x1="103" y1="424" x2="103" y2="424" stroke="#000" stroke-width="0.7"/><polygon points="103,423 106,424 103,425" fill="#000"/>
+<rect x="107" y="403" width="78" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="146" y="412" text-anchor="middle" class="Lx">c.500 BCE</text>
+<text x="146" y="423" text-anchor="middle" class="Lx">Transition to</text>
+<text x="146" y="432" text-anchor="middle" class="Lx">Square Script</text>
+<line x1="186" y1="424" x2="186" y2="424" stroke="#000" stroke-width="0.7"/><polygon points="186,423 189,424 186,425" fill="#000"/>
+<rect x="190" y="403" width="78" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="229" y="412" text-anchor="middle" class="Lx">c.200 CE</text>
+<text x="229" y="423" text-anchor="middle" class="Lx">Mishnaic Hebrew</text>
+<text x="229" y="432" text-anchor="middle" class="Lx">Square Script</text>
+<line x1="269" y1="424" x2="269" y2="424" stroke="#000" stroke-width="0.7"/><polygon points="269,423 272,424 269,425" fill="#000"/>
+<rect x="273" y="403" width="78" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="312" y="412" text-anchor="middle" class="Lx">c.700 CE</text>
+<text x="312" y="423" text-anchor="middle" class="Lx">Masoretes add</text>
+<text x="312" y="432" text-anchor="middle" class="Lx">Nikkud</text>
+<line x1="352" y1="424" x2="352" y2="424" stroke="#000" stroke-width="0.7"/><polygon points="352,423 355,424 352,425" fill="#000"/>
+<rect x="356" y="403" width="78" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="395" y="412" text-anchor="middle" class="Lx">1880 CE</text>
+<text x="395" y="423" text-anchor="middle" class="Lx">Modern Hebrew</text>
+<text x="395" y="432" text-anchor="middle" class="Lx">Revived</text>
+<line x1="22" y1="450" x2="458" y2="450" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="458" text-anchor="middle" class="Lx">all stages use the same 22-letter alphabet and gematria values</text>
+<text x="240" y="467" text-anchor="middle" class="Lx">a reader of Modern Hebrew can read Mishnaic Hebrew with modest study</text>
+<text x="240" y="476" text-anchor="middle" class="Lx">a reader of Mishnaic Hebrew can read Biblical Hebrew with more study</text>
+<text x="240" y="486" text-anchor="middle" class="Lx">all four Hebrew plates (09A-12A) are dialects of a single continuous language</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

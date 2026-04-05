@@ -1,0 +1,118 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .Lhs{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 09D  ·  BIBLICAL HEBREW  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">five passages  ·  fully voweled  ·  interlinear transliteration and translation</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">read right to left  ·  Hebrew text above  ·  transliteration middle  ·  translation below</text>
+<text x="240" y="74" text-anchor="middle" class="H">— · —  PASSAGE 1  ·  GENESIS 1:1  ·  IN THE BEGINNING  — · —</text>
+<line x1="22" y1="78" x2="458" y2="78" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="81" width="436" height="44" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="96" text-anchor="middle" class="Lh">בְּרֵאשִׁית  בָּרְא  אֱלֹהִים  אֵת  הַשָּׁמַיִם  וְאֵת  הָאָרֶץ</text>
+<text x="240" y="107" text-anchor="middle" class="Lx">B'reshit  bara  Elohim  et  ha-shamayim  v'et  ha-arets</text>
+<text x="240" y="118" text-anchor="middle" class="Lx">In-the-beginning  created  God  [acc]  the-heavens  and-[acc]  the-earth</text>
+<text x="22" y="129" text-anchor="start" class="Lx">Note: et (אֵת) marks the direct object  ·  Elohim is grammatically plural but verb is singular</text>
+<line x1="22" y1="135" x2="458" y2="135" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="143" text-anchor="middle" class="H">— · —  PASSAGE 2  ·  DEUTERONOMY 6:4  ·  THE SHEMA  — · —</text>
+<line x1="22" y1="147" x2="458" y2="147" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="150" width="436" height="44" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="165" text-anchor="middle" class="Lh">שְׁמַע  יִשְׂרָאֵל  יְהוָה  אֱלֹהֵינוּ  יְהוָה  אֶחָד</text>
+<text x="240" y="176" text-anchor="middle" class="Lx">Sh'ma  Yisra'el  YHWH  Eloheinu  YHWH  Echad</text>
+<text x="240" y="187" text-anchor="middle" class="Lx">Hear  O-Israel  YHWH  our-God  YHWH  is-One</text>
+<text x="22" y="198" text-anchor="start" class="Lx">The foundational declaration of Hebrew faith  ·  recited morning and evening  ·  written on mezuzah</text>
+<line x1="22" y1="204" x2="458" y2="204" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="212" text-anchor="middle" class="H">— · —  PASSAGE 3  ·  PSALM 23:1  ·  THE LORD IS MY SHEPHERD  — · —</text>
+<line x1="22" y1="216" x2="458" y2="216" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="219" width="436" height="44" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="234" text-anchor="middle" class="Lh">יְהוָה  רֹעִי  לֹא  אֶחְסָר</text>
+<text x="240" y="245" text-anchor="middle" class="Lx">YHWH  ro'i  lo  echsar</text>
+<text x="240" y="256" text-anchor="middle" class="Lx">YHWH  my-shepherd  not  I-will-lack</text>
+<text x="22" y="267" text-anchor="start" class="Lx">ro'i = active participle  ·  lo echsar = negative imperfect  ·  verb-last order for emphasis</text>
+<line x1="22" y1="273" x2="458" y2="273" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="281" text-anchor="middle" class="H">— · —  PASSAGE 4  ·  PROVERBS 3:5  ·  TRUST IN THE LORD  — · —</text>
+<line x1="22" y1="285" x2="458" y2="285" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="288" width="436" height="44" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="303" text-anchor="middle" class="Lhm">בְּטַח  אֶל־יְהוָה  בְּכָל־לִבֶּךָ  וְאֶל־בִּינָתְךָ  אַל־תִּשָּׁעֵן</text>
+<text x="240" y="314" text-anchor="middle" class="Lx">B'tach  el-YHWH  b'khol-libekha  v'el-binat'kha  al-tisha'en</text>
+<text x="240" y="325" text-anchor="middle" class="Lx">Trust  in-YHWH  with-all-your-heart  and-on-your-understanding  do-not-lean</text>
+<text x="22" y="336" text-anchor="start" class="Lx">b' = in/with prefix  ·  v' = and prefix  ·  kha = your (masc) suffix  ·  al + imperfect = prohibition</text>
+<line x1="22" y1="342" x2="458" y2="342" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="350" text-anchor="middle" class="H">— · —  PASSAGE 5  ·  GENESIS 1:3  ·  LET THERE BE LIGHT  — · —</text>
+<line x1="22" y1="354" x2="458" y2="354" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="357" width="436" height="44" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="372" text-anchor="middle" class="Lh">וַיֹּאמֶר  אֱלֹהִים  יְהִי  אֹר  וַיְהִי־אֹר</text>
+<text x="240" y="383" text-anchor="middle" class="Lx">Vayomer  Elohim  y'hi  or  vay'hi-or</text>
+<text x="240" y="394" text-anchor="middle" class="Lx">And-said  God  let-there-be  light  and-there-was-light</text>
+<text x="22" y="405" text-anchor="start" class="Lx">vav-consecutive + imperfect = narrative past  ·  y'hi = jussive (let it be)  ·  most common verb form in Torah</text>
+<line x1="22" y1="411" x2="458" y2="411" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="419" text-anchor="middle" class="H">— · —  THE HEBREW SERIES  ·  PLATES 09A THROUGH 12D  — · —</text>
+<line x1="22" y1="423" x2="458" y2="423" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="51" y="437" text-anchor="middle" class="Lx">09A</text>
+<text x="51" y="446" text-anchor="middle" class="Lx">K’tav Ivri</text>
+<text x="51" y="454" text-anchor="middle" class="Lx">Paleo-Hebrew</text>
+<text x="51" y="462" text-anchor="middle" class="Lx">script c.1000 BCE</text>
+<rect x="85" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="114" y="437" text-anchor="middle" class="Lx">09B</text>
+<text x="114" y="446" text-anchor="middle" class="Lx">Phonology</text>
+<text x="114" y="454" text-anchor="middle" class="Lx">guttural sounds</text>
+<text x="114" y="462" text-anchor="middle" class="Lx">vowel system</text>
+<rect x="148" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="177" y="437" text-anchor="middle" class="Lx">09C</text>
+<text x="177" y="446" text-anchor="middle" class="Lx">Grammar</text>
+<text x="177" y="454" text-anchor="middle" class="Lx">root system</text>
+<text x="177" y="462" text-anchor="middle" class="Lx">verb patterns</text>
+<rect x="211" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="240" y="437" text-anchor="middle" class="Lx">09D</text>
+<text x="240" y="446" text-anchor="middle" class="Lx">Running Text</text>
+<text x="240" y="454" text-anchor="middle" class="Lx">five passages</text>
+<text x="240" y="462" text-anchor="middle" class="Lx">interlinear</text>
+<rect x="274" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="303" y="437" text-anchor="middle" class="Lx">10A–10D</text>
+<text x="303" y="446" text-anchor="middle" class="Lx">Mishnaic</text>
+<text x="303" y="454" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="303" y="462" text-anchor="middle" class="Lx">c.200 CE</text>
+<rect x="337" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="366" y="437" text-anchor="middle" class="Lx">11A–11D</text>
+<text x="366" y="446" text-anchor="middle" class="Lx">Yemenite</text>
+<text x="366" y="454" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="366" y="462" text-anchor="middle" class="Lx">tradition</text>
+<rect x="400" y="427" width="58" height="36" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="429" y="437" text-anchor="middle" class="Lx">12A–12D</text>
+<text x="429" y="446" text-anchor="middle" class="Lx">Modern</text>
+<text x="429" y="454" text-anchor="middle" class="Lx">Hebrew</text>
+<text x="429" y="462" text-anchor="middle" class="Lx">revived 1880s</text>
+<text x="240" y="469" text-anchor="middle" class="Lx">each language follows the same 4-plate A/B/C/D structure  ·  50 languages planned in complete series</text>
+<line x1="22" y1="474" x2="458" y2="474" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="482" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  IN BIBLICAL HEBREW  — · —</text>
+<line x1="22" y1="486" x2="458" y2="486" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="489" width="436" height="50" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="504" text-anchor="middle" class="Lhm">זֶה נֶעֱשָׂה לְמַעְןךָ  חִנָּם  מֵאֵת אֲנָשִׁים אֲשֶׁר זָכְרוּ לְפָנִים</text>
+<text x="240" y="516" text-anchor="middle" class="Lx">ze ne'esah l'ma'ankha  chinnam  me'et anashim asher zakhru l'fanim</text>
+<text x="240" y="527" text-anchor="middle" class="Lx">this was made for you  freely  by people who remembered forward</text>
+<text x="240" y="536" text-anchor="middle" class="Lx">zakhru l'fanim  =  literally  “they remembered toward what is ahead”</text>
+<line x1="22" y1="542" x2="458" y2="542" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="550" text-anchor="middle" class="Lx">l'fanim (לְפָנִים) = toward the face / toward the future  ·  zakhar (זָכַר) = to remember  ·  chinnam (חִנָּם) = freely/without cost</text>
+<text x="240" y="559" text-anchor="middle" class="Lx">the phrase “remember forward” is expressed idiomatically in Hebrew as “they remembered toward what is ahead”</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

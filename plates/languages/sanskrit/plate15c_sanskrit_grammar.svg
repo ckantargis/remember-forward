@@ -1,0 +1,228 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Ld{font-size:13px;}
+  .Ldm{font-size:10px;}
+  .Lds{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 15C  ·  SANSKRIT  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">8 cases · 3 genders · 3 numbers · verb system · compound words · Indo-European cognates</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  NOUN SYSTEM  ·  8 CASES  ·  3 GENDERS  ·  3 NUMBERS  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Sanskrit nouns decline  ·  the ending carries all grammatical information</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">3 genders: masculine / feminine / neuter  ·  3 numbers: singular / dual / plural</text>
+<rect x="22" y="92" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="76" y="101" text-anchor="middle" class="Lx">1 Nominative</text>
+<text x="76" y="109" text-anchor="middle" class="Lx">subject  ·  deḥaḥ = god (subject)</text>
+<rect x="133" y="92" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="187" y="101" text-anchor="middle" class="Lx">2 Accusative</text>
+<text x="187" y="109" text-anchor="middle" class="Lx">direct object  ·  devam = god (object)</text>
+<rect x="244" y="92" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="298" y="101" text-anchor="middle" class="Lx">3 Instrumental</text>
+<text x="298" y="109" text-anchor="middle" class="Lx">by/with  ·  devena = by god</text>
+<rect x="355" y="92" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="409" y="101" text-anchor="middle" class="Lx">4 Dative</text>
+<text x="409" y="109" text-anchor="middle" class="Lx">for/to  ·  devāya = for god</text>
+<rect x="22" y="117" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="76" y="126" text-anchor="middle" class="Lx">5 Ablative</text>
+<text x="76" y="134" text-anchor="middle" class="Lx">from  ·  devāt = from god</text>
+<rect x="133" y="117" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="187" y="126" text-anchor="middle" class="Lx">6 Genitive</text>
+<text x="187" y="134" text-anchor="middle" class="Lx">of/belonging  ·  devasya = of god</text>
+<rect x="244" y="117" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="298" y="126" text-anchor="middle" class="Lx">7 Locative</text>
+<text x="298" y="134" text-anchor="middle" class="Lx">in/at  ·  deve = in god</text>
+<rect x="355" y="117" width="108" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="409" y="126" text-anchor="middle" class="Lx">8 Vocative</text>
+<text x="409" y="134" text-anchor="middle" class="Lx">O!/address  ·  deva! = O god!</text>
+<line x1="22" y1="144" x2="458" y2="144" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="150" text-anchor="middle" class="H">— · —  THE VERB SYSTEM  ·  10 CLASSES  ·  ROOTS  — · —</text>
+<line x1="22" y1="154" x2="458" y2="154" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="162" text-anchor="middle" class="Lx">Sanskrit verbs derive from roots (dhatu)  ·  root + class marker + personal ending</text>
+<rect x="22" y="166" width="210" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="166" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="175" text-anchor="middle" class="Lx">अस् (as) = to be  ·  present</text>
+<text x="50" y="182" text-anchor="middle" class="Lds">अस्मि</text>
+<text x="110" y="182" text-anchor="middle" class="Lx">asmi</text>
+<text x="185" y="182" text-anchor="middle" class="Lx">I am</text>
+<text x="50" y="190" text-anchor="middle" class="Lds">असि</text>
+<text x="110" y="190" text-anchor="middle" class="Lx">asi</text>
+<text x="185" y="190" text-anchor="middle" class="Lx">you are</text>
+<text x="50" y="198" text-anchor="middle" class="Lds">अस्ति</text>
+<text x="110" y="198" text-anchor="middle" class="Lx">asti</text>
+<text x="185" y="198" text-anchor="middle" class="Lx">he/she/it is</text>
+<text x="50" y="206" text-anchor="middle" class="Lds">स्मः</text>
+<text x="110" y="206" text-anchor="middle" class="Lx">smaḥ</text>
+<text x="185" y="206" text-anchor="middle" class="Lx">we are</text>
+<text x="50" y="214" text-anchor="middle" class="Lds">स्थ</text>
+<text x="110" y="214" text-anchor="middle" class="Lx">stha</text>
+<text x="185" y="214" text-anchor="middle" class="Lx">you (pl) are</text>
+<text x="50" y="222" text-anchor="middle" class="Lds">सन्ति</text>
+<text x="110" y="222" text-anchor="middle" class="Lx">santi</text>
+<text x="185" y="222" text-anchor="middle" class="Lx">they are</text>
+<rect x="248" y="166" width="210" height="66" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="166" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="175" text-anchor="middle" class="Lx">गम् (gam) = to go  ·  present</text>
+<text x="275" y="182" text-anchor="middle" class="Lds">गच्छामि</text>
+<text x="335" y="182" text-anchor="middle" class="Lx">gacchāmi</text>
+<text x="415" y="182" text-anchor="middle" class="Lx">I go</text>
+<text x="275" y="190" text-anchor="middle" class="Lds">गच्छसि</text>
+<text x="335" y="190" text-anchor="middle" class="Lx">gacchasi</text>
+<text x="415" y="190" text-anchor="middle" class="Lx">you go</text>
+<text x="275" y="198" text-anchor="middle" class="Lds">गच्छति</text>
+<text x="335" y="198" text-anchor="middle" class="Lx">gacchati</text>
+<text x="415" y="198" text-anchor="middle" class="Lx">he/she goes</text>
+<text x="275" y="206" text-anchor="middle" class="Lds">गच्छामः</text>
+<text x="335" y="206" text-anchor="middle" class="Lx">gacchāmaḥ</text>
+<text x="415" y="206" text-anchor="middle" class="Lx">we go</text>
+<text x="275" y="214" text-anchor="middle" class="Lds">गच्छथ</text>
+<text x="335" y="214" text-anchor="middle" class="Lx">gacchatha</text>
+<text x="415" y="214" text-anchor="middle" class="Lx">you (pl) go</text>
+<text x="275" y="222" text-anchor="middle" class="Lds">गच्छन्ति</text>
+<text x="335" y="222" text-anchor="middle" class="Lx">gacchanti</text>
+<text x="415" y="222" text-anchor="middle" class="Lx">they go</text>
+<line x1="22" y1="238" x2="458" y2="238" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="244" text-anchor="middle" class="H">— · —  COMPOUND WORDS  ·  SAMASA  ·  THE POWER OF SANSKRIT  — · —</text>
+<line x1="22" y1="248" x2="458" y2="248" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="256" text-anchor="middle" class="Lx">Sanskrit builds unlimited compound words  ·  one word can express a full English sentence</text>
+<rect x="22" y="260" width="210" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="270" text-anchor="middle" class="Ldm">राजपुत्रः</text>
+<text x="127" y="279" text-anchor="middle" class="Lx">rāja-putraḥ = king + son = prince</text>
+<rect x="236" y="260" width="210" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="341" y="270" text-anchor="middle" class="Ldm">धर्मराजन्</text>
+<text x="341" y="279" text-anchor="middle" class="Lx">dharma-rājan = virtue + king = righteous king</text>
+<rect x="22" y="290" width="210" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="300" text-anchor="middle" class="Ldm">जगत्पिता</text>
+<text x="127" y="309" text-anchor="middle" class="Lx">jagat-pitā = world + father = father of the world</text>
+<rect x="236" y="290" width="210" height="26" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="341" y="300" text-anchor="middle" class="Ldm">सर्वधर्मसम्भवो</text>
+<text x="341" y="309" text-anchor="middle" class="Lx">sarva-dharma-sambhavaḥ = all + virtue + arising = arising from all virtues</text>
+<line x1="22" y1="326" x2="458" y2="326" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="332" text-anchor="middle" class="H">— · —  INDO-EUROPEAN COGNATES  ·  SAME ANCESTOR AS ENGLISH  — · —</text>
+<line x1="22" y1="336" x2="458" y2="336" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="Lx">Sanskrit, Greek, Latin, English, Persian share a common ancestor  ·  Proto-Indo-European</text>
+<rect x="22" y="348" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="76" y="356" text-anchor="middle" class="Lds">मातृ mātṛ</text>
+<text x="76" y="363" text-anchor="middle" class="Lx">mater (L)  ·  mother (E)</text>
+<rect x="133" y="348" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="187" y="356" text-anchor="middle" class="Lds">पितृ pitṛ</text>
+<text x="187" y="363" text-anchor="middle" class="Lx">pater (L)  ·  father (E)</text>
+<rect x="244" y="348" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="298" y="356" text-anchor="middle" class="Lds">मै mā</text>
+<text x="298" y="363" text-anchor="middle" class="Lx">me (L)  ·  me (E)</text>
+<rect x="355" y="348" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="409" y="356" text-anchor="middle" class="Lds">त्रयस् trayas</text>
+<text x="409" y="363" text-anchor="middle" class="Lx">tres (L)  ·  three (E)</text>
+<rect x="22" y="376" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="76" y="384" text-anchor="middle" class="Lds">नव nava</text>
+<text x="76" y="391" text-anchor="middle" class="Lx">novem (L)  ·  nine (E)</text>
+<rect x="133" y="376" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="187" y="384" text-anchor="middle" class="Lds">राजन् rājan</text>
+<text x="187" y="391" text-anchor="middle" class="Lx">rex (L)  ·  reign (E)</text>
+<rect x="244" y="376" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="298" y="384" text-anchor="middle" class="Lds">अग्नि agni</text>
+<text x="298" y="391" text-anchor="middle" class="Lx">ignis (L)  ·  ignite (E)</text>
+<rect x="355" y="376" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="409" y="384" text-anchor="middle" class="Lds">नामन् nāman</text>
+<text x="409" y="391" text-anchor="middle" class="Lx">nomen (L)  ·  name (E)</text>
+<line x1="22" y1="410" x2="458" y2="410" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="416" text-anchor="middle" class="H">— · —  CORE VOCABULARY  ·  20 ESSENTIAL WORDS  — · —</text>
+<line x1="22" y1="420" x2="458" y2="420" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="424" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="436" text-anchor="middle" class="Ldm">जल</text>
+<text x="82" y="432" text-anchor="start" class="Lx">jala</text>
+<text x="82" y="440" text-anchor="start" class="Lx">water</text>
+<rect x="124" y="424" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="150" y="436" text-anchor="middle" class="Ldm">अग्नि</text>
+<text x="184" y="432" text-anchor="start" class="Lx">agni</text>
+<text x="184" y="440" text-anchor="start" class="Lx">fire</text>
+<rect x="226" y="424" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="436" text-anchor="middle" class="Ldm">पृथ्वी</text>
+<text x="286" y="432" text-anchor="start" class="Lx">pṛthvī</text>
+<text x="286" y="440" text-anchor="start" class="Lx">earth</text>
+<rect x="328" y="424" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="354" y="436" text-anchor="middle" class="Ldm">आकाश</text>
+<text x="388" y="432" text-anchor="start" class="Lx">akāśa</text>
+<text x="388" y="440" text-anchor="start" class="Lx">sky</text>
+<rect x="22" y="449" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="461" text-anchor="middle" class="Ldm">सूर्य</text>
+<text x="82" y="457" text-anchor="start" class="Lx">sūrya</text>
+<text x="82" y="465" text-anchor="start" class="Lx">sun</text>
+<rect x="124" y="449" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="150" y="461" text-anchor="middle" class="Ldm">चन्द्र</text>
+<text x="184" y="457" text-anchor="start" class="Lx">candra</text>
+<text x="184" y="465" text-anchor="start" class="Lx">moon</text>
+<rect x="226" y="449" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="461" text-anchor="middle" class="Ldm">मनुष्य</text>
+<text x="286" y="457" text-anchor="start" class="Lx">manuṣya</text>
+<text x="286" y="465" text-anchor="start" class="Lx">human</text>
+<rect x="328" y="449" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="354" y="461" text-anchor="middle" class="Ldm">नरी</text>
+<text x="388" y="457" text-anchor="start" class="Lx">narī</text>
+<text x="388" y="465" text-anchor="start" class="Lx">woman</text>
+<rect x="22" y="474" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="486" text-anchor="middle" class="Ldm">पुत्र</text>
+<text x="82" y="482" text-anchor="start" class="Lx">putra</text>
+<text x="82" y="490" text-anchor="start" class="Lx">son</text>
+<rect x="124" y="474" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="150" y="486" text-anchor="middle" class="Ldm">गृह</text>
+<text x="184" y="482" text-anchor="start" class="Lx">gṛha</text>
+<text x="184" y="490" text-anchor="start" class="Lx">house</text>
+<rect x="226" y="474" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="486" text-anchor="middle" class="Ldm">धर्म</text>
+<text x="286" y="482" text-anchor="start" class="Lx">dharma</text>
+<text x="286" y="490" text-anchor="start" class="Lx">duty/virtue</text>
+<rect x="328" y="474" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="354" y="486" text-anchor="middle" class="Ldm">सत्य</text>
+<text x="388" y="482" text-anchor="start" class="Lx">satya</text>
+<text x="388" y="490" text-anchor="start" class="Lx">truth</text>
+<rect x="22" y="499" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="511" text-anchor="middle" class="Ldm">शान्ति</text>
+<text x="82" y="507" text-anchor="start" class="Lx">śānti</text>
+<text x="82" y="515" text-anchor="start" class="Lx">peace</text>
+<rect x="124" y="499" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="150" y="511" text-anchor="middle" class="Ldm">ज्ञान</text>
+<text x="184" y="507" text-anchor="start" class="Lx">jñāna</text>
+<text x="184" y="515" text-anchor="start" class="Lx">knowledge</text>
+<rect x="226" y="499" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="511" text-anchor="middle" class="Ldm">प्रेम</text>
+<text x="286" y="507" text-anchor="start" class="Lx">prema</text>
+<text x="286" y="515" text-anchor="start" class="Lx">love</text>
+<rect x="328" y="499" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="354" y="511" text-anchor="middle" class="Ldm">आनन्द</text>
+<text x="388" y="507" text-anchor="start" class="Lx">ānanda</text>
+<text x="388" y="515" text-anchor="start" class="Lx">bliss/joy</text>
+<rect x="22" y="524" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="48" y="536" text-anchor="middle" class="Ldm">योग</text>
+<text x="82" y="532" text-anchor="start" class="Lx">yoga</text>
+<text x="82" y="540" text-anchor="start" class="Lx">union/discipline</text>
+<rect x="124" y="524" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="150" y="536" text-anchor="middle" class="Ldm">काल</text>
+<text x="184" y="532" text-anchor="start" class="Lx">kāla</text>
+<text x="184" y="540" text-anchor="start" class="Lx">time</text>
+<rect x="226" y="524" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="252" y="536" text-anchor="middle" class="Ldm">देश</text>
+<text x="286" y="532" text-anchor="start" class="Lx">deśa</text>
+<text x="286" y="540" text-anchor="start" class="Lx">country/land</text>
+<rect x="328" y="524" width="96" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="354" y="536" text-anchor="middle" class="Ldm">मनस्</text>
+<text x="388" y="532" text-anchor="start" class="Lx">manas</text>
+<text x="388" y="540" text-anchor="start" class="Lx">mind</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

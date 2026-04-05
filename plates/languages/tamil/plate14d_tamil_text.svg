@@ -1,0 +1,69 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lt{font-size:14px;}
+  .Ltm{font-size:11px;}
+  .Lts{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 14D  ·  TAMIL  ·  RUNNING TEXT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">Tolkappiyam · Thirukkural · Sangam poetry · bridge phrase  · read left to right</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="64" text-anchor="middle" class="Lx">read left to right  ·  Tamil above  ·  transliteration middle  ·  translation below</text>
+<line x1="22" y1="68" x2="458" y2="68" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="76" text-anchor="middle" class="H">— · —  TOLKAPPIYAM  ·  OLDEST SURVIVING GRAMMAR  ·  c.300 BCE  — · —</text>
+<line x1="22" y1="81" x2="458" y2="81" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="84" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="97" text-anchor="middle" class="Ltm">எழுத்தெனப  இரு பகுதியான</text>
+<text x="240" y="109" text-anchor="middle" class="Lx">ezhuttena-p-pa iru pakutiyaan</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">letters are of two kinds: vowels and consonants</text>
+<text x="22" y="130" text-anchor="start" class="Lx">First line of Tolkappiyam  ·  world's oldest surviving grammar  ·  independent of Sanskrit grammar tradition</text>
+<line x1="22" y1="140" x2="458" y2="140" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="146" text-anchor="middle" class="H">— · —  THIRUKKURAL 1:1  ·  c.200-500 CE  ·  THE GREAT ETHICAL TEXT  — · —</text>
+<line x1="22" y1="151" x2="458" y2="151" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="154" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="167" text-anchor="middle" class="Ltm">அகர முதல எழுத்தெல்லாம்  ஆதிபகவன் முதற்றே உலகு</text>
+<text x="240" y="179" text-anchor="middle" class="Lx">agara mudala ezhuttelam  adibhagavan mutatre ulagu</text>
+<text x="240" y="189" text-anchor="middle" class="Lx">As 'A' is the first of all letters  so the Eternal Lord is the first in the world</text>
+<text x="22" y="200" text-anchor="start" class="Lx">Note: akara = the letter A  ·  mudala = first/foremost  ·  ulagu = world  ·  140,000 couplets total</text>
+<line x1="22" y1="210" x2="458" y2="210" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="216" text-anchor="middle" class="H">— · —  THIRUKKURAL 39:2  ·  ON LEARNING  — · —</text>
+<line x1="22" y1="221" x2="458" y2="221" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="224" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="237" text-anchor="middle" class="Ltm">கற்க கசடறக் கற்பவை கற்றபின்  நிற்க அதற்குத் தக</text>
+<text x="240" y="249" text-anchor="middle" class="Lx">karka kasadarak karpavai kattapin  nirka atarkut-taga</text>
+<text x="240" y="259" text-anchor="middle" class="Lx">Learn thoroughly what should be learned  having learned, live accordingly</text>
+<text x="22" y="270" text-anchor="start" class="Lx">Note: karka = learn (imperative)  ·  kasadarak = without flaw  ·  nirka = stand firm  ·  taga = befitting</text>
+<line x1="22" y1="280" x2="458" y2="280" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="286" text-anchor="middle" class="H">— · —  SANGAM POETRY  ·  c.100 BCE-300 CE  ·  PURANANURU  — · —</text>
+<line x1="22" y1="291" x2="458" y2="291" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="294" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="307" text-anchor="middle" class="Ltm">யாநும் ஊரே  யாவரும் கேளிர்</text>
+<text x="240" y="319" text-anchor="middle" class="Lx">yatum ore  yavarum kelir</text>
+<text x="240" y="329" text-anchor="middle" class="Lx">every place is my homeland  every person is my kin</text>
+<text x="22" y="340" text-anchor="start" class="Lx">Purananuru verse 192  ·  one of humanity's earliest statements of universal kinship  ·  written c.200 BCE</text>
+<line x1="22" y1="350" x2="458" y2="350" stroke="#000" stroke-width="0.4"/>
+<text x="240" y="356" text-anchor="middle" class="H">— · —  THE BRIDGE PHRASE  ·  IN TAMIL  — · —</text>
+<line x1="22" y1="361" x2="458" y2="361" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="364" width="436" height="42" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="240" y="377" text-anchor="middle" class="Ltm">இது உங்களுக்காக செய்யப்பட்டது  இலவசமாக  எதிர்காலத்தை நினைவில் கொண்ட மக்களால்</text>
+<text x="240" y="389" text-anchor="middle" class="Lx">itu ungalukkaga seyyappattatu  ilavasama  etirgalattai ninaivil konta makkalal</text>
+<text x="240" y="399" text-anchor="middle" class="Lx">this was made for you  freely  by people who held the future in mind</text>
+<text x="22" y="410" text-anchor="start" class="Lx">Note: ilavasam = free/without cost  ·  etirgalam = future  ·  ninaivil kol = hold in memory/mind</text>
+<line x1="22" y1="420" x2="458" y2="420" stroke="#000" stroke-width="0.4"/>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

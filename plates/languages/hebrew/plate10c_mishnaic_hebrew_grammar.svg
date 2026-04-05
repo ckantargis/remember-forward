@@ -1,0 +1,165 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .Lhs{font-size:8px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 10C  ·  MISHNAIC HEBREW  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">שֶׁל replaces construct  ·  loss of waw-consecutive  ·  legal vocabulary  ·  semantic shifts</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  KEY GRAMMAR CHANGES FROM BIBLICAL HEBREW  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="75" width="218" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="131" y="85" text-anchor="middle" class="Ls">WAW-CONSECUTIVE</text>
+<text x="131" y="93" text-anchor="middle" class="Ls">DISAPPEARS</text>
+<line x1="22" y1="97" x2="458" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="26" y="105" text-anchor="start" class="Lx">Biblical: וַיֹּאמֶר vayomer = and-he-said (narrative past)</text>
+<text x="26" y="114" text-anchor="start" class="Lx">Mishnaic: אָמַר amar = he said (simple perfect)</text>
+<text x="26" y="123" text-anchor="start" class="Lx">No more flipping perfect/imperfect for narrative</text>
+<text x="26" y="132" text-anchor="start" class="Lx">Simpler tense system closer to Modern Hebrew</text>
+<rect x="244" y="75" width="218" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="353" y="85" text-anchor="middle" class="Ls">CONSTRUCT REPLACED</text>
+<text x="353" y="93" text-anchor="middle" class="Ls">BY שֶׁל (SHEL)</text>
+<line x1="22" y1="97" x2="458" y2="97" stroke="#000" stroke-width="0.3"/>
+<text x="248" y="105" text-anchor="start" class="Lx">Biblical: בֵּית הַמֶּלֶך bet ha-melekh = house-of the-king</text>
+<text x="248" y="114" text-anchor="start" class="Lx">Mishnaic: הַבַּיִת שֶׁל הַמֶּלֶך ha-bayit shel ha-melekh</text>
+<text x="248" y="123" text-anchor="start" class="Lx">Shel = of/belonging to (from Aramaic)</text>
+<text x="248" y="132" text-anchor="start" class="Lx">Construct state still exists but less common</text>
+<rect x="22" y="148" width="218" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="131" y="158" text-anchor="middle" class="Ls">WORD ORDER</text>
+<text x="131" y="166" text-anchor="middle" class="Ls">SHIFTS</text>
+<line x1="22" y1="170" x2="458" y2="170" stroke="#000" stroke-width="0.3"/>
+<text x="26" y="178" text-anchor="start" class="Lx">Biblical: Verb-Subject-Object (VSO)</text>
+<text x="26" y="187" text-anchor="start" class="Lx">Mishnaic: Subject-Verb-Object (SVO) growing</text>
+<text x="26" y="196" text-anchor="start" class="Lx">Example: Pirke Avot: מֹשֶ\�ה קִבֵּל</text>
+<text x="26" y="205" text-anchor="start" class="Lx">'Moses received' not 'received Moses'</text>
+<text x="26" y="214" text-anchor="start" class="Lx">Closer to natural spoken order</text>
+<rect x="244" y="148" width="218" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="353" y="158" text-anchor="middle" class="Ls">IMPERFECT =</text>
+<text x="353" y="166" text-anchor="middle" class="Ls">FUTURE/MODAL ONLY</text>
+<line x1="22" y1="170" x2="458" y2="170" stroke="#000" stroke-width="0.3"/>
+<text x="248" y="178" text-anchor="start" class="Lx">Biblical: imperfect = narrative, continuous, future</text>
+<text x="248" y="187" text-anchor="start" class="Lx">Mishnaic: imperfect = future + imperatives/modals</text>
+<text x="248" y="196" text-anchor="start" class="Lx">Example: אַל תִּהְיוּ al tihyu = do not be</text>
+<text x="248" y="205" text-anchor="start" class="Lx">Present tense expressed by participle</text>
+<line x1="22" y1="224" x2="458" y2="224" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="230" text-anchor="middle" class="H">— · —  LEGAL AND RABBINIC VOCABULARY  ·  THE LANGUAGE OF THE MISHNAH  — · —</text>
+<line x1="22" y1="234" x2="458" y2="234" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="242" text-anchor="middle" class="Lx">the Mishnah required precise vocabulary for law, ethics, commerce, and daily observance</text>
+<rect x="22" y="246" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="259" text-anchor="middle" class="Lhm">הֲלָכָה</text>
+<text x="72" y="255" text-anchor="start" class="Lx">halacha</text>
+<text x="72" y="263" text-anchor="start" class="Lx">the way/Jewish law</text>
+<rect x="132" y="246" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="154" y="259" text-anchor="middle" class="Lhm">מִצְוָה</text>
+<text x="182" y="255" text-anchor="start" class="Lx">mitzvah</text>
+<text x="182" y="263" text-anchor="start" class="Lx">commandment</text>
+<rect x="242" y="246" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="264" y="259" text-anchor="middle" class="Lhm">אֵרְוּר</text>
+<text x="292" y="255" text-anchor="start" class="Lx">eruv</text>
+<text x="292" y="263" text-anchor="start" class="Lx">boundary/mixing</text>
+<rect x="352" y="246" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="374" y="259" text-anchor="middle" class="Lhm">שַׁבָּת</text>
+<text x="402" y="255" text-anchor="start" class="Lx">Shabbat</text>
+<text x="402" y="263" text-anchor="start" class="Lx">the Sabbath day</text>
+<rect x="22" y="273" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="286" text-anchor="middle" class="Lhm">כֹּשְׁר</text>
+<text x="72" y="282" text-anchor="start" class="Lx">kosher</text>
+<text x="72" y="290" text-anchor="start" class="Lx">fit/permitted</text>
+<rect x="132" y="273" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="154" y="286" text-anchor="middle" class="Lhm">תְשׁוּבָה</text>
+<text x="182" y="282" text-anchor="start" class="Lx">t'shuvah</text>
+<text x="182" y="290" text-anchor="start" class="Lx">repentance/return</text>
+<rect x="242" y="273" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="264" y="286" text-anchor="middle" class="Lhm">צְדָקָה</text>
+<text x="292" y="282" text-anchor="start" class="Lx">tzedakah</text>
+<text x="292" y="290" text-anchor="start" class="Lx">justice/charity</text>
+<rect x="352" y="273" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="374" y="286" text-anchor="middle" class="Lhm">רַבִּי</text>
+<text x="402" y="282" text-anchor="start" class="Lx">rabbi</text>
+<text x="402" y="290" text-anchor="start" class="Lx">my teacher/master</text>
+<rect x="22" y="300" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="313" text-anchor="middle" class="Lhm">תַּלְמִיד</text>
+<text x="72" y="309" text-anchor="start" class="Lx">talmid</text>
+<text x="72" y="317" text-anchor="start" class="Lx">student/disciple</text>
+<rect x="132" y="300" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="154" y="313" text-anchor="middle" class="Lhm">מִשְׁנָה</text>
+<text x="182" y="309" text-anchor="start" class="Lx">Mishnah</text>
+<text x="182" y="317" text-anchor="start" class="Lx">repetition/teaching</text>
+<rect x="242" y="300" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="264" y="313" text-anchor="middle" class="Lhm">גְּמָרָא</text>
+<text x="292" y="309" text-anchor="start" class="Lx">Gemara</text>
+<text x="292" y="317" text-anchor="start" class="Lx">completion/Talmud</text>
+<rect x="352" y="300" width="106" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="374" y="313" text-anchor="middle" class="Lhm">אֲגָדָה</text>
+<text x="402" y="309" text-anchor="start" class="Lx">aggadah</text>
+<text x="402" y="317" text-anchor="start" class="Lx">story/narrative</text>
+<line x1="22" y1="346" x2="458" y2="346" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="352" text-anchor="middle" class="H">— · —  SEMANTIC SHIFTS  ·  SAME WORD, CHANGED MEANING  — · —</text>
+<line x1="22" y1="356" x2="458" y2="356" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="364" text-anchor="middle" class="Lx">words kept the same spelling but shifted meaning between Biblical and Mishnaic use</text>
+<rect x="22" y="368" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="380" text-anchor="middle" class="Lhm">עוֹלָם</text>
+<text x="70" y="377" text-anchor="start" class="Lx">olam: BH: eternity / forever</text>
+<text x="70" y="386" text-anchor="start" class="Lx">→ MH: world / universe</text>
+<rect x="168" y="368" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="190" y="380" text-anchor="middle" class="Lhm">נָהַג</text>
+<text x="216" y="377" text-anchor="start" class="Lx">nahag: BH: he behaved</text>
+<text x="216" y="386" text-anchor="start" class="Lx">→ MH: he led / drove</text>
+<rect x="314" y="368" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="336" y="380" text-anchor="middle" class="Lhm">מְזוּזָה</text>
+<text x="362" y="377" text-anchor="start" class="Lx">mezuzah: BH: doorpost / frame</text>
+<text x="362" y="386" text-anchor="start" class="Lx">→ MH: scroll on doorpost</text>
+<rect x="22" y="400" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="412" text-anchor="middle" class="Lhm">פֶּסַח</text>
+<text x="70" y="409" text-anchor="start" class="Lx">pesach: BH: he passed over</text>
+<text x="70" y="418" text-anchor="start" class="Lx">→ MH: Passover festival</text>
+<rect x="168" y="400" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="190" y="412" text-anchor="middle" class="Lhm">תַּחֲנָה</text>
+<text x="216" y="409" text-anchor="start" class="Lx">tachanah: BH: encampment</text>
+<text x="216" y="418" text-anchor="start" class="Lx">→ MH: station / bus stop (modern)</text>
+<rect x="314" y="400" width="144" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="336" y="412" text-anchor="middle" class="Lhm">סֵפֶר</text>
+<text x="362" y="409" text-anchor="start" class="Lx">sefer: BH: scroll / writing</text>
+<text x="362" y="418" text-anchor="start" class="Lx">→ MH: book</text>
+<line x1="22" y1="434" x2="458" y2="434" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="442" text-anchor="middle" class="Lx">NUMBERS: identical to Biblical Hebrew  ·  same words ·  same gematria values  ·  see Plate 09C</text>
+<text x="240" y="451" text-anchor="middle" class="Lx">VERB STEMS (binyanim): Qal, Nifal, Piel, Pual, Hifil, Hofal, Hitpael ·  same 7 stems as Biblical Hebrew</text>
+<line x1="22" y1="456" x2="458" y2="456" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="462" text-anchor="middle" class="H">— · —  THE PRESENT TENSE  ·  EXPRESSED BY PARTICIPLE  — · —</text>
+<line x1="22" y1="466" x2="458" y2="466" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="474" text-anchor="middle" class="Lx">Mishnaic Hebrew has a true present tense built from the active participle</text>
+<rect x="22" y="478" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="74" y="491" text-anchor="middle" class="Lhm">כֹּתֵב</text>
+<text x="74" y="501" text-anchor="middle" class="Lx">kotev</text>
+<text x="74" y="509" text-anchor="middle" class="Lx">I/he is writing</text>
+<rect x="130" y="478" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="182" y="491" text-anchor="middle" class="Lhm">כֹּתֶבֶת</text>
+<text x="182" y="501" text-anchor="middle" class="Lx">kotevet</text>
+<text x="182" y="509" text-anchor="middle" class="Lx">she is writing</text>
+<rect x="238" y="478" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="290" y="491" text-anchor="middle" class="Lhm">כֹּתְבִים</text>
+<text x="290" y="501" text-anchor="middle" class="Lx">kotvim</text>
+<text x="290" y="509" text-anchor="middle" class="Lx">they(m) are writing</text>
+<rect x="346" y="478" width="104" height="36" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="398" y="491" text-anchor="middle" class="Lhm">כֹּתְבוֹת</text>
+<text x="398" y="501" text-anchor="middle" class="Lx">kotvot</text>
+<text x="398" y="509" text-anchor="middle" class="Lx">they(f) are writing</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,189 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:13px;}
+  .Lhm{font-size:10px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 12C  ·  MODERN HEBREW  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">SVO order · 7 verb stems · tense system · modern coinages · loanwords</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE MODERN HEBREW SENTENCE  ·  SVO ORDER  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Modern Hebrew uses Subject-Verb-Object order  ·  more like English than Biblical Hebrew</text>
+<rect x="22" y="83" width="130" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="87" y="95" text-anchor="middle" class="Ls">SUBJECT</text>
+<text x="87" y="104" text-anchor="middle" class="Lx">the speaker/actor</text>
+<line x1="154" y1="95" x2="177" y2="95" stroke="#000" stroke-width="0.7"/><polygon points="177,93 182,95 177,97" fill="#000"/>
+<rect x="184" y="83" width="130" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="249" y="95" text-anchor="middle" class="Ls">VERB</text>
+<text x="249" y="104" text-anchor="middle" class="Lx">the action</text>
+<line x1="316" y1="95" x2="339" y2="95" stroke="#000" stroke-width="0.7"/><polygon points="339,93 344,95 339,97" fill="#000"/>
+<rect x="346" y="83" width="112" height="24" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="402" y="95" text-anchor="middle" class="Ls">OBJECT</text>
+<text x="402" y="104" text-anchor="middle" class="Lx">what is acted on</text>
+<text x="240" y="115" text-anchor="middle" class="Lhm">הילד קורא ספר  ·  ha-yeled qore sefer  ·  the-boy reads book</text>
+<line x1="22" y1="122" x2="458" y2="122" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">— · —  THE THREE-TENSE SYSTEM  — · —</text>
+<line x1="22" y1="132" x2="458" y2="132" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="140" text-anchor="middle" class="Lx">Modern Hebrew has three main tenses  ·  expressed by verb form</text>
+<rect x="22" y="144" width="136" height="44" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="90" y="155" text-anchor="middle" class="Ls">PAST</text>
+<text x="90" y="164" text-anchor="middle" class="Lx">perfect form</text>
+<text x="90" y="176" text-anchor="middle" class="Lh">כָּתַב</text>
+<text x="90" y="184" text-anchor="middle" class="Lx">katav = he wrote</text>
+<rect x="163" y="144" width="136" height="44" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="231" y="155" text-anchor="middle" class="Ls">PRESENT</text>
+<text x="231" y="164" text-anchor="middle" class="Lx">active participle</text>
+<text x="231" y="176" text-anchor="middle" class="Lh">כּוֹתֵב</text>
+<text x="231" y="184" text-anchor="middle" class="Lx">kotev = he writes / is writing</text>
+<rect x="304" y="144" width="136" height="44" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="372" y="155" text-anchor="middle" class="Ls">FUTURE</text>
+<text x="372" y="164" text-anchor="middle" class="Lx">imperfect form</text>
+<text x="372" y="176" text-anchor="middle" class="Lh">יִכְתֹּב</text>
+<text x="372" y="184" text-anchor="middle" class="Lx">yichtov = he will write</text>
+<text x="22" y="194" text-anchor="start" class="Lx">all from root K-T-V (כ-ת-ב writing)  ·  same root, pattern changes the tense</text>
+<line x1="22" y1="199" x2="458" y2="199" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="205" text-anchor="middle" class="H">— · —  THE SEVEN VERB STEMS  ·  BINYANIM  — · —</text>
+<line x1="22" y1="209" x2="458" y2="209" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="217" text-anchor="middle" class="Lx">same 3-letter root + 7 patterns = different shades of meaning from the same idea</text>
+<rect x="22" y="221" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="77" y="230" text-anchor="middle" class="Ls">PA'AL (Qal)</text>
+<text x="77" y="238" text-anchor="middle" class="Lx">basic action</text>
+<text x="232" y="234" text-anchor="end" class="Lx">katav = wrote</text>
+<rect x="240" y="221" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="295" y="230" text-anchor="middle" class="Ls">NIF'AL</text>
+<text x="295" y="238" text-anchor="middle" class="Lx">passive / reflexive</text>
+<text x="450" y="234" text-anchor="end" class="Lx">nichtav = was written</text>
+<rect x="22" y="246" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="77" y="255" text-anchor="middle" class="Ls">PI'EL</text>
+<text x="77" y="263" text-anchor="middle" class="Lx">intensive / causative</text>
+<text x="232" y="259" text-anchor="end" class="Lx">kitev = wrote (a lot)</text>
+<rect x="240" y="246" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="295" y="255" text-anchor="middle" class="Ls">PU'AL</text>
+<text x="295" y="263" text-anchor="middle" class="Lx">passive of pi'el</text>
+<text x="450" y="259" text-anchor="end" class="Lx">kutav = was written (intensively)</text>
+<rect x="22" y="271" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="77" y="280" text-anchor="middle" class="Ls">HIF'IL</text>
+<text x="77" y="288" text-anchor="middle" class="Lx">causative</text>
+<text x="232" y="284" text-anchor="end" class="Lx">hichtiv = caused to write / dictated</text>
+<rect x="240" y="271" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="295" y="280" text-anchor="middle" class="Ls">HOF'AL</text>
+<text x="295" y="288" text-anchor="middle" class="Lx">passive of hif'il</text>
+<text x="450" y="284" text-anchor="end" class="Lx">huchtav = was dictated</text>
+<rect x="22" y="296" width="214" height="22" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="77" y="305" text-anchor="middle" class="Ls">HITPA'EL</text>
+<text x="77" y="313" text-anchor="middle" class="Lx">reflexive</text>
+<text x="232" y="309" text-anchor="end" class="Lx">hitkatev = corresponded (wrote to each other)</text>
+<line x1="22" y1="334" x2="458" y2="334" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="340" text-anchor="middle" class="H">— · —  MODERN COINAGES  ·  BEN-YEHUDA AND THE ACADEMY  — · —</text>
+<line x1="22" y1="344" x2="458" y2="344" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="352" text-anchor="middle" class="Lx">8,000 Biblical roots were the raw material  ·  new words coined for modern concepts</text>
+<rect x="22" y="356" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="369" text-anchor="middle" class="Lhm">מחשב</text>
+<text x="76" y="365" text-anchor="start" class="Lx">machshev</text>
+<text x="76" y="373" text-anchor="start" class="Lx">computer</text>
+<rect x="130" y="356" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="369" text-anchor="middle" class="Lhm">רכבת</text>
+<text x="184" y="365" text-anchor="start" class="Lx">rakevet</text>
+<text x="184" y="373" text-anchor="start" class="Lx">train</text>
+<rect x="238" y="356" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="369" text-anchor="middle" class="Lhm">מטוס</text>
+<text x="292" y="365" text-anchor="start" class="Lx">matos</text>
+<text x="292" y="373" text-anchor="start" class="Lx">airplane</text>
+<rect x="346" y="356" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="369" text-anchor="middle" class="Lhm">עיתון</text>
+<text x="400" y="365" text-anchor="start" class="Lx">iton</text>
+<text x="400" y="373" text-anchor="start" class="Lx">newspaper</text>
+<rect x="22" y="383" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="396" text-anchor="middle" class="Lhm">מסעדה</text>
+<text x="76" y="392" text-anchor="start" class="Lx">mis'ada</text>
+<text x="76" y="400" text-anchor="start" class="Lx">restaurant</text>
+<rect x="130" y="383" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="396" text-anchor="middle" class="Lhm">מדריכה</text>
+<text x="184" y="392" text-anchor="start" class="Lx">madrikh</text>
+<text x="184" y="400" text-anchor="start" class="Lx">guide/counselor</text>
+<rect x="238" y="383" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="396" text-anchor="middle" class="Lhm">חשמל</text>
+<text x="292" y="392" text-anchor="start" class="Lx">chashmal</text>
+<text x="292" y="400" text-anchor="start" class="Lx">electricity</text>
+<rect x="346" y="383" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="396" text-anchor="middle" class="Lhm">טלפון</text>
+<text x="400" y="392" text-anchor="start" class="Lx">telefon</text>
+<text x="400" y="400" text-anchor="start" class="Lx">telephone</text>
+<rect x="22" y="410" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="423" text-anchor="middle" class="Lhm">אוניברסיטה</text>
+<text x="76" y="419" text-anchor="start" class="Lx">universita</text>
+<text x="76" y="427" text-anchor="start" class="Lx">university</text>
+<rect x="130" y="410" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="152" y="423" text-anchor="middle" class="Lhm">אוטובוס</text>
+<text x="184" y="419" text-anchor="start" class="Lx">otobus</text>
+<text x="184" y="427" text-anchor="start" class="Lx">bus</text>
+<rect x="238" y="410" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="260" y="423" text-anchor="middle" class="Lhm">מקלדת</text>
+<text x="292" y="419" text-anchor="start" class="Lx">miklad</text>
+<text x="292" y="427" text-anchor="start" class="Lx">keyboard</text>
+<rect x="346" y="410" width="104" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="368" y="423" text-anchor="middle" class="Lhm">דואל</text>
+<text x="400" y="419" text-anchor="start" class="Lx">du'ach</text>
+<text x="400" y="427" text-anchor="start" class="Lx">report</text>
+<line x1="22" y1="450" x2="458" y2="450" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="456" text-anchor="middle" class="H">— · —  NUMBERS  ·  THE SAME WORDS  ·  SIMPLER PRONUNCIATION  — · —</text>
+<line x1="22" y1="460" x2="458" y2="460" stroke="#000" stroke-width="0.3"/>
+<rect x="16" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="37" y="474" text-anchor="middle" class="Ls">1</text>
+<text x="37" y="482" text-anchor="middle" class="Lhm">אֶחָד</text>
+<text x="37" y="492" text-anchor="middle" class="Lx">echad</text>
+<rect x="61" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="82" y="474" text-anchor="middle" class="Ls">2</text>
+<text x="82" y="482" text-anchor="middle" class="Lhm">שְנַיִם</text>
+<text x="82" y="492" text-anchor="middle" class="Lx">shnayim</text>
+<rect x="106" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="474" text-anchor="middle" class="Ls">3</text>
+<text x="127" y="482" text-anchor="middle" class="Lhm">שְלֹשָה</text>
+<text x="127" y="492" text-anchor="middle" class="Lx">shalosh</text>
+<rect x="151" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="172" y="474" text-anchor="middle" class="Ls">4</text>
+<text x="172" y="482" text-anchor="middle" class="Lhm">אַרְבָּעָה</text>
+<text x="172" y="492" text-anchor="middle" class="Lx">arba</text>
+<rect x="196" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="217" y="474" text-anchor="middle" class="Ls">5</text>
+<text x="217" y="482" text-anchor="middle" class="Lhm">חֲמִשָּה</text>
+<text x="217" y="492" text-anchor="middle" class="Lx">chamesh</text>
+<rect x="241" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="262" y="474" text-anchor="middle" class="Ls">6</text>
+<text x="262" y="482" text-anchor="middle" class="Lhm">שֵשׁ</text>
+<text x="262" y="492" text-anchor="middle" class="Lx">shesh</text>
+<rect x="286" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="307" y="474" text-anchor="middle" class="Ls">7</text>
+<text x="307" y="482" text-anchor="middle" class="Lhm">שֶבַע</text>
+<text x="307" y="492" text-anchor="middle" class="Lx">sheva</text>
+<rect x="331" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="352" y="474" text-anchor="middle" class="Ls">8</text>
+<text x="352" y="482" text-anchor="middle" class="Lhm">שְמוֹנֶה</text>
+<text x="352" y="492" text-anchor="middle" class="Lx">shmoneh</text>
+<rect x="376" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="397" y="474" text-anchor="middle" class="Ls">9</text>
+<text x="397" y="482" text-anchor="middle" class="Lhm">תֵשׁע</text>
+<text x="397" y="492" text-anchor="middle" class="Lx">tesha</text>
+<rect x="421" y="464" width="42" height="32" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="442" y="474" text-anchor="middle" class="Ls">10</text>
+<text x="442" y="482" text-anchor="middle" class="Lhm">עֶשׂר</text>
+<text x="442" y="492" text-anchor="middle" class="Lx">eser</text>
+<text x="240" y="502" text-anchor="middle" class="Lx">same words as Biblical Hebrew  ·  tav-soft now /t/ not /θ/  ·  ayin fully silent</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

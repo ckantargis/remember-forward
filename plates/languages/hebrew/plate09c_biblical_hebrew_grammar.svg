@@ -1,0 +1,278 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .Lh{font-size:11px;}
+  .Lhm{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+  .bold{font-weight:bold;}
+</style></defs>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 09C  ·  BIBLICAL HEBREW  ·  GRAMMAR</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">the root system  ·  verb conjugation  ·  nouns  ·  core vocabulary  ·  numbers</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE THREE-LETTER ROOT  ·  SHORESH  שֹרש  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">every Hebrew word grows from a 3-letter root  ·  the root carries the core meaning  ·  patterns change the function</text>
+<rect x="22" y="83" width="210" height="62" fill="none" stroke="#000" stroke-width="1.0"/>
+<rect x="22" y="83" width="210" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="50" y="93" text-anchor="middle" class="Lh">כתב</text>
+<text x="112" y="91" text-anchor="start" class="Ls">ROOT: K-T-B</text>
+<text x="112" y="100" text-anchor="start" class="Lx">meaning field: writing</text>
+<text x="52" y="107" text-anchor="middle" class="Lhm">כָּתַב</text>
+<text x="92" y="107" text-anchor="start" class="Lx">katav</text>
+<text x="152" y="107" text-anchor="start" class="Lx">he wrote</text>
+<text x="52" y="118" text-anchor="middle" class="Lhm">כֹּתֵב</text>
+<text x="92" y="118" text-anchor="start" class="Lx">kotev</text>
+<text x="152" y="118" text-anchor="start" class="Lx">is writing</text>
+<text x="52" y="129" text-anchor="middle" class="Lhm">כְּתָב</text>
+<text x="92" y="129" text-anchor="start" class="Lx">k'tav</text>
+<text x="152" y="129" text-anchor="start" class="Lx">script/writing</text>
+<text x="52" y="140" text-anchor="middle" class="Lhm">מִכְתָב</text>
+<text x="92" y="140" text-anchor="start" class="Lx">michtav</text>
+<text x="152" y="140" text-anchor="start" class="Lx">letter/document</text>
+<rect x="248" y="83" width="210" height="62" fill="none" stroke="#000" stroke-width="1.0"/>
+<rect x="248" y="83" width="210" height="14" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="276" y="93" text-anchor="middle" class="Lh">שמע</text>
+<text x="338" y="91" text-anchor="start" class="Ls">ROOT: SH-M-A</text>
+<text x="338" y="100" text-anchor="start" class="Lx">meaning field: hearing</text>
+<text x="278" y="107" text-anchor="middle" class="Lhm">שָׁמַע</text>
+<text x="318" y="107" text-anchor="start" class="Lx">shama</text>
+<text x="378" y="107" text-anchor="start" class="Lx">he heard</text>
+<text x="278" y="118" text-anchor="middle" class="Lhm">שֹׁמֵע</text>
+<text x="318" y="118" text-anchor="start" class="Lx">shomea</text>
+<text x="378" y="118" text-anchor="start" class="Lx">is hearing</text>
+<text x="278" y="129" text-anchor="middle" class="Lhm">שְּמַע</text>
+<text x="318" y="129" text-anchor="start" class="Lx">shema</text>
+<text x="378" y="129" text-anchor="start" class="Lx">hear! (command)</text>
+<text x="278" y="140" text-anchor="middle" class="Lhm">מִשְׁמָע</text>
+<text x="318" y="140" text-anchor="start" class="Lx">mishma</text>
+<text x="378" y="140" text-anchor="start" class="Lx">obedience/hearing</text>
+<text x="240" y="152" text-anchor="middle" class="Lx">same 3-letter skeleton  ·  different vowels and prefixes/suffixes  ·  different function</text>
+<line x1="22" y1="157" x2="458" y2="157" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="167" text-anchor="middle" class="H">— · —  VERB CONJUGATION  ·  QAL STEM  ·  PATTERN: קָטַל  — · —</text>
+<line x1="22" y1="171" x2="458" y2="171" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="179" text-anchor="middle" class="Lx">Qal = basic/simple action  ·  most common verb stem  ·  model: QaTaL = he killed/acted</text>
+<rect x="22" y="183" width="210" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="183" width="210" height="13" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="193" text-anchor="middle" class="Ls">PERFECT (past/completed)</text>
+<text x="50" y="202" text-anchor="middle" class="Lhm">קָטַל</text>
+<text x="100" y="202" text-anchor="start" class="Lx">qatal</text>
+<text x="165" y="202" text-anchor="start" class="Lx">he   acted</text>
+<text x="50" y="212" text-anchor="middle" class="Lhm">קָטְלָה</text>
+<text x="100" y="212" text-anchor="start" class="Lx">qat'lah</text>
+<text x="165" y="212" text-anchor="start" class="Lx">she  acted</text>
+<text x="50" y="222" text-anchor="middle" class="Lhm">קָטַלְתָּ</text>
+<text x="100" y="222" text-anchor="start" class="Lx">qatalta</text>
+<text x="165" y="222" text-anchor="start" class="Lx">you (m) acted</text>
+<text x="50" y="232" text-anchor="middle" class="Lhm">קָטַלְתִּ</text>
+<text x="100" y="232" text-anchor="start" class="Lx">qatalt</text>
+<text x="165" y="232" text-anchor="start" class="Lx">you (f) acted</text>
+<text x="50" y="242" text-anchor="middle" class="Lhm">קָטַלְתִּי</text>
+<text x="100" y="242" text-anchor="start" class="Lx">qatalti</text>
+<text x="165" y="242" text-anchor="start" class="Lx">I    acted</text>
+<rect x="248" y="183" width="210" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="183" width="210" height="13" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="193" text-anchor="middle" class="Ls">IMPERFECT (future/ongoing)</text>
+<text x="275" y="202" text-anchor="middle" class="Lhm">יִקְטֹל</text>
+<text x="305" y="202" text-anchor="start" class="Lx">yiqtol</text>
+<text x="370" y="202" text-anchor="start" class="Lx">he   will act</text>
+<text x="275" y="212" text-anchor="middle" class="Lhm">תִּקְטֹל</text>
+<text x="305" y="212" text-anchor="start" class="Lx">tiqtol</text>
+<text x="370" y="212" text-anchor="start" class="Lx">she  will act</text>
+<text x="275" y="222" text-anchor="middle" class="Lhm">תִּקְטֹל</text>
+<text x="305" y="222" text-anchor="start" class="Lx">tiqtol</text>
+<text x="370" y="222" text-anchor="start" class="Lx">you (m) will</text>
+<text x="275" y="232" text-anchor="middle" class="Lhm">אֶקְטֹל</text>
+<text x="305" y="232" text-anchor="start" class="Lx">eqtol</text>
+<text x="370" y="232" text-anchor="start" class="Lx">I    will act</text>
+<text x="275" y="242" text-anchor="middle" class="Lhm">נִקְטֹל</text>
+<text x="305" y="242" text-anchor="start" class="Lx">niqtol</text>
+<text x="370" y="242" text-anchor="start" class="Lx">we   will act</text>
+<text x="240" y="250" text-anchor="middle" class="Lx">verb always comes first in the sentence  ·  vav-consecutive וְ flips perfect ↔ imperfect in narrative</text>
+<line x1="22" y1="255" x2="458" y2="255" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="265" text-anchor="middle" class="H">— · —  NOUNS  ·  GENDER  ·  PLURAL  ·  CONSTRUCT STATE  — · —</text>
+<line x1="22" y1="269" x2="458" y2="269" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="273" width="200" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="122" y="282" text-anchor="middle" class="Ls">GENDER &amp; PLURAL</text>
+<text x="22" y="292" text-anchor="start" class="Lx">MASC singular: מֶלֶך melekh (king)</text>
+<text x="22" y="301" text-anchor="start" class="Lx">MASC plural יִם- : מְלָכִים m'lakhim (kings)</text>
+<text x="22" y="310" text-anchor="start" class="Lx">FEM singular הָ- : מַלְכָּה malka (queen)</text>
+<rect x="232" y="273" width="226" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="345" y="282" text-anchor="middle" class="Ls">CONSTRUCT STATE (smichut)</text>
+<text x="234" y="292" text-anchor="start" class="Lx">two nouns joined: second owns first</text>
+<text x="234" y="301" text-anchor="start" class="Lh">בֵּית + מֶלֶך  =  בֵּית מֶלֶך</text>
+<text x="234" y="311" text-anchor="start" class="Lx">bet + melekh  =  house of the king</text>
+<text x="240" y="318" text-anchor="middle" class="Lx">definite article: הַ- ha- (the)  ·  no indefinite article: מֶלֶך = a king / king</text>
+<line x1="22" y1="323" x2="458" y2="323" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="333" text-anchor="middle" class="H">— · —  CORE VOCABULARY  ·  40 ESSENTIAL WORDS  — · —</text>
+<line x1="22" y1="337" x2="458" y2="337" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="335" width="144" height="10" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="94" y="343" text-anchor="middle" class="Lx">NATURE</text>
+<text x="192" y="343" text-anchor="middle" class="Lhm">שֶׁמשׁ</text>
+<text x="222" y="343" text-anchor="start" class="Lx">shemesh</text>
+<text x="272" y="343" text-anchor="start" class="Lx">sun</text>
+<text x="340" y="343" text-anchor="middle" class="Lhm">יָרֵח</text>
+<text x="370" y="343" text-anchor="start" class="Lx">yareach</text>
+<text x="420" y="343" text-anchor="start" class="Lx">moon</text>
+<text x="44" y="347" text-anchor="middle" class="Lhm">כֹּכָב</text>
+<text x="74" y="347" text-anchor="start" class="Lx">kokhav</text>
+<text x="124" y="347" text-anchor="start" class="Lx">star</text>
+<text x="192" y="353" text-anchor="middle" class="Lhm">מַיִם</text>
+<text x="222" y="353" text-anchor="start" class="Lx">mayim</text>
+<text x="272" y="353" text-anchor="start" class="Lx">water</text>
+<text x="340" y="353" text-anchor="middle" class="Lhm">אֵשׁ</text>
+<text x="370" y="353" text-anchor="start" class="Lx">esh</text>
+<text x="420" y="353" text-anchor="start" class="Lx">fire</text>
+<text x="44" y="357" text-anchor="middle" class="Lhm">אֶרֶץ</text>
+<text x="74" y="357" text-anchor="start" class="Lx">erets</text>
+<text x="124" y="357" text-anchor="start" class="Lx">earth/land</text>
+<text x="192" y="363" text-anchor="middle" class="Lhm">שָׁמַיִם</text>
+<text x="222" y="363" text-anchor="start" class="Lx">shamayim</text>
+<text x="272" y="363" text-anchor="start" class="Lx">sky/heavens</text>
+<text x="340" y="363" text-anchor="middle" class="Lhm">הָר</text>
+<text x="370" y="363" text-anchor="start" class="Lx">har</text>
+<text x="420" y="363" text-anchor="start" class="Lx">mountain</text>
+<rect x="22" y="359" width="144" height="10" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="94" y="367" text-anchor="middle" class="Lx">PEOPLE</text>
+<text x="44" y="371" text-anchor="middle" class="Lhm">אִישׁ</text>
+<text x="74" y="371" text-anchor="start" class="Lx">ish</text>
+<text x="124" y="371" text-anchor="start" class="Lx">man</text>
+<text x="192" y="373" text-anchor="middle" class="Lhm">אִשָּה</text>
+<text x="222" y="373" text-anchor="start" class="Lx">ishah</text>
+<text x="272" y="373" text-anchor="start" class="Lx">woman</text>
+<text x="340" y="373" text-anchor="middle" class="Lhm">בֵּן</text>
+<text x="370" y="373" text-anchor="start" class="Lx">ben</text>
+<text x="420" y="373" text-anchor="start" class="Lx">son</text>
+<text x="44" y="381" text-anchor="middle" class="Lhm">בַּת</text>
+<text x="74" y="381" text-anchor="start" class="Lx">bat</text>
+<text x="124" y="381" text-anchor="start" class="Lx">daughter</text>
+<text x="192" y="383" text-anchor="middle" class="Lhm">אָב</text>
+<text x="222" y="383" text-anchor="start" class="Lx">av</text>
+<text x="272" y="383" text-anchor="start" class="Lx">father</text>
+<text x="340" y="383" text-anchor="middle" class="Lhm">אֵם</text>
+<text x="370" y="383" text-anchor="start" class="Lx">em</text>
+<text x="420" y="383" text-anchor="start" class="Lx">mother</text>
+<text x="44" y="391" text-anchor="middle" class="Lhm">עַם</text>
+<text x="74" y="391" text-anchor="start" class="Lx">am</text>
+<text x="124" y="391" text-anchor="start" class="Lx">people/nation</text>
+<rect x="170" y="385" width="144" height="10" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="242" y="393" text-anchor="middle" class="Lx">ACTIONS</text>
+<text x="340" y="393" text-anchor="middle" class="Lhm">הָלַך</text>
+<text x="370" y="393" text-anchor="start" class="Lx">halakh</text>
+<text x="420" y="393" text-anchor="start" class="Lx">went/walked</text>
+<text x="192" y="397" text-anchor="middle" class="Lhm">שָׁמַע</text>
+<text x="222" y="397" text-anchor="start" class="Lx">shama</text>
+<text x="272" y="397" text-anchor="start" class="Lx">heard/obeyed</text>
+<text x="44" y="401" text-anchor="middle" class="Lhm">רָאָה</text>
+<text x="74" y="401" text-anchor="start" class="Lx">ra'ah</text>
+<text x="124" y="401" text-anchor="start" class="Lx">saw</text>
+<text x="340" y="403" text-anchor="middle" class="Lhm">דִּבֶּר</text>
+<text x="370" y="403" text-anchor="start" class="Lx">dibber</text>
+<text x="420" y="403" text-anchor="start" class="Lx">spoke</text>
+<text x="192" y="407" text-anchor="middle" class="Lhm">נָתַן</text>
+<text x="222" y="407" text-anchor="start" class="Lx">natan</text>
+<text x="272" y="407" text-anchor="start" class="Lx">gave</text>
+<text x="44" y="411" text-anchor="middle" class="Lhm">עָשָׂה</text>
+<text x="74" y="411" text-anchor="start" class="Lx">asah</text>
+<text x="124" y="411" text-anchor="start" class="Lx">made/did</text>
+<text x="340" y="413" text-anchor="middle" class="Lhm">שָׁמַר</text>
+<text x="370" y="413" text-anchor="start" class="Lx">shamar</text>
+<text x="420" y="413" text-anchor="start" class="Lx">kept/guarded</text>
+<text x="192" y="417" text-anchor="middle" class="Lhm">יָדַע</text>
+<text x="222" y="417" text-anchor="start" class="Lx">yada</text>
+<text x="272" y="417" text-anchor="start" class="Lx">knew</text>
+<rect x="22" y="413" width="144" height="10" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="94" y="421" text-anchor="middle" class="Lx">TIME</text>
+<text x="340" y="423" text-anchor="middle" class="Lhm">יֹום</text>
+<text x="370" y="423" text-anchor="start" class="Lx">yom</text>
+<text x="420" y="423" text-anchor="start" class="Lx">day</text>
+<text x="44" y="425" text-anchor="middle" class="Lhm">לַיְלָה</text>
+<text x="74" y="425" text-anchor="start" class="Lx">laylah</text>
+<text x="124" y="425" text-anchor="start" class="Lx">night</text>
+<text x="192" y="427" text-anchor="middle" class="Lhm">שָׁנָה</text>
+<text x="222" y="427" text-anchor="start" class="Lx">shanah</text>
+<text x="272" y="427" text-anchor="start" class="Lx">year</text>
+<text x="340" y="433" text-anchor="middle" class="Lhm">עֵת</text>
+<text x="370" y="433" text-anchor="start" class="Lx">et</text>
+<text x="420" y="433" text-anchor="start" class="Lx">time/season</text>
+<rect x="22" y="427" width="144" height="10" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="94" y="435" text-anchor="middle" class="Lx">SACRED</text>
+<text x="192" y="437" text-anchor="middle" class="Lhm">אֵל</text>
+<text x="222" y="437" text-anchor="start" class="Lx">El</text>
+<text x="272" y="437" text-anchor="start" class="Lx">God/strength</text>
+<text x="44" y="439" text-anchor="middle" class="Lhm">אֱלֹהִים</text>
+<text x="74" y="439" text-anchor="start" class="Lx">Elohim</text>
+<text x="124" y="439" text-anchor="start" class="Lx">God (plural majesty)</text>
+<text x="340" y="443" text-anchor="middle" class="Lhm">שָׁלֹום</text>
+<text x="370" y="443" text-anchor="start" class="Lx">shalom</text>
+<text x="420" y="443" text-anchor="start" class="Lx">peace/wholeness</text>
+<text x="192" y="447" text-anchor="middle" class="Lhm">אֱמֶת</text>
+<text x="222" y="447" text-anchor="start" class="Lx">emet</text>
+<text x="272" y="447" text-anchor="start" class="Lx">truth/faithfulness</text>
+<text x="44" y="449" text-anchor="middle" class="Lhm">חֶסֶד</text>
+<text x="74" y="449" text-anchor="start" class="Lx">chesed</text>
+<text x="124" y="449" text-anchor="start" class="Lx">loving-kindness</text>
+<text x="340" y="453" text-anchor="middle" class="Lhm">תֹּרָה</text>
+<text x="370" y="453" text-anchor="start" class="Lx">Torah</text>
+<text x="420" y="453" text-anchor="start" class="Lx">teaching/law</text>
+<line x1="22" y1="467" x2="458" y2="467" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="478" text-anchor="middle" class="H">— · —  NUMBERS  ·  ONE THROUGH TEN  — · —</text>
+<line x1="22" y1="482" x2="458" y2="482" stroke="#000" stroke-width="0.3"/>
+<rect x="16" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="37" y="495" text-anchor="middle" class="Ls">1</text>
+<text x="37" y="504" text-anchor="middle" class="Lhm">אֶחָד</text>
+<text x="37" y="513" text-anchor="middle" class="Lx">echad</text>
+<rect x="61" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="82" y="495" text-anchor="middle" class="Ls">2</text>
+<text x="82" y="504" text-anchor="middle" class="Lhm">שְׁנַיִם</text>
+<text x="82" y="513" text-anchor="middle" class="Lx">shnayim</text>
+<rect x="106" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="127" y="495" text-anchor="middle" class="Ls">3</text>
+<text x="127" y="504" text-anchor="middle" class="Lhm">שְׁלֹשָׁה</text>
+<text x="127" y="513" text-anchor="middle" class="Lx">shalosh</text>
+<rect x="151" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="172" y="495" text-anchor="middle" class="Ls">4</text>
+<text x="172" y="504" text-anchor="middle" class="Lhm">אַרְבָּעָה</text>
+<text x="172" y="513" text-anchor="middle" class="Lx">arba</text>
+<rect x="196" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="217" y="495" text-anchor="middle" class="Ls">5</text>
+<text x="217" y="504" text-anchor="middle" class="Lhm">חֲמִשָּה</text>
+<text x="217" y="513" text-anchor="middle" class="Lx">chamesh</text>
+<rect x="241" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="262" y="495" text-anchor="middle" class="Ls">6</text>
+<text x="262" y="504" text-anchor="middle" class="Lhm">שֵׁשׁ</text>
+<text x="262" y="513" text-anchor="middle" class="Lx">shesh</text>
+<rect x="286" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="307" y="495" text-anchor="middle" class="Ls">7</text>
+<text x="307" y="504" text-anchor="middle" class="Lhm">שֶׁבַע</text>
+<text x="307" y="513" text-anchor="middle" class="Lx">sheva</text>
+<rect x="331" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="352" y="495" text-anchor="middle" class="Ls">8</text>
+<text x="352" y="504" text-anchor="middle" class="Lhm">שְׁמֹנֶה</text>
+<text x="352" y="513" text-anchor="middle" class="Lx">shmoneh</text>
+<rect x="376" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="397" y="495" text-anchor="middle" class="Ls">9</text>
+<text x="397" y="504" text-anchor="middle" class="Lhm">תֵּשׁע</text>
+<text x="397" y="513" text-anchor="middle" class="Lx">tesha</text>
+<rect x="421" y="486" width="42" height="30" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="442" y="495" text-anchor="middle" class="Ls">10</text>
+<text x="442" y="504" text-anchor="middle" class="Lhm">עֶשׁר</text>
+<text x="442" y="513" text-anchor="middle" class="Lx">eser</text>
+<line x1="22" y1="521" x2="458" y2="521" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="529" text-anchor="middle" class="Lx">see Plate 09D for continuous text  ·  Plate 09B for pronunciation  ·  audio disc for spoken reading</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
