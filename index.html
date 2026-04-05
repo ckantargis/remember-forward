@@ -702,6 +702,115 @@
     box-shadow: 0 0 18px rgba(200,169,110,0.15);
   }
 
+  /* ── GUMROAD / SUPPORT ── */
+  #support {
+    background: var(--dark-surface);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+  .support-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+  }
+  .support-card {
+    border: 1px solid var(--rule);
+    padding: 2rem 1.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    transition: border-color 0.3s, background 0.3s;
+  }
+  .support-card.featured {
+    border-color: var(--gold);
+    background: rgba(200,169,110,0.04);
+  }
+  .support-card:hover {
+    border-color: var(--gold);
+    background: rgba(200,169,110,0.06);
+  }
+  .card-tier {
+    font-family: 'Cinzel', serif;
+    font-size: 0.58rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+  .card-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    color: var(--text);
+    letter-spacing: 0.05em;
+  }
+  .card-price {
+    font-family: 'Cinzel', serif;
+    font-size: 1.4rem;
+    color: var(--gold-light);
+  }
+  .card-price span {
+    font-size: 0.7rem;
+    color: var(--text-faint);
+    letter-spacing: 0.1em;
+  }
+  .card-features {
+    list-style: none;
+    padding: 0;
+    margin: 0.3rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    flex-grow: 1;
+  }
+  .card-features li {
+    font-size: 0.83rem;
+    color: var(--text-dim);
+    padding-left: 1.1em;
+    position: relative;
+  }
+  .card-features li::before {
+    content: '·';
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+  }
+  .card-note {
+    font-size: 0.72rem;
+    color: var(--text-faint);
+    font-style: italic;
+  }
+  .gumroad-btn {
+    display: block;
+    margin-top: 0.5rem;
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    padding: 0.8em 1.4em;
+    border: 1px solid var(--gold);
+    color: var(--gold-light);
+    background: transparent;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+  .gumroad-btn:hover {
+    background: rgba(200,169,110,0.12);
+    color: var(--gold-pale);
+    box-shadow: 0 0 20px rgba(200,169,110,0.15);
+  }
+  .gumroad-btn.free-btn {
+    border-color: var(--text-faint);
+    color: var(--text-dim);
+  }
+  .gumroad-btn.free-btn:hover {
+    border-color: var(--text-dim);
+    color: var(--text);
+    background: transparent;
+    box-shadow: none;
+  }
+
   /* ── FOOTER ── */
   footer {
     background: var(--dark-mid);
@@ -767,6 +876,7 @@
     <li><a href="#plates" data-i18n="nav_plates">The Plates</a></li>
     <li><a href="#containers" data-i18n="nav_containers">Containers</a></li>
     <li><a href="#concords" data-i18n="nav_concords">Ten Concords</a></li>
+    <li><a href="#support">Get the Plates</a></li>
     <li><a href="#downloads" data-i18n="nav_downloads">Downloads</a></li>
     <li><a href="https://github.com/ckantargis/remember-forward" data-i18n="nav_github">GitHub</a></li>
   </ul>
@@ -1615,6 +1725,63 @@
 
 <div class="divider-section">· · ·</div>
 
+<section id="support">
+  <p class="section-label">Support the Project</p>
+  <h2>Get the Plates</h2>
+  <p>The plates are CC BY-SA 4.0 — always free. If you find them useful, paying for a copy funds continued development, new language series, and keeps the project alive. Every purchase is a vote for more capsules in the ground.</p>
+
+  <div class="support-grid">
+
+    <div class="support-card">
+      <p class="card-tier">Free Forever</p>
+      <p class="card-title">Direct Download</p>
+      <p class="card-price">$0 <span>· always</span></p>
+      <ul class="card-features">
+        <li>All 219 SVG plates (ZIP)</li>
+        <li>Print-ready PDF (219 pages)</li>
+        <li>Permanent mirror on archive.org</li>
+        <li>No account required</li>
+      </ul>
+      <a href="#downloads" class="gumroad-btn free-btn">Free Downloads &darr;</a>
+    </div>
+
+    <div class="support-card featured">
+      <p class="card-tier">Pay What You Want</p>
+      <p class="card-title">Plate Set</p>
+      <p class="card-price">$8 <span>· suggested</span></p>
+      <ul class="card-features">
+        <li>All 219 SVG plates — laser-engraver ready</li>
+        <li>Print-ready PDF (219 pages, 5"&times;7")</li>
+        <li>49 languages · 11 knowledge plates</li>
+        <li>Gumroad delivery — instant download</li>
+        <li>Updates when new plates are added</li>
+      </ul>
+      <p class="card-note">Minimum $0 — pay what feels right.</p>
+      <a class="gumroad-btn" href="https://rememberforward.gumroad.com/l/plate-set" data-gumroad-overlay-checkout="true">Get on Gumroad</a>
+    </div>
+
+    <div class="support-card">
+      <p class="card-tier">Complete Archive</p>
+      <p class="card-title">Founders Edition</p>
+      <p class="card-price">$20 <span>· suggested</span></p>
+      <ul class="card-features">
+        <li>Everything in the Plate Set</li>
+        <li>9 build guides (survival through metaphysics)</li>
+        <li>8 container design guides (ceramic to granite vault)</li>
+        <li>Location strategies &amp; burial guide</li>
+        <li>Founder's letter &amp; project documentation</li>
+      </ul>
+      <p class="card-note">The full system — dig, build, and bury.</p>
+      <a class="gumroad-btn" href="https://rememberforward.gumroad.com/l/founders-edition" data-gumroad-overlay-checkout="true">Get on Gumroad</a>
+    </div>
+
+  </div>
+</section>
+
+<script src="https://gumroad.com/js/gumroad.js"></script>
+
+<div class="divider-section">· · ·</div>
+
 <section id="downloads">
   <p class="section-label" data-i18n="sec_downloads">Free Downloads</p>
   <h2 data-i18n="downloads_h2">Everything Is Free</h2>
@@ -2124,6 +2291,7 @@
     <a href="#top">Home</a>
     <a href="#plates" data-i18n="nav_plates">The Plates</a>
     <a href="#containers" data-i18n="nav_containers">Containers</a>
+    <a href="#support">Get the Plates</a>
     <a href="#downloads" data-i18n="nav_downloads">Downloads</a>
     <a href="https://github.com/ckantargis/remember-forward" data-i18n="nav_github">GitHub</a>
     <a href="guides/gd_02_founders_letter.docx" data-i18n="dl_founders">Founder's Letter</a>
