@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Ld { font-size:13px; }
+  .Lds{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HINDI — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 25D OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H" >— PASSAGE 1 — KABIR, DOHA (15th c.) —</text>
+<text x="240" y="79" text-anchor="middle" class="Ld" >कल करे सो आज कर, आज करे सो अब।</text>
+<text x="240" y="91" text-anchor="middle" class="Lx" >Kal kare so aaj kar, aaj kare so ab.</text>
+<text x="240" y="100" text-anchor="middle" class="Lx" >Tomorrow do-that today do, today do-that now.</text>
+<text x="240" y="109" text-anchor="middle" class="Ld" >पल में प्रलय होएगी, बहुरि करेगा कब।</text>
+<text x="240" y="121" text-anchor="middle" class="Lx" >Pal mein pralay hoegi, bahuri karega kab.</text>
+<text x="240" y="130" text-anchor="middle" class="Lx" >Moment in calamity will-come, again do-will when.</text>
+<text x="240" y="139" text-anchor="middle" class="Ls" >"Do tomorrow's work today; do today's work now. In a moment disaster may come — when will you do it again?"</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H" >— PASSAGE 2 — TULSIDAS, RAMCHARITMANAS (1574) —</text>
+<text x="240" y="167" text-anchor="middle" class="Ld" >जाकी रही भावना जैसी। प्रभु मूरत देखी तिन तैसी।।</text>
+<text x="240" y="179" text-anchor="middle" class="Lx" >Jaaki rahi bhaavana jaisi. Prabhu moorat dekhi tin taisi.</text>
+<text x="240" y="188" text-anchor="middle" class="Ls" >"As was the devotee's feeling, such was the form of God they perceived."</text>
+<text x="240" y="197" text-anchor="middle" class="Ls" >— On the nature of perception: we see what we already carry within us.</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="213" text-anchor="middle" class="H" >— PASSAGE 3 — HINDI PROVERBS —</text>
+<text x="240" y="224" text-anchor="middle" class="Ld" >जहाँ चाह वहाँ राह।</text>
+<text x="240" y="236" text-anchor="middle" class="Lx" >Jahaan chaah wahaan raah.</text>
+<text x="240" y="245" text-anchor="middle" class="Ls" >"Where there is will, there is a way."</text>
+<text x="240" y="255" text-anchor="middle" class="Ld" >अकेला चना भाड़ नहीं फोड़ सकता।</text>
+<text x="240" y="267" text-anchor="middle" class="Lx" >Akela chana bhaad nahin phod sakta.</text>
+<text x="240" y="276" text-anchor="middle" class="Ls" >"A single grain cannot burst the roasting pan." — on the need for collective action.</text>
+<line x1="20" y1="284" x2="460" y2="284" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H" >— PASSAGE 4 — JANA GANA MANA (TAGORE, 1911) —</text>
+<text x="240" y="303" text-anchor="middle" class="Ld" >जन गण मन अधिनायक जय हे</text>
+<text x="240" y="315" text-anchor="middle" class="Lx" >Jana gana mana adhinaayak jaya he</text>
+<text x="240" y="324" text-anchor="middle" class="Lx" >People mind ruler  victory  O</text>
+<text x="240" y="333" text-anchor="middle" class="Ls" >"O ruler of the minds of all people, victory to you" — opening line of India's national anthem.</text>
+<text x="240" y="342" text-anchor="middle" class="Ls" >Originally written in Bengali by Rabindranath Tagore; Hindi/Sanskrit version adopted as national anthem 1950.</text>
+<line x1="20" y1="350" x2="460" y2="350" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H" >— BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="371" text-anchor="middle" class="Lds" >यह संदेश आपके लिए, मुफ़्त में, उन लोगों द्वारा बनाया गया जो भविष्य को याद करते थे।</text>
+<text x="240" y="384" text-anchor="middle" class="Lx" >Yah sandesh aapke liye, muft mein, un logon dvaara banaaya gaya jo bhavishya ko yaad karte the.</text>
+<text x="240" y="393" text-anchor="middle" class="Lx" >This message  your   for   free  in   those people by      made   was  who  future  ACC memory did</text>
+<text x="240" y="402" text-anchor="middle" class="Ls" >"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="419" text-anchor="middle" class="H" >— LANGUAGE NOTE — "FUTURE" IN HINDI —</text>
+<text x="240" y="430" text-anchor="middle" class="L" >भविष्य (bhavishya): "future" — from Sanskrit bhavishyat "that which will be/become" (participial future of bhu "to be")</text>
+<text x="240" y="440" text-anchor="middle" class="Ls" >याद (yaad): "memory/remembrance" — from Persian/Urdu yad. Hindi freely blends Sanskrit and Persian vocabulary.</text>
+<text x="240" y="450" text-anchor="middle" class="Ls" >The phrase याद करना (yaad karna) = "to remember" (lit. "to do memory") — compound verb construction.</text>
+<text x="240" y="460" text-anchor="middle" class="Ls" >मुफ़्त (muft): "free of cost" — from Persian/Arabic. Contrast: स्वतंत्र (svatantra) = "free" (independent).</text>
+<text x="240" y="470" text-anchor="middle" class="Ls" >आप (aap): honorific "you" — same word as Urdu aap. Used for respectful address.</text>
+<line x1="20" y1="479" x2="460" y2="479" stroke="black" stroke-width="0.3"/>
+<text x="240" y="488" text-anchor="middle" class="H" >— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="499" text-anchor="middle" class="Ls" >Hindi is written in Devanagari, reading left to right. Consult Plate 25A for the full syllabary.</text>
+<text x="240" y="508" text-anchor="middle" class="Ls" >Hindi is the official language of India (alongside English); spoken by ~600 million total.</text>
+<text x="240" y="517" text-anchor="middle" class="Ls" >It is part of the Indo-Aryan branch of Indo-European — a distant relative of English, Latin, and Persian.</text>
+<text x="240" y="526" text-anchor="middle" class="Ls" >Urdu (spoken form identical) is written in Nastaliq script; the two are officially separate languages.</text>
+<text x="240" y="535" text-anchor="middle" class="Ls" >Sanskrit, the classical ancestor, is still used in ritual, scholarship, and as a source of new vocabulary.</text>
+<text x="240" y="544" text-anchor="middle" class="Ls" >The Devanagari alphabet encodes phonetic distinctions (aspiration, retroflexion) absent in most world scripts.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 25 · HINDI · PLATE D · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

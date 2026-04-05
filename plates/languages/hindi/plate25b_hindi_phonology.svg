@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Ld { font-size:13px; }
+  .Lds{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HINDI — PHONOLOGY · SOUND SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 25B OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— HINDI PHONOLOGY — INDO-ARYAN BRANCH —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Hindi (Modern Standard Hindi, MSH) is the official language of India. ~600 million speakers total.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Descended from Sanskrit via Prakrits and Apabhramsha. Closely related to Urdu (same spoken form, different script).</text>
+<line x1="20" y1="97" x2="460" y2="97" stroke="black" stroke-width="0.3"/>
+<text x="240" y="106" text-anchor="middle" class="H" >— VOWEL SYSTEM — 10 ORAL + 5 NASAL VOWELS —</text>
+<text x="50" y="116" text-anchor="middle" class="Lx" >IPA</text>
+<text x="95" y="116" text-anchor="middle" class="Lx" >Letter</text>
+<text x="140" y="116" text-anchor="middle" class="Lx" >Translit</text>
+<text x="330" y="116" text-anchor="middle" class="Lx" >Quality</text>
+<text x="50" y="125" text-anchor="middle" class="Lx" >/ɐ/</text>
+<text x="95" y="125" text-anchor="middle" class="Lds" >अ</text>
+<text x="140" y="125" text-anchor="middle" class="Lx" >a</text>
+<text x="320" y="125" text-anchor="middle" class="Lx" >short central, like "above" — inherent vowel</text>
+<text x="50" y="136" text-anchor="middle" class="Lx" >/ɑː/</text>
+<text x="95" y="136" text-anchor="middle" class="Lds" >आ</text>
+<text x="140" y="136" text-anchor="middle" class="Lx" >aa</text>
+<text x="320" y="136" text-anchor="middle" class="Lx" >long low back, like "father"</text>
+<text x="50" y="147" text-anchor="middle" class="Lx" >/ɪ/</text>
+<text x="95" y="147" text-anchor="middle" class="Lds" >इ</text>
+<text x="140" y="147" text-anchor="middle" class="Lx" >i</text>
+<text x="320" y="147" text-anchor="middle" class="Lx" >short high front, like "sit"</text>
+<text x="50" y="158" text-anchor="middle" class="Lx" >/iː/</text>
+<text x="95" y="158" text-anchor="middle" class="Lds" >ई</text>
+<text x="140" y="158" text-anchor="middle" class="Lx" >ii</text>
+<text x="320" y="158" text-anchor="middle" class="Lx" >long high front, like "see"</text>
+<text x="50" y="169" text-anchor="middle" class="Lx" >/ʊ/</text>
+<text x="95" y="169" text-anchor="middle" class="Lds" >उ</text>
+<text x="140" y="169" text-anchor="middle" class="Lx" >u</text>
+<text x="320" y="169" text-anchor="middle" class="Lx" >short high back rounded, like "put"</text>
+<text x="50" y="180" text-anchor="middle" class="Lx" >/uː/</text>
+<text x="95" y="180" text-anchor="middle" class="Lds" >ऊ</text>
+<text x="140" y="180" text-anchor="middle" class="Lx" >uu</text>
+<text x="320" y="180" text-anchor="middle" class="Lx" >long high back rounded, like "cool"</text>
+<text x="50" y="191" text-anchor="middle" class="Lx" >/eː/</text>
+<text x="95" y="191" text-anchor="middle" class="Lds" >ए</text>
+<text x="140" y="191" text-anchor="middle" class="Lx" >e</text>
+<text x="320" y="191" text-anchor="middle" class="Lx" >long mid front, like "late"</text>
+<text x="50" y="202" text-anchor="middle" class="Lx" >/ɛɪ/</text>
+<text x="95" y="202" text-anchor="middle" class="Lds" >ऐ</text>
+<text x="140" y="202" text-anchor="middle" class="Lx" >ai</text>
+<text x="320" y="202" text-anchor="middle" class="Lx" >diphthong — "aye"</text>
+<text x="50" y="213" text-anchor="middle" class="Lx" >/oː/</text>
+<text x="95" y="213" text-anchor="middle" class="Lds" >ओ</text>
+<text x="140" y="213" text-anchor="middle" class="Lx" >o</text>
+<text x="320" y="213" text-anchor="middle" class="Lx" >long mid back, like "go"</text>
+<text x="50" y="224" text-anchor="middle" class="Lx" >/ɔʊ/</text>
+<text x="95" y="224" text-anchor="middle" class="Lds" >औ</text>
+<text x="140" y="224" text-anchor="middle" class="Lx" >au</text>
+<text x="320" y="224" text-anchor="middle" class="Lx" >diphthong — "ow"</text>
+<text x="240" y="240" text-anchor="middle" class="Ls" >Nasal vowels: anusvara (ं) nasalizes any vowel — हाँ haan "yes" · आँख aankh "eye"</text>
+<line x1="20" y1="248" x2="460" y2="248" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H" >— CONSONANT SYSTEM — FOUR-WAY STOP CONTRAST —</text>
+<text x="240" y="268" text-anchor="middle" class="L" >Hindi has a four-way contrast in stops: voiceless unaspirated · voiceless aspirated · voiced unaspirated · voiced aspirated</text>
+<text x="240" y="278" text-anchor="middle" class="Ls" >This four-way distinction is rare in the world's languages. English has only two (voiceless/voiced).</text>
+<text x="40" y="288" text-anchor="middle" class="Lx" >Class</text>
+<text x="120" y="288" text-anchor="middle" class="Lx" >VL unaspirated</text>
+<text x="205" y="288" text-anchor="middle" class="Lx" >VL aspirated</text>
+<text x="300" y="288" text-anchor="middle" class="Lx" >Voiced unaspirated</text>
+<text x="395" y="288" text-anchor="middle" class="Lx" >Voiced aspirated</text>
+<text x="40" y="297" text-anchor="middle" class="Lx" >Velar</text>
+<text x="120" y="297" text-anchor="middle" class="Lds" >क /k/</text>
+<text x="205" y="297" text-anchor="middle" class="Lds" >ख /kh/</text>
+<text x="300" y="297" text-anchor="middle" class="Lds" >ग /ɡ/</text>
+<text x="395" y="297" text-anchor="middle" class="Lds" >घ /ɡʱ/</text>
+<text x="40" y="310" text-anchor="middle" class="Lx" >Palatal</text>
+<text x="120" y="310" text-anchor="middle" class="Lds" >च /tʃ/</text>
+<text x="205" y="310" text-anchor="middle" class="Lds" >छ /tʃʰ/</text>
+<text x="300" y="310" text-anchor="middle" class="Lds" >ज /dʒ/</text>
+<text x="395" y="310" text-anchor="middle" class="Lds" >झ /dʒʱ/</text>
+<text x="40" y="323" text-anchor="middle" class="Lx" >Retroflex</text>
+<text x="120" y="323" text-anchor="middle" class="Lds" >ट /ʈ/</text>
+<text x="205" y="323" text-anchor="middle" class="Lds" >ठ /ʈʰ/</text>
+<text x="300" y="323" text-anchor="middle" class="Lds" >ड /ɖ/</text>
+<text x="395" y="323" text-anchor="middle" class="Lds" >ढ /ɖʱ/</text>
+<text x="40" y="336" text-anchor="middle" class="Lx" >Dental</text>
+<text x="120" y="336" text-anchor="middle" class="Lds" >त /t̪/</text>
+<text x="205" y="336" text-anchor="middle" class="Lds" >थ /t̪ʰ/</text>
+<text x="300" y="336" text-anchor="middle" class="Lds" >द /d̪/</text>
+<text x="395" y="336" text-anchor="middle" class="Lds" >ध /d̪ʱ/</text>
+<text x="40" y="349" text-anchor="middle" class="Lx" >Labial</text>
+<text x="120" y="349" text-anchor="middle" class="Lds" >प /p/</text>
+<text x="205" y="349" text-anchor="middle" class="Lds" >फ /pʰ/</text>
+<text x="300" y="349" text-anchor="middle" class="Lds" >ब /b/</text>
+<text x="395" y="349" text-anchor="middle" class="Lds" >भ /bʱ/</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="0.3"/>
+<text x="240" y="375" text-anchor="middle" class="H" >— RETROFLEX CONSONANTS — A KEY FEATURE —</text>
+<text x="240" y="386" text-anchor="middle" class="L" >Retroflex consonants are produced with the tongue tip curled back to the hard palate — distinctive in Hindi.</text>
+<text x="240" y="396" text-anchor="middle" class="Ls" >ट /ʈ/, ठ /ʈʰ/, ड /ɖ/, ढ /ɖʱ/, ण /ɳ/ — not found in European languages.</text>
+<text x="240" y="405" text-anchor="middle" class="Ls" >Retroflex vs. dental minimal pair: ताल taal "rhythm" /t̪aːl/ vs. टाल taal "to avoid" /ʈaːl/</text>
+<line x1="20" y1="413" x2="460" y2="413" stroke="black" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="H" >— STRESS, TONE, AND NASALIZATION —</text>
+<text x="240" y="433" text-anchor="middle" class="L" >Hindi has no lexical tone (unlike many neighboring languages). Stress is not strongly phonemic.</text>
+<text x="240" y="443" text-anchor="middle" class="Ls" >Stress falls on the first heavy syllable — a syllable is heavy if it contains a long vowel or ends in a consonant.</text>
+<text x="240" y="452" text-anchor="middle" class="Ls" >Schwa deletion: the final schwa /ə/ of words is often deleted in careful speech — kaam /kaːm/, not /kaːmə/</text>
+<text x="240" y="461" text-anchor="middle" class="Ls" >Schwa deletion is complex — depends on syllable structure and morpheme boundaries.</text>
+<line x1="20" y1="469" x2="460" y2="469" stroke="black" stroke-width="0.3"/>
+<text x="240" y="478" text-anchor="middle" class="H" >— KEY PHONOLOGICAL FEATURES —</text>
+<text x="240" y="489" text-anchor="middle" class="Ls" >Aspirated voiced stops (/bʱ/, /dʱ/, /ɡʱ/) are typologically rare and mark Hindi/Urdu from most world languages.</text>
+<text x="240" y="498" text-anchor="middle" class="Ls" >Trill /r/ (like Spanish) in careful speech; tap [ɾ] common in casual speech. Retroflex tap [ɽ] also present.</text>
+<text x="240" y="507" text-anchor="middle" class="Ls" >/v/ and /w/ are allophones — /v/ between vowels, /w/ elsewhere in standard Hindi.</text>
+<text x="240" y="516" text-anchor="middle" class="Ls" >Urdu vs. Hindi phonology: identical. Urdu adds Persian/Arabic sounds /q/, /x/, /ɣ/, /z/ in loanwords.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 25 · HINDI · PLATE B · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

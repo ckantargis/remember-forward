@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Ld { font-size:13px; }
+  .Lds{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HINDI — GRAMMAR · VOCABULARY</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 25C OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— SOV LANGUAGE — POSTPOSITIONS, SPLIT ERGATIVITY —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Hindi is SOV (Subject–Object–Verb). Verb comes last. Postpositions follow their noun phrases.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Two genders: masculine and feminine. No neuter. Adjectives agree in gender and number.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >मैं सेब खाता हूँ। (main seb khaata hun.) "I eat an apple." — SBJ OBJ VERB-M-PRES AUX</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— POSTPOSITIONS — CASE MARKERS —</text>
+<text x="240" y="126" text-anchor="middle" class="Ls" >Hindi uses POSTPOSITIONS (after noun) not prepositions. They take the oblique case of the noun.</text>
+<text x="90" y="135" text-anchor="middle" class="Lds" >में / mein</text>
+<text x="200" y="135" text-anchor="middle" class="Lx" >in, inside</text>
+<text x="370" y="135" text-anchor="middle" class="Lx" >घर में ghar mein "in the house"</text>
+<text x="90" y="147" text-anchor="middle" class="Lds" >पर / par</text>
+<text x="200" y="147" text-anchor="middle" class="Lx" >on, at, upon</text>
+<text x="370" y="147" text-anchor="middle" class="Lx" >मेज़ पर mez par "on the table"</text>
+<text x="90" y="159" text-anchor="middle" class="Lds" >को / ko</text>
+<text x="200" y="159" text-anchor="middle" class="Lx" >to, for (dative/acc)</text>
+<text x="370" y="159" text-anchor="middle" class="Lx" >मुझको mujhko "to me"</text>
+<text x="90" y="171" text-anchor="middle" class="Lds" >का/के/की / ka</text>
+<text x="200" y="171" text-anchor="middle" class="Lx" >of, possessive</text>
+<text x="370" y="171" text-anchor="middle" class="Lx" >राम का घर Ram ka ghar "Ram's house"</text>
+<text x="90" y="183" text-anchor="middle" class="Lds" >से / se</text>
+<text x="200" y="183" text-anchor="middle" class="Lx" >from, by, with</text>
+<text x="370" y="183" text-anchor="middle" class="Lx" >दिल्ली से Dilli se "from Delhi"</text>
+<text x="90" y="195" text-anchor="middle" class="Lds" >के लिए / ke liye</text>
+<text x="200" y="195" text-anchor="middle" class="Lx" >for (purpose)</text>
+<text x="370" y="195" text-anchor="middle" class="Lx" >तुम्हारे लिए tumhare liye "for you"</text>
+<text x="90" y="207" text-anchor="middle" class="Lds" >के साथ / ke saath</text>
+<text x="200" y="207" text-anchor="middle" class="Lx" >with, together with</text>
+<text x="370" y="207" text-anchor="middle" class="Lx" >मेरे साथ mere saath "with me"</text>
+<text x="90" y="219" text-anchor="middle" class="Lds" >तक / tak</text>
+<text x="200" y="219" text-anchor="middle" class="Lx" >until, up to</text>
+<text x="370" y="219" text-anchor="middle" class="Lx" >कल तक kal tak "until tomorrow"</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="black" stroke-width="0.3"/>
+<text x="240" y="243" text-anchor="middle" class="H" >— VERB CONJUGATION — करना "to do" (karna) —</text>
+<text x="240" y="253" text-anchor="middle" class="Ls" >Hindi verbs agree with subject in gender, number, and person. Auxiliary verb है/हैं added for present.</text>
+<text x="35" y="263" text-anchor="middle" class="Lx" >Subj</text>
+<text x="75" y="263" text-anchor="middle" class="Lx" >Translit</text>
+<text x="130" y="263" text-anchor="middle" class="Lx" >Person</text>
+<text x="210" y="263" text-anchor="middle" class="Lds" >Verb form</text>
+<text x="315" y="263" text-anchor="middle" class="Lx" >Translit</text>
+<text x="415" y="263" text-anchor="middle" class="Lx" >Gloss</text>
+<text x="35" y="272" text-anchor="middle" class="Lds" >मैं</text>
+<text x="75" y="272" text-anchor="middle" class="Lx" >main</text>
+<text x="130" y="272" text-anchor="middle" class="Lx" >1sg M</text>
+<text x="210" y="272" text-anchor="middle" class="Lds" >करता हूँ</text>
+<text x="330" y="272" text-anchor="middle" class="Lx" >karta hun</text>
+<text x="430" y="272" text-anchor="start" class="Lx" >I do (masc)</text>
+<text x="35" y="283" text-anchor="middle" class="Lds" >मैं</text>
+<text x="75" y="283" text-anchor="middle" class="Lx" >main</text>
+<text x="130" y="283" text-anchor="middle" class="Lx" >1sg F</text>
+<text x="210" y="283" text-anchor="middle" class="Lds" >करती हूँ</text>
+<text x="330" y="283" text-anchor="middle" class="Lx" >karti hun</text>
+<text x="430" y="283" text-anchor="start" class="Lx" >I do (fem)</text>
+<text x="35" y="294" text-anchor="middle" class="Lds" >तुम</text>
+<text x="75" y="294" text-anchor="middle" class="Lx" >tum</text>
+<text x="130" y="294" text-anchor="middle" class="Lx" >2pl inf</text>
+<text x="210" y="294" text-anchor="middle" class="Lds" >करते हो</text>
+<text x="330" y="294" text-anchor="middle" class="Lx" >karte ho</text>
+<text x="430" y="294" text-anchor="start" class="Lx" >you do (masc)</text>
+<text x="35" y="305" text-anchor="middle" class="Lds" >वह</text>
+<text x="75" y="305" text-anchor="middle" class="Lx" >vah</text>
+<text x="130" y="305" text-anchor="middle" class="Lx" >3sg M</text>
+<text x="210" y="305" text-anchor="middle" class="Lds" >करता है</text>
+<text x="330" y="305" text-anchor="middle" class="Lx" >karta hai</text>
+<text x="430" y="305" text-anchor="start" class="Lx" >he does</text>
+<text x="35" y="316" text-anchor="middle" class="Lds" >वह</text>
+<text x="75" y="316" text-anchor="middle" class="Lx" >vah</text>
+<text x="130" y="316" text-anchor="middle" class="Lx" >3sg F</text>
+<text x="210" y="316" text-anchor="middle" class="Lds" >करती है</text>
+<text x="330" y="316" text-anchor="middle" class="Lx" >karti hai</text>
+<text x="430" y="316" text-anchor="start" class="Lx" >she does</text>
+<text x="35" y="327" text-anchor="middle" class="Lds" >हम</text>
+<text x="75" y="327" text-anchor="middle" class="Lx" >ham</text>
+<text x="130" y="327" text-anchor="middle" class="Lx" >1pl</text>
+<text x="210" y="327" text-anchor="middle" class="Lds" >करते हैं</text>
+<text x="330" y="327" text-anchor="middle" class="Lx" >karte hain</text>
+<text x="430" y="327" text-anchor="start" class="Lx" >we do (masc)</text>
+<text x="35" y="338" text-anchor="middle" class="Lds" >वे</text>
+<text x="75" y="338" text-anchor="middle" class="Lx" >ve</text>
+<text x="130" y="338" text-anchor="middle" class="Lx" >3pl</text>
+<text x="210" y="338" text-anchor="middle" class="Lds" >करते हैं</text>
+<text x="330" y="338" text-anchor="middle" class="Lx" >karte hain</text>
+<text x="430" y="338" text-anchor="start" class="Lx" >they do (masc)</text>
+<text x="240" y="352" text-anchor="middle" class="Ls" >Past: simple past uses perfective participle — मैंने किया (maine kiya) "I did"</text>
+<text x="240" y="361" text-anchor="middle" class="Ls" >Ergative: in perfective past, transitive subject takes ने (ne) — split ergativity</text>
+<line x1="20" y1="369" x2="460" y2="369" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H" >— CORE VOCABULARY — 25 WORDS —</text>
+<text x="40" y="388" text-anchor="middle" class="Lds" >हाँ / नहीं</text>
+<text x="155" y="388" text-anchor="middle" class="Lx" >haan / nahin</text>
+<text x="250" y="388" text-anchor="middle" class="Lx" >yes / no</text>
+<text x="40" y="398" text-anchor="middle" class="Lds" >मैं / तुम / आप</text>
+<text x="155" y="398" text-anchor="middle" class="Lx" >main / tum / aap</text>
+<text x="250" y="398" text-anchor="middle" class="Lx" >I / you (inf) / you (formal)</text>
+<text x="40" y="408" text-anchor="middle" class="Lds" >यह / वह</text>
+<text x="155" y="408" text-anchor="middle" class="Lx" >yah / vah</text>
+<text x="250" y="408" text-anchor="middle" class="Lx" >this / that</text>
+<text x="40" y="418" text-anchor="middle" class="Lds" >कहाँ</text>
+<text x="155" y="418" text-anchor="middle" class="Lx" >kahaan</text>
+<text x="250" y="418" text-anchor="middle" class="Lx" >where</text>
+<text x="40" y="428" text-anchor="middle" class="Lds" >क्या</text>
+<text x="155" y="428" text-anchor="middle" class="Lx" >kya</text>
+<text x="250" y="428" text-anchor="middle" class="Lx" >what</text>
+<text x="40" y="438" text-anchor="middle" class="Lds" >कौन</text>
+<text x="155" y="438" text-anchor="middle" class="Lx" >kaun</text>
+<text x="250" y="438" text-anchor="middle" class="Lx" >who</text>
+<text x="40" y="448" text-anchor="middle" class="Lds" >कब</text>
+<text x="155" y="448" text-anchor="middle" class="Lx" >kab</text>
+<text x="250" y="448" text-anchor="middle" class="Lx" >when</text>
+<text x="40" y="458" text-anchor="middle" class="Lds" >क्यों</text>
+<text x="155" y="458" text-anchor="middle" class="Lx" >kyun</text>
+<text x="250" y="458" text-anchor="middle" class="Lx" >why</text>
+<text x="40" y="468" text-anchor="middle" class="Lds" >पानी</text>
+<text x="155" y="468" text-anchor="middle" class="Lx" >paani</text>
+<text x="250" y="468" text-anchor="middle" class="Lx" >water</text>
+<text x="40" y="478" text-anchor="middle" class="Lds" >आग</text>
+<text x="155" y="478" text-anchor="middle" class="Lx" >aag</text>
+<text x="250" y="478" text-anchor="middle" class="Lx" >fire</text>
+<text x="40" y="488" text-anchor="middle" class="Lds" >ज़मीन</text>
+<text x="155" y="488" text-anchor="middle" class="Lx" >zameen</text>
+<text x="250" y="488" text-anchor="middle" class="Lx" >earth/ground</text>
+<text x="40" y="498" text-anchor="middle" class="Lds" >इंसान</text>
+<text x="155" y="498" text-anchor="middle" class="Lx" >insaan</text>
+<text x="250" y="498" text-anchor="middle" class="Lx" >human being</text>
+<text x="40" y="508" text-anchor="middle" class="Lds" >किताब</text>
+<text x="155" y="508" text-anchor="middle" class="Lx" >kitaab</text>
+<text x="250" y="508" text-anchor="middle" class="Lx" >book</text>
+<text x="265" y="388" text-anchor="middle" class="Lds" >समय</text>
+<text x="380" y="388" text-anchor="middle" class="Lx" >samay</text>
+<text x="465" y="388" text-anchor="middle" class="Lx" >time</text>
+<text x="265" y="398" text-anchor="middle" class="Lds" >चाँद</text>
+<text x="380" y="398" text-anchor="middle" class="Lx" >chaand</text>
+<text x="465" y="398" text-anchor="middle" class="Lx" >moon</text>
+<text x="265" y="408" text-anchor="middle" class="Lds" >तारा</text>
+<text x="380" y="408" text-anchor="middle" class="Lx" >taara</text>
+<text x="465" y="408" text-anchor="middle" class="Lx" >star</text>
+<text x="265" y="418" text-anchor="middle" class="Lds" >दिल</text>
+<text x="380" y="418" text-anchor="middle" class="Lx" >dil</text>
+<text x="465" y="418" text-anchor="middle" class="Lx" >heart</text>
+<text x="265" y="428" text-anchor="middle" class="Lds" >प्यार</text>
+<text x="380" y="428" text-anchor="middle" class="Lx" >pyaar</text>
+<text x="465" y="428" text-anchor="middle" class="Lx" >love</text>
+<text x="265" y="438" text-anchor="middle" class="Lds" >आज़ादी</text>
+<text x="380" y="438" text-anchor="middle" class="Lx" >aazaadi</text>
+<text x="465" y="438" text-anchor="middle" class="Lx" >freedom</text>
+<text x="265" y="448" text-anchor="middle" class="Lds" >याद</text>
+<text x="380" y="448" text-anchor="middle" class="Lx" >yaad</text>
+<text x="465" y="448" text-anchor="middle" class="Lx" >memory</text>
+<text x="265" y="458" text-anchor="middle" class="Lds" >भविष्य</text>
+<text x="380" y="458" text-anchor="middle" class="Lx" >bhavishya</text>
+<text x="465" y="458" text-anchor="middle" class="Lx" >future</text>
+<text x="265" y="468" text-anchor="middle" class="Lds" >दुनिया</text>
+<text x="380" y="468" text-anchor="middle" class="Lx" >duniya</text>
+<text x="465" y="468" text-anchor="middle" class="Lx" >world</text>
+<text x="265" y="478" text-anchor="middle" class="Lds" >अच्छा / बुरा</text>
+<text x="380" y="478" text-anchor="middle" class="Lx" >achhaa / buraa</text>
+<text x="465" y="478" text-anchor="middle" class="Lx" >good / bad</text>
+<text x="265" y="488" text-anchor="middle" class="Lds" >सब कुछ</text>
+<text x="380" y="488" text-anchor="middle" class="Lx" >sab kuchh</text>
+<text x="465" y="488" text-anchor="middle" class="Lx" >everything</text>
+<text x="265" y="498" text-anchor="middle" class="Lds" >ज़िन्दगी</text>
+<text x="380" y="498" text-anchor="middle" class="Lx" >zindagi</text>
+<text x="465" y="498" text-anchor="middle" class="Lx" >life</text>
+<line x1="20" y1="522" x2="460" y2="522" stroke="black" stroke-width="0.3"/>
+<text x="240" y="531" text-anchor="middle" class="H" >— HINDI AND URDU — ONE SPOKEN LANGUAGE, TWO SCRIPTS —</text>
+<text x="240" y="542" text-anchor="middle" class="L" >Spoken Hindi and Urdu are mutually intelligible — the same colloquial language (Hindustani).</text>
+<text x="240" y="552" text-anchor="middle" class="Ls" >They diverge in formal registers: Hindi draws vocabulary from Sanskrit; Urdu from Persian and Arabic.</text>
+<text x="240" y="561" text-anchor="middle" class="Ls" >Hindi is written in Devanagari (left to right). Urdu is written in Nastaliq (Perso-Arabic, right to left).</text>
+<text x="240" y="570" text-anchor="middle" class="Ls" >Together, Hindi and Urdu represent the 3rd most spoken language group in the world: ~700 million speakers.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 25 · HINDI · PLATE C · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

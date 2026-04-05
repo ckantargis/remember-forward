@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T  { font-size:12px; font-weight:bold; letter-spacing:2px; }
+  .S  { font-size:7px; letter-spacing:1.5px; }
+  .H  { font-size:6.5px; font-weight:bold; letter-spacing:2.5px; }
+  .L  { font-size:7px; }
+  .Ls { font-size:6px; }
+  .Lx { font-size:5.5px; }
+  .Ld { font-size:13px; }
+  .Lds{ font-size:10px; }
+  .M  { font-size:6px; letter-spacing:1px; }
+  .F  { font-size:7px; font-style:italic; }
+  .Fb { font-size:7.5px; font-weight:bold; }
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T" >HINDI — SCRIPT · WRITING SYSTEM</text>
+<text x="240" y="50" text-anchor="middle" class="S" >SERIES 25A OF 50 · REMEMBER FORWARD</text>
+<line x1="20" y1="58" x2="460" y2="58" stroke="black" stroke-width="0.3"/>
+<text x="240" y="68" text-anchor="middle" class="H" >— DEVANAGARI SCRIPT — AN ABUGIDA —</text>
+<text x="240" y="79" text-anchor="middle" class="L" >Hindi is written in Devanagari (देवनागरी) — an abugida: each consonant carries an inherent /a/ vowel.</text>
+<text x="240" y="89" text-anchor="middle" class="Ls" >Vowels are modified by diacritic marks (matras) attached to consonants. Left to right, top to bottom.</text>
+<text x="240" y="98" text-anchor="middle" class="Ls" >The horizontal line (shirorekha) across the top connects letters into words — a distinctive visual feature.</text>
+<line x1="20" y1="106" x2="460" y2="106" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H" >— VOWELS — 11 INDEPENDENT FORMS + MATRA MARKS —</text>
+<text x="35" y="125" text-anchor="middle" class="Ld" >अ</text>
+<text x="70" y="125" text-anchor="middle" class="Lx" >a</text>
+<text x="110" y="125" text-anchor="middle" class="Lx" >/ɐ/</text>
+<text x="310" y="125" text-anchor="middle" class="Lx" >inherent vowel (not written as matra)</text>
+<text x="35" y="137" text-anchor="middle" class="Ld" >आ</text>
+<text x="70" y="137" text-anchor="middle" class="Lx" >aa</text>
+<text x="110" y="137" text-anchor="middle" class="Lx" >/ɑː/</text>
+<text x="310" y="137" text-anchor="middle" class="Lx" >long a — ा as matra: क + ा = का</text>
+<text x="35" y="149" text-anchor="middle" class="Ld" >इ</text>
+<text x="70" y="149" text-anchor="middle" class="Lx" >i</text>
+<text x="110" y="149" text-anchor="middle" class="Lx" >/ɪ/</text>
+<text x="310" y="149" text-anchor="middle" class="Lx" >short i — ि as matra: क + ि = कि</text>
+<text x="35" y="161" text-anchor="middle" class="Ld" >ई</text>
+<text x="70" y="161" text-anchor="middle" class="Lx" >ii</text>
+<text x="110" y="161" text-anchor="middle" class="Lx" >/iː/</text>
+<text x="310" y="161" text-anchor="middle" class="Lx" >long i — ी as matra: क + ी = की</text>
+<text x="35" y="173" text-anchor="middle" class="Ld" >उ</text>
+<text x="70" y="173" text-anchor="middle" class="Lx" >u</text>
+<text x="110" y="173" text-anchor="middle" class="Lx" >/ʊ/</text>
+<text x="310" y="173" text-anchor="middle" class="Lx" >short u — ु as matra: क + ु = कु</text>
+<text x="35" y="185" text-anchor="middle" class="Ld" >ऊ</text>
+<text x="70" y="185" text-anchor="middle" class="Lx" >uu</text>
+<text x="110" y="185" text-anchor="middle" class="Lx" >/uː/</text>
+<text x="310" y="185" text-anchor="middle" class="Lx" >long u — ू as matra: क + ू = कू</text>
+<text x="35" y="197" text-anchor="middle" class="Ld" >ए</text>
+<text x="70" y="197" text-anchor="middle" class="Lx" >e</text>
+<text x="110" y="197" text-anchor="middle" class="Lx" >/eː/</text>
+<text x="310" y="197" text-anchor="middle" class="Lx" >long e — े as matra: क + े = के</text>
+<text x="35" y="209" text-anchor="middle" class="Ld" >ऐ</text>
+<text x="70" y="209" text-anchor="middle" class="Lx" >ai</text>
+<text x="110" y="209" text-anchor="middle" class="Lx" >/əɪ/</text>
+<text x="310" y="209" text-anchor="middle" class="Lx" >diphthong — ै as matra: क + ै = कै</text>
+<text x="35" y="221" text-anchor="middle" class="Ld" >ओ</text>
+<text x="70" y="221" text-anchor="middle" class="Lx" >o</text>
+<text x="110" y="221" text-anchor="middle" class="Lx" >/oː/</text>
+<text x="310" y="221" text-anchor="middle" class="Lx" >long o — ो as matra: क + ो = को</text>
+<text x="35" y="233" text-anchor="middle" class="Ld" >औ</text>
+<text x="70" y="233" text-anchor="middle" class="Lx" >au</text>
+<text x="110" y="233" text-anchor="middle" class="Lx" >/əʊ/</text>
+<text x="310" y="233" text-anchor="middle" class="Lx" >diphthong — ौ as matra: क + ौ = कौ</text>
+<text x="35" y="245" text-anchor="middle" class="Ld" >ऋ</text>
+<text x="70" y="245" text-anchor="middle" class="Lx" >ri</text>
+<text x="110" y="245" text-anchor="middle" class="Lx" >/rɪ/</text>
+<text x="310" y="245" text-anchor="middle" class="Lx" >vocalic r — ृ as matra: क + ृ = कृ</text>
+<line x1="20" y1="259" x2="460" y2="259" stroke="black" stroke-width="0.3"/>
+<text x="240" y="268" text-anchor="middle" class="H" >— CONSONANTS — 33 + ORGANIZED BY PLACE OF ARTICULATION —</text>
+<text x="240" y="278" text-anchor="middle" class="Lx" >Devanagari consonants are systematically ordered by phonetic class — a unique feature of Indian scripts.</text>
+<text x="40" y="288" text-anchor="middle" class="Lx" >Class</text>
+<text x="120" y="288" text-anchor="middle" class="Lx" >stop1</text>
+<text x="190" y="288" text-anchor="middle" class="Lx" >asp1</text>
+<text x="260" y="288" text-anchor="middle" class="Lx" >stop2</text>
+<text x="330" y="288" text-anchor="middle" class="Lx" >asp2</text>
+<text x="400" y="288" text-anchor="middle" class="Lx" >nasal</text>
+<text x="40" y="297" text-anchor="middle" class="Lx" >Velar</text>
+<text x="120" y="294" text-anchor="middle" class="Lds" >क</text>
+<text x="120" y="302" text-anchor="middle" class="Lx" >ka</text>
+<text x="190" y="294" text-anchor="middle" class="Lds" >ख</text>
+<text x="190" y="302" text-anchor="middle" class="Lx" >kha</text>
+<text x="260" y="294" text-anchor="middle" class="Lds" >ग</text>
+<text x="260" y="302" text-anchor="middle" class="Lx" >ga</text>
+<text x="330" y="294" text-anchor="middle" class="Lds" >घ</text>
+<text x="330" y="302" text-anchor="middle" class="Lx" >gha</text>
+<text x="400" y="294" text-anchor="middle" class="Lds" >ङ</text>
+<text x="400" y="302" text-anchor="middle" class="Lx" >nga</text>
+<text x="40" y="310" text-anchor="middle" class="Lx" >Palatal</text>
+<text x="120" y="307" text-anchor="middle" class="Lds" >च</text>
+<text x="120" y="315" text-anchor="middle" class="Lx" >ca</text>
+<text x="190" y="307" text-anchor="middle" class="Lds" >छ</text>
+<text x="190" y="315" text-anchor="middle" class="Lx" >cha</text>
+<text x="260" y="307" text-anchor="middle" class="Lds" >ज</text>
+<text x="260" y="315" text-anchor="middle" class="Lx" >ja</text>
+<text x="330" y="307" text-anchor="middle" class="Lds" >झ</text>
+<text x="330" y="315" text-anchor="middle" class="Lx" >jha</text>
+<text x="400" y="307" text-anchor="middle" class="Lds" >ञ</text>
+<text x="400" y="315" text-anchor="middle" class="Lx" >nya</text>
+<text x="40" y="323" text-anchor="middle" class="Lx" >Retroflex</text>
+<text x="120" y="320" text-anchor="middle" class="Lds" >ट</text>
+<text x="120" y="328" text-anchor="middle" class="Lx" >ta</text>
+<text x="190" y="320" text-anchor="middle" class="Lds" >ठ</text>
+<text x="190" y="328" text-anchor="middle" class="Lx" >tha</text>
+<text x="260" y="320" text-anchor="middle" class="Lds" >ड</text>
+<text x="260" y="328" text-anchor="middle" class="Lx" >da</text>
+<text x="330" y="320" text-anchor="middle" class="Lds" >ढ</text>
+<text x="330" y="328" text-anchor="middle" class="Lx" >dha</text>
+<text x="400" y="320" text-anchor="middle" class="Lds" >ण</text>
+<text x="400" y="328" text-anchor="middle" class="Lx" >na</text>
+<text x="40" y="336" text-anchor="middle" class="Lx" >Dental</text>
+<text x="120" y="333" text-anchor="middle" class="Lds" >त</text>
+<text x="120" y="341" text-anchor="middle" class="Lx" >ta</text>
+<text x="190" y="333" text-anchor="middle" class="Lds" >थ</text>
+<text x="190" y="341" text-anchor="middle" class="Lx" >tha</text>
+<text x="260" y="333" text-anchor="middle" class="Lds" >द</text>
+<text x="260" y="341" text-anchor="middle" class="Lx" >da</text>
+<text x="330" y="333" text-anchor="middle" class="Lds" >ध</text>
+<text x="330" y="341" text-anchor="middle" class="Lx" >dha</text>
+<text x="400" y="333" text-anchor="middle" class="Lds" >न</text>
+<text x="400" y="341" text-anchor="middle" class="Lx" >na</text>
+<text x="40" y="349" text-anchor="middle" class="Lx" >Labial</text>
+<text x="120" y="346" text-anchor="middle" class="Lds" >प</text>
+<text x="120" y="354" text-anchor="middle" class="Lx" >pa</text>
+<text x="190" y="346" text-anchor="middle" class="Lds" >फ</text>
+<text x="190" y="354" text-anchor="middle" class="Lx" >pha</text>
+<text x="260" y="346" text-anchor="middle" class="Lds" >ब</text>
+<text x="260" y="354" text-anchor="middle" class="Lx" >ba</text>
+<text x="330" y="346" text-anchor="middle" class="Lds" >भ</text>
+<text x="330" y="354" text-anchor="middle" class="Lx" >bha</text>
+<text x="400" y="346" text-anchor="middle" class="Lds" >म</text>
+<text x="400" y="354" text-anchor="middle" class="Lx" >ma</text>
+<text x="40" y="362" text-anchor="middle" class="Lx" >Semivow.</text>
+<text x="120" y="359" text-anchor="middle" class="Lds" >य</text>
+<text x="120" y="367" text-anchor="middle" class="Lx" >ya</text>
+<text x="190" y="359" text-anchor="middle" class="Lds" >र</text>
+<text x="190" y="367" text-anchor="middle" class="Lx" >ra</text>
+<text x="260" y="359" text-anchor="middle" class="Lds" >ल</text>
+<text x="260" y="367" text-anchor="middle" class="Lx" >la</text>
+<text x="330" y="359" text-anchor="middle" class="Lds" >व</text>
+<text x="330" y="367" text-anchor="middle" class="Lx" >va</text>
+<text x="40" y="375" text-anchor="middle" class="Lx" >Sibilant</text>
+<text x="120" y="372" text-anchor="middle" class="Lds" >श</text>
+<text x="120" y="380" text-anchor="middle" class="Lx" >sha</text>
+<text x="190" y="372" text-anchor="middle" class="Lds" >ष</text>
+<text x="190" y="380" text-anchor="middle" class="Lx" >sha</text>
+<text x="260" y="372" text-anchor="middle" class="Lds" >स</text>
+<text x="260" y="380" text-anchor="middle" class="Lx" >sa</text>
+<text x="40" y="388" text-anchor="middle" class="Lx" >Aspirate</text>
+<text x="120" y="385" text-anchor="middle" class="Lds" >ह</text>
+<text x="120" y="393" text-anchor="middle" class="Lx" >ha</text>
+<line x1="20" y1="406" x2="460" y2="406" stroke="black" stroke-width="0.3"/>
+<text x="240" y="415" text-anchor="middle" class="H" >— SPECIAL CONSONANTS AND CONJUNCTS —</text>
+<text x="240" y="426" text-anchor="middle" class="Ls" >Conjunct consonants (samyukta akshara): two consonants combine visually — क + ष = क्ष (ksha)</text>
+<text x="240" y="435" text-anchor="middle" class="Ls" >Halant (्): removes inherent vowel — क् = k (no vowel). Used to form conjuncts or end words with consonant.</text>
+<text x="240" y="444" text-anchor="middle" class="Ls" >Anusvara (ं): nasalizes vowel — संस्कृत Samskrit · anunasika (ँ): nasal quality</text>
+<text x="240" y="453" text-anchor="middle" class="Ls" >Visarga (ः): voiceless h after vowel — rare in modern Hindi, common in Sanskrit loans</text>
+<line x1="20" y1="461" x2="460" y2="461" stroke="black" stroke-width="0.3"/>
+<text x="240" y="470" text-anchor="middle" class="H" >— DEVANAGARI NUMERALS —</text>
+<text x="40" y="482" text-anchor="middle" class="Ld" >०</text>
+<text x="40" y="492" text-anchor="middle" class="Lx" >0</text>
+<text x="82" y="482" text-anchor="middle" class="Ld" >१</text>
+<text x="82" y="492" text-anchor="middle" class="Lx" >1</text>
+<text x="124" y="482" text-anchor="middle" class="Ld" >२</text>
+<text x="124" y="492" text-anchor="middle" class="Lx" >2</text>
+<text x="166" y="482" text-anchor="middle" class="Ld" >३</text>
+<text x="166" y="492" text-anchor="middle" class="Lx" >3</text>
+<text x="208" y="482" text-anchor="middle" class="Ld" >४</text>
+<text x="208" y="492" text-anchor="middle" class="Lx" >4</text>
+<text x="250" y="482" text-anchor="middle" class="Ld" >५</text>
+<text x="250" y="492" text-anchor="middle" class="Lx" >5</text>
+<text x="292" y="482" text-anchor="middle" class="Ld" >६</text>
+<text x="292" y="492" text-anchor="middle" class="Lx" >6</text>
+<text x="334" y="482" text-anchor="middle" class="Ld" >७</text>
+<text x="334" y="492" text-anchor="middle" class="Lx" >7</text>
+<text x="376" y="482" text-anchor="middle" class="Ld" >८</text>
+<text x="376" y="492" text-anchor="middle" class="Lx" >8</text>
+<text x="418" y="482" text-anchor="middle" class="Ld" >९</text>
+<text x="418" y="492" text-anchor="middle" class="Lx" >9</text>
+<text x="240" y="502" text-anchor="middle" class="Lx" >Modern Hindi uses both Devanagari numerals and Western Arabic (0–9) numerals interchangeably.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M" >SERIES 25 · HINDI · PLATE A · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb" >THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F" >BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
