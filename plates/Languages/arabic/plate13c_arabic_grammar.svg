@@ -1,0 +1,272 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .La{font-size:14px;}
+  .Lam{font-size:11px;}
+  .Las{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 13C  ·  ARABIC  ·  GRAMMAR AND VOCABULARY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">tri-consonantal roots · verb conjugation · dual number · broken plurals · Hebrew cognates</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE TRI-CONSONANTAL ROOT  ·  SAME SYSTEM AS HEBREW  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Arabic and Hebrew both build vocabulary from 3-letter roots  ·  same ancestral Semitic system</text>
+<rect x="22" y="83" width="436" height="54" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="240" y="93" text-anchor="middle" class="Ls">ك-ت-ب  K-T-B  ·  WRITING  ·  same root as Hebrew כ-ת-ב</text>
+<text x="60" y="104" text-anchor="middle" class="Las">كَتَبَ</text>
+<text x="60" y="113" text-anchor="middle" class="Lx">kataba</text>
+<text x="60" y="122" text-anchor="middle" class="Lx">he wrote</text>
+<text x="132" y="104" text-anchor="middle" class="Las">كِتَاب</text>
+<text x="132" y="113" text-anchor="middle" class="Lx">kitab</text>
+<text x="132" y="122" text-anchor="middle" class="Lx">book</text>
+<text x="204" y="104" text-anchor="middle" class="Las">كاتِب</text>
+<text x="204" y="113" text-anchor="middle" class="Lx">katib</text>
+<text x="204" y="122" text-anchor="middle" class="Lx">writer/scribe</text>
+<text x="276" y="104" text-anchor="middle" class="Las">مَكْتَب</text>
+<text x="276" y="113" text-anchor="middle" class="Lx">maktab</text>
+<text x="276" y="122" text-anchor="middle" class="Lx">office/desk</text>
+<text x="348" y="104" text-anchor="middle" class="Las">مكتبة</text>
+<text x="348" y="113" text-anchor="middle" class="Lx">maktaba</text>
+<text x="348" y="122" text-anchor="middle" class="Lx">library</text>
+<text x="420" y="104" text-anchor="middle" class="Las">مكتوب</text>
+<text x="420" y="113" text-anchor="middle" class="Lx">maktub</text>
+<text x="420" y="122" text-anchor="middle" class="Lx">written/letter</text>
+<line x1="22" y1="142" x2="458" y2="142" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="148" text-anchor="middle" class="H">— · —  VERB CONJUGATION  ·  PAST AND PRESENT  — · —</text>
+<line x1="22" y1="152" x2="458" y2="152" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="160" text-anchor="middle" class="Lx">Arabic verb: root + pattern  ·  suffix marks person/gender in past  ·  prefix/suffix in present</text>
+<rect x="22" y="164" width="210" height="80" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="164" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="173" text-anchor="middle" class="Lx">PAST  ·  كَتَبَ  kataba (wrote)</text>
+<text x="60" y="180" text-anchor="middle" class="Las">كَتَبَ</text>
+<text x="120" y="180" text-anchor="middle" class="Lx">kataba</text>
+<text x="195" y="180" text-anchor="middle" class="Lx">he wrote</text>
+<text x="60" y="192" text-anchor="middle" class="Las">كَتَبَتْ</text>
+<text x="120" y="192" text-anchor="middle" class="Lx">katabat</text>
+<text x="195" y="192" text-anchor="middle" class="Lx">she wrote</text>
+<text x="60" y="204" text-anchor="middle" class="Las">كَتَبْتُ</text>
+<text x="120" y="204" text-anchor="middle" class="Lx">katabtu</text>
+<text x="195" y="204" text-anchor="middle" class="Lx">I wrote</text>
+<text x="60" y="216" text-anchor="middle" class="Las">كَتَبنَا</text>
+<text x="120" y="216" text-anchor="middle" class="Lx">katabna</text>
+<text x="195" y="216" text-anchor="middle" class="Lx">we wrote</text>
+<text x="60" y="228" text-anchor="middle" class="Las">كَتَبوا</text>
+<text x="120" y="228" text-anchor="middle" class="Lx">katabu</text>
+<text x="195" y="228" text-anchor="middle" class="Lx">they (m) wrote</text>
+<rect x="248" y="164" width="210" height="80" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="164" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="173" text-anchor="middle" class="Lx">PRESENT  ·  يَكْتُبُ  yaktub (writes)</text>
+<text x="285" y="180" text-anchor="middle" class="Las">يَكْتُبُ</text>
+<text x="355" y="180" text-anchor="middle" class="Lx">yaktub</text>
+<text x="428" y="180" text-anchor="middle" class="Lx">he writes</text>
+<text x="285" y="192" text-anchor="middle" class="Las">تَكْتُبُ</text>
+<text x="355" y="192" text-anchor="middle" class="Lx">taktub</text>
+<text x="428" y="192" text-anchor="middle" class="Lx">she writes</text>
+<text x="285" y="204" text-anchor="middle" class="Las">أَكْتُبُ</text>
+<text x="355" y="204" text-anchor="middle" class="Lx">aktub</text>
+<text x="428" y="204" text-anchor="middle" class="Lx">I write</text>
+<text x="285" y="216" text-anchor="middle" class="Las">نَكْتُبُ</text>
+<text x="355" y="216" text-anchor="middle" class="Lx">naktub</text>
+<text x="428" y="216" text-anchor="middle" class="Lx">we write</text>
+<text x="285" y="228" text-anchor="middle" class="Las">يَكْتُبُونَ</text>
+<text x="355" y="228" text-anchor="middle" class="Lx">yaktubun</text>
+<text x="428" y="228" text-anchor="middle" class="Lx">they (m) write</text>
+<line x1="22" y1="250" x2="458" y2="250" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="256" text-anchor="middle" class="H">— · —  DUAL NUMBER  ·  BROKEN PLURALS  — · —</text>
+<line x1="22" y1="260" x2="458" y2="260" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="268" text-anchor="middle" class="Lx">Arabic has THREE numbers: singular, dual, plural  ·  dual adds -ayn/-an suffix</text>
+<rect x="22" y="272" width="136" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="50" y="282" text-anchor="middle" class="Las">كتاب</text>
+<text x="50" y="290" text-anchor="middle" class="Lx">kitab=book</text>
+<line x1="80" y1="284" x2="97" y2="284" stroke="#000" stroke-width="0.7"/><polygon points="97,283 100,284 97,285" fill="#000"/>
+<text x="130" y="282" text-anchor="middle" class="Las">كتابان</text>
+<text x="130" y="290" text-anchor="middle" class="Lx">kitaban=two books</text>
+<rect x="162" y="272" width="136" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="190" y="282" text-anchor="middle" class="Las">يد</text>
+<text x="190" y="290" text-anchor="middle" class="Lx">yad=hand</text>
+<line x1="220" y1="284" x2="237" y2="284" stroke="#000" stroke-width="0.7"/><polygon points="237,283 240,284 237,285" fill="#000"/>
+<text x="270" y="282" text-anchor="middle" class="Las">يدان</text>
+<text x="270" y="290" text-anchor="middle" class="Lx">yadan=two hands</text>
+<rect x="302" y="272" width="136" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="330" y="282" text-anchor="middle" class="Las">عين</text>
+<text x="330" y="290" text-anchor="middle" class="Lx">ain=eye</text>
+<line x1="360" y1="284" x2="377" y2="284" stroke="#000" stroke-width="0.7"/><polygon points="377,283 380,284 377,285" fill="#000"/>
+<text x="410" y="282" text-anchor="middle" class="Las">عينان</text>
+<text x="410" y="290" text-anchor="middle" class="Lx">ainan=two eyes</text>
+<text x="240" y="304" text-anchor="middle" class="Lx">BROKEN PLURALS: Arabic plurals often change the internal vowel pattern (not just add a suffix)</text>
+<rect x="22" y="308" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="44" y="318" text-anchor="middle" class="Las">كتاب</text>
+<text x="44" y="326" text-anchor="middle" class="Lx">kitab</text>
+<line x1="66" y1="318" x2="77" y2="318" stroke="#000" stroke-width="0.7"/><polygon points="77,317 80,318 77,319" fill="#000"/>
+<text x="100" y="318" text-anchor="middle" class="Las">كتب</text>
+<text x="100" y="326" text-anchor="middle" class="Lx">kutub</text>
+<rect x="127" y="308" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="149" y="318" text-anchor="middle" class="Las">بيت</text>
+<text x="149" y="326" text-anchor="middle" class="Lx">bayt</text>
+<line x1="171" y1="318" x2="182" y2="318" stroke="#000" stroke-width="0.7"/><polygon points="182,317 185,318 182,319" fill="#000"/>
+<text x="205" y="318" text-anchor="middle" class="Las">بيوت</text>
+<text x="205" y="326" text-anchor="middle" class="Lx">buyut</text>
+<rect x="232" y="308" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="254" y="318" text-anchor="middle" class="Las">رجل</text>
+<text x="254" y="326" text-anchor="middle" class="Lx">rajul</text>
+<line x1="276" y1="318" x2="287" y2="318" stroke="#000" stroke-width="0.7"/><polygon points="287,317 290,318 287,319" fill="#000"/>
+<text x="310" y="318" text-anchor="middle" class="Las">رجال</text>
+<text x="310" y="326" text-anchor="middle" class="Lx">rijal</text>
+<rect x="337" y="308" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="359" y="318" text-anchor="middle" class="Las">قلب</text>
+<text x="359" y="326" text-anchor="middle" class="Lx">qalb</text>
+<line x1="381" y1="318" x2="392" y2="318" stroke="#000" stroke-width="0.7"/><polygon points="392,317 395,318 392,319" fill="#000"/>
+<text x="415" y="318" text-anchor="middle" class="Las">قلوب</text>
+<text x="415" y="326" text-anchor="middle" class="Lx">qulub</text>
+<line x1="22" y1="341" x2="458" y2="341" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="347" text-anchor="middle" class="H">— · —  HEBREW-ARABIC COGNATES  ·  SISTER SEMITIC LANGUAGES  — · —</text>
+<line x1="22" y1="351" x2="458" y2="351" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="Lx">same Proto-Semitic ancestor  ·  many shared roots  ·  different but mutually illuminating</text>
+<rect x="22" y="363" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="42" y="373" text-anchor="middle" class="Las">سلام</text>
+<text x="42" y="381" text-anchor="middle" class="Lx">salam=peace</text>
+<text x="110" y="373" text-anchor="middle" class="Las">שלום</text>
+<text x="110" y="381" text-anchor="middle" class="Lx">shalom=peace</text>
+<line x1="76" y1="363" x2="76" y2="387" stroke="#000" stroke-width="0.3"/>
+<rect x="133" y="363" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="153" y="373" text-anchor="middle" class="Las">ماء</text>
+<text x="153" y="381" text-anchor="middle" class="Lx">ma'=water</text>
+<text x="221" y="373" text-anchor="middle" class="Las">מים</text>
+<text x="221" y="381" text-anchor="middle" class="Lx">mayim=water</text>
+<line x1="187" y1="363" x2="187" y2="387" stroke="#000" stroke-width="0.3"/>
+<rect x="244" y="363" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="264" y="373" text-anchor="middle" class="Las">بيت</text>
+<text x="264" y="381" text-anchor="middle" class="Lx">bayt=house</text>
+<text x="332" y="373" text-anchor="middle" class="Las">בית</text>
+<text x="332" y="381" text-anchor="middle" class="Lx">bayit=house</text>
+<line x1="298" y1="363" x2="298" y2="387" stroke="#000" stroke-width="0.3"/>
+<rect x="355" y="363" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="375" y="373" text-anchor="middle" class="Las">ابن</text>
+<text x="375" y="381" text-anchor="middle" class="Lx">ibn=son</text>
+<text x="443" y="373" text-anchor="middle" class="Las">בן</text>
+<text x="443" y="381" text-anchor="middle" class="Lx">ben=son</text>
+<line x1="409" y1="363" x2="409" y2="387" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="391" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="42" y="401" text-anchor="middle" class="Las">كتب</text>
+<text x="42" y="409" text-anchor="middle" class="Lx">kataba=wrote</text>
+<text x="110" y="401" text-anchor="middle" class="Las">כתב</text>
+<text x="110" y="409" text-anchor="middle" class="Lx">katav=wrote</text>
+<line x1="76" y1="391" x2="76" y2="415" stroke="#000" stroke-width="0.3"/>
+<rect x="133" y="391" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="153" y="401" text-anchor="middle" class="Las">عين</text>
+<text x="153" y="409" text-anchor="middle" class="Lx">ain=eye</text>
+<text x="221" y="401" text-anchor="middle" class="Las">עין</text>
+<text x="221" y="409" text-anchor="middle" class="Lx">ayin=eye/spring</text>
+<line x1="187" y1="391" x2="187" y2="415" stroke="#000" stroke-width="0.3"/>
+<rect x="244" y="391" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="264" y="401" text-anchor="middle" class="Las">شمس</text>
+<text x="264" y="409" text-anchor="middle" class="Lx">shams=sun</text>
+<text x="332" y="401" text-anchor="middle" class="Las">שמש</text>
+<text x="332" y="409" text-anchor="middle" class="Lx">shemesh=sun</text>
+<line x1="298" y1="391" x2="298" y2="415" stroke="#000" stroke-width="0.3"/>
+<rect x="355" y="391" width="108" height="24" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="375" y="401" text-anchor="middle" class="Las">أرض</text>
+<text x="375" y="409" text-anchor="middle" class="Lx">ard=earth</text>
+<text x="443" y="401" text-anchor="middle" class="Las">ארץ</text>
+<text x="443" y="409" text-anchor="middle" class="Lx">erets=earth</text>
+<line x1="409" y1="391" x2="409" y2="415" stroke="#000" stroke-width="0.3"/>
+<line x1="22" y1="422" x2="458" y2="422" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="428" text-anchor="middle" class="H">— · —  CORE VOCABULARY  ·  20 ESSENTIAL WORDS  — · —</text>
+<line x1="22" y1="432" x2="458" y2="432" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="436" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="42" y="448" text-anchor="middle" class="Las">الله</text>
+<text x="80" y="444" text-anchor="start" class="Lx">Allah</text>
+<text x="80" y="452" text-anchor="start" class="Lx">God</text>
+<rect x="125" y="436" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="145" y="448" text-anchor="middle" class="Las">رب</text>
+<text x="183" y="444" text-anchor="start" class="Lx">rabb</text>
+<text x="183" y="452" text-anchor="start" class="Lx">Lord</text>
+<rect x="228" y="436" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="248" y="448" text-anchor="middle" class="Las">إنسان</text>
+<text x="286" y="444" text-anchor="start" class="Lx">insan</text>
+<text x="286" y="452" text-anchor="start" class="Lx">human</text>
+<rect x="331" y="436" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="351" y="448" text-anchor="middle" class="Las">امرأة</text>
+<text x="389" y="444" text-anchor="start" class="Lx">imra'a</text>
+<text x="389" y="452" text-anchor="start" class="Lx">woman</text>
+<rect x="22" y="461" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="42" y="473" text-anchor="middle" class="Las">أرض</text>
+<text x="80" y="469" text-anchor="start" class="Lx">ard</text>
+<text x="80" y="477" text-anchor="start" class="Lx">earth</text>
+<rect x="125" y="461" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="145" y="473" text-anchor="middle" class="Las">سماء</text>
+<text x="183" y="469" text-anchor="start" class="Lx">sama</text>
+<text x="183" y="477" text-anchor="start" class="Lx">sky</text>
+<rect x="228" y="461" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="248" y="473" text-anchor="middle" class="Las">نار</text>
+<text x="286" y="469" text-anchor="start" class="Lx">nar</text>
+<text x="286" y="477" text-anchor="start" class="Lx">fire</text>
+<rect x="331" y="461" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="351" y="473" text-anchor="middle" class="Las">ماء</text>
+<text x="389" y="469" text-anchor="start" class="Lx">ma'</text>
+<text x="389" y="477" text-anchor="start" class="Lx">water</text>
+<rect x="22" y="486" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="42" y="498" text-anchor="middle" class="Las">طعام</text>
+<text x="80" y="494" text-anchor="start" class="Lx">ta'am</text>
+<text x="80" y="502" text-anchor="start" class="Lx">food</text>
+<rect x="125" y="486" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="145" y="498" text-anchor="middle" class="Las">كلام</text>
+<text x="183" y="494" text-anchor="start" class="Lx">kalam</text>
+<text x="183" y="502" text-anchor="start" class="Lx">speech/word</text>
+<rect x="228" y="486" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="248" y="498" text-anchor="middle" class="Las">علم</text>
+<text x="286" y="494" text-anchor="start" class="Lx">ilm</text>
+<text x="286" y="502" text-anchor="start" class="Lx">knowledge</text>
+<rect x="331" y="486" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="351" y="498" text-anchor="middle" class="Las">حق</text>
+<text x="389" y="494" text-anchor="start" class="Lx">haqq</text>
+<text x="389" y="502" text-anchor="start" class="Lx">truth/right</text>
+<rect x="22" y="511" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="42" y="523" text-anchor="middle" class="Las">عدل</text>
+<text x="80" y="519" text-anchor="start" class="Lx">adl</text>
+<text x="80" y="527" text-anchor="start" class="Lx">justice</text>
+<rect x="125" y="511" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="145" y="523" text-anchor="middle" class="Las">حب</text>
+<text x="183" y="519" text-anchor="start" class="Lx">hubb</text>
+<text x="183" y="527" text-anchor="start" class="Lx">love</text>
+<rect x="228" y="511" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="248" y="523" text-anchor="middle" class="Las">صبر</text>
+<text x="286" y="519" text-anchor="start" class="Lx">sabr</text>
+<text x="286" y="527" text-anchor="start" class="Lx">patience</text>
+<rect x="331" y="511" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="351" y="523" text-anchor="middle" class="Las">شكر</text>
+<text x="389" y="519" text-anchor="start" class="Lx">shukr</text>
+<text x="389" y="527" text-anchor="start" class="Lx">gratitude</text>
+<rect x="22" y="536" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="42" y="548" text-anchor="middle" class="Las">يوم</text>
+<text x="80" y="544" text-anchor="start" class="Lx">yawm</text>
+<text x="80" y="552" text-anchor="start" class="Lx">day</text>
+<rect x="125" y="536" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="145" y="548" text-anchor="middle" class="Las">ليل</text>
+<text x="183" y="544" text-anchor="start" class="Lx">layl</text>
+<text x="183" y="552" text-anchor="start" class="Lx">night</text>
+<rect x="228" y="536" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="248" y="548" text-anchor="middle" class="Las">طريق</text>
+<text x="286" y="544" text-anchor="start" class="Lx">tariq</text>
+<text x="286" y="552" text-anchor="start" class="Lx">road/path</text>
+<rect x="331" y="536" width="98" height="22" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="351" y="548" text-anchor="middle" class="Las">بيت</text>
+<text x="389" y="544" text-anchor="start" class="Lx">bayt</text>
+<text x="389" y="552" text-anchor="start" class="Lx">house</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,191 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .La{font-size:14px;}
+  .Lam{font-size:11px;}
+  .Las{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 13A  ·  ARABIC  ·  SCRIPT</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">28 letters · right to left · cursive abjad · four positional forms · dots distinguish letters</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  ARABIC  ·  1.9 BILLION SPEAKERS  ·  WIDEST GEOGRAPHIC SPREAD  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Arabic is spoken from Morocco to the Persian Gulf  ·  Classical Arabic unchanged for 1,400 years</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">the Quran has preserved the classical form  ·  any literate Arabic speaker can read texts from 650 CE</text>
+<text x="240" y="97" text-anchor="middle" class="Lx">genetically related to Hebrew  ·  many cognate roots  ·  sister language not daughter or ancestor</text>
+<line x1="22" y1="102" x2="458" y2="102" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="108" text-anchor="middle" class="H">— · —  THE 28 LETTERS  ·  ISOLATED FORM  ·  READ RIGHT TO LEFT  — · —</text>
+<line x1="22" y1="112" x2="458" y2="112" stroke="#000" stroke-width="0.3"/>
+<text x="55" y="131" text-anchor="middle" class="La">ا</text>
+<text x="55" y="141" text-anchor="middle" class="Lx">Alif</text>
+<text x="55" y="149" text-anchor="middle" class="Lx">/-/ā/</text>
+<text x="117" y="131" text-anchor="middle" class="La">ب</text>
+<text x="117" y="141" text-anchor="middle" class="Lx">Ba</text>
+<text x="117" y="149" text-anchor="middle" class="Lx">/b/</text>
+<text x="179" y="131" text-anchor="middle" class="La">ت</text>
+<text x="179" y="141" text-anchor="middle" class="Lx">Ta</text>
+<text x="179" y="149" text-anchor="middle" class="Lx">/t/</text>
+<text x="241" y="131" text-anchor="middle" class="La">ث</text>
+<text x="241" y="141" text-anchor="middle" class="Lx">Tha</text>
+<text x="241" y="149" text-anchor="middle" class="Lx">/θ/</text>
+<text x="303" y="131" text-anchor="middle" class="La">ج</text>
+<text x="303" y="141" text-anchor="middle" class="Lx">Jim</text>
+<text x="303" y="149" text-anchor="middle" class="Lx">/j/dʒ/</text>
+<text x="365" y="131" text-anchor="middle" class="La">ح</text>
+<text x="365" y="141" text-anchor="middle" class="Lx">Ha</text>
+<text x="365" y="149" text-anchor="middle" class="Lx">/ḥ/</text>
+<text x="427" y="131" text-anchor="middle" class="La">خ</text>
+<text x="427" y="141" text-anchor="middle" class="Lx">Kha</text>
+<text x="427" y="149" text-anchor="middle" class="Lx">/x/</text>
+<text x="55" y="179" text-anchor="middle" class="La">د</text>
+<text x="55" y="189" text-anchor="middle" class="Lx">Dal</text>
+<text x="55" y="197" text-anchor="middle" class="Lx">/d/</text>
+<text x="117" y="179" text-anchor="middle" class="La">ذ</text>
+<text x="117" y="189" text-anchor="middle" class="Lx">Dhal</text>
+<text x="117" y="197" text-anchor="middle" class="Lx">/ð/</text>
+<text x="179" y="179" text-anchor="middle" class="La">ر</text>
+<text x="179" y="189" text-anchor="middle" class="Lx">Ra</text>
+<text x="179" y="197" text-anchor="middle" class="Lx">/r/</text>
+<text x="241" y="179" text-anchor="middle" class="La">ز</text>
+<text x="241" y="189" text-anchor="middle" class="Lx">Zay</text>
+<text x="241" y="197" text-anchor="middle" class="Lx">/z/</text>
+<text x="303" y="179" text-anchor="middle" class="La">س</text>
+<text x="303" y="189" text-anchor="middle" class="Lx">Sin</text>
+<text x="303" y="197" text-anchor="middle" class="Lx">/s/</text>
+<text x="365" y="179" text-anchor="middle" class="La">ش</text>
+<text x="365" y="189" text-anchor="middle" class="Lx">Shin</text>
+<text x="365" y="197" text-anchor="middle" class="Lx">/ʃ/</text>
+<text x="427" y="179" text-anchor="middle" class="La">ص</text>
+<text x="427" y="189" text-anchor="middle" class="Lx">Sad</text>
+<text x="427" y="197" text-anchor="middle" class="Lx">/sˤ/</text>
+<text x="55" y="227" text-anchor="middle" class="La">ض</text>
+<text x="55" y="237" text-anchor="middle" class="Lx">Dad</text>
+<text x="55" y="245" text-anchor="middle" class="Lx">/dˤ/</text>
+<text x="117" y="227" text-anchor="middle" class="La">ط</text>
+<text x="117" y="237" text-anchor="middle" class="Lx">Tta</text>
+<text x="117" y="245" text-anchor="middle" class="Lx">/tˤ/</text>
+<text x="179" y="227" text-anchor="middle" class="La">ظ</text>
+<text x="179" y="237" text-anchor="middle" class="Lx">Dha</text>
+<text x="179" y="245" text-anchor="middle" class="Lx">/ðˤ/</text>
+<text x="241" y="227" text-anchor="middle" class="La">ع</text>
+<text x="241" y="237" text-anchor="middle" class="Lx">Ain</text>
+<text x="241" y="245" text-anchor="middle" class="Lx">/ˁ/</text>
+<text x="303" y="227" text-anchor="middle" class="La">غ</text>
+<text x="303" y="237" text-anchor="middle" class="Lx">Ghain</text>
+<text x="303" y="245" text-anchor="middle" class="Lx">/ɣ/</text>
+<text x="365" y="227" text-anchor="middle" class="La">ف</text>
+<text x="365" y="237" text-anchor="middle" class="Lx">Fa</text>
+<text x="365" y="245" text-anchor="middle" class="Lx">/f/</text>
+<text x="427" y="227" text-anchor="middle" class="La">ق</text>
+<text x="427" y="237" text-anchor="middle" class="Lx">Qaf</text>
+<text x="427" y="245" text-anchor="middle" class="Lx">/q/</text>
+<text x="55" y="275" text-anchor="middle" class="La">ك</text>
+<text x="55" y="285" text-anchor="middle" class="Lx">Kaf</text>
+<text x="55" y="293" text-anchor="middle" class="Lx">/k/</text>
+<text x="117" y="275" text-anchor="middle" class="La">ل</text>
+<text x="117" y="285" text-anchor="middle" class="Lx">Lam</text>
+<text x="117" y="293" text-anchor="middle" class="Lx">/l/</text>
+<text x="179" y="275" text-anchor="middle" class="La">م</text>
+<text x="179" y="285" text-anchor="middle" class="Lx">Mim</text>
+<text x="179" y="293" text-anchor="middle" class="Lx">/m/</text>
+<text x="241" y="275" text-anchor="middle" class="La">ن</text>
+<text x="241" y="285" text-anchor="middle" class="Lx">Nun</text>
+<text x="241" y="293" text-anchor="middle" class="Lx">/n/</text>
+<text x="303" y="275" text-anchor="middle" class="La">ه</text>
+<text x="303" y="285" text-anchor="middle" class="Lx">Ha</text>
+<text x="303" y="293" text-anchor="middle" class="Lx">/h/</text>
+<text x="365" y="275" text-anchor="middle" class="La">و</text>
+<text x="365" y="285" text-anchor="middle" class="Lx">Waw</text>
+<text x="365" y="293" text-anchor="middle" class="Lx">/w/ū/</text>
+<text x="427" y="275" text-anchor="middle" class="La">ي</text>
+<text x="427" y="285" text-anchor="middle" class="Lx">Ya</text>
+<text x="427" y="293" text-anchor="middle" class="Lx">/y/ī/</text>
+<line x1="22" y1="308" x2="458" y2="308" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="314" text-anchor="middle" class="H">— · —  FOUR POSITIONAL FORMS  ·  SAME LETTER  ·  DIFFERENT SHAPE  — · —</text>
+<line x1="22" y1="318" x2="458" y2="318" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="326" text-anchor="middle" class="Lx">letters change shape depending on position in word  ·  software handles this automatically</text>
+<rect x="22" y="330" width="136" height="64" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="90" y="340" text-anchor="middle" class="Ls">Ba /b/</text>
+<text x="47" y="355" text-anchor="middle" class="Lam">ب</text>
+<text x="47" y="364" text-anchor="middle" class="Lx">isolated</text>
+<text x="74" y="355" text-anchor="middle" class="Lam">بـ</text>
+<text x="74" y="364" text-anchor="middle" class="Lx">initial</text>
+<text x="101" y="355" text-anchor="middle" class="Lam">ـبـ</text>
+<text x="101" y="364" text-anchor="middle" class="Lx">medial</text>
+<text x="128" y="355" text-anchor="middle" class="Lam">ـب</text>
+<text x="128" y="364" text-anchor="middle" class="Lx">final</text>
+<rect x="162" y="330" width="136" height="64" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="230" y="340" text-anchor="middle" class="Ls">Ain /ˁ/</text>
+<text x="187" y="355" text-anchor="middle" class="Lam">ع</text>
+<text x="187" y="364" text-anchor="middle" class="Lx">isolated</text>
+<text x="214" y="355" text-anchor="middle" class="Lam">عـ</text>
+<text x="214" y="364" text-anchor="middle" class="Lx">initial</text>
+<text x="241" y="355" text-anchor="middle" class="Lam">ـعـ</text>
+<text x="241" y="364" text-anchor="middle" class="Lx">medial</text>
+<text x="268" y="355" text-anchor="middle" class="Lam">ـع</text>
+<text x="268" y="364" text-anchor="middle" class="Lx">final</text>
+<rect x="302" y="330" width="136" height="64" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="370" y="340" text-anchor="middle" class="Ls">Ha /h/</text>
+<text x="327" y="355" text-anchor="middle" class="Lam">ه</text>
+<text x="327" y="364" text-anchor="middle" class="Lx">isolated</text>
+<text x="354" y="355" text-anchor="middle" class="Lam">هـ</text>
+<text x="354" y="364" text-anchor="middle" class="Lx">initial</text>
+<text x="381" y="355" text-anchor="middle" class="Lam">ـهـ</text>
+<text x="381" y="364" text-anchor="middle" class="Lx">medial</text>
+<text x="408" y="355" text-anchor="middle" class="Lam">ـه</text>
+<text x="408" y="364" text-anchor="middle" class="Lx">final</text>
+<text x="240" y="398" text-anchor="middle" class="Lx">SIX NON-CONNECTORS: ا د ذ ر ز و  ·  these do not connect to the following letter</text>
+<line x1="22" y1="404" x2="458" y2="404" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="410" text-anchor="middle" class="H">— · —  VOWEL MARKS  ·  HARAKAT  ·  ADDED IN QURAN AND TEACHING TEXTS  — · —</text>
+<line x1="22" y1="414" x2="458" y2="414" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="Lx">Arabic is an abjad  ·  only consonants written normally  ·  vowels omitted in everyday text</text>
+<text x="240" y="431" text-anchor="middle" class="Lx">Quran, children's books, and learner texts add vowel marks (harakat) for precision</text>
+<rect x="22" y="435" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="40" y="449" text-anchor="middle" class="La">بَ</text>
+<text x="77" y="445" text-anchor="middle" class="Lx">fatha /a/</text>
+<text x="77" y="454" text-anchor="middle" class="Lx">short a  ·  mark above</text>
+<rect x="127" y="435" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="145" y="449" text-anchor="middle" class="La">بُ</text>
+<text x="182" y="445" text-anchor="middle" class="Lx">damma /u/</text>
+<text x="182" y="454" text-anchor="middle" class="Lx">short u  ·  mark above</text>
+<rect x="232" y="435" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="250" y="449" text-anchor="middle" class="La">بِ</text>
+<text x="287" y="445" text-anchor="middle" class="Lx">kasra /i/</text>
+<text x="287" y="454" text-anchor="middle" class="Lx">short i  ·  mark below</text>
+<rect x="337" y="435" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="355" y="449" text-anchor="middle" class="La">با</text>
+<text x="392" y="445" text-anchor="middle" class="Lx">alif madd /a:/</text>
+<text x="392" y="454" text-anchor="middle" class="Lx">long a  ·  alif follows</text>
+<rect x="22" y="467" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="40" y="481" text-anchor="middle" class="La">بو</text>
+<text x="77" y="477" text-anchor="middle" class="Lx">waw madd /u:/</text>
+<text x="77" y="486" text-anchor="middle" class="Lx">long u  ·  waw follows</text>
+<rect x="127" y="467" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="145" y="481" text-anchor="middle" class="La">بي</text>
+<text x="182" y="477" text-anchor="middle" class="Lx">ya madd /i:/</text>
+<text x="182" y="486" text-anchor="middle" class="Lx">long i  ·  ya follows</text>
+<rect x="232" y="467" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="250" y="481" text-anchor="middle" class="La">بْ</text>
+<text x="287" y="477" text-anchor="middle" class="Lx">sukun (none)</text>
+<text x="287" y="486" text-anchor="middle" class="Lx">no vowel  ·  closed syl.</text>
+<rect x="337" y="467" width="100" height="28" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="355" y="481" text-anchor="middle" class="La">بّ</text>
+<text x="392" y="477" text-anchor="middle" class="Lx">shadda geminate</text>
+<text x="392" y="486" text-anchor="middle" class="Lx">doubled consonant</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

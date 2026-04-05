@@ -1,0 +1,143 @@
+<svg viewBox="0 0 480 680" xmlns="http://www.w3.org/2000/svg">
+<defs><style>
+  text{font-family:Georgia,serif;fill:#000;}
+  .T{font-size:12px;font-weight:bold;letter-spacing:2px;}
+  .S{font-size:7px;letter-spacing:1.5px;}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px;}
+  .L{font-size:7px;}
+  .Ls{font-size:6px;}
+  .Lx{font-size:5.5px;}
+  .La{font-size:14px;}
+  .Lam{font-size:11px;}
+  .Las{font-size:9px;}
+  .M{font-size:6px;letter-spacing:1px;}
+  .F{font-size:7px;font-style:italic;}
+  .Fb{font-size:7.5px;font-weight:bold;}
+</style></defs><rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PLATE 13B  ·  ARABIC  ·  PHONOLOGY</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="#000" stroke-width="0.75"/>
+<text x="240" y="50" text-anchor="middle" class="S">emphatic consonants · pharyngeals · uvulars · sun/moon letters · vowel system</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="67" text-anchor="middle" class="H">— · —  THE ARABIC SOUND SYSTEM  ·  WHAT MAKES IT DISTINCTIVE  — · —</text>
+<line x1="22" y1="71" x2="458" y2="71" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="79" text-anchor="middle" class="Lx">Arabic preserves sounds lost in most of the world's languages</text>
+<text x="240" y="88" text-anchor="middle" class="Lx">pharyngeal consonants  ·  emphatic (pharyngealized) stops  ·  uvular stop  ·  voiced pharyngeal fricative</text>
+<line x1="22" y1="93" x2="458" y2="93" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="99" text-anchor="middle" class="H">— · —  EMPHATIC CONSONANTS  ·  PHARYNGEALIZED SOUNDS  — · —</text>
+<line x1="22" y1="103" x2="458" y2="103" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="111" text-anchor="middle" class="Lx">emphatic consonants are produced with the tongue root retracted toward the pharynx</text>
+<text x="240" y="120" text-anchor="middle" class="Lx">they darken nearby vowels: a → deeper a  ·  they are the defining feature of the Arabic sound system</text>
+<rect x="22" y="124" width="106" height="52" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="75" y="138" text-anchor="middle" class="La">ص</text>
+<text x="75" y="150" text-anchor="middle" class="Ls">Sad /sˤ/</text>
+<text x="75" y="159" text-anchor="middle" class="Lx">emphatic S</text>
+<text x="75" y="168" text-anchor="middle" class="Lx">free س /s/</text>
+<text x="75" y="176" text-anchor="middle" class="Lx">dark vs light s</text>
+<rect x="132" y="124" width="106" height="52" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="185" y="138" text-anchor="middle" class="La">ض</text>
+<text x="185" y="150" text-anchor="middle" class="Ls">Dad /dˤ/</text>
+<text x="185" y="159" text-anchor="middle" class="Lx">emphatic D</text>
+<text x="185" y="168" text-anchor="middle" class="Lx">free د /d/</text>
+<text x="185" y="176" text-anchor="middle" class="Lx">'the language of Dad'</text>
+<rect x="242" y="124" width="106" height="52" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="295" y="138" text-anchor="middle" class="La">ط</text>
+<text x="295" y="150" text-anchor="middle" class="Ls">Tta /tˤ/</text>
+<text x="295" y="159" text-anchor="middle" class="Lx">emphatic T</text>
+<text x="295" y="168" text-anchor="middle" class="Lx">free ت /t/</text>
+<text x="295" y="176" text-anchor="middle" class="Lx">heavy vs light t</text>
+<rect x="352" y="124" width="106" height="52" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="405" y="138" text-anchor="middle" class="La">ظ</text>
+<text x="405" y="150" text-anchor="middle" class="Ls">Dha /ðˤ/</text>
+<text x="405" y="159" text-anchor="middle" class="Lx">emphatic DH</text>
+<text x="405" y="168" text-anchor="middle" class="Lx">free ذ /ð/</text>
+<text x="405" y="176" text-anchor="middle" class="Lx">pharyngealized th</text>
+<line x1="22" y1="181" x2="458" y2="181" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="187" text-anchor="middle" class="H">— · —  PHARYNGEAL CONSONANTS  ·  HA AND AIN  — · —</text>
+<line x1="22" y1="191" x2="458" y2="191" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="195" width="210" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="127" y="206" text-anchor="middle" class="Ls">ح  Ha  /ḥ/</text>
+<text x="127" y="218" text-anchor="middle" class="Lx">voiceless pharyngeal fricative</text>
+<text x="127" y="227" text-anchor="middle" class="Lx">air forced through constricted throat</text>
+<text x="127" y="236" text-anchor="middle" class="Lx">like Hebrew ח chet  ·  like a loud whispered H</text>
+<text x="127" y="245" text-anchor="middle" class="Lx">no equivalent in English or European languages</text>
+<text x="127" y="254" text-anchor="middle" class="Lam">حَياة hayat = life  ·  حب hubb = love</text>
+<rect x="248" y="195" width="210" height="62" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="353" y="206" text-anchor="middle" class="Ls">ع  Ain  /ˁ/</text>
+<text x="353" y="218" text-anchor="middle" class="Lx">voiced pharyngeal fricative</text>
+<text x="353" y="227" text-anchor="middle" class="Lx">throat constricted  ·  voice added</text>
+<text x="353" y="236" text-anchor="middle" class="Lx">like Hebrew ע ayin  ·  no English equiv.</text>
+<text x="353" y="245" text-anchor="middle" class="Lx">essential to Arabic  ·  changes word meaning</text>
+<text x="353" y="254" text-anchor="middle" class="Lam">عَين ain = eye/spring  ·  علم ilm = knowledge</text>
+<line x1="22" y1="263" x2="458" y2="263" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="269" text-anchor="middle" class="H">— · —  UVULAR AND GUTTURAL  ·  QAF AND GHAIN  — · —</text>
+<line x1="22" y1="273" x2="458" y2="273" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="277" width="210" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="127" y="287" text-anchor="middle" class="Ls">ق  Qaf  /q/</text>
+<text x="127" y="296" text-anchor="middle" class="Lx">uvular stop  ·  deeper than English k</text>
+<text x="127" y="305" text-anchor="middle" class="Lx">produced at back of throat</text>
+<text x="127" y="314" text-anchor="middle" class="Lam">قلب qalb = heart  ·  قرآن Quran</text>
+<rect x="248" y="277" width="210" height="40" fill="none" stroke="#000" stroke-width="0.9"/>
+<text x="353" y="287" text-anchor="middle" class="Ls">غ  Ghain  /ɣ/</text>
+<text x="353" y="296" text-anchor="middle" class="Lx">voiced uvular/velar fricative</text>
+<text x="353" y="305" text-anchor="middle" class="Lx">like French r in Paris</text>
+<text x="353" y="314" text-anchor="middle" class="Lam">غرب gharb = west  ·  غيناء ghina = wealth</text>
+<line x1="22" y1="322" x2="458" y2="322" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="328" text-anchor="middle" class="H">— · —  SUN AND MOON LETTERS  ·  AL- ASSIMILATION  — · —</text>
+<line x1="22" y1="332" x2="458" y2="332" stroke="#000" stroke-width="0.3"/>
+<text x="240" y="340" text-anchor="middle" class="Lx">the definite article ال (al-) assimilates to SUN letters but not to MOON letters</text>
+<rect x="22" y="344" width="210" height="70" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="22" y="344" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="127" y="353" text-anchor="middle" class="Lx">SUN LETTERS  ·  al- → doubles</text>
+<text x="127" y="368" text-anchor="middle" class="La">ت ث د ذ ر ز س ش ص ض ط ظ ل ن</text>
+<text x="127" y="382" text-anchor="middle" class="Lam">الشّمس = ash-shams (the sun)</text>
+<text x="127" y="394" text-anchor="middle" class="Lx">note: al + sh → ash-sh (doubled)</text>
+<text x="127" y="406" text-anchor="middle" class="Lx">l assimilates to the following consonant</text>
+<rect x="248" y="344" width="210" height="70" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="248" y="344" width="210" height="12" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="353" y="353" text-anchor="middle" class="Lx">MOON LETTERS  ·  al- stays al-</text>
+<text x="353" y="368" text-anchor="middle" class="La">ا ب ج ح خ ع غ ف ق ك م ه و ي</text>
+<text x="353" y="382" text-anchor="middle" class="Lam">القَمَر = al-qamar (the moon)</text>
+<text x="353" y="394" text-anchor="middle" class="Lx">note: al + q → al-q (unchanged)</text>
+<text x="353" y="406" text-anchor="middle" class="Lx">l stays l before moon letters</text>
+<line x1="22" y1="420" x2="458" y2="420" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="426" text-anchor="middle" class="H">— · —  VOWEL SYSTEM  ·  3 SHORT  ·  3 LONG  ·  PLUS DIPHTHONGS  — · —</text>
+<line x1="22" y1="430" x2="458" y2="430" stroke="#000" stroke-width="0.3"/>
+<rect x="22" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="56" y="443" text-anchor="middle" class="Lx">Fatha</text>
+<text x="56" y="452" text-anchor="middle" class="Ls">a</text>
+<text x="56" y="461" text-anchor="middle" class="Lx">/a/</text>
+<text x="56" y="470" text-anchor="middle" class="Lx">short</text>
+<rect x="94" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="128" y="443" text-anchor="middle" class="Lx">Damma</text>
+<text x="128" y="452" text-anchor="middle" class="Ls">u</text>
+<text x="128" y="461" text-anchor="middle" class="Lx">/u/</text>
+<text x="128" y="470" text-anchor="middle" class="Lx">short</text>
+<rect x="166" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="200" y="443" text-anchor="middle" class="Lx">Kasra</text>
+<text x="200" y="452" text-anchor="middle" class="Ls">i</text>
+<text x="200" y="461" text-anchor="middle" class="Lx">/i/</text>
+<text x="200" y="470" text-anchor="middle" class="Lx">short</text>
+<rect x="238" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="272" y="443" text-anchor="middle" class="Lx">Alif</text>
+<text x="272" y="452" text-anchor="middle" class="Ls">aa</text>
+<text x="272" y="461" text-anchor="middle" class="Lx">/a:/</text>
+<text x="272" y="470" text-anchor="middle" class="Lx">long</text>
+<rect x="310" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="344" y="443" text-anchor="middle" class="Lx">Waw</text>
+<text x="344" y="452" text-anchor="middle" class="Ls">uu</text>
+<text x="344" y="461" text-anchor="middle" class="Lx">/u:/</text>
+<text x="344" y="470" text-anchor="middle" class="Lx">long</text>
+<rect x="382" y="434" width="68" height="42" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="416" y="443" text-anchor="middle" class="Lx">Ya</text>
+<text x="416" y="452" text-anchor="middle" class="Ls">ii</text>
+<text x="416" y="461" text-anchor="middle" class="Lx">/i:/</text>
+<text x="416" y="470" text-anchor="middle" class="Lx">long</text>
+<text x="240" y="482" text-anchor="middle" class="Lx">diphthongs: ay /aj/ (like 'eye')  ·  aw /aw/ (like 'how')</text>
+<text x="240" y="491" text-anchor="middle" class="Lx">stress: generally on last heavy syllable  ·  heavy = long vowel or closed (CVC)</text>
+<line x1="18" y1="615" x2="462" y2="615" stroke="#000" stroke-width="0.5"/>
+<text x="240" y="624" text-anchor="middle" class="M">REMEMBER FORWARD · THE PATIENT MESSAGE · CC BY-SA 4.0 · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="#000" stroke-width="1"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
