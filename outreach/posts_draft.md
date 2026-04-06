@@ -13,6 +13,7 @@
 #   plate57a_mongolian_script.png — Mongolian Cyrillic + traditional
 #   plate59a_hawaiian_script.png — Hawaiian (minimal alphabet, striking negative space)
 #   plate47c_nahuatl_grammar.png — Nahuatl grammar (polysynthetic compounds)
+#   plate62a_asl_manual_alphabet.png — ASL hand diagrams (regenerate with build_outreach_images.py)
 
 ---
 
@@ -21,17 +22,24 @@
 **BEST TIME:** Tuesday–Thursday, 9–11am ET
 
 **Title:**
-I built reference plates for 49 languages — script, phonology, grammar, running text — free SVGs, laser-engraver ready
+I built reference plates for 55 language traditions — script, phonology, grammar, running text — including 5 sign languages and Ancient Egyptian — free SVGs, laser-engraver ready
 
 **Body:**
-Over the past few months I put together a set of reference plates covering 49 human languages. Each language gets four plates:
+Over the past few months I put together a set of reference plates covering 55 human language traditions. Each language gets four plates:
 
 - **A — Script:** letter inventory, numerals, script history, Unicode ranges, directionality
 - **B — Phonology:** full consonant/vowel table, IPA, tonal systems, distinctive features
 - **C — Grammar:** word order, verb system, case/postposition table, ~30 core vocabulary items
 - **D — Running text:** 3–4 real passages with interlinear gloss + bridge phrase translated idiomatically
 
-Languages include the obvious (Mandarin, Arabic, Hindi, Russian) and the less obvious: Tibetan's evidentiality system, Quechua's three-way stop contrast (plain/aspirated/ejective), Pashto's split ergativity, Javanese's three-level speech register system (Ngoko/Madya/Krama), Tok Pisin as a creole case study, Hawaiian's 13-letter phonology and A-class/O-class possession system.
+The spoken language set covers the obvious (Mandarin, Arabic, Hindi, Russian) and the less obvious: Tibetan's evidentiality system, Quechua's three-way stop contrast (plain/aspirated/ejective), Pashto's split ergativity, Javanese's three-level speech register system (Ngoko/Madya/Krama), Tok Pisin as a creole case study, Hawaiian's 13-letter phonology and A-class/O-class possession system, Ancient Egyptian with all 24 uniliteral signs and the Coptic vowel reconstruction.
+
+**Sign languages got their own series (62–66):**
+- ASL — 5-parameter cherology, spatial grammar, agreement verbs, manual alphabet with hand diagrams
+- BSL — two-handed alphabet, SOV word order (vs ASL's SVO), mutual unintelligibility with ASL despite shared English
+- LSF — ASL's parent language via Clerc/Gallaudet 1817; historical lineage plate including the 1880 Milan Congress
+- CSL — Pinyin-based fingerspelling, air-writing (空写), SOV, ~20M signers (world's largest sign language)
+- Libras — 111 documented handshapes (most of any sign language studied), Law 10.436/2002
 
 The bridge phrase on every Plate D: *"This was made for you, freely, by people who remembered forward."* — translated not mechanically but idiomatically, which meant working through how each language encodes futurity, benefaction, and agency differently.
 
@@ -39,8 +47,9 @@ Interesting edge cases I'd love to discuss:
 - Tibetan: the written/spoken divergence (written "bkra shis" → spoken "Trashi"), 2-tone system from historical voicing
 - Tagalog: focus/trigger system — actor focus, patient focus, locative focus, benefactive focus as grammatical categories
 - Nahuatl: polysynthetic morphology where entire propositions collapse into single words
-- Burmese: 3-tone system (creaky/modal/low), script is abugida with stacked consonants
-- The Osmanya block (U+10480+) requires 8-digit Python escapes, not the standard \uXXXX — caught this when building the Somali plate
+- Ancient Egyptian: xnt (forward/in front of) as the spatial metaphor for future time — same metaphor as English "forward"
+- ASL/Libras: REMEMBER + FORWARD maps perfectly onto the spatial timeline (past=behind, future=ahead)
+- The Osmanya block (U+10480+) requires 8-digit Python escapes — caught this building the Somali plate
 
 All files CC BY-SA 4.0, free to download.
 
@@ -53,7 +62,7 @@ rememberforward.org | DOI: 10.5281/zenodo.19433177 | github.com/ckantargis/remem
 **BEST TIME:** Weekend mornings, or Monday 8–10am ET
 
 **Title:**
-I designed a complete time capsule system — 49 languages, 11 knowledge plates, 7 container tiers from a $10 clay jar to a granite vault — all free, CC BY-SA
+I designed a complete time capsule system — 55 languages (including 5 sign languages), 11 knowledge plates, 7 container tiers from a $10 clay jar to a granite vault — all free, CC BY-SA
 
 **Body:**
 The project is called Remember Forward. Starting question: if civilization collapses hard enough that language continuity breaks down, what do you put in a capsule?
@@ -62,7 +71,10 @@ The answer has two parts:
 
 **The plates** — laser-engraver ready SVGs for nickel or stainless steel, 480×680px portrait:
 - 11 knowledge plates: water/fire/shelter, agriculture, technology re-foundation, governance, physics of sound, electrical generation, audio playback construction (including how to build a stylus from a cactus spine or thorn), and more
-- 49 language series (4 plates each): script reference, phonology, grammar, running text — so a finder can decode the knowledge plates even without sharing your language
+- 55 language traditions (4 plates each): script reference, phonology, grammar, running text — so a finder can decode the knowledge plates even without sharing your language
+  - 49 spoken languages including major world languages and endangered ones
+  - Ancient Egyptian (hieroglyphic) — connects to the Rosetta Index plate design
+  - 5 sign languages (ASL, BSL, LSF, Libras, Chinese SL) — because Deaf communities exist in every civilization
 
 **The containers** — 7 tiers by survivability and cost:
 - **Tier 0:** Fired ceramic + pine pitch — $10–30, buildable post-catastrophe, Dead Sea Scroll precedent (2,000 years)
@@ -91,13 +103,15 @@ I've been working on a project built around a specific failure mode: a collapse 
 
 Most time capsule projects assume the finder can read. This one doesn't.
 
-The result: 219 laser-engraved plates — 11 knowledge plates (survival, agriculture, physics, governance) and 49 language reference sets (script, phonology, grammar, running text with interlinear gloss). The language plates are cross-keys: if the finder's language is represented, they can use it to decode everything else.
+The result: 245 laser-engraved plates — 11 knowledge plates (survival, agriculture, physics, governance) and 55 language reference sets (script, phonology, grammar, running text with interlinear gloss). The language plates are cross-keys: if the finder's language is represented, they can use it to decode everything else.
 
-The piece I spent the most time on was the bridge phrase — one sentence translated into all 49 languages:
+The set includes 5 sign languages — ASL, BSL, LSF, Chinese Sign Language, and Libras. Deaf communities have existed in every known civilization. A collapse scenario that doesn't account for them isn't complete.
+
+The piece I spent the most time on was the bridge phrase — one sentence translated into all 55 traditions:
 
 *"This was made for you, freely, by people who remembered forward."*
 
-In Tibetan (which has grammatical evidentiality): how do you mark that the maker had direct knowledge of the future finder? In Nahuatl (polysynthetic): the whole phrase collapses into a few morphologically dense words. In Hawaiian (13-letter alphabet, VSO word order): the A-class vs O-class possession system determines whether the capsule "possesses you" or you possess it — and that distinction is grammatically obligatory.
+In Tibetan (grammatical evidentiality): how do you mark that the maker had direct knowledge of the future finder? In Nahuatl (polysynthetic): the whole phrase collapses into a few morphologically dense words. In Ancient Egyptian: xnt ("forward/in front of") is the spatial metaphor for future time — identical to the English phrase. In ASL: REMEMBER + FORWARD maps directly onto the signing-space timeline where the future is literally in front of you.
 
 Plate 1 is a Rosetta Index — it's designed to be decodable without any prior knowledge of any writing system, using spatial layout and iconic relationships to bootstrap the rest of the set.
 
@@ -112,7 +126,7 @@ rememberforward.org
 **BEST TIME:** Weekday evenings, 6–9pm ET
 
 **Title:**
-219 laser-engraver ready SVG plates — time capsule reference system, free CC BY-SA 4.0
+245 laser-engraver ready SVG plates — time capsule reference system, free CC BY-SA 4.0
 
 **Body:**
 Just finished the complete SVG set for a time capsule project. The files might be useful to this community directly, or just interesting to look at.
@@ -127,12 +141,14 @@ Just finished the complete SVG set for a time capsule project. The files might b
 
 **What's in the set:**
 - 11 knowledge plates covering survival, physics, agriculture, governance, audio playback construction
-- 49 language series — alphabet/script tables, phonology diagrams, grammar tables, running text
+- 55 language traditions — alphabet/script tables, phonology diagrams, grammar tables, running text
+- Includes 5 sign language plates with hand-diagram grids for manual alphabets (geometric SVG primitives — engrave cleanly)
+- Ancient Egyptian hieroglyphs (Noto Sans Egyptian Hieroglyphs font, U+13000+)
 
 The knowledge plates have more complex geometry: the audio playback guide (plate 9) has cross-section diagrams of phonograph grooves, stylus tip geometry (conical vs elliptical), a 7-box signal path flow, and a minimal no-electricity cone player diagram. The acoustics plate (plate 8) has Rubens tube flame patterns and vibrating string harmonics rendered as polylines.
 
 **Download:**
-Full ZIP (0.5 MB, 219 files) or print-ready PDF (0.8 MB, 219 pages) at rememberforward.org.
+Full ZIP (0.6 MB, 245 files) or print-ready PDF (0.9 MB, 245 pages) at rememberforward.org.
 
 CC BY-SA 4.0 — use for whatever you want.
 
@@ -143,7 +159,7 @@ CC BY-SA 4.0 — use for whatever you want.
 **BEST TIME:** Monday or Tuesday, 8–10am ET (US) for best front-page window
 
 **Title:**
-Show HN: Remember Forward – 219 laser-engraver-ready SVG plates for time capsules, 49 languages, CC BY-SA
+Show HN: Remember Forward – 245 laser-engraver-ready SVG plates for time capsules, 55 languages + sign languages, CC BY-SA
 
 **Body:**
 The project started from one question: if the collapse is severe enough that a finder in 500 years shares no language or cultural context with us, what goes in the time capsule?
@@ -152,11 +168,11 @@ The answer: knowledge plates (survival through governance) plus language referen
 
 Technical notes for this audience:
 
-- 219 SVG files, 480×680 viewBox, black strokes only — all generated by Python build scripts, one per language, fully reproducible
-- Unicode-intensive: Tibetan stacking consonants (consonant clusters stack vertically, each with up to 3 stacked forms), Nastaliq Arabic (contextual letter forms, right-to-left runs inside LTR SVG), Gurmukhi abugida (consonants carry inherent /a/, vowel diacritics modify)
-- Python edge cases hit: \uXXXX escapes only handle BMP (U+0000–U+FFFF); SMP codepoints (Osmanya block U+10480+) need \UXXXXXXXX (8-digit). Got burned by LLM-generated JS-style \u{10480} syntax which Python doesn't parse. Fixed by binary file repair (rb mode, byte-level find/replace of the replacement-char sequences).
-- The Burmese build had a corrupted escape '\u1¢' (¢ is not a hex digit) — another LLM hallucination caught at run time
-- Bridge phrase in 49 languages — not mechanical translation but working through how each language encodes futurity and benefaction: evidential markers in Tibetan, focus-trigger morphology in Tagalog, polysynthetic compounding in Nahuatl
+- 245 SVG files, 480×680 viewBox, black strokes only — all generated by Python build scripts, one per language, fully reproducible
+- Unicode-intensive: Tibetan stacking consonants, Nastaliq Arabic (RTL runs in LTR SVG), Gurmukhi abugida, Ancient Egyptian hieroglyphs (U+13000–U+1342F, SMP — verified codepoints via Python unicodedata.lookup())
+- Sign language plates (series 62–66): manual alphabet grids rendered as geometric SVG hand diagrams (rect/circle/path for palm, fingers, thumb per letter). No font dependency — pure SVG primitives
+- Python edge cases hit: \uXXXX escapes only handle BMP (U+0000–U+FFFF); SMP codepoints (Osmanya U+10480+, Egyptian hieroglyphs U+13000+) need \UXXXXXXXX (8-digit). Got burned by LLM-generated JS-style \u{10480} syntax which Python doesn't parse. Also hit a corrupted escape '\u1¢' (¢ is not a hex digit) in the Burmese build
+- Bridge phrase in 55 traditions — not mechanical translation but working through how each language encodes futurity and benefaction: evidential markers in Tibetan, focus-trigger morphology in Tagalog, polysynthetic compounding in Nahuatl, spatial timeline in ASL (future = forward in signing space = identical metaphor), xnt in Ancient Egyptian (spatial word for "in front of / forward")
 
 DOI: 10.5281/zenodo.19433177
 GitHub: github.com/ckantargis/remember-forward
@@ -221,6 +237,33 @@ Sincerely,
 
 ---
 
+### 6d. Deaf Community Organizations (NAD, WFD, GLAD)
+**Subject:** Free sign language reference plates (ASL, BSL, LSF, CSL, Libras) — CC BY-SA — accuracy feedback welcome
+
+Dear [Organization],
+
+I built a set of language reference plates for a long-duration time capsule project and included five sign language series (ASL, BSL, LSF, Chinese Sign Language, and Libras). I'd like to ask whether the content is accurate and whether the framing is appropriate.
+
+Each sign language gets four plates:
+- **A — Manual Alphabet:** fingerspelling chart with SVG hand diagrams (geometric primitives — laser-engraver ready)
+- **B — Parameters:** the 5 cheremes (handshape, location, movement, orientation, NMS) with examples and minimal pairs
+- **C — Grammar:** word order, agreement verbs, classifier predicates, spatial grammar
+- **D — Discourse:** bridge phrase in gloss notation, sample discourse, cross-SL comparison
+
+The sign language plates include:
+- A note on the 1880 Milan Congress and oral suppression (LSF plate 64D)
+- A note that sign languages are complete natural languages, not codes for spoken languages
+- SignWriting Unicode block reference (U+1D800–U+1DAAF, Noto Sans SignWriting)
+- The bridge phrase in ASL/BSL/LSF/CSL/Libras gloss notation
+
+I want these plates to be accurate and respectful. If the framing, vocabulary, or linguistic content needs correction, I'd genuinely want to know.
+
+All files are SVG, CC BY-SA 4.0. Download at rememberforward.org.
+
+[Name]
+
+---
+
 ## PAYMENT / SUPPORT LINKS TO ADD WHEN READY
 (Replace all placeholder text below before posting)
 
@@ -231,7 +274,7 @@ When LLC, trademarks, copyright, and business accounts are established, add to e
 
 **Crowdfunding copy (for GoFundMe / Kickstarter / Indiegogo when ready):**
 
-*Remember Forward is an open-source time capsule system — 219 laser-engraved reference plates covering survival knowledge and 49 human languages, designed to be readable 200–2,000 years from now with no shared language or context. Everything is CC BY-SA 4.0 and always will be. Funds support new language series, better container documentation, translation review by native speakers, and keeping the domain and archive alive.*
+*Remember Forward is an open-source time capsule system — 245 laser-engraved reference plates covering survival knowledge and 55 language traditions (including 5 sign languages and Ancient Egyptian), designed to be readable 200–2,000 years from now with no shared language or context. Everything is CC BY-SA 4.0 and always will be. Funds support new language series, better container documentation, translation review by native speakers, and keeping the domain and archive alive.*
 
 **Tiers:**
 - $5 — Supporter: name in the next version's README
@@ -249,4 +292,5 @@ When LLC, trademarks, copyright, and business accounts are established, add to e
 4. **r/preppers** — largest raw audience
 5. **r/collapse** — philosophical/word-of-mouth
 6. **Targeted language org emails** — slowest but highest quality, send after you've incorporated any corrections from the Reddit posts
+   - Add Deaf community orgs (NAD, WFD, GLAD) to the targeted email list
 7. **Crowdfunding launch** — after the above have driven initial traffic and social proof
