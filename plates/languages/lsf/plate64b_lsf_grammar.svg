@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">FRENCH SIGN LANGUAGE (LSF)</text>
+<text x="240" y="47" text-anchor="middle" class="S">PARAMETERS · GRAMMAR · LSF vs ASL COMPARISON · SERIES 64B</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— LSF PARAMETERS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="Lx">LSF uses the same 5-parameter phonological system as ASL and BSL:</text>
+<text x="36" y="84" text-anchor="start" class="H">HANDSHAPE (Forme):</text>
+<text x="200" y="84" text-anchor="start" class="Lx">~60 handshapes documented in LSF</text>
+<text x="36" y="93" text-anchor="start" class="H">LOCATION (Lieu):</text>
+<text x="200" y="93" text-anchor="start" class="Lx">Neutral space + body zones: forehead, face, mouth, chin, chest</text>
+<text x="36" y="102" text-anchor="start" class="H">MOVEMENT (Mouvement):</text>
+<text x="200" y="102" text-anchor="start" class="Lx">Path, direction, manner, repetition</text>
+<text x="36" y="111" text-anchor="start" class="H">ORIENTATION (Orientation):</text>
+<text x="200" y="111" text-anchor="start" class="Lx">Palm direction; grammatically significant</text>
+<text x="36" y="120" text-anchor="start" class="H">NMS (Signaux non-manuels):</text>
+<text x="200" y="120" text-anchor="start" class="Lx">Facial expression, mouth movements, body posture</text>
+<line x1="24" y1="131" x2="456" y2="131" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="137" x2="118" y2="137" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="141" text-anchor="middle" class="H">— LSF GRAMMAR —</text>
+<line x1="362" y1="137" x2="450" y2="137" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="149" text-anchor="start" class="H">WORD ORDER</text>
+<text x="50" y="158" text-anchor="start" class="Lx">SVO (similar to ASL) as unmarked order; topic-comment also used.</text>
+<text x="50" y="166" text-anchor="start" class="Lx">BOOK, JE ACHETER (The book, I bought it) = topic-comment.</text>
+<text x="36" y="177" text-anchor="start" class="H">SPATIAL GRAMMAR</text>
+<text x="50" y="186" text-anchor="start" class="Lx">Same spatial assignment of referents as ASL; agreement verbs</text>
+<text x="50" y="194" text-anchor="start" class="Lx">move between loci. Classifiers used for categories of objects.</text>
+<text x="36" y="205" text-anchor="start" class="H">TENSE</text>
+<text x="50" y="214" text-anchor="start" class="Lx">Timeline: past = behind signer; future = in front. Explicit time signs</text>
+<text x="50" y="222" text-anchor="start" class="Lx">(YESTERDAY, TOMORROW, LONG-AGO, FUTURE) mark tense.</text>
+<text x="36" y="233" text-anchor="start" class="H">ASPECT</text>
+<text x="50" y="242" text-anchor="start" class="Lx">Verb movement modulated: repeated/slow = habitual/ongoing.</text>
+<text x="50" y="250" text-anchor="start" class="Lx">Single sharp movement = completed/punctual.</text>
+<text x="36" y="261" text-anchor="start" class="H">NEGATION</text>
+<text x="50" y="270" text-anchor="start" class="Lx">Head shake + sign NON, or head shake alone for simple negation.</text>
+<text x="50" y="278" text-anchor="start" class="Lx">PAS ENCORE (not yet), JAMAIS (never): distinct sign + NMS.</text>
+<line x1="24" y1="291" x2="456" y2="291" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="297" x2="118" y2="297" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="H">— HISTORICAL SIGNIFICANCE —</text>
+<line x1="362" y1="297" x2="450" y2="297" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="309" text-anchor="start" class="Lx">Institut National des Jeunes Sourds de Paris (1760): first national Deaf school.</text>
+<text x="36" y="318" text-anchor="start" class="Lx">Abbé de l’Épée (1712–1789): pioneered education of Deaf children using sign.</text>
+<text x="36" y="327" text-anchor="start" class="Lx">LSF became prestigious through the Paris school; Deaf teachers trained across Europe.</text>
+<text x="36" y="336" text-anchor="start" class="Lx">When Gallaudet brought Clerc to the USA in 1817, they brought the Paris school method.</text>
+<text x="36" y="345" text-anchor="start" class="Lx">As LSF and ASL evolved separately, they diverged; modern ASL is now more distinct.</text>
+<text x="36" y="354" text-anchor="start" class="Lx">Many sign languages worldwide contain LSF-lineage elements (Mali, Morocco, Turkey).</text>
+<line x1="24" y1="365" x2="456" y2="365" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="371" x2="118" y2="371" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="375" text-anchor="middle" class="H">— CORE VOCABULARY (LSF GLOSS) —</text>
+<line x1="362" y1="371" x2="450" y2="371" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="383" text-anchor="start" class="Ls">MOI (I/ME)</text>
+<text x="148" y="383" text-anchor="start" class="Lx">index to chest</text>
+<text x="36" y="392" text-anchor="start" class="Ls">TOI (YOU)</text>
+<text x="148" y="392" text-anchor="start" class="Lx">index to addressee</text>
+<text x="36" y="401" text-anchor="start" class="Ls">LUI/ELLE (HE/SHE)</text>
+<text x="148" y="401" text-anchor="start" class="Lx">index to locus</text>
+<text x="36" y="410" text-anchor="start" class="Ls">NOM (NAME)</text>
+<text x="148" y="410" text-anchor="start" class="Lx">N at forehead</text>
+<text x="36" y="419" text-anchor="start" class="Ls">SOURD (DEAF)</text>
+<text x="148" y="419" text-anchor="start" class="Lx">index ear to mouth</text>
+<text x="36" y="428" text-anchor="start" class="Ls">ENTENDANT (HEARING)</text>
+<text x="148" y="428" text-anchor="start" class="Lx">index circles at mouth</text>
+<text x="36" y="437" text-anchor="start" class="Ls">SIGNER</text>
+<text x="148" y="437" text-anchor="start" class="Lx">two indices circle</text>
+<text x="36" y="446" text-anchor="start" class="Ls">COMPRENDRE</text>
+<text x="148" y="446" text-anchor="start" class="Lx">index taps forehead</text>
+<text x="246" y="383" text-anchor="start" class="Ls">DONNER (GIVE)</text>
+<text x="358" y="383" text-anchor="start" class="Lx">palm up, extend</text>
+<text x="246" y="392" text-anchor="start" class="Ls">PRENDRE (TAKE)</text>
+<text x="358" y="392" text-anchor="start" class="Lx">palm down, draw back</text>
+<text x="246" y="401" text-anchor="start" class="Ls">FAIRE (MAKE)</text>
+<text x="358" y="401" text-anchor="start" class="Lx">fists rotate</text>
+<text x="246" y="410" text-anchor="start" class="Ls">LIBRE (FREE)</text>
+<text x="358" y="410" text-anchor="start" class="Lx">wrists cross then open</text>
+<text x="246" y="419" text-anchor="start" class="Ls">SE SOUVENIR</text>
+<text x="358" y="419" text-anchor="start" class="Lx">A-hand temple fwd</text>
+<text x="246" y="428" text-anchor="start" class="Ls">AVANT (FORWARD)</text>
+<text x="358" y="428" text-anchor="start" class="Lx">flat hand forward</text>
+<text x="246" y="437" text-anchor="start" class="Ls">PERSONNES</text>
+<text x="358" y="437" text-anchor="start" class="Lx">P-hands alternate</text>
+<text x="246" y="446" text-anchor="start" class="Ls">ENSEMBLE (TOGETHER)</text>
+<text x="358" y="446" text-anchor="start" class="Lx">fists side by side</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 64B  ·  SERIES 64  ·  FRENCH SIGN LANGUAGE (LSF)  ·  SVO · SPATIAL GRAMMAR · ASL PARENT</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

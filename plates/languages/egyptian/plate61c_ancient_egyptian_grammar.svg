@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Le { font: 18px/1 "Noto Sans Egyptian Hieroglyphs",serif; }
+  .Lm { font: italic 7.5px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="47" text-anchor="middle" class="S">GRAMMAR · VSO WORD ORDER · SUFFIX CONJUGATION · MIDDLE EGYPTIAN</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— WORD ORDER: VERB – SUBJECT – OBJECT —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="L">Egyptian is VSO: the verb comes first, then subject, then object.</text>
+<rect x="36" y="86" width="404" height="32" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="98" text-anchor="middle" class="Lm">sDm  nTr  s</text>
+<text x="240" y="110" text-anchor="middle" class="Lx">"hears / god / man"  →  The god hears the man</text>
+<text x="36" y="126" text-anchor="start" class="Lx">Adverbs and prepositional phrases follow the verb. Negation precedes the verb.</text>
+<line x1="24" y1="136" x2="456" y2="136" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="144" x2="118" y2="144" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="148" text-anchor="middle" class="H">— SUFFIX CONJUGATION —</text>
+<line x1="362" y1="144" x2="450" y2="144" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="156" text-anchor="start" class="Lx">Tense/aspect is encoded by suffixes on the verbal root. The key form is sDm.n=f (he heard).</text>
+<text x="36" y="166" text-anchor="start" class="H">Form</text>
+<text x="140" y="166" text-anchor="start" class="H">Aspect</text>
+<text x="220" y="166" text-anchor="start" class="H">Meaning</text>
+<line x1="24" y1="169" x2="456" y2="169" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="175" text-anchor="start" class="Lx">sDm.f</text>
+<text x="140" y="175" text-anchor="start" class="Lx">Imperfective</text>
+<text x="220" y="175" text-anchor="start" class="Lx">He hears / he habitually hears (present/future)</text>
+<text x="36" y="184" text-anchor="start" class="Lx">sDm.n.f</text>
+<text x="140" y="184" text-anchor="start" class="Lx">Perfective</text>
+<text x="220" y="184" text-anchor="start" class="Lx">He heard (past, completed action — the n-form)</text>
+<text x="36" y="193" text-anchor="start" class="Lx">sDm.w.f</text>
+<text x="140" y="193" text-anchor="start" class="Lx">Passive</text>
+<text x="220" y="193" text-anchor="start" class="Lx">It is heard / he is heard</text>
+<text x="36" y="202" text-anchor="start" class="Lx">sDm.xr.f</text>
+<text x="140" y="202" text-anchor="start" class="Lx">Sequential</text>
+<text x="220" y="202" text-anchor="start" class="Lx">Then he heard (narrative sequence)</text>
+<text x="36" y="211" text-anchor="start" class="Lx">sDm.kA.f</text>
+<text x="140" y="211" text-anchor="start" class="Lx">Prospective</text>
+<text x="220" y="211" text-anchor="start" class="Lx">He will/shall hear</text>
+<line x1="24" y1="222" x2="456" y2="222" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="228" x2="118" y2="228" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="232" text-anchor="middle" class="H">— SUFFIX PRONOUNS —</text>
+<line x1="362" y1="228" x2="450" y2="228" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="239" text-anchor="start" class="Ls">=i</text>
+<text x="76" y="239" text-anchor="start" class="Lx">1sg</text>
+<text x="120" y="239" text-anchor="start" class="Lx">I/me</text>
+<text x="240" y="239" text-anchor="start" class="Ls">=s</text>
+<text x="280" y="239" text-anchor="start" class="Lx">3sg.f</text>
+<text x="330" y="239" text-anchor="start" class="Lx">she/her</text>
+<text x="36" y="248" text-anchor="start" class="Ls">=k</text>
+<text x="76" y="248" text-anchor="start" class="Lx">2sg.m</text>
+<text x="120" y="248" text-anchor="start" class="Lx">you (masc.)</text>
+<text x="240" y="248" text-anchor="start" class="Ls">=n</text>
+<text x="280" y="248" text-anchor="start" class="Lx">1pl</text>
+<text x="330" y="248" text-anchor="start" class="Lx">we/us</text>
+<text x="36" y="257" text-anchor="start" class="Ls">=T</text>
+<text x="76" y="257" text-anchor="start" class="Lx">2sg.f</text>
+<text x="120" y="257" text-anchor="start" class="Lx">you (fem.)</text>
+<text x="240" y="257" text-anchor="start" class="Ls">=Tn</text>
+<text x="280" y="257" text-anchor="start" class="Lx">2pl</text>
+<text x="330" y="257" text-anchor="start" class="Lx">you (pl.)</text>
+<text x="36" y="266" text-anchor="start" class="Ls">=f</text>
+<text x="76" y="266" text-anchor="start" class="Lx">3sg.m</text>
+<text x="120" y="266" text-anchor="start" class="Lx">he/him</text>
+<text x="240" y="266" text-anchor="start" class="Ls">=sn</text>
+<text x="280" y="266" text-anchor="start" class="Lx">3pl</text>
+<text x="330" y="266" text-anchor="start" class="Lx">they/them</text>
+<line x1="24" y1="277" x2="456" y2="277" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="283" x2="118" y2="283" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="287" text-anchor="middle" class="H">— NOUNS: GENDER, NUMBER, GENITIVE —</text>
+<line x1="362" y1="283" x2="450" y2="283" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="295" text-anchor="start" class="H">Gender/Number</text>
+<text x="130" y="295" text-anchor="start" class="H">Marker</text>
+<text x="230" y="295" text-anchor="start" class="H">Example</text>
+<text x="300" y="295" text-anchor="start" class="H">Gloss</text>
+<line x1="24" y1="298" x2="456" y2="298" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="304" text-anchor="start" class="Lx">Masculine</text>
+<text x="130" y="304" text-anchor="start" class="Lx">No ending</text>
+<text x="230" y="304" text-anchor="start" class="Lx">pr</text>
+<text x="300" y="304" text-anchor="start" class="Lx">house</text>
+<text x="36" y="313" text-anchor="start" class="Lx">Feminine</text>
+<text x="130" y="313" text-anchor="start" class="Lx">-t suffix</text>
+<text x="230" y="313" text-anchor="start" class="Lx">pr.t</text>
+<text x="300" y="313" text-anchor="start" class="Lx">house (fem.) / "going out"</text>
+<text x="36" y="322" text-anchor="start" class="Lx">Dual</text>
+<text x="130" y="322" text-anchor="start" class="Lx">-wy (m.) / -ty (f.)</text>
+<text x="230" y="322" text-anchor="start" class="Lx">ir.ty</text>
+<text x="300" y="322" text-anchor="start" class="Lx">the two eyes</text>
+<text x="36" y="331" text-anchor="start" class="Lx">Plural</text>
+<text x="130" y="331" text-anchor="start" class="Lx">-w (m.) / -wt (f.)</text>
+<text x="230" y="331" text-anchor="start" class="Lx">Hwt-nTrw</text>
+<text x="300" y="331" text-anchor="start" class="Lx">temples (lit. god-houses)</text>
+<line x1="24" y1="342" x2="456" y2="342" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="348" x2="118" y2="348" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="352" text-anchor="middle" class="H">— NEGATION —</text>
+<line x1="362" y1="348" x2="450" y2="348" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="358" text-anchor="start" class="Ls">n sDm.n=f</text>
+<text x="150" y="358" text-anchor="start" class="Lx">He did not hear</text>
+<text x="290" y="358" text-anchor="start" class="Lx">Past negation with n + perfective</text>
+<text x="36" y="367" text-anchor="start" class="Ls">nn sDm=f</text>
+<text x="150" y="367" text-anchor="start" class="Lx">He does/will not hear</text>
+<text x="290" y="367" text-anchor="start" class="Lx">Present/future negation</text>
+<text x="36" y="376" text-anchor="start" class="Ls">tm=f sDm</text>
+<text x="150" y="376" text-anchor="start" class="Lx">Without his hearing</text>
+<text x="290" y="376" text-anchor="start" class="Lx">Negative complement infinitive</text>
+<text x="36" y="385" text-anchor="start" class="Ls">n wn ... m</text>
+<text x="150" y="385" text-anchor="start" class="Lx">There is no ... in ...</text>
+<text x="290" y="385" text-anchor="start" class="Lx">Existential negation: n wn + noun + m</text>
+<line x1="24" y1="396" x2="456" y2="396" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="402" x2="118" y2="402" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="406" text-anchor="middle" class="H">— CORE VOCABULARY (MIDDLE EGYPTIAN) —</text>
+<line x1="362" y1="402" x2="450" y2="402" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="412" text-anchor="start" class="Ls">nTr</text>
+<text x="140" y="412" text-anchor="start" class="Lx">god / divine</text>
+<text x="36" y="421" text-anchor="start" class="Ls">s</text>
+<text x="140" y="421" text-anchor="start" class="Lx">man / person</text>
+<text x="36" y="430" text-anchor="start" class="Ls">pr</text>
+<text x="140" y="430" text-anchor="start" class="Lx">house / to go out</text>
+<text x="36" y="439" text-anchor="start" class="Ls">mAa</text>
+<text x="140" y="439" text-anchor="start" class="Lx">true / to show</text>
+<text x="36" y="448" text-anchor="start" class="Ls">nfr</text>
+<text x="140" y="448" text-anchor="start" class="Lx">beautiful / good</text>
+<text x="36" y="457" text-anchor="start" class="Ls">anx</text>
+<text x="140" y="457" text-anchor="start" class="Lx">life / to live</text>
+<text x="36" y="466" text-anchor="start" class="Ls">wn</text>
+<text x="140" y="466" text-anchor="start" class="Lx">to be / to exist</text>
+<text x="36" y="475" text-anchor="start" class="Ls">ii</text>
+<text x="140" y="475" text-anchor="start" class="Lx">to come</text>
+<text x="36" y="484" text-anchor="start" class="Ls">šm</text>
+<text x="140" y="484" text-anchor="start" class="Lx">to go</text>
+<text x="190" y="412" text-anchor="start" class="Ls">di</text>
+<text x="290" y="412" text-anchor="start" class="Lx">to give / to place</text>
+<text x="190" y="421" text-anchor="start" class="Ls">ir</text>
+<text x="290" y="421" text-anchor="start" class="Lx">to do / to make</text>
+<text x="190" y="430" text-anchor="start" class="Ls">in</text>
+<text x="290" y="430" text-anchor="start" class="Lx">by / it is (introduces agent)</text>
+<text x="190" y="439" text-anchor="start" class="Ls">n</text>
+<text x="290" y="439" text-anchor="start" class="Lx">for / to / of (dative)</text>
+<text x="190" y="448" text-anchor="start" class="Ls">m</text>
+<text x="290" y="448" text-anchor="start" class="Lx">in / with / as / from</text>
+<text x="190" y="457" text-anchor="start" class="Ls">Hr</text>
+<text x="290" y="457" text-anchor="start" class="Lx">upon / face / above</text>
+<text x="190" y="466" text-anchor="start" class="Ls">nb</text>
+<text x="290" y="466" text-anchor="start" class="Lx">lord / all / every</text>
+<text x="190" y="475" text-anchor="start" class="Ls">Htp</text>
+<text x="290" y="475" text-anchor="start" class="Lx">peace / offering / to be satisfied</text>
+<text x="190" y="484" text-anchor="start" class="Ls">mri</text>
+<text x="290" y="484" text-anchor="start" class="Lx">to love / desire</text>
+<text x="344" y="412" text-anchor="start" class="Ls">xnt</text>
+<text x="450" y="412" text-anchor="start" class="Lx">in front of / forward / before (in space/time)</text>
+<text x="344" y="421" text-anchor="start" class="Ls">sAA</text>
+<text x="450" y="421" text-anchor="start" class="Lx">to remember / to be mindful of</text>
+<text x="344" y="430" text-anchor="start" class="Ls">rn</text>
+<text x="450" y="430" text-anchor="start" class="Lx">name</text>
+<text x="344" y="439" text-anchor="start" class="Ls">pt</text>
+<text x="450" y="439" text-anchor="start" class="Lx">sky / heaven</text>
+<text x="344" y="448" text-anchor="start" class="Ls">tA</text>
+<text x="450" y="448" text-anchor="start" class="Lx">earth / land</text>
+<text x="344" y="457" text-anchor="start" class="Ls">rmT</text>
+<text x="450" y="457" text-anchor="start" class="Lx">people / human beings</text>
+<text x="344" y="466" text-anchor="start" class="Ls">nfrw</text>
+<text x="450" y="466" text-anchor="start" class="Lx">beauty / goodness / freely</text>
+<text x="344" y="475" text-anchor="start" class="Ls">sA</text>
+<text x="450" y="475" text-anchor="start" class="Lx">son / protection / back (future descendants)</text>
+<text x="344" y="484" text-anchor="start" class="Ls">Hfnw</text>
+<text x="450" y="484" text-anchor="start" class="Lx">freely / at no cost / graciously</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 61C  ·  SERIES 61  ·  ANCIENT EGYPTIAN  ·  MIDDLE EGYPTIAN c. 2000 BCE  ·  U+13000–U+13431</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE (ASL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">PHONOLOGICAL PARAMETERS · THE 5 CHEREMES · SERIES 62B</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="65" text-anchor="middle" class="Lx">Like spoken languages, sign languages have "phonology" — a system of minimal units.</text>
+<text x="240" y="74" text-anchor="middle" class="Lx">In sign languages these are called CHEREMES (Stokoe 1960). Changing one parameter</text>
+<text x="240" y="83" text-anchor="middle" class="Lx">changes the meaning, just as changing a phoneme does in spoken language.</text>
+<line x1="24" y1="91" x2="456" y2="91" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="100" width="194" height="95" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="133" y="111" text-anchor="middle" class="H">1. HANDSHAPE (DEZ)</text>
+<text x="133" y="121" text-anchor="middle" class="Lx">Dez — Designator</text>
+<line x1="40" y1="124" x2="226" y2="124" stroke="#111" stroke-width="0.3"/>
+<text x="44" y="132" text-anchor="start" class="Lx">• ~50 distinct handshapes in ASL</text>
+<text x="44" y="140" text-anchor="start" class="Lx">• Ex: MOTHER vs FATHER differ only</text>
+<text x="44" y="148" text-anchor="start" class="Lx">•   in handshape (5-spread vs A-fist)</text>
+<text x="44" y="156" text-anchor="start" class="Lx">• Most semantically loaded parameter</text>
+<rect x="242" y="100" width="194" height="95" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="339" y="111" text-anchor="middle" class="H">2. LOCATION (TAB)</text>
+<text x="339" y="121" text-anchor="middle" class="Lx">Tab — Tabula</text>
+<line x1="246" y1="124" x2="432" y2="124" stroke="#111" stroke-width="0.3"/>
+<text x="250" y="132" text-anchor="start" class="Lx">• 12 major signing-space zones</text>
+<text x="250" y="140" text-anchor="start" class="Lx">• Head, face, neck, chest, abdomen,</text>
+<text x="250" y="148" text-anchor="start" class="Lx">•   waist, upper/lower arm, wrist,</text>
+<text x="250" y="156" text-anchor="start" class="Lx">•   dominant/non-dominant hand</text>
+<rect x="36" y="202" width="194" height="95" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="133" y="213" text-anchor="middle" class="H">3. MOVEMENT (SIG)</text>
+<text x="133" y="223" text-anchor="middle" class="Lx">Sig — Signation</text>
+<line x1="40" y1="226" x2="226" y2="226" stroke="#111" stroke-width="0.3"/>
+<text x="44" y="234" text-anchor="start" class="Lx">• Path: arc, straight, circular</text>
+<text x="44" y="242" text-anchor="start" class="Lx">• Direction: up/down, in/out, across</text>
+<text x="44" y="250" text-anchor="start" class="Lx">• Manner: smooth, tense, repeated</text>
+<text x="44" y="258" text-anchor="start" class="Lx">• Internal: finger wiggle, wrist twist</text>
+<rect x="242" y="202" width="194" height="95" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="339" y="213" text-anchor="middle" class="H">4. PALM ORIENTATION</text>
+<text x="339" y="223" text-anchor="middle" class="Lx">Orientation of palm face</text>
+<line x1="246" y1="226" x2="432" y2="226" stroke="#111" stroke-width="0.3"/>
+<text x="250" y="234" text-anchor="start" class="Lx">• Up, down, in (toward signer),</text>
+<text x="250" y="242" text-anchor="start" class="Lx">•   out (away from signer),</text>
+<text x="250" y="250" text-anchor="start" class="Lx">•   left, right</text>
+<text x="250" y="258" text-anchor="start" class="Lx">• GIVE: palm up vs TAKE: palm down</text>
+<rect x="36" y="304" width="194" height="95" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="133" y="315" text-anchor="middle" class="H">5. NON-MANUAL SIGNALS</text>
+<text x="133" y="325" text-anchor="middle" class="Lx">NMS — Face + body</text>
+<line x1="40" y1="328" x2="226" y2="328" stroke="#111" stroke-width="0.3"/>
+<text x="44" y="336" text-anchor="start" class="Lx">• Facial expressions: brow raise/furrow</text>
+<text x="44" y="344" text-anchor="start" class="Lx">• Mouth morphemes, eye gaze, head tilt</text>
+<text x="44" y="352" text-anchor="start" class="Lx">• YES/NO question: brow raise + eye widen</text>
+<text x="44" y="360" text-anchor="start" class="Lx">• WH- question: brow furrow + head tilt</text>
+<line x1="24" y1="410" x2="456" y2="410" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="417" x2="118" y2="417" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="421" text-anchor="middle" class="H">— MINIMAL PAIRS (ONE PARAMETER DIFFERS) —</text>
+<line x1="362" y1="417" x2="450" y2="417" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="428" text-anchor="start" class="H">Pair</text>
+<text x="165" y="428" text-anchor="start" class="H">Param.</text>
+<text x="255" y="428" text-anchor="start" class="H">Description</text>
+<line x1="24" y1="431" x2="456" y2="431" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="438" text-anchor="start" class="Lx">MOTHER / FATHER</text>
+<text x="165" y="438" text-anchor="start" class="Lx">Location</text>
+<text x="255" y="438" text-anchor="start" class="Lx">Both: 5-spread hand, tapping cheek vs chin</text>
+<text x="36" y="447" text-anchor="start" class="Lx">APPLE / CANDY</text>
+<text x="165" y="447" text-anchor="start" class="Lx">Location</text>
+<text x="255" y="447" text-anchor="start" class="Lx">X-hand at cheek (A) vs at chin (C)</text>
+<text x="36" y="456" text-anchor="start" class="Lx">KNOW / FEEL</text>
+<text x="165" y="456" text-anchor="start" class="Lx">Handshape</text>
+<text x="255" y="456" text-anchor="start" class="Lx">Flat B at forehead (K) vs curved 5 at chest (F)</text>
+<text x="36" y="465" text-anchor="start" class="Lx">BORROW / LEND</text>
+<text x="165" y="465" text-anchor="start" class="Lx">Direction</text>
+<text x="255" y="465" text-anchor="start" class="Lx">Same handshape+location; movement toward/away signer</text>
+<text x="36" y="474" text-anchor="start" class="Lx">SAY / TALK</text>
+<text x="165" y="474" text-anchor="start" class="Lx">Repetition</text>
+<text x="255" y="474" text-anchor="start" class="Lx">One movement (SAY) vs repeated (TALK)</text>
+<line x1="24" y1="487" x2="456" y2="487" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="496" text-anchor="middle" class="Lx">SIMULTANEITY: Sign languages can express multiple parameters AT ONCE (simultaneous morphology).</text>
+<text x="240" y="505" text-anchor="middle" class="Lx">A single sign can encode subject, object, aspect, and classifier in one articulation.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 62B  ·  SERIES 62  ·  AMERICAN SIGN LANGUAGE  ·  STOKOE NOTATION · 5 CHEREMES</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRITISH SIGN LANGUAGE (BSL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">TWO-HANDED MANUAL ALPHABET · HANDSHAPES · SERIES 63A</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="65" text-anchor="middle" class="Lx">BSL is used by ~150,000 native signers in the United Kingdom. Although English is the</text>
+<text x="240" y="74" text-anchor="middle" class="Lx">surrounding spoken language (as in the US), BSL and ASL are MUTUALLY UNINTELLIGIBLE —</text>
+<text x="240" y="83" text-anchor="middle" class="Lx">they are distinct languages. Only ~31% of signs are identical between BSL and ASL.</text>
+<line x1="24" y1="91" x2="456" y2="91" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="98" x2="118" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="102" text-anchor="middle" class="H">— TWO-HANDED VS ONE-HANDED FINGERSPELLING —</text>
+<line x1="362" y1="98" x2="450" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="109" text-anchor="start" class="Lx">BSL</text>
+<text x="105" y="109" text-anchor="start" class="Lx">TWO-HANDED</text>
+<text x="165" y="109" text-anchor="start" class="Lx">Both hands used. Non-dominant (base) hand = passive platform; dominant hand = active.</text>
+<text x="36" y="118" text-anchor="start" class="Lx">ASL</text>
+<text x="105" y="118" text-anchor="start" class="Lx">ONE-HANDED</text>
+<text x="165" y="118" text-anchor="start" class="Lx">Only dominant hand. Borrowed from LSF (French Sign Language) via Gallaudet 1817.</text>
+<text x="36" y="127" text-anchor="start" class="Lx">LSF</text>
+<text x="105" y="127" text-anchor="start" class="Lx">ONE-HANDED</text>
+<text x="165" y="127" text-anchor="start" class="Lx">French Sign Language — ancestor of ASL; one-handed alphabet similar to ASL.</text>
+<text x="36" y="136" text-anchor="start" class="Lx">Auslan</text>
+<text x="105" y="136" text-anchor="start" class="Lx">TWO-HANDED</text>
+<text x="165" y="136" text-anchor="start" class="Lx">Australian Sign Language shares BSL’s two-handed alphabet; historically related.</text>
+<line x1="24" y1="147" x2="456" y2="147" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="153" x2="118" y2="153" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H">— BSL TWO-HANDED ALPHABET — ALL 26 LETTERS —</text>
+<line x1="362" y1="153" x2="450" y2="153" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="163" text-anchor="middle" class="Lx">Base hand (non-dominant): flat B-hand, palm toward signer. Dominant hand makes active shape.</text>
+<text x="36" y="173" text-anchor="start" class="Ls">A:</text>
+<text x="58" y="173" text-anchor="start" class="Lx">Index points at A side of base</text>
+<text x="264" y="173" text-anchor="start" class="Ls">B:</text>
+<text x="286" y="173" text-anchor="start" class="Lx">Index + middle point at base</text>
+<text x="36" y="182" text-anchor="start" class="Ls">C:</text>
+<text x="58" y="182" text-anchor="start" class="Lx">Index traces C on base</text>
+<text x="264" y="182" text-anchor="start" class="Ls">D:</text>
+<text x="286" y="182" text-anchor="start" class="Lx">Index to base, arc</text>
+<text x="36" y="191" text-anchor="start" class="Ls">E:</text>
+<text x="58" y="191" text-anchor="start" class="Lx">All fingers extended, touch</text>
+<text x="264" y="191" text-anchor="start" class="Ls">F:</text>
+<text x="286" y="191" text-anchor="start" class="Lx">All fingers and thumb together</text>
+<text x="36" y="200" text-anchor="start" class="Ls">G:</text>
+<text x="58" y="200" text-anchor="start" class="Lx">Index + thumb, touch base</text>
+<text x="264" y="200" text-anchor="start" class="Ls">H:</text>
+<text x="286" y="200" text-anchor="start" class="Lx">Index + middle, touch base</text>
+<text x="36" y="209" text-anchor="start" class="Ls">I:</text>
+<text x="58" y="209" text-anchor="start" class="Lx">Pinky touches base</text>
+<text x="264" y="209" text-anchor="start" class="Ls">J:</text>
+<text x="286" y="209" text-anchor="start" class="Lx">Pinky traces J on base</text>
+<text x="36" y="218" text-anchor="start" class="Ls">K:</text>
+<text x="58" y="218" text-anchor="start" class="Lx">Index + middle + thumb</text>
+<text x="264" y="218" text-anchor="start" class="Ls">L:</text>
+<text x="286" y="218" text-anchor="start" class="Lx">L-shape touches base</text>
+<text x="36" y="227" text-anchor="start" class="Ls">M:</text>
+<text x="58" y="227" text-anchor="start" class="Lx">Three fingers on base palm</text>
+<text x="264" y="227" text-anchor="start" class="Ls">N:</text>
+<text x="286" y="227" text-anchor="start" class="Lx">Two fingers on base palm</text>
+<text x="36" y="236" text-anchor="start" class="Ls">O:</text>
+<text x="58" y="236" text-anchor="start" class="Lx">O-shape on base</text>
+<text x="264" y="236" text-anchor="start" class="Ls">P:</text>
+<text x="286" y="236" text-anchor="start" class="Lx">Like K, pointing down</text>
+<text x="36" y="245" text-anchor="start" class="Ls">Q:</text>
+<text x="58" y="245" text-anchor="start" class="Lx">G-shape, pointing down</text>
+<text x="264" y="245" text-anchor="start" class="Ls">R:</text>
+<text x="286" y="245" text-anchor="start" class="Lx">Crossed index+middle</text>
+<text x="36" y="254" text-anchor="start" class="Ls">S:</text>
+<text x="58" y="254" text-anchor="start" class="Lx">Closed fist on base</text>
+<text x="264" y="254" text-anchor="start" class="Ls">T:</text>
+<text x="286" y="254" text-anchor="start" class="Lx">Thumb between i+m on base</text>
+<text x="36" y="263" text-anchor="start" class="Ls">U:</text>
+<text x="58" y="263" text-anchor="start" class="Lx">Index + middle up on base</text>
+<text x="264" y="263" text-anchor="start" class="Ls">V:</text>
+<text x="286" y="263" text-anchor="start" class="Lx">V-shape on base</text>
+<text x="36" y="272" text-anchor="start" class="Ls">W:</text>
+<text x="58" y="272" text-anchor="start" class="Lx">W-shape on base</text>
+<text x="264" y="272" text-anchor="start" class="Ls">X:</text>
+<text x="286" y="272" text-anchor="start" class="Lx">Hooked index on base</text>
+<text x="36" y="281" text-anchor="start" class="Ls">Y:</text>
+<text x="58" y="281" text-anchor="start" class="Lx">Pinky + thumb extended</text>
+<text x="264" y="281" text-anchor="start" class="Ls">Z:</text>
+<text x="286" y="281" text-anchor="start" class="Lx">Index traces Z on base</text>
+<line x1="24" y1="298" x2="456" y2="298" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="304" x2="118" y2="304" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H">— BSL vs ASL: KEY DIFFERENCES IN FINGERSPELLING —</text>
+<line x1="362" y1="304" x2="450" y2="304" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="314" text-anchor="start" class="H">Letter</text>
+<text x="130" y="314" text-anchor="start" class="H">BSL</text>
+<text x="295" y="314" text-anchor="start" class="H">ASL</text>
+<line x1="24" y1="317" x2="456" y2="317" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="323" text-anchor="start" class="Lx">A–Z general</text>
+<text x="130" y="323" text-anchor="start" class="Lx">Two-handed (both hands)</text>
+<text x="295" y="323" text-anchor="start" class="Lx">One-handed (dominant only)</text>
+<text x="36" y="332" text-anchor="start" class="Lx">A</text>
+<text x="130" y="332" text-anchor="start" class="Lx">Index at left side of flat base</text>
+<text x="295" y="332" text-anchor="start" class="Lx">Closed fist, thumb on side</text>
+<text x="36" y="341" text-anchor="start" class="Lx">B</text>
+<text x="130" y="341" text-anchor="start" class="Lx">Index+middle at right of base</text>
+<text x="295" y="341" text-anchor="start" class="Lx">Flat open hand, thumb across</text>
+<text x="36" y="350" text-anchor="start" class="Lx">D</text>
+<text x="130" y="350" text-anchor="start" class="Lx">Index arc over base thumb</text>
+<text x="295" y="350" text-anchor="start" class="Lx">D-shape: index up, others bent</text>
+<text x="36" y="359" text-anchor="start" class="Lx">G</text>
+<text x="130" y="359" text-anchor="start" class="Lx">Index+thumb pinch at base</text>
+<text x="295" y="359" text-anchor="start" class="Lx">Index+thumb pointing sideways</text>
+<text x="36" y="368" text-anchor="start" class="Lx">I</text>
+<text x="130" y="368" text-anchor="start" class="Lx">Pinky touches base palm</text>
+<text x="295" y="368" text-anchor="start" class="Lx">Pinky only up, others in fist</text>
+<text x="36" y="377" text-anchor="start" class="Lx">R</text>
+<text x="130" y="377" text-anchor="start" class="Lx">Crossed fingers tap base</text>
+<text x="295" y="377" text-anchor="start" class="Lx">Crossed index+middle, up</text>
+<text x="36" y="386" text-anchor="start" class="Lx">Y</text>
+<text x="130" y="386" text-anchor="start" class="Lx">Pinky+thumb out, tap base</text>
+<text x="295" y="386" text-anchor="start" class="Lx">Shaka: pinky+thumb extended</text>
+<line x1="24" y1="399" x2="456" y2="399" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="408" text-anchor="middle" class="Lx">BASE HAND POSITIONS: Most BSL letters use flat B as base (palm in or palm up).</text>
+<text x="240" y="417" text-anchor="middle" class="Lx">For vowels (A, E, I, O, U), the dominant hand taps the matching finger on the base hand.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 63A  ·  SERIES 63  ·  BRITISH SIGN LANGUAGE  ·  BSL · UK · ~150,000 NATIVE SIGNERS</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

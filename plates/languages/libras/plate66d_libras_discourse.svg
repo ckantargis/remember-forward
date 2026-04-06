@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRAZILIAN SIGN LANGUAGE (LIBRAS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">BRIDGE PHRASE · DISCOURSE · SIGN LANGUAGE OVERVIEW · SERIES 66D</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— BRIDGE PHRASE IN LIBRAS GLOSS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="74" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="86" text-anchor="middle" class="Lg">ISSO  FAZER  PARA-VOCÊ  LIVRE  PESSOAS  LEMBRAR  AVANÇAR</text>
+<text x="240" y="96" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="36" y="108" text-anchor="start" class="Lx">ISSO (this): Index points at the object; deictic reference.</text>
+<text x="36" y="116" text-anchor="start" class="Lx">FAZER (make): S-hands rotate on each other (cognate with ASL MAKE, LSF FAIRE).</text>
+<text x="36" y="124" text-anchor="start" class="Lx">PARA-VOCÊ (for-you): preposition PARA directed toward addressee's locus.</text>
+<text x="36" y="132" text-anchor="start" class="Lx">LIVRE (free): wrists crossed (bound), open outward (iconic: liberation from constraint).</text>
+<text x="36" y="140" text-anchor="start" class="Lx">LEMBRAR (remember): A-hand at temple, moves forward — memory + forward direction.</text>
+<text x="36" y="148" text-anchor="start" class="Lx">AVANÇAR (advance/forward): flat hand pushed forward in neutral space.</text>
+<text x="36" y="156" text-anchor="start" class="Lx">FUTURITY NOTE: Like ASL, Libras uses a horizontal timeline (past=behind, future=ahead).</text>
+<text x="36" y="164" text-anchor="start" class="Lx">LEMBRAR+AVANÇAR maps perfectly to the spatial metaphor: remembering toward the future.</text>
+<line x1="24" y1="174" x2="456" y2="174" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="180" x2="118" y2="180" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="184" text-anchor="middle" class="H">— SIGN LANGUAGE SERIES SUMMARY — ALL 5 LANGUAGES (SERIES 62–66) —</text>
+<line x1="362" y1="180" x2="450" y2="180" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="192" text-anchor="start" class="H">Series</text>
+<text x="70" y="192" text-anchor="start" class="H">Language</text>
+<text x="148" y="192" text-anchor="start" class="H">Signers</text>
+<text x="235" y="192" text-anchor="start" class="H">Alphabet</text>
+<text x="300" y="192" text-anchor="start" class="H">Base order</text>
+<text x="355" y="192" text-anchor="start" class="H">Family</text>
+<line x1="24" y1="195" x2="456" y2="195" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="201" text-anchor="start" class="Lx">62</text>
+<text x="70" y="201" text-anchor="start" class="Lx">ASL (American)</text>
+<text x="148" y="201" text-anchor="start" class="Lx">~500k native</text>
+<text x="235" y="201" text-anchor="start" class="Lx">1-handed</text>
+<text x="300" y="201" text-anchor="start" class="Lx">SVO</text>
+<text x="355" y="201" text-anchor="start" class="Lx">French SL</text>
+<text x="36" y="210" text-anchor="start" class="Lx">63</text>
+<text x="70" y="210" text-anchor="start" class="Lx">BSL (British)</text>
+<text x="148" y="210" text-anchor="start" class="Lx">~150k native</text>
+<text x="235" y="210" text-anchor="start" class="Lx">2-handed</text>
+<text x="300" y="210" text-anchor="start" class="Lx">SOV</text>
+<text x="355" y="210" text-anchor="start" class="Lx">BANZSL</text>
+<text x="36" y="219" text-anchor="start" class="Lx">64</text>
+<text x="70" y="219" text-anchor="start" class="Lx">LSF (French)</text>
+<text x="148" y="219" text-anchor="start" class="Lx">~100k native</text>
+<text x="235" y="219" text-anchor="start" class="Lx">1-handed</text>
+<text x="300" y="219" text-anchor="start" class="Lx">SVO</text>
+<text x="355" y="219" text-anchor="start" class="Lx">French SL (parent)</text>
+<text x="36" y="228" text-anchor="start" class="Lx">65</text>
+<text x="70" y="228" text-anchor="start" class="Lx">CSL (Chinese)</text>
+<text x="148" y="228" text-anchor="start" class="Lx">~20M</text>
+<text x="235" y="228" text-anchor="start" class="Lx">Pinyin</text>
+<text x="300" y="228" text-anchor="start" class="Lx">SOV</text>
+<text x="355" y="228" text-anchor="start" class="Lx">Independent</text>
+<text x="36" y="237" text-anchor="start" class="Lx">66</text>
+<text x="70" y="237" text-anchor="start" class="Lx">Libras (Brazilian)</text>
+<text x="148" y="237" text-anchor="start" class="Lx">3–10M</text>
+<text x="235" y="237" text-anchor="start" class="Lx">1-handed</text>
+<text x="300" y="237" text-anchor="start" class="Lx">SVO</text>
+<text x="355" y="237" text-anchor="start" class="Lx">French SL lineage</text>
+<line x1="24" y1="248" x2="456" y2="248" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="254" x2="118" y2="254" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="258" text-anchor="middle" class="H">— UNIVERSAL FEATURES OF NATURAL SIGN LANGUAGES —</text>
+<line x1="362" y1="254" x2="450" y2="254" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="266" text-anchor="start" class="Lx">All natural sign languages share these properties (independent of each other):</text>
+<text x="36" y="274" text-anchor="start" class="Lx"></text>
+<text x="36" y="282" text-anchor="start" class="Lx">1. SPATIAL GRAMMAR: Referents assigned to locations; agreement verbs track them.</text>
+<text x="36" y="290" text-anchor="start" class="Lx">2. CLASSIFIER PREDICATES: Handshapes represent semantic categories in predicates.</text>
+<text x="36" y="298" text-anchor="start" class="Lx">3. NON-MANUAL SIGNALS: Face and body carry grammatical distinctions (not just emotion).</text>
+<text x="36" y="306" text-anchor="start" class="Lx">4. SIMULTANEITY: Multiple morphological elements expressed in one sign.</text>
+<text x="36" y="314" text-anchor="start" class="Lx">5. DUALITY OF PATTERNING: Meaningless units (handshapes) combine into meaningful signs.</text>
+<text x="36" y="322" text-anchor="start" class="Lx">6. PRODUCTIVITY: New signs can be created systematically (compounds, classifiers).</text>
+<text x="36" y="330" text-anchor="start" class="Lx">7. ARBITRARINESS: Most signs are arbitrary (not merely pantomime), with iconic minority.</text>
+<text x="36" y="338" text-anchor="start" class="Lx"></text>
+<text x="36" y="346" text-anchor="start" class="Lx">These features demonstrate that sign languages are COMPLETE NATURAL HUMAN LANGUAGES,</text>
+<text x="36" y="354" text-anchor="start" class="Lx">not codes, inventions, or derivatives of spoken languages.</text>
+<text x="36" y="362" text-anchor="start" class="Lx"></text>
+<text x="36" y="370" text-anchor="start" class="Lx">A finder of this capsule who encounters a signing community can use the</text>
+<text x="36" y="378" text-anchor="start" class="Lx">parameters and spatial grammar described in Series 62–66 as a universal bootstrap.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 66D  ·  SERIES 66  ·  LIBRAS (BRAZILIAN SIGN LANGUAGE)  ·  BRIDGE PHRASE · SERIES 62–66 SUMMARY</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

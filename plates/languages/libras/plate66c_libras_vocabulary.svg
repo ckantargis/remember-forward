@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRAZILIAN SIGN LANGUAGE (LIBRAS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">CORE VOCABULARY · LIBRAS IN BRAZIL · SERIES 66C</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— CORE VOCABULARY (LIBRAS GLOSS) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="Ls">EU (I/ME)</text>
+<text x="148" y="74" text-anchor="start" class="Lx">index to chest</text>
+<text x="36" y="83" text-anchor="start" class="Ls">VOCÊ (YOU)</text>
+<text x="148" y="83" text-anchor="start" class="Lx">index to addressee</text>
+<text x="36" y="92" text-anchor="start" class="Ls">ELE/ELA (HE/SHE)</text>
+<text x="148" y="92" text-anchor="start" class="Lx">index to locus</text>
+<text x="36" y="101" text-anchor="start" class="Ls">NOME (NAME)</text>
+<text x="148" y="101" text-anchor="start" class="Lx">N at forehead</text>
+<text x="36" y="110" text-anchor="start" class="Ls">SURDO (DEAF)</text>
+<text x="148" y="110" text-anchor="start" class="Lx">index ear to chin</text>
+<text x="36" y="119" text-anchor="start" class="Ls">OUVINTE (HEARING)</text>
+<text x="148" y="119" text-anchor="start" class="Lx">index circles at ear</text>
+<text x="36" y="128" text-anchor="start" class="Ls">SINALIZAR (SIGN)</text>
+<text x="148" y="128" text-anchor="start" class="Lx">two indices circle</text>
+<text x="36" y="137" text-anchor="start" class="Ls">ENTENDER (UNDERSTAND)</text>
+<text x="148" y="137" text-anchor="start" class="Lx">index at forehead</text>
+<text x="36" y="146" text-anchor="start" class="Ls">SABER (KNOW)</text>
+<text x="148" y="146" text-anchor="start" class="Lx">flat hand at head</text>
+<text x="36" y="155" text-anchor="start" class="Ls">VER (SEE)</text>
+<text x="148" y="155" text-anchor="start" class="Lx">V from eyes</text>
+<text x="36" y="164" text-anchor="start" class="Ls">DAR (GIVE)</text>
+<text x="148" y="164" text-anchor="start" class="Lx">palm up, extend fwd</text>
+<text x="36" y="173" text-anchor="start" class="Ls">FAZER (MAKE/DO)</text>
+<text x="148" y="173" text-anchor="start" class="Lx">fists rotate</text>
+<text x="246" y="74" text-anchor="start" class="Ls">QUERER (WANT)</text>
+<text x="358" y="74" text-anchor="start" class="Lx">bent fingers draw in</text>
+<text x="246" y="83" text-anchor="start" class="Ls">IR (GO)</text>
+<text x="358" y="83" text-anchor="start" class="Lx">index arc forward</text>
+<text x="246" y="92" text-anchor="start" class="Ls">VIR (COME)</text>
+<text x="358" y="92" text-anchor="start" class="Lx">index curve toward</text>
+<text x="246" y="101" text-anchor="start" class="Ls">BOM (GOOD)</text>
+<text x="358" y="101" text-anchor="start" class="Lx">thumbs up</text>
+<text x="246" y="110" text-anchor="start" class="Ls">RUIM (BAD)</text>
+<text x="358" y="110" text-anchor="start" class="Lx">thumbs down</text>
+<text x="246" y="119" text-anchor="start" class="Ls">LIVRE (FREE)</text>
+<text x="358" y="119" text-anchor="start" class="Lx">wrists cross, open</text>
+<text x="246" y="128" text-anchor="start" class="Ls">LEMBRAR (REMEMBER)</text>
+<text x="358" y="128" text-anchor="start" class="Lx">A-hand temple fwd</text>
+<text x="246" y="137" text-anchor="start" class="Ls">FRENTE/AVANÇAR</text>
+<text x="358" y="137" text-anchor="start" class="Lx">flat hand push fwd</text>
+<text x="246" y="146" text-anchor="start" class="Ls">PESSOAS (PEOPLE)</text>
+<text x="358" y="146" text-anchor="start" class="Lx">P-hands alternating</text>
+<text x="246" y="155" text-anchor="start" class="Ls">AMOR (LOVE)</text>
+<text x="358" y="155" text-anchor="start" class="Lx">crossed arms on chest</text>
+<text x="246" y="164" text-anchor="start" class="Ls">OBRIGADO (THANKS)</text>
+<text x="358" y="164" text-anchor="start" class="Lx">flat hand from chin</text>
+<text x="246" y="173" text-anchor="start" class="Ls">POR FAVOR (PLEASE)</text>
+<text x="358" y="173" text-anchor="start" class="Lx">circular on chest</text>
+<line x1="24" y1="190" x2="456" y2="190" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="198" x2="118" y2="198" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="202" text-anchor="middle" class="H">— LIBRAS IN BRAZIL — LEGAL STATUS &amp; EDUCATION —</text>
+<line x1="362" y1="198" x2="450" y2="198" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="210" text-anchor="start" class="Lx">Law 10.436 (2002): Libras recognised as "a means of communication and expression".</text>
+<text x="36" y="218" text-anchor="start" class="Lx">Decree 5.626 (2005): Libras made compulsory in teacher education curricula.</text>
+<text x="36" y="226" text-anchor="start" class="Lx">Federal University of Santa Catarina (UFSC) leads Libras research in Brazil.</text>
+<text x="36" y="234" text-anchor="start" class="Lx">National Policy on Special Education (2008): inclusive education with Libras interpreters.</text>
+<text x="36" y="242" text-anchor="start" class="Lx"></text>
+<text x="36" y="250" text-anchor="start" class="Lx">INES (Instituto Nacional de Educação de Surdos, Rio de Janeiro, 1856):</text>
+<text x="36" y="258" text-anchor="start" class="Lx">  Founded by Edouard Huet (French Deaf teacher, student of same Paris tradition as Clerc).</text>
+<text x="36" y="266" text-anchor="start" class="Lx">  Libras developed from French Sign Language influence + Brazilian indigenous signs.</text>
+<text x="36" y="274" text-anchor="start" class="Lx">  Brazil’s Deaf community is the largest in Latin America.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 66C  ·  SERIES 66  ·  LIBRAS (BRAZILIAN SIGN LANGUAGE)  ·  VOCABULARY · LAW 10.436/2002</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

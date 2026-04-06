@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">CHINESE SIGN LANGUAGE (CSL / ZGS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">PARAMETERS · GRAMMAR · CHINESE CULTURAL FEATURES · SERIES 65B</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— CSL PHONOLOGICAL PARAMETERS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="H">HANDSHAPE (手型):</text>
+<text x="175" y="74" text-anchor="start" class="Lx">Numerous handshapes; Chinese character forms influence iconic shapes</text>
+<text x="36" y="83" text-anchor="start" class="H">LOCATION (位置):</text>
+<text x="175" y="83" text-anchor="start" class="Lx">Body zones similar to other sign languages; neutral space widely used</text>
+<text x="36" y="92" text-anchor="start" class="H">MOVEMENT (动作):</text>
+<text x="175" y="92" text-anchor="start" class="Lx">Path, direction, internal (finger/wrist); tone-related movement exists</text>
+<text x="36" y="101" text-anchor="start" class="H">ORIENTATION (朝向):</text>
+<text x="175" y="101" text-anchor="start" class="Lx">Palm direction carries grammatical distinctions</text>
+<text x="36" y="110" text-anchor="start" class="H">NMS (非手动信号):</text>
+<text x="175" y="110" text-anchor="start" class="Lx">Facial expression + mouthing of Mandarin words common</text>
+<line x1="24" y1="121" x2="456" y2="121" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="127" x2="118" y2="127" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="131" text-anchor="middle" class="H">— CSL GRAMMAR —</text>
+<line x1="362" y1="127" x2="450" y2="127" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="139" text-anchor="start" class="H">WORD ORDER</text>
+<text x="50" y="148" text-anchor="start" class="Lx">SOV (subject-object-verb) is the unmarked order in CSL,</text>
+<text x="50" y="156" text-anchor="start" class="Lx">reflecting influence of Chinese grammatical structure.</text>
+<text x="36" y="167" text-anchor="start" class="H">TOPIC-COMMENT</text>
+<text x="50" y="176" text-anchor="start" class="Lx">Topic established first (like Mandarin topic-comment structure).</text>
+<text x="50" y="184" text-anchor="start" class="Lx">Close parallel to Mandarin’s own topic-prominent grammar.</text>
+<text x="36" y="195" text-anchor="start" class="H">SPATIAL GRAMMAR</text>
+<text x="50" y="204" text-anchor="start" class="Lx">Agreement verbs, classifier predicates, and spatial referencing</text>
+<text x="50" y="212" text-anchor="start" class="Lx">are used (universal features of natural sign languages).</text>
+<text x="36" y="223" text-anchor="start" class="H">CLASSIFIERS</text>
+<text x="50" y="232" text-anchor="start" class="Lx">CSL classifier system reflects Chinese noun categories:</text>
+<text x="50" y="240" text-anchor="start" class="Lx">flat objects, round objects, vehicles, persons, animals, etc.</text>
+<text x="36" y="251" text-anchor="start" class="H">HONORIFICS</text>
+<text x="50" y="260" text-anchor="start" class="Lx">Distinct signs for kinship terms (older/younger sibling, etc.)</text>
+<text x="50" y="268" text-anchor="start" class="Lx">reflecting Chinese cultural distinctions absent in English-based SLs.</text>
+<text x="36" y="279" text-anchor="start" class="H">MOUTHING</text>
+<text x="50" y="288" text-anchor="start" class="Lx">Mandarin mouthing (lip-syncing Chinese words) is common in CSL,</text>
+<text x="50" y="296" text-anchor="start" class="Lx">more so than English mouthing in ASL. Part of CSL’s contact with Mandarin.</text>
+<line x1="24" y1="309" x2="456" y2="309" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="315" x2="118" y2="315" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H">— CHINESE CULTURAL FEATURES IN CSL —</text>
+<line x1="362" y1="315" x2="450" y2="315" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="327" text-anchor="start" class="Lx">KINSHIP TERMS: CSL has distinct signs for elder/younger brother and sister,</text>
+<text x="36" y="335" text-anchor="start" class="Lx">  reflecting Chinese kinship system (unlike ASL’s generic BROTHER/SISTER).</text>
+<text x="36" y="343" text-anchor="start" class="Lx">NUMBER SYSTEM: CSL can sign 1–10 on one hand using a compact system:</text>
+<text x="36" y="351" text-anchor="start" class="Lx">  1–5 = fingers up; 6 = pinky+thumb; 7 = three middle fingers; 8 = index+middle;</text>
+<text x="36" y="359" text-anchor="start" class="Lx">  9 = hooked index; 10 = fist with thumb alongside (or crossed index-pinky).</text>
+<text x="36" y="367" text-anchor="start" class="Lx">CHINESE CHARACTER HANDSHAPES: Some CSL signs are iconic to Chinese character forms.</text>
+<text x="36" y="375" text-anchor="start" class="Lx">  Example: The sign for PERSON (人 rén) resembles the character 人 (two strokes meeting).</text>
+<text x="36" y="383" text-anchor="start" class="Lx">  Example: MOUNTAIN (山 shān) — three fingers up, mimicking the character.</text>
+<text x="36" y="391" text-anchor="start" class="Lx">REGIONAL VARIATION: CSL varies significantly between regions; Shanghai SL and</text>
+<text x="36" y="399" text-anchor="start" class="Lx">  Beijing SL have different signs for many common concepts.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 65B  ·  SERIES 65  ·  CHINESE SIGN LANGUAGE (CSL)  ·  SOV · CHINESE CULTURAL FEATURES</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

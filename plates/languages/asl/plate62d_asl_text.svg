@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE (ASL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">DISCOURSE · GLOSS NOTATION · BRIDGE PHRASE · SERIES 62D</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— ASL GLOSS NOTATION —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="L">Since ASL has no traditional writing system, linguists use GLOSS NOTATION:</text>
+<text x="36" y="84" text-anchor="start" class="Lx">CAPITAL LETTERS = one sign  (BOOK = the sign for "book")</text>
+<text x="36" y="93" text-anchor="start" class="Lx">HYPHEN = multi-word English for one sign  (GIVE-UP, NOT-YET, LONG-AGO)</text>
+<text x="36" y="102" text-anchor="start" class="Lx">Hash # = fingerspelled loan sign  (#DO, #JOB, #CAR)</text>
+<text x="36" y="111" text-anchor="start" class="Lx">fs- prefix = fingerspelling  (fs-MARY)</text>
+<text x="36" y="120" text-anchor="start" class="Lx">Subscript numbers = spatial loci  (PRO₁ = pronoun at locus 1)</text>
+<text x="36" y="129" text-anchor="start" class="Lx">NMS above gloss line = non-manual signal (wh-, y/n, neg, cond)</text>
+<text x="36" y="138" text-anchor="start" class="Lx">MOUTH MORPHEME: mm, th, puff-cheeks, oo, etc. (shown above line)</text>
+<line x1="24" y1="149" x2="456" y2="149" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="155" x2="118" y2="155" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H">— SAMPLE: THE TORTOISE AND THE HARE (OPENING) —</text>
+<line x1="362" y1="155" x2="450" y2="155" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="167" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="Ls">LONG-AGO TORTOISE HARE RACE</text>
+<text x="240" y="185" text-anchor="middle" class="Lx">Long ago, [there was] a tortoise and a hare [who had] a race.</text>
+<rect x="36" y="196" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="206" text-anchor="middle" class="Ls">HARE THINK SELF WIN EASY</text>
+<text x="240" y="214" text-anchor="middle" class="Lx">The hare thought he himself would win easily.</text>
+<rect x="36" y="225" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="235" text-anchor="middle" class="Ls">TORTOISE SLOW WALK WALK WALK NOT-STOP</text>
+<text x="240" y="243" text-anchor="middle" class="Lx">The tortoise walked slowly [and] did not stop.</text>
+<rect x="36" y="254" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="264" text-anchor="middle" class="Ls">FINALLY TORTOISE WIN, HARE LOSE</text>
+<text x="240" y="272" text-anchor="middle" class="Lx">Finally the tortoise won; the hare lost.</text>
+<line x1="24" y1="285" x2="456" y2="285" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="291" x2="118" y2="291" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">— BRIDGE PHRASE IN ASL GLOSS —</text>
+<line x1="362" y1="291" x2="450" y2="291" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="303" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="315" text-anchor="middle" class="Lg">THIS  MAKE  FOR-YOU  FREE  PEOPLE  REMEMBER  FORWARD</text>
+<text x="240" y="325" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="64" y="337" text-anchor="middle" class="Ls">THIS</text>
+<text x="64" y="345" text-anchor="middle" class="Lx">index point at object</text>
+<text x="121" y="337" text-anchor="middle" class="Ls">MAKE</text>
+<text x="121" y="345" text-anchor="middle" class="Lx">S-hands rotate on each other</text>
+<text x="178" y="337" text-anchor="middle" class="Ls">FOR-YOU</text>
+<text x="178" y="345" text-anchor="middle" class="Lx">directed toward addressee</text>
+<text x="235" y="337" text-anchor="middle" class="Ls">FREE</text>
+<text x="235" y="345" text-anchor="middle" class="Lx">F-hands cross, open outward</text>
+<text x="292" y="337" text-anchor="middle" class="Ls">PEOPLE</text>
+<text x="292" y="345" text-anchor="middle" class="Lx">P-hands alternating</text>
+<text x="349" y="337" text-anchor="middle" class="Ls">REMEMBER</text>
+<text x="349" y="345" text-anchor="middle" class="Lx">A-hand at temple, move fwd</text>
+<text x="406" y="337" text-anchor="middle" class="Ls">FORWARD</text>
+<text x="406" y="345" text-anchor="middle" class="Lx">B-hand, push forward in space</text>
+<line x1="24" y1="361" x2="456" y2="361" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="367" x2="118" y2="367" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H">— LINGUISTIC NOTES —</text>
+<line x1="362" y1="367" x2="450" y2="367" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="379" text-anchor="start" class="Lx">THIS: Point/index downward at the object being referenced — deixis in signing space.</text>
+<text x="36" y="387" text-anchor="start" class="Lx">FOR-YOU: The sign FOR directed toward the addressee encodes benefaction spatially.</text>
+<text x="36" y="395" text-anchor="start" class="Lx">FREE: F-hands crossed (bound) then opening outward — iconic for liberation / no cost.</text>
+<text x="36" y="403" text-anchor="start" class="Lx">PEOPLE: P-handshape (index+middle extended, palm out) alternating = plural humans.</text>
+<text x="36" y="411" text-anchor="start" class="Lx">REMEMBER: A-hand taps temple (where memory resides), then moves forward.</text>
+<text x="36" y="419" text-anchor="start" class="Lx">  This forward movement simultaneously encodes both "remembering" and "forward in time".</text>
+<text x="36" y="427" text-anchor="start" class="Lx">FORWARD: B-hand pushes forward — spatial metaphor identical to the English phrase.</text>
+<text x="36" y="435" text-anchor="start" class="Lx"></text>
+<text x="36" y="443" text-anchor="start" class="Lx">NOTE ON TENSE: ASL establishes time on a time line — past is behind the signer,</text>
+<text x="36" y="451" text-anchor="start" class="Lx">future is in front. FORWARD (ahead in space) = forward in time = future orientation.</text>
+<text x="36" y="459" text-anchor="start" class="Lx">The phrase "remembered forward" maps perfectly to ASL's spatial time metaphor.</text>
+<text x="36" y="467" text-anchor="start" class="Lx"></text>
+<text x="36" y="475" text-anchor="start" class="Lx">SignWriting (U+1D800–U+1DAAF, Noto Sans SignWriting font) provides a written</text>
+<text x="36" y="483" text-anchor="start" class="Lx">visual script for ASL signs that can be used for full written representation.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 62D  ·  SERIES 62  ·  AMERICAN SIGN LANGUAGE  ·  GLOSS NOTATION · BRIDGE PHRASE</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

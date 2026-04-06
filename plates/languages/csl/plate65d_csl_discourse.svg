@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">CHINESE SIGN LANGUAGE (CSL / ZGS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">CSL DISCOURSE · NUMBERS · REGIONAL VARIATION · SERIES 65D</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— CSL NUMBER SYSTEM (ONE-HANDED) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="74" text-anchor="middle" class="Lx">CSL can represent 1–10 on one hand — a unique feature reflecting Chinese cultural efficiency.</text>
+<text x="36" y="84" text-anchor="start" class="Ls">1:</text>
+<text x="110" y="84" text-anchor="start" class="Lx">Index finger up</text>
+<text x="36" y="93" text-anchor="start" class="Ls">2:</text>
+<text x="110" y="93" text-anchor="start" class="Lx">Index + middle up (V)</text>
+<text x="36" y="102" text-anchor="start" class="Ls">3:</text>
+<text x="110" y="102" text-anchor="start" class="Lx">Thumb + index + middle up</text>
+<text x="36" y="111" text-anchor="start" class="Ls">4:</text>
+<text x="110" y="111" text-anchor="start" class="Lx">Four fingers up (no thumb)</text>
+<text x="36" y="120" text-anchor="start" class="Ls">5:</text>
+<text x="110" y="120" text-anchor="start" class="Lx">Open hand, all 5 extended</text>
+<text x="246" y="84" text-anchor="start" class="Ls">6:</text>
+<text x="320" y="84" text-anchor="start" class="Lx">Pinky + thumb extended (shaka-like)</text>
+<text x="246" y="93" text-anchor="start" class="Ls">7:</text>
+<text x="320" y="93" text-anchor="start" class="Lx">Thumb + index + middle together (touching)</text>
+<text x="246" y="102" text-anchor="start" class="Ls">8:</text>
+<text x="320" y="102" text-anchor="start" class="Lx">Index + middle extended, thumb out</text>
+<text x="246" y="111" text-anchor="start" class="Ls">9:</text>
+<text x="320" y="111" text-anchor="start" class="Lx">Index finger hooked/bent</text>
+<text x="246" y="120" text-anchor="start" class="Ls">10:</text>
+<text x="320" y="120" text-anchor="start" class="Lx">Index finger pointing, wrist twist (or crossed index+pinky)</text>
+<line x1="24" y1="135" x2="456" y2="135" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="143" x2="118" y2="143" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="147" text-anchor="middle" class="H">— REGIONAL VARIATION IN CSL —</text>
+<line x1="362" y1="143" x2="450" y2="143" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="155" text-anchor="start" class="Lx">CSL varies significantly between regions. Beijing SL and Shanghai SL differ</text>
+<text x="36" y="163" text-anchor="start" class="Lx">substantially and are sometimes considered separate dialects or related languages.</text>
+<text x="36" y="171" text-anchor="start" class="Lx"></text>
+<text x="36" y="179" text-anchor="start" class="Lx">Standardization efforts began in the 1950s but regional variation persists.</text>
+<text x="36" y="187" text-anchor="start" class="Lx">The official CSL dictionary (first published 1987) has helped standardize some signs.</text>
+<text x="36" y="195" text-anchor="start" class="Lx"></text>
+<text x="36" y="203" text-anchor="start" class="Lx">Examples of regional variation:</text>
+<text x="36" y="211" text-anchor="start" class="Lx">  MONDAY: Beijing uses one sign; Shanghai uses a different handshape.</text>
+<text x="36" y="219" text-anchor="start" class="Lx">  COLORS: Red, green, blue may be signed differently across provinces.</text>
+<text x="36" y="227" text-anchor="start" class="Lx">  NUMBERS 6–10: One-handed vs two-handed variants exist by region.</text>
+<line x1="24" y1="237" x2="456" y2="237" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="243" x2="118" y2="243" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="247" text-anchor="middle" class="H">— CSL AND DEAF EDUCATION IN CHINA —</text>
+<line x1="362" y1="243" x2="450" y2="243" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="255" text-anchor="start" class="Lx">Deaf education in China dates to the early 20th century (1898, first Deaf school).</text>
+<text x="36" y="263" text-anchor="start" class="Lx">Like elsewhere, oralism dominated for much of the 20th century.</text>
+<text x="36" y="271" text-anchor="start" class="Lx">Current: bilingual-bicultural education (Mandarin + CSL) increasingly adopted.</text>
+<text x="36" y="279" text-anchor="start" class="Lx">China Disabled Persons’ Federation oversees Deaf education policy.</text>
+<text x="36" y="287" text-anchor="start" class="Lx">CSL Research Center at Nanjing Normal University is the primary research body.</text>
+<text x="36" y="295" text-anchor="start" class="Lx"></text>
+<text x="36" y="303" text-anchor="start" class="Lx">DEAF POPULATION: China has ~27 million deaf/hard-of-hearing persons,</text>
+<text x="36" y="311" text-anchor="start" class="Lx">making it the world’s largest Deaf population in absolute numbers.</text>
+<text x="36" y="319" text-anchor="start" class="Lx">Of these, ~20 million are estimated to use CSL as a primary language.</text>
+<line x1="24" y1="329" x2="456" y2="329" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="335" x2="118" y2="335" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="339" text-anchor="middle" class="H">— CSL SAMPLE DISCOURSE —</text>
+<line x1="362" y1="335" x2="450" y2="335" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="347" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="357" text-anchor="middle" class="Ls">THIS  DOCUMENT  IMPORTANT  KEEP</text>
+<text x="240" y="365" text-anchor="middle" class="Lx">This document is important — keep it.</text>
+<rect x="36" y="376" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="Ls">PEOPLE  PAST  MAKE  FOR-YOU  FREE</text>
+<text x="240" y="394" text-anchor="middle" class="Lx">People in the past made it for you, freely.</text>
+<rect x="36" y="405" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="415" text-anchor="middle" class="Ls">REMEMBER  FORWARD  —  MEANING  WHAT?</text>
+<text x="240" y="423" text-anchor="middle" class="Lx">What does "remembered forward" mean?</text>
+<rect x="36" y="434" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="444" text-anchor="middle" class="Ls">CARE  FUTURE  PEOPLE  —  THAT  MEANING</text>
+<text x="240" y="452" text-anchor="middle" class="Lx">It means to care about future people.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 65D  ·  SERIES 65  ·  CHINESE SIGN LANGUAGE (CSL)  ·  NUMBERS · REGIONAL VARIATION · DISCOURSE</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

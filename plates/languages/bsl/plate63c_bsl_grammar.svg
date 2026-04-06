@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRITISH SIGN LANGUAGE (BSL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">GRAMMAR DETAIL · CLASSIFIER PREDICATES · CORE VOCABULARY · SERIES 63C</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— CORE VOCABULARY (BSL GLOSS) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="Ls">ME</text>
+<text x="122" y="74" text-anchor="start" class="Lx">index to chest</text>
+<text x="36" y="83" text-anchor="start" class="Ls">YOU</text>
+<text x="122" y="83" text-anchor="start" class="Lx">point at addressee</text>
+<text x="36" y="92" text-anchor="start" class="Ls">NAME</text>
+<text x="122" y="92" text-anchor="start" class="Lx">N-hand at forehead</text>
+<text x="36" y="101" text-anchor="start" class="Ls">DEAF</text>
+<text x="122" y="101" text-anchor="start" class="Lx">index: ear to mouth</text>
+<text x="36" y="110" text-anchor="start" class="Ls">HEARING</text>
+<text x="122" y="110" text-anchor="start" class="Lx">index circles at mouth</text>
+<text x="36" y="119" text-anchor="start" class="Ls">SIGN</text>
+<text x="122" y="119" text-anchor="start" class="Lx">two index fingers circle</text>
+<text x="36" y="128" text-anchor="start" class="Ls">UNDERSTAND</text>
+<text x="122" y="128" text-anchor="start" class="Lx">index taps forehead</text>
+<text x="36" y="137" text-anchor="start" class="Ls">KNOW</text>
+<text x="122" y="137" text-anchor="start" class="Lx">flat hand at head</text>
+<text x="36" y="146" text-anchor="start" class="Ls">SEE</text>
+<text x="122" y="146" text-anchor="start" class="Lx">V from eyes</text>
+<text x="196" y="74" text-anchor="start" class="Ls">LOOK-AT</text>
+<text x="282" y="74" text-anchor="start" class="Lx">V points forward</text>
+<text x="196" y="83" text-anchor="start" class="Ls">GO</text>
+<text x="282" y="83" text-anchor="start" class="Lx">flat hand sweeps forward</text>
+<text x="196" y="92" text-anchor="start" class="Ls">COME</text>
+<text x="282" y="92" text-anchor="start" class="Lx">curve hand toward signer</text>
+<text x="196" y="101" text-anchor="start" class="Ls">GIVE</text>
+<text x="282" y="101" text-anchor="start" class="Lx">palm up, extend forward</text>
+<text x="196" y="110" text-anchor="start" class="Ls">TAKE</text>
+<text x="282" y="110" text-anchor="start" class="Lx">palm down, draw back</text>
+<text x="196" y="119" text-anchor="start" class="Ls">MAKE</text>
+<text x="282" y="119" text-anchor="start" class="Lx">fists rotate together</text>
+<text x="196" y="128" text-anchor="start" class="Ls">WANT</text>
+<text x="282" y="128" text-anchor="start" class="Lx">bent fingers draw toward</text>
+<text x="196" y="137" text-anchor="start" class="Ls">LIKE</text>
+<text x="282" y="137" text-anchor="start" class="Lx">flat hand on chest, out</text>
+<text x="196" y="146" text-anchor="start" class="Ls">LOVE</text>
+<text x="282" y="146" text-anchor="start" class="Lx">crossed arms on chest</text>
+<text x="346" y="74" text-anchor="start" class="Ls">GOOD</text>
+<text x="445" y="74" text-anchor="start" class="Lx">thumbs up</text>
+<text x="346" y="83" text-anchor="start" class="Ls">BAD</text>
+<text x="445" y="83" text-anchor="start" class="Lx">thumbs down</text>
+<text x="346" y="92" text-anchor="start" class="Ls">FREE</text>
+<text x="445" y="92" text-anchor="start" class="Lx">wrists crossed, open out</text>
+<text x="346" y="101" text-anchor="start" class="Ls">HELP</text>
+<text x="445" y="101" text-anchor="start" class="Lx">fist on palm, lift</text>
+<text x="346" y="110" text-anchor="start" class="Ls">REMEMBER</text>
+<text x="445" y="110" text-anchor="start" class="Lx">A-hand temple fwd</text>
+<text x="346" y="119" text-anchor="start" class="Ls">FORWARD</text>
+<text x="445" y="119" text-anchor="start" class="Lx">flat hand push fwd</text>
+<text x="346" y="128" text-anchor="start" class="Ls">PEOPLE</text>
+<text x="445" y="128" text-anchor="start" class="Lx">P-hands alternating</text>
+<text x="346" y="137" text-anchor="start" class="Ls">TOGETHER</text>
+<text x="445" y="137" text-anchor="start" class="Lx">both fists side by side</text>
+<line x1="24" y1="163" x2="456" y2="163" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="171" x2="118" y2="171" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="175" text-anchor="middle" class="H">— CLASSIFIER PREDICATES IN BSL —</text>
+<line x1="362" y1="171" x2="450" y2="171" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="183" text-anchor="start" class="Ls">CL:1</text>
+<text x="80" y="183" text-anchor="start" class="Lx">Person/upright object: single index = person standing/moving</text>
+<text x="36" y="192" text-anchor="start" class="Ls">CL:V</text>
+<text x="80" y="192" text-anchor="start" class="Lx">Person moving: inverted V fingers walk forward = person walks</text>
+<text x="36" y="201" text-anchor="start" class="Ls">CL:B</text>
+<text x="80" y="201" text-anchor="start" class="Lx">Flat surface: B-hand = floor, table, wall, road</text>
+<text x="36" y="210" text-anchor="start" class="Ls">CL:C</text>
+<text x="80" y="210" text-anchor="start" class="Lx">Cylindrical/container: C-hand = cup, pipe, tree trunk</text>
+<text x="36" y="219" text-anchor="start" class="Ls">CL:G</text>
+<text x="80" y="219" text-anchor="start" class="Lx">Thin flat object: index+thumb pinch = card, paper, book</text>
+<text x="36" y="228" text-anchor="start" class="Ls">CL:3</text>
+<text x="80" y="228" text-anchor="start" class="Lx">Vehicle: 3-hand (thumb+index+middle) = car, lorry, bus</text>
+<line x1="24" y1="241" x2="456" y2="241" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="247" x2="118" y2="247" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="251" text-anchor="middle" class="H">— BSL REGIONAL VARIATION —</text>
+<line x1="362" y1="247" x2="450" y2="247" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="259" text-anchor="start" class="Lx">BSL has significant regional dialects across the UK:</text>
+<text x="36" y="268" text-anchor="start" class="Lx">Northern England, Scotland, London, and Belfast variants may differ substantially</text>
+<text x="36" y="277" text-anchor="start" class="Lx">in signs for common concepts (colours, numbers, days of week can vary by city).</text>
+<text x="36" y="286" text-anchor="start" class="Lx">This is more pronounced than regional ASL variation.</text>
+<text x="36" y="295" text-anchor="start" class="Lx">BBC "See Hear" programme and British Deaf Association use a prestige standard.</text>
+<text x="36" y="304" text-anchor="start" class="Lx">There is no official written form of BSL; SignWriting and HamNoSys are used</text>
+<text x="36" y="313" text-anchor="start" class="Lx">by researchers. BSL gained official language recognition in the UK in 2003.</text>
+<line x1="24" y1="326" x2="456" y2="326" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="332" x2="118" y2="332" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="336" text-anchor="middle" class="H">— DEAF COMMUNITY &amp; CULTURE —</text>
+<line x1="362" y1="332" x2="450" y2="332" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="344" text-anchor="start" class="Lx">BSL carries Deaf culture, identity, and heritage, not just communication.</text>
+<text x="36" y="353" text-anchor="start" class="Lx">Deaf history: The first known British school for the Deaf was established 1760</text>
+<text x="36" y="362" text-anchor="start" class="Lx">  by Thomas Braidwood in Edinburgh; his methods were kept secret from other educators.</text>
+<text x="36" y="371" text-anchor="start" class="Lx">Oralism controversy: In the 1880 Milan Congress, oral methods were imposed on Deaf</text>
+<text x="36" y="380" text-anchor="start" class="Lx">  education, suppressing sign languages for nearly a century. BSL survived informally.</text>
+<text x="36" y="389" text-anchor="start" class="Lx">Current: BSL recognised as a language in 2003; GCSE BSL qualification introduced 2022.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 63C  ·  SERIES 63  ·  BRITISH SIGN LANGUAGE  ·  CLASSIFIERS · REGIONAL VARIATION · CULTURE</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

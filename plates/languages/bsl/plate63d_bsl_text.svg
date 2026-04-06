@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRITISH SIGN LANGUAGE (BSL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">DISCOURSE · BRIDGE PHRASE · BSL vs ASL COMPARISON · SERIES 63D</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— BRIDGE PHRASE IN BSL GLOSS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="74" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="86" text-anchor="middle" class="Lg">THIS  MAKE  FOR-YOU  FREE  PEOPLE  REMEMBER  FORWARD</text>
+<text x="240" y="96" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="108" text-anchor="middle" class="Lx">BSL gloss for this phrase is essentially identical to ASL gloss — the concepts align.</text>
+<text x="240" y="117" text-anchor="middle" class="Lx">The execution differs: BSL tends toward SOV, so: PEOPLE → THIS MAKE → FOR-YOU FREE REMEMBER FORWARD.</text>
+<line x1="24" y1="128" x2="456" y2="128" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="135" x2="118" y2="135" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="139" text-anchor="middle" class="H">— BSL SAMPLE DISCOURSE —</text>
+<line x1="362" y1="135" x2="450" y2="135" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="147" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="157" text-anchor="middle" class="Ls">LONG-AGO DOCUMENT THIS – MAKE  WHO?  PEOPLE</text>
+<text x="240" y="165" text-anchor="middle" class="Lx">This document — who made it? People.</text>
+<rect x="36" y="176" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="186" text-anchor="middle" class="Ls">PEOPLE WHY MAKE?  FUTURE YOU FIND</text>
+<text x="240" y="194" text-anchor="middle" class="Lx">Why did people make it? For you to find in the future.</text>
+<rect x="36" y="205" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="Ls">FREE GIVE YOU – LOVE REASON</text>
+<text x="240" y="223" text-anchor="middle" class="Lx">Given freely to you — out of love.</text>
+<rect x="36" y="234" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="244" text-anchor="middle" class="Ls">REMEMBER FORWARD – PEOPLE OLD THIS MAKE</text>
+<text x="240" y="252" text-anchor="middle" class="Lx">These people, in the past, remembered forward.</text>
+<line x1="24" y1="265" x2="456" y2="265" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="271" x2="118" y2="271" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="275" text-anchor="middle" class="H">— BSL / ASL STRUCTURAL COMPARISON —</text>
+<line x1="362" y1="271" x2="450" y2="271" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="283" text-anchor="start" class="H">Feature</text>
+<text x="145" y="283" text-anchor="start" class="H">BSL</text>
+<text x="310" y="283" text-anchor="start" class="H">ASL</text>
+<line x1="24" y1="286" x2="456" y2="286" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="292" text-anchor="start" class="Lx">Fingerspelling</text>
+<text x="145" y="292" text-anchor="start" class="Lx">Two-handed alphabet</text>
+<text x="310" y="292" text-anchor="start" class="Lx">One-handed alphabet (from LSF)</text>
+<text x="36" y="301" text-anchor="start" class="Lx">Unmarked word order</text>
+<text x="145" y="301" text-anchor="start" class="Lx">SOV</text>
+<text x="310" y="301" text-anchor="start" class="Lx">SVO</text>
+<text x="36" y="310" text-anchor="start" class="Lx">NMS emphasis</text>
+<text x="145" y="310" text-anchor="start" class="Lx">Body movement, lip patterns</text>
+<text x="310" y="310" text-anchor="start" class="Lx">Facial expression dominant</text>
+<text x="36" y="319" text-anchor="start" class="Lx">Language family</text>
+<text x="145" y="319" text-anchor="start" class="Lx">BANZSL (British, Auslan, NZ)</text>
+<text x="310" y="319" text-anchor="start" class="Lx">French SL family</text>
+<text x="36" y="328" text-anchor="start" class="Lx">Official status</text>
+<text x="145" y="328" text-anchor="start" class="Lx">UK law 2003</text>
+<text x="310" y="328" text-anchor="start" class="Lx">No federal law (Deaf Ed. Act 1975)</text>
+<text x="36" y="337" text-anchor="start" class="Lx">Mutual intellig.</text>
+<text x="145" y="337" text-anchor="start" class="Lx">31% identical signs</text>
+<text x="310" y="337" text-anchor="start" class="Lx">58% cognate with LSF</text>
+<text x="36" y="346" text-anchor="start" class="Lx">Writing system</text>
+<text x="145" y="346" text-anchor="start" class="Lx">None standardized (SignWrit.)</text>
+<text x="310" y="346" text-anchor="start" class="Lx">None standardized (SignWrit.)</text>
+<line x1="24" y1="359" x2="456" y2="359" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="363" x2="118" y2="363" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="367" text-anchor="middle" class="H">— NOTES ON WRITTEN BSL —</text>
+<line x1="362" y1="363" x2="450" y2="363" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="375" text-anchor="start" class="Lx">BSL has no universally accepted writing system. Three notation systems are used:</text>
+<text x="36" y="383" text-anchor="start" class="Lx">1. GLOSS: Capital English words (as shown above) — used for linguistic analysis.</text>
+<text x="36" y="391" text-anchor="start" class="Lx">2. SignWriting (Sutton): Visual featural script; Unicode block U+1D800–U+1DAAF.</text>
+<text x="36" y="399" text-anchor="start" class="Lx">   Font: Noto Sans SignWriting. Captures handshape, location, movement, orientation.</text>
+<text x="36" y="407" text-anchor="start" class="Lx">3. HamNoSys: Hamburg Notation System — phonetic transcription for research.</text>
+<text x="36" y="415" text-anchor="start" class="Lx"></text>
+<text x="36" y="423" text-anchor="start" class="Lx">For a time capsule context: SignWriting is the most visually self-evident system</text>
+<text x="36" y="431" text-anchor="start" class="Lx">and closest in spirit to this project’s goal of cross-cultural readability.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 63D  ·  SERIES 63  ·  BRITISH SIGN LANGUAGE  ·  BRIDGE PHRASE · BSL vs ASL</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

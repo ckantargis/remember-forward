@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Le { font: 18px/1 "Noto Sans Egyptian Hieroglyphs",serif; }
+  .Lm { font: italic 7.5px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="47" text-anchor="middle" class="S">PHONOLOGY · CONSONANTAL SCRIPT · NO VOWELS WRITTEN · COPTIC PRESERVES VOWELS</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— CONSONANT INVENTORY (24 PRIMARY CONSONANTS) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="75" text-anchor="start" class="H">Sign</text>
+<text x="100" y="75" text-anchor="start" class="H">Translit</text>
+<text x="150" y="75" text-anchor="start" class="H">IPA</text>
+<text x="205" y="75" text-anchor="start" class="H">Type</text>
+<text x="280" y="75" text-anchor="start" class="H">Description</text>
+<line x1="24" y1="78" x2="456" y2="78" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="85" text-anchor="start" class="Lx">ꜣ</text>
+<text x="100" y="85" text-anchor="start" class="Lx">ꜣ</text>
+<text x="150" y="85" text-anchor="start" class="Lx">ʔ</text>
+<text x="205" y="85" text-anchor="start" class="Lx">glottal</text>
+<text x="280" y="85" text-anchor="start" class="Lx">Glottal stop / laryngeal</text>
+<text x="36" y="93" text-anchor="start" class="Lx">i/y</text>
+<text x="100" y="93" text-anchor="start" class="Lx">i / y</text>
+<text x="150" y="93" text-anchor="start" class="Lx">j</text>
+<text x="205" y="93" text-anchor="start" class="Lx">approx.</text>
+<text x="280" y="93" text-anchor="start" class="Lx">Palatal approximant (like English y)</text>
+<text x="36" y="101" text-anchor="start" class="Lx">w</text>
+<text x="100" y="101" text-anchor="start" class="Lx">w</text>
+<text x="150" y="101" text-anchor="start" class="Lx">w</text>
+<text x="205" y="101" text-anchor="start" class="Lx">approx.</text>
+<text x="280" y="101" text-anchor="start" class="Lx">Labio-velar approximant</text>
+<text x="36" y="109" text-anchor="start" class="Lx">ꜥ</text>
+<text x="100" y="109" text-anchor="start" class="Lx">ꜥ</text>
+<text x="150" y="109" text-anchor="start" class="Lx">ʿ</text>
+<text x="205" y="109" text-anchor="start" class="Lx">pharyn.</text>
+<text x="280" y="109" text-anchor="start" class="Lx">Voiced pharyngeal fricative</text>
+<text x="36" y="117" text-anchor="start" class="Lx">b</text>
+<text x="100" y="117" text-anchor="start" class="Lx">b</text>
+<text x="150" y="117" text-anchor="start" class="Lx">b</text>
+<text x="205" y="117" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="117" text-anchor="start" class="Lx">Voiced bilabial stop</text>
+<text x="36" y="125" text-anchor="start" class="Lx">p</text>
+<text x="100" y="125" text-anchor="start" class="Lx">p</text>
+<text x="150" y="125" text-anchor="start" class="Lx">p</text>
+<text x="205" y="125" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="125" text-anchor="start" class="Lx">Voiceless bilabial stop</text>
+<text x="36" y="133" text-anchor="start" class="Lx">f</text>
+<text x="100" y="133" text-anchor="start" class="Lx">f</text>
+<text x="150" y="133" text-anchor="start" class="Lx">f</text>
+<text x="205" y="133" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="133" text-anchor="start" class="Lx">Voiceless labiodental fricative</text>
+<text x="36" y="141" text-anchor="start" class="Lx">m</text>
+<text x="100" y="141" text-anchor="start" class="Lx">m</text>
+<text x="150" y="141" text-anchor="start" class="Lx">m</text>
+<text x="205" y="141" text-anchor="start" class="Lx">nasal</text>
+<text x="280" y="141" text-anchor="start" class="Lx">Bilabial nasal</text>
+<text x="36" y="149" text-anchor="start" class="Lx">n</text>
+<text x="100" y="149" text-anchor="start" class="Lx">n</text>
+<text x="150" y="149" text-anchor="start" class="Lx">n</text>
+<text x="205" y="149" text-anchor="start" class="Lx">nasal</text>
+<text x="280" y="149" text-anchor="start" class="Lx">Dental/alveolar nasal</text>
+<text x="36" y="157" text-anchor="start" class="Lx">r</text>
+<text x="100" y="157" text-anchor="start" class="Lx">r</text>
+<text x="150" y="157" text-anchor="start" class="Lx">r̩</text>
+<text x="205" y="157" text-anchor="start" class="Lx">liquid</text>
+<text x="280" y="157" text-anchor="start" class="Lx">Rhotacized syllabic / trill</text>
+<text x="36" y="165" text-anchor="start" class="Lx">h</text>
+<text x="100" y="165" text-anchor="start" class="Lx">h</text>
+<text x="150" y="165" text-anchor="start" class="Lx">h</text>
+<text x="205" y="165" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="165" text-anchor="start" class="Lx">Voiceless glottal fricative</text>
+<text x="36" y="173" text-anchor="start" class="Lx">ḥ</text>
+<text x="100" y="173" text-anchor="start" class="Lx">ḥ</text>
+<text x="150" y="173" text-anchor="start" class="Lx">ħ</text>
+<text x="205" y="173" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="173" text-anchor="start" class="Lx">Voiceless pharyngeal fricative</text>
+<text x="36" y="181" text-anchor="start" class="Lx">ḫ</text>
+<text x="100" y="181" text-anchor="start" class="Lx">ḫ</text>
+<text x="150" y="181" text-anchor="start" class="Lx">χ</text>
+<text x="205" y="181" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="181" text-anchor="start" class="Lx">Voiceless velar fricative (like Scots loch)</text>
+<text x="36" y="189" text-anchor="start" class="Lx">ẖ</text>
+<text x="100" y="189" text-anchor="start" class="Lx">ẖ</text>
+<text x="150" y="189" text-anchor="start" class="Lx">ç</text>
+<text x="205" y="189" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="189" text-anchor="start" class="Lx">Voiceless palatal fricative</text>
+<text x="36" y="197" text-anchor="start" class="Lx">z</text>
+<text x="100" y="197" text-anchor="start" class="Lx">z/s</text>
+<text x="150" y="197" text-anchor="start" class="Lx">sˈ</text>
+<text x="205" y="197" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="197" text-anchor="start" class="Lx">Voiceless sibilant (merged with s in later periods)</text>
+<text x="36" y="205" text-anchor="start" class="Lx">s</text>
+<text x="100" y="205" text-anchor="start" class="Lx">s</text>
+<text x="150" y="205" text-anchor="start" class="Lx">s</text>
+<text x="205" y="205" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="205" text-anchor="start" class="Lx">Voiceless alveolar fricative</text>
+<text x="36" y="213" text-anchor="start" class="Lx">š</text>
+<text x="100" y="213" text-anchor="start" class="Lx">š</text>
+<text x="150" y="213" text-anchor="start" class="Lx">ʃ</text>
+<text x="205" y="213" text-anchor="start" class="Lx">fric.</text>
+<text x="280" y="213" text-anchor="start" class="Lx">Voiceless postalveolar fricative (sh)</text>
+<text x="36" y="221" text-anchor="start" class="Lx">q</text>
+<text x="100" y="221" text-anchor="start" class="Lx">q</text>
+<text x="150" y="221" text-anchor="start" class="Lx">q</text>
+<text x="205" y="221" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="221" text-anchor="start" class="Lx">Voiceless uvular stop</text>
+<text x="36" y="229" text-anchor="start" class="Lx">k</text>
+<text x="100" y="229" text-anchor="start" class="Lx">k</text>
+<text x="150" y="229" text-anchor="start" class="Lx">k</text>
+<text x="205" y="229" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="229" text-anchor="start" class="Lx">Voiceless velar stop</text>
+<text x="36" y="237" text-anchor="start" class="Lx">g</text>
+<text x="100" y="237" text-anchor="start" class="Lx">g</text>
+<text x="150" y="237" text-anchor="start" class="Lx">ɡ</text>
+<text x="205" y="237" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="237" text-anchor="start" class="Lx">Voiced velar stop</text>
+<text x="36" y="245" text-anchor="start" class="Lx">t</text>
+<text x="100" y="245" text-anchor="start" class="Lx">t</text>
+<text x="150" y="245" text-anchor="start" class="Lx">t</text>
+<text x="205" y="245" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="245" text-anchor="start" class="Lx">Voiceless dental stop</text>
+<text x="36" y="253" text-anchor="start" class="Lx">ṯ</text>
+<text x="100" y="253" text-anchor="start" class="Lx">ṯ</text>
+<text x="150" y="253" text-anchor="start" class="Lx">tʃ</text>
+<text x="205" y="253" text-anchor="start" class="Lx">affr.</text>
+<text x="280" y="253" text-anchor="start" class="Lx">Voiceless palatal affricate</text>
+<text x="36" y="261" text-anchor="start" class="Lx">d</text>
+<text x="100" y="261" text-anchor="start" class="Lx">d</text>
+<text x="150" y="261" text-anchor="start" class="Lx">d</text>
+<text x="205" y="261" text-anchor="start" class="Lx">stop</text>
+<text x="280" y="261" text-anchor="start" class="Lx">Voiced dental stop</text>
+<text x="36" y="269" text-anchor="start" class="Lx">ḏ</text>
+<text x="100" y="269" text-anchor="start" class="Lx">ḏ</text>
+<text x="150" y="269" text-anchor="start" class="Lx">dʒ</text>
+<text x="205" y="269" text-anchor="start" class="Lx">affr.</text>
+<text x="280" y="269" text-anchor="start" class="Lx">Voiced palatal affricate</text>
+<line x1="24" y1="279" x2="456" y2="279" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="285" x2="118" y2="285" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="289" text-anchor="middle" class="H">— THE VOWEL PROBLEM —</text>
+<line x1="362" y1="285" x2="450" y2="285" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="297" text-anchor="start" class="Lx">Egyptian hieroglyphs record CONSONANTS ONLY. Vowels are not written.</text>
+<text x="36" y="306" text-anchor="start" class="Lx">Egyptologists conventionally insert the vowel "e" between consonants for pronunciation.</text>
+<text x="36" y="315" text-anchor="start" class="Lx">Example: nfr (beautiful) = pronounced approximately "ne-fer".</text>
+<text x="36" y="324" text-anchor="start" class="Lx">The word pr (house) might be read "per", sn (brother) = "sen".</text>
+<line x1="24" y1="335" x2="456" y2="335" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="341" x2="118" y2="341" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="345" text-anchor="middle" class="H">— COPTIC — THE VOWEL KEY —</text>
+<line x1="362" y1="341" x2="450" y2="341" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="353" text-anchor="start" class="Lx">Coptic (3rd–17th CE) is the final stage of the Egyptian language, written in the Greek</text>
+<text x="36" y="362" text-anchor="start" class="Lx">alphabet plus 6–7 demotic-derived letters. It PRESERVES VOWELS, revealing what the</text>
+<text x="36" y="371" text-anchor="start" class="Lx">hieroglyphic consonants actually sounded like.</text>
+<text x="36" y="380" text-anchor="start" class="Lx">Three primary vowel qualities: a, i, u (plus schwa ə in unstressed syllables).</text>
+<text x="36" y="389" text-anchor="start" class="Lx">Key: Egyptian ꜣ often = Coptic a, Egyptian i = Coptic i, Egyptian w = Coptic u/ou.</text>
+<text x="36" y="398" text-anchor="start" class="Lx">Stress falls on the last heavy syllable (closed or with long vowel).</text>
+<line x1="24" y1="409" x2="456" y2="409" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="415" x2="118" y2="415" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="419" text-anchor="middle" class="H">— TRANSLITERATION SYSTEM (MANUEL DE CODAGE) —</text>
+<line x1="362" y1="415" x2="450" y2="415" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="Lx">Standard Egyptological transliteration symbols with approximate IPA values:</text>
+<text x="50" y="437" text-anchor="start" class="H">Symbol</text>
+<text x="130" y="437" text-anchor="start" class="H">Unicode</text>
+<text x="210" y="437" text-anchor="start" class="H">IPA</text>
+<text x="290" y="437" text-anchor="start" class="H">Description</text>
+<line x1="24" y1="440" x2="456" y2="440" stroke="#111" stroke-width="0.3"/>
+<text x="50" y="447" text-anchor="start" class="Lx">ꜣ</text>
+<text x="130" y="447" text-anchor="start" class="Lx">U+A723</text>
+<text x="210" y="447" text-anchor="start" class="Lx">ʔ</text>
+<text x="290" y="447" text-anchor="start" class="Lx">Glottal stop (laryngeal)</text>
+<text x="50" y="455" text-anchor="start" class="Lx">ꜥ</text>
+<text x="130" y="455" text-anchor="start" class="Lx">U+A725</text>
+<text x="210" y="455" text-anchor="start" class="Lx">ʿ</text>
+<text x="290" y="455" text-anchor="start" class="Lx">Voiced pharyngeal fricative</text>
+<text x="50" y="463" text-anchor="start" class="Lx">ḥ</text>
+<text x="130" y="463" text-anchor="start" class="Lx">U+1E25</text>
+<text x="210" y="463" text-anchor="start" class="Lx">ħ</text>
+<text x="290" y="463" text-anchor="start" class="Lx">Voiceless pharyngeal (h-underdot)</text>
+<text x="50" y="471" text-anchor="start" class="Lx">ḫ</text>
+<text x="130" y="471" text-anchor="start" class="Lx">U+1E2B</text>
+<text x="210" y="471" text-anchor="start" class="Lx">χ</text>
+<text x="290" y="471" text-anchor="start" class="Lx">Voiceless velar fricative (h-breve-below)</text>
+<text x="50" y="479" text-anchor="start" class="Lx">ẖ</text>
+<text x="130" y="479" text-anchor="start" class="Lx">U+1E96</text>
+<text x="210" y="479" text-anchor="start" class="Lx">ç</text>
+<text x="290" y="479" text-anchor="start" class="Lx">Voiceless palatal fricative (h-line-below)</text>
+<text x="50" y="487" text-anchor="start" class="Lx">š</text>
+<text x="130" y="487" text-anchor="start" class="Lx">U+0161</text>
+<text x="210" y="487" text-anchor="start" class="Lx">ʃ</text>
+<text x="290" y="487" text-anchor="start" class="Lx">Postalveolar fricative (s-caron)</text>
+<text x="50" y="495" text-anchor="start" class="Lx">ṯ</text>
+<text x="130" y="495" text-anchor="start" class="Lx">U+1E6F</text>
+<text x="210" y="495" text-anchor="start" class="Lx">tʃ</text>
+<text x="290" y="495" text-anchor="start" class="Lx">Palatal affricate (t-line-below)</text>
+<text x="50" y="503" text-anchor="start" class="Lx">ḏ</text>
+<text x="130" y="503" text-anchor="start" class="Lx">U+1E0F</text>
+<text x="210" y="503" text-anchor="start" class="Lx">dʒ</text>
+<text x="290" y="503" text-anchor="start" class="Lx">Voiced palatal affricate (d-line-below)</text>
+<line x1="24" y1="513" x2="456" y2="513" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="519" x2="118" y2="519" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="523" text-anchor="middle" class="H">— COPTIC ALPHABET (DESCENDANT OF EGYPTIAN) —</text>
+<line x1="362" y1="519" x2="450" y2="519" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="531" text-anchor="middle" class="L">Coptic letters: ⲀⲁⲂⲃⲄⲅⲆⲇⲈⲉⲊⲋⲌⲍⲎⲏⲐⲑⲒⲓⲔⲕⲖⲗⲘⲙⲚⲛⲜⲝⲞⲟ</text>
+<text x="240" y="542" text-anchor="middle" class="Lx">(Greek-alphabet base + Demotic-derived signs for Egyptian sounds without Greek equivalents)</text>
+<text x="240" y="551" text-anchor="middle" class="Lx">Unicode block U+2C80–U+2CFF · Font: Noto Sans Coptic</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 61B  ·  SERIES 61  ·  ANCIENT EGYPTIAN  ·  MIDDLE EGYPTIAN c. 2000 BCE  ·  U+13000–U+13431</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

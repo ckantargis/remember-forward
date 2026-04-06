@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">FRENCH SIGN LANGUAGE (LSF)</text>
+<text x="240" y="47" text-anchor="middle" class="S">DISCOURSE · BRIDGE PHRASE · LSF–ASL–BSL FAMILY TREE · SERIES 64C</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— BRIDGE PHRASE IN LSF GLOSS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="74" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="86" text-anchor="middle" class="Lg">CE  FABRIQUER  POUR-TOI  LIBRE  PERSONNES  SE-SOUVENIR  AVANT</text>
+<text x="240" y="96" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="36" y="106" text-anchor="start" class="Lx">FABRIQUER: make/create — S-hands rotate on each other (cognate with ASL MAKE).</text>
+<text x="36" y="115" text-anchor="start" class="Lx">POUR-TOI: benefactive preposition POUR directed toward the addressee's locus.</text>
+<text x="36" y="124" text-anchor="start" class="Lx">LIBRE: free/liberty — wrists crossed (bound), then open outward (iconic liberation).</text>
+<text x="36" y="133" text-anchor="start" class="Lx">SE-SOUVENIR: reflexive — A-hand at temple, moves forward (memory + forward).</text>
+<text x="36" y="142" text-anchor="start" class="Lx">AVANT: before/forward — flat hand pushed forward in space (same spatial metaphor as ASL).</text>
+<line x1="24" y1="153" x2="456" y2="153" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="159" x2="118" y2="159" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="163" text-anchor="middle" class="H">— SIGN LANGUAGE FAMILY TREE —</text>
+<line x1="362" y1="159" x2="450" y2="159" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="171" text-anchor="start" class="Lx">Sign languages, like spoken languages, form genetic families through common ancestry.</text>
+<text x="36" y="179" text-anchor="start" class="Lx"></text>
+<text x="36" y="187" text-anchor="start" class="Lx">OLD FRENCH SIGN LANGUAGE (Paris, 18th century)</text>
+<text x="36" y="195" text-anchor="start" class="Lx">  └─ LSF (modern France, Belgium) — 100,000 signers</text>
+<text x="36" y="203" text-anchor="start" class="Lx">  └─ ASL (USA, Canada) — via Clerc 1817 — 500,000 native</text>
+<text x="36" y="211" text-anchor="start" class="Lx">       └─ Many African sign languages (Mali SL, etc.)</text>
+<text x="36" y="219" text-anchor="start" class="Lx"></text>
+<text x="36" y="227" text-anchor="start" class="Lx">OLD BRITISH SIGN LANGUAGE (Braidwood school, Edinburgh 1760)</text>
+<text x="36" y="235" text-anchor="start" class="Lx">  └─ BSL (UK) — 150,000 signers</text>
+<text x="36" y="243" text-anchor="start" class="Lx">  └─ Auslan (Australia) — part of BANZSL family</text>
+<text x="36" y="251" text-anchor="start" class="Lx">  └─ NZSL (New Zealand) — part of BANZSL family</text>
+<text x="36" y="259" text-anchor="start" class="Lx"></text>
+<text x="36" y="267" text-anchor="start" class="Lx">INDEPENDENTLY DEVELOPED:</text>
+<text x="36" y="275" text-anchor="start" class="Lx">  Chinese SL — 20,000,000 signers (largest)</text>
+<text x="36" y="283" text-anchor="start" class="Lx">  Japanese SL (JSL)</text>
+<text x="36" y="291" text-anchor="start" class="Lx">  Israeli SL (ISL)</text>
+<text x="36" y="299" text-anchor="start" class="Lx">  Indian SL — 3,000,000+ signers</text>
+<text x="36" y="307" text-anchor="start" class="Lx">  Brazilian SL (Libras) — 3–10,000,000 signers</text>
+<text x="36" y="315" text-anchor="start" class="Lx"></text>
+<text x="36" y="323" text-anchor="start" class="Lx">Note: Geographic proximity does NOT determine sign language relationship.</text>
+<text x="36" y="331" text-anchor="start" class="Lx">BSL and ASL are as distinct as French and Finnish, despite sharing English context.</text>
+<text x="36" y="339" text-anchor="start" class="Lx">International Sign (IS): a contact variety used at international Deaf events;</text>
+<text x="36" y="347" text-anchor="start" class="Lx">not a full natural language but facilitates communication across SL families.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 64C  ·  SERIES 64  ·  FRENCH SIGN LANGUAGE (LSF)  ·  FAMILY TREE · BRIDGE PHRASE</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE (ASL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">GRAMMAR · SPATIAL SYNTAX · AGREEMENT VERBS · SERIES 62C</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— WORD ORDER: TOPIC-COMMENT &amp; SVO —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="Lx">TOPIC-COMMENT: Topic (what it's about) signed first, then comment about it.</text>
+<rect x="36" y="83" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="93" text-anchor="middle" class="Lx">BOOK  ME  BUY  (I bought the book)  —  vs.  ME  BUY  BOOK  (SVO neutral)</text>
+<text x="36" y="103" text-anchor="start" class="Lx">Both orders are grammatical; topic-comment is more natural for discourse structure.</text>
+<line x1="24" y1="113" x2="456" y2="113" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="121" x2="118" y2="121" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="125" text-anchor="middle" class="H">— AGREEMENT VERBS (SPATIAL GRAMMAR) —</text>
+<line x1="362" y1="121" x2="450" y2="121" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="133" text-anchor="start" class="Lx">AGREEMENT VERBS move in space between the locations assigned to subject and object.</text>
+<text x="36" y="142" text-anchor="start" class="Lx">Step 1: Assign referent A a location in signing space (e.g., left = HE/SHE).</text>
+<text x="36" y="151" text-anchor="start" class="Lx">Step 2: Assign referent B a location (e.g., right = ANOTHER PERSON).</text>
+<text x="36" y="160" text-anchor="start" class="Lx">Step 3: GIVE moves from A’s location to B’s location — encoding "A gives B".</text>
+<text x="36" y="169" text-anchor="start" class="Lx">Reversing the movement = "B gives A" with no additional signs required.</text>
+<rect x="36" y="178" width="404" height="38" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="80" y="192" text-anchor="middle" class="H">LOC-A</text>
+<text x="80" y="203" text-anchor="middle" class="Lx">(left)</text>
+<text x="240" y="192" text-anchor="middle" class="H">NEUTRAL SPACE</text>
+<text x="240" y="203" text-anchor="middle" class="Lx">signing area</text>
+<text x="360" y="192" text-anchor="middle" class="H">LOC-B</text>
+<text x="360" y="203" text-anchor="middle" class="Lx">(right)</text>
+<line x1="106" y1="197" x2="334" y2="197" stroke="#555" stroke-width="0.8"/>
+<polygon points="334,193 342,197 334,201" fill="#555"/>
+<text x="240" y="213" text-anchor="middle" class="Lx">GIVE (A→B)</text>
+<line x1="24" y1="224" x2="456" y2="224" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="232" x2="118" y2="232" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="236" text-anchor="middle" class="H">— CLASSIFIER PREDICATES —</text>
+<line x1="362" y1="232" x2="450" y2="232" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="244" text-anchor="start" class="Lx">Classifiers are handshapes that represent a category of objects in predicates.</text>
+<text x="36" y="253" text-anchor="start" class="Lx">CL:V</text>
+<text x="90" y="253" text-anchor="start" class="Lx">Legs</text>
+<text x="155" y="253" text-anchor="start" class="Lx">Inverted V = person walking; V-walk encodes movement + manner</text>
+<text x="36" y="262" text-anchor="start" class="Lx">CL:1</text>
+<text x="90" y="262" text-anchor="start" class="Lx">Upright</text>
+<text x="155" y="262" text-anchor="start" class="Lx">Index finger = tall thin object (person, pole, tree)</text>
+<text x="36" y="271" text-anchor="start" class="Lx">CL:B</text>
+<text x="90" y="271" text-anchor="start" class="Lx">Flat surf.</text>
+<text x="155" y="271" text-anchor="start" class="Lx">Flat hand = surface (table, floor, wall)</text>
+<text x="36" y="280" text-anchor="start" class="Lx">CL:C</text>
+<text x="90" y="280" text-anchor="start" class="Lx">Container</text>
+<text x="155" y="280" text-anchor="start" class="Lx">C-shape = cup, glass, cylindrical container</text>
+<text x="36" y="289" text-anchor="start" class="Lx">CL:G</text>
+<text x="90" y="289" text-anchor="start" class="Lx">Small obj.</text>
+<text x="155" y="289" text-anchor="start" class="Lx">Index+thumb = small flat object (coin, card, paper)</text>
+<text x="36" y="298" text-anchor="start" class="Lx">CL:5</text>
+<text x="90" y="298" text-anchor="start" class="Lx">Vehicle</text>
+<text x="155" y="298" text-anchor="start" class="Lx">Open 5 = car, boat, plane in motion</text>
+<line x1="24" y1="309" x2="456" y2="309" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="315" x2="118" y2="315" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H">— KEY GRAMMATICAL FEATURES —</text>
+<line x1="362" y1="315" x2="450" y2="315" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="327" text-anchor="start" class="H">ASPECT</text>
+<text x="140" y="327" text-anchor="start" class="Lx">Modulate verb movement: slow/repeated = ongoing, fast/sharp = sudden</text>
+<text x="36" y="336" text-anchor="start" class="H">NEGATION</text>
+<text x="140" y="336" text-anchor="start" class="Lx">Head shake (NMS) simultaneously with or after verb; NEG sign</text>
+<text x="36" y="345" text-anchor="start" class="H">YES/NO Q.</text>
+<text x="140" y="345" text-anchor="start" class="Lx">Brow raise + eye widening + slight forward head tilt (NMS)</text>
+<text x="36" y="354" text-anchor="start" class="H">WH- Q.</text>
+<text x="140" y="354" text-anchor="start" class="Lx">Brow furrow + slight head tilt + WH-sign at end (WHERE, WHO, WHAT, WHY)</text>
+<text x="36" y="363" text-anchor="start" class="H">ROLE SHIFT</text>
+<text x="140" y="363" text-anchor="start" class="Lx">Shift body/eye gaze to "become" each character in narrative</text>
+<text x="36" y="372" text-anchor="start" class="H">BUOY SIGNS</text>
+<text x="140" y="372" text-anchor="start" class="Lx">Signs that hold a topic in space while continuing discourse</text>
+<line x1="24" y1="383" x2="456" y2="383" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="389" x2="118" y2="389" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="393" text-anchor="middle" class="H">— CORE VOCABULARY (ASL GLOSS NOTATION) —</text>
+<line x1="362" y1="389" x2="450" y2="389" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="400" text-anchor="start" class="Ls">ME / I</text>
+<text x="148" y="400" text-anchor="start" class="Lx">Index to chest</text>
+<text x="36" y="409" text-anchor="start" class="Ls">YOU</text>
+<text x="148" y="409" text-anchor="start" class="Lx">Index to addressee</text>
+<text x="36" y="418" text-anchor="start" class="Ls">HE/SHE/IT</text>
+<text x="148" y="418" text-anchor="start" class="Lx">Index to referent location</text>
+<text x="36" y="427" text-anchor="start" class="Ls">GIVE</text>
+<text x="148" y="427" text-anchor="start" class="Lx">Palm up, move toward</text>
+<text x="36" y="436" text-anchor="start" class="Ls">TAKE</text>
+<text x="148" y="436" text-anchor="start" class="Lx">Palm down, move toward</text>
+<text x="36" y="445" text-anchor="start" class="Ls">MAKE</text>
+<text x="148" y="445" text-anchor="start" class="Lx">Fists rotate on each other</text>
+<text x="36" y="454" text-anchor="start" class="Ls">KNOW</text>
+<text x="148" y="454" text-anchor="start" class="Lx">Flat hand at forehead</text>
+<text x="196" y="400" text-anchor="start" class="Ls">NOT-KNOW</text>
+<text x="308" y="400" text-anchor="start" class="Lx">B-hand, flip out</text>
+<text x="196" y="409" text-anchor="start" class="Ls">WANT</text>
+<text x="308" y="409" text-anchor="start" class="Lx">Claw hands, draw in</text>
+<text x="196" y="418" text-anchor="start" class="Ls">GO</text>
+<text x="308" y="418" text-anchor="start" class="Lx">Bent V, arc forward</text>
+<text x="196" y="427" text-anchor="start" class="Ls">COME</text>
+<text x="308" y="427" text-anchor="start" class="Lx">Index crook toward signer</text>
+<text x="196" y="436" text-anchor="start" class="Ls">SEE</text>
+<text x="308" y="436" text-anchor="start" class="Lx">V from eyes forward</text>
+<text x="196" y="445" text-anchor="start" class="Ls">GOOD</text>
+<text x="308" y="445" text-anchor="start" class="Lx">Flat hand chin to palm</text>
+<text x="196" y="454" text-anchor="start" class="Ls">BAD</text>
+<text x="308" y="454" text-anchor="start" class="Lx">Flat hand chin, flip out</text>
+<text x="356" y="400" text-anchor="start" class="Ls">FREE</text>
+<text x="450" y="400" text-anchor="start" class="Lx">F-hands cross then open</text>
+<text x="356" y="409" text-anchor="start" class="Ls">REMEMBER</text>
+<text x="450" y="409" text-anchor="start" class="Lx">A-hand at temple</text>
+<text x="356" y="418" text-anchor="start" class="Ls">FORWARD</text>
+<text x="450" y="418" text-anchor="start" class="Lx">B-hand, push forward</text>
+<text x="356" y="427" text-anchor="start" class="Ls">PEOPLE</text>
+<text x="450" y="427" text-anchor="start" class="Lx">P-hands alternating</text>
+<text x="356" y="436" text-anchor="start" class="Ls">MAKE</text>
+<text x="450" y="436" text-anchor="start" class="Lx">S-hands rotate on each other</text>
+<text x="356" y="445" text-anchor="start" class="Ls">THIS</text>
+<text x="450" y="445" text-anchor="start" class="Lx">Index point down at obj</text>
+<text x="356" y="454" text-anchor="start" class="Ls">WORD</text>
+<text x="450" y="454" text-anchor="start" class="Lx">Index + G at mouth</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 62C  ·  SERIES 62  ·  AMERICAN SIGN LANGUAGE  ·  SPATIAL SYNTAX · CLASSIFIERS · AGREEMENT</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRITISH SIGN LANGUAGE (BSL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">PHONOLOGICAL PARAMETERS · GRAMMAR OVERVIEW · SERIES 63B</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— BSL PHONOLOGICAL PARAMETERS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="Lx">BSL, like all sign languages, has a formal phonological structure with minimal pairs:</text>
+<text x="36" y="84" text-anchor="start" class="H">HANDSHAPE:</text>
+<text x="130" y="84" text-anchor="start" class="Lx">The shape of the hand(s); ~44 handshapes documented in BSL</text>
+<text x="36" y="93" text-anchor="start" class="H">LOCATION:</text>
+<text x="130" y="93" text-anchor="start" class="Lx">Where relative to the body: forehead/chin/chest/neutral space</text>
+<text x="36" y="102" text-anchor="start" class="H">MOVEMENT:</text>
+<text x="130" y="102" text-anchor="start" class="Lx">Direction, path, manner, and repetition of hand motion</text>
+<text x="36" y="111" text-anchor="start" class="H">ORIENTATION:</text>
+<text x="130" y="111" text-anchor="start" class="Lx">Palm direction: up, down, toward/away from signer, left/right</text>
+<text x="36" y="120" text-anchor="start" class="H">NMS:</text>
+<text x="130" y="120" text-anchor="start" class="Lx">Non-manual signals: facial expression, lip patterns, body position</text>
+<line x1="24" y1="131" x2="456" y2="131" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="137" x2="118" y2="137" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="141" text-anchor="middle" class="H">— BSL GRAMMAR: KEY FEATURES —</text>
+<line x1="362" y1="137" x2="450" y2="137" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="149" text-anchor="start" class="H">WORD ORDER</text>
+<text x="50" y="158" text-anchor="start" class="Lx">SOV (subject-object-verb) is unmarked baseline in BSL,</text>
+<text x="50" y="166" text-anchor="start" class="Lx">contrasting with ASL’s SVO. Both allow topic-comment reordering.</text>
+<text x="36" y="176" text-anchor="start" class="H">TOPIC-COMMENT</text>
+<text x="50" y="185" text-anchor="start" class="Lx">Topic established first (brow raise NMS), then comment.</text>
+<text x="50" y="193" text-anchor="start" class="Lx">BOOK, ME READ  (The book, I read it)  — most natural BSL structure.</text>
+<text x="36" y="203" text-anchor="start" class="H">NMS GRAMMAR</text>
+<text x="50" y="212" text-anchor="start" class="Lx">BSL relies more on body movement, less on facial expression than ASL.</text>
+<text x="50" y="220" text-anchor="start" class="Lx">Shoulder shift, body lean, head tilt all carry grammatical meaning.</text>
+<text x="36" y="230" text-anchor="start" class="H">LIP PATTERNS</text>
+<text x="50" y="239" text-anchor="start" class="Lx">BSL signers often mouth English words simultaneously.</text>
+<text x="50" y="247" text-anchor="start" class="Lx">This is distinct from ASL and reflects different contact with English.</text>
+<text x="36" y="257" text-anchor="start" class="H">NEGATION</text>
+<text x="50" y="266" text-anchor="start" class="Lx">Head shake + NEG sign, or head shake alone for short sentences.</text>
+<text x="50" y="274" text-anchor="start" class="Lx">NOT, NEVER, NONE: distinct signs + head shake NMS.</text>
+<text x="36" y="284" text-anchor="start" class="H">QUESTIONS</text>
+<text x="50" y="293" text-anchor="start" class="Lx">Y/N: brow raise; WH-: brow furrow (same as ASL).</text>
+<text x="50" y="301" text-anchor="start" class="Lx">WHAT, WHERE, WHO, WHEN, WHY, HOW — at end of sentence.</text>
+<line x1="24" y1="313" x2="456" y2="313" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="319" x2="118" y2="319" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="323" text-anchor="middle" class="H">— BSL vs ASL: MUTUAL UNINTELLIGIBILITY —</text>
+<line x1="362" y1="319" x2="450" y2="319" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="331" text-anchor="start" class="Lx">Despite sharing English as the surrounding spoken language, BSL and ASL are distinct.</text>
+<text x="36" y="340" text-anchor="start" class="Lx">Historical origin: BSL developed independently in Britain (18th–19th c.).</text>
+<text x="36" y="349" text-anchor="start" class="Lx">ASL originated from LSF (French), brought to the US by Laurent Clerc in 1817.</text>
+<text x="36" y="358" text-anchor="start" class="Lx">Lexical similarity: ~31% of signs identical; ~44% cognate (related but different).</text>
+<text x="36" y="367" text-anchor="start" class="Lx">Both belong to different language families:</text>
+<text x="36" y="376" text-anchor="start" class="Lx">  BSL family: BSL, Auslan (Australia), NZSL (New Zealand) — BANZSL group.</text>
+<text x="36" y="385" text-anchor="start" class="Lx">  ASL family: ASL, LSF, many African, Middle Eastern, Asian sign languages.</text>
+<text x="36" y="394" text-anchor="start" class="Lx">Contact signing: "Signed Supported English" (SSE) is a contact variety, not BSL.</text>
+<line x1="24" y1="405" x2="456" y2="405" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="411" x2="118" y2="411" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="415" text-anchor="middle" class="H">— SIGNING SPACE &amp; SPATIAL GRAMMAR —</text>
+<line x1="362" y1="411" x2="450" y2="411" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="423" text-anchor="start" class="Lx">BSL uses the same spatial grammar as ASL: referents assigned to locations,</text>
+<text x="36" y="432" text-anchor="start" class="Lx">agreement verbs move between locations, classifiers represent object categories.</text>
+<text x="36" y="441" text-anchor="start" class="Lx">The signing space is the area in front of the signer’s body (roughly head to waist,</text>
+<text x="36" y="450" text-anchor="start" class="Lx">shoulder-width to either side) — this space is the grammar.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 63B  ·  SERIES 63  ·  BRITISH SIGN LANGUAGE  ·  SOV · BANZSL FAMILY · NMS GRAMMAR</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

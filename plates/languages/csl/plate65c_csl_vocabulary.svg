@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">CHINESE SIGN LANGUAGE (CSL / ZGS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">CORE VOCABULARY · BRIDGE PHRASE · SERIES 65C</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— BRIDGE PHRASE IN CSL GLOSS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="74" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="86" text-anchor="middle" class="Lg">这  制作  为-你  免费  人们  记得  前进</text>
+<rect x="36" y="96" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="Ls">ZHÈ  ZHÌZUÒ  WÈI-Nǐ  MIǎNFÈI  RÉNMEN  JÌDE  QIÁNJÌN</text>
+<text x="240" y="116" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="64" y="128" text-anchor="middle" class="Ls">这 ZHÈ</text>
+<text x="64" y="136" text-anchor="middle" class="Lx">this/this one</text>
+<text x="121" y="128" text-anchor="middle" class="Ls">制作 ZHÌZUÒ</text>
+<text x="121" y="136" text-anchor="middle" class="Lx">to make/create</text>
+<text x="178" y="128" text-anchor="middle" class="Ls">为你 WÈINǐ</text>
+<text x="178" y="136" text-anchor="middle" class="Lx">for-you (directed)</text>
+<text x="235" y="128" text-anchor="middle" class="Ls">免费 MIǎNFÈI</text>
+<text x="235" y="136" text-anchor="middle" class="Lx">free of charge</text>
+<text x="292" y="128" text-anchor="middle" class="Ls">人们 RÉNMEN</text>
+<text x="292" y="136" text-anchor="middle" class="Lx">people (plural)</text>
+<text x="349" y="128" text-anchor="middle" class="Ls">记得 JÌDE</text>
+<text x="349" y="136" text-anchor="middle" class="Lx">to remember</text>
+<text x="406" y="128" text-anchor="middle" class="Ls">前进 QIÁNJÌN</text>
+<text x="406" y="136" text-anchor="middle" class="Lx">forward/advance</text>
+<line x1="24" y1="152" x2="456" y2="152" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="158" x2="118" y2="158" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="162" text-anchor="middle" class="H">— LINGUISTIC NOTES —</text>
+<line x1="362" y1="158" x2="450" y2="158" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="170" text-anchor="start" class="Lx">前进 (qiánjìn, "forward/advance"): compound of 前 (qián, forward/front) + 进 (jìn, advance/move).</text>
+<text x="36" y="179" text-anchor="start" class="Lx">The spatial metaphor of future-as-forward is identical in Chinese and English.</text>
+<text x="36" y="188" text-anchor="start" class="Lx">记得 (jìde, "remember"): literally 记 "record/note" + 得 "obtain/get" = internalize as memory.</text>
+<text x="36" y="197" text-anchor="start" class="Lx">为你 (wèi nǐ): preposition 为 (for/on behalf of) + 你 (you) = spatial benefactive.</text>
+<text x="36" y="206" text-anchor="start" class="Lx">CSL would sign this in SOV-influenced order: PEOPLE THIS MAKE FOR-YOU FREE</text>
+<text x="36" y="215" text-anchor="start" class="Lx">REMEMBER FORWARD — slightly different from ASL's SVO gloss.</text>
+<line x1="24" y1="226" x2="456" y2="226" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="232" x2="118" y2="232" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="236" text-anchor="middle" class="H">— CORE VOCABULARY (CSL GLOSS) —</text>
+<line x1="362" y1="232" x2="450" y2="232" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="244" text-anchor="start" class="Ls">我 WŎ (ME)</text>
+<text x="148" y="244" text-anchor="start" class="Lx">index to chest</text>
+<text x="36" y="253" text-anchor="start" class="Ls">你 Nǐ (YOU)</text>
+<text x="148" y="253" text-anchor="start" class="Lx">index to addressee</text>
+<text x="36" y="262" text-anchor="start" class="Ls">人 RÉN (PERSON)</text>
+<text x="148" y="262" text-anchor="start" class="Lx">two fingers, meet like 人</text>
+<text x="36" y="271" text-anchor="start" class="Ls">名字 (NAME)</text>
+<text x="148" y="271" text-anchor="start" class="Lx">N at forehead</text>
+<text x="36" y="280" text-anchor="start" class="Ls">聋手语</text>
+<text x="148" y="280" text-anchor="start" class="Lx">two indices circle (SIGN)</text>
+<text x="36" y="289" text-anchor="start" class="Ls">明白 (UNDERSTAND)</text>
+<text x="148" y="289" text-anchor="start" class="Lx">index taps forehead</text>
+<text x="36" y="298" text-anchor="start" class="Ls">知道 (KNOW)</text>
+<text x="148" y="298" text-anchor="start" class="Lx">flat B at forehead</text>
+<text x="36" y="307" text-anchor="start" class="Ls">看 (SEE)</text>
+<text x="148" y="307" text-anchor="start" class="Lx">V from eyes forward</text>
+<text x="36" y="316" text-anchor="start" class="Ls">给 GěI (GIVE)</text>
+<text x="148" y="316" text-anchor="start" class="Lx">palm up, extend</text>
+<text x="36" y="325" text-anchor="start" class="Ls">取 Qǔ (TAKE)</text>
+<text x="148" y="325" text-anchor="start" class="Lx">claw hand, draw back</text>
+<text x="246" y="244" text-anchor="start" class="Ls">做 ZUÒ (MAKE)</text>
+<text x="358" y="244" text-anchor="start" class="Lx">fists rotate</text>
+<text x="246" y="253" text-anchor="start" class="Ls">免费 (FREE)</text>
+<text x="358" y="253" text-anchor="start" class="Lx">wrists cross, open</text>
+<text x="246" y="262" text-anchor="start" class="Ls">记 JÌ (REMEMBER)</text>
+<text x="358" y="262" text-anchor="start" class="Lx">A-hand temple fwd</text>
+<text x="246" y="271" text-anchor="start" class="Ls">前进 (FORWARD)</text>
+<text x="358" y="271" text-anchor="start" class="Lx">flat hand push fwd</text>
+<text x="246" y="280" text-anchor="start" class="Ls">人们 (PEOPLE)</text>
+<text x="358" y="280" text-anchor="start" class="Lx">P-hands alternate</text>
+<text x="246" y="289" text-anchor="start" class="Ls">山 SHĀN (MOUNTAIN)</text>
+<text x="358" y="289" text-anchor="start" class="Lx">3 fingers up, like 山</text>
+<text x="246" y="298" text-anchor="start" class="Ls">天 TIĀN (SKY/DAY)</text>
+<text x="358" y="298" text-anchor="start" class="Lx">index overhead</text>
+<text x="246" y="307" text-anchor="start" class="Ls">水 SHUǐ (WATER)</text>
+<text x="358" y="307" text-anchor="start" class="Lx">W at lips</text>
+<text x="246" y="316" text-anchor="start" class="Ls">火 HUǒ (FIRE)</text>
+<text x="358" y="316" text-anchor="start" class="Lx">rising flame gesture</text>
+<text x="246" y="325" text-anchor="start" class="Ls">爱 ÀI (LOVE)</text>
+<text x="358" y="325" text-anchor="start" class="Lx">crossed arms on chest</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 65C  ·  SERIES 65  ·  CHINESE SIGN LANGUAGE (CSL)  ·  BRIDGE PHRASE · CORE VOCABULARY</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

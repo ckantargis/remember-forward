@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">BRAZILIAN SIGN LANGUAGE (LIBRAS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">PARAMETERS · GRAMMAR · VERB TYPES · SERIES 66B</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— LIBRAS PHONOLOGICAL PARAMETERS (5) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="H">HANDSHAPE (Configuração de mão):</text>
+<text x="240" y="74" text-anchor="start" class="Lx">111 distinct handshapes (most documented of any SL)</text>
+<text x="36" y="83" text-anchor="start" class="H">LOCATION (Locação/Ponto de articulação):</text>
+<text x="240" y="83" text-anchor="start" class="Lx">Head zones, trunk, neutral space; arm/hand location</text>
+<text x="36" y="92" text-anchor="start" class="H">MOVEMENT (Movimento):</text>
+<text x="240" y="92" text-anchor="start" class="Lx">Path, direction, internal finger movement, wrist twist</text>
+<text x="36" y="101" text-anchor="start" class="H">ORIENTATION (Orientação):</text>
+<text x="240" y="101" text-anchor="start" class="Lx">Palm direction: 6 primary orientations</text>
+<text x="36" y="110" text-anchor="start" class="H">NMS (Expressões não-manuais):</text>
+<text x="240" y="110" text-anchor="start" class="Lx">Facial expression, mouth morphemes, body posture</text>
+<line x1="24" y1="121" x2="456" y2="121" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="127" x2="118" y2="127" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="131" text-anchor="middle" class="H">— WORD ORDER: SVO + TOPIC-COMMENT —</text>
+<line x1="362" y1="127" x2="450" y2="127" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="139" text-anchor="start" class="Lx">Unmarked order: SVO (subject-verb-object) — same as English and ASL.</text>
+<text x="36" y="148" text-anchor="start" class="Lx">Topic-comment also common: BOOK, I READ (topicalizing the book first).</text>
+<text x="36" y="157" text-anchor="start" class="Lx">When using topic-comment, brow raise NMS marks the topic.</text>
+<text x="36" y="166" text-anchor="start" class="Lx">SOV order also occurs, particularly with focus on the object or classifier predicates.</text>
+<line x1="24" y1="177" x2="456" y2="177" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="183" x2="118" y2="183" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">— LIBRAS VERB TYPES —</text>
+<line x1="362" y1="183" x2="450" y2="183" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="195" text-anchor="start" class="H">Type</text>
+<text x="130" y="195" text-anchor="start" class="H">Feature</text>
+<text x="260" y="195" text-anchor="start" class="H">Examples</text>
+<line x1="24" y1="198" x2="456" y2="198" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="205" text-anchor="start" class="Lx">PLAIN VERBS</text>
+<text x="130" y="205" text-anchor="start" class="Lx">No spatial agreement. Move in neutral space.</text>
+<text x="260" y="205" text-anchor="start" class="Lx">GOSTAR (like), QUERER (want), SABER (know)</text>
+<text x="36" y="214" text-anchor="start" class="Lx">AGREEMENT VERBS</text>
+<text x="130" y="214" text-anchor="start" class="Lx">Incorporate subject/object via spatial movement.</text>
+<text x="260" y="214" text-anchor="start" class="Lx">DAR (give), PAGAR (pay), PERGUNTAR (ask)</text>
+<text x="36" y="223" text-anchor="start" class="Lx">SPATIAL VERBS</text>
+<text x="130" y="223" text-anchor="start" class="Lx">Encode location of objects, not persons.</text>
+<text x="260" y="223" text-anchor="start" class="Lx">COLOCAR (put), IR (go), VIR (come)</text>
+<line x1="24" y1="234" x2="456" y2="234" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="240" x2="118" y2="240" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="244" text-anchor="middle" class="H">— SPATIAL MARKING IN LIBRAS —</text>
+<line x1="362" y1="240" x2="450" y2="240" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="252" text-anchor="start" class="Lx">Libras shows a precise spatial marking system for definite vs indefinite referents:</text>
+<text x="36" y="260" text-anchor="start" class="Lx"></text>
+<text x="36" y="268" text-anchor="start" class="Lx">STRONG/DEFINITE reference: NP assigned to right or left space — persists in discourse.</text>
+<text x="36" y="276" text-anchor="start" class="Lx">WEAK/INDEFINITE reference: NP placed in neutral central space.</text>
+<text x="36" y="284" text-anchor="start" class="Lx">Pronouns: point to the previously assigned locus (no separate pronoun handshape required).</text>
+<text x="36" y="292" text-anchor="start" class="Lx"></text>
+<text x="36" y="300" text-anchor="start" class="Lx">This spatial grammar is a universal feature of natural sign languages, not a quirk.</text>
+<text x="36" y="308" text-anchor="start" class="Lx">It is structurally equivalent to case marking or article systems in spoken languages.</text>
+<line x1="24" y1="318" x2="456" y2="318" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="324" x2="118" y2="324" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H">— KEY GRAMMATICAL FEATURES —</text>
+<line x1="362" y1="324" x2="450" y2="324" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="336" text-anchor="start" class="H">ASPECT:</text>
+<text x="130" y="336" text-anchor="start" class="Lx">Verb movement modulated: repeated/slow = habitual, fast/tense = punctual</text>
+<text x="36" y="345" text-anchor="start" class="H">NEGATION:</text>
+<text x="130" y="345" text-anchor="start" class="Lx">Head shake NMS + NÃO sign, or head shake alone (short clauses)</text>
+<text x="36" y="354" text-anchor="start" class="H">QUESTIONS:</text>
+<text x="130" y="354" text-anchor="start" class="Lx">Y/N: brow raise; WH-: brow furrow + WH-sign (O QUÊ, QUEM, ONDE, QUANDO)</text>
+<text x="36" y="363" text-anchor="start" class="H">CLASSIFIERS:</text>
+<text x="130" y="363" text-anchor="start" class="Lx">Large inventory; CL:1 person, CL:V walk, CL:C container, CL:B flat surface</text>
+<text x="36" y="372" text-anchor="start" class="H">SIMULTANEITY:</text>
+<text x="130" y="372" text-anchor="start" class="Lx">Multiple parameters used simultaneously — single sign = multiple morphemes</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 66B  ·  SERIES 66  ·  LIBRAS (BRAZILIAN SIGN LANGUAGE)  ·  SVO · AGREEMENT VERBS · 111 HANDSHAPES</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

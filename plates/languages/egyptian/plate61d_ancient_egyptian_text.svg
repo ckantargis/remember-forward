@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Le { font: 18px/1 "Noto Sans Egyptian Hieroglyphs",serif; }
+  .Lm { font: italic 7.5px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="47" text-anchor="middle" class="S">RUNNING TEXT · ROSETTA STONE · PYRAMID TEXTS · HYMN TO THE ATEN</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— ROSETTA STONE — OPENING (196 BCE, DECREE OF PTOLEMY V) —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="H">Hieroglyphic version (transliteration):</text>
+<rect x="36" y="84" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="94" text-anchor="middle" class="Lm">ꜣnk Pt-wlmys s n Pt-wlmys mi ꜣnk Pt-wlmys s n Ars-t</text>
+<text x="240" y="102" text-anchor="middle" class="Lx">In the reign of Ptolemy, son of Ptolemy — as Ptolemy, son of Arsinoe</text>
+<text x="36" y="112" text-anchor="start" class="Lx">NOTE: The Rosetta Stone (196 BCE) records the same decree in three scripts:</text>
+<text x="36" y="121" text-anchor="start" class="Lx">HIEROGLYPHIC (for priests) · DEMOTIC (for Egyptians) · GREEK (for rulers)</text>
+<text x="36" y="130" text-anchor="start" class="Lx">Jean-François Champollion used it to decipher hieroglyphs in 1822 CE.</text>
+<line x1="24" y1="141" x2="456" y2="141" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="148" x2="118" y2="148" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="152" text-anchor="middle" class="H">— PYRAMID TEXTS — SPELL 213 (c. 2375 BCE, OLDEST RELIGIOUS CORPUS) —</text>
+<line x1="362" y1="148" x2="450" y2="148" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="160" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="170" text-anchor="middle" class="Lm">nD Hr=k Wsr nD Hr=k — Hail to you, Osiris — Hail to you</text>
+<text x="240" y="178" text-anchor="middle" class="Lx">wn=k m nTr mnx — "You are as an excellent god"</text>
+<text x="36" y="187" text-anchor="start" class="Lx">ir.n.k ib=k n=i — "You have set your heart for me"</text>
+<text x="36" y="196" text-anchor="start" class="Lx">(Inscribed on pyramid walls at Saqqara for Pharaoh Unas; oldest written corpus, c. 2375 BCE)</text>
+<line x1="24" y1="207" x2="456" y2="207" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="214" x2="118" y2="214" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="218" text-anchor="middle" class="H">— GREAT HYMN TO THE ATEN (AKHENATEN, c. 1346 BCE) —</text>
+<line x1="362" y1="214" x2="450" y2="214" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="226" text-anchor="start" class="Ls">nfr xr=k r Axt pt</text>
+<text x="50" y="235" text-anchor="start" class="Lx">Beautiful you appear on the horizon of heaven</text>
+<text x="36" y="245" text-anchor="start" class="Ls">Itn anx xpr m tpw</text>
+<text x="50" y="254" text-anchor="start" class="Lx">Living Aten, who originated life at the beginning</text>
+<text x="36" y="264" text-anchor="start" class="Ls">di=k nTrw r tA nbt</text>
+<text x="50" y="273" text-anchor="start" class="Lx">You set every god upon the earth</text>
+<text x="36" y="283" text-anchor="start" class="Ls">ir.n=k rmT nb mi anx.w</text>
+<text x="50" y="292" text-anchor="start" class="Lx">You made all people as if they were alive</text>
+<text x="36" y="302" text-anchor="start" class="Lx">(Akhenaten's monotheistic hymn to the sun disc; parallels Psalm 104; unique theological document)</text>
+<line x1="24" y1="313" x2="456" y2="313" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="320" x2="118" y2="320" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H">— BRIDGE PHRASE IN MIDDLE EGYPTIAN —</text>
+<line x1="362" y1="320" x2="450" y2="320" stroke="#111" stroke-width="0.3"/>
+<rect x="36" y="332" width="404" height="16" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="344" text-anchor="middle" class="Lm">ir.n.sn sw n=k, m nfrw, in rmT sAA.n.(sn) xnt</text>
+<text x="64" y="354" text-anchor="middle" class="Ls">ir.n.sn</text>
+<text x="64" y="363" text-anchor="middle" class="Lx">made-PERF-they</text>
+<text x="121" y="354" text-anchor="middle" class="Ls">sw</text>
+<text x="121" y="363" text-anchor="middle" class="Lx">it/this</text>
+<text x="178" y="354" text-anchor="middle" class="Ls">n=k</text>
+<text x="178" y="363" text-anchor="middle" class="Lx">for-you</text>
+<text x="235" y="354" text-anchor="middle" class="Ls">m nfrw</text>
+<text x="235" y="363" text-anchor="middle" class="Lx">in beauty / freely</text>
+<text x="292" y="354" text-anchor="middle" class="Ls">in rmT</text>
+<text x="292" y="363" text-anchor="middle" class="Lx">by people</text>
+<text x="349" y="354" text-anchor="middle" class="Ls">sAA.n.(sn)</text>
+<text x="349" y="363" text-anchor="middle" class="Lx">remembered-PERF</text>
+<text x="406" y="354" text-anchor="middle" class="Ls">xnt</text>
+<text x="406" y="363" text-anchor="middle" class="Lx">forward/before</text>
+<rect x="36" y="376" width="404" height="14" fill="none" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="Lx">"This was made for you, freely, by people who remembered forward."</text>
+<text x="36" y="398" text-anchor="start" class="H">LINGUISTIC NOTES ON THE PHRASE:</text>
+<text x="36" y="408" text-anchor="start" class="Lx">ir.n.sn — Perfective (n-form) of ir "to make/do"; subject suffix sn "they".</text>
+<text x="36" y="416" text-anchor="start" class="Lx">n=k — Dative particle n "for/to" + suffix pronoun =k (2sg.masc.).</text>
+<text x="36" y="424" text-anchor="start" class="Lx">m nfrw — Preposition m "in/with" + nfrw "beauty, goodness, excellence" = "freely/graciously".</text>
+<text x="36" y="432" text-anchor="start" class="Lx">in — Particle introducing the agent in a passive or cleft construction.</text>
+<text x="36" y="440" text-anchor="start" class="Lx">sAA.n.sn — Perfective of sAA "to remember, be mindful of" — closest to "remembered".</text>
+<text x="36" y="448" text-anchor="start" class="Lx">xnt — Preposition/adverb "forward, in front of, before" — spatial metaphor for future time.</text>
+<text x="36" y="456" text-anchor="start" class="Lx">FUTURITY NOTE: Egyptian expresses the future spatially as xnt "what lies ahead / forward".</text>
+<text x="36" y="464" text-anchor="start" class="Lx">This aligns exactly with the English phrase "remembered forward" — an active orientation toward</text>
+<text x="36" y="472" text-anchor="start" class="Lx">future time, encoded in the same spatial metaphor (future = forward) across both languages.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 61D  ·  SERIES 61  ·  ANCIENT EGYPTIAN  ·  MIDDLE EGYPTIAN c. 2000 BCE  ·  U+13000–U+13431</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

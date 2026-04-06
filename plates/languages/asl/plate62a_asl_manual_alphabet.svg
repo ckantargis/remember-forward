@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE (ASL)</text>
+<text x="240" y="47" text-anchor="middle" class="S">MANUAL ALPHABET · HANDSHAPE INVENTORY · SERIES 62A</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="65" text-anchor="middle" class="Lx">Sign languages are complete natural human languages — not codes for spoken languages.</text>
+<text x="240" y="74" text-anchor="middle" class="Lx">ASL is the primary language of Deaf communities in the United States and Canada.</text>
+<text x="240" y="83" text-anchor="middle" class="Lx">c. 500,000 native signers. Descended from French Sign Language (LSF) via Gallaudet/Clerc, 1817.</text>
+<line x1="24" y1="91" x2="456" y2="91" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="98" x2="118" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="102" text-anchor="middle" class="H">— ASL ONE-HANDED MANUAL ALPHABET (FINGERSPELLING) —</text>
+<line x1="362" y1="98" x2="450" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="108" text-anchor="middle" class="Lx">Each letter = a handshape used to spell out names, technical terms, or unknown signs.</text>
+<rect x="37.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="31.5" y="143.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="45" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">A</text>
+<rect x="68.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="69.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="72.9" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="76.5" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="80.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="69.5" y1="147.0" x2="82.5" y2="147.0" stroke="#111" stroke-width="0.75"/>
+<text x="76" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">B</text>
+<path d="M113.9,135.2 A9,9 0 1,0 100.1,135.2" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="107" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">C</text>
+<rect x="130.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="131.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="134.9" y="135.5" width="2.6" height="4.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="138.5" y="135.5" width="2.6" height="4.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="142.2" y="135.5" width="2.6" height="4.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="126.5" y="132.5" width="4.0" height="7.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="138" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">D</text>
+<rect x="161.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="162.2" y="137.5" width="2.6" height="2.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="165.9" y="137.5" width="2.6" height="2.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="169.5" y="137.5" width="2.6" height="2.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="173.2" y="137.5" width="2.6" height="2.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="162.5" y1="147.0" x2="175.5" y2="147.0" stroke="#111" stroke-width="0.75"/>
+<text x="169" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">E</text>
+<rect x="192.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="196.9" y="129.5" width="2.6" height="10.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="200.5" y="129.5" width="2.6" height="10.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="204.2" y="129.5" width="2.6" height="10.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<circle cx="196.2" cy="136.5" r="3.0" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="200" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">F</text>
+<rect x="221.0" y="142.0" width="10.0" height="10.0" rx="2" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="231.0" y="145.0" width="9.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="221.0" y="138.0" width="3.5" height="5.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="231" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">G</text>
+<rect x="252.0" y="140.0" width="10.0" height="12.0" rx="2" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="262.0" y="141.0" width="9.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="262.0" y="146.0" width="9.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="262" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">H</text>
+<rect x="285.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="297.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="279.5" y="143.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="293" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">I</text>
+<rect x="316.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="328.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="310.5" y="143.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<circle cx="332.0" cy="137.0" r="1.2" fill="none" stroke="#111" stroke-width="0.75"/>
+<circle cx="335.0" cy="141.0" r="1.2" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="324" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">J</text>
+<rect x="347.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="348.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="351.9" y="130.5" width="2.6" height="9.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="343.5" y="132.5" width="4.0" height="7.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="355" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">K</text>
+<rect x="378.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="379.2" y="128.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="370.5" y="143.0" width="8.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="386" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">L</text>
+<rect x="409.5" y="139.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="410.2" y="136.5" width="2.6" height="3.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="413.9" y="136.5" width="2.6" height="3.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="417.5" y="136.5" width="2.6" height="3.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="410.5" y1="147.0" x2="423.5" y2="147.0" stroke="#111" stroke-width="0.75"/>
+<text x="417" y="159.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">M</text>
+<rect x="37.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="38.2" y="180.5" width="2.6" height="3.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="41.9" y="180.5" width="2.6" height="3.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="38.5" y1="191.0" x2="51.5" y2="191.0" stroke="#111" stroke-width="0.75"/>
+<text x="45" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">N</text>
+<circle cx="76.0" cy="185.0" r="9.0" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="76" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">O</text>
+<rect x="102.0" y="185.0" width="10.0" height="11.0" rx="2" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="98.0" y="185.0" width="8.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="98.0" y="190.0" width="8.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="112.0" y="181.0" width="3.5" height="6.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="107" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">P</text>
+<rect x="133.0" y="181.0" width="10.0" height="10.0" rx="2" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="137.0" y="191.0" width="3.0" height="8.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="143.0" y="185.0" width="6.0" height="3.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="138" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">Q</text>
+<rect x="161.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="161.2" y="173.5" width="2.6" height="10.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="166.9" y="173.5" width="2.6" height="10.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="164.8" y1="177.5" x2="165.9" y2="173.5" stroke="#111" stroke-width="0.75"/>
+<rect x="155.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="169" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">R</text>
+<rect x="192.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="193.5" y1="185.5" x2="206.5" y2="185.5" stroke="#111" stroke-width="0.75"/>
+<line x1="193.5" y1="191.0" x2="206.5" y2="191.0" stroke="#111" stroke-width="0.75"/>
+<text x="200" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">S</text>
+<rect x="223.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="224.2" y="179.5" width="2.6" height="4.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="227.9" y="179.5" width="2.6" height="4.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="226.8" y="177.5" width="1.1" height="5.0" rx="1" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="231" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">T</text>
+<rect x="254.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="255.2" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="258.9" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="248.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="262" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">U</text>
+<rect x="285.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="284.7" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="291.4" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="279.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="293" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">V</text>
+<rect x="316.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="317.2" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="320.9" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="324.5" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="310.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="324" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">W</text>
+<rect x="347.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="348.2" y="176.5" width="2.6" height="7.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<line x1="350.8" y1="176.5" x2="353.8" y2="173.5" stroke="#111" stroke-width="0.75"/>
+<rect x="341.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="355" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">X</text>
+<rect x="378.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="390.2" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="370.5" y="187.0" width="8.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="386" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">Y</text>
+<rect x="409.5" y="183.5" width="15.0" height="11.0" rx="2.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="410.2" y="172.5" width="2.6" height="11.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<rect x="403.5" y="187.0" width="6.0" height="5.0" rx="1.5" fill="none" stroke="#111" stroke-width="0.75"/>
+<circle cx="425.0" cy="180.0" r="1.2" fill="none" stroke="#111" stroke-width="0.75"/>
+<circle cx="427.0" cy="183.0" r="1.2" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="417" y="203.5" text-anchor="middle" font-family="Georgia,serif" font-size="7.5" fill="#111">Z</text>
+<line x1="24" y1="209" x2="456" y2="209" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="216" x2="118" y2="216" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="220" text-anchor="middle" class="H">— HANDSHAPE INVENTORY CATEGORIES —</text>
+<line x1="362" y1="216" x2="450" y2="216" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="227" text-anchor="middle" class="Lx">ASL uses ~50 distinct handshapes. Key categories:</text>
+<text x="36" y="235" text-anchor="start" class="H">OPEN HAND:</text>
+<text x="110" y="235" text-anchor="start" class="Lx">All fingers extended: B (flat), 5 (spread)</text>
+<text x="36" y="244" text-anchor="start" class="H">CLOSED/FIST:</text>
+<text x="110" y="244" text-anchor="start" class="Lx">A (fist), S (knuckles over thumb), E (bent)</text>
+<text x="36" y="253" text-anchor="start" class="H">SELECTED:</text>
+<text x="110" y="253" text-anchor="start" class="Lx">Specific fingers: G/L/D (index), I/Y (pinky), V/K (two)</text>
+<text x="36" y="262" text-anchor="start" class="H">BENT:</text>
+<text x="110" y="262" text-anchor="start" class="Lx">Curved fingers: C, O, F (circle), X (hook)</text>
+<text x="36" y="271" text-anchor="start" class="H">COMPOUND:</text>
+<text x="110" y="271" text-anchor="start" class="Lx">Complex: T (thumb between), R (crossed), W (three spread)</text>
+<line x1="24" y1="283" x2="456" y2="283" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="290" x2="118" y2="290" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="294" text-anchor="middle" class="H">— NUMBERS 1–10 (COMPACT REFERENCE) —</text>
+<line x1="362" y1="290" x2="450" y2="290" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="300" text-anchor="start" class="Ls">1</text>
+<text x="50" y="300" text-anchor="start" class="Lx">Index up</text>
+<text x="117" y="300" text-anchor="start" class="Ls">2</text>
+<text x="131" y="300" text-anchor="start" class="Lx">V/peace</text>
+<text x="198" y="300" text-anchor="start" class="Ls">3</text>
+<text x="212" y="300" text-anchor="start" class="Lx">Thumb+idx+mid</text>
+<text x="279" y="300" text-anchor="start" class="Ls">4</text>
+<text x="293" y="300" text-anchor="start" class="Lx">4 fingers up</text>
+<text x="360" y="300" text-anchor="start" class="Ls">5</text>
+<text x="374" y="300" text-anchor="start" class="Lx">Open 5-spread</text>
+<text x="36" y="318" text-anchor="start" class="Ls">6</text>
+<text x="50" y="318" text-anchor="start" class="Lx">Pinky+thumb touch</text>
+<text x="117" y="318" text-anchor="start" class="Ls">7</text>
+<text x="131" y="318" text-anchor="start" class="Lx">Ring+thumb touch</text>
+<text x="198" y="318" text-anchor="start" class="Ls">8</text>
+<text x="212" y="318" text-anchor="start" class="Lx">Mid+thumb touch</text>
+<text x="279" y="318" text-anchor="start" class="Ls">9</text>
+<text x="293" y="318" text-anchor="start" class="Lx">Idx+thumb circle</text>
+<text x="360" y="318" text-anchor="start" class="Ls">10</text>
+<text x="374" y="318" text-anchor="start" class="Lx">Fist, thumb up, shake</text>
+<line x1="24" y1="340" x2="456" y2="340" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="Lx">J and Z are motion letters: the handshape traces the letter in space. Shown above with motion dots.</text>
+<text x="240" y="360" text-anchor="middle" class="Lx">SignWriting notation (Unicode U+1D800–U+1DAAF) provides a complete written form for signs.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 62A  ·  SERIES 62  ·  AMERICAN SIGN LANGUAGE  ·  ASL · USA / CANADA · ~500,000 NATIVE SIGNERS</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

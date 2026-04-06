@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Le { font: 18px/1 "Noto Sans Egyptian Hieroglyphs",serif; }
+  .Lm { font: italic 7.5px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="47" text-anchor="middle" class="S">SCRIPT · MIDDLE EGYPTIAN c. 2000 BCE · HIEROGLYPHIC · HIERATIC · DEMOTIC</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— THE THREE WRITING SYSTEMS —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="100" y="75" text-anchor="middle" class="H">HIEROGLYPHIC</text>
+<text x="100" y="85" text-anchor="middle" class="Lx">Formal / monumental</text>
+<text x="100" y="94" text-anchor="middle" class="Lx">c. 3200 BCE – 400 CE</text>
+<text x="100" y="103" text-anchor="middle" class="Lx">Stone inscriptions, temple</text>
+<text x="100" y="112" text-anchor="middle" class="Lx">walls, coffins, papyrus</text>
+<text x="100" y="121" text-anchor="middle" class="Lx">1,000+ signs</text>
+<text x="240" y="75" text-anchor="middle" class="H">HIERATIC</text>
+<text x="240" y="85" text-anchor="middle" class="Lx">Cursive reed-pen script</text>
+<text x="240" y="94" text-anchor="middle" class="Lx">c. 2700 BCE – 200 CE</text>
+<text x="240" y="103" text-anchor="middle" class="Lx">Papyrus, ostraca (pottery)</text>
+<text x="240" y="112" text-anchor="middle" class="Lx">Literary, religious, admin</text>
+<text x="240" y="121" text-anchor="middle" class="Lx">Simplified from hieroglyphs</text>
+<text x="380" y="75" text-anchor="middle" class="H">DEMOTIC</text>
+<text x="380" y="85" text-anchor="middle" class="Lx">Rapid cursive with ligatures</text>
+<text x="380" y="94" text-anchor="middle" class="Lx">c. 650 BCE – 400 CE</text>
+<text x="380" y="103" text-anchor="middle" class="Lx">Admin, legal, personal use</text>
+<text x="380" y="112" text-anchor="middle" class="Lx">On Rosetta Stone (196 BCE)</text>
+<text x="380" y="121" text-anchor="middle" class="Lx">Highly abbreviated</text>
+<line x1="24" y1="136" x2="456" y2="136" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="143" x2="118" y2="143" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="147" text-anchor="middle" class="H">— 24 UNILITERAL CONSONANT SIGNS —</text>
+<line x1="362" y1="143" x2="450" y2="143" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="153" text-anchor="middle" class="Lx">The Egyptian consonantal "alphabet" — each sign = one consonant sound</text>
+<rect x="30" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="57" y="182" text-anchor="middle" class="Le">𓄿</text>
+<text x="57" y="193" text-anchor="middle" class="Lx">G1</text>
+<text x="57" y="201" text-anchor="middle" class="Ls">ꜣ</text>
+<text x="57" y="207" text-anchor="middle" class="Lx">vulture</text>
+<rect x="84" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="111" y="182" text-anchor="middle" class="Le">𓇋</text>
+<text x="111" y="193" text-anchor="middle" class="Lx">M17</text>
+<text x="111" y="201" text-anchor="middle" class="Ls">i</text>
+<text x="111" y="207" text-anchor="middle" class="Lx">reed</text>
+<rect x="138" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="165" y="182" text-anchor="middle" class="Le">𓅱</text>
+<text x="165" y="193" text-anchor="middle" class="Lx">G43</text>
+<text x="165" y="201" text-anchor="middle" class="Ls">w</text>
+<text x="165" y="207" text-anchor="middle" class="Lx">quail chick</text>
+<rect x="192" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="219" y="182" text-anchor="middle" class="Le">𓂝</text>
+<text x="219" y="193" text-anchor="middle" class="Lx">D36</text>
+<text x="219" y="201" text-anchor="middle" class="Ls">ꜥ</text>
+<text x="219" y="207" text-anchor="middle" class="Lx">forearm</text>
+<rect x="246" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="273" y="182" text-anchor="middle" class="Le">𓃀</text>
+<text x="273" y="193" text-anchor="middle" class="Lx">D58</text>
+<text x="273" y="201" text-anchor="middle" class="Ls">b</text>
+<text x="273" y="207" text-anchor="middle" class="Lx">lower leg</text>
+<rect x="300" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="327" y="182" text-anchor="middle" class="Le">𓊪</text>
+<text x="327" y="193" text-anchor="middle" class="Lx">Q3</text>
+<text x="327" y="201" text-anchor="middle" class="Ls">p</text>
+<text x="327" y="207" text-anchor="middle" class="Lx">mat/stool</text>
+<rect x="354" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="381" y="182" text-anchor="middle" class="Le">𓆑</text>
+<text x="381" y="193" text-anchor="middle" class="Lx">I9</text>
+<text x="381" y="201" text-anchor="middle" class="Ls">f</text>
+<text x="381" y="207" text-anchor="middle" class="Lx">horned viper</text>
+<rect x="408" y="160" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="435" y="182" text-anchor="middle" class="Le">𓅓</text>
+<text x="435" y="193" text-anchor="middle" class="Lx">G17</text>
+<text x="435" y="201" text-anchor="middle" class="Ls">m</text>
+<text x="435" y="207" text-anchor="middle" class="Lx">owl</text>
+<rect x="30" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="57" y="230" text-anchor="middle" class="Le">𓈖</text>
+<text x="57" y="241" text-anchor="middle" class="Lx">N35</text>
+<text x="57" y="249" text-anchor="middle" class="Ls">n</text>
+<text x="57" y="255" text-anchor="middle" class="Lx">water</text>
+<rect x="84" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="111" y="230" text-anchor="middle" class="Le">𓂋</text>
+<text x="111" y="241" text-anchor="middle" class="Lx">D21</text>
+<text x="111" y="249" text-anchor="middle" class="Ls">r</text>
+<text x="111" y="255" text-anchor="middle" class="Lx">mouth</text>
+<rect x="138" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="165" y="230" text-anchor="middle" class="Le">𓉔</text>
+<text x="165" y="241" text-anchor="middle" class="Lx">O4</text>
+<text x="165" y="249" text-anchor="middle" class="Ls">h</text>
+<text x="165" y="255" text-anchor="middle" class="Lx">reed shelter</text>
+<rect x="192" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="219" y="230" text-anchor="middle" class="Le">𓎛</text>
+<text x="219" y="241" text-anchor="middle" class="Lx">V28</text>
+<text x="219" y="249" text-anchor="middle" class="Ls">ḥ</text>
+<text x="219" y="255" text-anchor="middle" class="Lx">twisted wick</text>
+<rect x="246" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="273" y="230" text-anchor="middle" class="Le">𓐍</text>
+<text x="273" y="241" text-anchor="middle" class="Lx">Aa1</text>
+<text x="273" y="249" text-anchor="middle" class="Ls">ḫ</text>
+<text x="273" y="255" text-anchor="middle" class="Lx">placenta</text>
+<rect x="300" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="327" y="230" text-anchor="middle" class="Le">𓄡</text>
+<text x="327" y="241" text-anchor="middle" class="Lx">F32</text>
+<text x="327" y="249" text-anchor="middle" class="Ls">ẖ</text>
+<text x="327" y="255" text-anchor="middle" class="Lx">animal belly</text>
+<rect x="354" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="381" y="230" text-anchor="middle" class="Le">𓋴</text>
+<text x="381" y="241" text-anchor="middle" class="Lx">S29</text>
+<text x="381" y="249" text-anchor="middle" class="Ls">s</text>
+<text x="381" y="255" text-anchor="middle" class="Lx">folded cloth</text>
+<rect x="408" y="208" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="435" y="230" text-anchor="middle" class="Le">𓊃</text>
+<text x="435" y="241" text-anchor="middle" class="Lx">O34</text>
+<text x="435" y="249" text-anchor="middle" class="Ls">z</text>
+<text x="435" y="255" text-anchor="middle" class="Lx">door bolt</text>
+<rect x="30" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="57" y="278" text-anchor="middle" class="Le">𓈙</text>
+<text x="57" y="289" text-anchor="middle" class="Lx">N37</text>
+<text x="57" y="297" text-anchor="middle" class="Ls">š</text>
+<text x="57" y="303" text-anchor="middle" class="Lx">basin/pool</text>
+<rect x="84" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="111" y="278" text-anchor="middle" class="Le">𓈎</text>
+<text x="111" y="289" text-anchor="middle" class="Lx">N29</text>
+<text x="111" y="297" text-anchor="middle" class="Ls">q</text>
+<text x="111" y="303" text-anchor="middle" class="Lx">hill/slope</text>
+<rect x="138" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="165" y="278" text-anchor="middle" class="Le">𓎡</text>
+<text x="165" y="289" text-anchor="middle" class="Lx">V31</text>
+<text x="165" y="297" text-anchor="middle" class="Ls">k</text>
+<text x="165" y="303" text-anchor="middle" class="Lx">basket + handle</text>
+<rect x="192" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="219" y="278" text-anchor="middle" class="Le">𓎼</text>
+<text x="219" y="289" text-anchor="middle" class="Lx">W11</text>
+<text x="219" y="297" text-anchor="middle" class="Ls">g</text>
+<text x="219" y="303" text-anchor="middle" class="Lx">jar stand</text>
+<rect x="246" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="273" y="278" text-anchor="middle" class="Le">𓏏</text>
+<text x="273" y="289" text-anchor="middle" class="Lx">X1</text>
+<text x="273" y="297" text-anchor="middle" class="Ls">t</text>
+<text x="273" y="303" text-anchor="middle" class="Lx">bread loaf</text>
+<rect x="300" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="327" y="278" text-anchor="middle" class="Le">𓍿</text>
+<text x="327" y="289" text-anchor="middle" class="Lx">V13</text>
+<text x="327" y="297" text-anchor="middle" class="Ls">ṯ</text>
+<text x="327" y="303" text-anchor="middle" class="Lx">tethering rope</text>
+<rect x="354" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="381" y="278" text-anchor="middle" class="Le">𓂧</text>
+<text x="381" y="289" text-anchor="middle" class="Lx">D46</text>
+<text x="381" y="297" text-anchor="middle" class="Ls">d</text>
+<text x="381" y="303" text-anchor="middle" class="Lx">hand</text>
+<rect x="408" y="256" width="54" height="46" fill="none" stroke="#555" stroke-width="0.4"/>
+<text x="435" y="278" text-anchor="middle" class="Le">𓆓</text>
+<text x="435" y="289" text-anchor="middle" class="Lx">I10</text>
+<text x="435" y="297" text-anchor="middle" class="Ls">ḏ</text>
+<text x="435" y="303" text-anchor="middle" class="Lx">cobra</text>
+<line x1="24" y1="310" x2="456" y2="310" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="317" x2="118" y2="317" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H">— READING CONVENTIONS —</text>
+<line x1="362" y1="317" x2="450" y2="317" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="328" text-anchor="start" class="Lx">DIRECTION: Follow where human/animal figures face. Figures face start of text.</text>
+<text x="36" y="337" text-anchor="start" class="Lx">Can read left-to-right, right-to-left, or top-to-bottom (in columns).</text>
+<text x="36" y="346" text-anchor="start" class="Lx">CARTOUCHE: Oval ring enclosing a royal name — oval indicates a living king.</text>
+<text x="36" y="355" text-anchor="start" class="Lx">DETERMINATIVE: Unpronounced sign that classifies the word (e.g., ⊕ after city names).</text>
+<text x="36" y="364" text-anchor="start" class="Lx">LOGOGRAM: Sign read as a whole word — often has a vertical stroke below.</text>
+<text x="36" y="373" text-anchor="start" class="Lx">PHONOGRAM: Sign read for its consonant sounds only (ignoring original meaning).</text>
+<line x1="24" y1="396" x2="456" y2="396" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="403" x2="118" y2="403" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="407" text-anchor="middle" class="H">— UNICODE &amp; FONT —</text>
+<line x1="362" y1="403" x2="450" y2="403" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="413" text-anchor="start" class="Lx">Hieroglyphic Unicode block: U+13000–U+1342F (1,072 characters)</text>
+<text x="36" y="422" text-anchor="start" class="Lx">Font required: Noto Sans Egyptian Hieroglyphs (Google Fonts, free)</text>
+<text x="36" y="431" text-anchor="start" class="Lx">All hieroglyphs are in the Supplementary Multilingual Plane (SMP)</text>
+<text x="36" y="440" text-anchor="start" class="Lx">Coptic Unicode block (descendant script): U+2C80–U+2CFF</text>
+<line x1="24" y1="448" x2="456" y2="448" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="455" x2="118" y2="455" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="459" text-anchor="middle" class="H">— HIEROGLYPH SIGN TYPES —</text>
+<line x1="362" y1="455" x2="450" y2="455" stroke="#111" stroke-width="0.3"/>
+<text x="50" y="464" text-anchor="start" class="H">TYPE</text>
+<text x="140" y="464" text-anchor="start" class="H">FUNCTION</text>
+<text x="270" y="464" text-anchor="start" class="H">EXAMPLE</text>
+<text x="350" y="464" text-anchor="start" class="H">NOTE</text>
+<line x1="24" y1="467" x2="456" y2="467" stroke="#111" stroke-width="0.3"/>
+<text x="50" y="474" text-anchor="start" class="Lx">LOGOGRAM</text>
+<text x="140" y="474" text-anchor="start" class="Lx">Sign = whole word</text>
+<text x="270" y="474" text-anchor="start" class="Lx">pr</text>
+<text x="350" y="474" text-anchor="start" class="Lx">house</text>
+<text x="50" y="483" text-anchor="start" class="Lx">PHONOGRAM</text>
+<text x="140" y="483" text-anchor="start" class="Lx">Sign = sound(s)</text>
+<text x="270" y="483" text-anchor="start" class="Lx">m</text>
+<text x="350" y="483" text-anchor="start" class="Lx">owl = sound /m/</text>
+<text x="50" y="492" text-anchor="start" class="Lx">BILITERAL</text>
+<text x="140" y="492" text-anchor="start" class="Lx">2-consonant sign</text>
+<text x="270" y="492" text-anchor="start" class="Lx">mn</text>
+<text x="350" y="492" text-anchor="start" class="Lx">gaming board</text>
+<text x="50" y="501" text-anchor="start" class="Lx">TRILITERAL</text>
+<text x="140" y="501" text-anchor="start" class="Lx">3-consonant sign</text>
+<text x="270" y="501" text-anchor="start" class="Lx">nfr</text>
+<text x="350" y="501" text-anchor="start" class="Lx">windpipe/heart</text>
+<text x="50" y="510" text-anchor="start" class="Lx">DETERMINATIVE</text>
+<text x="140" y="510" text-anchor="start" class="Lx">Unpronounced classifier</text>
+<text x="270" y="510" text-anchor="start" class="Lx">⊕</text>
+<text x="350" y="510" text-anchor="start" class="Lx">after city names</text>
+<line x1="24" y1="510" x2="456" y2="510" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="520" text-anchor="middle" class="Lx">HISTORICAL NOTE: Egyptian is the world's oldest attested writing system (c. 3200 BCE)</text>
+<text x="240" y="530" text-anchor="middle" class="Lx">and the direct ancestor of Coptic (3rd–17th CE), which preserves the vowel sounds.</text>
+<text x="240" y="540" text-anchor="middle" class="Lx">Hieroglyphs were deciphered in 1822 by Jean-François Champollion using the Rosetta Stone.</text>
+<text x="240" y="550" text-anchor="middle" class="Lx">The Rosetta Stone (196 BCE) contains the same decree in hieroglyphic, demotic, and Greek.</text>
+<text x="240" y="560" text-anchor="middle" class="Lx">See Plate 01 (Rosetta Index) for the symbolic connection to this project's design.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 61A  ·  SERIES 61  ·  ANCIENT EGYPTIAN  ·  MIDDLE EGYPTIAN c. 2000 BCE  ·  U+13000–U+13431</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

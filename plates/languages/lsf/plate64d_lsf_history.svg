@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">FRENCH SIGN LANGUAGE (LSF)</text>
+<text x="240" y="47" text-anchor="middle" class="S">SIGN LANGUAGE PRESERVATION · DEAF HISTORY · SERIES 64D</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="63" x2="118" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="67" text-anchor="middle" class="H">— DEAF HISTORY &amp; SIGN LANGUAGE SUPPRESSION —</text>
+<line x1="362" y1="63" x2="450" y2="63" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="74" text-anchor="start" class="H">Year</text>
+<text x="84" y="74" text-anchor="start" class="H">Place</text>
+<text x="140" y="74" text-anchor="start" class="H">Event</text>
+<line x1="24" y1="77" x2="456" y2="77" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="83" text-anchor="start" class="Lx">1760</text>
+<text x="84" y="83" text-anchor="start" class="Lx">Edinburgh</text>
+<text x="140" y="83" text-anchor="start" class="Lx">Thomas Braidwood founds first Deaf school in Britain (oral method)</text>
+<text x="36" y="92" text-anchor="start" class="Lx">1760</text>
+<text x="84" y="92" text-anchor="start" class="Lx">Paris</text>
+<text x="140" y="92" text-anchor="start" class="Lx">Abbé de l’Épée founds Paris Deaf school using sign method</text>
+<text x="36" y="101" text-anchor="start" class="Lx">1778</text>
+<text x="84" y="101" text-anchor="start" class="Lx">Paris</text>
+<text x="140" y="101" text-anchor="start" class="Lx">LSF begins consolidating from diverse regional village sign languages</text>
+<text x="36" y="110" text-anchor="start" class="Lx">1817</text>
+<text x="84" y="110" text-anchor="start" class="Lx">Hartford</text>
+<text x="140" y="110" text-anchor="start" class="Lx">Gallaudet &amp; Clerc found American School for the Deaf; ASL branches from LSF</text>
+<text x="36" y="119" text-anchor="start" class="Lx">1880</text>
+<text x="84" y="119" text-anchor="start" class="Lx">Milan</text>
+<text x="140" y="119" text-anchor="start" class="Lx">Second International Congress of Educators of the Deaf: ORAL METHOD voted</text>
+<text x="36" y="128" text-anchor="start" class="Lx">1880</text>
+<text x="84" y="128" text-anchor="start" class="Lx">worldwide</text>
+<text x="140" y="128" text-anchor="start" class="Lx">Sign languages banned in Deaf education worldwide for nearly 100 years</text>
+<text x="36" y="137" text-anchor="start" class="Lx">1960</text>
+<text x="84" y="137" text-anchor="start" class="Lx">USA</text>
+<text x="140" y="137" text-anchor="start" class="Lx">William Stokoe proves ASL is a complete language; launches sign linguistics</text>
+<text x="36" y="146" text-anchor="start" class="Lx">1968</text>
+<text x="84" y="146" text-anchor="start" class="Lx">France</text>
+<text x="140" y="146" text-anchor="start" class="Lx">LSF returned to Deaf education in France</text>
+<text x="36" y="155" text-anchor="start" class="Lx">1990</text>
+<text x="84" y="155" text-anchor="start" class="Lx">USA</text>
+<text x="140" y="155" text-anchor="start" class="Lx">ADA (Americans with Disabilities Act) — interpreter access required</text>
+<text x="36" y="164" text-anchor="start" class="Lx">2003</text>
+<text x="84" y="164" text-anchor="start" class="Lx">UK</text>
+<text x="140" y="164" text-anchor="start" class="Lx">BSL officially recognised as a language of the UK</text>
+<text x="36" y="173" text-anchor="start" class="Lx">2005</text>
+<text x="84" y="173" text-anchor="start" class="Lx">France</text>
+<text x="140" y="173" text-anchor="start" class="Lx">LSF officially recognised in French law</text>
+<line x1="24" y1="184" x2="456" y2="184" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="190" x2="118" y2="190" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H">— THE 1880 MILAN CONGRESS — ORALISM —</text>
+<line x1="362" y1="190" x2="450" y2="190" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="202" text-anchor="start" class="Lx">The Second International Congress on Education of the Deaf (Milan, 1880) voted</text>
+<text x="36" y="210" text-anchor="start" class="Lx">to impose oral-only education on Deaf children worldwide.</text>
+<text x="36" y="218" text-anchor="start" class="Lx">Sign languages were banned from classrooms. Deaf teachers were dismissed.</text>
+<text x="36" y="226" text-anchor="start" class="Lx">Children were forced to speak and lip-read instead of sign.</text>
+<text x="36" y="234" text-anchor="start" class="Lx">Research now shows oral-only methods are far less effective for many Deaf children.</text>
+<text x="36" y="242" text-anchor="start" class="Lx">Sign languages survived through Deaf communities outside school settings.</text>
+<text x="36" y="250" text-anchor="start" class="Lx">The 2010 International Congress formally repudiated the 1880 resolution.</text>
+<text x="36" y="258" text-anchor="start" class="Lx"></text>
+<text x="36" y="266" text-anchor="start" class="Lx">IMPLICATION FOR THIS CAPSULE:</text>
+<text x="36" y="274" text-anchor="start" class="Lx">Sign languages are suppressed natural languages with documented near-extinction events.</text>
+<text x="36" y="282" text-anchor="start" class="Lx">Including them here is an act of the same forward-remembering this project embodies.</text>
+<line x1="24" y1="292" x2="456" y2="292" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="298" x2="118" y2="298" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="302" text-anchor="middle" class="H">— SIGNWRITING — A COMPLETE WRITTEN FORM FOR SIGN LANGUAGES —</text>
+<line x1="362" y1="298" x2="450" y2="298" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="310" text-anchor="start" class="Lx">Invented by Valerie Sutton (1974, expanded from DanceWriting).</text>
+<text x="36" y="318" text-anchor="start" class="Lx">SignWriting represents: handshape, location on body, movement, palm orientation.</text>
+<text x="36" y="326" text-anchor="start" class="Lx">Written vertically, top to bottom, left to right within a signing column.</text>
+<text x="36" y="334" text-anchor="start" class="Lx">Unicode block: Sutton SignWriting, U+1D800–U+1DAAF (679 characters, Unicode 8.0+).</text>
+<text x="36" y="342" text-anchor="start" class="Lx">Font: Noto Sans SignWriting (Google Fonts) — 37,886 glyphs.</text>
+<text x="36" y="350" text-anchor="start" class="Lx">Actively used in Nicaragua, Brazil (Libras), and parts of ASL/LSF communities.</text>
+<text x="36" y="358" text-anchor="start" class="Lx">SignBank and SignPuddle: online databases of signs in SignWriting notation.</text>
+<text x="36" y="366" text-anchor="start" class="Lx"></text>
+<text x="36" y="374" text-anchor="start" class="Lx">For this capsule: SignWriting notation is the closest written approximation</text>
+<text x="36" y="382" text-anchor="start" class="Lx">of a sign language's visual form. A finder who encounters a signer can use</text>
+<text x="36" y="390" text-anchor="start" class="Lx">the SignWriting plates to establish communication without shared spoken language.</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 64D  ·  SERIES 64  ·  FRENCH SIGN LANGUAGE (LSF)  ·  DEAF HISTORY · MILAN 1880 · SIGNWRITING</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

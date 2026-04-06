@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  .T  { font: bold 12px/1 Georgia,serif; letter-spacing: 2px; }
+  .S  { font: 7px/1 Georgia,serif; letter-spacing: 1.5px; }
+  .H  { font: bold 6.5px/1 Georgia,serif; letter-spacing: 2.5px; }
+  .L  { font: 7px/1.35 Georgia,serif; }
+  .Ls { font: 6px/1.35 Georgia,serif; }
+  .Lx { font: 5.5px/1.35 Georgia,serif; }
+  .Lg { font: italic 8px/1.2 Georgia,serif; }
+  .M  { font: 6px/1 Georgia,serif; letter-spacing: 0.5px; }
+  .F  { font: italic 7px/1 Georgia,serif; }
+  .Fb { font: bold 7.5px/1 Georgia,serif; }
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">CHINESE SIGN LANGUAGE (CSL / ZGS)</text>
+<text x="240" y="47" text-anchor="middle" class="S">中国手语 (Zhōngguó Shǒuyǔ) · MANUAL ALPHABET · SERIES 65A</text>
+<line x1="24" y1="55" x2="456" y2="55" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="65" text-anchor="middle" class="Lx">Chinese Sign Language is the world's largest sign language by number of users:</text>
+<text x="240" y="74" text-anchor="middle" class="Lx">approximately 20 million signers in the People's Republic of China. CSL developed</text>
+<text x="240" y="83" text-anchor="middle" class="Lx">independently of Western sign languages and reflects Chinese linguistic and cultural context.</text>
+<line x1="24" y1="91" x2="456" y2="91" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="98" x2="118" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="102" text-anchor="middle" class="H">— CSL FINGERSPELLING — PINYIN-BASED SYSTEM (1963) —</text>
+<line x1="362" y1="98" x2="450" y2="98" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="Lx">The official CSL fingerspelling scheme, adopted December 1963, is based on Pinyin romanization.</text>
+<text x="240" y="118" text-anchor="middle" class="Lx">21 initials (声母 shēngmǔ) and 6 finals (韵母 yùnmǔ) are represented by handshapes.</text>
+<text x="240" y="127" text-anchor="middle" class="Lx">Consonant clusters ZH, CH, SH, NG are treated as single signs (reflecting Mandarin phonemics).</text>
+<line x1="24" y1="138" x2="456" y2="138" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="145" x2="118" y2="145" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="149" text-anchor="middle" class="H">— PINYIN INITIALS — CSL HANDSHAPES (SELECTED) —</text>
+<line x1="362" y1="145" x2="450" y2="145" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="155" text-anchor="start" class="Ls">b:</text>
+<text x="60" y="155" text-anchor="start" class="Lx">Index+thumb press together (like “b” bilabial closure)</text>
+<text x="36" y="163" text-anchor="start" class="Ls">p:</text>
+<text x="60" y="163" text-anchor="start" class="Lx">Similar to b, with slight puff (aspiration gesture)</text>
+<text x="36" y="171" text-anchor="start" class="Ls">m:</text>
+<text x="60" y="171" text-anchor="start" class="Lx">Three fingers pressed to lips (nasal resonance)</text>
+<text x="36" y="179" text-anchor="start" class="Ls">f:</text>
+<text x="60" y="179" text-anchor="start" class="Lx">Teeth-on-lip shape — upper teeth on lower lip hint</text>
+<text x="36" y="187" text-anchor="start" class="Ls">d:</text>
+<text x="60" y="187" text-anchor="start" class="Lx">One finger tap (dental stop)</text>
+<text x="36" y="195" text-anchor="start" class="Ls">t:</text>
+<text x="60" y="195" text-anchor="start" class="Lx">Like d, aspiration indicated</text>
+<text x="36" y="203" text-anchor="start" class="Ls">n:</text>
+<text x="60" y="203" text-anchor="start" class="Lx">One finger at nostril (nasal)</text>
+<text x="36" y="211" text-anchor="start" class="Ls">l:</text>
+<text x="60" y="211" text-anchor="start" class="Lx">Tongue-tip gesture (lateral)</text>
+<text x="36" y="219" text-anchor="start" class="Ls">g:</text>
+<text x="60" y="219" text-anchor="start" class="Lx">Open hand, velar approximation</text>
+<text x="36" y="227" text-anchor="start" class="Ls">k:</text>
+<text x="60" y="227" text-anchor="start" class="Lx">Open hand, aspiration</text>
+<text x="240" y="155" text-anchor="start" class="Ls">h:</text>
+<text x="264" y="155" text-anchor="start" class="Lx">Open hand at throat (glottal/velar)</text>
+<text x="240" y="163" text-anchor="start" class="Ls">j:</text>
+<text x="264" y="163" text-anchor="start" class="Lx">Index+middle crossed (palatal gesture)</text>
+<text x="240" y="171" text-anchor="start" class="Ls">q:</text>
+<text x="264" y="171" text-anchor="start" class="Lx">Like j with different tension</text>
+<text x="240" y="179" text-anchor="start" class="Ls">x:</text>
+<text x="264" y="179" text-anchor="start" class="Lx">Index+middle side (palatal fricative)</text>
+<text x="240" y="187" text-anchor="start" class="Ls">zh:</text>
+<text x="264" y="187" text-anchor="start" class="Lx">Curved hand (retroflex — curled tongue)</text>
+<text x="240" y="195" text-anchor="start" class="Ls">ch:</text>
+<text x="264" y="195" text-anchor="start" class="Lx">Like zh, with aspiration</text>
+<text x="240" y="203" text-anchor="start" class="Ls">sh:</text>
+<text x="264" y="203" text-anchor="start" class="Lx">Curved hand (retroflex fricative)</text>
+<text x="240" y="211" text-anchor="start" class="Ls">r:</text>
+<text x="264" y="211" text-anchor="start" class="Lx">Curved fingers (retroflex liquid)</text>
+<text x="240" y="219" text-anchor="start" class="Ls">z:</text>
+<text x="264" y="219" text-anchor="start" class="Lx">Flat hand (alveolar affricate)</text>
+<text x="240" y="227" text-anchor="start" class="Ls">c:</text>
+<text x="264" y="227" text-anchor="start" class="Lx">Like z, aspiration</text>
+<text x="240" y="235" text-anchor="start" class="Ls">s:</text>
+<text x="264" y="235" text-anchor="start" class="Lx">Flat hand (alveolar fricative)</text>
+<line x1="24" y1="239" x2="456" y2="239" stroke="#111" stroke-width="0.3"/>
+<line x1="30" y1="247" x2="118" y2="247" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="251" text-anchor="middle" class="H">— WRITING IN THE AIR (空写 Kōngxiě) —</text>
+<line x1="362" y1="247" x2="450" y2="247" stroke="#111" stroke-width="0.3"/>
+<text x="36" y="259" text-anchor="start" class="Lx">A distinctive feature of CSL: signers trace Chinese characters in the air with the index finger.</text>
+<text x="36" y="268" text-anchor="start" class="Lx">Called 空写 (kōng xiě, "air writing") — used when a specific character is needed.</text>
+<text x="36" y="277" text-anchor="start" class="Lx">Stroke order follows standard Chinese character stroke order.</text>
+<text x="36" y="286" text-anchor="start" class="Lx">This is unique to Chinese-context sign languages and has no equivalent in ASL/BSL/LSF.</text>
+<text x="36" y="295" text-anchor="start" class="Lx">Numbers 1–10 in CSL can be signed with one hand (unlike ASL which needs two for 6–10).</text>
+<line x1="24" y1="607" x2="456" y2="607" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="616" text-anchor="middle" class="M">PLATE 65A  ·  SERIES 65  ·  CHINESE SIGN LANGUAGE (CSL)  ·  中国手语 · ~20,000,000 SIGNERS · PINYIN FINGERSPELLING</text>
+<line x1="24" y1="622" x2="456" y2="622" stroke="#111" stroke-width="0.3"/>
+<text x="240" y="631" text-anchor="middle" class="M">CC BY-SA 4.0  ·  rememberforward.org  ·  DOI 10.5281/zenodo.19433177</text>
+<line x1="24" y1="638" x2="456" y2="638" stroke="#111" stroke-width="0.5"/>
+<text x="240" y="649" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
