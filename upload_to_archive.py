@@ -27,7 +27,19 @@ import urllib.request
 import urllib.error
 
 # ─── CREDENTIALS ─────────────────────────────────────────────────────────────
-# Edit these two lines, OR set environment variables IA_ACCESS_KEY / IA_SECRET_KEY
+# Auto-loads from .env file in project root if present.
+# Keys can also be overridden via environment variables IA_ACCESS_KEY / IA_SECRET_KEY.
+def _load_env():
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env')
+    if os.path.isfile(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    k, _, v = line.partition('=')
+                    os.environ.setdefault(k.strip(), v.strip())
+
+_load_env()
 ACCESS_KEY = os.environ.get('IA_ACCESS_KEY', 'EDIT_THIS_your_access_key')
 SECRET_KEY = os.environ.get('IA_SECRET_KEY', 'EDIT_THIS_your_secret_key')
 
