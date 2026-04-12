@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAUSA + FULFULDE — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 29B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAUSA PHONOLOGY — TONAL + IMPLOSIVE —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hausa is a tonal language (Afro-Asiatic/Chadic branch) with 2 register tones: High and Low.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Tone is lexically and grammatically contrastive. Subject vs. object is often marked by tone alone.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— HAUSA IMPLOSIVE CONSONANTS —</text>
+<text x="240" y="108" text-anchor="middle" class="Ls">Hausa has 4 implosive consonants — stops produced with ingressive airflow (larynx drops):</text>
+<text x="80" y="118" text-anchor="middle" class="Ls">Ɓ /ɓ/</text>
+<text x="290" y="118" text-anchor="middle" class="Lx">voiced bilabial implosive: Ɓàɲì (goat)</text>
+<text x="80" y="128" text-anchor="middle" class="Ls">Ɖ /ɗ/</text>
+<text x="290" y="128" text-anchor="middle" class="Lx">voiced alveolar implosive: Ɖàɲì (blood)</text>
+<text x="80" y="138" text-anchor="middle" class="Ls">Ƥ /ɠ/</text>
+<text x="290" y="138" text-anchor="middle" class="Lx">voiced velar implosive: Ƥwayyò (careful!)</text>
+<text x="80" y="148" text-anchor="middle" class="Ls">Ţ /ǀ/</text>
+<text x="290" y="148" text-anchor="middle" class="Lx">alveolar ejective ts: Ţaʼa (walk)</text>
+<line x1="20" y1="163" x2="460" y2="163" stroke="black" stroke-width="0.3"/>
+<text x="240" y="171" text-anchor="middle" class="H">— HAUSA VOWELS — 5 SHORT + 5 LONG —</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">Hausa has 5 vowel qualities, each with short and long forms: a/aa, e/ee, i/ii, o/oo, u/uu.</text>
+<text x="240" y="190" text-anchor="middle" class="Lx">Vowel length is phonemic: mata (wives) vs. māta (woman/wife SG). Tone + length interact.</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H">— HAUSA CONSONANTS — UNUSUAL FEATURES —</text>
+<text x="240" y="216" text-anchor="middle" class="Ls">Labiovelars /kw gw/: kwai (egg), gwàdànà (always). Simultaneous velar + bilabial closure.</text>
+<text x="240" y="225" text-anchor="middle" class="Lx">Glottalization: some vowels have laryngealized (creaky) quality in certain tonal environments.</text>
+<line x1="20" y1="235" x2="460" y2="235" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="238" width="440" height="14" fill="black"/>
+<text x="240" y="248" text-anchor="middle" class="Hb" fill="white">SECONDARY — FULFULDE (FULA) — PHONOLOGY</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="261" text-anchor="middle" class="H">— FULFULDE PHONOLOGY — NOUN CLASS SYSTEM —</text>
+<text x="240" y="271" text-anchor="middle" class="Ls">Fulfulde is NOT tonal (unlike Hausa). Prosody relies on syllable weight and stress, not pitch.</text>
+<text x="240" y="280" text-anchor="middle" class="Lx">Rich consonant inventory including implosives /ɓ ɗ ƙ/ — shared feature with Hausa (contact influence).</text>
+<line x1="20" y1="288" x2="460" y2="288" stroke="black" stroke-width="0.3"/>
+<text x="240" y="296" text-anchor="middle" class="H">— FULFULDE IMPLOSIVES AND PRENASALIZED STOPS —</text>
+<text x="50" y="306" text-anchor="middle" class="Ls">ɓ</text>
+<text x="100" y="306" text-anchor="middle" class="Lx">/ɓ/</text>
+<text x="300" y="306" text-anchor="middle" class="Lx">implosive b: ɓeɓɓe (many), ɓoofo (wind)</text>
+<text x="50" y="316" text-anchor="middle" class="Ls">ɗ</text>
+<text x="100" y="316" text-anchor="middle" class="Lx">/ɗ/</text>
+<text x="300" y="316" text-anchor="middle" class="Lx">implosive d: ɗam (water), ɗiyɔŋ (sun/day)</text>
+<text x="50" y="326" text-anchor="middle" class="Ls">ƙ</text>
+<text x="100" y="326" text-anchor="middle" class="Lx">/ƙ/</text>
+<text x="300" y="326" text-anchor="middle" class="Lx">implosive ky: ƙŋuŋgu (heart), ƙaŋ (thing)</text>
+<text x="50" y="336" text-anchor="middle" class="Ls">mb</text>
+<text x="100" y="336" text-anchor="middle" class="Lx">/mb/</text>
+<text x="300" y="336" text-anchor="middle" class="Lx">prenasalized: mbalu (sheep), mbind (book)</text>
+<text x="50" y="346" text-anchor="middle" class="Ls">nd</text>
+<text x="100" y="346" text-anchor="middle" class="Lx">/nd/</text>
+<text x="300" y="346" text-anchor="middle" class="Lx">prenasalized: ndiyɔm (water, plural)</text>
+<text x="50" y="356" text-anchor="middle" class="Ls">nj</text>
+<text x="100" y="356" text-anchor="middle" class="Lx">/ndʒ/</text>
+<text x="300" y="356" text-anchor="middle" class="Lx">prenasalized: njam (food), njurum (mercy)</text>
+<text x="50" y="366" text-anchor="middle" class="Ls">ng</text>
+<text x="100" y="366" text-anchor="middle" class="Lx">/ŋg/</text>
+<text x="300" y="366" text-anchor="middle" class="Lx">prenasalized: ŋguŋgu (heart/center)</text>
+<line x1="20" y1="381" x2="460" y2="381" stroke="black" stroke-width="0.3"/>
+<text x="240" y="389" text-anchor="middle" class="H">— FULFULDE VOWELS — 5 BASIC + LENGTH —</text>
+<text x="240" y="399" text-anchor="middle" class="Ls">Fulfulde has 5 vowels /a e i o u/ each with long counterparts. Vowel length is phonemic.</text>
+<text x="240" y="408" text-anchor="middle" class="Lx">Open vowels: /ɔ/ (o-open) and /ɛ/ (e-open) appear in some dialects. ɗiyɔŋ = sun.</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="424" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — HAUSA AND FULFULDE —</text>
+<text x="80" y="434" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="434" text-anchor="middle" class="Lx">Hausa</text>
+<text x="380" y="434" text-anchor="middle" class="Lx">Fulfulde</text>
+<text x="80" y="444" text-anchor="middle" class="Lx">Tonal</text>
+<text x="235" y="444" text-anchor="middle" class="Lx">Yes — 2 tones</text>
+<text x="380" y="444" text-anchor="middle" class="Lx">No — non-tonal</text>
+<text x="80" y="454" text-anchor="middle" class="Lx">Implosives</text>
+<text x="235" y="454" text-anchor="middle" class="Lx">4 (Ɓ Ɖ Ƥ Ţ)</text>
+<text x="380" y="454" text-anchor="middle" class="Lx">3 (ɓ ɗ ƙ)</text>
+<text x="80" y="464" text-anchor="middle" class="Lx">Vowel length</text>
+<text x="235" y="464" text-anchor="middle" class="Lx">Phonemic</text>
+<text x="380" y="464" text-anchor="middle" class="Lx">Phonemic</text>
+<text x="80" y="474" text-anchor="middle" class="Lx">Prenasalization</text>
+<text x="235" y="474" text-anchor="middle" class="Lx">Some</text>
+<text x="380" y="474" text-anchor="middle" class="Lx">Prominent feature</text>
+<text x="80" y="484" text-anchor="middle" class="Lx">Family</text>
+<text x="235" y="484" text-anchor="middle" class="Lx">Afro-Asiatic</text>
+<text x="380" y="484" text-anchor="middle" class="Lx">Niger-Congo (Fula)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 29B ALT · Hausa / Fulfulde · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

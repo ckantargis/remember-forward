@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lg{font-size:12px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">GREEK + ALBANIAN — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 21A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— GREEK — GREEK ALPHABET · 24 LETTERS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">The Greek alphabet: first in history to represent both consonants AND vowels (from ~800 BCE).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Ancestor of Latin, Cyrillic, Coptic, Gothic, and Armenian scripts. Written left to right.</text>
+<line x1="20" y1="89" x2="460" y2="89" stroke="black" stroke-width="0.3"/>
+<text x="240" y="97" text-anchor="middle" class="H">— ALL 24 GREEK LETTERS — UPPER AND LOWER CASE —</text>
+<text x="55" y="107" text-anchor="middle" class="Lg">Αα</text>
+<text x="55" y="115" text-anchor="middle" class="Lx">Alpha /a/</text>
+<text x="160" y="107" text-anchor="middle" class="Lg">Ββ</text>
+<text x="160" y="115" text-anchor="middle" class="Lx">Beta /v/ mod.</text>
+<text x="265" y="107" text-anchor="middle" class="Lg">Γγ</text>
+<text x="265" y="115" text-anchor="middle" class="Lx">Gamma /ɣ/</text>
+<text x="370" y="107" text-anchor="middle" class="Lg">Δδ</text>
+<text x="370" y="115" text-anchor="middle" class="Lx">Delta /ð/</text>
+<text x="55" y="120" text-anchor="middle" class="Lg">Εε</text>
+<text x="55" y="128" text-anchor="middle" class="Lx">Epsilon /e/</text>
+<text x="160" y="120" text-anchor="middle" class="Lg">Ζζ</text>
+<text x="160" y="128" text-anchor="middle" class="Lx">Zeta /z/</text>
+<text x="265" y="120" text-anchor="middle" class="Lg">Ηη</text>
+<text x="265" y="128" text-anchor="middle" class="Lx">Eta /i/</text>
+<text x="370" y="120" text-anchor="middle" class="Lg">Θθ</text>
+<text x="370" y="128" text-anchor="middle" class="Lx">Theta /θ/</text>
+<text x="55" y="133" text-anchor="middle" class="Lg">Ιι</text>
+<text x="55" y="141" text-anchor="middle" class="Lx">Iota /i/</text>
+<text x="160" y="133" text-anchor="middle" class="Lg">Κκ</text>
+<text x="160" y="141" text-anchor="middle" class="Lx">Kappa /k/</text>
+<text x="265" y="133" text-anchor="middle" class="Lg">Λλ</text>
+<text x="265" y="141" text-anchor="middle" class="Lx">Lambda /l/</text>
+<text x="370" y="133" text-anchor="middle" class="Lg">Μμ</text>
+<text x="370" y="141" text-anchor="middle" class="Lx">Mu /m/</text>
+<text x="55" y="146" text-anchor="middle" class="Lg">Νν</text>
+<text x="55" y="154" text-anchor="middle" class="Lx">Nu /n/</text>
+<text x="160" y="146" text-anchor="middle" class="Lg">Ξξ</text>
+<text x="160" y="154" text-anchor="middle" class="Lx">Xi /ks/</text>
+<text x="265" y="146" text-anchor="middle" class="Lg">Οο</text>
+<text x="265" y="154" text-anchor="middle" class="Lx">Omicron /o/</text>
+<text x="370" y="146" text-anchor="middle" class="Lg">Ππ</text>
+<text x="370" y="154" text-anchor="middle" class="Lx">Pi /p/</text>
+<text x="55" y="159" text-anchor="middle" class="Lg">Ρρ</text>
+<text x="55" y="167" text-anchor="middle" class="Lx">Rho /r/</text>
+<text x="160" y="159" text-anchor="middle" class="Lg">Σσς</text>
+<text x="160" y="167" text-anchor="middle" class="Lx">Sigma /s/</text>
+<text x="265" y="159" text-anchor="middle" class="Lg">Ττ</text>
+<text x="265" y="167" text-anchor="middle" class="Lx">Tau /t/</text>
+<text x="370" y="159" text-anchor="middle" class="Lg">Υυ</text>
+<text x="370" y="167" text-anchor="middle" class="Lx">Upsilon /i/</text>
+<text x="55" y="172" text-anchor="middle" class="Lg">Φφ</text>
+<text x="55" y="180" text-anchor="middle" class="Lx">Phi /f/</text>
+<text x="160" y="172" text-anchor="middle" class="Lg">Χχ</text>
+<text x="160" y="180" text-anchor="middle" class="Lx">Chi /x/</text>
+<text x="265" y="172" text-anchor="middle" class="Lg">Ψψ</text>
+<text x="265" y="180" text-anchor="middle" class="Lx">Psi /ps/</text>
+<text x="370" y="172" text-anchor="middle" class="Lg">Ωω</text>
+<text x="370" y="180" text-anchor="middle" class="Lx">Omega /o/</text>
+<line x1="20" y1="195" x2="460" y2="195" stroke="black" stroke-width="0.3"/>
+<text x="240" y="203" text-anchor="middle" class="H">— GREEK DIGRAPHS AND MODERN PRONUNCIATION —</text>
+<text x="55" y="213" text-anchor="middle" class="Ls">αι</text>
+<text x="115" y="213" text-anchor="middle" class="Lx">/e/</text>
+<text x="310" y="213" text-anchor="middle" class="Lx">aisle → /e/: παιδί (child)</text>
+<text x="55" y="223" text-anchor="middle" class="Ls">οι</text>
+<text x="115" y="223" text-anchor="middle" class="Lx">/i/</text>
+<text x="310" y="223" text-anchor="middle" class="Lx">oi → /i/: οικογένεια (family)</text>
+<text x="55" y="233" text-anchor="middle" class="Ls">ει</text>
+<text x="115" y="233" text-anchor="middle" class="Lx">/i/</text>
+<text x="310" y="233" text-anchor="middle" class="Lx">ei → /i/: ειρήνη (peace)</text>
+<text x="55" y="243" text-anchor="middle" class="Ls">υι</text>
+<text x="115" y="243" text-anchor="middle" class="Lx">/i/</text>
+<text x="310" y="243" text-anchor="middle" class="Lx">yi → /i/: rare</text>
+<text x="55" y="253" text-anchor="middle" class="Ls">μπ</text>
+<text x="115" y="253" text-anchor="middle" class="Lx">/b/ or /mb/</text>
+<text x="310" y="253" text-anchor="middle" class="Lx">μπαλκόνι (balcony)</text>
+<text x="55" y="263" text-anchor="middle" class="Ls">ντ</text>
+<text x="115" y="263" text-anchor="middle" class="Lx">/d/ or /nd/</text>
+<text x="310" y="263" text-anchor="middle" class="Lx">ντομάτα (tomatoes)</text>
+<text x="55" y="273" text-anchor="middle" class="Ls">γκ</text>
+<text x="115" y="273" text-anchor="middle" class="Lx">/g/ or /ng/</text>
+<text x="310" y="273" text-anchor="middle" class="Lx">γκαρσόν (waiter)</text>
+<line x1="20" y1="288" x2="460" y2="288" stroke="black" stroke-width="0.3"/>
+<text x="240" y="296" text-anchor="middle" class="H">— GREEK SCRIPT HISTORY —</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">Linear B (Mycenaean, ~1450 BCE) → Greek alphabet (~800 BCE, from Phoenician) → Classical Greek.</text>
+<text x="240" y="315" text-anchor="middle" class="Lx">Greek letters became names: alpha, beta, gamma → alphabet. Used for mathematics, science, theology for 2700+ years.</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="328" width="440" height="14" fill="black"/>
+<text x="240" y="338" text-anchor="middle" class="Hb" fill="white">SECONDARY — ALBANIAN (SHQIP) — SCRIPT · WRITING</text>
+<line x1="20" y1="342" x2="460" y2="342" stroke="black" stroke-width="0.3"/>
+<text x="240" y="351" text-anchor="middle" class="H">— ALBANIAN — LATIN ALPHABET · 36 LETTERS —</text>
+<text x="240" y="361" text-anchor="middle" class="Ls">Modern Albanian uses a 36-letter Latin alphabet standardized in 1908 (Congress of Manastir).</text>
+<text x="240" y="370" text-anchor="middle" class="Lx">Before 1908: Albanian written in Greek, Latin, Arabic, and multiple competing local alphabets.</text>
+<text x="240" y="379" text-anchor="middle" class="Lx">Elbasan script (18th c. CE) and other native scripts existed but were not standardized.</text>
+<line x1="20" y1="387" x2="460" y2="387" stroke="black" stroke-width="0.3"/>
+<text x="240" y="395" text-anchor="middle" class="H">— ALBANIAN SPECIAL LETTERS —</text>
+<text x="42" y="405" text-anchor="middle" class="Ls">ë</text>
+<text x="100" y="405" text-anchor="middle" class="Lx">/ə/</text>
+<text x="310" y="405" text-anchor="middle" class="Lx">schwa: është (is), mëso (learn)</text>
+<text x="42" y="415" text-anchor="middle" class="Ls">ç</text>
+<text x="100" y="415" text-anchor="middle" class="Lx">/tʃ/</text>
+<text x="310" y="415" text-anchor="middle" class="Lx">affricate: çdo (every), ççupa (girl)</text>
+<text x="42" y="425" text-anchor="middle" class="Ls">dh</text>
+<text x="100" y="425" text-anchor="middle" class="Lx">/ð/</text>
+<text x="310" y="425" text-anchor="middle" class="Lx">like th in “this”: dhe (and/earth), dhëndrër (son-in-law)</text>
+<text x="42" y="435" text-anchor="middle" class="Ls">gj</text>
+<text x="100" y="435" text-anchor="middle" class="Lx">/ɟ/</text>
+<text x="310" y="435" text-anchor="middle" class="Lx">palatal g: gjak (blood), gjuhë (language/tongue)</text>
+<text x="42" y="445" text-anchor="middle" class="Ls">ll</text>
+<text x="100" y="445" text-anchor="middle" class="Lx">/ɫ/</text>
+<text x="310" y="445" text-anchor="middle" class="Lx">dark l: lloj (type), mall (longing)</text>
+<text x="42" y="455" text-anchor="middle" class="Ls">nj</text>
+<text x="100" y="455" text-anchor="middle" class="Lx">/ɲ/</text>
+<text x="310" y="455" text-anchor="middle" class="Lx">palatal n: njeri (person), njëzet (twenty)</text>
+<text x="42" y="465" text-anchor="middle" class="Ls">rr</text>
+<text x="100" y="465" text-anchor="middle" class="Lx">/r/</text>
+<text x="310" y="465" text-anchor="middle" class="Lx">trill r: rrënja (root), rrugë (road)</text>
+<text x="42" y="475" text-anchor="middle" class="Ls">sh</text>
+<text x="100" y="475" text-anchor="middle" class="Lx">/ʃ/</text>
+<text x="310" y="475" text-anchor="middle" class="Lx">like sh in “shoe”: shqip (Albanian), shëndeti (health)</text>
+<text x="42" y="485" text-anchor="middle" class="Ls">th</text>
+<text x="100" y="485" text-anchor="middle" class="Lx">/θ/</text>
+<text x="310" y="485" text-anchor="middle" class="Lx">like th in “thin”: them (I say), thikë (knife)</text>
+<text x="42" y="495" text-anchor="middle" class="Ls">xh</text>
+<text x="100" y="495" text-anchor="middle" class="Lx">/dʒ/</text>
+<text x="310" y="495" text-anchor="middle" class="Lx">like j in “jump”: xhami (window/glass), xhaxha (uncle)</text>
+<text x="42" y="505" text-anchor="middle" class="Ls">zh</text>
+<text x="100" y="505" text-anchor="middle" class="Lx">/ʒ/</text>
+<text x="310" y="505" text-anchor="middle" class="Lx">like s in “pleasure”: zhurmoj (to make noise)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 21A ALT · Greek / Albanian · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">GERMAN + POLISH — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 52D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. GOETHE — FAUST (1808 CE) —</text>
+<text x="240" y="73" text-anchor="middle" class="L">Grau, teurer Freund, ist alle Theorie,</text>
+<text x="240" y="84" text-anchor="middle" class="L">Und grün des Lebens goldner Baum.</text>
+<text x="240" y="95" text-anchor="middle" class="Lx">Grey  dear    friend  is all   theory / And green of-the life  golden tree.</text>
+<text x="240" y="104" text-anchor="middle" class="F">"All theory, dear friend, is grey, but the golden tree of life is ever green." — Goethe, Mephistopheles.</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="120" text-anchor="middle" class="H">— II. GERMAN PROVERB — ON MEMORY AND TIME —</text>
+<text x="240" y="130" text-anchor="middle" class="L">Wer die Vergangenheit nicht kennt, kann die Zukunft nicht gestalten.</text>
+<text x="240" y="141" text-anchor="middle" class="Lx">Who the past not knows can the future not shape.</text>
+<text x="240" y="150" text-anchor="middle" class="F">"Those who do not know the past cannot shape the future." (German proverb)</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H">— III. GERMAN BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="177" text-anchor="middle" class="L">Dies wurde für Sie gemacht, kostenlos,</text>
+<text x="240" y="189" text-anchor="middle" class="L">von Menschen, die vorausgedacht haben.</text>
+<text x="240" y="200" text-anchor="middle" class="Lx">This was for you made  freely / by people  who  forward-thought have.</text>
+<text x="240" y="209" text-anchor="middle" class="F">"This was made for you, freely, by people who thought forward." (German)</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="0.3"/>
+<text x="240" y="225" text-anchor="middle" class="H">— GERMAN NOTE — “FORWARD” —</text>
+<text x="240" y="235" text-anchor="middle" class="Ls">Vorausdenken = to think ahead / forward. Zukunft = future (lit. “coming-toward”, from zukommen).</text>
+<text x="240" y="244" text-anchor="middle" class="Lx">Verb-final in subordinate clause (vorausgedacht haben) shows German SOV in embedded clauses.</text>
+<line x1="20" y1="254" x2="460" y2="254" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="257" width="440" height="14" fill="black"/>
+<text x="240" y="267" text-anchor="middle" class="Hb" fill="white">SECONDARY — POLISH (JĘZYK POLSKI) — RUNNING TEXT</text>
+<line x1="20" y1="271" x2="460" y2="271" stroke="black" stroke-width="0.3"/>
+<text x="240" y="280" text-anchor="middle" class="H">— I. ADAM MICKIEWICZ — PAN TADEUSZ (1834 CE) —</text>
+<text x="240" y="290" text-anchor="middle" class="L">Litwo! Ojczyzno moja! ty jesteś jak zdrowie;</text>
+<text x="240" y="301" text-anchor="middle" class="Lx">Lithuania my-fatherland  you are   like health</text>
+<text x="240" y="310" text-anchor="middle" class="F">"Lithuania, my fatherland! You are like health." — Opening of Poland’s national epic. Vocative case: Litwo!</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="black" stroke-width="0.3"/>
+<text x="240" y="326" text-anchor="middle" class="H">— II. POLISH PROVERB — ON MEMORY —</text>
+<text x="240" y="336" text-anchor="middle" class="L">Człowiek uczy się przez całe życie.</text>
+<text x="240" y="347" text-anchor="middle" class="Lx">Person learns refl. through whole life.</text>
+<text x="240" y="356" text-anchor="middle" class="F">"A person learns through their whole life." — Polish proverb on lifelong knowledge.</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="372" text-anchor="middle" class="H">— III. POLISH BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="383" text-anchor="middle" class="L">To zostało zrobione dla ciebie, bezpłatnie,</text>
+<text x="240" y="395" text-anchor="middle" class="L">przez ludzi, którzy pamiętali o przyszłości.</text>
+<text x="240" y="407" text-anchor="middle" class="Lx">This was    done   for you  freely  / by people who remembered about future.</text>
+<text x="240" y="416" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Polish)</text>
+<line x1="20" y1="424" x2="460" y2="424" stroke="black" stroke-width="0.3"/>
+<text x="240" y="432" text-anchor="middle" class="H">— POLISH NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="442" text-anchor="middle" class="Ls">Przyszłość = future (from przyjść “to come” — the future as what is arriving).</text>
+<text x="240" y="451" text-anchor="middle" class="Ls">Pamiętać = to remember (from pamięć “memory”). O przyszłości = about the future (Locative case).</text>
+<text x="240" y="460" text-anchor="middle" class="Lx">Note case: dla ciebie (Genitive “for you”), przez ludzi (Accusative “by people”).</text>
+<line x1="20" y1="468" x2="460" y2="468" stroke="black" stroke-width="0.3"/>
+<text x="240" y="476" text-anchor="middle" class="H">— LANGUAGE BRIDGE — NEIGHBORS ACROSS A BORDER —</text>
+<text x="240" y="486" text-anchor="middle" class="Ls">German: ~90M speakers. West Germanic. 4 cases. Verb-final embedded clauses. All nouns capitalized.</text>
+<text x="240" y="495" text-anchor="middle" class="Ls">Polish: ~45M speakers. West Slavic. 7 cases. Free word order. No articles. Dense consonant clusters.</text>
+<text x="240" y="504" text-anchor="middle" class="Lx">Shared millennium of contact: loanwords flow both directions. Wrocław/Breslau: both Polish and German names.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 52D ALT · German / Polish · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

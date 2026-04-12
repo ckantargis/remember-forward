@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">GERMAN + POLISH — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 52A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— GERMAN — LATIN ALPHABET · 26 + 4 SPECIAL CHARACTERS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">German uses 26 standard Latin letters plus 4 special characters: ä ö ü (umlauts) and ß (Eszett/sharp-s).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Eszett (ß): represents /ss/ in native German words: Straße (street), weiß (white). Uppercase: SS or ẞ.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Umlaut vowels: ä /ɛ/ like air · ö /ø/ like French eu · ü /y/ like French u.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— GERMAN ALPHABET — ALL 26 + 4 —</text>
+<text x="240" y="117" text-anchor="middle" class="Ls">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Ä Ö Ü ẞ</text>
+<line x1="20" y1="124" x2="460" y2="124" stroke="black" stroke-width="0.3"/>
+<text x="240" y="132" text-anchor="middle" class="H">— GERMAN DIGRAPHS AND SPELLING CONVENTIONS —</text>
+<text x="55" y="142" text-anchor="middle" class="Ls">sch</text>
+<text x="130" y="142" text-anchor="middle" class="Lx">/ʃ/</text>
+<text x="330" y="142" text-anchor="middle" class="Lx">Schule (school), waschen (wash)</text>
+<text x="55" y="153" text-anchor="middle" class="Ls">ch</text>
+<text x="130" y="153" text-anchor="middle" class="Lx">/x/ or /ç/</text>
+<text x="330" y="153" text-anchor="middle" class="Lx">Buch /bux/ (book), ich /ɪç/ (I)</text>
+<text x="55" y="164" text-anchor="middle" class="Ls">sp / st</text>
+<text x="130" y="164" text-anchor="middle" class="Lx">/ʃp/ /ʃt/</text>
+<text x="330" y="164" text-anchor="middle" class="Lx">Sprechen (speak), Stunde (hour) — word-initial</text>
+<text x="55" y="175" text-anchor="middle" class="Ls">ei</text>
+<text x="130" y="175" text-anchor="middle" class="Lx">/aɪ/</text>
+<text x="330" y="175" text-anchor="middle" class="Lx">Stein (stone), Wein (wine)</text>
+<text x="55" y="186" text-anchor="middle" class="Ls">eu / äu</text>
+<text x="130" y="186" text-anchor="middle" class="Lx">/ɔʏ/</text>
+<text x="330" y="186" text-anchor="middle" class="Lx">Europa, Häuser (houses)</text>
+<text x="55" y="197" text-anchor="middle" class="Ls">ie</text>
+<text x="130" y="197" text-anchor="middle" class="Lx">/iː/</text>
+<text x="330" y="197" text-anchor="middle" class="Lx">lieb (dear), Brief (letter)</text>
+<text x="55" y="208" text-anchor="middle" class="Ls">qu</text>
+<text x="130" y="208" text-anchor="middle" class="Lx">/kv/</text>
+<text x="330" y="208" text-anchor="middle" class="Lx">Quelle (source) — not /kw/ as in English</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<text x="240" y="230" text-anchor="middle" class="H">— GERMAN CAPITALIZATION —</text>
+<text x="240" y="240" text-anchor="middle" class="Ls">ALL NOUNS are capitalized in German: der Mensch (the person), das Wasser (the water), die Freiheit (freedom).</text>
+<text x="240" y="249" text-anchor="middle" class="Lx">This rule applies universally — a major orthographic distinction from all other European languages.</text>
+<text x="240" y="258" text-anchor="middle" class="Lx">Adjectives and verbs NOT capitalized: Das Wasser ist kalt. (The water is cold.)</text>
+<line x1="20" y1="268" x2="460" y2="268" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="271" width="440" height="14" fill="black"/>
+<text x="240" y="281" text-anchor="middle" class="Hb" fill="white">SECONDARY — POLISH (JĘZYK POLSKI) — SCRIPT · WRITING</text>
+<line x1="20" y1="285" x2="460" y2="285" stroke="black" stroke-width="0.3"/>
+<text x="240" y="294" text-anchor="middle" class="H">— POLISH — LATIN ALPHABET · 32 LETTERS —</text>
+<text x="240" y="304" text-anchor="middle" class="Ls">Polish uses 32 letters: standard 26 Latin + 9 diacritic letters.</text>
+<text x="240" y="314" text-anchor="middle" class="Ls">Special letters: ą ć ę ł ń ó ś ź ż</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="black" stroke-width="0.3"/>
+<text x="240" y="329" text-anchor="middle" class="H">— POLISH DIACRITICS — 9 SPECIAL LETTERS —</text>
+<text x="42" y="339" text-anchor="middle" class="Ls">ą</text>
+<text x="120" y="339" text-anchor="middle" class="Lx">a with ogonek</text>
+<text x="330" y="339" text-anchor="middle" class="Lx">/ɔ̃/ or /ɔ/ — nasal a: mąż (husband), ręka (hand)</text>
+<text x="42" y="349" text-anchor="middle" class="Ls">ć</text>
+<text x="120" y="349" text-anchor="middle" class="Lx">c with acute</text>
+<text x="330" y="349" text-anchor="middle" class="Lx">/tɕʲ/ soft c: czy (whether), ćma (moth)</text>
+<text x="42" y="359" text-anchor="middle" class="Ls">ę</text>
+<text x="120" y="359" text-anchor="middle" class="Lx">e with ogonek</text>
+<text x="330" y="359" text-anchor="middle" class="Lx">/ɛ/ or /ɛ̃/: jeden (one), się (oneself)</text>
+<text x="42" y="369" text-anchor="middle" class="Ls">ł</text>
+<text x="120" y="369" text-anchor="middle" class="Lx">l with stroke</text>
+<text x="330" y="369" text-anchor="middle" class="Lx">/w/ — sounds like English w: ładny (pretty), złoty (gold)</text>
+<text x="42" y="379" text-anchor="middle" class="Ls">ń</text>
+<text x="120" y="379" text-anchor="middle" class="Lx">n with acute</text>
+<text x="330" y="379" text-anchor="middle" class="Lx">/ɲ/ soft n: koń (horse), nie (no)</text>
+<text x="42" y="389" text-anchor="middle" class="Ls">ó</text>
+<text x="120" y="389" text-anchor="middle" class="Lx">o with acute</text>
+<text x="330" y="389" text-anchor="middle" class="Lx">/u/ historically long o: mój (my), kół (wheels)</text>
+<text x="42" y="399" text-anchor="middle" class="Ls">ś</text>
+<text x="120" y="399" text-anchor="middle" class="Lx">s with acute</text>
+<text x="330" y="399" text-anchor="middle" class="Lx">/ɕ/ soft s: świat (world), środek (center)</text>
+<text x="42" y="409" text-anchor="middle" class="Ls">ź</text>
+<text x="120" y="409" text-anchor="middle" class="Lx">z with acute</text>
+<text x="330" y="409" text-anchor="middle" class="Lx">/ʒʲ/ soft z: źółw (turtle), źreni (sated)</text>
+<text x="42" y="419" text-anchor="middle" class="Ls">ż</text>
+<text x="120" y="419" text-anchor="middle" class="Lx">z with dot</text>
+<text x="330" y="419" text-anchor="middle" class="Lx">/ʒ/ like French j: żyć (to live), róża (rose)</text>
+<line x1="20" y1="435" x2="460" y2="435" stroke="black" stroke-width="0.3"/>
+<text x="240" y="443" text-anchor="middle" class="H">— POLISH DIGRAPHS AND CLUSTERS —</text>
+<text x="55" y="453" text-anchor="middle" class="Ls">cz</text>
+<text x="130" y="453" text-anchor="middle" class="Lx">/tʃ/</text>
+<text x="310" y="453" text-anchor="middle" class="Lx">Czech, czarny (black)</text>
+<text x="55" y="463" text-anchor="middle" class="Ls">sz</text>
+<text x="130" y="463" text-anchor="middle" class="Lx">/ʃ/</text>
+<text x="310" y="463" text-anchor="middle" class="Lx">szkoła (school), szary (grey)</text>
+<text x="55" y="473" text-anchor="middle" class="Ls">dz</text>
+<text x="130" y="473" text-anchor="middle" class="Lx">/dz/</text>
+<text x="310" y="473" text-anchor="middle" class="Lx">dzban (jug), ojdzie (uncle)</text>
+<text x="55" y="483" text-anchor="middle" class="Ls">dż</text>
+<text x="130" y="483" text-anchor="middle" class="Lx">/dʒ/</text>
+<text x="310" y="483" text-anchor="middle" class="Lx">dżungla (jungle), dżem (jam)</text>
+<text x="55" y="493" text-anchor="middle" class="Ls">rz</text>
+<text x="130" y="493" text-anchor="middle" class="Lx">/ʒ/</text>
+<text x="310" y="493" text-anchor="middle" class="Lx">rzeka (river) — historically /rʲ/</text>
+<text x="55" y="503" text-anchor="middle" class="Ls">szcz</text>
+<text x="130" y="503" text-anchor="middle" class="Lx">/ʃtʃ/</text>
+<text x="310" y="503" text-anchor="middle" class="Lx">szczęście (happiness/luck)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 52A ALT · German / Polish · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

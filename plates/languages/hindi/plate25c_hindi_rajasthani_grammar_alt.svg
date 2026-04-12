@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Ld{font-size:13px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HINDI + RAJASTHANI — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 25C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HINDI GRAMMAR — SOV · POSTPOSITIONS · GENDER —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hindi is SOV: Subject-Object-Verb. Verb always final. Postpositions (ne, ko, se, mein) follow nouns.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">2 genders: masculine and feminine. No neuter (unlike Sanskrit). Gender affects verb agreement.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Ergative-absolutive alignment in past transitive: subject takes -ne postposition.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— HINDI POSTPOSITIONS —</text>
+<text x="55" y="117" text-anchor="middle" class="Ls">ne</text>
+<text x="310" y="117" text-anchor="middle" class="Lx">ergative agent: Ram ne khāyā (Ram ate, -ne marks agent of past trans.)</text>
+<text x="55" y="127" text-anchor="middle" class="Ls">ko</text>
+<text x="310" y="127" text-anchor="middle" class="Lx">dative/accusative: mujhe/mujh ko (to me), use (him/her, acc.)</text>
+<text x="55" y="137" text-anchor="middle" class="Ls">se</text>
+<text x="310" y="137" text-anchor="middle" class="Lx">instrumental/ablative: kām se (by work), Delhi se (from Delhi)</text>
+<text x="55" y="147" text-anchor="middle" class="Ls">mein</text>
+<text x="310" y="147" text-anchor="middle" class="Lx">locative inessive: ghar mein (in the house)</text>
+<text x="55" y="157" text-anchor="middle" class="Ls">par</text>
+<text x="310" y="157" text-anchor="middle" class="Lx">locative superessive: mez par (on the table)</text>
+<text x="55" y="167" text-anchor="middle" class="Ls">kā/kī/ke</text>
+<text x="310" y="167" text-anchor="middle" class="Lx">genitive: merā ghar (my house) — agrees with possessed noun gender</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">— HINDI CORE VOCABULARY —</text>
+<text x="60" y="196" text-anchor="middle" class="Ld">पानी</text>
+<text x="110" y="196" text-anchor="middle" class="Lx">pānī</text>
+<text x="170" y="196" text-anchor="middle" class="Lx">water</text>
+<text x="270" y="196" text-anchor="middle" class="Ld">आग</text>
+<text x="320" y="196" text-anchor="middle" class="Lx">āg</text>
+<text x="380" y="196" text-anchor="middle" class="Lx">fire</text>
+<text x="60" y="206" text-anchor="middle" class="Ld">धरती</text>
+<text x="110" y="206" text-anchor="middle" class="Lx">dharatī</text>
+<text x="170" y="206" text-anchor="middle" class="Lx">earth</text>
+<text x="270" y="206" text-anchor="middle" class="Ld">आदमी</text>
+<text x="320" y="206" text-anchor="middle" class="Lx">ādmī</text>
+<text x="380" y="206" text-anchor="middle" class="Lx">person</text>
+<text x="60" y="216" text-anchor="middle" class="Ld">चाँद</text>
+<text x="110" y="216" text-anchor="middle" class="Lx">cāṅd</text>
+<text x="170" y="216" text-anchor="middle" class="Lx">moon</text>
+<text x="270" y="216" text-anchor="middle" class="Ld">याद</text>
+<text x="320" y="216" text-anchor="middle" class="Lx">yād</text>
+<text x="380" y="216" text-anchor="middle" class="Lx">memory</text>
+<text x="60" y="226" text-anchor="middle" class="Ld">भविष्य</text>
+<text x="110" y="226" text-anchor="middle" class="Lx">bhavishy</text>
+<text x="170" y="226" text-anchor="middle" class="Lx">future</text>
+<text x="270" y="226" text-anchor="middle" class="Ld">आज़ादी</text>
+<text x="320" y="226" text-anchor="middle" class="Lx">āzādī</text>
+<text x="380" y="226" text-anchor="middle" class="Lx">freedom</text>
+<line x1="20" y1="242" x2="460" y2="242" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="245" width="440" height="14" fill="black"/>
+<text x="240" y="255" text-anchor="middle" class="Hb" fill="white">SECONDARY — RAJASTHANI — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="259" x2="460" y2="259" stroke="black" stroke-width="0.3"/>
+<text x="240" y="268" text-anchor="middle" class="H">— RAJASTHANI GRAMMAR — SOV · SIMILARITIES AND DIFFERENCES —</text>
+<text x="240" y="278" text-anchor="middle" class="Ls">Rajasthani is also SOV, uses postpositions, has gender — same as Hindi. Grammar is mutually intelligible.</text>
+<text x="240" y="287" text-anchor="middle" class="Lx">Key differences: verb forms, some postpositions, vocabulary (Rajput court + Persian + native Rajasthani).</text>
+<line x1="20" y1="295" x2="460" y2="295" stroke="black" stroke-width="0.3"/>
+<text x="240" y="303" text-anchor="middle" class="H">— RAJASTHANI — DISTINCT GRAMMATICAL FORMS —</text>
+<text x="85" y="313" text-anchor="middle" class="Ls">Copula</text>
+<text x="310" y="313" text-anchor="middle" class="Lx">Hindi: hai (is) → Rajasthani: chhe/ch (eastern) or hai (western)</text>
+<text x="85" y="324" text-anchor="middle" class="Ls">Oblique</text>
+<text x="310" y="324" text-anchor="middle" class="Lx">Rajasthani -ā masculine nouns → oblique -āne/ro (vs. Hindi -e/-a)</text>
+<text x="85" y="335" text-anchor="middle" class="Ls">Genitive</text>
+<text x="310" y="335" text-anchor="middle" class="Lx">Rajasthani: ro/rī/rā (my horse: merō ghorō) vs. Hindi kā/kī/ke</text>
+<text x="85" y="346" text-anchor="middle" class="Ls">Imperfective</text>
+<text x="310" y="346" text-anchor="middle" class="Lx">Rajasthani: -e̅ suffix on verbs (vs. Hindi -tā/-tī)</text>
+<text x="85" y="357" text-anchor="middle" class="Ls">Plural</text>
+<text x="310" y="357" text-anchor="middle" class="Lx">Rajasthani often -ā/ō vs. Hindi -e̅ for masculine nouns</text>
+<line x1="20" y1="373" x2="460" y2="373" stroke="black" stroke-width="0.3"/>
+<text x="240" y="381" text-anchor="middle" class="H">— RAJASTHANI CORE VOCABULARY —</text>
+<text x="50" y="391" text-anchor="middle" class="Ld">पाणी</text>
+<text x="105" y="391" text-anchor="middle" class="Lx">pāṇī</text>
+<text x="170" y="391" text-anchor="middle" class="Lx">water (vs. Hindi pānī)</text>
+<text x="260" y="391" text-anchor="middle" class="Ld">आग</text>
+<text x="315" y="391" text-anchor="middle" class="Lx">āg</text>
+<text x="380" y="391" text-anchor="middle" class="Lx">fire (same as Hindi)</text>
+<text x="50" y="401" text-anchor="middle" class="Ld">धरती</text>
+<text x="105" y="401" text-anchor="middle" class="Lx">dharati</text>
+<text x="170" y="401" text-anchor="middle" class="Lx">earth (same root)</text>
+<text x="260" y="401" text-anchor="middle" class="Ld">मानखो</text>
+<text x="315" y="401" text-anchor="middle" class="Lx">mānakho</text>
+<text x="380" y="401" text-anchor="middle" class="Lx">person (distinct from Hindi)</text>
+<text x="50" y="411" text-anchor="middle" class="Ld">चांद</text>
+<text x="105" y="411" text-anchor="middle" class="Lx">cāṅd</text>
+<text x="170" y="411" text-anchor="middle" class="Lx">moon (same root)</text>
+<text x="260" y="411" text-anchor="middle" class="Ld">याद</text>
+<text x="315" y="411" text-anchor="middle" class="Lx">yād</text>
+<text x="380" y="411" text-anchor="middle" class="Lx">memory (same as Hindi)</text>
+<text x="50" y="421" text-anchor="middle" class="Ld">आवणेरो</text>
+<text x="105" y="421" text-anchor="middle" class="Lx">āvaṇero</text>
+<text x="170" y="421" text-anchor="middle" class="Lx">future (lit. the-coming-one)</text>
+<text x="260" y="421" text-anchor="middle" class="Ld">आज़ादी</text>
+<text x="315" y="421" text-anchor="middle" class="Lx">āzādī</text>
+<text x="380" y="421" text-anchor="middle" class="Lx">freedom (same)</text>
+<text x="50" y="431" text-anchor="middle" class="Ld">हियो</text>
+<text x="105" y="431" text-anchor="middle" class="Lx">hiyo</text>
+<text x="170" y="431" text-anchor="middle" class="Lx">heart (vs. Hindi dil)</text>
+<text x="260" y="431" text-anchor="middle" class="Ld">पिरेम</text>
+<text x="315" y="431" text-anchor="middle" class="Lx">pire m</text>
+<text x="380" y="431" text-anchor="middle" class="Lx">love (vs. Hindi pyār)</text>
+<line x1="20" y1="453" x2="460" y2="453" stroke="black" stroke-width="0.3"/>
+<text x="240" y="461" text-anchor="middle" class="H">— GRAMMAR BRIDGE — HINDI’S CLOSEST SISTER —</text>
+<text x="240" y="471" text-anchor="middle" class="Ls">Hindi and Rajasthani diverged from the same Apabhramsha ancestor ~12th–14th century CE.</text>
+<text x="240" y="480" text-anchor="middle" class="Lx">Mutual intelligibility is high — yet phonological, lexical, and some morphological differences are real and consistent.</text>
+<text x="240" y="489" text-anchor="middle" class="Lx">Rajasthani poetry (Braj, Pingal style) was the dominant literary form of medieval North India.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 25C ALT · Hindi / Rajasthani · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

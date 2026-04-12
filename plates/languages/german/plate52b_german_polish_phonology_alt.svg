@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">GERMAN + POLISH — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 52B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— GERMAN VOWELS — LONG/SHORT PAIRS + UMLAUTS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">German has phonemic vowel length: short vs. long vowels are contrastive.</text>
+<text x="120" y="83" text-anchor="middle" class="Lx">/a/ vs /aː/</text>
+<text x="320" y="83" text-anchor="middle" class="Lx">Mann (man) vs. Bahn (track)</text>
+<text x="120" y="93" text-anchor="middle" class="Lx">/ɪ/ vs /iː/</text>
+<text x="320" y="93" text-anchor="middle" class="Lx">mit (with) vs. miet (rent)</text>
+<text x="120" y="103" text-anchor="middle" class="Lx">/ʊ/ vs /uː/</text>
+<text x="320" y="103" text-anchor="middle" class="Lx">und (and) vs. Hut (hat)</text>
+<text x="120" y="113" text-anchor="middle" class="Lx">/ɛ/ vs /eː/</text>
+<text x="320" y="113" text-anchor="middle" class="Lx">Bett (bed) vs. Beet (flowerbed)</text>
+<text x="120" y="123" text-anchor="middle" class="Lx">/ɔ/ vs /oː/</text>
+<text x="320" y="123" text-anchor="middle" class="Lx">Gott (God) vs. Boot (boat)</text>
+<text x="120" y="133" text-anchor="middle" class="Lx">/ø/ vs /øː/</text>
+<text x="320" y="133" text-anchor="middle" class="Lx">Hölle (hell) vs. Höhle (cave)</text>
+<text x="120" y="143" text-anchor="middle" class="Lx">/y/ vs /yː/</text>
+<text x="320" y="143" text-anchor="middle" class="Lx">hübsch (pretty) vs. fühlen (feel)</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H">— GERMAN CONSONANTS — KEY FEATURES —</text>
+<text x="240" y="176" text-anchor="middle" class="Ls">/x/ vs /ç/: velar [x] after back vowels (Buch), palatal [ç] after front vowels (ich).</text>
+<text x="240" y="185" text-anchor="middle" class="Ls">Word-final devoicing (Auslautverhärtung): Rad /rɑːt/ (wheel) vs. Räder /rɛdər/ (wheels, pl.).</text>
+<text x="240" y="194" text-anchor="middle" class="Lx">Aspirated stops: /pʰ tʰ kʰ/ at word onset — Pan, Tisch, Kopf. Unaspirated after /s/: Span, Stein.</text>
+<text x="240" y="203" text-anchor="middle" class="Lx">Uvular /ʁ/ (standard r): produced at back of throat, like French r. Regional variants include trill /r/.</text>
+<line x1="20" y1="211" x2="460" y2="211" stroke="black" stroke-width="0.3"/>
+<text x="240" y="219" text-anchor="middle" class="H">— GERMAN STRESS — FIRST SYLLABLE (TYPICALLY) —</text>
+<text x="240" y="229" text-anchor="middle" class="Ls">Stress on first root syllable: ’Wasser, ’Freiheit, ’sprechen. Prefixes: un-, un-be- are unstressed.</text>
+<text x="240" y="238" text-anchor="middle" class="Lx">Loanwords follow original stress: Muse’um, Univer’sität, Tele’fon.</text>
+<line x1="20" y1="248" x2="460" y2="248" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="251" width="440" height="14" fill="black"/>
+<text x="240" y="261" text-anchor="middle" class="Hb" fill="white">SECONDARY — POLISH (JĘZYK POLSKI) — PHONOLOGY</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H">— POLISH VOWELS — 6 ORAL + 2 NASAL —</text>
+<text x="240" y="284" text-anchor="middle" class="Ls">Polish has 6 oral vowels: /a ɛ i ɔ u y/ (y = /ɪ/ front unrounded, absent from German/English).</text>
+<text x="240" y="293" text-anchor="middle" class="Lx">ą and ę are historically nasal (/ɔ̃ ɛ̃/) but in modern Polish pronounced as oral vowels + nasal coda in most positions.</text>
+<text x="240" y="302" text-anchor="middle" class="Lx">Polish y /ɪ/: as in ryba (fish), dym (smoke). Sounds like a short, centralized i. Key learning difficulty.</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="black" stroke-width="0.3"/>
+<text x="240" y="318" text-anchor="middle" class="H">— POLISH CONSONANTS — COMPLEX CLUSTERS —</text>
+<text x="240" y="328" text-anchor="middle" class="Ls">Polish allows extremely dense consonant clusters, especially word-initial: szczęście /ʃtʃɛɕtɕe/ (happiness).</text>
+<text x="240" y="337" text-anchor="middle" class="Ls">Palatalization: consonants have hard and soft (palatalized) variants. Soft = with /ʲ/ offglide.</text>
+<text x="240" y="346" text-anchor="middle" class="Lx">Hard/soft pairs: t/ć · d/dźʲ · s/ś · z/ź · n/ń · l/lʲ. These are phonemically distinct.</text>
+<line x1="20" y1="354" x2="460" y2="354" stroke="black" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H">— POLISH STRESS — PENULTIMATE (NEAR-UNIVERSAL) —</text>
+<text x="240" y="372" text-anchor="middle" class="Ls">Polish stress falls on the second-to-last syllable almost universally: ’woda (water), wol’ność (freedom).</text>
+<text x="240" y="381" text-anchor="middle" class="Lx">Exceptions: 1st person plural past verbs (szłiśmy), some loanwords (u’niwersytet).</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="black" stroke-width="0.3"/>
+<text x="240" y="397" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — COMPARING TWO NEIGHBORS —</text>
+<text x="80" y="407" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="407" text-anchor="middle" class="Lx">German</text>
+<text x="380" y="407" text-anchor="middle" class="Lx">Polish</text>
+<text x="80" y="417" text-anchor="middle" class="Lx">Vowel length</text>
+<text x="235" y="417" text-anchor="middle" class="Lx">Phonemic (lang/kurz)</text>
+<text x="380" y="417" text-anchor="middle" class="Lx">Not phonemic</text>
+<text x="80" y="427" text-anchor="middle" class="Lx">Nasal vowels</text>
+<text x="235" y="427" text-anchor="middle" class="Lx">No</text>
+<text x="380" y="427" text-anchor="middle" class="Lx">Historical (ą ę)</text>
+<text x="80" y="437" text-anchor="middle" class="Lx">Consonant clusters</text>
+<text x="235" y="437" text-anchor="middle" class="Lx">Moderate</text>
+<text x="380" y="437" text-anchor="middle" class="Lx">Very dense (szcz-)</text>
+<text x="80" y="447" text-anchor="middle" class="Lx">Stress</text>
+<text x="235" y="447" text-anchor="middle" class="Lx">1st syllable (root)</text>
+<text x="380" y="447" text-anchor="middle" class="Lx">Penultimate</text>
+<text x="80" y="457" text-anchor="middle" class="Lx">r-sound</text>
+<text x="235" y="457" text-anchor="middle" class="Lx">Uvular /ʁ/</text>
+<text x="380" y="457" text-anchor="middle" class="Lx">Alveolar trill /r/</text>
+<text x="80" y="467" text-anchor="middle" class="Lx">Final devoicing</text>
+<text x="235" y="467" text-anchor="middle" class="Lx">Yes (Auslautverh.)</text>
+<text x="380" y="467" text-anchor="middle" class="Lx">Yes (similar rule)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 52B ALT · German / Polish · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

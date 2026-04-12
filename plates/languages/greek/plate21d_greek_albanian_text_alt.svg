@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lg{font-size:12px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">GREEK + ALBANIAN — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 21D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. HERACLITUS — ON CHANGE (~500 BCE) —</text>
+<text x="240" y="73" text-anchor="middle" class="Lg">Πάντα ρεί. (Panta rhei.)</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">"Everything flows." — Heraclitus of Ephesus. Oldest Greek philosophical fragment on change and time.</text>
+<line x1="20" y1="97" x2="460" y2="97" stroke="black" stroke-width="0.3"/>
+<text x="240" y="105" text-anchor="middle" class="H">— II. PLATO — REPUBLIC (380 BCE) —</text>
+<text x="240" y="115" text-anchor="middle" class="Lg">Γνώθι σεαυτόν. (Gnothi seauton.)</text>
+<text x="240" y="131" text-anchor="middle" class="Ls">"Know thyself." — Inscribed at Delphi; foundational principle of Greek philosophy and Western ethics.</text>
+<line x1="20" y1="139" x2="460" y2="139" stroke="black" stroke-width="0.3"/>
+<text x="240" y="147" text-anchor="middle" class="H">— III. GREEK BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="159" text-anchor="middle" class="Lg">Αυτό έγινε για σένα, δωρεάν,</text>
+<text x="240" y="176" text-anchor="middle" class="Lg">από ανθρώπους που θυμήθηκαν το μέλλον.</text>
+<text x="240" y="193" text-anchor="middle" class="Lx">This was-made for you  freely / by people who remembered the future.</text>
+<text x="240" y="202" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Greek)</text>
+<line x1="20" y1="210" x2="460" y2="210" stroke="black" stroke-width="0.3"/>
+<text x="240" y="218" text-anchor="middle" class="H">— GREEK NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="228" text-anchor="middle" class="Ls">μέλλον = future (from μέλλω, to be about to, to intend). θυμάμαι = to remember (lit. to call to mind).</text>
+<text x="240" y="237" text-anchor="middle" class="Lx">δωρεάν = freely (adverb from δώρο = gift). Greek encodes free giving as gift-giving.</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="250" width="440" height="14" fill="black"/>
+<text x="240" y="260" text-anchor="middle" class="Hb" fill="white">SECONDARY — ALBANIAN (SHQIP) — RUNNING TEXT</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="0.3"/>
+<text x="240" y="273" text-anchor="middle" class="H">— I. NAIM FRASHËRI — ALBANIAN POET (1846–1900) —</text>
+<text x="240" y="283" text-anchor="middle" class="L">Shqipëria më thirri, ë dashur dhe e nderëshme,</text>
+<text x="240" y="294" text-anchor="middle" class="Lx">Albania me called  beloved   and  honorable</text>
+<text x="240" y="303" text-anchor="middle" class="F">"Albania called to me, beloved and honorable." — Frashëri, father of Albanian national literature.</text>
+<line x1="20" y1="311" x2="460" y2="311" stroke="black" stroke-width="0.3"/>
+<text x="240" y="319" text-anchor="middle" class="H">— II. ALBANIAN PROVERB — ON MEMORY AND KNOWLEDGE —</text>
+<text x="240" y="329" text-anchor="middle" class="L">Ai që nuk di të lexojë, është i verbër.</text>
+<text x="240" y="340" text-anchor="middle" class="Lx">He who not can to-read   is   blind.</text>
+<text x="240" y="349" text-anchor="middle" class="F">"He who cannot read is blind." — Albanian proverb. Context: Albanian literacy campaigns 1940s–1980s.</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="365" text-anchor="middle" class="H">— III. ALBANIAN BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="376" text-anchor="middle" class="L">Kjo është bërë për ju, falas,</text>
+<text x="240" y="388" text-anchor="middle" class="L">nga njerëz që mbajtën mend të ardhmen.</text>
+<text x="240" y="400" text-anchor="middle" class="Lx">This is   made for you  freely / by  people who kept   in-mind the future.</text>
+<text x="240" y="409" text-anchor="middle" class="F">"This was made for you, freely, by people who kept the future in mind." (Albanian)</text>
+<line x1="20" y1="417" x2="460" y2="417" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H">— ALBANIAN NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="435" text-anchor="middle" class="Ls">E ardhmja = the future (definite article e + ardhme from “arrive/come” — the future as what is arriving).</text>
+<text x="240" y="444" text-anchor="middle" class="Ls">Mbaj mend = to remember (lit. to keep/hold + mind). A bodylike metaphor — memory as something held.</text>
+<text x="240" y="453" text-anchor="middle" class="Lx">Falas = freely/for free. Suffixed definite article in “e ardhmja” shows the postposed article system.</text>
+<line x1="20" y1="461" x2="460" y2="461" stroke="black" stroke-width="0.3"/>
+<text x="240" y="469" text-anchor="middle" class="H">— LANGUAGE BRIDGE — AN ANCIENT NEIGHBORHOOD —</text>
+<text x="240" y="479" text-anchor="middle" class="Ls">Greek: 3500+ year written tradition. Ancestor of Western alphabets. ~13M speakers.</text>
+<text x="240" y="488" text-anchor="middle" class="Ls">Albanian: ~7.5M speakers. An isolated Indo-European branch — no close relatives. Ancient substrate.</text>
+<text x="240" y="497" text-anchor="middle" class="Lx">Shared region for millennia: Greeks and Illyrians (Albanian ancestors) were neighbors in antiquity.</text>
+<text x="240" y="506" text-anchor="middle" class="Lx">Albanian preserves features of ancient Balkan languages that Greek absorbed and replaced.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 21D ALT · Greek / Albanian · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

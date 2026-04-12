@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAUSA + FULFULDE — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 29C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAUSA GRAMMAR — SVO · TONAL GRAMMAR · GENDER —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hausa is SVO. Grammatical information encoded partly by tone: subject vs. object forms of verbs differ by tone.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">2 genders: masculine and feminine. No articles. Definiteness marked by demonstratives and context.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— HAUSA ASPECT — NO TENSE, YES ASPECT —</text>
+<text x="240" y="108" text-anchor="middle" class="Ls">Hausa marks ASPECT, not tense. Pre-verbal particles signal completive, continuative, subjunctive, negative.</text>
+<text x="100" y="118" text-anchor="middle" class="Lx">Completive</text>
+<text x="230" y="118" text-anchor="middle" class="Ls">naa tafi</text>
+<text x="370" y="118" text-anchor="middle" class="Lx">I went / I have gone</text>
+<text x="100" y="128" text-anchor="middle" class="Lx">Continuative</text>
+<text x="230" y="128" text-anchor="middle" class="Ls">ina tafiya</text>
+<text x="370" y="128" text-anchor="middle" class="Lx">I am going / I go (habitual)</text>
+<text x="100" y="138" text-anchor="middle" class="Lx">Subjunctive</text>
+<text x="230" y="138" text-anchor="middle" class="Ls">in tafi</text>
+<text x="370" y="138" text-anchor="middle" class="Lx">that I go / let me go</text>
+<text x="100" y="148" text-anchor="middle" class="Lx">Neg. completive</text>
+<text x="230" y="148" text-anchor="middle" class="Ls">ban tafi ba</text>
+<text x="370" y="148" text-anchor="middle" class="Lx">I did not go</text>
+<text x="100" y="158" text-anchor="middle" class="Lx">Future intent</text>
+<text x="230" y="158" text-anchor="middle" class="Ls">zan tafi</text>
+<text x="370" y="158" text-anchor="middle" class="Lx">I will go / I intend to go</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H">— HAUSA CORE VOCABULARY —</text>
+<text x="60" y="193" text-anchor="middle" class="Ls">ruwa</text>
+<text x="118" y="193" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="193" text-anchor="middle" class="Ls">wuta</text>
+<text x="248" y="193" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="193" text-anchor="middle" class="Ls">ƙasa</text>
+<text x="378" y="193" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="203" text-anchor="middle" class="Ls">mutum</text>
+<text x="118" y="203" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="203" text-anchor="middle" class="Ls">wata</text>
+<text x="248" y="203" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="203" text-anchor="middle" class="Ls">tuna</text>
+<text x="378" y="203" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="213" text-anchor="middle" class="Ls">gaba</text>
+<text x="118" y="213" text-anchor="middle" class="Lx">forward/future</text>
+<text x="190" y="213" text-anchor="middle" class="Ls">yanci</text>
+<text x="248" y="213" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="213" text-anchor="middle" class="Ls">zuciya</text>
+<text x="378" y="213" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="223" text-anchor="middle" class="Ls">ʁankāka</text>
+<text x="118" y="223" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="223" text-anchor="middle" class="Ls">duniya</text>
+<text x="248" y="223" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="223" text-anchor="middle" class="Ls">rai</text>
+<text x="378" y="223" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="241" width="440" height="14" fill="black"/>
+<text x="240" y="251" text-anchor="middle" class="Hb" fill="white">SECONDARY — FULFULDE — GRAMMAR · NOUN CLASS SYSTEM</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H">— FULFULDE — NOUN CLASS SYSTEM (25+ CLASSES) —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls">Fulfulde has one of the most complex noun class systems in the world: ~25 grammatical noun classes.</text>
+<text x="240" y="283" text-anchor="middle" class="Lx">Each class has its own agreement suffix on nouns, adjectives, verbs, and pronouns. Class signals meaning.</text>
+<text x="240" y="292" text-anchor="middle" class="Lx">Typical singular/plural pairs: o/ɓe (human), ŋu/ɗi (thing), ngu/ɗi (liquid), ko/ɗe (abstract).</text>
+<line x1="20" y1="300" x2="460" y2="300" stroke="black" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H">— FULFULDE NOUN CLASS SAMPLES —</text>
+<text x="80" y="318" text-anchor="middle" class="Ls">Class o/ɓe</text>
+<text x="210" y="318" text-anchor="middle" class="Lx">human singular/plural</text>
+<text x="370" y="318" text-anchor="middle" class="Lx">gorko (man) → worɓe (men)</text>
+<text x="80" y="328" text-anchor="middle" class="Ls">Class ngu/ɗi</text>
+<text x="210" y="328" text-anchor="middle" class="Lx">liquid/mass</text>
+<text x="370" y="328" text-anchor="middle" class="Lx">ɗam-ngu (the water) → ɗam-ɗi (waters)</text>
+<text x="80" y="338" text-anchor="middle" class="Ls">Class ŋu/ɗi</text>
+<text x="210" y="338" text-anchor="middle" class="Lx">large object</text>
+<text x="370" y="338" text-anchor="middle" class="Lx">naŋga-ŋu (the cow) → naŋe-ɗi (cows)</text>
+<text x="80" y="348" text-anchor="middle" class="Ls">Class ko/ɗe</text>
+<text x="210" y="348" text-anchor="middle" class="Lx">abstract/action</text>
+<text x="370" y="348" text-anchor="middle" class="Lx">jam-ko (the peace) — no plural</text>
+<text x="80" y="358" text-anchor="middle" class="Ls">Class nga/ɗi</text>
+<text x="210" y="358" text-anchor="middle" class="Lx">small object</text>
+<text x="370" y="358" text-anchor="middle" class="Lx">nedda-nga (the body)</text>
+<line x1="20" y1="375" x2="460" y2="375" stroke="black" stroke-width="0.3"/>
+<text x="240" y="383" text-anchor="middle" class="H">— FULFULDE VERB SYSTEM — SOV WITH EXTENSIONS —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Fulfulde is largely SOV. Verbal extensions (suffixes) encode direction, benefactive, reflexive, causative.</text>
+<text x="240" y="402" text-anchor="middle" class="Lx">wiɛ-a (say-complete), wiɛ-ude (to say/infinitive), wiɛ-ir-de (say-BEN-inf) = to say for someone.</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H">— FULFULDE CORE VOCABULARY —</text>
+<text x="60" y="428" text-anchor="middle" class="Ls">ɗam</text>
+<text x="120" y="428" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="428" text-anchor="middle" class="Ls">jayngol</text>
+<text x="250" y="428" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="428" text-anchor="middle" class="Ls">leydi</text>
+<text x="380" y="428" text-anchor="middle" class="Lx">earth/land</text>
+<text x="60" y="438" text-anchor="middle" class="Ls">gorko/debbo</text>
+<text x="120" y="438" text-anchor="middle" class="Lx">man/woman</text>
+<text x="190" y="438" text-anchor="middle" class="Ls">lewru</text>
+<text x="250" y="438" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="438" text-anchor="middle" class="Ls">tigiɳi</text>
+<text x="380" y="438" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="448" text-anchor="middle" class="Ls">gaweɗi</text>
+<text x="120" y="448" text-anchor="middle" class="Lx">future/forward</text>
+<text x="190" y="448" text-anchor="middle" class="Ls">yiylaare</text>
+<text x="250" y="448" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="448" text-anchor="middle" class="Ls">ƙŋuŋgu</text>
+<text x="380" y="448" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="458" text-anchor="middle" class="Ls">jɛlɛ</text>
+<text x="120" y="458" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="458" text-anchor="middle" class="Ls">aduna</text>
+<text x="250" y="458" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="458" text-anchor="middle" class="Ls">ɛndu</text>
+<text x="380" y="458" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="475" x2="460" y2="475" stroke="black" stroke-width="0.3"/>
+<text x="240" y="483" text-anchor="middle" class="H">— GRAMMAR BRIDGE — TWO DIFFERENT LANGUAGE FAMILIES —</text>
+<text x="240" y="493" text-anchor="middle" class="Ls">Hausa (Afro-Asiatic/Chadic): gender, aspect-based verb system, tonal. Spread by trade networks.</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">Fulfulde (Niger-Congo/Fula): 25+ noun classes, SOV, verbal extensions. Spread by Fulani pastoral migration.</text>
+<text x="240" y="511" text-anchor="middle" class="Lx">Two of the most widely-spoken languages of the Sahel — co-exist in nearly every northern Nigerian market.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 29C ALT · Hausa / Fulfulde · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

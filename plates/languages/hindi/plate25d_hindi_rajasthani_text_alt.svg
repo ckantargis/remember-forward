@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Ld{font-size:13px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HINDI + RAJASTHANI — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 25D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. KABIR — DOHA (15TH C. CE) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ld">काल करे सो आज कर, आज करे सो अब ।</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">kāl kare so āj kar, āj kare so ab.</text>
+<text x="240" y="98" text-anchor="middle" class="Lx">Tomorrow-do that today-do · today-do that now.</text>
+<text x="240" y="107" text-anchor="middle" class="F">"Do tomorrow’s work today; do today’s work now." — Kabir Das. Hindi’s most beloved sant-poet.</text>
+<line x1="20" y1="115" x2="460" y2="115" stroke="black" stroke-width="0.3"/>
+<text x="240" y="123" text-anchor="middle" class="H">— II. HINDI PROVERB — ON KNOWLEDGE —</text>
+<text x="240" y="133" text-anchor="middle" class="Ld">विद्या धन सब धनों की दादी है।</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">vidyā dhan sab dhanoṅ kī dādī hai.</text>
+<text x="240" y="158" text-anchor="middle" class="F">"Knowledge is the greatest of all wealth." — Hindi proverb.</text>
+<line x1="20" y1="166" x2="460" y2="166" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H">— III. HINDI BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="186" text-anchor="middle" class="Ld">यह आपके लिए बनाया गया था, मुफ़्त में,</text>
+<text x="240" y="203" text-anchor="middle" class="Ld">उन लोगों ने जिन्होंने भविष्य को याद किया।</text>
+<text x="240" y="218" text-anchor="middle" class="Lx">Yah āpke lie banāyā gayā thā, muft meṅ, / un logoṅ ne jinhonnē bhavishy ko yād kiyā.</text>
+<text x="240" y="227" text-anchor="middle" class="F">"This was made for you, freely, by those who remembered the future." (Hindi)</text>
+<line x1="20" y1="235" x2="460" y2="235" stroke="black" stroke-width="0.3"/>
+<text x="240" y="243" text-anchor="middle" class="H">— HINDI NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="253" text-anchor="middle" class="Ls">Bhavishy (भविष्य) = future (Sanskrit: what is to become). Yād karnā = to remember (Urdu/Hindi: memory-do).</text>
+<text x="240" y="262" text-anchor="middle" class="Lx">Muft = free of charge (from Persian/Arabic muft). Ergative -ne: jinhonnē (those who) marks agent of past act.</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="275" width="440" height="14" fill="black"/>
+<text x="240" y="285" text-anchor="middle" class="Hb" fill="white">SECONDARY — RAJASTHANI — RUNNING TEXT</text>
+<line x1="20" y1="289" x2="460" y2="289" stroke="black" stroke-width="0.3"/>
+<text x="240" y="298" text-anchor="middle" class="H">— I. MEERA BAI — BHAJAN (16TH C. CE, RAJASTHANI/BRAJ) —</text>
+<text x="240" y="308" text-anchor="middle" class="Ld">पायो जी मैंने राम रतन धन पायो।</text>
+<text x="240" y="324" text-anchor="middle" class="Ls">pāyo jī main-ne Rām ratan dhan pāyo.</text>
+<text x="240" y="333" text-anchor="middle" class="F">"I have found the jewel-wealth of Ram’s name." — Meera Bai, Rajput princess and poet-saint.</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H">— II. RAJASTHANI PROVERB — ON MEMORY AND LAND —</text>
+<text x="240" y="359" text-anchor="middle" class="L">Dharati mā sō chhē, dharaṇo vālō nā bhūlo.</text>
+<text x="240" y="370" text-anchor="middle" class="Lx">Earth  mother is  earth-giving (those) not-forget.</text>
+<text x="240" y="379" text-anchor="middle" class="F">"The earth is mother; those who give earth must not be forgotten." (Rajasthani proverb on land and memory)</text>
+<line x1="20" y1="387" x2="460" y2="387" stroke="black" stroke-width="0.3"/>
+<text x="240" y="395" text-anchor="middle" class="H">— III. RAJASTHANI BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="406" text-anchor="middle" class="L">Yē āpāṅrē vāstē banāyō gāyō, muft mēṅ,</text>
+<text x="240" y="418" text-anchor="middle" class="L">unā māṅkhāṅ dvārā jōhāṅ bhavishy nē yād rākhyō.</text>
+<text x="240" y="430" text-anchor="middle" class="Lx">This for-you made was  freely / those people by  who-had future remembered-kept.</text>
+<text x="240" y="439" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Rajasthani)</text>
+<line x1="20" y1="447" x2="460" y2="447" stroke="black" stroke-width="0.3"/>
+<text x="240" y="455" text-anchor="middle" class="H">— RAJASTHANI NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="465" text-anchor="middle" class="Ls">Āvaṇero = the future (lit. “the one that is coming/arriving” — present participle of āvanu = to come).</text>
+<text x="240" y="474" text-anchor="middle" class="Lx">Yād rākhvuṅ = to keep in memory (remember). Literal: memory-keep. Same root as Hindi yād.</text>
+<line x1="20" y1="482" x2="460" y2="482" stroke="black" stroke-width="0.3"/>
+<text x="240" y="490" text-anchor="middle" class="H">— LANGUAGE BRIDGE — TWO NORTH INDIAN SISTERS —</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">Hindi: ~600M speakers (L1+L2). Official language of India. Written in Devanagari. National prestige.</text>
+<text x="240" y="509" text-anchor="middle" class="Ls">Rajasthani: ~70-80M speakers. No official status. Preserved in oral poetry, folk music, and domestic life.</text>
+<text x="240" y="518" text-anchor="middle" class="Lx">Meera Bai, Kabir, and the bhakti poet-saints wrote in Rajasthani/Braj — not standard Hindi. Literature predates Hindi.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 25D ALT · Hindi / Rajasthani · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

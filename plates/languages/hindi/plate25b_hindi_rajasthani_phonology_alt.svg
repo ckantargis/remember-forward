@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Ld{font-size:13px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HINDI + RAJASTHANI — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 25B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HINDI PHONOLOGY — CONSONANT SYSTEM —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hindi has one of the richest consonant systems of any major language: 5 place × 4 manner distinctions.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Contrast: voiceless / aspirated / voiced / voiced-aspirated (breathy) across bilabial, alveolar, retroflex, palatal, velar.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Retroflex consonants (ṭ ṭh ḍ ḍh ṇ): tongue tip curled back. Absent from most European languages.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— HINDI — BREATHY/MURMURED VOICED CONSONANTS —</text>
+<text x="240" y="117" text-anchor="middle" class="Ls">Breathy voice (murmur): bʰ dʰ ḍʰ ɟʰ gʰ — simultaneous voicing + open glottis = breathy quality.</text>
+<text x="60" y="127" text-anchor="middle" class="Ls">bh</text>
+<text x="120" y="127" text-anchor="middle" class="Lx">/bʰ/</text>
+<text x="310" y="127" text-anchor="middle" class="Lx">भालू bhālū (bear), bhārat (India)</text>
+<text x="60" y="137" text-anchor="middle" class="Ls">dh</text>
+<text x="120" y="137" text-anchor="middle" class="Lx">/dʰ/</text>
+<text x="310" y="137" text-anchor="middle" class="Lx">धागा dhāgā (thread), dhan (wealth)</text>
+<text x="60" y="147" text-anchor="middle" class="Ls">ḍh</text>
+<text x="120" y="147" text-anchor="middle" class="Lx">/ḍʰ/</text>
+<text x="310" y="147" text-anchor="middle" class="Lx">ढाँचा ḍhāṅā (framework)</text>
+<text x="60" y="157" text-anchor="middle" class="Ls">jh</text>
+<text x="120" y="157" text-anchor="middle" class="Lx">/ɟʰ/</text>
+<text x="310" y="157" text-anchor="middle" class="Lx">झरना jharanaa (waterfall)</text>
+<text x="60" y="167" text-anchor="middle" class="Ls">gh</text>
+<text x="120" y="167" text-anchor="middle" class="Lx">/gʰ/</text>
+<text x="310" y="167" text-anchor="middle" class="Lx">घर ghar (home/house)</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">— HINDI VOWEL SYSTEM —</text>
+<text x="240" y="196" text-anchor="middle" class="Ls">10+ vowels: short/long pairs a/ā i/ī u/ū plus e ai o au. Nasalization: pāṅc (five), hāṅ (yes).</text>
+<text x="240" y="205" text-anchor="middle" class="Lx">Schwa deletion: common in standard Hindi — karna /karn/ not /karna/. Context-dependent.</text>
+<line x1="20" y1="213" x2="460" y2="213" stroke="black" stroke-width="0.3"/>
+<text x="240" y="221" text-anchor="middle" class="H">— HINDI STRESS AND RHYTHM —</text>
+<text x="240" y="231" text-anchor="middle" class="Ls">Stress: quantity-sensitive, falling on heavy syllables (long vowel or closed). Not phonemically contrastive.</text>
+<text x="240" y="240" text-anchor="middle" class="Lx">Hindi is mora-timed. Rhythm differs from English stress-timing.</text>
+<line x1="20" y1="250" x2="460" y2="250" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="253" width="440" height="14" fill="black"/>
+<text x="240" y="263" text-anchor="middle" class="Hb" fill="white">SECONDARY — RAJASTHANI (राजस्थानी) — PHONOLOGY</text>
+<line x1="20" y1="267" x2="460" y2="267" stroke="black" stroke-width="0.3"/>
+<text x="240" y="276" text-anchor="middle" class="H">— RAJASTHANI — PHONOLOGICAL DISTINCTIONS FROM HINDI —</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">Rajasthani preserves phonological features lost in standard Hindi, plus some unique developments.</text>
+<text x="110" y="296" text-anchor="middle" class="Ls">Tones (Marwari)</text>
+<text x="330" y="296" text-anchor="middle" class="Lx">Some dialects have 2 tones: a feature absent from standard Hindi.</text>
+<text x="110" y="307" text-anchor="middle" class="Ls">Breathy vowels</text>
+<text x="330" y="307" text-anchor="middle" class="Lx">Vowel breathiness (murmured vowels) in some words: distinctive from Hindi.</text>
+<text x="110" y="318" text-anchor="middle" class="Ls">Initial /v-/</text>
+<text x="330" y="318" text-anchor="middle" class="Lx">Where Hindi has /v/, Rajasthani may have /b/ — vaana → baano (clothes).</text>
+<text x="110" y="329" text-anchor="middle" class="Ls">ś → s</text>
+<text x="330" y="329" text-anchor="middle" class="Lx">Some dialects merge /ś/ with /s/ — reduces consonant inventory vs. Hindi.</text>
+<text x="110" y="340" text-anchor="middle" class="Ls">ā → o</text>
+<text x="330" y="340" text-anchor="middle" class="Lx">Final long ā often becomes o: kānā (ear) → kāno (Rajasthani).</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="365" text-anchor="middle" class="H">— RAJASTHANI DIALECTS — MAJOR VARIETIES —</text>
+<text x="95" y="375" text-anchor="middle" class="Ls">Marwari</text>
+<text x="310" y="375" text-anchor="middle" class="Lx">Jodhpur/western Rajasthan. Largest dialect. Tones, breathy vowels. ~14M speakers.</text>
+<text x="95" y="386" text-anchor="middle" class="Ls">Mewari</text>
+<text x="310" y="386" text-anchor="middle" class="Lx">Udaipur area. Mewar kingdom dialect. More archaic vocabulary.</text>
+<text x="95" y="397" text-anchor="middle" class="Ls">Dhundhari</text>
+<text x="310" y="397" text-anchor="middle" class="Lx">Jaipur/eastern Rajasthan. Closer to standard Hindi. Jaipur is capital.</text>
+<text x="95" y="408" text-anchor="middle" class="Ls">Harauti</text>
+<text x="310" y="408" text-anchor="middle" class="Lx">Kota/Bundi area. Transitional to Hindi. Also called Hadoti.</text>
+<text x="95" y="419" text-anchor="middle" class="Ls">Braj Bhasha</text>
+<text x="310" y="419" text-anchor="middle" class="Lx">Mathura/Agra. Classical literary Hindi; influenced Rajasthani court poetry.</text>
+<line x1="20" y1="432" x2="460" y2="432" stroke="black" stroke-width="0.3"/>
+<text x="240" y="440" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — FAMILY RESEMBLANCE —</text>
+<text x="80" y="450" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="450" text-anchor="middle" class="Lx">Hindi</text>
+<text x="380" y="450" text-anchor="middle" class="Lx">Rajasthani</text>
+<text x="80" y="460" text-anchor="middle" class="Lx">Tones</text>
+<text x="235" y="460" text-anchor="middle" class="Lx">No</text>
+<text x="380" y="460" text-anchor="middle" class="Lx">Yes (Marwari dialect)</text>
+<text x="80" y="470" text-anchor="middle" class="Lx">Aspirates</text>
+<text x="235" y="470" text-anchor="middle" class="Lx">4 series (vl/asp/vd/asp-vd)</text>
+<text x="380" y="470" text-anchor="middle" class="Lx">4 series (same)</text>
+<text x="80" y="480" text-anchor="middle" class="Lx">Retroflexes</text>
+<text x="235" y="480" text-anchor="middle" class="Lx">Yes</text>
+<text x="380" y="480" text-anchor="middle" class="Lx">Yes</text>
+<text x="80" y="490" text-anchor="middle" class="Lx">Final vowel</text>
+<text x="235" y="490" text-anchor="middle" class="Lx">-ā preserved</text>
+<text x="380" y="490" text-anchor="middle" class="Lx">-ā → -o (Marwari)</text>
+<text x="80" y="500" text-anchor="middle" class="Lx">Script</text>
+<text x="235" y="500" text-anchor="middle" class="Lx">Devanagari</text>
+<text x="380" y="500" text-anchor="middle" class="Lx">Devanagari (+ Mahajani)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 25B ALT · Hindi / Rajasthani · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

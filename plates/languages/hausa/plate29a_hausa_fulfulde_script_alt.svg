@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAUSA + FULFULDE — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 29A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAUSA — TWO SCRIPTS: BOKO (LATIN) AND AJAʼMI (ARABIC) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hausa is written in two scripts: Boko (Latin-based, standard since ~1930) and Ajaʼmi (Arabic-based, older).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Boko: 23 letters + 6 hooked letters for implosives and a special tone letter. Left to right.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Ajaʼmi: Arabic script adapted for Hausa sounds. Right to left. Still used in religious/traditional contexts.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— HAUSA BOKO ALPHABET — 23 BASE + SPECIAL LETTERS —</text>
+<text x="240" y="117" text-anchor="middle" class="Ls">A B Ɓ C D Ɖ E F G H I J K L M N R S T Ţ U W Y Z</text>
+<text x="240" y="127" text-anchor="middle" class="Lx">Hooked letters: Ɓ (implosive b) · Ɖ (implosive d) · Ţ (ejective ts) · Ƥ (implosive ky)</text>
+<line x1="20" y1="135" x2="460" y2="135" stroke="black" stroke-width="0.3"/>
+<text x="240" y="143" text-anchor="middle" class="H">— HAUSA TONE MARKING —</text>
+<text x="240" y="153" text-anchor="middle" class="Ls">Hausa has 2 lexical tones: HIGH (unmarked or ́) and LOW (̀). Written texts often omit tone marks.</text>
+<text x="240" y="162" text-anchor="middle" class="Lx">Falling tone (̂) = High-Low on one syllable. Tone distinguishes lexical items and grammatical forms.</text>
+<text x="80" y="172" text-anchor="middle" class="Ls">bàɲì</text>
+<text x="200" y="172" text-anchor="middle" class="Lx">root (tree)</text>
+<text x="360" y="172" text-anchor="middle" class="Lx">Low-Low</text>
+<text x="80" y="182" text-anchor="middle" class="Ls">baɲí</text>
+<text x="200" y="182" text-anchor="middle" class="Lx">place</text>
+<text x="360" y="182" text-anchor="middle" class="Lx">Low-High</text>
+<text x="80" y="192" text-anchor="middle" class="Ls">màlàmì</text>
+<text x="200" y="192" text-anchor="middle" class="Lx">teacher (object)</text>
+<text x="360" y="192" text-anchor="middle" class="Lx">LLL</text>
+<text x="80" y="202" text-anchor="middle" class="Ls">màlàmí</text>
+<text x="200" y="202" text-anchor="middle" class="Lx">teacher (subject)</text>
+<text x="360" y="202" text-anchor="middle" class="Lx">LLH</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H">— HAUSA SCRIPT HISTORY —</text>
+<text x="240" y="236" text-anchor="middle" class="Ls">Ajaʼmi: Arabic script adaptation for Hausa dating to the 16th century Sokoto Caliphate and beyond.</text>
+<text x="240" y="245" text-anchor="middle" class="Lx">Boko: introduced by British colonial administration ~1900–1930. Now the official script for government/education.</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="258" width="440" height="14" fill="black"/>
+<text x="240" y="268" text-anchor="middle" class="Hb" fill="white">SECONDARY — FULFULDE (FULA) — SCRIPT · WRITING</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="281" text-anchor="middle" class="H">— FULFULDE — LATIN SCRIPT (STANDARD) AND ADLĄM (INDIGENOUS) —</text>
+<text x="240" y="291" text-anchor="middle" class="Ls">Fulfulde is written primarily in Latin script (regionally standardized versions per country).</text>
+<text x="240" y="300" text-anchor="middle" class="Lx">Adląm: an indigenous script created by Ibrahima and Abdoulaye Barry (Guinea, 1989 CE). Right to left.</text>
+<text x="240" y="309" text-anchor="middle" class="Lx">Adląm is the only modern alphabetic script created specifically for a West African language by its speakers.</text>
+<text x="240" y="318" text-anchor="middle" class="Lx">Unicode range U+1E900–U+1E95F (Adlam block). Gaining adoption in Guinea, Senegal, Nigeria.</text>
+<line x1="20" y1="326" x2="460" y2="326" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H">— FULFULDE LATIN ALPHABET — KEY SPECIAL CHARACTERS —</text>
+<text x="42" y="344" text-anchor="middle" class="Ls">ŋ</text>
+<text x="90" y="344" text-anchor="middle" class="Lx">/ŋ/</text>
+<text x="300" y="344" text-anchor="middle" class="Lx">ng sound: ŋaari (cattle), koŋngol (river)</text>
+<text x="42" y="354" text-anchor="middle" class="Ls">ɓ</text>
+<text x="90" y="354" text-anchor="middle" class="Lx">/ɓ/</text>
+<text x="300" y="354" text-anchor="middle" class="Lx">implosive b: ɓe (here), ɓoofo (wind)</text>
+<text x="42" y="364" text-anchor="middle" class="Ls">ɗ</text>
+<text x="90" y="364" text-anchor="middle" class="Lx">/ɗ/</text>
+<text x="300" y="364" text-anchor="middle" class="Lx">implosive d: ɗiyɔŋ (sun/day), ɗam (water)</text>
+<text x="42" y="374" text-anchor="middle" class="Ls">ƙ</text>
+<text x="90" y="374" text-anchor="middle" class="Lx">/ƙ/</text>
+<text x="300" y="374" text-anchor="middle" class="Lx">implosive ky: ƙŋuŋgu (heart)</text>
+<text x="42" y="384" text-anchor="middle" class="Ls">ɔ</text>
+<text x="90" y="384" text-anchor="middle" class="Lx">/ɔ/</text>
+<text x="300" y="384" text-anchor="middle" class="Lx">open o: ɗiyɔŋ (sun), hɔre (body)</text>
+<text x="42" y="394" text-anchor="middle" class="Ls">ɛ</text>
+<text x="90" y="394" text-anchor="middle" class="Lx">/ɛ/</text>
+<text x="300" y="394" text-anchor="middle" class="Lx">open e: ɛndu (life), jɛlɛ (love)</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H">— SCRIPT BRIDGE — MULTILINGUAL WRITING TRADITIONS —</text>
+<text x="240" y="428" text-anchor="middle" class="Ls">Hausa: 2 scripts (Boko Latin + Ajaʼmi Arabic). Fula: 3 scripts (Latin + Arabic Ajaʼmi + Adląm indigenous).</text>
+<text x="240" y="437" text-anchor="middle" class="Lx">Both communities are majority Muslim — Arabic script common for religious texts in both languages.</text>
+<text x="240" y="446" text-anchor="middle" class="Lx">Adląm is a remarkable modern case of script creation: speakers chose to write their own language themselves.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 29A ALT · Hausa / Fulfulde · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

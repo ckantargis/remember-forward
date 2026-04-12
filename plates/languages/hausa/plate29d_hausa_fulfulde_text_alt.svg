@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAUSA + FULFULDE — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 29D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. HAUSA PROVERB — ON PATIENCE AND TIME —</text>
+<text x="240" y="73" text-anchor="middle" class="L">Hakūri maganin duniyà.</text>
+<text x="240" y="84" text-anchor="middle" class="Lx">Patience medicine-of world.</text>
+<text x="240" y="93" text-anchor="middle" class="F">"Patience is the medicine of the world." — Core Hausa proverb. Hakūri = patience/endurance.</text>
+<line x1="20" y1="101" x2="460" y2="101" stroke="black" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="H">— II. HAUSA PROVERB — ON KNOWLEDGE —</text>
+<text x="240" y="119" text-anchor="middle" class="L">Ilimi kāyà nà kan kāyà.</text>
+<text x="240" y="130" text-anchor="middle" class="Lx">Knowledge  load NEG on  load.</text>
+<text x="240" y="139" text-anchor="middle" class="F">"Knowledge is a load that does not weigh upon other loads." — Hausa saying on the value of education.</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H">— III. HAUSA BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="166" text-anchor="middle" class="L">An yi wannan don ku, ba komi,</text>
+<text x="240" y="178" text-anchor="middle" class="L">daga mutanen da suka tuna gaba.</text>
+<text x="240" y="190" text-anchor="middle" class="Lx">Passive-made this  for you no-cost / from people who COMPL remember forward.</text>
+<text x="240" y="199" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered forward." (Hausa)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">— HAUSA NOTE — “FORWARD” AND “REMEMBER” —</text>
+<text x="240" y="225" text-anchor="middle" class="Ls">Gaba = forward, ahead, front — and by extension: the future. “Tuna gaba” = remember-forward.</text>
+<text x="240" y="234" text-anchor="middle" class="Lx">Tuna = to remember, recall (from Arabic dhikr influence). “An yi” = passive construction (impersonal).</text>
+<line x1="20" y1="244" x2="460" y2="244" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="247" width="440" height="14" fill="black"/>
+<text x="240" y="257" text-anchor="middle" class="Hb" fill="white">SECONDARY — FULFULDE (FULA) — RUNNING TEXT</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="black" stroke-width="0.3"/>
+<text x="240" y="270" text-anchor="middle" class="H">— I. FULFULDE PROVERB — ON CATTLE AND LIFE —</text>
+<text x="240" y="280" text-anchor="middle" class="L">Naŋga wirwiraa, leydi wella.</text>
+<text x="240" y="291" text-anchor="middle" class="Lx">Cattle roam-freely earth becomes-good.</text>
+<text x="240" y="300" text-anchor="middle" class="F">"When cattle roam freely, the earth is good." — Fulani pastoral proverb. Freedom and land as linked.</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="black" stroke-width="0.3"/>
+<text x="240" y="316" text-anchor="middle" class="H">— II. FULFULDE PROVERB — ON MEMORY —</text>
+<text x="240" y="326" text-anchor="middle" class="L">Ko tigiɳaa, ko wollaay.</text>
+<text x="240" y="337" text-anchor="middle" class="Lx">What is-remembered REL not-forgotten.</text>
+<text x="240" y="346" text-anchor="middle" class="F">"What is remembered is not forgotten." — Fulani oral tradition on the value of memory.</text>
+<line x1="20" y1="354" x2="460" y2="354" stroke="black" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H">— III. FULFULDE BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="373" text-anchor="middle" class="L">Oo ko waraama on, ɗon muuyani,</text>
+<text x="240" y="385" text-anchor="middle" class="L">e nder yimbe jiɗɗi ɗam gaweɗi.</text>
+<text x="240" y="397" text-anchor="middle" class="Lx">This PASS made   for-you  freely / in  among people who-remembered forward.</text>
+<text x="240" y="406" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Fulfulde)</text>
+<line x1="20" y1="414" x2="460" y2="414" stroke="black" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="H">— FULFULDE NOTE — “FORWARD / FUTURE” —</text>
+<text x="240" y="432" text-anchor="middle" class="Ls">Gaweɗi = the future, what lies forward/ahead (from gawo “next, after” + ɗi noun class suffix).</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">Tigiɳi = to remember, recall (ɳ = palatal flap, distinctive to Fulfulde phonology).</text>
+<text x="240" y="450" text-anchor="middle" class="Lx">Noun class: gaweɗi carries -ɗi class suffix marking abstract temporal nouns.</text>
+<line x1="20" y1="458" x2="460" y2="458" stroke="black" stroke-width="0.3"/>
+<text x="240" y="466" text-anchor="middle" class="H">— LANGUAGE BRIDGE — THE SAHEL CROSSROADS —</text>
+<text x="240" y="476" text-anchor="middle" class="Ls">Hausa: ~80M speakers (L1+L2). Trade lingua franca of West Africa. Afro-Asiatic family.</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Fulfulde: ~40M speakers. Widest-ranging African language geographically. Niger-Congo family.</text>
+<text x="240" y="494" text-anchor="middle" class="Lx">The Sahel: zone where desert meets savanna — where Hausa merchants and Fulani herders have traded for millennia.</text>
+<text x="240" y="503" text-anchor="middle" class="Lx">Many Hausa-speakers are multilingual in Fulfulde and vice versa. A natural bilingual community.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 29D ALT · Hausa / Fulfulde · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
