@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LINGALA / KONGO (KIKONGO)</text>
+<text x="240" y="44" text-anchor="middle" class="S">BANTU FAMILY · CONGO BASIN · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 33C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LINGALA GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">Word order: SVO · verb carries prefix for subject, object, tense, aspect</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">No separate subject pronouns required — prefix on verb encodes both person and class</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">VERB STRUCTURE: PREFIX + ROOT + EXTENSION + SUFFIX</text>
+<text x="240" y="126" text-anchor="middle" class="Ls">a - lak - I = he/she - arrive - PAST.REMOTE: "he arrived (long ago)"</text>
+<text x="240" y="137" text-anchor="middle" class="Ls">na - boma - ki = I - kill - PAST.NEAR: "I killed (recently)"</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">to - ko - bima = we - FUT - go out: "we will go out"</text>
+<line x1="20" y1="154" x2="460" y2="154" stroke="black" stroke-width="0.3"/>
+<text x="240" y="164" text-anchor="middle" class="H">TENSE / ASPECT SUFFIXES</text>
+<text x="100" y="175" text-anchor="middle" class="Lx">SUFFIX</text>
+<text x="260" y="175" text-anchor="middle" class="Lx">MEANING</text>
+<line x1="20" y1="179" x2="460" y2="179" stroke="black" stroke-width="0.3"/>
+<text x="100" y="188" text-anchor="middle" class="Ls">-a</text>
+<text x="260" y="188" text-anchor="middle" class="Ls">Habitual / present (a-bina = s/he dances)</text>
+<text x="100" y="198" text-anchor="middle" class="Ls">-aki</text>
+<text x="260" y="198" text-anchor="middle" class="Ls">Recent past (a-bina-ki = s/he just danced)</text>
+<text x="100" y="208" text-anchor="middle" class="Ls">-alaki</text>
+<text x="260" y="208" text-anchor="middle" class="Ls">Remote past (a-bina-laki = s/he danced long ago)</text>
+<text x="100" y="218" text-anchor="middle" class="Ls">ko- prefix</text>
+<text x="260" y="218" text-anchor="middle" class="Ls">Future (to-ko-bina = we will dance)</text>
+<line x1="20" y1="223" x2="460" y2="223" stroke="black" stroke-width="0.3"/>
+<text x="240" y="233" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="244" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="244" text-anchor="middle" class="Lx">LINGALA</text>
+<text x="390" y="244" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="248" x2="460" y2="248" stroke="black" stroke-width="0.3"/>
+<text x="100" y="257" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">ngai</text>
+<text x="390" y="257" text-anchor="middle" class="Ls">or: na- (verb prefix)</text>
+<text x="100" y="267" text-anchor="middle" class="Ls">you (sg.)</text>
+<text x="240" y="267" text-anchor="middle" class="Ls">yo</text>
+<text x="390" y="267" text-anchor="middle" class="Ls">o- (verb prefix)</text>
+<text x="100" y="277" text-anchor="middle" class="Ls">we</text>
+<text x="240" y="277" text-anchor="middle" class="Ls">biso</text>
+<text x="390" y="277" text-anchor="middle" class="Ls">to- (verb prefix)</text>
+<text x="100" y="287" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="287" text-anchor="middle" class="Ls">mai</text>
+<text x="390" y="287" text-anchor="middle" class="Ls">class 6 (ma-)</text>
+<text x="100" y="297" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="297" text-anchor="middle" class="Ls">kolia</text>
+<text x="390" y="297" text-anchor="middle" class="Ls">infinitive ko-lia</text>
+<text x="100" y="307" text-anchor="middle" class="Ls">go</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">kokende</text>
+<text x="390" y="307" text-anchor="middle" class="Ls">infinitive (ko + kend)</text>
+<text x="100" y="317" text-anchor="middle" class="Ls">love / want</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">kolinga</text>
+<text x="390" y="317" text-anchor="middle" class="Ls">ko-ling-a</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="332" width="440" height="14" fill="black"/>
+<text x="240" y="342" text-anchor="middle" class="Hb" fill="white">KONGO (KIKONGO) — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="353" text-anchor="middle" class="H">— KONGO GRAMMAR —</text>
+<text x="240" y="364" text-anchor="middle" class="Ls">Word order: SVO · agglutinative · 15 noun classes with full concord system</text>
+<text x="240" y="375" text-anchor="middle" class="Ls">Verb: SUBJECT PREFIX + TENSE MARKER + ROOT + EXTENSION(S) + FINAL VOWEL</text>
+<line x1="20" y1="381" x2="460" y2="381" stroke="black" stroke-width="0.3"/>
+<text x="240" y="391" text-anchor="middle" class="H">KONGO VERB STRUCTURE</text>
+<text x="240" y="402" text-anchor="middle" class="Ls">u - di - - - a = you - PRES - eat - FV: "you eat"</text>
+<text x="240" y="413" text-anchor="middle" class="Ls">mu - mono - ku - sumb - il - e = he-who I-saw buy-APPL-PAST: "who I saw buying for"</text>
+<text x="240" y="424" text-anchor="middle" class="Ls">Relative clauses embedded in verb morphology — highly synthetic structure</text>
+<line x1="20" y1="430" x2="460" y2="430" stroke="black" stroke-width="0.3"/>
+<text x="240" y="440" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="451" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="451" text-anchor="middle" class="Lx">KONGO (KIKONGO)</text>
+<text x="390" y="451" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="455" x2="460" y2="455" stroke="black" stroke-width="0.3"/>
+<text x="100" y="464" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">mono</text>
+<text x="390" y="464" text-anchor="middle" class="Ls">mu- verb prefix</text>
+<text x="100" y="474" text-anchor="middle" class="Ls">you (sg.)</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">ngeye</text>
+<text x="390" y="474" text-anchor="middle" class="Ls">u- verb prefix</text>
+<text x="100" y="484" text-anchor="middle" class="Ls">we</text>
+<text x="240" y="484" text-anchor="middle" class="Ls">beto</text>
+<text x="390" y="484" text-anchor="middle" class="Ls">tu- verb prefix</text>
+<text x="100" y="494" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="494" text-anchor="middle" class="Ls">masa</text>
+<text x="390" y="494" text-anchor="middle" class="Ls">cf. Lingala mai</text>
+<text x="100" y="504" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="504" text-anchor="middle" class="Ls">dia</text>
+<text x="390" y="504" text-anchor="middle" class="Ls">cf. Lingala lia</text>
+<text x="100" y="514" text-anchor="middle" class="Ls">person</text>
+<text x="240" y="514" text-anchor="middle" class="Ls">muntu</text>
+<text x="390" y="514" text-anchor="middle" class="Ls">pl. bantu = people</text>
+<text x="100" y="524" text-anchor="middle" class="Ls">God / spirit</text>
+<text x="240" y="524" text-anchor="middle" class="Ls">Nzambi</text>
+<text x="390" y="524" text-anchor="middle" class="Ls">supreme being</text>
+<line x1="20" y1="529" x2="460" y2="529" stroke="black" stroke-width="0.3"/>
+<text x="240" y="539" text-anchor="middle" class="H">SURVIVAL PHRASES</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">Mbote! = Hello! (both Lingala and Kongo share this greeting)</text>
+<text x="240" y="561" text-anchor="middle" class="Ls">Mono ve nlangu. = I have no water. (Kongo)</text>
+<text x="240" y="572" text-anchor="middle" class="Ls">Sala malamu! = Work well! / Farewell! (Lingala)</text>
+<text x="240" y="583" text-anchor="middle" class="Ls">Wiza awa! = Come here! (Kongo)</text>
+<line x1="20" y1="589" x2="460" y2="589" stroke="black" stroke-width="0.3"/>
+<text x="240" y="599" text-anchor="middle" class="H">GRAMMATICAL PARALLEL</text>
+<text x="240" y="610" text-anchor="middle" class="Ls">Both: agglutinative verb morphology · noun class concord · SVO · Bantu extensions</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 33C ALT · LINGALA / KONGO · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MALAY (BAHASA MELAYU) / MINANGKABAU (BASO MINANG)</text>
+<text x="240" y="44" text-anchor="middle" class="S">AUSTRONESIAN · MALAYO-POLYNESIAN · SISTER LANGUAGES · ~450MI APART</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 19A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MALAY: SCRIPT &amp; WRITING SYSTEMS —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Two scripts in active use: RUMI (Latin) and JAWI (Arabic-based)</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Rumi: standard in Malaysia, Indonesia (as Bahasa Indonesia), Singapore, Brunei</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Jawi: traditional script, still used in religious texts, Brunei official, Kelantan</text>
+<line x1="20" y1="117" x2="460" y2="117" stroke="black" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">JAWI SCRIPT (ARABIC-BASED)</text>
+<text x="240" y="138" text-anchor="middle" class="Ls">Adapted from Arabic abjad (right-to-left) with 6 added letters for Malay sounds</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Added: ca (چ) · nga · pa · ga · nya · va — not in Arabic</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Vowels marked partially (as in Arabic harakat); often omitted in daily texts</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">Historical: Malay was written in Jawi for ~700 years before Rumi was adopted</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">MALAY PHONOLOGY OVERVIEW</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">6 vowels: /a e ə i o u/ · schwa /ə/ in unstressed syllables</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">No tones · stress: penultimate syllable (with schwa exceptions)</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">Final consonant allowed: /p t k m n ŋ l r h/ (but many reduce to glottal stop)</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="236" text-anchor="middle" class="H">CONSONANT INVENTORY</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">/p b t d k g/ · /m n ŋ/ · /f v s z/ · /tʃ dʒ/ · /r l/ · /h j w/</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Glottal stop at word-final position (bakul /bakUʔ/ basket)</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H">MORPHOLOGY: AFFIXATION</text>
+<text x="240" y="285" text-anchor="middle" class="Ls">Prefix me-: verb-forming from nouns/adjectives</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">Prefix pe-: agentive (pelari = runner, from lari = run)</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">Suffix -an: nominalization (makanan = food, from makan = eat)</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">Circumfix me-...-kan: causative transitivizer (me-lari-kan = to make run)</text>
+<line x1="20" y1="324" x2="460" y2="324" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H">SAMPLE WORDS</text>
+<text x="240" y="345" text-anchor="middle" class="Ls">air (water) · makan (eat) · rumah (house) · saya (I) · anda (you formal)</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="360" width="440" height="14" fill="black"/>
+<text x="240" y="370" text-anchor="middle" class="Hb" fill="white">MINANGKABAU (BASO MINANG) — W. SUMATRA · ~6M SPEAKERS</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H">— MINANGKABAU: SCRIPT &amp; SOUNDS —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Script: Latin (primary) and Jawi (traditional) — same as Malay</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">Closely related to Malay but DISTINCT language with significant differences</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H">KEY PHONOLOGICAL DIFFERENCES FROM MALAY</text>
+<text x="100" y="431" text-anchor="middle" class="Lx">MALAY</text>
+<text x="240" y="431" text-anchor="middle" class="Lx">FEATURE</text>
+<text x="380" y="431" text-anchor="middle" class="Lx">MINANGKABAU</text>
+<line x1="20" y1="435" x2="460" y2="435" stroke="black" stroke-width="0.3"/>
+<text x="100" y="444" text-anchor="middle" class="Ls">rumah</text>
+<text x="240" y="444" text-anchor="middle" class="Ls">house (final -h)</text>
+<text x="380" y="444" text-anchor="middle" class="Ls">rumah</text>
+<text x="100" y="454" text-anchor="middle" class="Ls">malam</text>
+<text x="240" y="454" text-anchor="middle" class="Ls">night (-m final)</text>
+<text x="380" y="454" text-anchor="middle" class="Ls">malam</text>
+<text x="100" y="464" text-anchor="middle" class="Ls">apa</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">what</text>
+<text x="380" y="464" text-anchor="middle" class="Ls">apo</text>
+<text x="100" y="474" text-anchor="middle" class="Ls">saya</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">I (formal)</text>
+<text x="380" y="474" text-anchor="middle" class="Ls">ambo / den</text>
+<text x="100" y="484" text-anchor="middle" class="Ls">tidak</text>
+<text x="240" y="484" text-anchor="middle" class="Ls">no / not</text>
+<text x="380" y="484" text-anchor="middle" class="Ls">indak / indeh</text>
+<line x1="20" y1="489" x2="460" y2="489" stroke="black" stroke-width="0.3"/>
+<text x="240" y="499" text-anchor="middle" class="H">MINANGKABAU VOWELS</text>
+<text x="240" y="510" text-anchor="middle" class="Ls">Final /a/ in Malay often corresponds to /o/ in Minangkabau</text>
+<text x="240" y="521" text-anchor="middle" class="Ls">saya → ambo · apa → apo · kita → kito · dia → inyo</text>
+<text x="240" y="532" text-anchor="middle" class="Ls">This -a → -o shift is a consistent diagnostic of Minang vs Malay</text>
+<line x1="20" y1="538" x2="460" y2="538" stroke="black" stroke-width="0.3"/>
+<text x="240" y="548" text-anchor="middle" class="H">UNIQUE MINANGKABAU SOUNDS</text>
+<text x="240" y="559" text-anchor="middle" class="Ls">/au/ diphthong in Malay becomes /o/ in Minang: kalau → kalo (if)</text>
+<text x="240" y="570" text-anchor="middle" class="Ls">/ai/ diphthong → /e/ in Minang: pakai → pake (use)</text>
+<line x1="20" y1="576" x2="460" y2="576" stroke="black" stroke-width="0.3"/>
+<text x="240" y="586" text-anchor="middle" class="H">SAMPLE WORDS (MINANGKABAU)</text>
+<text x="240" y="597" text-anchor="middle" class="Ls">ambo (I) · ang / awak (you) · inyo (s/he) · kito (we, incl.)</text>
+<text x="240" y="608" text-anchor="middle" class="Ls">aie (water) · makan (eat — same!) · rumah gadang (great house, matrilineal home)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 19A ALT · MALAY / MINANGKABAU · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

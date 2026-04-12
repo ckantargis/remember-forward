@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MONGOLIAN (монгол хэл) / KAZAKH (қазақ тілі)</text>
+<text x="240" y="44" text-anchor="middle" class="S">MONGOLIC / TURKIC · EURASIAN STEPPE · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 57B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MONGOLIAN PHONOLOGY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">VOWEL HARMONY IN DETAIL</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Mongolian has 2 vowel sets. Every word belongs to one set; all suffixes follow:</text>
+<text x="100" y="110" text-anchor="middle" class="Lx">BACK VOWELS</text>
+<text x="300" y="110" text-anchor="middle" class="Lx">FRONT VOWELS</text>
+<line x1="20" y1="114" x2="460" y2="114" stroke="black" stroke-width="0.3"/>
+<text x="100" y="123" text-anchor="middle" class="Ls">a /a/ → а</text>
+<text x="300" y="123" text-anchor="middle" class="Ls">э /ɛ/ (open-mid front)</text>
+<text x="100" y="133" text-anchor="middle" class="Ls">o /o/ → о</text>
+<text x="300" y="133" text-anchor="middle" class="Ls">ө /ø/ (front rounded)</text>
+<text x="100" y="143" text-anchor="middle" class="Ls">u /u/ → у</text>
+<text x="300" y="143" text-anchor="middle" class="Ls">ү /y/ (front rounded)</text>
+<text x="100" y="153" text-anchor="middle" class="Ls">i /ɪ/ neutral</text>
+<text x="300" y="153" text-anchor="middle" class="Ls">i /i/ (can be in either)</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="black" stroke-width="0.3"/>
+<text x="240" y="168" text-anchor="middle" class="H">CONSONANTS: NOTABLE FEATURES</text>
+<text x="240" y="179" text-anchor="middle" class="Ls">No phoneme /p/ in native Mongolian words (only in loanwords)</text>
+<text x="240" y="190" text-anchor="middle" class="Ls">Pharyngeal/uvular consonants: /ʁ/ (written r/R) and /ɢ/ (written G)</text>
+<text x="240" y="201" text-anchor="middle" class="Ls">Word-initial consonants are strong; word-final consonants weaken</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="black" stroke-width="0.3"/>
+<text x="240" y="217" text-anchor="middle" class="H">LONG VOWELS: PHONEMICALLY DISTINCT</text>
+<text x="240" y="228" text-anchor="middle" class="Ls">уур /u:r/ (ur, door) vs ур /ur/ (ur, place name) — length changes meaning</text>
+<text x="240" y="239" text-anchor="middle" class="Ls">хүү (khuu) = son vs хү (khu) = man/human — length distinction</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="black" stroke-width="0.3"/>
+<text x="240" y="255" text-anchor="middle" class="H">MONGOLIAN CASE ENDINGS (7 CASES)</text>
+<text x="100" y="266" text-anchor="middle" class="Lx">CASE</text>
+<text x="240" y="266" text-anchor="middle" class="Lx">SUFFIX (BACK)</text>
+<text x="390" y="266" text-anchor="middle" class="Lx">MEANING</text>
+<line x1="20" y1="270" x2="460" y2="270" stroke="black" stroke-width="0.3"/>
+<text x="100" y="279" text-anchor="middle" class="Ls">Nominative</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">(zero suffix)</text>
+<text x="390" y="279" text-anchor="middle" class="Ls">Subject</text>
+<text x="100" y="289" text-anchor="middle" class="Ls">Genitive</text>
+<text x="240" y="289" text-anchor="middle" class="Ls">-ын / -ийн</text>
+<text x="390" y="289" text-anchor="middle" class="Ls">Possession</text>
+<text x="100" y="299" text-anchor="middle" class="Ls">Dative</text>
+<text x="240" y="299" text-anchor="middle" class="Ls">-д</text>
+<text x="390" y="299" text-anchor="middle" class="Ls">To/at</text>
+<text x="100" y="309" text-anchor="middle" class="Ls">Accusative</text>
+<text x="240" y="309" text-anchor="middle" class="Ls">-ийг / -г</text>
+<text x="390" y="309" text-anchor="middle" class="Ls">Direct object</text>
+<text x="100" y="319" text-anchor="middle" class="Ls">Ablative</text>
+<text x="240" y="319" text-anchor="middle" class="Ls">-аас / -ээс</text>
+<text x="390" y="319" text-anchor="middle" class="Ls">From</text>
+<text x="100" y="329" text-anchor="middle" class="Ls">Instrumental</text>
+<text x="240" y="329" text-anchor="middle" class="Ls">-аар / -ээр</text>
+<text x="390" y="329" text-anchor="middle" class="Ls">With/by means of</text>
+<text x="100" y="339" text-anchor="middle" class="Ls">Comitative</text>
+<text x="240" y="339" text-anchor="middle" class="Ls">-тай / -тэй</text>
+<text x="390" y="339" text-anchor="middle" class="Ls">Together with</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="354" width="440" height="14" fill="black"/>
+<text x="240" y="364" text-anchor="middle" class="Hb" fill="white">KAZAKH (қазақ тілі) — PHONOLOGY</text>
+<line x1="20" y1="368" x2="460" y2="368" stroke="black" stroke-width="0.3"/>
+<text x="240" y="376" text-anchor="middle" class="H">— KAZAKH PHONOLOGY —</text>
+<text x="240" y="387" text-anchor="middle" class="H">VOWEL HARMONY: FRONT/BACK + ROUNDING</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Kazakh has 9 vowels: 4 back (a o u ы) + 4 front (ә ө ү і) + 1 neutral (i)</text>
+<text x="240" y="409" text-anchor="middle" class="Ls">Rounding harmony: in some dialects, rounded back → rounded in suffixes</text>
+<text x="240" y="420" text-anchor="middle" class="Ls">Plural: -lar/-ler/-dar/-der/-tar/-ter (8 forms!) determined by harmony + voicing</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="436" text-anchor="middle" class="H">DISTINCTIVE KAZAKH CONSONANTS</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">/q/ (uvular stop) · /ʁ/ (uvular fricative) · /ŋ/ (velar nasal) · /ħ/ (pharyngeal)</text>
+<text x="240" y="458" text-anchor="middle" class="Ls">These uvular/pharyngeal consonants mark Turkic vs Mongolic distinction</text>
+<text x="240" y="469" text-anchor="middle" class="Ls">Kazakh lacks /p/ in native words (like Mongolian!) — parallel restriction</text>
+<line x1="20" y1="475" x2="460" y2="475" stroke="black" stroke-width="0.3"/>
+<text x="240" y="485" text-anchor="middle" class="H">KAZAKH CASE SYSTEM (7 CASES)</text>
+<text x="100" y="496" text-anchor="middle" class="Lx">CASE</text>
+<text x="240" y="496" text-anchor="middle" class="Lx">SUFFIX</text>
+<text x="390" y="496" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="500" x2="460" y2="500" stroke="black" stroke-width="0.3"/>
+<text x="100" y="509" text-anchor="middle" class="Ls">Nominative</text>
+<text x="240" y="509" text-anchor="middle" class="Ls">(zero)</text>
+<text x="390" y="509" text-anchor="middle" class="Ls">ат (horse)</text>
+<text x="100" y="519" text-anchor="middle" class="Ls">Genitive</text>
+<text x="240" y="519" text-anchor="middle" class="Ls">-ның/-нің</text>
+<text x="390" y="519" text-anchor="middle" class="Ls">ат-тың (of the horse)</text>
+<text x="100" y="529" text-anchor="middle" class="Ls">Dative</text>
+<text x="240" y="529" text-anchor="middle" class="Ls">-ға/-ге</text>
+<text x="390" y="529" text-anchor="middle" class="Ls">ат-қа (to the horse)</text>
+<text x="100" y="539" text-anchor="middle" class="Ls">Accusative</text>
+<text x="240" y="539" text-anchor="middle" class="Ls">-ны/-ні</text>
+<text x="390" y="539" text-anchor="middle" class="Ls">ат-ты (the horse, obj)</text>
+<text x="100" y="549" text-anchor="middle" class="Ls">Locative</text>
+<text x="240" y="549" text-anchor="middle" class="Ls">-да/-де</text>
+<text x="390" y="549" text-anchor="middle" class="Ls">үй-де (in the house)</text>
+<line x1="20" y1="554" x2="460" y2="554" stroke="black" stroke-width="0.3"/>
+<text x="240" y="564" text-anchor="middle" class="H">STEPPE PHONOLOGICAL PARALLEL</text>
+<text x="240" y="575" text-anchor="middle" class="Ls">Both Mongolian and Kazakh: no /p/ in native words, vowel harmony, SOV</text>
+<text x="240" y="586" text-anchor="middle" class="Ls">Different families (Mongolic vs Turkic) — parallel features from parallel ecology</text>
+<text x="240" y="597" text-anchor="middle" class="Ls">Steppe languages converge: long contact, trade, intermarriage over centuries</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 57B ALT · MONGOLIAN / KAZAKH · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

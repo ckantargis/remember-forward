@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MONGOLIAN (монгол хэл) / KAZAKH (қазақ тілі)</text>
+<text x="240" y="44" text-anchor="middle" class="S">MONGOLIC / TURKIC · EURASIAN STEPPE · HISTORY &amp; LEGACY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 57D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MONGOLIAN: HISTORY &amp; EMPIRE —</text>
+<text x="240" y="88" text-anchor="middle" class="H">CHINGGIS KHAN AND THE MONGOL EMPIRE (~1206–1368 CE)</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">1206: Temujin unifies Mongol tribes; proclaimed Chinggis (Genghis) Khan</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Peak territory: ~24M km² — largest contiguous empire in human history</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Covered: China, Persia, Russia, Central Asia, Korea, parts of SE Europe</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">THE ‘PHAGS-PA SCRIPT (1269 CE)</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Khublai Khan commissioned a universal script for all empire languages</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">‘Phags-pa: designed by Tibetan monk Drogon Chogyal Phagpa — square Brahmi-based</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Used briefly; replaced by traditional Mongolian script in practice</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">TRADITIONAL SCRIPT &amp; LITERACY</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">Traditional Mongolian script: created ~1204 CE, based on Old Uyghur</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Unique vertical orientation: the only surviving major vertical-LTR script</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">The Secret History of the Mongols (~1240): oldest Mongolian literary work</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H">MODERN MONGOLIA</text>
+<text x="240" y="246" text-anchor="middle" class="Ls">1924: Mongolian People's Republic (Soviet satellite) · 1990: democratic transition</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">1941: Cyrillic adopted · 2020: traditional script revival mandated alongside Cyrillic</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">Inner Mongolia (China): ~4M speakers, traditional script officially maintained</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">SURVIVAL PHRASE</text>
+<text x="240" y="295" text-anchor="middle" class="Lx">Энэ чамыгла үнэ хүмүүсийн харсаан видэвчидийн хүмүүсэлэр чинээп үйлдүвсэн.</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">(үнэхүмүүс = forward; чинэ = with/by — instrumental case)</text>
+<line x1="20" y1="330" x2="460" y2="330" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="333" width="440" height="14" fill="black"/>
+<text x="240" y="343" text-anchor="middle" class="Hb" fill="white">KAZAKH (қазақ тілі) — HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="347" x2="460" y2="347" stroke="black" stroke-width="0.3"/>
+<text x="240" y="355" text-anchor="middle" class="H">— KAZAKH: THE GREAT STEPPE CIVILIZATION —</text>
+<text x="240" y="366" text-anchor="middle" class="H">KAZAKH KHANATE (1465 CE) AND THE ZHUZ SYSTEM</text>
+<text x="240" y="377" text-anchor="middle" class="Ls">Kazakh identity emerged ~1465 when Sultans Kerei and Janibek broke from Uzbek Khanate</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">Organized into 3 zhuz (hordes): Great Zhuz · Middle Zhuz · Small Zhuz</text>
+<text x="240" y="399" text-anchor="middle" class="Ls">Zhuz system reflects pastoral territory divisions; clans within each zhuz</text>
+<line x1="20" y1="405" x2="460" y2="405" stroke="black" stroke-width="0.3"/>
+<text x="240" y="415" text-anchor="middle" class="H">NOMADIC LIFE: YURT, HORSE, EAGLE</text>
+<text x="240" y="426" text-anchor="middle" class="Ls">Yurt (kiyiz үй): portable felt dwelling — central to Kazakh identity and oral tradition</text>
+<text x="240" y="437" text-anchor="middle" class="Ls">Eagle hunting (berkutchi): falconry with golden eagles — UNESCO 2016 heritage</text>
+<text x="240" y="448" text-anchor="middle" class="Ls">Dombra: 2-string lute; oral epics (zhyrau) performed to dombra accompaniment</text>
+<line x1="20" y1="454" x2="460" y2="454" stroke="black" stroke-width="0.3"/>
+<text x="240" y="464" text-anchor="middle" class="H">RUSSIAN COLONIZATION &amp; SOVIET PERIOD</text>
+<text x="240" y="475" text-anchor="middle" class="Ls">1731–48: Kazakhs accepted Russian protectorate under nomadic pressure</text>
+<text x="240" y="486" text-anchor="middle" class="Ls">1929–33: Soviet collectivization killed ~1.5M Kazakhs (Asharshylyk famine)</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">1936: Kazakh SSR formed · 1991: Republic of Kazakhstan independent</text>
+<line x1="20" y1="503" x2="460" y2="503" stroke="black" stroke-width="0.3"/>
+<text x="240" y="513" text-anchor="middle" class="H">SCRIPT TRANSITIONS: ARABIC → CYRILLIC → LATIN</text>
+<text x="240" y="524" text-anchor="middle" class="Ls">Arabic script used until 1929 · 1929: Latin · 1940: Cyrillic (Soviet policy)</text>
+<text x="240" y="535" text-anchor="middle" class="Ls">2017: President Nazarbayev announced return to Latin by 2025 (now 2031)</text>
+<text x="240" y="546" text-anchor="middle" class="Ls">Three scripts = three different literacies in living Kazakh speakers today</text>
+<line x1="20" y1="552" x2="460" y2="552" stroke="black" stroke-width="0.3"/>
+<text x="240" y="562" text-anchor="middle" class="H">WESTERN MONGOLIA: WHERE KAZAKH AND MONGOLIAN MEET</text>
+<text x="240" y="573" text-anchor="middle" class="Ls">Bayan-Olgii province: ~90% ethnic Kazakh, within Mongolia's borders</text>
+<text x="240" y="584" text-anchor="middle" class="Ls">Trilingual area: Kazakh · Mongolian · Russian spoken in same households</text>
+<line x1="20" y1="590" x2="460" y2="590" stroke="black" stroke-width="0.3"/>
+<text x="240" y="600" text-anchor="middle" class="H">SURVIVAL PHRASE (KAZAKH)</text>
+<text x="240" y="611" text-anchor="middle" class="Lx">Бұл сіздің үшін жасалған, тегін, алға асқан адамдар жасаған.</text>
+<text x="240" y="622" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 57D ALT · MONGOLIAN / KAZAKH · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

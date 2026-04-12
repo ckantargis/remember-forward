@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MALAY (BAHASA MELAYU) / MINANGKABAU (BASO MINANG)</text>
+<text x="240" y="44" text-anchor="middle" class="S">AUSTRONESIAN · MALAYO-POLYNESIAN · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 19C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MALAY GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">Highly analytic: no case, no grammatical gender, no verb conjugation for person</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">No tense marking on verbs — time expressed by adverbs (semalam, esok, sekarang)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">SVO word order · adjectives follow nouns · question words in-situ</text>
+<line x1="20" y1="116" x2="460" y2="116" stroke="black" stroke-width="0.3"/>
+<text x="240" y="126" text-anchor="middle" class="H">MALAY AFFIXATION SYSTEM</text>
+<text x="100" y="137" text-anchor="middle" class="Lx">AFFIX</text>
+<text x="240" y="137" text-anchor="middle" class="Lx">FUNCTION</text>
+<text x="390" y="137" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="141" x2="460" y2="141" stroke="black" stroke-width="0.3"/>
+<text x="100" y="150" text-anchor="middle" class="Ls">me-</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Active transitive verb</text>
+<text x="390" y="150" text-anchor="middle" class="Ls">makan → memakan</text>
+<text x="100" y="160" text-anchor="middle" class="Ls">di-</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Passive verb</text>
+<text x="390" y="160" text-anchor="middle" class="Ls">dimakan (is eaten)</text>
+<text x="100" y="170" text-anchor="middle" class="Ls">-kan</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Causative/benefactive</text>
+<text x="390" y="170" text-anchor="middle" class="Ls">makankan (feed to)</text>
+<text x="100" y="180" text-anchor="middle" class="Ls">-an</text>
+<text x="240" y="180" text-anchor="middle" class="Ls">Nominalization</text>
+<text x="390" y="180" text-anchor="middle" class="Ls">makanan (food)</text>
+<text x="100" y="190" text-anchor="middle" class="Ls">ter-</text>
+<text x="240" y="190" text-anchor="middle" class="Ls">Accidental/superlative</text>
+<text x="390" y="190" text-anchor="middle" class="Ls">termakan (accidentally eaten)</text>
+<text x="100" y="200" text-anchor="middle" class="Ls">ber-</text>
+<text x="240" y="200" text-anchor="middle" class="Ls">Stative / intransitive</text>
+<text x="390" y="200" text-anchor="middle" class="Ls">berjalan (to walk)</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="226" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="226" text-anchor="middle" class="Lx">MALAY</text>
+<text x="390" y="226" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="230" x2="460" y2="230" stroke="black" stroke-width="0.3"/>
+<text x="100" y="239" text-anchor="middle" class="Ls">I</text>
+<text x="240" y="239" text-anchor="middle" class="Ls">saya (formal) / aku (informal)</text>
+<text x="390" y="239" text-anchor="middle" class="Ls">context-dependent</text>
+<text x="100" y="249" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="249" text-anchor="middle" class="Ls">anda (formal) / kamu / engkau</text>
+<text x="390" y="249" text-anchor="middle" class="Ls">register varies</text>
+<text x="100" y="259" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="259" text-anchor="middle" class="Ls">air</text>
+<text x="390" y="259" text-anchor="middle" class="Ls">pronounced /a.ir/</text>
+<text x="100" y="269" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="269" text-anchor="middle" class="Ls">makan</text>
+<text x="390" y="269" text-anchor="middle" class="Ls">no inflection</text>
+<text x="100" y="279" text-anchor="middle" class="Ls">go</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">pergi</text>
+<text x="390" y="279" text-anchor="middle" class="Ls">also: pi (informal)</text>
+<text x="100" y="289" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="289" text-anchor="middle" class="Ls">tidak / tak</text>
+<text x="390" y="289" text-anchor="middle" class="Ls">tidak=formal, tak=informal</text>
+<line x1="20" y1="301" x2="460" y2="301" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="304" width="440" height="14" fill="black"/>
+<text x="240" y="314" text-anchor="middle" class="Hb" fill="white">MINANGKABAU — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H">— MINANGKABAU GRAMMAR —</text>
+<text x="240" y="336" text-anchor="middle" class="Ls">Same analytic structure as Malay: no case, gender, or tense conjugation</text>
+<text x="240" y="347" text-anchor="middle" class="Ls">SVO word order · adjectives follow nouns · question words in-situ</text>
+<text x="240" y="358" text-anchor="middle" class="Ls">Affixation system parallel to Malay with some differences in forms</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="374" text-anchor="middle" class="H">PRONOMINAL SYSTEM (MINANGKABAU)</text>
+<text x="100" y="385" text-anchor="middle" class="Lx">PERSON</text>
+<text x="240" y="385" text-anchor="middle" class="Lx">MINANGKABAU</text>
+<text x="380" y="385" text-anchor="middle" class="Lx">MALAY EQUIV.</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="black" stroke-width="0.3"/>
+<text x="100" y="398" text-anchor="middle" class="Ls">1st sg.</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">ambo / den (m.) / den (f.)</text>
+<text x="380" y="398" text-anchor="middle" class="Ls">saya / aku</text>
+<text x="100" y="408" text-anchor="middle" class="Ls">2nd sg.</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">ang / awak</text>
+<text x="380" y="408" text-anchor="middle" class="Ls">kamu / anda</text>
+<text x="100" y="418" text-anchor="middle" class="Ls">3rd sg.</text>
+<text x="240" y="418" text-anchor="middle" class="Ls">inyo</text>
+<text x="380" y="418" text-anchor="middle" class="Ls">dia</text>
+<text x="100" y="428" text-anchor="middle" class="Ls">1st pl. incl.</text>
+<text x="240" y="428" text-anchor="middle" class="Ls">kito</text>
+<text x="380" y="428" text-anchor="middle" class="Ls">kita</text>
+<text x="100" y="438" text-anchor="middle" class="Ls">1st pl. excl.</text>
+<text x="240" y="438" text-anchor="middle" class="Ls">awak / kami</text>
+<text x="380" y="438" text-anchor="middle" class="Ls">kami</text>
+<line x1="20" y1="443" x2="460" y2="443" stroke="black" stroke-width="0.3"/>
+<text x="240" y="453" text-anchor="middle" class="H">CORE VOCABULARY COMPARISON</text>
+<text x="100" y="464" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="464" text-anchor="middle" class="Lx">MINANGKABAU</text>
+<text x="380" y="464" text-anchor="middle" class="Lx">MALAY</text>
+<line x1="20" y1="468" x2="460" y2="468" stroke="black" stroke-width="0.3"/>
+<text x="100" y="477" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="477" text-anchor="middle" class="Ls">aie</text>
+<text x="380" y="477" text-anchor="middle" class="Ls">air</text>
+<text x="100" y="487" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="487" text-anchor="middle" class="Ls">makan</text>
+<text x="380" y="487" text-anchor="middle" class="Ls">makan</text>
+<text x="100" y="497" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">indak / indeh</text>
+<text x="380" y="497" text-anchor="middle" class="Ls">tidak / tak</text>
+<text x="100" y="507" text-anchor="middle" class="Ls">house</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">rumah</text>
+<text x="380" y="507" text-anchor="middle" class="Ls">rumah</text>
+<text x="100" y="517" text-anchor="middle" class="Ls">what</text>
+<text x="240" y="517" text-anchor="middle" class="Ls">apo</text>
+<text x="380" y="517" text-anchor="middle" class="Ls">apa</text>
+<line x1="20" y1="522" x2="460" y2="522" stroke="black" stroke-width="0.3"/>
+<text x="240" y="532" text-anchor="middle" class="H">SURVIVAL PHRASES</text>
+<text x="240" y="543" text-anchor="middle" class="Ls">Ambo ndak minum aie. = I want to drink water. (Minang)</text>
+<text x="240" y="554" text-anchor="middle" class="Ls">Saya mahu minum air. = I want to drink water. (Malay)</text>
+<text x="240" y="565" text-anchor="middle" class="Ls">Di ma rumah sakit? = Where is the hospital? (Minang: di ma = where)</text>
+<text x="240" y="576" text-anchor="middle" class="Ls">Di mana hospital? = Where is the hospital? (Malay)</text>
+<line x1="20" y1="582" x2="460" y2="582" stroke="black" stroke-width="0.3"/>
+<text x="240" y="592" text-anchor="middle" class="H">ADAT MINANGKABAU: CUSTOM AS GRAMMAR</text>
+<text x="240" y="603" text-anchor="middle" class="Ls">Minangkabau society organized by matrilineal clans (suku) — language reflects this</text>
+<text x="240" y="614" text-anchor="middle" class="Ls">Rumah gadang (great house) belongs to the women's clan — law encoded in speech</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 19C ALT · MALAY / MINANGKABAU · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

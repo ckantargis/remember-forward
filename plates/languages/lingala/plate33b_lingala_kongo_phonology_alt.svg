@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LINGALA / KONGO (KIKONGO)</text>
+<text x="240" y="44" text-anchor="middle" class="S">BANTU FAMILY · CONGO BASIN · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 33B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LINGALA PHONOLOGY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">TONE SYSTEM IN DEPTH</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Lingala has 2 register tones: HIGH (H) marked with acute accent, LOW (L) unmarked</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Downstep: H after L-H sequence may be phonetically lower than preceding H</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Floating tones: grammatical morphemes carry tone without phonological host</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">TONE AND GRAMMAR</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">ko-bina (to dance) vs na-bi-na-kI (I am dancing) — tone shift marks aspect</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">a-lak-I (he/she arrived, past) vs a-lak-a (he/she arrives, habitual)</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Subject prefix tone + verb tone = grammatical tense/aspect encoding</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">VOWELS</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">Five vowels: /a e i o u/ — all short; no phonemic vowel length in Lingala</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Lingala simplified Proto-Bantu's 7-vowel system to 5 (merged /e/ and /ɛ/, /o/ and /ɔ/)</text>
+<line x1="20" y1="214" x2="460" y2="214" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H">VERB EXTENSIONS (BANTU DERIVATIONAL MORPHOLOGY)</text>
+<text x="100" y="235" text-anchor="middle" class="Lx">EXTENSION</text>
+<text x="240" y="235" text-anchor="middle" class="Lx">MEANING</text>
+<text x="390" y="235" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="239" x2="460" y2="239" stroke="black" stroke-width="0.3"/>
+<text x="100" y="248" text-anchor="middle" class="Ls">-is-</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Causative ("make/cause to")</text>
+<text x="390" y="248" text-anchor="middle" class="Ls">loba → lobisa (cause to speak)</text>
+<text x="100" y="258" text-anchor="middle" class="Ls">-am-</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Passive / stative</text>
+<text x="390" y="258" text-anchor="middle" class="Ls">boma → bomama (be killed)</text>
+<text x="100" y="268" text-anchor="middle" class="Ls">-an-</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">Reciprocal ("each other")</text>
+<text x="390" y="268" text-anchor="middle" class="Ls">linga → lingana (love each other)</text>
+<text x="100" y="278" text-anchor="middle" class="Ls">-el-</text>
+<text x="240" y="278" text-anchor="middle" class="Ls">Applicative ("for/to")</text>
+<text x="390" y="278" text-anchor="middle" class="Ls">pesa → pesela (give for/to)</text>
+<line x1="20" y1="283" x2="460" y2="283" stroke="black" stroke-width="0.3"/>
+<text x="240" y="293" text-anchor="middle" class="H">NOUN CLASS AGREEMENT (CONCORD)</text>
+<text x="240" y="304" text-anchor="middle" class="Ls">Every noun class triggers agreement on: verbs, adjectives, pronouns, numbers</text>
+<text x="240" y="315" text-anchor="middle" class="Ls">moto moko alali malamu = person one slept well (class 1 concord throughout)</text>
+<text x="240" y="326" text-anchor="middle" class="Ls">bato babale balali malamu = people two slept well (class 2 concord)</text>
+<line x1="20" y1="338" x2="460" y2="338" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="341" width="440" height="14" fill="black"/>
+<text x="240" y="351" text-anchor="middle" class="Hb" fill="white">KONGO (KIKONGO) — PHONOLOGY</text>
+<line x1="20" y1="355" x2="460" y2="355" stroke="black" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H">— KONGO PHONOLOGY —</text>
+<text x="240" y="373" text-anchor="middle" class="H">THREE-TONE SYSTEM</text>
+<text x="240" y="384" text-anchor="middle" class="Ls">Kongo has H (high) · M (mid) · L (low) — 3 register tones</text>
+<text x="240" y="395" text-anchor="middle" class="Ls">Marked in scholarly texts only; everyday writing often unmarked</text>
+<text x="240" y="406" text-anchor="middle" class="Ls">nitu (body, H-H) vs nitu (they, H-L) — tone distinguishes homographs</text>
+<line x1="20" y1="412" x2="460" y2="412" stroke="black" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="H">SEVEN VOWELS</text>
+<text x="240" y="433" text-anchor="middle" class="Ls">/a ɛ e i ɔ o u/ — open and close mid vowels contrast phonemically</text>
+<text x="240" y="444" text-anchor="middle" class="Ls">kele /e/ vs kele /ɛ/ — different meanings (same consonants, different vowel)</text>
+<text x="240" y="455" text-anchor="middle" class="Ls">Proto-Bantu 7-vowel system preserved in Kongo (unlike Lingala's 5)</text>
+<line x1="20" y1="461" x2="460" y2="461" stroke="black" stroke-width="0.3"/>
+<text x="240" y="471" text-anchor="middle" class="H">VERB EXTENSIONS (PARALLEL TO LINGALA)</text>
+<text x="100" y="482" text-anchor="middle" class="Lx">EXTENSION</text>
+<text x="240" y="482" text-anchor="middle" class="Lx">MEANING</text>
+<text x="390" y="482" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="486" x2="460" y2="486" stroke="black" stroke-width="0.3"/>
+<text x="100" y="495" text-anchor="middle" class="Ls">-isa-</text>
+<text x="240" y="495" text-anchor="middle" class="Ls">Causative</text>
+<text x="390" y="495" text-anchor="middle" class="Ls">vanda → vandisa</text>
+<text x="100" y="505" text-anchor="middle" class="Ls">-ana-</text>
+<text x="240" y="505" text-anchor="middle" class="Ls">Reciprocal</text>
+<text x="390" y="505" text-anchor="middle" class="Ls">zaba → zabana (know each other)</text>
+<text x="100" y="515" text-anchor="middle" class="Ls">-ila-</text>
+<text x="240" y="515" text-anchor="middle" class="Ls">Applicative</text>
+<text x="390" y="515" text-anchor="middle" class="Ls">tuma → tumila (send to/for)</text>
+<line x1="20" y1="520" x2="460" y2="520" stroke="black" stroke-width="0.3"/>
+<text x="240" y="530" text-anchor="middle" class="H">COGNATE COMPARISON: LINGALA ↔ KONGO</text>
+<text x="100" y="541" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="541" text-anchor="middle" class="Lx">LINGALA</text>
+<text x="380" y="541" text-anchor="middle" class="Lx">KONGO</text>
+<line x1="20" y1="545" x2="460" y2="545" stroke="black" stroke-width="0.3"/>
+<text x="100" y="554" text-anchor="middle" class="Ls">hello</text>
+<text x="240" y="554" text-anchor="middle" class="Ls">mbote</text>
+<text x="380" y="554" text-anchor="middle" class="Ls">mbote</text>
+<text x="100" y="564" text-anchor="middle" class="Ls">person</text>
+<text x="240" y="564" text-anchor="middle" class="Ls">moto</text>
+<text x="380" y="564" text-anchor="middle" class="Ls">muntu</text>
+<text x="100" y="574" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="574" text-anchor="middle" class="Ls">mai</text>
+<text x="380" y="574" text-anchor="middle" class="Ls">masa</text>
+<text x="100" y="584" text-anchor="middle" class="Ls">road</text>
+<text x="240" y="584" text-anchor="middle" class="Ls">nzela</text>
+<text x="380" y="584" text-anchor="middle" class="Ls">nzila</text>
+<text x="100" y="594" text-anchor="middle" class="Ls">child</text>
+<text x="240" y="594" text-anchor="middle" class="Ls">mwana</text>
+<text x="380" y="594" text-anchor="middle" class="Ls">mwana</text>
+<line x1="20" y1="599" x2="460" y2="599" stroke="black" stroke-width="0.3"/>
+<text x="240" y="609" text-anchor="middle" class="H">COGNATE NOTE</text>
+<text x="240" y="620" text-anchor="middle" class="Ls">Many Lingala words derive from Kongo; Lingala emerged as a simplified contact</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 33B ALT · LINGALA / KONGO · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

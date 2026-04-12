@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MALAY (BAHASA MELAYU) / MINANGKABAU (BASO MINANG)</text>
+<text x="240" y="44" text-anchor="middle" class="S">AUSTRONESIAN · MALAYO-POLYNESIAN · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 19B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MALAY PHONOLOGY IN DEPTH —</text>
+<text x="240" y="88" text-anchor="middle" class="H">THE MALAY VOWEL SYSTEM</text>
+<text x="100" y="99" text-anchor="middle" class="Lx">VOWEL</text>
+<text x="240" y="99" text-anchor="middle" class="Lx">IPA</text>
+<text x="390" y="99" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="103" x2="460" y2="103" stroke="black" stroke-width="0.3"/>
+<text x="100" y="112" text-anchor="middle" class="Ls">a</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">/a/</text>
+<text x="390" y="112" text-anchor="middle" class="Ls">api (fire)</text>
+<text x="100" y="122" text-anchor="middle" class="Ls">e (pepet)</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">/ə/ schwa</text>
+<text x="390" y="122" text-anchor="middle" class="Ls">emak (mother)</text>
+<text x="100" y="132" text-anchor="middle" class="Ls">e (taling)</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">/e/</text>
+<text x="390" y="132" text-anchor="middle" class="Ls">enam (six)</text>
+<text x="100" y="142" text-anchor="middle" class="Ls">i</text>
+<text x="240" y="142" text-anchor="middle" class="Ls">/i/</text>
+<text x="390" y="142" text-anchor="middle" class="Ls">ikan (fish)</text>
+<text x="100" y="152" text-anchor="middle" class="Ls">o</text>
+<text x="240" y="152" text-anchor="middle" class="Ls">/o/</text>
+<text x="390" y="152" text-anchor="middle" class="Ls">orang (person)</text>
+<text x="100" y="162" text-anchor="middle" class="Ls">u</text>
+<text x="240" y="162" text-anchor="middle" class="Ls">/u/</text>
+<text x="390" y="162" text-anchor="middle" class="Ls">ular (snake)</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="177" text-anchor="middle" class="H">STRESS AND RHYTHM</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">Stress: penultimate syllable by default (except: schwa syllable skipped)</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">emak /ˈe.mak/ vs empat /ˈem.pat/ — schwa moves stress leftward</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Malay is non-tonal: no lexical tone contrast (unlike neighboring Mandarin, Lao)</text>
+<line x1="20" y1="216" x2="460" y2="216" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H">REDUPLICATION</text>
+<text x="240" y="237" text-anchor="middle" class="Ls">Full reduplication = plural: orang-orang (people) from orang (person)</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Partial/modified reduplication = variety: sayur-mayur (all kinds of vegetables)</text>
+<text x="240" y="259" text-anchor="middle" class="Ls">Reduplication of verb = continuity: jalan-jalan (walking around, strolling)</text>
+<line x1="20" y1="265" x2="460" y2="265" stroke="black" stroke-width="0.3"/>
+<text x="240" y="275" text-anchor="middle" class="H">MALAY-INDONESIAN DIVERGENCE (SAME LANGUAGE, TWO STANDARDS)</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">Malaysian Malay and Bahasa Indonesia are mutually intelligible but diverging</text>
+<text x="240" y="297" text-anchor="middle" class="Ls">Vocab: rumah sakit (MY hospital) vs rumah sakit (ID same) · kereta vs mobil (car)</text>
+<text x="240" y="308" text-anchor="middle" class="Ls">Indonesian pronunciation more open vowels; Malaysian more conservative</text>
+<line x1="20" y1="314" x2="460" y2="314" stroke="black" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H">NUMBERS 1–10</text>
+<text x="240" y="335" text-anchor="middle" class="Ls">satu · dua · tiga · empat · lima · enam · tujuh · lapan · sembilan · sepuluh</text>
+<line x1="20" y1="347" x2="460" y2="347" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="350" width="440" height="14" fill="black"/>
+<text x="240" y="360" text-anchor="middle" class="Hb" fill="white">MINANGKABAU (BASO MINANG) — PHONOLOGY</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="372" text-anchor="middle" class="H">— MINANGKABAU PHONOLOGY —</text>
+<text x="240" y="383" text-anchor="middle" class="H">SYSTEMATIC -A TO -O VOWEL SHIFT</text>
+<text x="240" y="394" text-anchor="middle" class="Ls">Word-final /a/ in Proto-Malay consistently → /o/ in Minangkabau:</text>
+<text x="100" y="405" text-anchor="middle" class="Lx">PROTO-MALAY</text>
+<text x="240" y="405" text-anchor="middle" class="Lx">MALAY</text>
+<text x="380" y="405" text-anchor="middle" class="Lx">MINANGKABAU</text>
+<line x1="20" y1="409" x2="460" y2="409" stroke="black" stroke-width="0.3"/>
+<text x="100" y="418" text-anchor="middle" class="Ls">*kita</text>
+<text x="240" y="418" text-anchor="middle" class="Ls">kita (we-incl)</text>
+<text x="380" y="418" text-anchor="middle" class="Ls">kito</text>
+<text x="100" y="428" text-anchor="middle" class="Ls">*dia</text>
+<text x="240" y="428" text-anchor="middle" class="Ls">dia (s/he)</text>
+<text x="380" y="428" text-anchor="middle" class="Ls">inyo</text>
+<text x="100" y="438" text-anchor="middle" class="Ls">*apa</text>
+<text x="240" y="438" text-anchor="middle" class="Ls">apa (what)</text>
+<text x="380" y="438" text-anchor="middle" class="Ls">apo</text>
+<text x="100" y="448" text-anchor="middle" class="Ls">*saya</text>
+<text x="240" y="448" text-anchor="middle" class="Ls">saya (I formal)</text>
+<text x="380" y="448" text-anchor="middle" class="Ls">ambo</text>
+<line x1="20" y1="453" x2="460" y2="453" stroke="black" stroke-width="0.3"/>
+<text x="240" y="463" text-anchor="middle" class="H">DIPHTHONG SIMPLIFICATION</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">Malay /au/ → Minang /o/: kalau → kalo · pulau → pulo</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Malay /ai/ → Minang /e/: pakai → pake · lantai → lante</text>
+<line x1="20" y1="491" x2="460" y2="491" stroke="black" stroke-width="0.3"/>
+<text x="240" y="501" text-anchor="middle" class="H">MINANGKABAU CONSONANTS</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">Similar to Malay; preserves /r/ as a distinct rhotic /r/ (not reduced to /ʁ/)</text>
+<text x="240" y="523" text-anchor="middle" class="Ls">Final /-k/ often reduces to glottal stop [ʔ] as in Malay</text>
+<line x1="20" y1="529" x2="460" y2="529" stroke="black" stroke-width="0.3"/>
+<text x="240" y="539" text-anchor="middle" class="H">REDUPLICATION IN MINANGKABAU</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">Same reduplication system as Malay: anak-anak (children) from anak (child)</text>
+<text x="240" y="561" text-anchor="middle" class="Ls">Minang reduplication: baraja-raja (keep studying) — continuative meaning</text>
+<line x1="20" y1="567" x2="460" y2="567" stroke="black" stroke-width="0.3"/>
+<text x="240" y="577" text-anchor="middle" class="H">NUMBERS 1–10 (MINANGKABAU)</text>
+<text x="240" y="588" text-anchor="middle" class="Ls">ciek · duo · tigo · ampek · limo · anam · tujuah · salapan · sambilan · sapuluah</text>
+<text x="240" y="599" text-anchor="middle" class="Ls">cf. Malay: satu · dua · tiga · empat · lima · enam · tujuh · lapan · sembilan · sepuluh</text>
+<line x1="20" y1="605" x2="460" y2="605" stroke="black" stroke-width="0.3"/>
+<text x="240" y="615" text-anchor="middle" class="H">MUTUAL INTELLIGIBILITY</text>
+<text x="240" y="626" text-anchor="middle" class="Ls">High intelligibility with Malay but distinct enough to be a separate language</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 19B ALT · MALAY / MINANGKABAU · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

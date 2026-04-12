@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN (普通话) / ZHUANG (壮语 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">SINO-TIBETAN / TAI-KADAI · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 17B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MANDARIN PHONOLOGY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">INITIALS (CONSONANTS IN ONSET POSITION)</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Stops: b p d t g k · Affricates: z c zh ch j q</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Fricatives: f s sh x h r · Nasals: m n · Lateral: l · Glide: y w</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Three-way distinction: alveolar (z/c/s) vs retroflex (zh/ch/sh/r) vs palatal (j/q/x)</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">FINALS (RIMES): STRUCTURE (C)V(V)(N)</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Simple: a e i o u ü (u-umlaut = /y/ as in French "tu")</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Diphthongs: ai ei ao ou ia ie ua uo ün üe</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Nasal finals: -n (alveolar) and -ng (/ŋ/) only — no /m/ or /p t k/ finals</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">SYLLABLE STRUCTURE: MAXIMALLY (C)(G)V(V)(C)</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">Mandarin syllables are relatively simple: never CCV, never VC at start</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Contrast with English "strengths" /strɛŋkθs/ — Mandarin forbids such clusters</text>
+<line x1="20" y1="214" x2="460" y2="214" stroke="black" stroke-width="0.3"/>
+<text x="240" y="224" text-anchor="middle" class="H">MEASURE WORDS (CLASSIFIERS) — REQUIRED WITH NUMBERS</text>
+<text x="240" y="235" text-anchor="middle" class="Ls">一 个人 (one ge person) · 三 张纸 (three zhang paper) · 两 条鱼 (two tiao fish)</text>
+<text x="240" y="246" text-anchor="middle" class="Ls">~200 classifiers; ge (个) is default/universal for many nouns</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">Zhuang also has classifiers — both languages require them (different family, same feature)</text>
+<line x1="20" y1="263" x2="460" y2="263" stroke="black" stroke-width="0.3"/>
+<text x="240" y="273" text-anchor="middle" class="H">ASPECT PARTICLES</text>
+<text x="100" y="284" text-anchor="middle" class="Lx">PARTICLE</text>
+<text x="240" y="284" text-anchor="middle" class="Lx">FUNCTION</text>
+<text x="390" y="284" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="288" x2="460" y2="288" stroke="black" stroke-width="0.3"/>
+<text x="100" y="297" text-anchor="middle" class="Ls">了 le</text>
+<text x="240" y="297" text-anchor="middle" class="Ls">Completion / change of state</text>
+<text x="390" y="297" text-anchor="middle" class="Ls">吃了 chī le (ate)</text>
+<text x="100" y="307" text-anchor="middle" class="Ls">过 guo</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">Experiential (at some time)</text>
+<text x="390" y="307" text-anchor="middle" class="Ls">去过 qù guo (went before)</text>
+<text x="100" y="317" text-anchor="middle" class="Ls">着 zhe</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">Ongoing state / gerund</text>
+<text x="390" y="317" text-anchor="middle" class="Ls">吃着 chī zhe (is eating)</text>
+<line x1="20" y1="322" x2="460" y2="322" stroke="black" stroke-width="0.3"/>
+<text x="240" y="332" text-anchor="middle" class="H">MINIMAL TONE PAIRS</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">mā 妈 (mother) · má 麻 (hemp) · mǎ 马 (horse) · mà 骂 (scold)</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">shū 书 (book) · shú 熟 (ripe) · shǔ 鼠 (rat) · shù 数 (number)</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="369" width="440" height="14" fill="black"/>
+<text x="240" y="379" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — PHONOLOGY</text>
+<line x1="20" y1="383" x2="460" y2="383" stroke="black" stroke-width="0.3"/>
+<text x="240" y="391" text-anchor="middle" class="H">— ZHUANG PHONOLOGY: NORTHERN STANDARD —</text>
+<text x="240" y="402" text-anchor="middle" class="H">SIX TONES (SUFFIX-ENCODED IN LATIN)</text>
+<text x="100" y="413" text-anchor="middle" class="Lx">SUFFIX</text>
+<text x="200" y="413" text-anchor="middle" class="Lx">CONTOUR</text>
+<text x="300" y="413" text-anchor="middle" class="Lx">DESCRIPTION</text>
+<text x="420" y="413" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="417" x2="460" y2="417" stroke="black" stroke-width="0.3"/>
+<text x="100" y="426" text-anchor="middle" class="Ls">(none)</text>
+<text x="200" y="426" text-anchor="middle" class="Ls">33</text>
+<text x="300" y="426" text-anchor="middle" class="Ls">Mid level</text>
+<text x="420" y="426" text-anchor="middle" class="Ls">sa (three)</text>
+<text x="100" y="436" text-anchor="middle" class="Ls">-b</text>
+<text x="200" y="436" text-anchor="middle" class="Ls">13</text>
+<text x="300" y="436" text-anchor="middle" class="Ls">Low rising</text>
+<text x="420" y="436" text-anchor="middle" class="Ls">saeb (receive)</text>
+<text x="100" y="446" text-anchor="middle" class="Ls">-x</text>
+<text x="200" y="446" text-anchor="middle" class="Ls">53</text>
+<text x="300" y="446" text-anchor="middle" class="Ls">High falling</text>
+<text x="420" y="446" text-anchor="middle" class="Ls">sax (narrow)</text>
+<text x="100" y="456" text-anchor="middle" class="Ls">-j</text>
+<text x="200" y="456" text-anchor="middle" class="Ls">55</text>
+<text x="300" y="456" text-anchor="middle" class="Ls">High level</text>
+<text x="420" y="456" text-anchor="middle" class="Ls">saj (thin)</text>
+<text x="100" y="466" text-anchor="middle" class="Ls">-q</text>
+<text x="200" y="466" text-anchor="middle" class="Ls">35</text>
+<text x="300" y="466" text-anchor="middle" class="Ls">Mid rising</text>
+<text x="420" y="466" text-anchor="middle" class="Ls">saq (checked)</text>
+<text x="100" y="476" text-anchor="middle" class="Ls">-h</text>
+<text x="200" y="476" text-anchor="middle" class="Ls">11</text>
+<text x="300" y="476" text-anchor="middle" class="Ls">Low level</text>
+<text x="420" y="476" text-anchor="middle" class="Ls">sah (scatter)</text>
+<line x1="20" y1="481" x2="460" y2="481" stroke="black" stroke-width="0.3"/>
+<text x="240" y="491" text-anchor="middle" class="H">PRE-NASALIZED CONSONANTS</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">mb- nd- nj- ng-: prenasalized stops written as digraphs in Latin</text>
+<text x="240" y="513" text-anchor="middle" class="Ls">mbouj /m̩bou/ (not) · ndaej /n̩dai/ (obtain) · ngoenx (day)</text>
+<line x1="20" y1="519" x2="460" y2="519" stroke="black" stroke-width="0.3"/>
+<text x="240" y="529" text-anchor="middle" class="H">TONE TYPOLOGY: MANDARIN vs ZHUANG</text>
+<text x="240" y="540" text-anchor="middle" class="Ls">Both tonal — but UNRELATED tone systems: Sinitic vs Tai-Kadai</text>
+<text x="240" y="551" text-anchor="middle" class="Ls">Mandarin: 4 contours (level/rising/dipping/falling) + neutral</text>
+<text x="240" y="562" text-anchor="middle" class="Ls">Zhuang: 6 contours including checked tones in some dialects</text>
+<text x="240" y="573" text-anchor="middle" class="Ls">Mandarin lost /p t k/ final stops; some Zhuang dialects retain them</text>
+<line x1="20" y1="579" x2="460" y2="579" stroke="black" stroke-width="0.3"/>
+<text x="240" y="589" text-anchor="middle" class="H">CLASSIFIER PARALLEL</text>
+<text x="240" y="600" text-anchor="middle" class="Ls">Both Mandarin and Zhuang require classifiers between number and noun</text>
+<text x="240" y="611" text-anchor="middle" class="Ls">Mandarin: 一个 (yi ge) · Zhuang: ndeu boux — same syntactic requirement</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 17B ALT · MANDARIN / ZHUANG · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

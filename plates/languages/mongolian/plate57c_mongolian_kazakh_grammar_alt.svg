@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MONGOLIAN (монгол хэл) / KAZAKH (қазақ тілі)</text>
+<text x="240" y="44" text-anchor="middle" class="S">MONGOLIC / TURKIC · EURASIAN STEPPE · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 57C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MONGOLIAN GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">SOV word order · postpositions (not prepositions) · verb always at end</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Agglutinative: suffixes stack for case, number, tense, person, aspect, mood</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">MONGOLIAN VERB STRUCTURE</text>
+<text x="240" y="126" text-anchor="middle" class="Ls">бич-ийг хайр-т = letter-ACC love-PRES: "I love the letter"</text>
+<text x="240" y="137" text-anchor="middle" class="Ls">Verb endings encode: tense + aspect + person + number + mood</text>
+<text x="100" y="148" text-anchor="middle" class="Lx">ENDING</text>
+<text x="240" y="148" text-anchor="middle" class="Lx">MEANING</text>
+<text x="390" y="148" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="152" x2="460" y2="152" stroke="black" stroke-width="0.3"/>
+<text x="100" y="161" text-anchor="middle" class="Ls">-на</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Present/future</text>
+<text x="390" y="161" text-anchor="middle" class="Ls">ир-на (come)</text>
+<text x="100" y="171" text-anchor="middle" class="Ls">-сан</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">Past (completed)</text>
+<text x="390" y="171" text-anchor="middle" class="Ls">ир-сэн (came)</text>
+<text x="100" y="181" text-anchor="middle" class="Ls">-даг</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">Participle/past</text>
+<text x="390" y="181" text-anchor="middle" class="Ls">ир-сэн хүн (a man who came)</text>
+<line x1="20" y1="186" x2="460" y2="186" stroke="black" stroke-width="0.3"/>
+<text x="240" y="196" text-anchor="middle" class="H">CORE VOCABULARY (MONGOLIAN CYRILLIC)</text>
+<text x="100" y="207" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="207" text-anchor="middle" class="Lx">MONGOLIAN</text>
+<text x="390" y="207" text-anchor="middle" class="Lx">ROMANIZATION</text>
+<line x1="20" y1="211" x2="460" y2="211" stroke="black" stroke-width="0.3"/>
+<text x="100" y="220" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">би</text>
+<text x="390" y="220" text-anchor="middle" class="Ls">bi</text>
+<text x="100" y="230" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">чи</text>
+<text x="390" y="230" text-anchor="middle" class="Ls">chi</text>
+<text x="100" y="240" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="240" text-anchor="middle" class="Ls">ус</text>
+<text x="390" y="240" text-anchor="middle" class="Ls">us</text>
+<text x="100" y="250" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="250" text-anchor="middle" class="Ls">идэх</text>
+<text x="390" y="250" text-anchor="middle" class="Ls">idekh</text>
+<text x="100" y="260" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="260" text-anchor="middle" class="Ls">биш</text>
+<text x="390" y="260" text-anchor="middle" class="Ls">bish</text>
+<text x="100" y="270" text-anchor="middle" class="Ls">horse</text>
+<text x="240" y="270" text-anchor="middle" class="Ls">морь</text>
+<text x="390" y="270" text-anchor="middle" class="Ls">morʹ</text>
+<text x="100" y="280" text-anchor="middle" class="Ls">good</text>
+<text x="240" y="280" text-anchor="middle" class="Ls">сайн</text>
+<text x="390" y="280" text-anchor="middle" class="Ls">sain</text>
+<text x="100" y="290" text-anchor="middle" class="Ls">thank you</text>
+<text x="240" y="290" text-anchor="middle" class="Ls">баярлалаа</text>
+<text x="390" y="290" text-anchor="middle" class="Ls">bayarlalaa</text>
+<line x1="20" y1="295" x2="460" y2="295" stroke="black" stroke-width="0.3"/>
+<text x="240" y="305" text-anchor="middle" class="H">NUMBERS 1–10</text>
+<text x="240" y="316" text-anchor="middle" class="Ls">нэг хоёр гурав дөрөв тав зургаан долоон найм юс арав</text>
+<line x1="20" y1="328" x2="460" y2="328" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="331" width="440" height="14" fill="black"/>
+<text x="240" y="341" text-anchor="middle" class="Hb" fill="white">KAZAKH (қазақ тілі) — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="345" x2="460" y2="345" stroke="black" stroke-width="0.3"/>
+<text x="240" y="352" text-anchor="middle" class="H">— KAZAKH GRAMMAR —</text>
+<text x="240" y="363" text-anchor="middle" class="Ls">SOV word order (same as Mongolian) · postpositions · verb final</text>
+<text x="240" y="374" text-anchor="middle" class="Ls">Agglutinative: suffixes for case, number, tense, voice, mood, person</text>
+<text x="240" y="385" text-anchor="middle" class="Ls">No grammatical gender · no articles (like Mongolian)</text>
+<line x1="20" y1="391" x2="460" y2="391" stroke="black" stroke-width="0.3"/>
+<text x="240" y="401" text-anchor="middle" class="H">KAZAKH VERB STRUCTURE</text>
+<text x="240" y="412" text-anchor="middle" class="Ls">Root + voice + tense/mood + person agreement</text>
+<text x="240" y="423" text-anchor="middle" class="Ls">bar-a-myn = go-PRES-1SG = "I am going"</text>
+<text x="240" y="434" text-anchor="middle" class="Ls">bar-dы = go-PAST = "went" (no person marking in past simple)</text>
+<line x1="20" y1="440" x2="460" y2="440" stroke="black" stroke-width="0.3"/>
+<text x="240" y="450" text-anchor="middle" class="H">CORE VOCABULARY (KAZAKH CYRILLIC)</text>
+<text x="100" y="461" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="461" text-anchor="middle" class="Lx">KAZAKH</text>
+<text x="390" y="461" text-anchor="middle" class="Lx">MONGOLIAN LINK?</text>
+<line x1="20" y1="465" x2="460" y2="465" stroke="black" stroke-width="0.3"/>
+<text x="100" y="474" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">мен</text>
+<text x="390" y="474" text-anchor="middle" class="Ls">Turkic root</text>
+<text x="100" y="484" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="484" text-anchor="middle" class="Ls">сен</text>
+<text x="390" y="484" text-anchor="middle" class="Ls">Turkic root</text>
+<text x="100" y="494" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="494" text-anchor="middle" class="Ls">су</text>
+<text x="390" y="494" text-anchor="middle" class="Ls">cf. Mongol ус</text>
+<text x="100" y="504" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="504" text-anchor="middle" class="Ls">жеу</text>
+<text x="390" y="504" text-anchor="middle" class="Ls">Turkic root</text>
+<text x="100" y="514" text-anchor="middle" class="Ls">horse</text>
+<text x="240" y="514" text-anchor="middle" class="Ls">жылқы</text>
+<text x="390" y="514" text-anchor="middle" class="Ls">cf. Mongol морь (differ)</text>
+<text x="100" y="524" text-anchor="middle" class="Ls">good</text>
+<text x="240" y="524" text-anchor="middle" class="Ls">жақсы</text>
+<text x="390" y="524" text-anchor="middle" class="Ls">cf. Mongol сайн (differ)</text>
+<text x="100" y="534" text-anchor="middle" class="Ls">thank you</text>
+<text x="240" y="534" text-anchor="middle" class="Ls">рахмет</text>
+<text x="390" y="534" text-anchor="middle" class="Ls">From Arabic rahmat</text>
+<line x1="20" y1="539" x2="460" y2="539" stroke="black" stroke-width="0.3"/>
+<text x="240" y="549" text-anchor="middle" class="H">NUMBERS 1–10 (KAZAKH)</text>
+<text x="240" y="560" text-anchor="middle" class="Ls">бір екі үш төрт бес алты жеті сегіз тоғыз он</text>
+<line x1="20" y1="566" x2="460" y2="566" stroke="black" stroke-width="0.3"/>
+<text x="240" y="576" text-anchor="middle" class="H">GRAMMATICAL PARALLEL: SOV AGGLUTINATION</text>
+<text x="240" y="587" text-anchor="middle" class="Ls">Both: SOV · postpositions · agglutinative · vowel harmony · no gender · 7 cases</text>
+<text x="240" y="598" text-anchor="middle" class="Ls">Different families but shared steppe contact: many parallel structural features</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 57C ALT · MONGOLIAN / KAZAKH · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

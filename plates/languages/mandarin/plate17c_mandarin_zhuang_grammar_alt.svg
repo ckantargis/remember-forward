@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN (普通话) / ZHUANG (壮语 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">SINO-TIBETAN / TAI-KADAI · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 17C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MANDARIN GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">Highly analytic: no case endings, no grammatical gender, minimal inflection</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Word order: SVO (flexible for topic-comment structures)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Topic-comment: 鱼，我吃了 "Fish, I ate" = topic-prominent structure</text>
+<line x1="20" y1="116" x2="460" y2="116" stroke="black" stroke-width="0.3"/>
+<text x="240" y="126" text-anchor="middle" class="H">SENTENCE PATTERNS</text>
+<text x="240" y="137" text-anchor="middle" class="Ls">我是学生 / Wǒ shì xuéshēng / I am student: "I am a student"</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">你叫什么名字 / Nǐ jiào shénme míngzi / You called what name: "What is your name?"</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">这是哪里 / Zhè shì nǎi li / This is where: "Where is this?"</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="175" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="186" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="230" y="186" text-anchor="middle" class="Lx">CHARACTER</text>
+<text x="360" y="186" text-anchor="middle" class="Lx">PINYIN</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="black" stroke-width="0.3"/>
+<text x="100" y="199" text-anchor="middle" class="Ls">I / me</text>
+<text x="230" y="199" text-anchor="middle" class="Ls">我</text>
+<text x="360" y="199" text-anchor="middle" class="Ls">wǒ</text>
+<text x="100" y="209" text-anchor="middle" class="Ls">you (sg.)</text>
+<text x="230" y="209" text-anchor="middle" class="Ls">你 / 您 (formal)</text>
+<text x="360" y="209" text-anchor="middle" class="Ls">nǐ / nín</text>
+<text x="100" y="219" text-anchor="middle" class="Ls">water</text>
+<text x="230" y="219" text-anchor="middle" class="Ls">水</text>
+<text x="360" y="219" text-anchor="middle" class="Ls">shuǐ</text>
+<text x="100" y="229" text-anchor="middle" class="Ls">eat</text>
+<text x="230" y="229" text-anchor="middle" class="Ls">吃</text>
+<text x="360" y="229" text-anchor="middle" class="Ls">chī</text>
+<text x="100" y="239" text-anchor="middle" class="Ls">not</text>
+<text x="230" y="239" text-anchor="middle" class="Ls">不</text>
+<text x="360" y="239" text-anchor="middle" class="Ls">bù</text>
+<text x="100" y="249" text-anchor="middle" class="Ls">good</text>
+<text x="230" y="249" text-anchor="middle" class="Ls">好</text>
+<text x="360" y="249" text-anchor="middle" class="Ls">hǎo</text>
+<text x="100" y="259" text-anchor="middle" class="Ls">person</text>
+<text x="230" y="259" text-anchor="middle" class="Ls">人</text>
+<text x="360" y="259" text-anchor="middle" class="Ls">rén</text>
+<text x="100" y="269" text-anchor="middle" class="Ls">thank you</text>
+<text x="230" y="269" text-anchor="middle" class="Ls">谢谢</text>
+<text x="360" y="269" text-anchor="middle" class="Ls">xièxiè</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">NUMBERS 1–10</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">一二三四五六七八九十 / yī èr sān sì wǔ liù qī bā jiǔ shí</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="310" width="440" height="14" fill="black"/>
+<text x="240" y="320" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="324" x2="460" y2="324" stroke="black" stroke-width="0.3"/>
+<text x="240" y="331" text-anchor="middle" class="H">— ZHUANG GRAMMAR —</text>
+<text x="240" y="342" text-anchor="middle" class="Ls">Word order: SVO — same as Mandarin · analytic · no case or gender inflection</text>
+<text x="240" y="353" text-anchor="middle" class="Ls">Classifiers required with numbers (parallel to Mandarin)</text>
+<text x="240" y="364" text-anchor="middle" class="Ls">Verbs mark aspect not tense; context + adverbs indicate time</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="black" stroke-width="0.3"/>
+<text x="240" y="380" text-anchor="middle" class="H">CLASSIFIERS (ZHUANG)</text>
+<text x="100" y="391" text-anchor="middle" class="Lx">CLASSIFIER</text>
+<text x="240" y="391" text-anchor="middle" class="Lx">USAGE</text>
+<text x="390" y="391" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="395" x2="460" y2="395" stroke="black" stroke-width="0.3"/>
+<text x="100" y="404" text-anchor="middle" class="Ls">boux</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">humans</text>
+<text x="390" y="404" text-anchor="middle" class="Ls">sam boux vunz (3 people)</text>
+<text x="100" y="414" text-anchor="middle" class="Ls">duz</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">animals</text>
+<text x="390" y="414" text-anchor="middle" class="Ls">song duz ma (2 dogs)</text>
+<text x="100" y="424" text-anchor="middle" class="Ls">aen</text>
+<text x="240" y="424" text-anchor="middle" class="Ls">small round/compact objects</text>
+<text x="390" y="424" text-anchor="middle" class="Ls">ndeu aen (one clf)</text>
+<line x1="20" y1="429" x2="460" y2="429" stroke="black" stroke-width="0.3"/>
+<text x="240" y="439" text-anchor="middle" class="H">CORE VOCABULARY (ZHUANG LATIN)</text>
+<text x="100" y="450" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="450" text-anchor="middle" class="Lx">ZHUANG</text>
+<text x="390" y="450" text-anchor="middle" class="Lx">MANDARIN COGNATE?</text>
+<line x1="20" y1="454" x2="460" y2="454" stroke="black" stroke-width="0.3"/>
+<text x="100" y="463" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="463" text-anchor="middle" class="Ls">gou</text>
+<text x="390" y="463" text-anchor="middle" class="Ls">No (Tai-Kadai root)</text>
+<text x="100" y="473" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="473" text-anchor="middle" class="Ls">mwngz</text>
+<text x="390" y="473" text-anchor="middle" class="Ls">No (Tai-Kadai root)</text>
+<text x="100" y="483" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="483" text-anchor="middle" class="Ls">raemx</text>
+<text x="390" y="483" text-anchor="middle" class="Ls">No (Proto-Tai)</text>
+<text x="100" y="493" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="493" text-anchor="middle" class="Ls">gwn</text>
+<text x="390" y="493" text-anchor="middle" class="Ls">No (Proto-Tai)</text>
+<text x="100" y="503" text-anchor="middle" class="Ls">book</text>
+<text x="240" y="503" text-anchor="middle" class="Ls">suh</text>
+<text x="390" y="503" text-anchor="middle" class="Ls">YES — from 书 shū</text>
+<text x="100" y="513" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="513" text-anchor="middle" class="Ls">mbouj</text>
+<text x="390" y="513" text-anchor="middle" class="Ls">No (Tai-Kadai root)</text>
+<line x1="20" y1="518" x2="460" y2="518" stroke="black" stroke-width="0.3"/>
+<text x="240" y="528" text-anchor="middle" class="H">SURVIVAL PHRASES</text>
+<text x="240" y="539" text-anchor="middle" class="Ls">Gou mbouj ndaej gangj Vahcuengh. = I cannot speak Zhuang.</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">Wǒ bù huì shuō Pǔtōnghuà. = I cannot speak Mandarin. (我不会说普通话)</text>
+<line x1="20" y1="556" x2="460" y2="556" stroke="black" stroke-width="0.3"/>
+<text x="240" y="566" text-anchor="middle" class="H">LANGUAGE CONTACT NOTE</text>
+<text x="240" y="577" text-anchor="middle" class="Ls">Core vocabulary differs (different families); loanwords from Mandarin into Zhuang</text>
+<text x="240" y="588" text-anchor="middle" class="Ls">show the 1,000+ year contact history on the southern Chinese frontier</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 17C ALT · MANDARIN / ZHUANG · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

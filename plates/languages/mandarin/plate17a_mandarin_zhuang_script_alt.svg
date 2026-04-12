@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN (普通话) / ZHUANG (壮语 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">SINO-TIBETAN / TAI-KADAI · WITHIN CHINA · MILLENNIA OF CONTACT</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 17A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MANDARIN: SCRIPT &amp; WRITING —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Logographic script: each character = morpheme (meaning unit), not a sound</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Simplified (mainland China, Singapore) vs Traditional (Taiwan, HK, Macau)</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">~2,000 commonly used characters; ~50,000 in historical dictionaries</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Pinyin romanization (1958): used for input, teaching, transliteration</text>
+<line x1="20" y1="128" x2="460" y2="128" stroke="black" stroke-width="0.3"/>
+<text x="240" y="138" text-anchor="middle" class="H">CHARACTER STRUCTURE</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Radicals: 214 semantic classifiers index characters in dictionaries</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">水 (water) → 水果 (fruit) · 水平 (level/horizontal) · 洪水 (flood)</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">人 (person) + 村 (village) = 伏 (crouch) — semantic combination</text>
+<text x="240" y="182" text-anchor="middle" class="Ls">Phono-semantic compounds: ~80% of characters have phonetic + semantic components</text>
+<line x1="20" y1="188" x2="460" y2="188" stroke="black" stroke-width="0.3"/>
+<text x="240" y="198" text-anchor="middle" class="H">FOUR TONES + NEUTRAL TONE</text>
+<text x="100" y="209" text-anchor="middle" class="Lx">TONE</text>
+<text x="200" y="209" text-anchor="middle" class="Lx">MARK</text>
+<text x="300" y="209" text-anchor="middle" class="Lx">CONTOUR</text>
+<text x="400" y="209" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="213" x2="460" y2="213" stroke="black" stroke-width="0.3"/>
+<text x="100" y="222" text-anchor="middle" class="Ls">Tone 1</text>
+<text x="200" y="222" text-anchor="middle" class="Ls">ā (¯)</text>
+<text x="300" y="222" text-anchor="middle" class="Ls">High level (55)</text>
+<text x="400" y="222" text-anchor="middle" class="Ls">mā 妈 mother</text>
+<text x="100" y="232" text-anchor="middle" class="Ls">Tone 2</text>
+<text x="200" y="232" text-anchor="middle" class="Ls">á (˱)</text>
+<text x="300" y="232" text-anchor="middle" class="Ls">Rising (35)</text>
+<text x="400" y="232" text-anchor="middle" class="Ls">má 麻 hemp</text>
+<text x="100" y="242" text-anchor="middle" class="Ls">Tone 3</text>
+<text x="200" y="242" text-anchor="middle" class="Ls">ǎ (ˇ)</text>
+<text x="300" y="242" text-anchor="middle" class="Ls">Dipping (214)</text>
+<text x="400" y="242" text-anchor="middle" class="Ls">mǎ 马 horse</text>
+<text x="100" y="252" text-anchor="middle" class="Ls">Tone 4</text>
+<text x="200" y="252" text-anchor="middle" class="Ls">à (`)</text>
+<text x="300" y="252" text-anchor="middle" class="Ls">Falling (51)</text>
+<text x="400" y="252" text-anchor="middle" class="Ls">mà 骂 scold</text>
+<text x="100" y="262" text-anchor="middle" class="Ls">Neutral</text>
+<text x="200" y="262" text-anchor="middle" class="Ls">(no mark)</text>
+<text x="300" y="262" text-anchor="middle" class="Ls">Unstressed, short</text>
+<text x="400" y="262" text-anchor="middle" class="Ls">ma 吗 (question particle)</text>
+<line x1="20" y1="267" x2="460" y2="267" stroke="black" stroke-width="0.3"/>
+<text x="240" y="277" text-anchor="middle" class="H">PINYIN SPECIAL PRONUNCIATIONS</text>
+<text x="240" y="288" text-anchor="middle" class="Ls">x = /泉/ (not /ks/) · zh = /tʃ/ · q = /tɕ/ · c = /ts/ · r = /ɹʰ/</text>
+<text x="240" y="299" text-anchor="middle" class="Ls">ui = uei · iu = iou · un = uen — written short but pronounced full</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H">SAMPLE CHARACTERS</text>
+<text x="240" y="326" text-anchor="middle" class="Ls">人 /rén/ person · 大 /dà/ big · 小 /xiǎo/ small · 日 /rì/ sun/day</text>
+<text x="240" y="337" text-anchor="middle" class="Ls">月 /yuè/ moon/month · 水 /shuǐ/ water · 火 /huǒ/ fire · 山 /shān/ mountain</text>
+<line x1="20" y1="349" x2="460" y2="349" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="352" width="440" height="14" fill="black"/>
+<text x="240" y="362" text-anchor="middle" class="Hb" fill="white">ZHUANG (壮语 VAHCUENGH) — TAI-KADAI · GUANGXI · WITHIN CHINA</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="0.3"/>
+<text x="240" y="375" text-anchor="middle" class="H">— ZHUANG: TWO WRITING SYSTEMS —</text>
+<text x="240" y="386" text-anchor="middle" class="Ls">SAWNDIP (方块壮字): traditional logographic, borrows/invents Chinese characters</text>
+<text x="240" y="397" text-anchor="middle" class="Ls">~10th c. CE: Zhuang adapted Chinese characters for Zhuang sounds and meanings</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">Unlike Chinese, Sawndip characters encode Zhuang words (Tai-Kadai morphemes)</text>
+<line x1="20" y1="414" x2="460" y2="414" stroke="black" stroke-width="0.3"/>
+<text x="240" y="424" text-anchor="middle" class="H">ZHUANG LATIN (SAWCUENGH) SCRIPT</text>
+<text x="240" y="435" text-anchor="middle" class="Ls">Standardized 1957, revised 1982 · 26 letters + digraphs</text>
+<text x="240" y="446" text-anchor="middle" class="Ls">Tones encoded by suffix letters: (none)=T1 b=T2 x=T3 j=T4 q=T5 h=T6</text>
+<line x1="20" y1="452" x2="460" y2="452" stroke="black" stroke-width="0.3"/>
+<text x="240" y="462" text-anchor="middle" class="H">MANDARIN vs ZHUANG SCRIPT CONTRAST</text>
+<text x="100" y="473" text-anchor="middle" class="Lx">FEATURE</text>
+<text x="240" y="473" text-anchor="middle" class="Lx">MANDARIN</text>
+<text x="390" y="473" text-anchor="middle" class="Lx">ZHUANG</text>
+<line x1="20" y1="477" x2="460" y2="477" stroke="black" stroke-width="0.3"/>
+<text x="100" y="486" text-anchor="middle" class="Ls">Script type</text>
+<text x="240" y="486" text-anchor="middle" class="Ls">Logographic (characters)</text>
+<text x="390" y="486" text-anchor="middle" class="Ls">Latin + Sawndip</text>
+<text x="100" y="496" text-anchor="middle" class="Ls">Characters</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">~50,000 historically</text>
+<text x="390" y="496" text-anchor="middle" class="Ls">26 letters + tone suffixes</text>
+<text x="100" y="506" text-anchor="middle" class="Ls">Tone marking</text>
+<text x="240" y="506" text-anchor="middle" class="Ls">Diacritics over vowels</text>
+<text x="390" y="506" text-anchor="middle" class="Ls">Suffix letters (b/x/j/q/h)</text>
+<text x="100" y="516" text-anchor="middle" class="Ls">Tones</text>
+<text x="240" y="516" text-anchor="middle" class="Ls">4 + neutral</text>
+<text x="390" y="516" text-anchor="middle" class="Ls">6 tones (Northern Zhuang)</text>
+<line x1="20" y1="521" x2="460" y2="521" stroke="black" stroke-width="0.3"/>
+<text x="240" y="531" text-anchor="middle" class="H">CHINESE LOANWORDS IN ZHUANG</text>
+<text x="240" y="542" text-anchor="middle" class="Ls">Centuries of Mandarin contact: Zhuang has many Sinitic loanwords</text>
+<text x="240" y="553" text-anchor="middle" class="Ls">suh (書 shu, book) · biengz (边 bian, side/border) · mwngz (下人, inferior)</text>
+<line x1="20" y1="559" x2="460" y2="559" stroke="black" stroke-width="0.3"/>
+<text x="240" y="569" text-anchor="middle" class="H">SAMPLE ZHUANG WORDS (LATIN SCRIPT)</text>
+<text x="240" y="580" text-anchor="middle" class="Ls">vah (word/speech) · miz (have) · mbouj (not) · raeuz (we)</text>
+<text x="240" y="591" text-anchor="middle" class="Ls">gij (what/which) · ndaej (can/obtain) · Vahcuengh (Zhuang language)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 17A ALT · MANDARIN / ZHUANG · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

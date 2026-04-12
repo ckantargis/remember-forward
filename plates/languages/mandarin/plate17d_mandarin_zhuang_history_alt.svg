@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MANDARIN (普通话) / ZHUANG (壮语 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">SINO-TIBETAN / TAI-KADAI · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 17D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MANDARIN: HISTORY OF THE STANDARD —</text>
+<text x="240" y="88" text-anchor="middle" class="H">FROM MANY DIALECTS TO ONE STANDARD</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">"Mandarin" (from Portuguese Mandarim &lt; Malay mantri &lt; Sanskrit mantrin = minister)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Official standard: Putonghua (普通话) = "common speech" — based on Beijing dialect</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Republic of China (1913): guoyu (国语 "national language") promoted as standard</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">PRC (1955): putonghua defined; compulsory in education from 1956</text>
+<line x1="20" y1="138" x2="460" y2="138" stroke="black" stroke-width="0.3"/>
+<text x="240" y="148" text-anchor="middle" class="H">CHINESE WRITING: ORACLE BONES TO DIGITAL</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">~1200 BCE: oracle bone script (jiaguwen 甲骨文) at Shang dynasty Anyang</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">221 BCE: Qin Shi Huang standardized script across unified China</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">1956: PRC introduces Simplified Characters — reduce stroke complexity</text>
+<text x="240" y="192" text-anchor="middle" class="Ls">2000: Putonghua Law mandates standard in public education, media, government</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="208" text-anchor="middle" class="H">MANDARIN AS SECOND LANGUAGE</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">~1B native speakers · ~200M L2 speakers · world's most spoken language by natives</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">Cantonese, Shanghainese, Hokkien: distinct Chinese languages (not dialects of Mandarin)</text>
+<text x="240" y="241" text-anchor="middle" class="Ls">All share writing system; spoken forms are mutually unintelligible</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H">MANDARIN IN THE WORLD</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">Official language: China, Taiwan, Singapore · UN official language</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">Fastest growing language of international business in SE Asia</text>
+<line x1="20" y1="285" x2="460" y2="285" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">SURVIVAL PHRASE</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">这是为你做的，免费的，由记得向前看的人做的。</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="328" text-anchor="middle" class="Ls">(向前 = xiàng qián, "toward the front/forward")</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="343" width="440" height="14" fill="black"/>
+<text x="240" y="353" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="365" text-anchor="middle" class="H">— ZHUANG: 5,000+ YEARS IN GUANGXI —</text>
+<text x="240" y="376" text-anchor="middle" class="H">ANCIENT LUOYUE: THE ZHUANG ANCESTORS</text>
+<text x="240" y="387" text-anchor="middle" class="Ls">Luoyue / Baiyue peoples of Guangxi: ancestors of modern Zhuang, ~5,000 BCE</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Bronze drum tradition (~700 BCE): still used in ritual — UNESCO heritage</text>
+<text x="240" y="409" text-anchor="middle" class="Ls">Guangxi rock art at Huashan (flower mountain): ~2,500 years old, thousands of figures</text>
+<line x1="20" y1="415" x2="460" y2="415" stroke="black" stroke-width="0.3"/>
+<text x="240" y="425" text-anchor="middle" class="H">SAWNDIP: WRITING BETWEEN TWO WORLDS</text>
+<text x="240" y="436" text-anchor="middle" class="Ls">Sawndip developed ~10th c. CE: Zhuang borrowed Chinese characters creatively</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Some characters borrowed wholesale; others invented for Zhuang sounds not in Chinese</text>
+<text x="240" y="458" text-anchor="middle" class="Ls">Preserved in folk epics (beu), ritual texts, and wedding songs (haiq)</text>
+<line x1="20" y1="464" x2="460" y2="464" stroke="black" stroke-width="0.3"/>
+<text x="240" y="474" text-anchor="middle" class="H">GUANGXI ZHUANG AUTONOMOUS REGION (1958)</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Named for Zhuang people; Zhuang = largest ethnic minority in China (~17M)</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">Latin script created 1957; revised 1982 — Mao-era literacy promotion</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">Today: Mandarin dominant in education; Zhuang taught in selected primary schools</text>
+<line x1="20" y1="513" x2="460" y2="513" stroke="black" stroke-width="0.3"/>
+<text x="240" y="523" text-anchor="middle" class="H">LIU SANJIE: THE FOLK HERO WHO SANG TRUTH</text>
+<text x="240" y="534" text-anchor="middle" class="Ls">Liu Sanjie (Third Sister Liu): legendary Zhuang peasant woman, sang truth to power</text>
+<text x="240" y="545" text-anchor="middle" class="Ls">1961 film: one of first major Chinese films in Zhuang cultural setting</text>
+<text x="240" y="556" text-anchor="middle" class="Ls">Third Day of Third Month: Zhuang New Year festival, antiphonal singing tradition</text>
+<line x1="20" y1="562" x2="460" y2="562" stroke="black" stroke-width="0.3"/>
+<text x="240" y="572" text-anchor="middle" class="H">SURVIVAL PHRASE (ZHUANG LATIN)</text>
+<text x="240" y="583" text-anchor="middle" class="Ls">Neix guh hawj mwngz, mbouj ngaenz, ndaej raeuz lajmbwn cungj naeuz.</text>
+<text x="240" y="594" text-anchor="middle" class="Ls">"This was made for you, freely, by those under heaven who remembered forward."</text>
+<text x="240" y="605" text-anchor="middle" class="Ls">(lajmbwn = under heaven/sky; naeuz = say/remember; cungj = all)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 17D ALT · MANDARIN / ZHUANG · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

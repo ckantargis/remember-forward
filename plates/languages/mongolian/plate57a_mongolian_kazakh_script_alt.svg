@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">MONGOLIAN (монгол хэл) / KAZAKH (қазақ тілі)</text>
+<text x="240" y="44" text-anchor="middle" class="S">MONGOLIC / TURKIC · EURASIAN STEPPE · BORDERING PEOPLES</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 57A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— MONGOLIAN: TWO SCRIPTS IN PARALLEL —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Traditional Mongolian Script (ᠤᠠᠨᠭᠠᠯ ᠪᠢᠴᠢᠭ): vertical, read top-to-bottom, left-to-right</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Derived from Old Uyghur script (which came from Sogdian, which came from Aramaic)</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Letters change form depending on position (initial/medial/final) in a word</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Inner Mongolia (China): traditional script officially in use alongside Chinese</text>
+<line x1="20" y1="128" x2="460" y2="128" stroke="black" stroke-width="0.3"/>
+<text x="240" y="138" text-anchor="middle" class="H">MONGOLIAN CYRILLIC (SINCE 1941)</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">35 letters: 33 Russian Cyrillic + 2 added (Ө /ø/ and Ү /y/) for Mongolian sounds</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Mongolia (nation): Cyrillic standard since 1941 under Soviet influence</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">2020: Mongolia announced revival of traditional script alongside Cyrillic</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">MONGOLIAN CONSONANTS &amp; VOWELS</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">Consonants: /p b t d ts dz k g/ · /m n ŋ/ · /f s ʃ x h/ · /r l j w/</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">7 vowels: /a e i o u ø y/ — with Cyrillic: a э и o у ө ү</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">VOWEL HARMONY: back vowels (a o u) vs front vowels (э ө ү) in each word</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="236" text-anchor="middle" class="H">VOWEL HARMONY IN MONGOLIAN</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">Back-vowel word: газар /ɡa.zər/ (gazar) = land/place</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Front-vowel word: түмэн /tø.mən/ (tumen) = 10,000 / abyss</text>
+<text x="240" y="269" text-anchor="middle" class="Ls">Suffixes harmonize: -t (+back) vs -эд (+front) = same grammatical function</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="285" text-anchor="middle" class="H">MONGOLIAN TRADITIONAL SCRIPT SAMPLE</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">ᠤᠠᠨᠭᠠᠯ ᠪᠢᠴᠢᠭ = "Mongolian language" (traditional script, read vertically)</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">монгол хэл = mongol khel (Cyrillic) = Mongolian language</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="black" stroke-width="0.3"/>
+<text x="240" y="323" text-anchor="middle" class="H">SAMPLE WORDS (CYRILLIC)</text>
+<text x="240" y="334" text-anchor="middle" class="Ls">сайн байна (sain baina uu?) = hello (lit. "are you well?")</text>
+<text x="240" y="345" text-anchor="middle" class="Ls">баярла (bayarlaa) = thank you · ус (us) = water</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="360" width="440" height="14" fill="black"/>
+<text x="240" y="370" text-anchor="middle" class="Hb" fill="white">KAZAKH (қазақ тілі) — TURKIC · STEPPE NEIGHBOR</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H">— KAZAKH: THREE SCRIPTS, ONE LANGUAGE —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Kazakh has been written in THREE different scripts in the modern era:</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">1. Arabic script (traditional; still used by Kazakhs in China/Xinjiang)</text>
+<text x="240" y="415" text-anchor="middle" class="Ls">2. Cyrillic (Soviet period, 1940–present; still primary in Kazakhstan)</text>
+<text x="240" y="426" text-anchor="middle" class="Ls">3. Latin (announced 2017; transition ongoing; target: all by 2031)</text>
+<line x1="20" y1="432" x2="460" y2="432" stroke="black" stroke-width="0.3"/>
+<text x="240" y="442" text-anchor="middle" class="H">KAZAKH CYRILLIC: 42 LETTERS</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">33 Russian Cyrillic + 9 added: ә ғ қ ң ө ү ұ і һ</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">Extra letters mark sounds not in Russian: /q/ /ғ/ /ŋ/ /ɢ/ /ɣ/ /ħ/ etc.</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="H">KAZAKH LATIN (CURRENT TRANSITION VERSION)</text>
+<text x="240" y="491" text-anchor="middle" class="Ls">Uses apostrophe-based notation: Aʼ, Oʼ, Uʼ, Yʼ, Gʼ, Nʼ for special sounds</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">Controversial: apostrophes in every other word impede readability</text>
+<text x="240" y="513" text-anchor="middle" class="Ls">Revised versions proposed; final form not yet settled (as of 2026)</text>
+<line x1="20" y1="519" x2="460" y2="519" stroke="black" stroke-width="0.3"/>
+<text x="240" y="529" text-anchor="middle" class="H">KAZAKH VOWEL HARMONY (9 VOWELS)</text>
+<text x="240" y="540" text-anchor="middle" class="Ls">Back: a o u ы ә (ә = schwa) · Front: е ө ү і</text>
+<text x="240" y="551" text-anchor="middle" class="Ls">Suffixes harmonize: -lar (back) vs -ler (front) for plural</text>
+<text x="240" y="562" text-anchor="middle" class="Ls">ат /at/ (horse) → ат-тар (horses) · үй /øj/ (house) → үй-лер (houses)</text>
+<line x1="20" y1="568" x2="460" y2="568" stroke="black" stroke-width="0.3"/>
+<text x="240" y="578" text-anchor="middle" class="H">SAMPLE WORDS (KAZAKH CYRILLIC)</text>
+<text x="240" y="589" text-anchor="middle" class="Ls">Сәлеметсіз бе? (салеметсіз бе?) = hello (are you well?)</text>
+<text x="240" y="600" text-anchor="middle" class="Ls">рахмет (rakhmet) = thank you · су (su) = water</text>
+<text x="240" y="611" text-anchor="middle" class="Ls">Both languages greet with "are you well?" — steppe hospitality encoded in grammar</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 57A ALT · MONGOLIAN / KAZAKH · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
