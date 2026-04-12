@@ -39,7 +39,7 @@ METADATA = {
     'title':       'Remember Forward — The Patient Message: Plate Series',
     'mediatype':   'data',
     'creator':     'Remember Forward',
-    'date':        '2026-04-04',
+    'date':        '2026-04-12',
     'description': (
         'An open-source system of laser-engraver-ready SVG plate designs '
         'for time capsules intended to preserve human knowledge and language '
@@ -48,12 +48,23 @@ METADATA = {
         'steel plates, sealed in a durable container, and buried or hidden for '
         'discovery by future people who may have lost context. '
         '\n\n'
-        'This upload contains 46 plates (of a planned 214) as of April 2026: '
-        '10 knowledge plates covering survival, agriculture, technology, governance, '
-        'physics, and energy; and 36 language plates across 6 series: '
-        'Hebrew (Biblical, Mishnaic, Yemenite, Modern — 16 plates), '
-        'Arabic (4 plates), Tamil (4 plates), Sanskrit (4 plates), '
-        'Bengali (4 plates), and Mandarin Chinese (4 plates). '
+        'This upload contains the complete plate series as of April 2026: '
+        '11 knowledge plates (survival, water, agriculture, technology, governance, '
+        'physics, electricity, energy generation, and more); '
+        '232 main language plates across 58 language series spanning all major world '
+        'language families (Indo-European, Semitic, Dravidian, Sino-Tibetan, Austronesian, '
+        'Niger-Congo, Afroasiatic, sign languages, and more); '
+        'and 232 alternate draft plates pairing each language with a geographically '
+        'nearby secondary language to show structural contrast between neighboring traditions. '
+        '\n\n'
+        'Languages include: Hebrew (4 registers), Arabic, Tamil, Sanskrit, Bengali, '
+        'Mandarin, Japanese, Malay/Indonesian, Swahili, Greek, Latin, Persian, Russian, '
+        'Hindi, Yoruba, Igbo, Amharic, Tigrinya, Somali, Hausa, Zulu, Shona, Lingala, '
+        'Vietnamese, Thai, Burmese, Khmer, Lao, Javanese, Tagalog, Korean, Turkish, '
+        'Urdu, Pashto, Punjabi, Tibetan, Mongolian, Quechua, Nahuatl, Hawaiian, '
+        'Tok Pisin, English, Dutch, German, French, Spanish, Portuguese, Italian, '
+        'Latin, Greek, ASL, BSL, LSF, CSL, LIBRAS, Egyptian Arabic, Ancient Egyptian, '
+        'and more. '
         '\n\n'
         'Each language series comprises four plates: '
         'A (Script and writing system), '
@@ -72,20 +83,16 @@ METADATA = {
         'time capsule',
         'knowledge preservation',
         'language preservation',
-        'post-apocalyptic',
+        'civilizational continuity',
         'SVG',
         'laser engraving',
         'open source',
-        'Hebrew',
-        'Arabic',
-        'Tamil',
-        'Sanskrit',
-        'Bengali',
-        'Mandarin Chinese',
-        'constructed languages',
+        'writing systems',
         'interlinear translation',
         'IPA',
-        'writing systems',
+        'sign languages',
+        'post-catastrophe',
+        'multilingual',
         'CC BY-SA',
     ],
     'licenseurl':  'https://creativecommons.org/licenses/by-sa/4.0/',
