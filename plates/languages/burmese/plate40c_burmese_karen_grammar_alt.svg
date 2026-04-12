@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:11px} .Lbs{font-size:8px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BURMESE + S’GAW KAREN — GRAMMAR</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 40C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BURMESE GRAMMAR — SOV · PARTICLE-MARKING —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Burmese is Subject-Object-Verb (SOV). Verb always comes last. Particles follow every major phrase.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">nga htamin sa de — I rice eat (present). nga=I, htamin=rice, sa=eat, de=assertion particle.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— CASE PARTICLES —</text>
+<text x="130" y="108" text-anchor="middle" class="Ls">-ga / -kə</text>
+<text x="320" y="108" text-anchor="middle" class="Lx">subject/topic marker</text>
+<text x="130" y="118" text-anchor="middle" class="Ls">-go</text>
+<text x="320" y="118" text-anchor="middle" class="Lx">object / direction</text>
+<text x="130" y="128" text-anchor="middle" class="Ls">-hma</text>
+<text x="320" y="128" text-anchor="middle" class="Lx">locative (at/in/on)</text>
+<text x="130" y="138" text-anchor="middle" class="Ls">-pei</text>
+<text x="320" y="138" text-anchor="middle" class="Lx">benefactive (for)</text>
+<text x="130" y="148" text-anchor="middle" class="Ls">-hə</text>
+<text x="320" y="148" text-anchor="middle" class="Lx">ablative (from)</text>
+<text x="130" y="158" text-anchor="middle" class="Ls">-nə</text>
+<text x="320" y="158" text-anchor="middle" class="Lx">instrumental (with/by)</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H">— VERB ASPECT PARTICLES —</text>
+<text x="130" y="193" text-anchor="middle" class="Ls">sa de</text>
+<text x="330" y="193" text-anchor="middle" class="Lx">eats (present assertion)</text>
+<text x="130" y="203" text-anchor="middle" class="Ls">sa mɛ</text>
+<text x="330" y="203" text-anchor="middle" class="Lx">will eat (future)</text>
+<text x="130" y="213" text-anchor="middle" class="Ls">sa bí</text>
+<text x="330" y="213" text-anchor="middle" class="Lx">ate (past completive)</text>
+<text x="130" y="223" text-anchor="middle" class="Ls">sa ʡæ</text>
+<text x="330" y="223" text-anchor="middle" class="Lx">is eating (progressive)</text>
+<text x="130" y="233" text-anchor="middle" class="Ls">ma-sa-bú</text>
+<text x="330" y="233" text-anchor="middle" class="Lx">did not eat (past negative)</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="260" text-anchor="middle" class="H">— BURMESE CORE VOCABULARY —</text>
+<text x="90" y="270" text-anchor="middle" class="Ls">ye</text>
+<text x="170" y="270" text-anchor="middle" class="Lx">water</text>
+<text x="310" y="270" text-anchor="middle" class="Ls">míq</text>
+<text x="390" y="270" text-anchor="middle" class="Lx">fire</text>
+<text x="90" y="280" text-anchor="middle" class="Ls">məjé</text>
+<text x="170" y="280" text-anchor="middle" class="Lx">earth</text>
+<text x="310" y="280" text-anchor="middle" class="Ls">lu</text>
+<text x="390" y="280" text-anchor="middle" class="Lx">person</text>
+<text x="90" y="290" text-anchor="middle" class="Ls">là</text>
+<text x="170" y="290" text-anchor="middle" class="Lx">moon</text>
+<text x="310" y="290" text-anchor="middle" class="Ls">nä-nä</text>
+<text x="390" y="290" text-anchor="middle" class="Lx">future</text>
+<text x="90" y="300" text-anchor="middle" class="Ls">mhàu-zà</text>
+<text x="170" y="300" text-anchor="middle" class="Lx">memory</text>
+<text x="310" y="300" text-anchor="middle" class="Ls">víq-thà</text>
+<text x="390" y="300" text-anchor="middle" class="Lx">freedom</text>
+<line x1="20" y1="314" x2="460" y2="314" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="317" width="440" height="14" fill="black"/>
+<text x="240" y="327" text-anchor="middle" class="Hb" fill="white">SECONDARY — S’GAW KAREN — GRAMMAR · SVO ORDER</text>
+<line x1="20" y1="331" x2="460" y2="331" stroke="black" stroke-width="0.3"/>
+<text x="240" y="340" text-anchor="middle" class="H">— S’GAW KAREN — SVO WORD ORDER (TYPOLOGICAL CONTRAST) —</text>
+<text x="240" y="350" text-anchor="middle" class="Ls">S’gaw Karen is Subject-Verb-Object (SVO) — a major typological contrast with Burmese SOV.</text>
+<text x="240" y="359" text-anchor="middle" class="Lx">Despite being geographically adjacent and Tibeto-Burman relatives, these two languages have opposite word order.</text>
+<text x="240" y="368" text-anchor="middle" class="Lx">Karen SVO: Saw ta ler — Person drinks water. (saw=person, ta=drink, ler=water)</text>
+<line x1="20" y1="376" x2="460" y2="376" stroke="black" stroke-width="0.3"/>
+<text x="240" y="384" text-anchor="middle" class="H">— S’GAW KAREN — ISOLATING STRUCTURE —</text>
+<text x="240" y="394" text-anchor="middle" class="Ls">Karen is highly isolating. Words do not inflect for tense, number, or case. Context + particles signal grammar.</text>
+<text x="240" y="403" text-anchor="middle" class="Lx">Tense markers: temporal adverbs and particles (yesterday / tomorrow / now) placed before or after the verb.</text>
+<text x="240" y="412" text-anchor="middle" class="Lx">Negation: particle placed before verb. Yes/no questions: rising intonation or final question particle.</text>
+<line x1="20" y1="420" x2="460" y2="420" stroke="black" stroke-width="0.3"/>
+<text x="240" y="428" text-anchor="middle" class="H">— S’GAW KAREN — CORE VOCABULARY —</text>
+<text x="90" y="438" text-anchor="middle" class="Ls">ler</text>
+<text x="180" y="438" text-anchor="middle" class="Lx">water</text>
+<text x="310" y="438" text-anchor="middle" class="Ls">mi</text>
+<text x="400" y="438" text-anchor="middle" class="Lx">fire</text>
+<text x="90" y="448" text-anchor="middle" class="Ls">hsa</text>
+<text x="180" y="448" text-anchor="middle" class="Lx">earth/ground</text>
+<text x="310" y="448" text-anchor="middle" class="Ls">saw</text>
+<text x="400" y="448" text-anchor="middle" class="Lx">person/man</text>
+<text x="90" y="458" text-anchor="middle" class="Ls">naw</text>
+<text x="180" y="458" text-anchor="middle" class="Lx">woman</text>
+<text x="310" y="458" text-anchor="middle" class="Ls">ta taw</text>
+<text x="400" y="458" text-anchor="middle" class="Lx">moon</text>
+<text x="90" y="468" text-anchor="middle" class="Ls">pga k̂nyŵ</text>
+<text x="180" y="468" text-anchor="middle" class="Lx">language</text>
+<text x="310" y="468" text-anchor="middle" class="Ls">pghe</text>
+<text x="400" y="468" text-anchor="middle" class="Lx">remember</text>
+<text x="90" y="478" text-anchor="middle" class="Ls">tha</text>
+<text x="180" y="478" text-anchor="middle" class="Lx">heart</text>
+<text x="310" y="478" text-anchor="middle" class="Ls">mu</text>
+<text x="400" y="478" text-anchor="middle" class="Lx">sky / future</text>
+<text x="90" y="488" text-anchor="middle" class="Ls">k̂law</text>
+<text x="180" y="488" text-anchor="middle" class="Lx">freedom</text>
+<text x="310" y="488" text-anchor="middle" class="Ls">kaw lah</text>
+<text x="400" y="488" text-anchor="middle" class="Lx">Karen people</text>
+<line x1="20" y1="502" x2="460" y2="502" stroke="black" stroke-width="0.3"/>
+<text x="240" y="510" text-anchor="middle" class="H">— GRAMMAR BRIDGE — SOV vs. SVO —</text>
+<text x="240" y="520" text-anchor="middle" class="Ls">Burmese (SOV): nga htamin sa de — I rice eat-ASSERT.</text>
+<text x="240" y="529" text-anchor="middle" class="Ls">S’gaw Karen (SVO): Nga ta htamin — I eat rice. Verb precedes object.</text>
+<text x="240" y="538" text-anchor="middle" class="Lx">Two Tibeto-Burman languages, 500 miles apart — opposite word orders. Both monosyllabic, both tonal.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 40C ALT · Burmese / S’gaw Karen · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

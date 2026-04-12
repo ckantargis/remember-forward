@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:11px} .Lbs{font-size:8px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BURMESE + S’GAW KAREN — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 40B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BURMESE — THREE-TONE SYSTEM —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Burmese is a tonal language with 3 phonemic tones + a 4th “checked” syllable type:</text>
+<text x="110" y="83" text-anchor="middle" class="Ls">Level (low)</text>
+<text x="330" y="83" text-anchor="middle" class="Lx">short, modal voice, mid-low pitch: ma = horse</text>
+<text x="110" y="94" text-anchor="middle" class="Ls">Heavy (long)</text>
+<text x="330" y="94" text-anchor="middle" class="Lx">long, creaky voice, falling pitch: mà = come</text>
+<text x="110" y="105" text-anchor="middle" class="Ls">Creaky (high)</text>
+<text x="330" y="105" text-anchor="middle" class="Lx">short, creaky, glottal stop: ma' = hard</text>
+<text x="110" y="116" text-anchor="middle" class="Ls">Checked (stop)</text>
+<text x="330" y="116" text-anchor="middle" class="Lx">unreleased stop coda; short, high, glottal</text>
+<line x1="20" y1="128" x2="460" y2="128" stroke="black" stroke-width="0.3"/>
+<text x="240" y="136" text-anchor="middle" class="H">— BURMESE CONSONANTS — KEY CONTRASTS —</text>
+<text x="240" y="146" text-anchor="middle" class="Ls">Burmese distinguishes voiceless / aspirated / voiced series. 4 nasal consonants.</text>
+<text x="70" y="156" text-anchor="middle" class="Lx">p /p/</text>
+<text x="180" y="156" text-anchor="middle" class="Lx">ph /pʰ/</text>
+<text x="290" y="156" text-anchor="middle" class="Lx">b /b/</text>
+<text x="400" y="156" text-anchor="middle" class="Lx">bilabial</text>
+<text x="70" y="167" text-anchor="middle" class="Lx">t /t/</text>
+<text x="180" y="167" text-anchor="middle" class="Lx">th /tʰ/</text>
+<text x="290" y="167" text-anchor="middle" class="Lx">d /d/</text>
+<text x="400" y="167" text-anchor="middle" class="Lx">alveolar</text>
+<text x="70" y="178" text-anchor="middle" class="Lx">k /k/</text>
+<text x="180" y="178" text-anchor="middle" class="Lx">kh /kʰ/</text>
+<text x="290" y="178" text-anchor="middle" class="Lx">g /g/</text>
+<text x="400" y="178" text-anchor="middle" class="Lx">velar</text>
+<text x="70" y="189" text-anchor="middle" class="Lx">c /tɕ/</text>
+<text x="180" y="189" text-anchor="middle" class="Lx">ch /tɕʰ/</text>
+<text x="290" y="189" text-anchor="middle" class="Lx">j /dʒ/</text>
+<text x="400" y="189" text-anchor="middle" class="Lx">palatal aff.</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="213" text-anchor="middle" class="H">— BURMESE MEDIALS — COMPLEX ONSET CLUSTERS —</text>
+<text x="240" y="223" text-anchor="middle" class="Ls">Burmese allows medial consonants (y, w, r, h) before the vowel within one syllable:</text>
+<text x="240" y="232" text-anchor="middle" class="Lx">kya /tɕa/, mya /mja/, kwa /kwa/, hma /m̩a/. Medials change the onset phonologically.</text>
+<line x1="20" y1="241" x2="460" y2="241" stroke="black" stroke-width="0.3"/>
+<text x="240" y="249" text-anchor="middle" class="H">— BURMESE VOWEL SYSTEM —</text>
+<text x="240" y="259" text-anchor="middle" class="Ls">Short/long pairs: a/aa, i/ii, u/uu, e/ee, o/oo. Diphthongs: ai, au, ia, ua.</text>
+<text x="240" y="268" text-anchor="middle" class="Lx">Schwa /ə/ common in unstressed syllables (often written -a). Vowel length + tone = distinct syllable types.</text>
+<line x1="20" y1="278" x2="460" y2="278" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="281" width="440" height="14" fill="black"/>
+<text x="240" y="291" text-anchor="middle" class="Hb" fill="white">SECONDARY — S’GAW KAREN — PHONOLOGY · SEVEN TONES</text>
+<line x1="20" y1="295" x2="460" y2="295" stroke="black" stroke-width="0.3"/>
+<text x="240" y="304" text-anchor="middle" class="H">— S’GAW KAREN — SEVEN-TONE SYSTEM —</text>
+<text x="240" y="314" text-anchor="middle" class="Ls">S’gaw Karen has 7 phonemic tones — more than any of its Burmese neighbors:</text>
+<text x="70" y="324" text-anchor="middle" class="Lx">Tone 1</text>
+<text x="190" y="324" text-anchor="middle" class="Lx">high level</text>
+<text x="360" y="324" text-anchor="middle" class="Lx">highest pitch, sustained</text>
+<text x="70" y="334" text-anchor="middle" class="Lx">Tone 2</text>
+<text x="190" y="334" text-anchor="middle" class="Lx">high falling</text>
+<text x="360" y="334" text-anchor="middle" class="Lx">starts high, drops quickly</text>
+<text x="70" y="344" text-anchor="middle" class="Lx">Tone 3</text>
+<text x="190" y="344" text-anchor="middle" class="Lx">mid level</text>
+<text x="360" y="344" text-anchor="middle" class="Lx">modal voice, mid pitch</text>
+<text x="70" y="354" text-anchor="middle" class="Lx">Tone 4</text>
+<text x="190" y="354" text-anchor="middle" class="Lx">low falling</text>
+<text x="360" y="354" text-anchor="middle" class="Lx">drops to low register</text>
+<text x="70" y="364" text-anchor="middle" class="Lx">Tone 5</text>
+<text x="190" y="364" text-anchor="middle" class="Lx">low checked</text>
+<text x="360" y="364" text-anchor="middle" class="Lx">short + glottal stop, low</text>
+<text x="70" y="374" text-anchor="middle" class="Lx">Tone 6</text>
+<text x="190" y="374" text-anchor="middle" class="Lx">high rising</text>
+<text x="360" y="374" text-anchor="middle" class="Lx">rises sharply, breathy</text>
+<text x="70" y="384" text-anchor="middle" class="Lx">Tone 7</text>
+<text x="190" y="384" text-anchor="middle" class="Lx">mid checked</text>
+<text x="360" y="384" text-anchor="middle" class="Lx">short stop, mid register</text>
+<line x1="20" y1="398" x2="460" y2="398" stroke="black" stroke-width="0.3"/>
+<text x="240" y="406" text-anchor="middle" class="H">— S’GAW KAREN — CONSONANT INVENTORY —</text>
+<text x="240" y="416" text-anchor="middle" class="Ls">Rich stop series: voiceless/aspirated/voiced across bilabial, alveolar, velar, glottal positions.</text>
+<text x="240" y="425" text-anchor="middle" class="Lx">Implosive consonants: /ɓ/ (bilabial), /ɗ/ (alveolar) — absent from Burmese. Distinctive resonant quality.</text>
+<text x="240" y="434" text-anchor="middle" class="Lx">Uvular stop /q/ and uvular fricative present in some dialects (Pwo Karen sub-group).</text>
+<line x1="20" y1="442" x2="460" y2="442" stroke="black" stroke-width="0.3"/>
+<text x="240" y="450" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — TONAL COMPARISON —</text>
+<text x="240" y="460" text-anchor="middle" class="Ls">Burmese: 3 tones + checked. Karen: 7 tones. Both are Tibeto-Burman; both are monosyllabic-dominant.</text>
+<text x="240" y="469" text-anchor="middle" class="Lx">Despite shared family, the tone systems diverged significantly. More tones = more minimal pairs resolved by tone alone.</text>
+<text x="240" y="478" text-anchor="middle" class="Lx">Example: S’gaw Karen “ler” with different tones = water / cry / sky / down. Tone is lexically contrastive.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 40B ALT · Burmese / S’gaw Karen · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

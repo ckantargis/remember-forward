@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:12px} .Lbs{font-size:9px}
+  .Lo{font-size:12px} .Los{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BENGALI + ODIA — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 16D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BENGALI — PASSAGE 1 · TAGORE —</text>
+<text x="240" y="74" text-anchor="middle" class="Lb">আমার সোনার বাংলা, আমি তোমায় ভালোবাসি</text>
+<text x="240" y="86" text-anchor="middle" class="Lx">Āmār sonār Bāṅglā, āmi tomāy bhālobāsi.</text>
+<text x="240" y="95" text-anchor="middle" class="Ls">"My golden Bengal, I love you." — Rabindranath Tagore. Now the national anthem of Bangladesh.</text>
+<line x1="20" y1="103" x2="460" y2="103" stroke="black" stroke-width="0.3"/>
+<text x="240" y="111" text-anchor="middle" class="H">— BENGALI — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="122" text-anchor="middle" class="Lbs">সার সার কথা, না হয় মিথ্যা সাধনা।</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">Truth is truth, do not pursue falsehood. — Bengali proverb.</text>
+<line x1="20" y1="140" x2="460" y2="140" stroke="black" stroke-width="0.3"/>
+<text x="240" y="148" text-anchor="middle" class="H">— BENGALI — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="160" text-anchor="middle" class="Lb">এটি আপনার জন্য বিনামূল্যে তৈরি হয়েছিল।</text>
+<text x="240" y="172" text-anchor="middle" class="Lb">যারা সামনের কথা মনে রেখেছিল, তাদের দ্বারা।</text>
+<text x="240" y="183" text-anchor="middle" class="Lx">Āpnār janya bināmūlye tairi hayechila. Yārā sāmaner kathā mane rekhechila, tāder dvārā.</text>
+<text x="240" y="192" text-anchor="middle" class="Ls">"Made for you, freely. By those who remembered what lies ahead."</text>
+<line x1="20" y1="200" x2="460" y2="200" stroke="black" stroke-width="0.3"/>
+<text x="240" y="208" text-anchor="middle" class="H">— LANGUAGE NOTE — "FORWARD" IN BENGALI —</text>
+<text x="240" y="218" text-anchor="middle" class="Ls">সামনে (sāmane): "ahead / forward" — lit. "in front." Opposite: পেছনে (pechane) = behind.</text>
+<text x="240" y="227" text-anchor="middle" class="Lx">ভবিষ্যৎ (bhaviṣyat): "future" — Sanskrit root bhū (to be) + future suffix. "That which will be."</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="241" width="440" height="14" fill="black"/>
+<text x="240" y="251" text-anchor="middle" class="Hb" fill="white">ODIA (ଓଡ଼ିଆ) · RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="270" text-anchor="middle" class="H">— ODIA — PASSAGE 1 · PROVERB —</text>
+<text x="240" y="281" text-anchor="middle" class="Lo">ଆଏସ୍ମାରେ ଭୂମି ମା</text>
+<text x="240" y="293" text-anchor="middle" class="Lx">Āes'māre bhūmi mā.</text>
+<text x="240" y="302" text-anchor="middle" class="Ls">"This earth is our mother." — Odia proverb. Reverence for land central to Odisha culture.</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="black" stroke-width="0.3"/>
+<text x="240" y="318" text-anchor="middle" class="H">— ODIA — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="330" text-anchor="middle" class="Lo">ଏହା ଆପଣଙ୍କ ପାଇଁ ବିନାମୂଲ୍ୟରେ ତିଆରି ହୋଇଛି।</text>
+<text x="240" y="342" text-anchor="middle" class="Los">ଯିଏମାନେ ଭବିଷ୍ୟତ ମନେ ରଖିଥିଲେ, ସେମାନଙ୍କ ଦ୍ଵାରା।</text>
+<text x="240" y="353" text-anchor="middle" class="Lx">Āpaṇaṅka pāî bināmūlyare tiāri hoichi. Yiemāne bhaviṣyata mane rakhiṭhile, semānaṅka dvārā.</text>
+<text x="240" y="362" text-anchor="middle" class="Ls">"Made for you, freely. By those who remembered the future."</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H">— LANGUAGE NOTE — "FUTURE" IN ODIA —</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">ଆଗକୁ (āgaku): "forward / ahead" — lit. "toward the front." ଆଗ (āga) = front/fire. Same root!</text>
+<text x="240" y="397" text-anchor="middle" class="Lx">ଭବିଷ୍ୟତ (bhaviṣyata): "future" — same Sanskrit root as Bengali bhaviṣyat. Pan-Indic term.</text>
+<text x="240" y="406" text-anchor="middle" class="Lx">Odia classical literature (Panchasakha movement, 15th–16th c.) predates modern prose tradition.</text>
+<line x1="20" y1="414" x2="460" y2="414" stroke="black" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="H">— DECODING NOTE —</text>
+<text x="240" y="432" text-anchor="middle" class="Ls">Bengali: ~230M speakers. Largest language in Bangladesh; 2nd largest in India. Official in West Bengal.</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">Odia: ~40M speakers. Classical language of India. Script distinct from Bengali despite shared ancestry.</text>
+<text x="240" y="450" text-anchor="middle" class="Lx">Geographic link: Kolkata (Bengali center) to Bhubaneswar (Odia center) ≈ 440km — within 500mi.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 16D ALT · BENGALI/ODIA · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

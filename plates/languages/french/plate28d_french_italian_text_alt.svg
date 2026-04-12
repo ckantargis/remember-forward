@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">FRENCH + ITALIAN — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 28D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. DESCARTES — DISCOURS DE LA MÉTHODE (1637) —</text>
+<text x="240" y="73" text-anchor="middle" class="L">Je pense, donc je suis.</text>
+<text x="240" y="83" text-anchor="middle" class="Lx">I  think  therefore I   am. — "I think, therefore I am." Foundation of modern Western philosophy.</text>
+<line x1="20" y1="91" x2="460" y2="91" stroke="black" stroke-width="0.3"/>
+<text x="240" y="99" text-anchor="middle" class="H">— II. VICTOR HUGO — LES MISÉRABLES (1862) —</text>
+<text x="240" y="109" text-anchor="middle" class="L">Aimer, c’est agir.</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">"To love is to act." — Hugo. One of the most translated novels in history.</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="135" text-anchor="middle" class="H">— III. DÉCLARATION DES DROITS DE L’HOMME (1789) —</text>
+<text x="240" y="145" text-anchor="middle" class="L">Les hommes naissent et demeurent libres et égaux en droits.</text>
+<text x="240" y="155" text-anchor="middle" class="Lx">"Men are born and remain free and equal in rights." — Article 1.</text>
+<line x1="20" y1="163" x2="460" y2="163" stroke="black" stroke-width="0.3"/>
+<text x="240" y="171" text-anchor="middle" class="H">— IV. FRENCH BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="182" text-anchor="middle" class="L">Ce message a été fait pour vous, gratuitement,</text>
+<text x="240" y="194" text-anchor="middle" class="L">par des personnes qui se sont souvenues de l’avenir.</text>
+<text x="240" y="206" text-anchor="middle" class="Lx">This was made for you freely by people who remembered the future.</text>
+<text x="240" y="215" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (French)</text>
+<line x1="20" y1="223" x2="460" y2="223" stroke="black" stroke-width="0.3"/>
+<text x="240" y="231" text-anchor="middle" class="H">— FRENCH NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="241" text-anchor="middle" class="Ls">Avenir = à + venir: “to come toward” — the future as what comes to us. Se souvenir = to come to oneself again.</text>
+<text x="240" y="250" text-anchor="middle" class="Lx">Gratuitement = freely. Passé composé (se sont souvenues): completed act, feminine agreement.</text>
+<line x1="20" y1="260" x2="460" y2="260" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="263" width="440" height="14" fill="black"/>
+<text x="240" y="273" text-anchor="middle" class="Hb" fill="white">SECONDARY — ITALIAN (ITALIANO) — RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="277" x2="460" y2="277" stroke="black" stroke-width="0.3"/>
+<text x="240" y="286" text-anchor="middle" class="H">— I. DANTE ALIGHIERI — DIVINA COMMEDIA (c.1308–1320 CE) —</text>
+<text x="240" y="296" text-anchor="middle" class="L">Nel mezzo del cammin di nostra vita</text>
+<text x="240" y="307" text-anchor="middle" class="L">mi ritrovai per una selva oscura.</text>
+<text x="240" y="318" text-anchor="middle" class="Lx">In the middle of  the journey of  our    life  I found-myself in  a  forest  dark.</text>
+<text x="240" y="327" text-anchor="middle" class="F">"In the middle of the journey of our life, I found myself in a dark forest." — Inferno, Canto I.</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="343" text-anchor="middle" class="H">— II. ITALIAN PROVERB — ON MEMORY —</text>
+<text x="240" y="353" text-anchor="middle" class="L">Chi non ricorda il passato è condannato a ripeterlo.</text>
+<text x="240" y="364" text-anchor="middle" class="Lx">Who not remembers the past  is condemned to repeat-it.</text>
+<text x="240" y="373" text-anchor="middle" class="F">"He who does not remember the past is condemned to repeat it." (Italian proverb, attr. Santayana)</text>
+<line x1="20" y1="381" x2="460" y2="381" stroke="black" stroke-width="0.3"/>
+<text x="240" y="389" text-anchor="middle" class="H">— III. ITALIAN BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="400" text-anchor="middle" class="L">Questo è stato fatto per voi, gratuitamente,</text>
+<text x="240" y="412" text-anchor="middle" class="L">da persone che hanno ricordato il futuro.</text>
+<text x="240" y="424" text-anchor="middle" class="Lx">This  has been made   for you  freely       by people  who  have   remembered the  future.</text>
+<text x="240" y="433" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Italian)</text>
+<line x1="20" y1="441" x2="460" y2="441" stroke="black" stroke-width="0.3"/>
+<text x="240" y="449" text-anchor="middle" class="H">— ITALIAN NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="459" text-anchor="middle" class="Ls">Futuro: from Latin futurus (about to be). Ricordare = to remember — from re + cor/cordis (heart).</text>
+<text x="240" y="468" text-anchor="middle" class="Lx">To remember in Italian is literally to “bring back to the heart.” The etymology reveals the felt quality of memory.</text>
+<text x="240" y="477" text-anchor="middle" class="Lx">Gratuitamente = freely/gratis. Passato prossimo (hanno ricordato): completed act, personal relevance.</text>
+<line x1="20" y1="485" x2="460" y2="485" stroke="black" stroke-width="0.3"/>
+<text x="240" y="493" text-anchor="middle" class="H">— LANGUAGE BRIDGE — TWO ROMANCE NEIGHBORS —</text>
+<text x="240" y="503" text-anchor="middle" class="Ls">French: ~80M native speakers. Official in 29 countries. Uvular r, nasal vowels, silent letters.</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">Italian: ~65M native speakers. Official in Italy, San Marino, Switzerland (Ticino/Val d’Aosta).</text>
+<text x="240" y="521" text-anchor="middle" class="Lx">Both descended from Vulgar Latin. Diverged after ~5th c. CE as Roman Empire fragmented.</text>
+<text x="240" y="530" text-anchor="middle" class="Lx">Italian preserved more Latin phonology; French underwent radical Germanic-influenced sound changes.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 28D ALT · French / Italian · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

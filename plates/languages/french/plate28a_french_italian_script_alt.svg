@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">FRENCH + ITALIAN — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 28A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— FRENCH — LATIN ALPHABET · 26 LETTERS + DIACRITICS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">French uses the standard 26-letter Latin alphabet. Spelling is historically conservative — many silent letters.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Spelling preserves medieval Latin forms even when pronunciation has radically shifted.</text>
+<line x1="20" y1="89" x2="460" y2="89" stroke="black" stroke-width="0.3"/>
+<text x="240" y="97" text-anchor="middle" class="H">— FRENCH DIACRITICS — SIX TYPES —</text>
+<text x="45" y="107" text-anchor="middle" class="Ls">é</text>
+<text x="130" y="107" text-anchor="middle" class="Lx">Acute (aigu)</text>
+<text x="330" y="107" text-anchor="middle" class="Lx">/e/ close: été, pré, bébé</text>
+<text x="45" y="118" text-anchor="middle" class="Ls">è ê</text>
+<text x="130" y="118" text-anchor="middle" class="Lx">Grave / Circumflex</text>
+<text x="330" y="118" text-anchor="middle" class="Lx">/ɛ/ open: mère, fête, tête</text>
+<text x="45" y="129" text-anchor="middle" class="Ls">à ù</text>
+<text x="130" y="129" text-anchor="middle" class="Lx">Grave (a/u)</text>
+<text x="330" y="129" text-anchor="middle" class="Lx">Disambiguates: a (has) vs à (to); ou vs où</text>
+<text x="45" y="140" text-anchor="middle" class="Ls">â ô</text>
+<text x="130" y="140" text-anchor="middle" class="Lx">Circumflex (a/o)</text>
+<text x="330" y="140" text-anchor="middle" class="Lx">Marks long vowel or lost -s: hôpital &lt; hospitale</text>
+<text x="45" y="151" text-anchor="middle" class="Ls">ë ï</text>
+<text x="130" y="151" text-anchor="middle" class="Lx">Diérèse (trema)</text>
+<text x="330" y="151" text-anchor="middle" class="Lx">Vowel sounded separately: noël, naïve</text>
+<text x="45" y="162" text-anchor="middle" class="Ls">ç</text>
+<text x="130" y="162" text-anchor="middle" class="Lx">Cédille</text>
+<text x="330" y="162" text-anchor="middle" class="Lx">C = /s/ before a/o/u: français, garçon</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="185" text-anchor="middle" class="H">— FRENCH SILENT LETTERS — KEY FEATURE —</text>
+<text x="240" y="195" text-anchor="middle" class="Ls">Final consonants usually silent: grand /gʁã/, beaux /bo/, petit /pəti/. Liaison restores them before vowels.</text>
+<text x="240" y="204" text-anchor="middle" class="Lx">eau = /o/ · oi = /wa/ · initial h always silent · -ent (3rd pl verb) = silent</text>
+<text x="240" y="213" text-anchor="middle" class="Lx">Liaison: les amis = /le.za.mi/ · Elision: le + ami = l’ami · de + elle = d’elle</text>
+<line x1="20" y1="221" x2="460" y2="221" stroke="black" stroke-width="0.3"/>
+<text x="240" y="229" text-anchor="middle" class="H">— FRENCH SCRIPT HISTORY —</text>
+<text x="240" y="239" text-anchor="middle" class="Ls">Serments de Strasbourg 842 CE: first document in Old French. Académie française founded 1635.</text>
+<text x="240" y="248" text-anchor="middle" class="Lx">~80M native speakers; ~275M total. Official in 29 countries, UN, EU, African Union, Olympic Committee.</text>
+<line x1="20" y1="258" x2="460" y2="258" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="261" width="440" height="14" fill="black"/>
+<text x="240" y="271" text-anchor="middle" class="Hb" fill="white">SECONDARY — ITALIAN (ITALIANO) — SCRIPT · WRITING SYSTEM</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">— ITALIAN — 21-LETTER LATIN ALPHABET —</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Italian uses 21 native letters: A B C D E F G H I L M N O P Q R S T U V Z.</text>
+<text x="240" y="303" text-anchor="middle" class="Lx">Letters J K W X Y appear only in loanwords (jeans, whisky, taxi). Core vocabulary uses 21 letters only.</text>
+<text x="240" y="312" text-anchor="middle" class="Ls">Italian spelling is highly phonemic — almost every letter is pronounced. Far fewer silent letters than French.</text>
+<line x1="20" y1="320" x2="460" y2="320" stroke="black" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H">— ITALIAN DIACRITICS — ACCENT MARKS —</text>
+<text x="45" y="338" text-anchor="middle" class="Ls">è</text>
+<text x="130" y="338" text-anchor="middle" class="Lx">Grave (e)</text>
+<text x="330" y="338" text-anchor="middle" class="Lx">Open /ɛ/: è (is), caffè, perché → caffè</text>
+<text x="45" y="349" text-anchor="middle" class="Ls">é</text>
+<text x="130" y="349" text-anchor="middle" class="Lx">Acute (e)</text>
+<text x="330" y="349" text-anchor="middle" class="Lx">Close /e/: perché (why/because), né (nor)</text>
+<text x="45" y="360" text-anchor="middle" class="Ls">à ì ò ù</text>
+<text x="130" y="360" text-anchor="middle" class="Lx">Grave (a,i,o,u)</text>
+<text x="330" y="360" text-anchor="middle" class="Lx">Marks word-final stress: città, così, però, virtù</text>
+<line x1="20" y1="375" x2="460" y2="375" stroke="black" stroke-width="0.3"/>
+<text x="240" y="383" text-anchor="middle" class="H">— ITALIAN — GEMINATE CONSONANTS —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Italian doubles consonants phonemically: nono (ninth) vs. nonno (grandfather).</text>
+<text x="240" y="402" text-anchor="middle" class="Lx">fato (fate) vs. fatto (done) · casa (house) vs. cassa (cash register) · pala (shovel) vs. palla (ball).</text>
+<text x="240" y="411" text-anchor="middle" class="Lx">Written double = phonetically long consonant. This feature is absent from French. Preserved from Latin.</text>
+<line x1="20" y1="419" x2="460" y2="419" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H">— SCRIPT BRIDGE — TWO LATIN DAUGHTERS —</text>
+<text x="240" y="437" text-anchor="middle" class="Ls">Both French and Italian descend from Vulgar Latin and use the Latin alphabet.</text>
+<text x="240" y="446" text-anchor="middle" class="Lx">French: heavy Germanic (Frankish) influence changed sounds radically. Spelling frozen in Old French.</text>
+<text x="240" y="455" text-anchor="middle" class="Lx">Italian: more conservative. Closer to Latin vowels and pronunciation. Fewer silent letters. Geminates preserved.</text>
+<text x="240" y="464" text-anchor="middle" class="Lx">Dante’s Divina Commedia (1308–1320 CE): standardized literary Italian. First major work in Italian vernacular.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 28A ALT · French / Italian · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

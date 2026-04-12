@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:11px} .Lbs{font-size:8px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BURMESE + S’GAW KAREN — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 40A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BURMESE — ABUGIDA SCRIPT — BRAHMIC ORIGIN —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Burmese script: abugida descended from Mon script — itself from South Indian Brahmic (~4th c. CE).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Distinctive rounded letterforms: developed writing on palm leaves, where angular strokes tear the surface.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Written left to right. Consonants carry inherent /a/. Diacritics modify vowel. 33 consonants, 3 tones.</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="black" stroke-width="0.3"/>
+<text x="240" y="106" text-anchor="middle" class="H">— CORE CONSONANTS — SAMPLE (6 ROWS) —</text>
+<text x="55" y="116" text-anchor="middle" class="Lb">က</text>
+<text x="55" y="124" text-anchor="middle" class="Lx">ka</text>
+<text x="135" y="116" text-anchor="middle" class="Lb">ခ</text>
+<text x="135" y="124" text-anchor="middle" class="Lx">hka</text>
+<text x="215" y="116" text-anchor="middle" class="Lb">ဂ</text>
+<text x="215" y="124" text-anchor="middle" class="Lx">ga</text>
+<text x="295" y="116" text-anchor="middle" class="Lb">င</text>
+<text x="295" y="124" text-anchor="middle" class="Lx">nga</text>
+<text x="375" y="116" text-anchor="middle" class="Lb">စ</text>
+<text x="375" y="124" text-anchor="middle" class="Lx">ca</text>
+<text x="55" y="129" text-anchor="middle" class="Lb">ဆ</text>
+<text x="55" y="137" text-anchor="middle" class="Lx">hca</text>
+<text x="135" y="129" text-anchor="middle" class="Lb">ဇ</text>
+<text x="135" y="137" text-anchor="middle" class="Lx">ja</text>
+<text x="215" y="129" text-anchor="middle" class="Lb">ဉ</text>
+<text x="215" y="137" text-anchor="middle" class="Lx">nya</text>
+<text x="295" y="129" text-anchor="middle" class="Lb">ည</text>
+<text x="295" y="137" text-anchor="middle" class="Lx">nnya</text>
+<text x="375" y="129" text-anchor="middle" class="Lb">ဋ</text>
+<text x="375" y="137" text-anchor="middle" class="Lx">ta</text>
+<text x="55" y="142" text-anchor="middle" class="Lb">ဏ</text>
+<text x="55" y="150" text-anchor="middle" class="Lx">na</text>
+<text x="135" y="142" text-anchor="middle" class="Lb">တ</text>
+<text x="135" y="150" text-anchor="middle" class="Lx">ta</text>
+<text x="215" y="142" text-anchor="middle" class="Lb">ထ</text>
+<text x="215" y="150" text-anchor="middle" class="Lx">hta</text>
+<text x="295" y="142" text-anchor="middle" class="Lb">ဒ</text>
+<text x="295" y="150" text-anchor="middle" class="Lx">da</text>
+<text x="375" y="142" text-anchor="middle" class="Lb">န</text>
+<text x="375" y="150" text-anchor="middle" class="Lx">na</text>
+<text x="55" y="155" text-anchor="middle" class="Lb">ပ</text>
+<text x="55" y="163" text-anchor="middle" class="Lx">pa</text>
+<text x="135" y="155" text-anchor="middle" class="Lb">ဖ</text>
+<text x="135" y="163" text-anchor="middle" class="Lx">hpa</text>
+<text x="215" y="155" text-anchor="middle" class="Lb">ဗ</text>
+<text x="215" y="163" text-anchor="middle" class="Lx">ba</text>
+<text x="295" y="155" text-anchor="middle" class="Lb">ဘ</text>
+<text x="295" y="163" text-anchor="middle" class="Lx">bha</text>
+<text x="375" y="155" text-anchor="middle" class="Lb">မ</text>
+<text x="375" y="163" text-anchor="middle" class="Lx">ma</text>
+<text x="55" y="168" text-anchor="middle" class="Lb">ယ</text>
+<text x="55" y="176" text-anchor="middle" class="Lx">ya</text>
+<text x="135" y="168" text-anchor="middle" class="Lb">ရ</text>
+<text x="135" y="176" text-anchor="middle" class="Lx">ra</text>
+<text x="215" y="168" text-anchor="middle" class="Lb">လ</text>
+<text x="215" y="176" text-anchor="middle" class="Lx">la</text>
+<text x="295" y="168" text-anchor="middle" class="Lb">ဝ</text>
+<text x="295" y="176" text-anchor="middle" class="Lx">wa</text>
+<text x="375" y="168" text-anchor="middle" class="Lb">သ</text>
+<text x="375" y="176" text-anchor="middle" class="Lx">sa</text>
+<text x="55" y="181" text-anchor="middle" class="Lb">ဟ</text>
+<text x="55" y="189" text-anchor="middle" class="Lx">ha</text>
+<text x="135" y="181" text-anchor="middle" class="Lb">ဠ</text>
+<text x="135" y="189" text-anchor="middle" class="Lx">la</text>
+<text x="215" y="181" text-anchor="middle" class="Lb">အ</text>
+<text x="215" y="189" text-anchor="middle" class="Lx">a</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H">— TONE DIACRITICS — 3 TONES —</text>
+<text x="70" y="216" text-anchor="middle" class="Lb">ကာ</text>
+<text x="180" y="216" text-anchor="middle" class="Ls">Level (ka)</text>
+<text x="360" y="216" text-anchor="middle" class="Lx">short, modal, mid-low</text>
+<text x="70" y="227" text-anchor="middle" class="Lb">ကား</text>
+<text x="180" y="227" text-anchor="middle" class="Ls">Heavy (kaa)</text>
+<text x="360" y="227" text-anchor="middle" class="Lx">long, creaky, falling</text>
+<text x="70" y="238" text-anchor="middle" class="Lb">ကိ့</text>
+<text x="180" y="238" text-anchor="middle" class="Ls">Creaky (ka')</text>
+<text x="360" y="238" text-anchor="middle" class="Lx">short, creaky+glottal</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="0.3"/>
+<text x="240" y="260" text-anchor="middle" class="H">— BURMESE NUMERALS  ၀၁၂၃၄၅၆၇၈၉ —</text>
+<text x="240" y="272" text-anchor="middle" class="Lx">Brahmi-origin numerals. Same base-10 structure as Devanagari and Arabic numerals.</text>
+<line x1="20" y1="282" x2="460" y2="282" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="285" width="440" height="14" fill="black"/>
+<text x="240" y="295" text-anchor="middle" class="Hb" fill="white">SECONDARY — S’GAW KAREN — ကညီကျိာ် — SCRIPT · WRITING</text>
+<line x1="20" y1="299" x2="460" y2="299" stroke="black" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H">— S’GAW KAREN SCRIPT — BURMESE-BASED ADAPTATION —</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">S’gaw Karen uses a modified form of the Burmese/Mon script established ~1832 CE by</text>
+<text x="240" y="327" text-anchor="middle" class="Lx">Baptist missionary Jonathan Wade and Karen evangelist Ko Tha Byu. Same Unicode block (U+1000–U+109F).</text>
+<text x="240" y="336" text-anchor="middle" class="Lx">Karen letters use Burmese character shapes but with different phonemic values and additional stacking.</text>
+<line x1="20" y1="344" x2="460" y2="344" stroke="black" stroke-width="0.3"/>
+<text x="240" y="352" text-anchor="middle" class="H">— S’GAW KAREN — SAMPLE SYLLABLES (ROMANIZED + SCRIPT NOTES) —</text>
+<text x="80" y="362" text-anchor="middle" class="Ls">kaw lah</text>
+<text x="200" y="362" text-anchor="middle" class="Lx">S’gaw Karen</text>
+<text x="370" y="362" text-anchor="middle" class="Lx">self-name: “Kaw Lah” (people/human)</text>
+<text x="80" y="372" text-anchor="middle" class="Ls">pga k̂nyŵ</text>
+<text x="200" y="372" text-anchor="middle" class="Lx">language / word</text>
+<text x="370" y="372" text-anchor="middle" class="Lx">lit. mouth/voice of the people</text>
+<text x="80" y="382" text-anchor="middle" class="Ls">ta</text>
+<text x="200" y="382" text-anchor="middle" class="Lx">one</text>
+<text x="370" y="382" text-anchor="middle" class="Lx">monosyllabic base form</text>
+<text x="80" y="392" text-anchor="middle" class="Ls">ler</text>
+<text x="200" y="392" text-anchor="middle" class="Lx">water</text>
+<text x="370" y="392" text-anchor="middle" class="Lx">core vocabulary</text>
+<text x="80" y="402" text-anchor="middle" class="Ls">mu</text>
+<text x="200" y="402" text-anchor="middle" class="Lx">sky / heaven</text>
+<text x="370" y="402" text-anchor="middle" class="Lx">also: world above</text>
+<text x="80" y="412" text-anchor="middle" class="Ls">naw</text>
+<text x="200" y="412" text-anchor="middle" class="Lx">woman</text>
+<text x="370" y="412" text-anchor="middle" class="Lx">gender-marked pronoun base</text>
+<text x="80" y="422" text-anchor="middle" class="Ls">saw</text>
+<text x="200" y="422" text-anchor="middle" class="Lx">man / person</text>
+<text x="370" y="422" text-anchor="middle" class="Lx">also personal name prefix</text>
+<line x1="20" y1="435" x2="460" y2="435" stroke="black" stroke-width="0.3"/>
+<text x="240" y="443" text-anchor="middle" class="H">— SCRIPT BRIDGE — SHARED ORIGIN, DIVERGENT PATHS —</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">Burmese and Karen scripts share the same Mon/Brahmic ancestor and Unicode block.</text>
+<text x="240" y="462" text-anchor="middle" class="Lx">Burmese: organic Brahmic evolution. Karen: missionary adaptation for new phonology and tones.</text>
+<text x="240" y="471" text-anchor="middle" class="Lx">S’gaw Karen has 7 tones — more than Burmese (3+1). Extra diacritics encode the additional tone distinctions.</text>
+<text x="240" y="480" text-anchor="middle" class="Lx">Both read left to right. Karen adds tone letters after the rhyme, whereas Burmese uses diacritic marks.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 40A ALT · Burmese / S’gaw Karen · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

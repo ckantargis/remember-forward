@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">FRENCH + ITALIAN — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 28B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— FRENCH — VOWEL SYSTEM — 12 ORAL + 4 NASAL —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">French has one of the most complex vowel systems of any European language.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Front rounded vowels /y ø œ/ are unique among major European languages (absent from Italian, English, Spanish).</text>
+<text x="55" y="92" text-anchor="middle" class="Lx">/i/ vie</text>
+<text x="160" y="92" text-anchor="middle" class="Lx">/e/ été</text>
+<text x="265" y="92" text-anchor="middle" class="Lx">/ɛ/ mère</text>
+<text x="370" y="92" text-anchor="middle" class="Lx">/a/ patte</text>
+<text x="55" y="102" text-anchor="middle" class="Lx">/y/ lune</text>
+<text x="160" y="102" text-anchor="middle" class="Lx">/ø/ feu</text>
+<text x="265" y="102" text-anchor="middle" class="Lx">/œ/ peur</text>
+<text x="370" y="102" text-anchor="middle" class="Lx">/u/ loup</text>
+<text x="55" y="112" text-anchor="middle" class="Lx">/o/ beau</text>
+<text x="160" y="112" text-anchor="middle" class="Lx">/ɔ/ or</text>
+<text x="265" y="112" text-anchor="middle" class="Lx">/ə/ le</text>
+<text x="370" y="112" text-anchor="middle" class="Lx">/ɑ/ pâte</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Nasal vowels: /ã/ blanc · /ɛ̃/ bain · /ɔ̃/ bon · /œ̃/ brun</text>
+<line x1="20" y1="130" x2="460" y2="130" stroke="black" stroke-width="0.3"/>
+<text x="240" y="138" text-anchor="middle" class="H">— FRENCH — KEY CONSONANTS —</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Uvular /ʁ/: French r is produced at the back of the throat. Not a tongue-tip trill (unlike Italian r).</text>
+<text x="240" y="157" text-anchor="middle" class="Lx">Palatal nasal /ɲ/: gagner, montagne. Glides: /j/ yeux · /w/ oui · /ɥ/ lui (rounded palatal).</text>
+<text x="240" y="166" text-anchor="middle" class="Lx">French is syllable-timed — equal syllable duration. Stress on final syllable of phrase, not word.</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="black" stroke-width="0.3"/>
+<text x="240" y="182" text-anchor="middle" class="H">— FRENCH — NASAL VOWELS —</text>
+<text x="240" y="192" text-anchor="middle" class="Ls">Nasal vowels form when vowel precedes n/m in same syllable: bon /bɔ̃/, bain /bɛ̃/.</text>
+<text x="240" y="201" text-anchor="middle" class="Lx">The n/m disappears from the consonant inventory — the nasality is absorbed into the vowel itself.</text>
+<text x="240" y="210" text-anchor="middle" class="Lx">Italian has no nasal vowels. This is one of the clearest phonological divides between the two languages.</text>
+<line x1="20" y1="220" x2="460" y2="220" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="223" width="440" height="14" fill="black"/>
+<text x="240" y="233" text-anchor="middle" class="Hb" fill="white">SECONDARY — ITALIAN (ITALIANO) — PHONOLOGY</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">— ITALIAN — VOWEL SYSTEM — 7 VOWELS —</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Italian has 7 vowel phonemes: /a e ɛ i o ɔ u/ — closer to Latin than French.</text>
+<text x="60" y="266" text-anchor="middle" class="Lx">/i/</text>
+<text x="145" y="266" text-anchor="middle" class="Lx">vino (wine)</text>
+<text x="330" y="266" text-anchor="middle" class="Lx">high front unrounded</text>
+<text x="60" y="276" text-anchor="middle" class="Lx">/e/</text>
+<text x="145" y="276" text-anchor="middle" class="Lx">verde (green)</text>
+<text x="330" y="276" text-anchor="middle" class="Lx">mid front close</text>
+<text x="60" y="286" text-anchor="middle" class="Lx">/ɛ/</text>
+<text x="145" y="286" text-anchor="middle" class="Lx">bello (beautiful)</text>
+<text x="330" y="286" text-anchor="middle" class="Lx">mid front open</text>
+<text x="60" y="296" text-anchor="middle" class="Lx">/a/</text>
+<text x="145" y="296" text-anchor="middle" class="Lx">mare (sea)</text>
+<text x="330" y="296" text-anchor="middle" class="Lx">low central</text>
+<text x="60" y="306" text-anchor="middle" class="Lx">/o/</text>
+<text x="145" y="306" text-anchor="middle" class="Lx">sole (sun)</text>
+<text x="330" y="306" text-anchor="middle" class="Lx">mid back close</text>
+<text x="60" y="316" text-anchor="middle" class="Lx">/ɔ/</text>
+<text x="145" y="316" text-anchor="middle" class="Lx">cosa (thing)</text>
+<text x="330" y="316" text-anchor="middle" class="Lx">mid back open</text>
+<text x="60" y="326" text-anchor="middle" class="Lx">/u/</text>
+<text x="145" y="326" text-anchor="middle" class="Lx">luna (moon)</text>
+<text x="330" y="326" text-anchor="middle" class="Lx">high back rounded</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="black" stroke-width="0.3"/>
+<text x="240" y="348" text-anchor="middle" class="H">— ITALIAN — CONSONANT INVENTORY —</text>
+<text x="240" y="358" text-anchor="middle" class="Ls">Italian r: alveolar trill /r/ — tongue-tip vibration (unlike French uvular /ʁ/).</text>
+<text x="240" y="367" text-anchor="middle" class="Lx">Affricates: /ts/ (pizza, grazie) · /dz/ (zero) · /tʃ/ (ciao, cielo) · /dʒ/ (giorno, gente).</text>
+<text x="240" y="376" text-anchor="middle" class="Lx">Geminate consonants: phonemically distinct length. notte (night) /nɔtte/ vs. note (notes) /nɔte/.</text>
+<line x1="20" y1="384" x2="460" y2="384" stroke="black" stroke-width="0.3"/>
+<text x="240" y="392" text-anchor="middle" class="H">— ITALIAN — STRESS AND RHYTHM —</text>
+<text x="240" y="402" text-anchor="middle" class="Ls">Italian is stress-timed. Stress is lexical and contrastive: àncora (anchor) vs. ancóra (still/yet).</text>
+<text x="240" y="411" text-anchor="middle" class="Lx">Final-syllable accent marked with grave: città, virtù. Usually penultimate stress (default).</text>
+<line x1="20" y1="419" x2="460" y2="419" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — TWO ROMANCE SISTERS —</text>
+<text x="90" y="437" text-anchor="middle" class="Lx">Feature</text>
+<text x="255" y="437" text-anchor="middle" class="Lx">French</text>
+<text x="395" y="437" text-anchor="middle" class="Lx">Italian</text>
+<text x="90" y="447" text-anchor="middle" class="Ls">Nasal vowels</text>
+<text x="255" y="447" text-anchor="middle" class="Lx">Yes — 4 (/ã ɛ̃ ɔ̃ œ̃/)</text>
+<text x="395" y="447" text-anchor="middle" class="Lx">No — absent</text>
+<text x="90" y="457" text-anchor="middle" class="Ls">Front rounded vowels</text>
+<text x="255" y="457" text-anchor="middle" class="Lx">Yes — /y ø œ/</text>
+<text x="395" y="457" text-anchor="middle" class="Lx">No — absent</text>
+<text x="90" y="467" text-anchor="middle" class="Ls">Geminate consonants</text>
+<text x="255" y="467" text-anchor="middle" class="Lx">No — merged</text>
+<text x="395" y="467" text-anchor="middle" class="Lx">Yes — phonemic</text>
+<text x="90" y="477" text-anchor="middle" class="Ls">r-sound</text>
+<text x="255" y="477" text-anchor="middle" class="Lx">Uvular /ʁ/</text>
+<text x="395" y="477" text-anchor="middle" class="Lx">Alveolar trill /r/</text>
+<text x="90" y="487" text-anchor="middle" class="Ls">Rhythm</text>
+<text x="255" y="487" text-anchor="middle" class="Lx">Syllable-timed</text>
+<text x="395" y="487" text-anchor="middle" class="Lx">Stress-timed</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 28B ALT · French / Italian · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

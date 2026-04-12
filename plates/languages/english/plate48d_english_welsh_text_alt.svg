@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ENGLISH + WELSH — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 48D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ENGLISH — PASSAGE 1 · SHAKESPEARE —</text>
+<text x="240" y="73" text-anchor="middle" class="L">"What a piece of work is a man! How noble in reason, how infinite in faculty!"</text>
+<text x="240" y="83" text-anchor="middle" class="Ls">— Hamlet, Act 2 Scene 2. William Shakespeare, ~1600.</text>
+<line x1="20" y1="91" x2="460" y2="91" stroke="black" stroke-width="0.3"/>
+<text x="240" y="99" text-anchor="middle" class="H">— ENGLISH — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="109" text-anchor="middle" class="L">"A stitch in time saves nine." — Early intervention prevents greater effort later.</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">Earliest recorded ~1732. Reflects practical, future-oriented thinking in folk wisdom.</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="135" text-anchor="middle" class="H">— ENGLISH — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="145" text-anchor="middle" class="L">This was made for you, freely, by people who remembered forward.</text>
+<text x="240" y="155" text-anchor="middle" class="Lx">"Forward" in English: from Old English "foreweard" — toward what is in front.</text>
+<text x="240" y="164" text-anchor="middle" class="Lx">"Future": from Latin futurus — "about to be." English borrowed it wholesale from Latin.</text>
+<text x="240" y="173" text-anchor="middle" class="Lx">English uniquely has both Germanic (forthcoming) and Latin (future) words for what lies ahead.</text>
+<line x1="20" y1="184" x2="460" y2="184" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="187" width="440" height="14" fill="black"/>
+<text x="240" y="197" text-anchor="middle" class="Hb" fill="white">WELSH (CYMRAEG) · RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="201" x2="460" y2="201" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">— WELSH — PASSAGE 1 · Y GODODDIN (~600 CE) —</text>
+<text x="240" y="225" text-anchor="middle" class="L">"Ef aeth Catraeth, oedd ffraeth ei lu."</text>
+<text x="240" y="235" text-anchor="middle" class="Ls">"He went to Catraeth, spirited was his host."</text>
+<text x="240" y="244" text-anchor="middle" class="Lx">— Y Gododdin, Aneirin, ~600 CE. One of the oldest Welsh poems. Records a battle against Anglo-Saxons.</text>
+<text x="240" y="253" text-anchor="middle" class="Lx">This text predates Beowulf and most Old English literature. Welsh literacy is ancient.</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="black" stroke-width="0.3"/>
+<text x="240" y="269" text-anchor="middle" class="H">— WELSH — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="279" text-anchor="middle" class="L">"Heb iaith, heb galon."</text>
+<text x="240" y="289" text-anchor="middle" class="Lx">Without  language,  without  heart.</text>
+<text x="240" y="298" text-anchor="middle" class="Ls">"Without language, without a heart." — Welsh proverb on the identity carried by a language.</text>
+<line x1="20" y1="306" x2="460" y2="306" stroke="black" stroke-width="0.3"/>
+<text x="240" y="314" text-anchor="middle" class="H">— WELSH — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="324" text-anchor="middle" class="L">Cafodd hwn ei wneud i chi, yn rhad ac am ddim, gan bobl a gofiodd ymlaen.</text>
+<text x="240" y="334" text-anchor="middle" class="Lx">Was-made this its-making to you, for free,   by  people who remembered forward.</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H">— LANGUAGE NOTE — "FORWARD" IN WELSH —</text>
+<text x="240" y="369" text-anchor="middle" class="Ls">ymlaen: "forward / onward" — from ym (intensive) + blaen (front/tip/point). Lit. "toward the point."</text>
+<text x="240" y="378" text-anchor="middle" class="Lx">blaen: "front, tip, blade" — the forward-most part. The same root gives "bland" in some branches.</text>
+<text x="240" y="387" text-anchor="middle" class="Lx">dyfodol: "future" — from dyfod (to come) + suffix -ol. Lit. "the coming thing." Future comes to you.</text>
+<text x="240" y="396" text-anchor="middle" class="Lx">gofio: "to remember" — from co (memory) + intensifier. Cò is the Celtic root for memory across all branches.</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="black" stroke-width="0.3"/>
+<text x="240" y="412" text-anchor="middle" class="H">— DECODING NOTE —</text>
+<text x="240" y="422" text-anchor="middle" class="Ls">English: ~1.5B speakers. Lingua franca of science, aviation, diplomacy. SVO, Latin alphabet.</text>
+<text x="240" y="431" text-anchor="middle" class="Ls">Welsh: ~750K speakers in Wales + diaspora. VSO, Celtic mutations, oldest literary tradition in Britain.</text>
+<text x="240" y="440" text-anchor="middle" class="Ls">Welsh survived Roman occupation, Anglo-Saxon migration, Norman conquest, and English suppression.</text>
+<text x="240" y="449" text-anchor="middle" class="Lx">The Welsh Language Act (1993) and the Welsh Language Measure (2011) gave Welsh co-official status in Wales.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 48D ALT · ENGLISH/WELSH · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

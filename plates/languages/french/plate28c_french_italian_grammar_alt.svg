@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">FRENCH + ITALIAN — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 28C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— FRENCH GRAMMAR — SVO · OBLIGATORY SUBJECT —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">French is SVO. Subject pronouns are obligatory — unlike Italian (pro-drop). Two genders: M/F.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Articles required: le/la/les (def.), un/une/des (indef.). Gender not predictable — must be memorized.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— FRENCH VERB CONJUGATION — parler —</text>
+<text x="70" y="108" text-anchor="middle" class="Ls">je  parle</text>
+<text x="275" y="108" text-anchor="middle" class="Ls">tu  parles</text>
+<text x="70" y="118" text-anchor="middle" class="Ls">il/elle  parle</text>
+<text x="275" y="118" text-anchor="middle" class="Ls">nous  parlons</text>
+<text x="70" y="128" text-anchor="middle" class="Ls">vous  parlez</text>
+<text x="275" y="128" text-anchor="middle" class="Ls">ils/elles  parlent</text>
+<text x="240" y="140" text-anchor="middle" class="Lx">Passé composé: j’ai parlé (I spoke). Être verbs: je suis allé(e) (I went).</text>
+<text x="240" y="149" text-anchor="middle" class="Lx">Negation: ne…pas: Je ne parle pas. Spoken: je parle pas (ne dropped in colloquial).</text>
+<line x1="20" y1="157" x2="460" y2="157" stroke="black" stroke-width="0.3"/>
+<text x="240" y="165" text-anchor="middle" class="H">— FRENCH CORE VOCABULARY —</text>
+<text x="65" y="175" text-anchor="middle" class="Ls">eau</text>
+<text x="120" y="175" text-anchor="middle" class="Lx">water</text>
+<text x="195" y="175" text-anchor="middle" class="Ls">feu</text>
+<text x="250" y="175" text-anchor="middle" class="Lx">fire</text>
+<text x="325" y="175" text-anchor="middle" class="Ls">terre</text>
+<text x="380" y="175" text-anchor="middle" class="Lx">earth</text>
+<text x="65" y="185" text-anchor="middle" class="Ls">personne</text>
+<text x="120" y="185" text-anchor="middle" class="Lx">person</text>
+<text x="195" y="185" text-anchor="middle" class="Ls">lune</text>
+<text x="250" y="185" text-anchor="middle" class="Lx">moon</text>
+<text x="325" y="185" text-anchor="middle" class="Ls">mémoire</text>
+<text x="380" y="185" text-anchor="middle" class="Lx">memory</text>
+<text x="65" y="195" text-anchor="middle" class="Ls">avenir</text>
+<text x="120" y="195" text-anchor="middle" class="Lx">future</text>
+<text x="195" y="195" text-anchor="middle" class="Ls">liberté</text>
+<text x="250" y="195" text-anchor="middle" class="Lx">freedom</text>
+<text x="325" y="195" text-anchor="middle" class="Ls">cœur</text>
+<text x="380" y="195" text-anchor="middle" class="Lx">heart</text>
+<text x="65" y="205" text-anchor="middle" class="Ls">amour</text>
+<text x="120" y="205" text-anchor="middle" class="Lx">love</text>
+<text x="195" y="205" text-anchor="middle" class="Ls">monde</text>
+<text x="250" y="205" text-anchor="middle" class="Lx">world</text>
+<text x="325" y="205" text-anchor="middle" class="Ls">vie</text>
+<text x="380" y="205" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="225" width="440" height="14" fill="black"/>
+<text x="240" y="235" text-anchor="middle" class="Hb" fill="white">SECONDARY — ITALIAN (ITALIANO) — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="239" x2="460" y2="239" stroke="black" stroke-width="0.3"/>
+<text x="240" y="248" text-anchor="middle" class="H">— ITALIAN GRAMMAR — SVO · PRO-DROP —</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Italian is SVO and pro-drop — subject pronouns can be omitted: parla = (he/she/it) speaks.</text>
+<text x="240" y="267" text-anchor="middle" class="Lx">Two genders (M/F): il libro (M), la tavola (F). Agreement: adjectives match noun gender + number.</text>
+<text x="240" y="276" text-anchor="middle" class="Lx">Articles: il/la/i/le (def.), un/una (indef.). Plural: -o → -i (M), -a → -e (F): libro → libri.</text>
+<line x1="20" y1="284" x2="460" y2="284" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="H">— ITALIAN VERB CONJUGATION — parlare —</text>
+<text x="70" y="302" text-anchor="middle" class="Ls">io  parlo</text>
+<text x="275" y="302" text-anchor="middle" class="Ls">tu  parli</text>
+<text x="70" y="312" text-anchor="middle" class="Ls">lui/lei  parla</text>
+<text x="275" y="312" text-anchor="middle" class="Ls">noi  parliamo</text>
+<text x="70" y="322" text-anchor="middle" class="Ls">voi  parlate</text>
+<text x="275" y="322" text-anchor="middle" class="Ls">loro  parlano</text>
+<text x="240" y="334" text-anchor="middle" class="Lx">Passato prossimo: ho parlato (I spoke). Imperfetto: parlavo (I was speaking/used to speak).</text>
+<text x="240" y="343" text-anchor="middle" class="Lx">Negation: non before verb: Non parlo italiano. Question: intonation only (Parli italiano?).</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H">— ITALIAN CORE VOCABULARY —</text>
+<text x="65" y="369" text-anchor="middle" class="Ls">acqua</text>
+<text x="120" y="369" text-anchor="middle" class="Lx">water</text>
+<text x="195" y="369" text-anchor="middle" class="Ls">fuoco</text>
+<text x="250" y="369" text-anchor="middle" class="Lx">fire</text>
+<text x="325" y="369" text-anchor="middle" class="Ls">terra</text>
+<text x="380" y="369" text-anchor="middle" class="Lx">earth</text>
+<text x="65" y="379" text-anchor="middle" class="Ls">persona</text>
+<text x="120" y="379" text-anchor="middle" class="Lx">person</text>
+<text x="195" y="379" text-anchor="middle" class="Ls">luna</text>
+<text x="250" y="379" text-anchor="middle" class="Lx">moon</text>
+<text x="325" y="379" text-anchor="middle" class="Ls">memoria</text>
+<text x="380" y="379" text-anchor="middle" class="Lx">memory</text>
+<text x="65" y="389" text-anchor="middle" class="Ls">futuro</text>
+<text x="120" y="389" text-anchor="middle" class="Lx">future</text>
+<text x="195" y="389" text-anchor="middle" class="Ls">libertà</text>
+<text x="250" y="389" text-anchor="middle" class="Lx">freedom</text>
+<text x="325" y="389" text-anchor="middle" class="Ls">cuore</text>
+<text x="380" y="389" text-anchor="middle" class="Lx">heart</text>
+<text x="65" y="399" text-anchor="middle" class="Ls">amore</text>
+<text x="120" y="399" text-anchor="middle" class="Lx">love</text>
+<text x="195" y="399" text-anchor="middle" class="Ls">mondo</text>
+<text x="250" y="399" text-anchor="middle" class="Lx">world</text>
+<text x="325" y="399" text-anchor="middle" class="Ls">vita</text>
+<text x="380" y="399" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="412" x2="460" y2="412" stroke="black" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H">— SIDE-BY-SIDE — LATIN INHERITANCE —</text>
+<text x="60" y="430" text-anchor="middle" class="Lx">CONCEPT</text>
+<text x="175" y="430" text-anchor="middle" class="Lx">FRENCH</text>
+<text x="290" y="430" text-anchor="middle" class="Lx">ITALIAN</text>
+<text x="400" y="430" text-anchor="middle" class="Lx">LATIN ORIGIN</text>
+<text x="60" y="440" text-anchor="middle" class="Lx">water</text>
+<text x="175" y="440" text-anchor="middle" class="Ls">eau</text>
+<text x="290" y="440" text-anchor="middle" class="Ls">acqua</text>
+<text x="400" y="440" text-anchor="middle" class="Lx">aqua</text>
+<text x="60" y="450" text-anchor="middle" class="Lx">fire</text>
+<text x="175" y="450" text-anchor="middle" class="Ls">feu</text>
+<text x="290" y="450" text-anchor="middle" class="Ls">fuoco</text>
+<text x="400" y="450" text-anchor="middle" class="Lx">focus</text>
+<text x="60" y="460" text-anchor="middle" class="Lx">earth</text>
+<text x="175" y="460" text-anchor="middle" class="Ls">terre</text>
+<text x="290" y="460" text-anchor="middle" class="Ls">terra</text>
+<text x="400" y="460" text-anchor="middle" class="Lx">terra</text>
+<text x="60" y="470" text-anchor="middle" class="Lx">person</text>
+<text x="175" y="470" text-anchor="middle" class="Ls">personne</text>
+<text x="290" y="470" text-anchor="middle" class="Ls">persona</text>
+<text x="400" y="470" text-anchor="middle" class="Lx">persona</text>
+<text x="60" y="480" text-anchor="middle" class="Lx">heart</text>
+<text x="175" y="480" text-anchor="middle" class="Ls">cœur</text>
+<text x="290" y="480" text-anchor="middle" class="Ls">cuore</text>
+<text x="400" y="480" text-anchor="middle" class="Lx">cor/cordis</text>
+<text x="60" y="490" text-anchor="middle" class="Lx">world</text>
+<text x="175" y="490" text-anchor="middle" class="Ls">monde</text>
+<text x="290" y="490" text-anchor="middle" class="Ls">mondo</text>
+<text x="400" y="490" text-anchor="middle" class="Lx">mundus</text>
+<text x="60" y="500" text-anchor="middle" class="Lx">freedom</text>
+<text x="175" y="500" text-anchor="middle" class="Ls">liberté</text>
+<text x="290" y="500" text-anchor="middle" class="Ls">libertà</text>
+<text x="400" y="500" text-anchor="middle" class="Lx">libertas</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 28C ALT · French / Italian · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

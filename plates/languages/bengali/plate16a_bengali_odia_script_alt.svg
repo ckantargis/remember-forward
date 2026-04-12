@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:12px} .Lbs{font-size:9px}
+  .Lo{font-size:12px} .Los{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BENGALI + ODIA — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 16A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BENGALI — BANGLA SCRIPT · ABUGIDA · LEFT TO RIGHT —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Bengali (Bangla) script: derived from Brahmi via Eastern Nagari. ~50 letters. Each consonant carries inherent /ɔ/ vowel.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Vowel signs (matra) modify the inherent vowel. Consonant clusters join into conjuncts.</text>
+<line x1="20" y1="89" x2="460" y2="89" stroke="black" stroke-width="0.3"/>
+<text x="240" y="97" text-anchor="middle" class="H">— BENGALI VOWELS — INDEPENDENT FORMS —</text>
+<text x="28" y="107" text-anchor="middle" class="Lb">অ</text>
+<text x="28" y="118" text-anchor="middle" class="Lx">a</text>
+<text x="68" y="107" text-anchor="middle" class="Lb">আ</text>
+<text x="68" y="118" text-anchor="middle" class="Lx">ā</text>
+<text x="108" y="107" text-anchor="middle" class="Lb">ই</text>
+<text x="108" y="118" text-anchor="middle" class="Lx">i</text>
+<text x="148" y="107" text-anchor="middle" class="Lb">ঈ</text>
+<text x="148" y="118" text-anchor="middle" class="Lx">ī</text>
+<text x="188" y="107" text-anchor="middle" class="Lb">উ</text>
+<text x="188" y="118" text-anchor="middle" class="Lx">u</text>
+<text x="228" y="107" text-anchor="middle" class="Lb">ঊ</text>
+<text x="228" y="118" text-anchor="middle" class="Lx">ū</text>
+<text x="268" y="107" text-anchor="middle" class="Lb">ঋ</text>
+<text x="268" y="118" text-anchor="middle" class="Lx">ṛ</text>
+<text x="308" y="107" text-anchor="middle" class="Lb">এ</text>
+<text x="308" y="118" text-anchor="middle" class="Lx">e</text>
+<text x="348" y="107" text-anchor="middle" class="Lb">ঐ</text>
+<text x="348" y="118" text-anchor="middle" class="Lx">ai</text>
+<text x="388" y="107" text-anchor="middle" class="Lb">ও</text>
+<text x="388" y="118" text-anchor="middle" class="Lx">o</text>
+<text x="428" y="107" text-anchor="middle" class="Lb">ঔ</text>
+<text x="428" y="118" text-anchor="middle" class="Lx">au</text>
+<line x1="20" y1="125" x2="460" y2="125" stroke="black" stroke-width="0.3"/>
+<text x="240" y="133" text-anchor="middle" class="H">— BENGALI CONSONANTS — FIRST TWO ROWS (ka-varga + ca-varga) —</text>
+<text x="60" y="143" text-anchor="middle" class="Lb">ক</text>
+<text x="60" y="152" text-anchor="middle" class="Lx">ka</text>
+<text x="140" y="143" text-anchor="middle" class="Lb">খ</text>
+<text x="140" y="152" text-anchor="middle" class="Lx">kha</text>
+<text x="220" y="143" text-anchor="middle" class="Lb">গ</text>
+<text x="220" y="152" text-anchor="middle" class="Lx">ga</text>
+<text x="300" y="143" text-anchor="middle" class="Lb">ঘ</text>
+<text x="300" y="152" text-anchor="middle" class="Lx">gha</text>
+<text x="380" y="143" text-anchor="middle" class="Lb">ঙ</text>
+<text x="380" y="152" text-anchor="middle" class="Lx">nga</text>
+<text x="60" y="157" text-anchor="middle" class="Lb">চ</text>
+<text x="60" y="166" text-anchor="middle" class="Lx">ca</text>
+<text x="140" y="157" text-anchor="middle" class="Lb">ছ</text>
+<text x="140" y="166" text-anchor="middle" class="Lx">cha</text>
+<text x="220" y="157" text-anchor="middle" class="Lb">জ</text>
+<text x="220" y="166" text-anchor="middle" class="Lx">ja</text>
+<text x="300" y="157" text-anchor="middle" class="Lb">ঝ</text>
+<text x="300" y="166" text-anchor="middle" class="Lx">jha</text>
+<text x="380" y="157" text-anchor="middle" class="Lb">ঞ</text>
+<text x="380" y="166" text-anchor="middle" class="Lx">nya</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H">— SELECTED CONSONANTS — DENTALS · LABIALS · SONORANTS —</text>
+<text x="28" y="193" text-anchor="middle" class="Lb">ত</text>
+<text x="28" y="203" text-anchor="middle" class="Lx">ta</text>
+<text x="68" y="193" text-anchor="middle" class="Lb">দ</text>
+<text x="68" y="203" text-anchor="middle" class="Lx">da</text>
+<text x="108" y="193" text-anchor="middle" class="Lb">ন</text>
+<text x="108" y="203" text-anchor="middle" class="Lx">na</text>
+<text x="148" y="193" text-anchor="middle" class="Lb">প</text>
+<text x="148" y="203" text-anchor="middle" class="Lx">pa</text>
+<text x="188" y="193" text-anchor="middle" class="Lb">ব</text>
+<text x="188" y="203" text-anchor="middle" class="Lx">ba</text>
+<text x="228" y="193" text-anchor="middle" class="Lb">ম</text>
+<text x="228" y="203" text-anchor="middle" class="Lx">ma</text>
+<text x="268" y="193" text-anchor="middle" class="Lb">য</text>
+<text x="268" y="203" text-anchor="middle" class="Lx">ya</text>
+<text x="308" y="193" text-anchor="middle" class="Lb">র</text>
+<text x="308" y="203" text-anchor="middle" class="Lx">ra</text>
+<text x="348" y="193" text-anchor="middle" class="Lb">ল</text>
+<text x="348" y="203" text-anchor="middle" class="Lx">la</text>
+<text x="388" y="193" text-anchor="middle" class="Lb">স</text>
+<text x="388" y="203" text-anchor="middle" class="Lx">sa</text>
+<text x="428" y="193" text-anchor="middle" class="Lb">হ</text>
+<text x="428" y="203" text-anchor="middle" class="Lx">ha</text>
+<line x1="20" y1="210" x2="460" y2="210" stroke="black" stroke-width="0.3"/>
+<text x="240" y="218" text-anchor="middle" class="H">— SCRIPT NOTES —</text>
+<text x="240" y="228" text-anchor="middle" class="Ls">Script also used for Assamese and several other northeast Indian languages.</text>
+<text x="240" y="237" text-anchor="middle" class="Lx">Conjuncts: ক্ষ (kṣa), জ্ঞ (jña) — joined consonants common in Sanskritic words.</text>
+<text x="240" y="246" text-anchor="middle" class="Lx">~230M speakers worldwide (Bangladesh + West Bengal + diaspora). Official script of Bangladesh.</text>
+<line x1="20" y1="257" x2="460" y2="257" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="260" width="440" height="14" fill="black"/>
+<text x="240" y="270" text-anchor="middle" class="Hb" fill="white">ODIA (ଓଡ଼ିଆ) · SCRIPT · ABUGIDA · LEFT TO RIGHT</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="288" text-anchor="middle" class="Ls">Odia script: also Brahmi-derived, ~11th century. Distinctive rounded letter-tops (influence of palm-leaf manuscripts).</text>
+<text x="240" y="297" text-anchor="middle" class="Lx">Same abugida logic as Bengali: consonant + inherent /a/ vowel, modified by matra signs.</text>
+<text x="240" y="306" text-anchor="middle" class="Lx">~40M speakers in Odisha state. Classical language status in India (2014). One of 22 Scheduled Languages.</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="black" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H">— ODIA VOWELS — INDEPENDENT FORMS —</text>
+<text x="36" y="331" text-anchor="middle" class="Lo">ଅ</text>
+<text x="36" y="342" text-anchor="middle" class="Lx">a</text>
+<text x="81" y="331" text-anchor="middle" class="Lo">ଆ</text>
+<text x="81" y="342" text-anchor="middle" class="Lx">ā</text>
+<text x="126" y="331" text-anchor="middle" class="Lo">ଇ</text>
+<text x="126" y="342" text-anchor="middle" class="Lx">i</text>
+<text x="171" y="331" text-anchor="middle" class="Lo">ଈ</text>
+<text x="171" y="342" text-anchor="middle" class="Lx">ī</text>
+<text x="216" y="331" text-anchor="middle" class="Lo">ଉ</text>
+<text x="216" y="342" text-anchor="middle" class="Lx">u</text>
+<text x="261" y="331" text-anchor="middle" class="Lo">ଊ</text>
+<text x="261" y="342" text-anchor="middle" class="Lx">ū</text>
+<text x="306" y="331" text-anchor="middle" class="Lo">ଏ</text>
+<text x="306" y="342" text-anchor="middle" class="Lx">e</text>
+<text x="351" y="331" text-anchor="middle" class="Lo">ଐ</text>
+<text x="351" y="342" text-anchor="middle" class="Lx">ai</text>
+<text x="396" y="331" text-anchor="middle" class="Lo">ଓ</text>
+<text x="396" y="342" text-anchor="middle" class="Lx">o</text>
+<text x="441" y="331" text-anchor="middle" class="Lo">ଔ</text>
+<text x="441" y="342" text-anchor="middle" class="Lx">au</text>
+<line x1="20" y1="349" x2="460" y2="349" stroke="black" stroke-width="0.3"/>
+<text x="240" y="357" text-anchor="middle" class="H">— ODIA CONSONANTS — FIRST TWO ROWS —</text>
+<text x="60" y="367" text-anchor="middle" class="Lo">କ</text>
+<text x="60" y="376" text-anchor="middle" class="Lx">ka</text>
+<text x="140" y="367" text-anchor="middle" class="Lo">ଖ</text>
+<text x="140" y="376" text-anchor="middle" class="Lx">kha</text>
+<text x="220" y="367" text-anchor="middle" class="Lo">ଗ</text>
+<text x="220" y="376" text-anchor="middle" class="Lx">ga</text>
+<text x="300" y="367" text-anchor="middle" class="Lo">ଘ</text>
+<text x="300" y="376" text-anchor="middle" class="Lx">gha</text>
+<text x="380" y="367" text-anchor="middle" class="Lo">ଙ</text>
+<text x="380" y="376" text-anchor="middle" class="Lx">nga</text>
+<text x="60" y="381" text-anchor="middle" class="Lo">ଚ</text>
+<text x="60" y="390" text-anchor="middle" class="Lx">ca</text>
+<text x="140" y="381" text-anchor="middle" class="Lo">ଛ</text>
+<text x="140" y="390" text-anchor="middle" class="Lx">cha</text>
+<text x="220" y="381" text-anchor="middle" class="Lo">ଜ</text>
+<text x="220" y="390" text-anchor="middle" class="Lx">ja</text>
+<text x="300" y="381" text-anchor="middle" class="Lo">ଝ</text>
+<text x="300" y="390" text-anchor="middle" class="Lx">jha</text>
+<text x="380" y="381" text-anchor="middle" class="Lo">ଞ</text>
+<text x="380" y="390" text-anchor="middle" class="Lx">nya</text>
+<line x1="20" y1="399" x2="460" y2="399" stroke="black" stroke-width="0.3"/>
+<text x="240" y="407" text-anchor="middle" class="H">— SCRIPT BRIDGE — SAME WORDS, BENGALI VS. ODIA —</text>
+<text x="80" y="417" text-anchor="middle" class="Lx">Bengali</text>
+<text x="200" y="417" text-anchor="middle" class="Lx">Odia</text>
+<text x="320" y="417" text-anchor="middle" class="Lx">Translit.</text>
+<text x="410" y="417" text-anchor="middle" class="Lx">English</text>
+<line x1="20" y1="421" x2="460" y2="421" stroke="black" stroke-width="0.2"/>
+<text x="80" y="430" text-anchor="middle" class="Lbs">জল</text>
+<text x="200" y="430" text-anchor="middle" class="Los">ଜଳ</text>
+<text x="320" y="430" text-anchor="middle" class="Lx">jala</text>
+<text x="410" y="430" text-anchor="middle" class="Lx">water</text>
+<text x="80" y="442" text-anchor="middle" class="Lbs">আগুন</text>
+<text x="200" y="442" text-anchor="middle" class="Los">ଆଗ</text>
+<text x="320" y="442" text-anchor="middle" class="Lx">āgun/āga</text>
+<text x="410" y="442" text-anchor="middle" class="Lx">fire</text>
+<text x="80" y="454" text-anchor="middle" class="Lbs">মাটি</text>
+<text x="200" y="454" text-anchor="middle" class="Los">ମାଟି</text>
+<text x="320" y="454" text-anchor="middle" class="Lx">māṭi</text>
+<text x="410" y="454" text-anchor="middle" class="Lx">earth</text>
+<text x="80" y="466" text-anchor="middle" class="Lbs">মানুষ</text>
+<text x="200" y="466" text-anchor="middle" class="Los">ମଣିଷ</text>
+<text x="320" y="466" text-anchor="middle" class="Lx">mānuṣ</text>
+<text x="410" y="466" text-anchor="middle" class="Lx">person</text>
+<text x="80" y="478" text-anchor="middle" class="Lbs">চাঁদ</text>
+<text x="200" y="478" text-anchor="middle" class="Los">ଚାଂଦ</text>
+<text x="320" y="478" text-anchor="middle" class="Lx">cā̃d</text>
+<text x="410" y="478" text-anchor="middle" class="Lx">moon</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 16A ALT · BENGALI/ODIA · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

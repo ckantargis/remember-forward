@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ENGLISH + WELSH — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 48C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ENGLISH — SVO · ANALYTIC · MINIMAL INFLECTION —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">English is highly analytic: word order, not endings, marks grammatical roles. Lost case endings ~1200 CE.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Verb: only -s for 3rd sg present; -ed for past; -ing for progressive. No gender agreement.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Articles: the (definite) / a, an (indefinite) — no grammatical gender.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— ENGLISH CORE VOCABULARY — 20 WORDS —</text>
+<text x="30" y="116" text-anchor="start" class="Ls">water</text>
+<text x="120" y="116" text-anchor="start" class="Lx">water</text>
+<text x="30" y="126" text-anchor="start" class="Ls">fire</text>
+<text x="120" y="126" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="136" text-anchor="start" class="Ls">earth</text>
+<text x="120" y="136" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="146" text-anchor="start" class="Ls">person</text>
+<text x="120" y="146" text-anchor="start" class="Lx">person</text>
+<text x="30" y="156" text-anchor="start" class="Ls">moon</text>
+<text x="120" y="156" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="166" text-anchor="start" class="Ls">sun</text>
+<text x="120" y="166" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="176" text-anchor="start" class="Ls">yes</text>
+<text x="120" y="176" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="186" text-anchor="start" class="Ls">no</text>
+<text x="120" y="186" text-anchor="start" class="Lx">no</text>
+<text x="30" y="196" text-anchor="start" class="Ls">I</text>
+<text x="120" y="196" text-anchor="start" class="Lx">I</text>
+<text x="30" y="206" text-anchor="start" class="Ls">you</text>
+<text x="120" y="206" text-anchor="start" class="Lx">you</text>
+<text x="260" y="116" text-anchor="start" class="Ls">love</text>
+<text x="350" y="116" text-anchor="start" class="Lx">love</text>
+<text x="260" y="126" text-anchor="start" class="Ls">freedom</text>
+<text x="350" y="126" text-anchor="start" class="Lx">freedom</text>
+<text x="260" y="136" text-anchor="start" class="Ls">future</text>
+<text x="350" y="136" text-anchor="start" class="Lx">future</text>
+<text x="260" y="146" text-anchor="start" class="Ls">world</text>
+<text x="350" y="146" text-anchor="start" class="Lx">world</text>
+<text x="260" y="156" text-anchor="start" class="Ls">good</text>
+<text x="350" y="156" text-anchor="start" class="Lx">good</text>
+<text x="260" y="166" text-anchor="start" class="Ls">death</text>
+<text x="350" y="166" text-anchor="start" class="Lx">death</text>
+<text x="260" y="176" text-anchor="start" class="Ls">life</text>
+<text x="350" y="176" text-anchor="start" class="Lx">life</text>
+<text x="260" y="186" text-anchor="start" class="Ls">thank you</text>
+<text x="350" y="186" text-anchor="start" class="Lx">thank you</text>
+<text x="260" y="196" text-anchor="start" class="Ls">when</text>
+<text x="350" y="196" text-anchor="start" class="Lx">when</text>
+<text x="260" y="206" text-anchor="start" class="Ls">where</text>
+<text x="350" y="206" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<line x1="20" y1="230" x2="460" y2="230" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="233" width="440" height="14" fill="black"/>
+<text x="240" y="243" text-anchor="middle" class="Hb" fill="white">WELSH (CYMRAEG) · GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="240" y="262" text-anchor="middle" class="Ls">Welsh is VSO (Verb-Subject-Object) — unusual in Europe. "Mae Sioned yn canu" = Is Sioned singing = Sioned sings.</text>
+<text x="240" y="271" text-anchor="middle" class="Lx">Inflected prepositions: unique Celtic feature. "I am" = Mae + subject; prepositions conjugate like verbs.</text>
+<text x="240" y="280" text-anchor="middle" class="Lx">"ar" (on): arnaf i (on-me), arnat ti (on-you), arno fe (on-him). Prepositions merge with pronouns.</text>
+<line x1="20" y1="287" x2="460" y2="287" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">— WELSH VERB "BOD" (TO BE) — PRESENT TENSE —</text>
+<text x="160" y="304" text-anchor="middle" class="Ls">rydw i</text>
+<text x="330" y="304" text-anchor="middle" class="Lx">I am</text>
+<text x="160" y="314" text-anchor="middle" class="Ls">rwyt ti</text>
+<text x="330" y="314" text-anchor="middle" class="Lx">you are (inf.)</text>
+<text x="160" y="324" text-anchor="middle" class="Ls">mae e/hi</text>
+<text x="330" y="324" text-anchor="middle" class="Lx">he/she is</text>
+<text x="160" y="334" text-anchor="middle" class="Ls">rydyn ni</text>
+<text x="330" y="334" text-anchor="middle" class="Lx">we are</text>
+<text x="160" y="344" text-anchor="middle" class="Ls">rydych chi</text>
+<text x="330" y="344" text-anchor="middle" class="Lx">you are (formal)</text>
+<text x="160" y="354" text-anchor="middle" class="Ls">maen nhw</text>
+<text x="330" y="354" text-anchor="middle" class="Lx">they are</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H">— WELSH CORE VOCABULARY — 20 WORDS —</text>
+<text x="25" y="387" text-anchor="start" class="Ls">dŵr</text>
+<text x="95" y="387" text-anchor="start" class="Lx">dūr</text>
+<text x="160" y="387" text-anchor="start" class="Lx">water</text>
+<text x="25" y="397" text-anchor="start" class="Ls">tân</text>
+<text x="95" y="397" text-anchor="start" class="Lx">tān</text>
+<text x="160" y="397" text-anchor="start" class="Lx">fire</text>
+<text x="25" y="407" text-anchor="start" class="Ls">daear</text>
+<text x="95" y="407" text-anchor="start" class="Lx">daear</text>
+<text x="160" y="407" text-anchor="start" class="Lx">earth</text>
+<text x="25" y="417" text-anchor="start" class="Ls">person</text>
+<text x="95" y="417" text-anchor="start" class="Lx">person</text>
+<text x="160" y="417" text-anchor="start" class="Lx">person</text>
+<text x="25" y="427" text-anchor="start" class="Ls">lleuad</text>
+<text x="95" y="427" text-anchor="start" class="Lx">lleuad</text>
+<text x="160" y="427" text-anchor="start" class="Lx">moon</text>
+<text x="25" y="437" text-anchor="start" class="Ls">haul</text>
+<text x="95" y="437" text-anchor="start" class="Lx">haul</text>
+<text x="160" y="437" text-anchor="start" class="Lx">sun</text>
+<text x="25" y="447" text-anchor="start" class="Ls">ie / oes</text>
+<text x="95" y="447" text-anchor="start" class="Lx">ie/oes</text>
+<text x="160" y="447" text-anchor="start" class="Lx">yes</text>
+<text x="25" y="457" text-anchor="start" class="Ls">na / nage</text>
+<text x="95" y="457" text-anchor="start" class="Lx">na/nage</text>
+<text x="160" y="457" text-anchor="start" class="Lx">no</text>
+<text x="25" y="467" text-anchor="start" class="Ls">fi</text>
+<text x="95" y="467" text-anchor="start" class="Lx">fī</text>
+<text x="160" y="467" text-anchor="start" class="Lx">I</text>
+<text x="25" y="477" text-anchor="start" class="Ls">chi/ti</text>
+<text x="95" y="477" text-anchor="start" class="Lx">chi/ti</text>
+<text x="160" y="477" text-anchor="start" class="Lx">you</text>
+<text x="265" y="387" text-anchor="start" class="Ls">cariad</text>
+<text x="335" y="387" text-anchor="start" class="Lx">cariad</text>
+<text x="400" y="387" text-anchor="start" class="Lx">love</text>
+<text x="265" y="397" text-anchor="start" class="Ls">rhyddid</text>
+<text x="335" y="397" text-anchor="start" class="Lx">rhəðid</text>
+<text x="400" y="397" text-anchor="start" class="Lx">freedom</text>
+<text x="265" y="407" text-anchor="start" class="Ls">dyfodol</text>
+<text x="335" y="407" text-anchor="start" class="Lx">dəvodol</text>
+<text x="400" y="407" text-anchor="start" class="Lx">future</text>
+<text x="265" y="417" text-anchor="start" class="Ls">byd</text>
+<text x="335" y="417" text-anchor="start" class="Lx">bīd</text>
+<text x="400" y="417" text-anchor="start" class="Lx">world</text>
+<text x="265" y="427" text-anchor="start" class="Ls">da</text>
+<text x="335" y="427" text-anchor="start" class="Lx">dā</text>
+<text x="400" y="427" text-anchor="start" class="Lx">good</text>
+<text x="265" y="437" text-anchor="start" class="Ls">marwolaeth</text>
+<text x="335" y="437" text-anchor="start" class="Lx">maruɔlaɛθ</text>
+<text x="400" y="437" text-anchor="start" class="Lx">death</text>
+<text x="265" y="447" text-anchor="start" class="Ls">bywyd</text>
+<text x="335" y="447" text-anchor="start" class="Lx">bəuid</text>
+<text x="400" y="447" text-anchor="start" class="Lx">life</text>
+<text x="265" y="457" text-anchor="start" class="Ls">diolch</text>
+<text x="335" y="457" text-anchor="start" class="Lx">dıɔlx</text>
+<text x="400" y="457" text-anchor="start" class="Lx">thanks</text>
+<text x="265" y="467" text-anchor="start" class="Ls">pryd</text>
+<text x="335" y="467" text-anchor="start" class="Lx">prīd</text>
+<text x="400" y="467" text-anchor="start" class="Lx">when</text>
+<text x="265" y="477" text-anchor="start" class="Ls">lle</text>
+<text x="335" y="477" text-anchor="start" class="Lx">hle</text>
+<text x="400" y="477" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 48C ALT · ENGLISH/WELSH · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

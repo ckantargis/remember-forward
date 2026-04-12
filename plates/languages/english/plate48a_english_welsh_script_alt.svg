@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ENGLISH + WELSH — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 48A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ENGLISH — LATIN ALPHABET · 26 LETTERS · IRREGULAR SPELLING —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">English uses 26 Latin letters but spelling is famously irregular: 44 phonemes mapped to 26 letters + digraphs.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Historical layers: Old English (Germanic), Norman French, Latin/Greek scientific vocabulary.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">No official governing body. Spelling standardized ~1750 by Dr Johnson's Dictionary. American/British variants.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— ENGLISH — KEY DIGRAPHS AND SOUND-SPELLING MISMATCHES —</text>
+<text x="55" y="116" text-anchor="middle" class="Ls">th</text>
+<text x="110" y="116" text-anchor="middle" class="Lx">/θ/ or /ð/</text>
+<text x="310" y="116" text-anchor="middle" class="Lx">voiceless (think) or voiced (the) — same spelling</text>
+<text x="55" y="126" text-anchor="middle" class="Ls">sh</text>
+<text x="110" y="126" text-anchor="middle" class="Lx">/ʃ/</text>
+<text x="310" y="126" text-anchor="middle" class="Lx">always the same sound: ship, rush</text>
+<text x="55" y="136" text-anchor="middle" class="Ls">ch</text>
+<text x="110" y="136" text-anchor="middle" class="Lx">/tʃ/ /k/ /ʃ/</text>
+<text x="310" y="136" text-anchor="middle" class="Lx">church, chorus, chef — three sounds</text>
+<text x="55" y="146" text-anchor="middle" class="Ls">gh</text>
+<text x="110" y="146" text-anchor="middle" class="Lx">/f/, silent, /g/</text>
+<text x="310" y="146" text-anchor="middle" class="Lx">enough, night, ghost — three behaviors</text>
+<text x="55" y="156" text-anchor="middle" class="Ls">ph</text>
+<text x="110" y="156" text-anchor="middle" class="Lx">/f/</text>
+<text x="310" y="156" text-anchor="middle" class="Lx">phone: Greek-origin words</text>
+<text x="55" y="166" text-anchor="middle" class="Ls">ough</text>
+<text x="110" y="166" text-anchor="middle" class="Lx">/ɔ:/ /u:/ /ʌ/ /ɑ:/ /ɒf/</text>
+<text x="310" y="166" text-anchor="middle" class="Lx">through, though, tough, thought, thorough — 5 sounds, 1 spelling</text>
+<text x="55" y="176" text-anchor="middle" class="Ls">wr-</text>
+<text x="110" y="176" text-anchor="middle" class="Lx">/r/</text>
+<text x="310" y="176" text-anchor="middle" class="Lx">write, wrong: silent w (Old English)</text>
+<text x="55" y="186" text-anchor="middle" class="Ls">kn-</text>
+<text x="110" y="186" text-anchor="middle" class="Lx">/n/</text>
+<text x="310" y="186" text-anchor="middle" class="Lx">know, knight: silent k (Old English)</text>
+<line x1="20" y1="202" x2="460" y2="202" stroke="black" stroke-width="0.3"/>
+<text x="240" y="210" text-anchor="middle" class="H">— ENGLISH ALPHABET — ORIGIN NOTES —</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">26 letters via Latin → Old English runes/Latin → Norman French scribes → printing press (1476).</text>
+<text x="240" y="229" text-anchor="middle" class="Lx">Letters eliminated: thorn Þ (th), wynn ƿ (w), eth ð, yogh ȝ — Old English letters lost after Norman Conquest.</text>
+<text x="240" y="238" text-anchor="middle" class="Lx">English: ~1.5 billion speakers worldwide. Most-studied second language in history.</text>
+<line x1="20" y1="249" x2="460" y2="249" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="252" width="440" height="14" fill="black"/>
+<text x="240" y="262" text-anchor="middle" class="Hb" fill="white">WELSH (CYMRAEG) · SCRIPT · 28-LETTER LATIN ALPHABET</text>
+<line x1="20" y1="266" x2="460" y2="266" stroke="black" stroke-width="0.3"/>
+<text x="240" y="281" text-anchor="middle" class="Ls">Welsh uses Latin script with digraphs counted as single letters. 28 letters total.</text>
+<text x="240" y="290" text-anchor="middle" class="L">Welsh alphabet: a b c ch d dd e f ff g ng h i j l ll m n o p ph r rh s t th u w y</text>
+<text x="240" y="300" text-anchor="middle" class="Lx">No k, q, v, x, z in Welsh (except loanwords). 8 digraphs: ch dd ff ng ll ph rh th.</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H">— WELSH DIGRAPHS — THE DISTINCTIVE SOUNDS —</text>
+<text x="40" y="324" text-anchor="middle" class="Ls">ll</text>
+<text x="80" y="324" text-anchor="middle" class="Lx">/ɬ/</text>
+<text x="290" y="324" text-anchor="middle" class="Lx">voiceless lateral fricative — no English equivalent. Place tongue for l, breathe out sides.</text>
+<text x="40" y="334" text-anchor="middle" class="Ls">ch</text>
+<text x="80" y="334" text-anchor="middle" class="Lx">/x/</text>
+<text x="290" y="334" text-anchor="middle" class="Lx">velar fricative, like Scottish "loch" or German "Bach."</text>
+<text x="40" y="344" text-anchor="middle" class="Ls">dd</text>
+<text x="80" y="344" text-anchor="middle" class="Lx">/ð/</text>
+<text x="290" y="344" text-anchor="middle" class="Lx">voiced dental fricative — like English "the."</text>
+<text x="40" y="354" text-anchor="middle" class="Ls">ff</text>
+<text x="80" y="354" text-anchor="middle" class="Lx">/f/</text>
+<text x="290" y="354" text-anchor="middle" class="Lx">like English "f." Single f = /v/ in Welsh.</text>
+<text x="40" y="364" text-anchor="middle" class="Ls">rh</text>
+<text x="80" y="364" text-anchor="middle" class="Lx">/r̥/</text>
+<text x="290" y="364" text-anchor="middle" class="Lx">voiceless r — breathed r, like r + h blend.</text>
+<text x="40" y="374" text-anchor="middle" class="Ls">ng</text>
+<text x="80" y="374" text-anchor="middle" class="Lx">/ŋ/</text>
+<text x="290" y="374" text-anchor="middle" class="Lx">like English "sing." Can appear word-initially in Welsh.</text>
+<text x="40" y="384" text-anchor="middle" class="Ls">th</text>
+<text x="80" y="384" text-anchor="middle" class="Lx">/θ/</text>
+<text x="290" y="384" text-anchor="middle" class="Lx">like English "thin" — always voiceless in Welsh.</text>
+<text x="40" y="394" text-anchor="middle" class="Ls">ph</text>
+<text x="80" y="394" text-anchor="middle" class="Lx">/f/</text>
+<text x="290" y="394" text-anchor="middle" class="Lx">like ff, used in mutations: ei phen (her head).</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H">— WELSH CONSONANT MUTATIONS — KEY FEATURE —</text>
+<text x="240" y="428" text-anchor="middle" class="Ls">Welsh mutates initial consonants based on grammar. 4 mutation types: soft, nasal, aspirate, mixed.</text>
+<text x="240" y="437" text-anchor="middle" class="Lx">Soft mutation: p→b→f / t→d→dd / c→g→ng / b→f / d→dd / g→∅ (zero!).</text>
+<text x="240" y="446" text-anchor="middle" class="Lx">cat (cat) → fy nghath (my cat) / dy gath (your cat) / ei cath (her cat). Same word, 3 forms.</text>
+<text x="240" y="455" text-anchor="middle" class="Lx">Mutations carry grammatical information: possessor gender, preposition type, sentence role.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 48A ALT · ENGLISH/WELSH · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

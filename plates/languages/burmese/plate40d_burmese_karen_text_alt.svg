@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:11px} .Lbs{font-size:8px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BURMESE + S’GAW KAREN — RUNNING TEXT</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 40D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. BURMESE PROVERB — ON MEMORY —</text>
+<text x="240" y="73" text-anchor="middle" class="Lb">ရှောသူးကို မှတညညာသည့ အနာခာလာနေ့</text>
+<text x="240" y="87" text-anchor="middle" class="Lx">yaungo-kyi  mhaw-htaung-tha   ana-kala  la-ne</text>
+<text x="240" y="96" text-anchor="middle" class="F">"Remembering the past is how the future comes to us."</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H">— II. BURMESE SAYING — ON KNOWLEDGE —</text>
+<text x="240" y="122" text-anchor="middle" class="Lb">ပညညာဆာသည့ မီးကိုး မပြုထဏာအံ</text>
+<text x="240" y="136" text-anchor="middle" class="Lx">pannya-hka-tha  myi-kyi-mya  ma-pyaw-hpan</text>
+<text x="240" y="145" text-anchor="middle" class="F">"The flame of wisdom cannot be extinguished."</text>
+<line x1="20" y1="153" x2="460" y2="153" stroke="black" stroke-width="0.3"/>
+<text x="240" y="161" text-anchor="middle" class="H">— III. BURMESE BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="173" text-anchor="middle" class="Lb">ဒီဒဝလာသည့ကို ခငါသူးအတ်ကာ</text>
+<text x="240" y="187" text-anchor="middle" class="Lb">စရိုခညးနှင့သည့</text>
+<text x="240" y="200" text-anchor="middle" class="Lb">အရှောသိုး သတိမှတားသည့ လူလာသည့ကသိ့</text>
+<text x="240" y="213" text-anchor="middle" class="Lx">di-da-la-tha kyi u-hka-mhu (this freely for-you was-made)</text>
+<text x="240" y="222" text-anchor="middle" class="Lx">amyaungo-da-la-tha shi-thma-de lu-la-tha doh-a-hyi (forward remembering people by)</text>
+<text x="240" y="231" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered forward." (Burmese)</text>
+<line x1="20" y1="240" x2="460" y2="240" stroke="black" stroke-width="0.3"/>
+<text x="240" y="248" text-anchor="middle" class="H">— BURMESE NOTE — “FORWARD” —</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">A-myaung-go (အရှောသိုး) = forward/front. In Burmese, the future lies “ahead” — a spatial metaphor.</text>
+<text x="240" y="267" text-anchor="middle" class="Lx">Mhaw-zà (မှေားးသာ) = to remember — lit. to recall/pick up memory. SOV verb-final structure preserved.</text>
+<line x1="20" y1="278" x2="460" y2="278" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="281" width="440" height="14" fill="black"/>
+<text x="240" y="291" text-anchor="middle" class="Hb" fill="white">SECONDARY — S’GAW KAREN — RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="295" x2="460" y2="295" stroke="black" stroke-width="0.3"/>
+<text x="240" y="304" text-anchor="middle" class="H">— I. S’GAW KAREN — PROVERB ON REMEMBRANCE —</text>
+<text x="240" y="314" text-anchor="middle" class="L">Pghe pga mu eh — pga pghe kaw lah eh.</text>
+<text x="240" y="324" text-anchor="middle" class="Lx">Remember-the-sky — the-sky remember Karen-people.</text>
+<text x="240" y="333" text-anchor="middle" class="F">"Remember the sky — the sky remembers the Karen people." (Karen oral tradition)</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H">— II. S’GAW KAREN — BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="360" text-anchor="middle" class="L">Ta pga naw deh, keh klaw, saw pghe mu eh ta deh.</text>
+<text x="240" y="371" text-anchor="middle" class="Lx">This for-you  made freely  people remember forward who by made.</text>
+<text x="240" y="380" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="black" stroke-width="0.3"/>
+<text x="240" y="397" text-anchor="middle" class="H">— S’GAW KAREN NOTE — “FORWARD” AND “FUTURE” —</text>
+<text x="240" y="407" text-anchor="middle" class="Ls">“Mu” in S’gaw Karen means sky, world-above, heaven — and by extension: future, what lies ahead.</text>
+<text x="240" y="416" text-anchor="middle" class="Lx">The spatial metaphor (forward = above/sky) differs from Burmese (forward = ahead/front) — a cultural contrast.</text>
+<text x="240" y="425" text-anchor="middle" class="Lx">“Pghe” = to remember, to recall. In Karen oral tradition, memory is tied to the ancestors and the sky.</text>
+<line x1="20" y1="434" x2="460" y2="434" stroke="black" stroke-width="0.3"/>
+<text x="240" y="442" text-anchor="middle" class="H">— LANGUAGE BRIDGE — TWO NEIGHBORS —</text>
+<text x="240" y="452" text-anchor="middle" class="Ls">Burmese: ~33M speakers, official state language of Myanmar. Mon/Brahmic script, SOV, 3 tones.</text>
+<text x="240" y="461" text-anchor="middle" class="Ls">S’gaw Karen: ~2-3M speakers, eastern Myanmar + western Thailand. SVO, 7 tones, Burmese-based script.</text>
+<text x="240" y="470" text-anchor="middle" class="Lx">Both Sino-Tibetan (Tibeto-Burman); both tonal; opposite word order. Living side by side for millennia.</text>
+<text x="240" y="479" text-anchor="middle" class="Lx">Karen people maintained cultural autonomy through oral epic tradition. Script established by missionaries 1832 CE.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 40D ALT · Burmese / S’gaw Karen · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

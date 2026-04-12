@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ENGLISH + WELSH — PHONOLOGY · SOUND SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 48B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ENGLISH — VOWEL SYSTEM (GENERAL AMERICAN) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">English has ~14–20 vowel phonemes depending on dialect — one of the largest inventories in Europe.</text>
+<text x="30" y="82" text-anchor="start" class="Lx">/i:/</text>
+<text x="90" y="82" text-anchor="start" class="Lx">"ee"</text>
+<text x="140" y="82" text-anchor="start" class="Lx">feet, sea</text>
+<text x="30" y="92" text-anchor="start" class="Lx">/ɪ/</text>
+<text x="90" y="92" text-anchor="start" class="Lx">"ih"</text>
+<text x="140" y="92" text-anchor="start" class="Lx">sit, bit</text>
+<text x="30" y="102" text-anchor="start" class="Lx">/e/</text>
+<text x="90" y="102" text-anchor="start" class="Lx">"eh"</text>
+<text x="140" y="102" text-anchor="start" class="Lx">bed, set</text>
+<text x="30" y="112" text-anchor="start" class="Lx">/æ/</text>
+<text x="90" y="112" text-anchor="start" class="Lx">"aa"</text>
+<text x="140" y="112" text-anchor="start" class="Lx">cat, bad</text>
+<text x="30" y="122" text-anchor="start" class="Lx">/ɑ:/</text>
+<text x="90" y="122" text-anchor="start" class="Lx">"ah"</text>
+<text x="140" y="122" text-anchor="start" class="Lx">father, spa</text>
+<text x="30" y="132" text-anchor="start" class="Lx">/ɔ:/</text>
+<text x="90" y="132" text-anchor="start" class="Lx">"aw"</text>
+<text x="140" y="132" text-anchor="start" class="Lx">thought, law</text>
+<text x="265" y="82" text-anchor="start" class="Lx">/oʊ/</text>
+<text x="325" y="82" text-anchor="start" class="Lx">"oh"</text>
+<text x="375" y="82" text-anchor="start" class="Lx">go, boat</text>
+<text x="265" y="92" text-anchor="start" class="Lx">/u:/</text>
+<text x="325" y="92" text-anchor="start" class="Lx">"oo"</text>
+<text x="375" y="92" text-anchor="start" class="Lx">food, blue</text>
+<text x="265" y="102" text-anchor="start" class="Lx">/ʊ/</text>
+<text x="325" y="102" text-anchor="start" class="Lx">"uh"</text>
+<text x="375" y="102" text-anchor="start" class="Lx">put, book</text>
+<text x="265" y="112" text-anchor="start" class="Lx">/ʌ/</text>
+<text x="325" y="112" text-anchor="start" class="Lx">"uh"</text>
+<text x="375" y="112" text-anchor="start" class="Lx">cup, but</text>
+<text x="265" y="122" text-anchor="start" class="Lx">/ɜ:/</text>
+<text x="325" y="122" text-anchor="start" class="Lx">"ur"</text>
+<text x="375" y="122" text-anchor="start" class="Lx">bird, her</text>
+<text x="265" y="132" text-anchor="start" class="Lx">/ə/</text>
+<text x="325" y="132" text-anchor="start" class="Lx">"uh"</text>
+<text x="375" y="132" text-anchor="start" class="Lx">about (schwa)</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H">— ENGLISH — CONSONANTS · NOTABLE FEATURES —</text>
+<text x="240" y="165" text-anchor="middle" class="Ls">/θ/ and /ð/: dental fricatives unique to English among major world languages.</text>
+<text x="240" y="174" text-anchor="middle" class="Lx">/r/ = approximant /ɹ/ in most varieties. /h/ weakening in many dialects. /ŋ/ only medial/final.</text>
+<text x="240" y="183" text-anchor="middle" class="Lx">No tonal distinctions. Stress accent: variable, not fixed. Rhythm: stress-timed (not syllable-timed).</text>
+<line x1="20" y1="194" x2="460" y2="194" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="197" width="440" height="14" fill="black"/>
+<text x="240" y="207" text-anchor="middle" class="Hb" fill="white">WELSH (CYMRAEG) · PHONOLOGY · SOUND SYSTEM</text>
+<line x1="20" y1="211" x2="460" y2="211" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="Ls">Welsh phonology: notable for voiceless resonants, lateral fricative /ɬ/ (ll), and pitch accent in some dialects.</text>
+<line x1="20" y1="233" x2="460" y2="233" stroke="black" stroke-width="0.3"/>
+<text x="240" y="241" text-anchor="middle" class="H">— WELSH VOWELS — 7 + LENGTH —</text>
+<text x="240" y="251" text-anchor="middle" class="Ls">Vowels: /a e ɛ i o ʊ ə/ — each has short and long form. Length marked with circumflex â ê î ô û ŵ ŷ.</text>
+<text x="240" y="260" text-anchor="middle" class="Lx">Long vowels: mân (fine) vs. man (place) — circumflex signals vowel length (to bach = little hat).</text>
+<text x="240" y="269" text-anchor="middle" class="Lx">w and y function as vowels: cwm /kʊm/ (valley), dyn /dɨn/ (man), bwrdd /bʊrd/ (table).</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">— WELSH — DISTINCTIVE CONSONANTS —</text>
+<text x="80" y="293" text-anchor="middle" class="Ls">/ɬ/ ll</text>
+<text x="320" y="293" text-anchor="middle" class="Lx">voiceless lateral fricative — one of Welsh’s most recognized sounds</text>
+<text x="80" y="303" text-anchor="middle" class="Ls">/r̥/ rh</text>
+<text x="320" y="303" text-anchor="middle" class="Lx">voiceless rhotic — aspirated r, unique in Celtic languages</text>
+<text x="80" y="313" text-anchor="middle" class="Ls">/x/ ch</text>
+<text x="320" y="313" text-anchor="middle" class="Lx">velar fricative — like Scottish "loch"</text>
+<text x="80" y="323" text-anchor="middle" class="Ls">/ɣ/ in dialects</text>
+<text x="320" y="323" text-anchor="middle" class="Lx">voiced velar fricative in some north Welsh pronunciation</text>
+<text x="80" y="333" text-anchor="middle" class="Ls">/m̩ n̩/</text>
+<text x="320" y="333" text-anchor="middle" class="Lx">syllabic nasals in some clusters</text>
+<line x1="20" y1="350" x2="460" y2="350" stroke="black" stroke-width="0.3"/>
+<text x="240" y="358" text-anchor="middle" class="H">— STRESS AND TONE —</text>
+<text x="240" y="368" text-anchor="middle" class="Ls">Welsh: stress almost always on penultimate syllable (second-to-last). Very regular.</text>
+<text x="240" y="377" text-anchor="middle" class="Lx">North Welsh dialects show some pitch distinctions (not true lexical tone). South Welsh more level.</text>
+<line x1="20" y1="384" x2="460" y2="384" stroke="black" stroke-width="0.3"/>
+<text x="240" y="392" text-anchor="middle" class="H">— COMPARATIVE NOTE —</text>
+<text x="240" y="402" text-anchor="middle" class="Ls">English: stress-timed, large vowel inventory, no mutations, SVO order.</text>
+<text x="240" y="411" text-anchor="middle" class="Ls">Welsh: syllable-timed (more regular), pitch-influenced stress, radical mutations, VSO order.</text>
+<text x="240" y="420" text-anchor="middle" class="Ls">Both: dental fricatives /θ ð/, Latin alphabet, no tonal lexical distinctions.</text>
+<text x="240" y="429" text-anchor="middle" class="Lx">Shared Celtic substrate words in English: crag, corgi, brock (badger), tor, coomb (valley).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 48B ALT · ENGLISH/WELSH · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .Lb{font-size:12px} .Lbs{font-size:9px}
+  .Lo{font-size:12px} .Los{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic} .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">BENGALI + ODIA — PHONOLOGY · SOUND SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 16B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— BENGALI — VOWEL SYSTEM —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">7 oral vowels: /a ɔ e ɛ i o u/. /a/ and /ɔ/ both written অ contextually.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Distinctive: /ɔ/ (open-mid back rounded) — English "awe". /e/ and /o/ are monophthongs (not diphthongs).</text>
+<line x1="20" y1="89" x2="460" y2="89" stroke="black" stroke-width="0.3"/>
+<text x="240" y="97" text-anchor="middle" class="H">— BENGALI — CONSONANTS: 4 STOP SERIES —</text>
+<text x="240" y="107" text-anchor="middle" class="Ls">Bengali preserves the full Indo-Aryan 4-way stop contrast: voiceless, aspirated, voiced, voiced-aspirated.</text>
+<text x="100" y="116" text-anchor="middle" class="Lx">ka/kha/ga/gha</text>
+<text x="220" y="116" text-anchor="middle" class="Lx">velar stops</text>
+<text x="360" y="116" text-anchor="middle" class="Lx">k kʰ g gʰ</text>
+<text x="100" y="126" text-anchor="middle" class="Lx">ca/cha/ja/jha</text>
+<text x="220" y="126" text-anchor="middle" class="Lx">palatal affricate</text>
+<text x="360" y="126" text-anchor="middle" class="Lx">tʃ tʃʰ dʒ dʒʰ</text>
+<text x="100" y="136" text-anchor="middle" class="Lx">ṭa/ṭha/ḍa/ḍha</text>
+<text x="220" y="136" text-anchor="middle" class="Lx">retroflex stops</text>
+<text x="360" y="136" text-anchor="middle" class="Lx">ʈ ʈʰ ɖ ɖʰ</text>
+<text x="100" y="146" text-anchor="middle" class="Lx">ta/tha/da/dha</text>
+<text x="220" y="146" text-anchor="middle" class="Lx">dental stops</text>
+<text x="360" y="146" text-anchor="middle" class="Lx">t̪ t̪ʰ d̪ d̪ʰ</text>
+<text x="100" y="156" text-anchor="middle" class="Lx">pa/pha/ba/bha</text>
+<text x="220" y="156" text-anchor="middle" class="Lx">bilabial stops</text>
+<text x="360" y="156" text-anchor="middle" class="Lx">p pʰ b bʰ</text>
+<line x1="20" y1="170" x2="460" y2="170" stroke="black" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H">— BENGALI — NASALS · RETROFLEXES · SIBILANTS —</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">5 nasal stops: /ŋ nɲ ɳ n m/ — ñ and ṇ rare in modern speech, merged to /n/.</text>
+<text x="240" y="197" text-anchor="middle" class="Lx">Retroflexes ṭ ḍ distinctive in formal register. 3 sibilants: /ɕ ʂ s/ written শ ষ স.</text>
+<text x="240" y="206" text-anchor="middle" class="Lx">No tonal distinctions. Stress: generally on first syllable. Vowel length not phonemic in modern Bengali.</text>
+<line x1="20" y1="217" x2="460" y2="217" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="220" width="440" height="14" fill="black"/>
+<text x="240" y="230" text-anchor="middle" class="Hb" fill="white">ODIA (ଓଡ଼ିଆ) · PHONOLOGY</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="black" stroke-width="0.3"/>
+<text x="240" y="249" text-anchor="middle" class="Ls">Odia phonology closely parallels Bengali. Same 4-way stop system. Both derived from Magadhi Prakrit.</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H">— ODIA — VOWEL SYSTEM —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls">6 oral vowels: /a ā i ī u ū e o/. Odia retains length distinction in /aā/ /iī/ /uū/ more clearly than Bengali.</text>
+<text x="240" y="283" text-anchor="middle" class="Lx">Odia /a/ is a central open vowel; /ā/ is longer. Less merger than Bengali.</text>
+<line x1="20" y1="290" x2="460" y2="290" stroke="black" stroke-width="0.3"/>
+<text x="240" y="298" text-anchor="middle" class="H">— ODIA — DISTINCT FEATURES FROM BENGALI —</text>
+<text x="60" y="307" text-anchor="start" class="Lx">Retroflex lateral</text>
+<text x="60" y="316" text-anchor="start" class="Lx">Odia: ଳ /ɭ/ (Odia ḷa)</text>
+<text x="320" y="316" text-anchor="start" class="Lx">Beng: Bengali lacks this phoneme</text>
+<text x="60" y="325" text-anchor="start" class="Lx">Retroflex nasal</text>
+<text x="60" y="334" text-anchor="start" class="Lx">Odia: ଣ /ɳ/ more preserved in Odia</text>
+<text x="320" y="334" text-anchor="start" class="Lx">Beng: Bengali merged to /n/ in speech</text>
+<text x="60" y="343" text-anchor="start" class="Lx">Inherent vowel</text>
+<text x="60" y="352" text-anchor="start" class="Lx">Odia: /a/ in Odia (shorter, more central)</text>
+<text x="320" y="352" text-anchor="start" class="Lx">Beng: Bengali uses /ɔ/</text>
+<text x="60" y="361" text-anchor="start" class="Lx">Sibilant merger</text>
+<text x="60" y="370" text-anchor="start" class="Lx">Odia: Odia: 3 sibilants ଶ ଷ ସ distinct in writing</text>
+<text x="320" y="370" text-anchor="start" class="Lx">Beng: Speech: often merged to /s/</text>
+<text x="60" y="379" text-anchor="start" class="Lx">Stress</text>
+<text x="60" y="388" text-anchor="start" class="Lx">Odia: Penultimate in Odia, somewhat variable</text>
+<text x="320" y="388" text-anchor="start" class="Lx">Beng: Bengali: generally first syllable</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="410" text-anchor="middle" class="H">— SHARED FEATURES — INDO-ARYAN HERITAGE —</text>
+<text x="240" y="420" text-anchor="middle" class="Ls">Both: 4-way stop series, aspirated consonants, retroflexes, SOV word order, postpositions.</text>
+<text x="240" y="429" text-anchor="middle" class="Lx">Both descended from Magadhi Prakrit (eastern Middle Indo-Aryan), diverging ~10th–12th century CE.</text>
+<text x="240" y="438" text-anchor="middle" class="Lx">Major shared vocabulary (Sanskrit loans): জল/ଜଳ (water), মানুষ/ମানুষ (human), ভূমি/ଭূমি (earth).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 16B ALT · BENGALI/ODIA · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
