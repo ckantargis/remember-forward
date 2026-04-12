@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAPANESE + ZHUANG — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 18A · REMEMBER FORWARD · EXPANDED ~1500MI RADIUS</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAPANESE — THREE SCRIPTS USED SIMULTANEOUSLY —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Japanese writing uses THREE scripts at once: Hiragana, Katakana, and Kanji (Chinese characters).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">A single sentence may contain all three: 私はコーヒーが好きです. (Watashi wa kōhii ga suki desu. = I like coffee.)</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— HIRAGANA — 46 SYLLABLE CHARACTERS —</text>
+<text x="240" y="108" text-anchor="middle" class="Ls">Hiragana: cursive syllabary for native Japanese words, grammatical particles, verb/adjective endings.</text>
+<text x="240" y="118" text-anchor="middle" class="Ls">あいうえお  (a i u e o)</text>
+<text x="240" y="129" text-anchor="middle" class="Ls">かきくけこ  (ka ki ku ke ko)</text>
+<text x="240" y="140" text-anchor="middle" class="Ls">さしすせそ  (sa shi su se so)</text>
+<text x="240" y="151" text-anchor="middle" class="Ls">たちつてと  (ta chi tsu te to)</text>
+<text x="240" y="162" text-anchor="middle" class="Ls">なにぬねの  (na ni nu ne no)</text>
+<text x="240" y="173" text-anchor="middle" class="Ls">はひふへほ  (ha hi fu he ho)</text>
+<text x="240" y="184" text-anchor="middle" class="Ls">まみむめも  (ma mi mu me mo)</text>
+<text x="240" y="195" text-anchor="middle" class="Ls">やゆよ        (ya yu yo)</text>
+<text x="240" y="206" text-anchor="middle" class="Ls">らりるれろ  (ra ri ru re ro)</text>
+<text x="240" y="217" text-anchor="middle" class="Ls">わをん      (wa wo n)</text>
+<line x1="20" y1="230" x2="460" y2="230" stroke="black" stroke-width="0.3"/>
+<text x="240" y="238" text-anchor="middle" class="H">— KATAKANA — 46 CHARACTERS FOR FOREIGN WORDS —</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Katakana: angular syllabary. Used for: loanwords, foreign names, scientific terms, sound effects.</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">アイウエオ カキクケコ サシスセソ タチツテト</text>
+<text x="240" y="268" text-anchor="middle" class="Lx">Kōhii (コーヒー) = coffee · Terebi (テレビ) = TV · Aisu krīmu (アイスクリーム) = ice cream</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">— KANJI — CHINESE-DERIVED LOGOGRAPHS —</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Kanji: ~2000 in standard use (jōyō kanji). Each represents a morpheme, often with multiple readings.</text>
+<text x="65" y="304" text-anchor="middle" class="L">水</text>
+<text x="65" y="312" text-anchor="middle" class="Lx">mizu/sui = water</text>
+<text x="195" y="304" text-anchor="middle" class="L">火</text>
+<text x="195" y="312" text-anchor="middle" class="Lx">hi/ka = fire</text>
+<text x="325" y="304" text-anchor="middle" class="L">土</text>
+<text x="325" y="312" text-anchor="middle" class="Lx">tsuchi/do = earth</text>
+<text x="65" y="318" text-anchor="middle" class="L">人</text>
+<text x="65" y="326" text-anchor="middle" class="Lx">hito/jin = person</text>
+<text x="195" y="318" text-anchor="middle" class="L">月</text>
+<text x="195" y="326" text-anchor="middle" class="Lx">tsuki/getsu = moon</text>
+<text x="325" y="318" text-anchor="middle" class="L">未来</text>
+<text x="325" y="326" text-anchor="middle" class="Lx">mirai = future</text>
+<line x1="20" y1="338" x2="460" y2="338" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="341" width="440" height="14" fill="black"/>
+<text x="240" y="351" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH / 壮语) — SCRIPT · WRITING</text>
+<line x1="20" y1="355" x2="460" y2="355" stroke="black" stroke-width="0.3"/>
+<text x="240" y="364" text-anchor="middle" class="H">— ZHUANG — LATIN ALPHABET (STANDARD ZHUANG SCRIPT) —</text>
+<text x="240" y="374" text-anchor="middle" class="Ls">Zhuang uses a Latin-based alphabet standardized in 1957 (revised 1982). 26 letters + tone letters.</text>
+<text x="240" y="383" text-anchor="middle" class="Lx">Before standardization: many Zhuang speakers used a script called Sawndip — Chinese-style characters.</text>
+<text x="240" y="392" text-anchor="middle" class="Lx">Sawndip: borrowed Chinese characters with new phonetic/semantic values for Zhuang sounds. Still in use.</text>
+<line x1="20" y1="400" x2="460" y2="400" stroke="black" stroke-width="0.3"/>
+<text x="240" y="408" text-anchor="middle" class="H">— ZHUANG TONE MARKING — LETTER-BASED SYSTEM —</text>
+<text x="240" y="418" text-anchor="middle" class="Ls">Tones marked by adding consonant letters at end of syllable: z=tone1, j=tone2, x=tone3, etc.</text>
+<text x="75" y="428" text-anchor="middle" class="Ls">(no mark)</text>
+<text x="290" y="428" text-anchor="middle" class="Lx">Tone 1 (level high): ma (horse/sesame)</text>
+<text x="75" y="438" text-anchor="middle" class="Ls">-z</text>
+<text x="290" y="438" text-anchor="middle" class="Lx">Tone 2 (rising): maz (scold)</text>
+<text x="75" y="448" text-anchor="middle" class="Ls">-j</text>
+<text x="290" y="448" text-anchor="middle" class="Lx">Tone 3 (dipping): maj (hemp)</text>
+<text x="75" y="458" text-anchor="middle" class="Ls">-x</text>
+<text x="290" y="458" text-anchor="middle" class="Lx">Tone 4 (low): max (ant)</text>
+<text x="75" y="468" text-anchor="middle" class="Ls">-q</text>
+<text x="290" y="468" text-anchor="middle" class="Lx">Tone 5 (low checked): maq (rice)</text>
+<text x="75" y="478" text-anchor="middle" class="Ls">-h</text>
+<text x="290" y="478" text-anchor="middle" class="Lx">Tone 6 (high falling): mah (go)</text>
+<line x1="20" y1="497" x2="460" y2="497" stroke="black" stroke-width="0.3"/>
+<text x="240" y="505" text-anchor="middle" class="H">— SCRIPT BRIDGE — SINOGRAPHIC ROOTS, LATIN FUTURE —</text>
+<text x="240" y="515" text-anchor="middle" class="Ls">Japanese: adapted Chinese characters (kanji) ~5th c. CE. Added two native syllabaries on top.</text>
+<text x="240" y="524" text-anchor="middle" class="Lx">Zhuang: created Sawndip (Chinese-style characters) independently for Zhuang sounds. Now uses Latin.</text>
+<text x="240" y="533" text-anchor="middle" class="Lx">Both cultures demonstrate the same pattern: Chinese script adopted, then adapted, then supplemented.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 18A ALT · Japanese / Zhuang · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAWAIIAN + ENGLISH — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 59A · REMEMBER FORWARD · EXPANDED ~2500MI RADIUS</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAWAIIAN — LATIN ALPHABET · 13 LETTERS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hawaiian uses only 13 letters: 5 vowels (A E I O U) and 8 consonants (H K L M N P W ʻ).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">One of the smallest alphabets of any natural language. Every syllable is consonant-vowel or vowel alone.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">ʻOkina (ʻ): a letter — the glottal stop /ʔ/. Visually resembles an apostrophe but functions as a consonant.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— HAWAIIAN ALPHABET — ALL 13 LETTERS —</text>
+<text x="240" y="117" text-anchor="middle" class="L">A  E  I  O  U  H  K  L  M  N  P  W  ʻ</text>
+<text x="240" y="131" text-anchor="middle" class="Ls">Every syllable = (C)V. No consonant clusters. No final consonants. Language sounds deeply open/vowel-rich.</text>
+<line x1="20" y1="139" x2="460" y2="139" stroke="black" stroke-width="0.3"/>
+<text x="240" y="147" text-anchor="middle" class="H">— KAHAKŌ (MACRON) — VOWEL LENGTH —</text>
+<text x="240" y="157" text-anchor="middle" class="Ls">The kahakŌ (ā ē ī ō ū) marks long vowels — a distinct phoneme from the short version.</text>
+<text x="240" y="166" text-anchor="middle" class="Lx">kāne (man) vs. kane (name) · ʻala (path) vs. ʻala (to bark) · moa (chicken) vs. mōa (used up).</text>
+<text x="240" y="175" text-anchor="middle" class="Lx">Both kahakŌ and ʻokina are official letters in the Hawaiian alphabet since 1978 (not decorations).</text>
+<line x1="20" y1="183" x2="460" y2="183" stroke="black" stroke-width="0.3"/>
+<text x="240" y="191" text-anchor="middle" class="H">— HAWAIIAN WRITING HISTORY —</text>
+<text x="240" y="201" text-anchor="middle" class="Ls">Hawaiian had no writing system before 1820s when Protestant missionaries developed the Latin orthography.</text>
+<text x="240" y="210" text-anchor="middle" class="Lx">Ka Nupepa Kuokoa (1861–1927): Hawaiian-language newspaper with millions of words of native text.</text>
+<text x="240" y="219" text-anchor="middle" class="Lx">1896: Hawaiian language banned from public schools by territorial government. Near extinction followed.</text>
+<text x="240" y="228" text-anchor="middle" class="Lx">1978: Hawaiian becomes official state language. Pūnana Leo immersion schools founded 1984. Revitalization active.</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="black" stroke-width="0.3"/>
+<text x="240" y="244" text-anchor="middle" class="H">— ENDANGERED STATUS — REVITALIZATION —</text>
+<text x="240" y="254" text-anchor="middle" class="Ls">~2,000 native speakers (~1990s low). Now: ~24,000 speakers including second-language learners.</text>
+<text x="240" y="263" text-anchor="middle" class="Lx">Pūnana Leo (Language Nest) schools: immersion kindergartens; entire curriculum in Hawaiian.</text>
+<text x="240" y="272" text-anchor="middle" class="Lx">Online resources, university programs, and state law now support Hawaiian language use.</text>
+<line x1="20" y1="282" x2="460" y2="282" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="285" width="440" height="14" fill="black"/>
+<text x="240" y="295" text-anchor="middle" class="Hb" fill="white">SECONDARY — ENGLISH — SCRIPT · WRITING SYSTEM · 2500MI RADIUS</text>
+<line x1="20" y1="299" x2="460" y2="299" stroke="black" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H">— ENGLISH — LATIN ALPHABET · 26 LETTERS —</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">English uses the standard 26-letter Latin alphabet, inherited from Old English via Latin/Norman French.</text>
+<text x="240" y="327" text-anchor="middle" class="Lx">English spelling is notoriously irregular: through, though, thought, tough, cough — all different pronunciations of -ough.</text>
+<text x="240" y="336" text-anchor="middle" class="Lx">Great Vowel Shift (~1400–1700 CE): all long vowels changed. Spelling was frozen before the shift ended.</text>
+<line x1="20" y1="344" x2="460" y2="344" stroke="black" stroke-width="0.3"/>
+<text x="240" y="352" text-anchor="middle" class="H">— ENGLISH WRITING HISTORY —</text>
+<text x="240" y="362" text-anchor="middle" class="Ls">Old English (Anglo-Saxon): originally written in runic Futhorc, then Latin alphabet after Christianization (~600 CE).</text>
+<text x="240" y="371" text-anchor="middle" class="Lx">Norman Conquest (1066): French scribal conventions overlaid on English — qu- for cw-, c for k before e/i.</text>
+<text x="240" y="380" text-anchor="middle" class="Lx">Caxton’s printing press (1476): standardized spelling from the London/East Midlands dialect.</text>
+<line x1="20" y1="388" x2="460" y2="388" stroke="black" stroke-width="0.3"/>
+<text x="240" y="396" text-anchor="middle" class="H">— SCRIPT BRIDGE — THE MEETING OF SCRIPTS IN HAWAIʻiI —</text>
+<text x="240" y="406" text-anchor="middle" class="Ls">Hawaiian was given the Latin alphabet by English-speaking missionaries in 1822 — a colonial imposition.</text>
+<text x="240" y="415" text-anchor="middle" class="Lx">Yet Hawaiian speakers embraced writing: ka nupepa (newspapers) became central to cultural expression.</text>
+<text x="240" y="424" text-anchor="middle" class="Lx">Today English and Hawaiian share the Latin alphabet but use it for very different phonological systems.</text>
+<text x="240" y="433" text-anchor="middle" class="Lx">13 letters vs. 26. Open syllables vs. complex clusters. Phonemic vowel length vs. variable English stress.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 59A ALT · Hawaiian / English · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAWAIIAN + ENGLISH — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 59B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAWAIIAN PHONOLOGY — 8 CONSONANTS + 5 VOWELS + LENGTH —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hawaiian has the smallest phoneme inventory of any Polynesian language. Total: 13 consonants+vowels.</text>
+<line x1="20" y1="81" x2="460" y2="81" stroke="black" stroke-width="0.3"/>
+<text x="240" y="89" text-anchor="middle" class="H">— HAWAIIAN CONSONANTS —</text>
+<text x="42" y="99" text-anchor="middle" class="Ls">h</text>
+<text x="85" y="99" text-anchor="middle" class="Lx">/h/</text>
+<text x="290" y="99" text-anchor="middle" class="Lx">glottal fricative: hale (house), hou (new)</text>
+<text x="42" y="109" text-anchor="middle" class="Ls">k</text>
+<text x="85" y="109" text-anchor="middle" class="Lx">/k/</text>
+<text x="290" y="109" text-anchor="middle" class="Lx">velar stop: kai (sea), kāne (man)</text>
+<text x="42" y="119" text-anchor="middle" class="Ls">l</text>
+<text x="85" y="119" text-anchor="middle" class="Lx">/l/</text>
+<text x="290" y="119" text-anchor="middle" class="Lx">lateral: lani (sky/chief), luna (above)</text>
+<text x="42" y="129" text-anchor="middle" class="Ls">m</text>
+<text x="85" y="129" text-anchor="middle" class="Lx">/m/</text>
+<text x="290" y="129" text-anchor="middle" class="Lx">bilabial nasal: mea (thing), moana (ocean)</text>
+<text x="42" y="139" text-anchor="middle" class="Ls">n</text>
+<text x="85" y="139" text-anchor="middle" class="Lx">/n/</text>
+<text x="290" y="139" text-anchor="middle" class="Lx">alveolar nasal: nani (beauty), nui (big)</text>
+<text x="42" y="149" text-anchor="middle" class="Ls">p</text>
+<text x="85" y="149" text-anchor="middle" class="Lx">/p/</text>
+<text x="290" y="149" text-anchor="middle" class="Lx">bilabial stop: pŌ (night), pua (flower)</text>
+<text x="42" y="159" text-anchor="middle" class="Ls">w</text>
+<text x="85" y="159" text-anchor="middle" class="Lx">/v/ or /w/</text>
+<text x="290" y="159" text-anchor="middle" class="Lx">varies by dialect: wai (water), wiki (fast)</text>
+<text x="42" y="169" text-anchor="middle" class="Ls">ʻ</text>
+<text x="85" y="169" text-anchor="middle" class="Lx">/ʔ/</text>
+<text x="290" y="169" text-anchor="middle" class="Lx">glottal stop — a full consonant letter: ʻaina (land), ʻohana (family)</text>
+<line x1="20" y1="186" x2="460" y2="186" stroke="black" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H">— HAWAIIAN VOWELS — 5 SHORT + 5 LONG —</text>
+<text x="90" y="204" text-anchor="middle" class="Lx">a /a/</text>
+<text x="220" y="204" text-anchor="middle" class="Lx">ā /aː/</text>
+<text x="370" y="204" text-anchor="middle" class="Lx">low central: aloha, kāne</text>
+<text x="90" y="214" text-anchor="middle" class="Lx">e /ɛ/</text>
+<text x="220" y="214" text-anchor="middle" class="Lx">ē /ɛː/</text>
+<text x="370" y="214" text-anchor="middle" class="Lx">mid front: hele (go), mēa (person)</text>
+<text x="90" y="224" text-anchor="middle" class="Lx">i /i/</text>
+<text x="220" y="224" text-anchor="middle" class="Lx">ī /iː/</text>
+<text x="370" y="224" text-anchor="middle" class="Lx">high front: kai (sea), īlio (dog)</text>
+<text x="90" y="234" text-anchor="middle" class="Lx">o /o/</text>
+<text x="220" y="234" text-anchor="middle" class="Lx">ō /oː/</text>
+<text x="370" y="234" text-anchor="middle" class="Lx">mid back: one (sand), Ōahu (Oahu)</text>
+<text x="90" y="244" text-anchor="middle" class="Lx">u /u/</text>
+<text x="220" y="244" text-anchor="middle" class="Lx">ū /uː/</text>
+<text x="370" y="244" text-anchor="middle" class="Lx">high back: ukulele, ūniki (secret)</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="black" stroke-width="0.3"/>
+<text x="240" y="269" text-anchor="middle" class="H">— HAWAIIAN DIPHTHONGS —</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">Hawaiian has 8 diphthongs (vowel pairs in one syllable): ai, ae, ao, au, ei, eu, oi, ou.</text>
+<text x="240" y="288" text-anchor="middle" class="Lx">ao = /ao/ (cloud/light — also: daytime); au = /au/ (current/tide); aloha has a+l+o+h+a — 5 syllables.</text>
+<line x1="20" y1="298" x2="460" y2="298" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="301" width="440" height="14" fill="black"/>
+<text x="240" y="311" text-anchor="middle" class="Hb" fill="white">SECONDARY — ENGLISH — PHONOLOGY</text>
+<line x1="20" y1="315" x2="460" y2="315" stroke="black" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H">— ENGLISH PHONOLOGY — 44 PHONEMES IN 26 LETTERS —</text>
+<text x="240" y="334" text-anchor="middle" class="Ls">English has ~44 phonemes (varies by dialect) encoded in only 26 letters — a fundamental mismatch.</text>
+<text x="240" y="343" text-anchor="middle" class="Lx">20 vowel sounds in standard varieties (12 monophthongs, 8 diphthongs). Many homophones, few minimal pairs resolved by spelling.</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="black" stroke-width="0.3"/>
+<text x="240" y="359" text-anchor="middle" class="H">— ENGLISH KEY VOWEL CONTRASTS —</text>
+<text x="120" y="369" text-anchor="middle" class="Lx">/iː/ vs /ɪ/</text>
+<text x="330" y="369" text-anchor="middle" class="Lx">beat vs. bit — tense/lax distinction</text>
+<text x="120" y="379" text-anchor="middle" class="Lx">/uː/ vs /ʊ/</text>
+<text x="330" y="379" text-anchor="middle" class="Lx">food vs. foot — tense/lax distinction</text>
+<text x="120" y="389" text-anchor="middle" class="Lx">/eɪ/ vs /ɛ/</text>
+<text x="330" y="389" text-anchor="middle" class="Lx">bait vs. bet — diphthong vs. monophthong</text>
+<text x="120" y="399" text-anchor="middle" class="Lx">/aɪ/ vs /ɑ/</text>
+<text x="330" y="399" text-anchor="middle" class="Lx">time vs. tom — diphthong vs. low back</text>
+<text x="120" y="409" text-anchor="middle" class="Lx">/ɔɪ/ vs /ɔ/</text>
+<text x="330" y="409" text-anchor="middle" class="Lx">toy vs. thought — diphthong vs. long vowel</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="434" text-anchor="middle" class="H">— ENGLISH CONSONANTS — KEY FEATURES —</text>
+<text x="240" y="444" text-anchor="middle" class="Ls">English /θ ð/: dental fricatives “thin/this” — absent from most world languages and a common learning difficulty.</text>
+<text x="240" y="453" text-anchor="middle" class="Lx">/r/: English rhotic is not a trill — a retroflex approximant in American, a uvular in some British dialects.</text>
+<text x="240" y="462" text-anchor="middle" class="Lx">Final consonant clusters: strengths /strɛŋkθs/ = 8-phoneme word with 3 final consonants.</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="478" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — MAXIMUM CONTRAST —</text>
+<text x="240" y="488" text-anchor="middle" class="Ls">Hawaiian: 13 phonemes, open syllables (CV/V), phonemic vowel length, glottal stop as letter.</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">English: 44 phonemes, complex clusters (str-, -ngths), stress-timed, no phonemic length.</text>
+<text x="240" y="506" text-anchor="middle" class="Lx">These two languages represent near-opposite ends of phonological complexity and syllable structure.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 59B ALT · Hawaiian / English · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

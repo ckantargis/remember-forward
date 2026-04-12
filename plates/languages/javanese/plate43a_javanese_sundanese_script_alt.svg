@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAVANESE + SUNDANESE — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 43A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAVANESE — HANACARAKA SCRIPT (AKSARA JAWA) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Javanese Hanacaraka: an abugida descended from Brahmi via Kawi script (~9th c. CE).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">20 base consonants arranged in a traditional order. Each carries inherent /a/. Diacritics modify vowels.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— HANACARAKA — 20 BASE CONSONANTS —</text>
+<text x="240" y="108" text-anchor="middle" class="L">ha  na  ca  ra  ka  da  ta  sa  wa  la</text>
+<text x="240" y="122" text-anchor="middle" class="L">pa  dha  ja  ya  nya  ma  ga  ba  tha  nga</text>
+<text x="240" y="136" text-anchor="middle" class="Lx">(Traditional order of 20 Javanese syllabic consonants — each carries inherent /a/)</text>
+<line x1="20" y1="143" x2="460" y2="143" stroke="black" stroke-width="0.3"/>
+<text x="240" y="151" text-anchor="middle" class="H">— HANACARAKA — KEY DIACRITICS —</text>
+<text x="100" y="161" text-anchor="middle" class="Ls">wulu</text>
+<text x="300" y="161" text-anchor="middle" class="Lx">adds /i/: consonant + wulu = C+i</text>
+<text x="100" y="171" text-anchor="middle" class="Ls">suku</text>
+<text x="300" y="171" text-anchor="middle" class="Lx">adds /u/: consonant + suku = C+u</text>
+<text x="100" y="181" text-anchor="middle" class="Ls">taling</text>
+<text x="300" y="181" text-anchor="middle" class="Lx">adds /e/ before consonant</text>
+<text x="100" y="191" text-anchor="middle" class="Ls">pepet</text>
+<text x="300" y="191" text-anchor="middle" class="Lx">adds /ə/: the schwa vowel</text>
+<text x="100" y="201" text-anchor="middle" class="Ls">pépét</text>
+<text x="300" y="201" text-anchor="middle" class="Lx">adds /e/ (close)</text>
+<text x="100" y="211" text-anchor="middle" class="Ls">pangkon</text>
+<text x="300" y="211" text-anchor="middle" class="Lx">removes inherent vowel (virama/killer stroke)</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="black" stroke-width="0.3"/>
+<text x="240" y="226" text-anchor="middle" class="H">— JAVANESE WRITING HISTORY —</text>
+<text x="240" y="236" text-anchor="middle" class="Ls">Oldest Javanese inscription: Sukabumi (804 CE). Kawi script used for Sanskrit/Old Javanese literature.</text>
+<text x="240" y="245" text-anchor="middle" class="Lx">Hanacaraka developed ~14th–16th c. CE. Kakawin Ramayana (~9th c.) is oldest major Old Javanese text.</text>
+<text x="240" y="254" text-anchor="middle" class="Lx">Today: Latin script dominant in everyday use. Hanacaraka taught in schools, used for Javanese cultural texts.</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="267" width="440" height="14" fill="black"/>
+<text x="240" y="277" text-anchor="middle" class="Hb" fill="white">SECONDARY — SUNDANESE (BASA SUNDA) — SCRIPT · WRITING</text>
+<line x1="20" y1="281" x2="460" y2="281" stroke="black" stroke-width="0.3"/>
+<text x="240" y="290" text-anchor="middle" class="H">— SUNDANESE — AKSARA SUNDA BAKU (STANDARD SUNDANESE SCRIPT) —</text>
+<text x="240" y="300" text-anchor="middle" class="Ls">Aksara Sunda Baku: an abugida standardized in 1997, officially adopted by West Java province 2008.</text>
+<text x="240" y="309" text-anchor="middle" class="Lx">Based on the ancient Sundanese script found in 14th–16th c. inscriptions (related to Kawi).</text>
+<text x="240" y="318" text-anchor="middle" class="Lx">Unicode block: Sundanese U+1B80–U+1BBF. 14 vowels, 18 consonants + additional marks.</text>
+<line x1="20" y1="326" x2="460" y2="326" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H">— AKSARA SUNDA — SAMPLE CHARACTERS —</text>
+<text x="240" y="344" text-anchor="middle" class="Ls">ᮀᮁᮂᮃᮄᮅᮆᮇᮈᮉᮊᮋᮌᮍ  (Sundanese vowels)</text>
+<text x="240" y="356" text-anchor="middle" class="Ls">ᮎᮏᮐᮑᮒᮓᮔᮕᮖᮗᮘᮙᮚᮛᮜᮝᮞᮟ  (Sundanese consonants)</text>
+<line x1="20" y1="365" x2="460" y2="365" stroke="black" stroke-width="0.3"/>
+<text x="240" y="373" text-anchor="middle" class="H">— SUNDANESE LATIN ALPHABET (STANDARD) —</text>
+<text x="240" y="383" text-anchor="middle" class="Ls">Latin script now dominant in everyday Sundanese. 26 base letters. Accent: é for close e, e for schwa.</text>
+<text x="240" y="392" text-anchor="middle" class="Lx">éta (that), émok (sitting), but e in “euy” (/əj/ — Sundanese discourse particle, no direct translation).</text>
+<line x1="20" y1="400" x2="460" y2="400" stroke="black" stroke-width="0.3"/>
+<text x="240" y="408" text-anchor="middle" class="H">— SCRIPT BRIDGE — TWO BRAHMIC ABUGIDAS ON ONE ISLAND —</text>
+<text x="240" y="418" text-anchor="middle" class="Ls">Java is one of the few places on earth where two distinct Brahmic-derived abugidas coexist on the same island.</text>
+<text x="240" y="427" text-anchor="middle" class="Lx">Hanacaraka (Javanese) and Aksara Sunda: same Brahmi ancestor, diverged via different regional Kawi traditions.</text>
+<text x="240" y="436" text-anchor="middle" class="Lx">Both revived as cultural/identity scripts in the 1990s–2000s. Both taught in regional schools alongside Latin.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 43A ALT · Javanese / Sundanese · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

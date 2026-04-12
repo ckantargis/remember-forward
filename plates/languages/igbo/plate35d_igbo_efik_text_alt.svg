@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">IGBO + EFIK — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 35D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. IGBO PROVERB — ON COMMUNITY —</text>
+<text x="240" y="73" text-anchor="middle" class="L">Onye wetara òjì wetara ndọọ.</text>
+<text x="240" y="84" text-anchor="middle" class="Lx">Person who-brought kola brought life.</text>
+<text x="240" y="93" text-anchor="middle" class="F">"He who brings kola brings life." — Kola nut is sacred in Igbo ceremony: hospitality = life-giving.</text>
+<line x1="20" y1="101" x2="460" y2="101" stroke="black" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="H">— II. IGBO PROVERB — ON MEMORY AND ELDERS —</text>
+<text x="240" y="119" text-anchor="middle" class="L">Oke nkita anaghizi abì nà ọchọ nekǎ.</text>
+<text x="240" y="130" text-anchor="middle" class="Lx">Old dog not-returns to house empty-handed.</text>
+<text x="240" y="139" text-anchor="middle" class="F">"An old dog does not return home empty-handed." — Igbo proverb on the wisdom of elders and experience.</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H">— III. IGBO BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="166" text-anchor="middle" class="L">E mere ihe a mụ mụ ɔ nọ ya,</text>
+<text x="240" y="178" text-anchor="middle" class="L">nà ndí chechee oge dì nà ịchị.</text>
+<text x="240" y="190" text-anchor="middle" class="Lx">PAST make thing this without money / by people thought-about time is in heart.</text>
+<text x="240" y="199" text-anchor="middle" class="F">"This was made for you, freely, by people who held the future in their heart." (Igbo)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">— IGBO NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="225" text-anchor="middle" class="Ls">Oge dì nà ịchị = time that is in the heart — the future held as intention inside oneself.</text>
+<text x="240" y="234" text-anchor="middle" class="Lx">Chechee = think/remember/ponder (iterative of chee = think). Aspect: ongoing pondering.</text>
+<text x="240" y="243" text-anchor="middle" class="Lx">Mụ mụ (without money) = “for free”. Duplicated word for absence/lack. Vowel harmony: ụ class.</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="256" width="440" height="14" fill="black"/>
+<text x="240" y="266" text-anchor="middle" class="Hb" fill="white">SECONDARY — EFIK — RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="270" x2="460" y2="270" stroke="black" stroke-width="0.3"/>
+<text x="240" y="279" text-anchor="middle" class="H">— I. EFIK PROVERB — ON THE RIVER AND TIME —</text>
+<text x="240" y="289" text-anchor="middle" class="L">Ódióŋ édiókót abàkà a kèdè óbón.</text>
+<text x="240" y="300" text-anchor="middle" class="Lx">The-river flows  always  but remembers  the-moon.</text>
+<text x="240" y="309" text-anchor="middle" class="F">"The river always flows but remembers the moon." — Efik proverb on cycles, memory, and guidance.</text>
+<line x1="20" y1="317" x2="460" y2="317" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H">— II. EFIK PROVERB — ON COMMUNITY MEMORY —</text>
+<text x="240" y="335" text-anchor="middle" class="L">Idókót mbók mbók ékè-èkè èdè mbók.</text>
+<text x="240" y="346" text-anchor="middle" class="Lx">Together  very-good  keeping   things  good.</text>
+<text x="240" y="355" text-anchor="middle" class="F">"Being together is very good — it keeps good things." (Efik communal wisdom, note reduplication mbók mbók)</text>
+<line x1="20" y1="363" x2="460" y2="363" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H">— III. EFIK BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="382" text-anchor="middle" class="L">Íŋkè kè emi mmiŋ kè óyóm, mbók,</text>
+<text x="240" y="394" text-anchor="middle" class="L">kè mmiŋ édè àkèdè ódó édió.</text>
+<text x="240" y="406" text-anchor="middle" class="Lx">This was made for you   freely / by people who-remembered path forward.</text>
+<text x="240" y="415" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the road ahead." (Efik)</text>
+<line x1="20" y1="423" x2="460" y2="423" stroke="black" stroke-width="0.3"/>
+<text x="240" y="431" text-anchor="middle" class="H">— EFIK NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">Ódó édió = the road/path ahead — Efik uses spatial path metaphor for time: future = path forward.</text>
+<text x="240" y="450" text-anchor="middle" class="Ls">Kèdè = to remember, recall. Mbók = please/freely/love (context-dependent: a rich word).</text>
+<text x="240" y="459" text-anchor="middle" class="Lx">Mbók mbók (reduplication) = very much, generously — the free giving made more generous by the doubling.</text>
+<line x1="20" y1="467" x2="460" y2="467" stroke="black" stroke-width="0.3"/>
+<text x="240" y="475" text-anchor="middle" class="H">— LANGUAGE BRIDGE — TWO SOUTHEASTERN NIGERIAN VOICES —</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Igbo: ~45M speakers. Biafra War (1967–70) devastated Igbo communities. Chinua Achebe brought it to world lit.</text>
+<text x="240" y="494" text-anchor="middle" class="Ls">Efik: ~2M speakers. Calabar was Nigeria’s first colonial capital (British). First sub-Saharan Bible in Efik (1862).</text>
+<text x="240" y="503" text-anchor="middle" class="Lx">Both: Niger-Congo, tonal, SVO, labial-velars. Cross River trade route connected these communities for centuries.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 35D ALT · Igbo / Efik · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAVANESE + SUNDANESE — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 43D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. JAVANESE PROVERB — ON PATIENCE —</text>
+<text x="240" y="73" text-anchor="middle" class="L">Alon-alon asal kelakon.</text>
+<text x="240" y="84" text-anchor="middle" class="Lx">Slowly-slowly  as-long-as accomplished.</text>
+<text x="240" y="93" text-anchor="middle" class="F">"Slowly but surely, as long as it is accomplished." — Core Javanese virtue: kesabaran (patience).</text>
+<line x1="20" y1="101" x2="460" y2="101" stroke="black" stroke-width="0.3"/>
+<text x="240" y="109" text-anchor="middle" class="H">— II. JAVANESE PROVERB — ON MEMORY AND ANCESTORS —</text>
+<text x="240" y="119" text-anchor="middle" class="L">Sing sapa lali marang leluhure, bakal nemoni cilaka.</text>
+<text x="240" y="130" text-anchor="middle" class="Lx">Who forget  toward  ancestors  will  meet   calamity.</text>
+<text x="240" y="139" text-anchor="middle" class="F">"Whoever forgets their ancestors will encounter calamity." — Javanese ancestral reverence proverb.</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H">— III. JAVANESE BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="166" text-anchor="middle" class="L">Iki digawe kanggo kowé, tanpa bayar,</text>
+<text x="240" y="178" text-anchor="middle" class="L">dening wong-wong sing eling marang masa depan.</text>
+<text x="240" y="190" text-anchor="middle" class="Lx">This was-made for you   without pay / by  people  who  remember toward  future-time.</text>
+<text x="240" y="199" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Javanese, Ngoko level)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">— JAVANESE NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="225" text-anchor="middle" class="Ls">Masa depan = future time (from Malay/Indonesian masa = time/era + depan = front/ahead).</text>
+<text x="240" y="234" text-anchor="middle" class="Lx">Eling = to remember (Ngoko). Kramà equivalent: éling-éling = to keep remembering (iterative).</text>
+<text x="240" y="243" text-anchor="middle" class="Lx">Tanpa bayar = without paying = freely. Speech level: Ngoko (informal, appropriate for cross-community message).</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="256" width="440" height="14" fill="black"/>
+<text x="240" y="266" text-anchor="middle" class="Hb" fill="white">SECONDARY — SUNDANESE (BASA SUNDA) — RUNNING TEXT</text>
+<line x1="20" y1="270" x2="460" y2="270" stroke="black" stroke-width="0.3"/>
+<text x="240" y="279" text-anchor="middle" class="H">— I. SUNDANESE PROVERB — ON COMMUNITY —</text>
+<text x="240" y="289" text-anchor="middle" class="L">Kudu silih asah, silih asih, silih asuh.</text>
+<text x="240" y="300" text-anchor="middle" class="Lx">Must mutual-sharpen mutual-love mutual-care.</text>
+<text x="240" y="309" text-anchor="middle" class="F">"We must sharpen each other, love each other, care for each other." — Core Sundanese communal ethics.</text>
+<line x1="20" y1="317" x2="460" y2="317" stroke="black" stroke-width="0.3"/>
+<text x="240" y="325" text-anchor="middle" class="H">— II. SUNDANESE PROVERB — ON MEMORY —</text>
+<text x="240" y="335" text-anchor="middle" class="L">Nu teu inget ka purwadaksi, moal uninga ka nu bakal datang.</text>
+<text x="240" y="346" text-anchor="middle" class="Lx">Who not  remember to origins    will-not know to what will  come.</text>
+<text x="240" y="355" text-anchor="middle" class="F">"Those who do not remember their origins will not know what is coming." (Sundanese memory proverb)</text>
+<line x1="20" y1="363" x2="460" y2="363" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H">— III. SUNDANESE BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="382" text-anchor="middle" class="L">Ieu dijieun keur anjeun, bébas,</text>
+<text x="240" y="394" text-anchor="middle" class="L">ku jalma-jalma nu inget ka nu bakal datang.</text>
+<text x="240" y="406" text-anchor="middle" class="Lx">This made   for you    free / by people   who remember to who will  come.</text>
+<text x="240" y="415" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered what is coming." (Sundanese)</text>
+<line x1="20" y1="423" x2="460" y2="423" stroke="black" stroke-width="0.3"/>
+<text x="240" y="431" text-anchor="middle" class="H">— SUNDANESE NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">Nu bakal datang = what will come (the one that is going to arrive) — future as arriving.</text>
+<text x="240" y="450" text-anchor="middle" class="Ls">Inget = to remember, recall. Bébas = free (physically or as in free of charge).</text>
+<text x="240" y="459" text-anchor="middle" class="Lx">Silih (mutual) pattern in Sundanese proverb above: three actions, all mutual — community as reciprocity.</text>
+<line x1="20" y1="467" x2="460" y2="467" stroke="black" stroke-width="0.3"/>
+<text x="240" y="475" text-anchor="middle" class="H">— LANGUAGE BRIDGE — JAVA’S TWO GREAT VOICES —</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Javanese: ~82M speakers. World’s largest language without official national status. Elaborate speech levels.</text>
+<text x="240" y="494" text-anchor="middle" class="Ls">Sundanese: ~42M speakers. West Java. Own Brahmic script. Silih pattern: mutuality as core value.</text>
+<text x="240" y="503" text-anchor="middle" class="Lx">Both: Austronesian, shared island, shared Brahmic script heritage, shared speech-level culture.</text>
+<text x="240" y="512" text-anchor="middle" class="Lx">Different: phonology (breathy consonants), vocabulary, script. Two languages, one island.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 43D ALT · Javanese / Sundanese · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

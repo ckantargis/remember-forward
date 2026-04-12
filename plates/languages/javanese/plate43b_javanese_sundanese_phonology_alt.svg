@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAVANESE + SUNDANESE — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 43B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAVANESE PHONOLOGY — BREATHY VOICE AND RETROFLEXES —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Javanese has breathy/murmured consonants (bʰ dʰ gʰ jʰ) and retroflex stops (ṭ ḍ).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Breathy voice: simultaneous vibration + open glottis = a “breathy” or “murmured” quality.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Retroflex: tongue tip curled back to touch the roof of the mouth — same feature as Sanskrit/Hindi.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— JAVANESE VOWELS — 6 + SCHWA —</text>
+<text x="80" y="117" text-anchor="middle" class="Lx">/a/</text>
+<text x="135" y="117" text-anchor="middle" class="Lx">bapak (father)</text>
+<text x="300" y="117" text-anchor="middle" class="Lx">/i/</text>
+<text x="355" y="117" text-anchor="middle" class="Lx">iki (this)</text>
+<text x="80" y="127" text-anchor="middle" class="Lx">/u/</text>
+<text x="135" y="127" text-anchor="middle" class="Lx">uwong (person)</text>
+<text x="300" y="127" text-anchor="middle" class="Lx">/e/</text>
+<text x="355" y="127" text-anchor="middle" class="Lx">seger (fresh)</text>
+<text x="80" y="137" text-anchor="middle" class="Lx">/o/</text>
+<text x="135" y="137" text-anchor="middle" class="Lx">omah (house)</text>
+<text x="300" y="137" text-anchor="middle" class="Lx">/ɔ/</text>
+<text x="355" y="137" text-anchor="middle" class="Lx">boléh (may/can)</text>
+<text x="80" y="147" text-anchor="middle" class="Lx">/ə/</text>
+<text x="135" y="147" text-anchor="middle" class="Lx">pepet: a + pepet (Javanese schwa)</text>
+<line x1="20" y1="165" x2="460" y2="165" stroke="black" stroke-width="0.3"/>
+<text x="240" y="173" text-anchor="middle" class="H">— JAVANESE CONSONANT INVENTORY —</text>
+<text x="240" y="183" text-anchor="middle" class="Ls">Full 4-way stop series: voiceless / voiced / aspirated-voiced (breathy) / voiced retroflex.</text>
+<text x="240" y="192" text-anchor="middle" class="Ls">p b bʰ  ·  t d dʰ  ·  ṭ ḍ ḍʰ  ·  k g gʰ  ·  (ʤ ɟ ɟʰ)  — palatal affricates</text>
+<text x="240" y="201" text-anchor="middle" class="Lx">Nasals: m n ɲ ŋ. Glides: w y. Liquids: r l. Fricatives: s h. Glottal stop /?/ word-finally.</text>
+<line x1="20" y1="209" x2="460" y2="209" stroke="black" stroke-width="0.3"/>
+<text x="240" y="217" text-anchor="middle" class="H">— JAVANESE STRESS AND RHYTHM —</text>
+<text x="240" y="227" text-anchor="middle" class="Ls">Stress typically falls on penultimate syllable of a root. Reduced vowel (schwa) in unstressed positions.</text>
+<text x="240" y="236" text-anchor="middle" class="Lx">Javanese has a “flat” prosody — less dynamic than stress-timed languages. Long vs. short syllable distinction minor.</text>
+<line x1="20" y1="246" x2="460" y2="246" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="249" width="440" height="14" fill="black"/>
+<text x="240" y="259" text-anchor="middle" class="Hb" fill="white">SECONDARY — SUNDANESE (BASA SUNDA) — PHONOLOGY</text>
+<line x1="20" y1="263" x2="460" y2="263" stroke="black" stroke-width="0.3"/>
+<text x="240" y="272" text-anchor="middle" class="H">— SUNDANESE PHONOLOGY — NO BREATHY CONSONANTS —</text>
+<text x="240" y="282" text-anchor="middle" class="Ls">Sundanese lacks the breathy/murmured consonants of Javanese. Simpler stop series: voiceless/voiced only.</text>
+<text x="240" y="291" text-anchor="middle" class="Lx">p b  ·  t d  ·  k g  ·  (ʤ ɟ)  — no breathy voice. This is a major phonological difference from Javanese.</text>
+<line x1="20" y1="299" x2="460" y2="299" stroke="black" stroke-width="0.3"/>
+<text x="240" y="307" text-anchor="middle" class="H">— SUNDANESE VOWELS — 7 VOWELS —</text>
+<text x="80" y="317" text-anchor="middle" class="Lx">/a/</text>
+<text x="135" y="317" text-anchor="middle" class="Lx">cai (water)</text>
+<text x="300" y="317" text-anchor="middle" class="Lx">/i/</text>
+<text x="355" y="317" text-anchor="middle" class="Lx">tiis (cold)</text>
+<text x="80" y="327" text-anchor="middle" class="Lx">/u/</text>
+<text x="135" y="327" text-anchor="middle" class="Lx">buku (book)</text>
+<text x="300" y="327" text-anchor="middle" class="Lx">/e/</text>
+<text x="355" y="327" text-anchor="middle" class="Lx">éta (that, close e)</text>
+<text x="80" y="337" text-anchor="middle" class="Lx">/o/</text>
+<text x="135" y="337" text-anchor="middle" class="Lx">bodo (stupid)</text>
+<text x="300" y="337" text-anchor="middle" class="Lx">/ɔ/</text>
+<text x="355" y="337" text-anchor="middle" class="Lx">colé́k (to poke)</text>
+<text x="80" y="347" text-anchor="middle" class="Lx">/ə/</text>
+<text x="135" y="347" text-anchor="middle" class="Lx">e: e.g. euy (discourse particle)</text>
+<line x1="20" y1="358" x2="460" y2="358" stroke="black" stroke-width="0.3"/>
+<text x="240" y="366" text-anchor="middle" class="H">— SUNDANESE — PHONOLOGICAL FEATURES —</text>
+<text x="240" y="376" text-anchor="middle" class="Ls">Word-final glottal stop: many Sundanese words end in /?/ — not always written. Distinct from Javanese.</text>
+<text x="240" y="385" text-anchor="middle" class="Lx">Distinction é (close /e/) vs. e (schwa /ə/): grammatically important — marked by acute in Latin script.</text>
+<text x="240" y="394" text-anchor="middle" class="Lx">Prenasalized consonants: mb nd ŋg ŋdʒ occur in some loanwords from Dutch and Sanskrit.</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="410" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — TWO AUSTRONESIAN COUSINS —</text>
+<text x="80" y="420" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="420" text-anchor="middle" class="Lx">Javanese</text>
+<text x="380" y="420" text-anchor="middle" class="Lx">Sundanese</text>
+<text x="80" y="430" text-anchor="middle" class="Lx">Breathy voice</text>
+<text x="235" y="430" text-anchor="middle" class="Lx">Yes (bʰ dʰ gʰ)</text>
+<text x="380" y="430" text-anchor="middle" class="Lx">No</text>
+<text x="80" y="440" text-anchor="middle" class="Lx">Retroflexes</text>
+<text x="235" y="440" text-anchor="middle" class="Lx">Yes (ṭ ḍ)</text>
+<text x="380" y="440" text-anchor="middle" class="Lx">No</text>
+<text x="80" y="450" text-anchor="middle" class="Lx">Vowels</text>
+<text x="235" y="450" text-anchor="middle" class="Lx">6 + schwa</text>
+<text x="380" y="450" text-anchor="middle" class="Lx">7</text>
+<text x="80" y="460" text-anchor="middle" class="Lx">Word-final stop</text>
+<text x="235" y="460" text-anchor="middle" class="Lx">Glottal /?/</text>
+<text x="380" y="460" text-anchor="middle" class="Lx">Glottal /?/ (common)</text>
+<text x="80" y="470" text-anchor="middle" class="Lx">Stress</text>
+<text x="235" y="470" text-anchor="middle" class="Lx">Penultimate</text>
+<text x="380" y="470" text-anchor="middle" class="Lx">Penultimate</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 43B ALT · Javanese / Sundanese · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

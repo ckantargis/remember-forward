@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">IGBO + EFIK — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 35C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— IGBO GRAMMAR — SVO · ASPECT · NO INFLECTION —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Igbo is SVO. Grammatical relations marked by position and particles, not inflection.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Aspect over tense: Igbo marks whether action is complete or ongoing, not when it happened.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— IGBO ASPECT SYSTEM —</text>
+<text x="70" y="108" text-anchor="middle" class="Ls">à + V</text>
+<text x="300" y="108" text-anchor="middle" class="Lx">Perfective: à nà hia (PERF buy-market = he/she bought)</text>
+<text x="70" y="119" text-anchor="middle" class="Ls">na + V</text>
+<text x="300" y="119" text-anchor="middle" class="Lx">Imperfective (ongoing): ó nà eri ji (PROG eat yam = is eating)</text>
+<text x="70" y="130" text-anchor="middle" class="Ls">ga + V</text>
+<text x="300" y="130" text-anchor="middle" class="Lx">Future/potential: ó ga-arú (FUT-come = will come)</text>
+<text x="70" y="141" text-anchor="middle" class="Ls">ha + V</text>
+<text x="300" y="141" text-anchor="middle" class="Lx">Negative: ó ha-erichà (NEG-finish = has not finished)</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="black" stroke-width="0.3"/>
+<text x="240" y="166" text-anchor="middle" class="H">— IGBO CHI — PERSONAL SPIRIT —</text>
+<text x="240" y="176" text-anchor="middle" class="Ls">Chi: each person’s personal spirit/divine double. Grammar: possessive chi = my spirit.</text>
+<text x="240" y="185" text-anchor="middle" class="Lx">Chukwu = Great Spirit/God (chi + ukwu: great). Cosmological concept embedded in language.</text>
+<line x1="20" y1="193" x2="460" y2="193" stroke="black" stroke-width="0.3"/>
+<text x="240" y="201" text-anchor="middle" class="H">— IGBO CORE VOCABULARY —</text>
+<text x="60" y="211" text-anchor="middle" class="Ls">mmiri</text>
+<text x="120" y="211" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="211" text-anchor="middle" class="Ls">ojí ojí</text>
+<text x="250" y="211" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="211" text-anchor="middle" class="Ls">àlà</text>
+<text x="380" y="211" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="221" text-anchor="middle" class="Ls">mmàdụ</text>
+<text x="120" y="221" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="221" text-anchor="middle" class="Ls">ónyị</text>
+<text x="250" y="221" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="221" text-anchor="middle" class="Ls">chọ</text>
+<text x="380" y="221" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="231" text-anchor="middle" class="Ls">oge</text>
+<text x="120" y="231" text-anchor="middle" class="Lx">time/future</text>
+<text x="190" y="231" text-anchor="middle" class="Ls">ɔchɔchɔ</text>
+<text x="250" y="231" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="231" text-anchor="middle" class="Ls">ịchị</text>
+<text x="380" y="231" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="241" text-anchor="middle" class="Ls">ihéoma</text>
+<text x="120" y="241" text-anchor="middle" class="Lx">love/goodwill</text>
+<text x="190" y="241" text-anchor="middle" class="Ls">ùwà</text>
+<text x="250" y="241" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="241" text-anchor="middle" class="Ls">óndọ</text>
+<text x="380" y="241" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="259" width="440" height="14" fill="black"/>
+<text x="240" y="269" text-anchor="middle" class="Hb" fill="white">SECONDARY — EFIK — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="273" x2="460" y2="273" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H">— EFIK GRAMMAR — SVO · REDUPLICATION · NOUN CLASSES —</text>
+<text x="240" y="292" text-anchor="middle" class="Ls">Efik is SVO. Famous for its reduplication: verb/noun doubled to express intensity, plurality, or completion.</text>
+<text x="240" y="301" text-anchor="middle" class="Lx">èdè (yam) → èdè-èdè (many yams). kpó (hit) → kpó-kpó (hit repeatedly).</text>
+<text x="240" y="310" text-anchor="middle" class="Lx">Noun classes: nouns grouped into semantic/grammatical classes affecting agreement. ~10 classes.</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="black" stroke-width="0.3"/>
+<text x="240" y="326" text-anchor="middle" class="H">— EFIK REDUPLICATION EXAMPLES —</text>
+<text x="90" y="336" text-anchor="middle" class="Lx">Noun reduplication</text>
+<text x="220" y="336" text-anchor="middle" class="Ls">ìmà → ìmà-ìmà</text>
+<text x="375" y="336" text-anchor="middle" class="Lx">thing → all sorts of things</text>
+<text x="90" y="346" text-anchor="middle" class="Lx">Verb reduplication</text>
+<text x="220" y="346" text-anchor="middle" class="Ls">bón → bón bón</text>
+<text x="375" y="346" text-anchor="middle" class="Lx">run → run and run (repeatedly)</text>
+<text x="90" y="356" text-anchor="middle" class="Lx">Adjective reduplication</text>
+<text x="220" y="356" text-anchor="middle" class="Ls">mbók → mbók mbók</text>
+<text x="375" y="356" text-anchor="middle" class="Lx">good → very good / excellent</text>
+<text x="90" y="366" text-anchor="middle" class="Lx">Intensification</text>
+<text x="220" y="366" text-anchor="middle" class="Ls">ɛŋé → ɛŋé ɛŋé</text>
+<text x="375" y="366" text-anchor="middle" class="Lx">big → very big</text>
+<line x1="20" y1="383" x2="460" y2="383" stroke="black" stroke-width="0.3"/>
+<text x="240" y="391" text-anchor="middle" class="H">— EFIK CORE VOCABULARY —</text>
+<text x="60" y="401" text-anchor="middle" class="Ls">ódióŋ</text>
+<text x="125" y="401" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="401" text-anchor="middle" class="Ls">inékè</text>
+<text x="255" y="401" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="401" text-anchor="middle" class="Ls">àfid</text>
+<text x="385" y="401" text-anchor="middle" class="Lx">earth/ground</text>
+<text x="60" y="411" text-anchor="middle" class="Ls">mmiŋ</text>
+<text x="125" y="411" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="411" text-anchor="middle" class="Ls">óbón</text>
+<text x="255" y="411" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="411" text-anchor="middle" class="Ls">kèdè</text>
+<text x="385" y="411" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="421" text-anchor="middle" class="Ls">ódó édió</text>
+<text x="125" y="421" text-anchor="middle" class="Lx">future (path-ahead)</text>
+<text x="190" y="421" text-anchor="middle" class="Ls">édedó</text>
+<text x="255" y="421" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="421" text-anchor="middle" class="Ls">ótóŋg</text>
+<text x="385" y="421" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="431" text-anchor="middle" class="Ls">mbók</text>
+<text x="125" y="431" text-anchor="middle" class="Lx">love/please</text>
+<text x="190" y="431" text-anchor="middle" class="Ls">ànyɔŋ</text>
+<text x="255" y="431" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="431" text-anchor="middle" class="Ls">èkpèŋ</text>
+<text x="385" y="431" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="448" x2="460" y2="448" stroke="black" stroke-width="0.3"/>
+<text x="240" y="456" text-anchor="middle" class="H">— GRAMMAR BRIDGE — SHARED FAMILY, DISTINCT TOOLS —</text>
+<text x="240" y="466" text-anchor="middle" class="Ls">Both Igbo and Efik: SVO, tonal, Niger-Congo. Both use aspect over tense. Both lack inflection.</text>
+<text x="240" y="475" text-anchor="middle" class="Ls">Difference: Igbo has vowel harmony; Efik does not. Efik has more systematic reduplication.</text>
+<text x="240" y="484" text-anchor="middle" class="Lx">Igbo: chi (personal spirit) embedded in grammar/naming. Efik: óbóŋ ésiŋ (the moon watches) in proverbs.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 35C ALT · Igbo / Efik · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

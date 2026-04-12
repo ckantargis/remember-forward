@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAPANESE + ZHUANG — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 18B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAPANESE PHONOLOGY — MORA-TIMED, PITCH ACCENT —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Japanese is mora-timed (not syllable-timed). Each mora takes equal time: ka, ki, ku, ke, ko each = 1 mora.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Long vowels = 2 morae: kōhi (kō = 2, h = 1, i = 1 = 4 morae). Double consonants (geminate) also = 2 morae.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— JAPANESE PITCH ACCENT —</text>
+<text x="240" y="108" text-anchor="middle" class="Ls">Japanese has pitch accent (not tonal in the Mandarin sense): words have a “drop” point from H to L.</text>
+<text x="80" y="118" text-anchor="middle" class="Ls">雨 (ame)</text>
+<text x="200" y="118" text-anchor="middle" class="Lx">H-L: rain</text>
+<text x="360" y="118" text-anchor="middle" class="Lx">天気 (tenki) H-HL-L: weather</text>
+<text x="80" y="129" text-anchor="middle" class="Ls">乗 (ame)</text>
+<text x="200" y="129" text-anchor="middle" class="Lx">L-H: candy</text>
+<text x="360" y="129" text-anchor="middle" class="Lx">童心 (dōsin) L-HH-L: childlike</text>
+<line x1="20" y1="145" x2="460" y2="145" stroke="black" stroke-width="0.3"/>
+<text x="240" y="153" text-anchor="middle" class="H">— JAPANESE CONSONANTS AND SPECIAL SOUNDS —</text>
+<text x="65" y="163" text-anchor="middle" class="Lx">/ts/</text>
+<text x="290" y="163" text-anchor="middle" class="Lx">tsu (つ): /tsu/ — the only /ts/ onset in standard Japanese</text>
+<text x="65" y="173" text-anchor="middle" class="Lx">/tʃ/</text>
+<text x="290" y="173" text-anchor="middle" class="Lx">chi (ち): /tʃi/ — not /ti/; palatal affricate before i</text>
+<text x="65" y="183" text-anchor="middle" class="Lx">/ɦ/</text>
+<text x="290" y="183" text-anchor="middle" class="Lx">fu (ふ): bilabial fricative — not /f/ but close; lips approach without full contact</text>
+<text x="65" y="193" text-anchor="middle" class="Lx">/ṅ/</text>
+<text x="290" y="193" text-anchor="middle" class="Lx">n (ん): syllabic nasal; a full mora; assimilates to following consonant place</text>
+<text x="65" y="203" text-anchor="middle" class="Lx">/ɹ/</text>
+<text x="290" y="203" text-anchor="middle" class="Lx">r (ら): a flap, neither English r nor l. Between the two.</text>
+<line x1="20" y1="220" x2="460" y2="220" stroke="black" stroke-width="0.3"/>
+<text x="240" y="228" text-anchor="middle" class="H">— JAPANESE VOWELS — 5 PURE VOWELS —</text>
+<text x="240" y="238" text-anchor="middle" class="Ls">Japanese has exactly 5 vowels: /a i u e o/. Short and long forms. No diphthongs (except in some loans).</text>
+<text x="240" y="247" text-anchor="middle" class="Lx">/u/ is unrounded (more like /ɯ/): lips not rounded. Distinctive from English /uː/.</text>
+<line x1="20" y1="257" x2="460" y2="257" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="260" width="440" height="14" fill="black"/>
+<text x="240" y="270" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH) — PHONOLOGY</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="283" text-anchor="middle" class="H">— ZHUANG PHONOLOGY — 6 TONES (STANDARD DIALECT) —</text>
+<text x="240" y="293" text-anchor="middle" class="Ls">Standard Zhuang (Wuming dialect) has 6 tones. Other dialects have up to 9 tones.</text>
+<text x="120" y="303" text-anchor="middle" class="Lx">Tone 1 (unmarked)</text>
+<text x="330" y="303" text-anchor="middle" class="Lx">mid-high level /˦/: ma (horse)</text>
+<text x="120" y="313" text-anchor="middle" class="Lx">Tone 2 (-z)</text>
+<text x="330" y="313" text-anchor="middle" class="Lx">high rising /˧˥/: maz (scold)</text>
+<text x="120" y="323" text-anchor="middle" class="Lx">Tone 3 (-j)</text>
+<text x="330" y="323" text-anchor="middle" class="Lx">mid dipping /˨˦/: maj (hemp)</text>
+<text x="120" y="333" text-anchor="middle" class="Lx">Tone 4 (-x)</text>
+<text x="330" y="333" text-anchor="middle" class="Lx">low falling /˩/: max (ant)</text>
+<text x="120" y="343" text-anchor="middle" class="Lx">Tone 5 (-q)</text>
+<text x="330" y="343" text-anchor="middle" class="Lx">low short checked: maq (rice) — glottal stop coda</text>
+<text x="120" y="353" text-anchor="middle" class="Lx">Tone 6 (-h)</text>
+<text x="330" y="353" text-anchor="middle" class="Lx">high short checked: mah (go) — /h/ coda</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="black" stroke-width="0.3"/>
+<text x="240" y="378" text-anchor="middle" class="H">— ZHUANG CONSONANTS —</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">Zhuang has rich consonant inventory: /p b d g m n ŋ l r h/ plus aspirated /pʰ tʰ kʰ/.</text>
+<text x="240" y="397" text-anchor="middle" class="Lx">Distinctive: labial-velar /kw gw/ — shared with Hausa, Igbo, and other languages worldwide.</text>
+<text x="240" y="406" text-anchor="middle" class="Lx">Implosives: some dialects have /ɓ ɗ/ (bilabial/alveolar implosives). Shared feature with West African languages.</text>
+<line x1="20" y1="414" x2="460" y2="414" stroke="black" stroke-width="0.3"/>
+<text x="240" y="422" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — TWO TONAL NEIGHBORS —</text>
+<text x="80" y="432" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="432" text-anchor="middle" class="Lx">Japanese</text>
+<text x="380" y="432" text-anchor="middle" class="Lx">Zhuang</text>
+<text x="80" y="442" text-anchor="middle" class="Lx">Tonal</text>
+<text x="235" y="442" text-anchor="middle" class="Lx">Pitch accent (2 levels)</text>
+<text x="380" y="442" text-anchor="middle" class="Lx">6 tones (9 in some dialects)</text>
+<text x="80" y="452" text-anchor="middle" class="Lx">Syllable</text>
+<text x="235" y="452" text-anchor="middle" class="Lx">Mora-timed (C)V(N)</text>
+<text x="380" y="452" text-anchor="middle" class="Lx">CV(C) open/closed</text>
+<text x="80" y="462" text-anchor="middle" class="Lx">Vowels</text>
+<text x="235" y="462" text-anchor="middle" class="Lx">5 pure vowels</text>
+<text x="380" y="462" text-anchor="middle" class="Lx">6+ vowels</text>
+<text x="80" y="472" text-anchor="middle" class="Lx">r-sound</text>
+<text x="235" y="472" text-anchor="middle" class="Lx">Flap /ɾ/</text>
+<text x="380" y="472" text-anchor="middle" class="Lx">Trill /r/ or flap</text>
+<text x="80" y="482" text-anchor="middle" class="Lx">Clustering</text>
+<text x="235" y="482" text-anchor="middle" class="Lx">None (pure CV)</text>
+<text x="380" y="482" text-anchor="middle" class="Lx">Initial clusters in some dialects</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 18B ALT · Japanese / Zhuang · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

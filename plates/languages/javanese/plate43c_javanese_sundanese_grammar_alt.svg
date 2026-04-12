@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAVANESE + SUNDANESE — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 43C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAVANESE GRAMMAR — SVO · SPEECH LEVELS (UNGGAH-UNGGUH) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Javanese is famous for its elaborate speech level system: Ngoko (informal), Madya (middle), Kramà (formal).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Choosing the wrong level is a serious social error. Level depends on relative age, status, familiarity.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— JAVANESE SPEECH LEVELS — SAMPLE WORDS —</text>
+<text x="80" y="108" text-anchor="middle" class="Lx">Concept</text>
+<text x="240" y="108" text-anchor="middle" class="Lx">Ngoko (informal)</text>
+<text x="380" y="108" text-anchor="middle" class="Lx">Kramà (formal)</text>
+<text x="80" y="118" text-anchor="middle" class="Ls">I</text>
+<text x="240" y="118" text-anchor="middle" class="Ls">aku</text>
+<text x="380" y="118" text-anchor="middle" class="Ls">kulà</text>
+<text x="80" y="128" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="128" text-anchor="middle" class="Ls">kokó / kowe</text>
+<text x="380" y="128" text-anchor="middle" class="Ls">panjénéngan</text>
+<text x="80" y="138" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="138" text-anchor="middle" class="Ls">mangan</text>
+<text x="380" y="138" text-anchor="middle" class="Ls">dhahar</text>
+<text x="80" y="148" text-anchor="middle" class="Ls">sleep</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">turu</text>
+<text x="380" y="148" text-anchor="middle" class="Ls">sare</text>
+<text x="80" y="158" text-anchor="middle" class="Ls">go</text>
+<text x="240" y="158" text-anchor="middle" class="Ls">lungo</text>
+<text x="380" y="158" text-anchor="middle" class="Ls">tindak</text>
+<text x="80" y="168" text-anchor="middle" class="Ls">house</text>
+<text x="240" y="168" text-anchor="middle" class="Ls">omah</text>
+<text x="380" y="168" text-anchor="middle" class="Ls">dalem</text>
+<text x="80" y="178" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="178" text-anchor="middle" class="Ls">banyu</text>
+<text x="380" y="178" text-anchor="middle" class="Ls">toya</text>
+<line x1="20" y1="195" x2="460" y2="195" stroke="black" stroke-width="0.3"/>
+<text x="240" y="203" text-anchor="middle" class="H">— JAVANESE CORE VOCABULARY (NGOKO) —</text>
+<text x="60" y="213" text-anchor="middle" class="Ls">banyu</text>
+<text x="118" y="213" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="213" text-anchor="middle" class="Ls">geni</text>
+<text x="248" y="213" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="213" text-anchor="middle" class="Ls">lemah</text>
+<text x="378" y="213" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="223" text-anchor="middle" class="Ls">uwong</text>
+<text x="118" y="223" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="223" text-anchor="middle" class="Ls">wulan</text>
+<text x="248" y="223" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="223" text-anchor="middle" class="Ls">eling</text>
+<text x="378" y="223" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="233" text-anchor="middle" class="Ls">besaók</text>
+<text x="118" y="233" text-anchor="middle" class="Lx">future</text>
+<text x="190" y="233" text-anchor="middle" class="Ls">merdékà</text>
+<text x="248" y="233" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="233" text-anchor="middle" class="Ls">ati</text>
+<text x="378" y="233" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="243" text-anchor="middle" class="Ls">tresnà</text>
+<text x="118" y="243" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="243" text-anchor="middle" class="Ls">donya</text>
+<text x="248" y="243" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="243" text-anchor="middle" class="Ls">urip</text>
+<text x="378" y="243" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="258" x2="460" y2="258" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="261" width="440" height="14" fill="black"/>
+<text x="240" y="271" text-anchor="middle" class="Hb" fill="white">SECONDARY — SUNDANESE (BASA SUNDA) — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">— SUNDANESE GRAMMAR — SVO · SPEECH LEVELS (UNDAK USUK BASA) —</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Sundanese also has a speech level system: Loma (informal), Lemes (polite), Kasar (very informal/crude).</text>
+<text x="240" y="303" text-anchor="middle" class="Lx">Lemes level used for respected persons and elders. Loma for equals/friends. Kasar to be avoided.</text>
+<text x="240" y="312" text-anchor="middle" class="Lx">Both Javanese and Sundanese speech level systems reflect Hindu-Buddhist courtly culture of the Majapahit era.</text>
+<line x1="20" y1="320" x2="460" y2="320" stroke="black" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H">— SUNDANESE SPEECH LEVELS — SAMPLE —</text>
+<text x="80" y="338" text-anchor="middle" class="Lx">Concept</text>
+<text x="240" y="338" text-anchor="middle" class="Lx">Loma (informal)</text>
+<text x="380" y="338" text-anchor="middle" class="Lx">Lemes (polite)</text>
+<text x="80" y="348" text-anchor="middle" class="Ls">I</text>
+<text x="240" y="348" text-anchor="middle" class="Ls">abdi</text>
+<text x="380" y="348" text-anchor="middle" class="Ls">sim kuring</text>
+<text x="80" y="358" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="358" text-anchor="middle" class="Ls">dahar</text>
+<text x="380" y="358" text-anchor="middle" class="Ls">tuang</text>
+<text x="80" y="368" text-anchor="middle" class="Ls">go</text>
+<text x="240" y="368" text-anchor="middle" class="Ls">indit</text>
+<text x="380" y="368" text-anchor="middle" class="Ls">angkat</text>
+<text x="80" y="378" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="378" text-anchor="middle" class="Ls">cai</text>
+<text x="380" y="378" text-anchor="middle" class="Ls">cé́ / toya</text>
+<text x="80" y="388" text-anchor="middle" class="Ls">house</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">imah</text>
+<text x="380" y="388" text-anchor="middle" class="Ls">griya</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="240" y="410" text-anchor="middle" class="H">— SUNDANESE CORE VOCABULARY (LOMA) —</text>
+<text x="60" y="420" text-anchor="middle" class="Ls">cai</text>
+<text x="118" y="420" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="420" text-anchor="middle" class="Ls">seuneu</text>
+<text x="248" y="420" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="420" text-anchor="middle" class="Ls">taneuh</text>
+<text x="378" y="420" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="430" text-anchor="middle" class="Ls">jalma</text>
+<text x="118" y="430" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="430" text-anchor="middle" class="Ls">bulan</text>
+<text x="248" y="430" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="430" text-anchor="middle" class="Ls">inget</text>
+<text x="378" y="430" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="440" text-anchor="middle" class="Ls">hareupéun</text>
+<text x="118" y="440" text-anchor="middle" class="Lx">future</text>
+<text x="190" y="440" text-anchor="middle" class="Ls">merdeka</text>
+<text x="248" y="440" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="440" text-anchor="middle" class="Ls">hate</text>
+<text x="378" y="440" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="450" text-anchor="middle" class="Ls">cinta</text>
+<text x="118" y="450" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="450" text-anchor="middle" class="Ls">dunya</text>
+<text x="248" y="450" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="450" text-anchor="middle" class="Ls">hirup</text>
+<text x="378" y="450" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="465" x2="460" y2="465" stroke="black" stroke-width="0.3"/>
+<text x="240" y="473" text-anchor="middle" class="H">— GRAMMAR BRIDGE — SHARED SPEECH LEVEL CULTURE —</text>
+<text x="240" y="483" text-anchor="middle" class="Ls">Both Javanese and Sundanese: SVO, Austronesian, agglutinative, elaborate speech levels.</text>
+<text x="240" y="492" text-anchor="middle" class="Lx">Speech levels are not just politeness: they encode a whole world view about hierarchy and relation.</text>
+<text x="240" y="501" text-anchor="middle" class="Lx">This is a shared legacy of Hindu-Buddhist Majapahit court culture, adapted independently in each language.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 43C ALT · Javanese / Sundanese · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

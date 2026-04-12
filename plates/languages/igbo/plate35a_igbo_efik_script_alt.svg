@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">IGBO + EFIK — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 35A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— IGBO — LATIN ALPHABET · 36 LETTERS + TONE MARKS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Igbo uses a 36-letter Latin alphabet including 8 digraphs (ch, gb, gh, gw, kp, kw, nw, ny).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Diacritic vowels: ị (i with dot below), ọ (o with dot below), ụ (u with dot below) — mark open vowels.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Tone marks: acute (́) for high tone, grave (̀) for low tone. Mid tone typically unmarked.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— IGBO SPECIAL LETTERS AND DIGRAPHS —</text>
+<text x="42" y="117" text-anchor="middle" class="Ls">ị</text>
+<text x="100" y="117" text-anchor="middle" class="Lx">/i/ (open)</text>
+<text x="300" y="117" text-anchor="middle" class="Lx">open front vowel: ịchị (heart)</text>
+<text x="42" y="127" text-anchor="middle" class="Ls">ọ</text>
+<text x="100" y="127" text-anchor="middle" class="Lx">/ɔ/ (open o)</text>
+<text x="300" y="127" text-anchor="middle" class="Lx">open back vowel: ọ (that/it)</text>
+<text x="42" y="137" text-anchor="middle" class="Ls">ụ</text>
+<text x="100" y="137" text-anchor="middle" class="Lx">/u/ (open)</text>
+<text x="300" y="137" text-anchor="middle" class="Lx">open back vowel: ụlụ (body)</text>
+<text x="42" y="147" text-anchor="middle" class="Ls">ch</text>
+<text x="100" y="147" text-anchor="middle" class="Lx">/tʃ/</text>
+<text x="300" y="147" text-anchor="middle" class="Lx">affricate: chị (heart), chi (personal god)</text>
+<text x="42" y="157" text-anchor="middle" class="Ls">gb</text>
+<text x="100" y="157" text-anchor="middle" class="Lx">/ɡɓ/</text>
+<text x="300" y="157" text-anchor="middle" class="Lx">labial-velar: gbà (drum), gbàgbà (tortoise)</text>
+<text x="42" y="167" text-anchor="middle" class="Ls">kp</text>
+<text x="100" y="167" text-anchor="middle" class="Lx">/kp/</text>
+<text x="300" y="167" text-anchor="middle" class="Lx">labial-velar: kpólókpóló (slowly)</text>
+<text x="42" y="177" text-anchor="middle" class="Ls">gw</text>
+<text x="100" y="177" text-anchor="middle" class="Lx">/ɡw/</text>
+<text x="300" y="177" text-anchor="middle" class="Lx">labial-velar w: gwó (go home)</text>
+<text x="42" y="187" text-anchor="middle" class="Ls">nw</text>
+<text x="100" y="187" text-anchor="middle" class="Lx">/ɳw/</text>
+<text x="300" y="187" text-anchor="middle" class="Lx">labial-nasal: nwà (child)</text>
+<line x1="20" y1="202" x2="460" y2="202" stroke="black" stroke-width="0.3"/>
+<text x="240" y="210" text-anchor="middle" class="H">— IGBO TONE SYSTEM — 3 TONES —</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">Igbo has 3 phonemic tones: High (́), Low (̀), and Downstepped High (mid-level, sometimes ̄).</text>
+<text x="70" y="230" text-anchor="middle" class="Ls">àkǎ</text>
+<text x="210" y="230" text-anchor="middle" class="Lx">High-Low: à (low) kǎ (falling)</text>
+<text x="380" y="230" text-anchor="middle" class="Lx">different word from different tone pattern</text>
+<text x="70" y="240" text-anchor="middle" class="Ls">àkà</text>
+<text x="210" y="240" text-anchor="middle" class="Lx">Low-Low: two low tones</text>
+<text x="380" y="240" text-anchor="middle" class="Lx">tone shapes word meaning</text>
+<text x="70" y="250" text-anchor="middle" class="Ls">áká</text>
+<text x="210" y="250" text-anchor="middle" class="Lx">High-High: two high tones</text>
+<text x="380" y="250" text-anchor="middle" class="Lx">yet another meaning</text>
+<line x1="20" y1="268" x2="460" y2="268" stroke="black" stroke-width="0.3"/>
+<text x="240" y="276" text-anchor="middle" class="H">— IGBO WRITING HISTORY —</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">Nsibidi: indigenous Igbo pictographic script (used for centuries for secret society communication).</text>
+<text x="240" y="295" text-anchor="middle" class="Lx">Latin script: introduced by missionaries ~1840s. Onwu orthography (1961) is now standard.</text>
+<line x1="20" y1="305" x2="460" y2="305" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="308" width="440" height="14" fill="black"/>
+<text x="240" y="318" text-anchor="middle" class="Hb" fill="white">SECONDARY — EFIK — SCRIPT · WRITING SYSTEM</text>
+<line x1="20" y1="322" x2="460" y2="322" stroke="black" stroke-width="0.3"/>
+<text x="240" y="331" text-anchor="middle" class="H">— EFIK — LATIN ALPHABET + SPECIAL CHARACTERS —</text>
+<text x="240" y="341" text-anchor="middle" class="Ls">Efik uses Latin script with some diacritic vowels. Closely related to Ibibio (mutually intelligible).</text>
+<text x="240" y="350" text-anchor="middle" class="Lx">Special vowels: ɔ (open o), ɛ (open e) — mark vowel quality, not length or tone directly.</text>
+<text x="240" y="359" text-anchor="middle" class="Lx">Tonal language: 2 tones (High and Low) + downstep. Written texts often omit tone marks.</text>
+<line x1="20" y1="367" x2="460" y2="367" stroke="black" stroke-width="0.3"/>
+<text x="240" y="375" text-anchor="middle" class="H">— EFIK WRITING HISTORY —</text>
+<text x="240" y="385" text-anchor="middle" class="Ls">Efik was one of the FIRST languages of sub-Saharan Africa to get a printed Bible: 1862 CE (partial).</text>
+<text x="240" y="394" text-anchor="middle" class="Lx">Hope Waddell and Scottish missionaries developed Efik orthography ~1845 in Calabar.</text>
+<text x="240" y="403" text-anchor="middle" class="Lx">Calabar: major trading port. Efik became the regional trade language of the Cross River delta.</text>
+<line x1="20" y1="411" x2="460" y2="411" stroke="black" stroke-width="0.3"/>
+<text x="240" y="419" text-anchor="middle" class="H">— SCRIPT BRIDGE — PARALLEL HISTORIES OF LITERACY —</text>
+<text x="240" y="429" text-anchor="middle" class="Ls">Both Igbo and Efik received Latin alphabets through 19th c. missionary contact.</text>
+<text x="240" y="438" text-anchor="middle" class="Lx">Both had pre-colonial symbolic systems: Igbo nsibidi, Efik tribal marks and oral tradition.</text>
+<text x="240" y="447" text-anchor="middle" class="Lx">Efik printed Bible (1862) predates most of the interior African mission literacy programs.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 35A ALT · Igbo / Efik · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

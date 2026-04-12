@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">JAPANESE + ZHUANG — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 18C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— JAPANESE GRAMMAR — SOV · PARTICLES · AGGLUTINATIVE —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Japanese is SOV. All grammatical relations expressed by postposed particles after each noun phrase.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Watashi-wa hon-wo yomimasu. I-TOP book-OBJ read-POLITE. “I read a book.”</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— JAPANESE PARTICLES —</text>
+<text x="70" y="108" text-anchor="middle" class="Ls">は (wa)</text>
+<text x="300" y="108" text-anchor="middle" class="Lx">topic marker: 私は = as for me / I (topic)</text>
+<text x="70" y="118" text-anchor="middle" class="Ls">が (ga)</text>
+<text x="300" y="118" text-anchor="middle" class="Lx">subject marker: 雨が降る = rain falls</text>
+<text x="70" y="128" text-anchor="middle" class="Ls">を (wo)</text>
+<text x="300" y="128" text-anchor="middle" class="Lx">object marker: 本を読む = read a book</text>
+<text x="70" y="138" text-anchor="middle" class="Ls">に (ni)</text>
+<text x="300" y="138" text-anchor="middle" class="Lx">dative/location: 都市に = in/to the city</text>
+<text x="70" y="148" text-anchor="middle" class="Ls">で (de)</text>
+<text x="300" y="148" text-anchor="middle" class="Lx">instrumental/location: 車で = by car · 公園で = at the park</text>
+<text x="70" y="158" text-anchor="middle" class="Ls">の (no)</text>
+<text x="300" y="158" text-anchor="middle" class="Lx">genitive: 私の本 = my book</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H">— JAPANESE CORE VOCABULARY —</text>
+<text x="60" y="193" text-anchor="middle" class="Ls">水 mizu</text>
+<text x="125" y="193" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="193" text-anchor="middle" class="Ls">火 hi</text>
+<text x="255" y="193" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="193" text-anchor="middle" class="Ls">土 tsuchi</text>
+<text x="385" y="193" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="203" text-anchor="middle" class="Ls">人 hito</text>
+<text x="125" y="203" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="203" text-anchor="middle" class="Ls">月 tsuki</text>
+<text x="255" y="203" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="203" text-anchor="middle" class="Ls">記桫 kioku</text>
+<text x="385" y="203" text-anchor="middle" class="Lx">memory</text>
+<text x="60" y="213" text-anchor="middle" class="Ls">未来 mirai</text>
+<text x="125" y="213" text-anchor="middle" class="Lx">future</text>
+<text x="190" y="213" text-anchor="middle" class="Ls">自由 jiyū</text>
+<text x="255" y="213" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="213" text-anchor="middle" class="Ls">心 kokoro</text>
+<text x="385" y="213" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="223" text-anchor="middle" class="Ls">愛 ai</text>
+<text x="125" y="223" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="223" text-anchor="middle" class="Ls">世界 sekai</text>
+<text x="255" y="223" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="223" text-anchor="middle" class="Ls">命 inochi</text>
+<text x="385" y="223" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="241" width="440" height="14" fill="black"/>
+<text x="240" y="251" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH) — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H">— ZHUANG GRAMMAR — SVO · ISOLATING · NO INFLECTION —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls">Zhuang is SVO and highly isolating — words do not change form for tense, number, or case.</text>
+<text x="240" y="283" text-anchor="middle" class="Lx">Aspect and time expressed by adverbs and particles placed before or after the verb.</text>
+<text x="240" y="292" text-anchor="middle" class="Lx">Classifier system: nouns require a classifier when counted. Different classes for humans, animals, flat things.</text>
+<line x1="20" y1="300" x2="460" y2="300" stroke="black" stroke-width="0.3"/>
+<text x="240" y="308" text-anchor="middle" class="H">— ZHUANG CLASSIFIERS — SAMPLE —</text>
+<text x="60" y="318" text-anchor="middle" class="Ls">boux</text>
+<text x="310" y="318" text-anchor="middle" class="Lx">human classifier: boux vunz (one person), boux lwgnyez (one child)</text>
+<text x="60" y="328" text-anchor="middle" class="Ls">duz</text>
+<text x="310" y="328" text-anchor="middle" class="Lx">animal classifier: duz gaeq (one chicken), duz ma (one dog)</text>
+<text x="60" y="338" text-anchor="middle" class="Ls">aen</text>
+<text x="310" y="338" text-anchor="middle" class="Lx">round/3D object: aen mbwn (the sky), aen mboq (a stone)</text>
+<text x="60" y="348" text-anchor="middle" class="Ls">mbat</text>
+<text x="310" y="348" text-anchor="middle" class="Lx">flat/thin object: mbat saw (a book), mbat bohmeh (a paper)</text>
+<text x="60" y="358" text-anchor="middle" class="Ls">bak</text>
+<text x="310" y="358" text-anchor="middle" class="Lx">opening/mouth: bak roen (a road), bak raemx (water source)</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="black" stroke-width="0.3"/>
+<text x="240" y="386" text-anchor="middle" class="H">— ZHUANG CORE VOCABULARY —</text>
+<text x="60" y="396" text-anchor="middle" class="Ls">raemx</text>
+<text x="120" y="396" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="396" text-anchor="middle" class="Ls">feiz</text>
+<text x="250" y="396" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="396" text-anchor="middle" class="Ls">deih</text>
+<text x="380" y="396" text-anchor="middle" class="Lx">earth/land</text>
+<text x="60" y="406" text-anchor="middle" class="Ls">vunz</text>
+<text x="120" y="406" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="406" text-anchor="middle" class="Ls">ndwen</text>
+<text x="250" y="406" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="406" text-anchor="middle" class="Ls">naengh</text>
+<text x="380" y="406" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="416" text-anchor="middle" class="Ls">laeng</text>
+<text x="120" y="416" text-anchor="middle" class="Lx">future/forward</text>
+<text x="190" y="416" text-anchor="middle" class="Ls">swhyouh</text>
+<text x="250" y="416" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="416" text-anchor="middle" class="Ls">sim</text>
+<text x="380" y="416" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="426" text-anchor="middle" class="Ls">yinx</text>
+<text x="120" y="426" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="426" text-anchor="middle" class="Ls">seiqgyaiq</text>
+<text x="250" y="426" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="426" text-anchor="middle" class="Ls">mingh</text>
+<text x="380" y="426" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="440" x2="460" y2="440" stroke="black" stroke-width="0.3"/>
+<text x="240" y="448" text-anchor="middle" class="H">— GRAMMAR BRIDGE — SOV MEETS SVO —</text>
+<text x="240" y="458" text-anchor="middle" class="Ls">Japanese (SOV): Watashi-wa mizu-wo nomimasu. I-TOP water-OBJ drink-POL. = I drink water.</text>
+<text x="240" y="467" text-anchor="middle" class="Ls">Zhuang (SVO): Gou gwn raemx. I drink water. No particles, no inflection. Tone carries meaning.</text>
+<text x="240" y="476" text-anchor="middle" class="Lx">Japanese: agglutinative particles after every phrase. Zhuang: isolating, no morphological marking.</text>
+<text x="240" y="485" text-anchor="middle" class="Lx">Both Tai-Kadai (Zhuang) and Japanese: classifier systems shared across East/Southeast Asia.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 18C ALT · Japanese / Zhuang · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

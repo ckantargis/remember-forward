@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">IGBO + EFIK — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 35B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— IGBO PHONOLOGY — LABIAL-VELARS AND TONES —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Igbo is most notable for its labial-velar consonants — stops made at TWO places simultaneously.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">/kp/: velar stop + bilabial stop released together. /gb/: voiced version. Absent from European languages.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">These are one phoneme each — not two consonants. Single articulation, double closure.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— IGBO VOWELS — 8 PHONEMES (2 SETS OF 4) —</text>
+<text x="240" y="117" text-anchor="middle" class="Ls">Igbo has 8 vowels in 2 harmonic sets: “tense” (i e a o u) and “lax” (ị ọ ụ).</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">Vowel harmony: within a word, vowels must come from the same harmonic set (tense or lax).</text>
+<text x="240" y="135" text-anchor="middle" class="Lx">Cross-harmonic words do not occur in native vocabulary. Loanwords adapt to one set.</text>
+<text x="80" y="145" text-anchor="middle" class="Lx">/i/</text>
+<text x="140" y="145" text-anchor="middle" class="Lx">high front tense: ime (inside)</text>
+<text x="300" y="145" text-anchor="middle" class="Lx">/ị/</text>
+<text x="360" y="145" text-anchor="middle" class="Lx">high front lax: ịchị (heart)</text>
+<text x="80" y="155" text-anchor="middle" class="Lx">/e/</text>
+<text x="140" y="155" text-anchor="middle" class="Lx">mid front tense: mee (do)</text>
+<text x="300" y="155" text-anchor="middle" class="Lx">/ọ/</text>
+<text x="360" y="155" text-anchor="middle" class="Lx">mid/low back lax: ọ (it/that)</text>
+<text x="80" y="165" text-anchor="middle" class="Lx">/a/</text>
+<text x="140" y="165" text-anchor="middle" class="Lx">low central: à (PAST marker)</text>
+<text x="300" y="165" text-anchor="middle" class="Lx">/o/</text>
+<text x="360" y="165" text-anchor="middle" class="Lx">mid back tense: go (carry)</text>
+<text x="80" y="175" text-anchor="middle" class="Lx">/u/</text>
+<text x="140" y="175" text-anchor="middle" class="Lx">high back tense: ùfò (nose)</text>
+<text x="300" y="175" text-anchor="middle" class="Lx">/ụ/</text>
+<text x="360" y="175" text-anchor="middle" class="Lx">high back lax: ụlụ (body)</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="black" stroke-width="0.3"/>
+<text x="240" y="198" text-anchor="middle" class="H">— IGBO 3 TONES — HIGH, LOW, DOWNSTEPPED HIGH —</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">High (́) + Low (̀) are primary. Downstep: a “high” tone that is lower than preceding high — marked !H.</text>
+<text x="240" y="217" text-anchor="middle" class="Lx">aká (hand) · àkà (bell) · akǎ (chalk): same consonants, 3 different meanings by tone alone.</text>
+<line x1="20" y1="227" x2="460" y2="227" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="230" width="440" height="14" fill="black"/>
+<text x="240" y="240" text-anchor="middle" class="Hb" fill="white">SECONDARY — EFIK — PHONOLOGY</text>
+<line x1="20" y1="244" x2="460" y2="244" stroke="black" stroke-width="0.3"/>
+<text x="240" y="253" text-anchor="middle" class="H">— EFIK PHONOLOGY — 2 TONES + DOWNSTEP —</text>
+<text x="240" y="263" text-anchor="middle" class="Ls">Efik has 2 basic tones (High and Low) with downstep and floating low tone grammatical markers.</text>
+<text x="240" y="272" text-anchor="middle" class="Lx">Floating low tone: a tone without a syllable — attaches to adjacent vowel, lowering it in context.</text>
+<line x1="20" y1="280" x2="460" y2="280" stroke="black" stroke-width="0.3"/>
+<text x="240" y="288" text-anchor="middle" class="H">— EFIK VOWELS — 7 ORAL + NASALIZED —</text>
+<text x="240" y="298" text-anchor="middle" class="Ls">Efik has 7 oral vowels: /a e ɛ i o ɔ u/. Nasalization is partially phonemic.</text>
+<text x="55" y="308" text-anchor="middle" class="Lx">/a/ àbàt (five)</text>
+<text x="160" y="308" text-anchor="middle" class="Lx">/e/ èdè (yam)</text>
+<text x="265" y="308" text-anchor="middle" class="Lx">/ɛ/ ɛkɛt (thing)</text>
+<text x="370" y="308" text-anchor="middle" class="Lx">/i/ ìmà (thing-good)</text>
+<text x="55" y="319" text-anchor="middle" class="Lx">/o/ ódó (path/road)</text>
+<text x="160" y="319" text-anchor="middle" class="Lx">/ɔ/ mɔ̀kɔ (lizard)</text>
+<text x="265" y="319" text-anchor="middle" class="Lx">/u/ ufók (house)</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="343" text-anchor="middle" class="H">— EFIK CONSONANTS — LABIAL-VELARS PRESENT —</text>
+<text x="240" y="353" text-anchor="middle" class="Ls">Like Igbo, Efik has labial-velar stops /kp/ and /gb/ — a shared feature of many Niger-Delta languages.</text>
+<text x="240" y="362" text-anchor="middle" class="Lx">Also: /ŋ/ (velar nasal) is a distinct letter: ŋkànà (here), ŋ (that one).</text>
+<text x="240" y="371" text-anchor="middle" class="Lx">Prenasalized consonants /mb nd ŋg/: common in Efik verbs and nouns. Sounds like two-phoneme onset.</text>
+<line x1="20" y1="379" x2="460" y2="379" stroke="black" stroke-width="0.3"/>
+<text x="240" y="387" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — SHARED NIGER-CONGO FEATURES —</text>
+<text x="80" y="397" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="397" text-anchor="middle" class="Lx">Igbo</text>
+<text x="380" y="397" text-anchor="middle" class="Lx">Efik</text>
+<text x="80" y="407" text-anchor="middle" class="Lx">Tones</text>
+<text x="235" y="407" text-anchor="middle" class="Lx">3 (H L !H)</text>
+<text x="380" y="407" text-anchor="middle" class="Lx">2 + downstep (H L !H)</text>
+<text x="80" y="417" text-anchor="middle" class="Lx">Labial-velars</text>
+<text x="235" y="417" text-anchor="middle" class="Lx">kp gb</text>
+<text x="380" y="417" text-anchor="middle" class="Lx">kp gb</text>
+<text x="80" y="427" text-anchor="middle" class="Lx">Vowel harmony</text>
+<text x="235" y="427" text-anchor="middle" class="Lx">Yes (tense/lax)</text>
+<text x="380" y="427" text-anchor="middle" class="Lx">No (7 free vowels)</text>
+<text x="80" y="437" text-anchor="middle" class="Lx">Nasalization</text>
+<text x="235" y="437" text-anchor="middle" class="Lx">Vowels (partial)</text>
+<text x="380" y="437" text-anchor="middle" class="Lx">Vowels + consonants</text>
+<text x="80" y="447" text-anchor="middle" class="Lx">Vowel count</text>
+<text x="235" y="447" text-anchor="middle" class="Lx">8</text>
+<text x="380" y="447" text-anchor="middle" class="Lx">7</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 35B ALT · Igbo / Efik · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

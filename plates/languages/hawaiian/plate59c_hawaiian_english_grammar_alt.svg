@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAWAIIAN + ENGLISH — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 59C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— HAWAIIAN GRAMMAR — VSO · PARTICLES · NO INFLECTION —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hawaiian is Verb-Subject-Object (VSO). The verb comes first.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Ua hele au i ka hale. PAST go I DIR the house. “I went to the house.”</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">No inflection for person, number, tense — these are expressed by particles before or after the verb.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— HAWAIIAN TENSE/ASPECT PARTICLES —</text>
+<text x="70" y="117" text-anchor="middle" class="Ls">ua</text>
+<text x="290" y="117" text-anchor="middle" class="Lx">perfective (completed): ua hele (went / has gone)</text>
+<text x="70" y="127" text-anchor="middle" class="Ls">e…ana</text>
+<text x="290" y="127" text-anchor="middle" class="Lx">progressive (ongoing): e hele ana (going, is going)</text>
+<text x="70" y="137" text-anchor="middle" class="Ls">e</text>
+<text x="290" y="137" text-anchor="middle" class="Lx">imperfective/command: e hele (go! / will go)</text>
+<text x="70" y="147" text-anchor="middle" class="Ls">ke…nei</text>
+<text x="290" y="147" text-anchor="middle" class="Lx">present progressive: ke hele nei (is going now)</text>
+<text x="70" y="157" text-anchor="middle" class="Ls">mai</text>
+<text x="290" y="157" text-anchor="middle" class="Lx">negative command: mai hele (don’t go)</text>
+<text x="70" y="167" text-anchor="middle" class="Ls">ʾaʻe</text>
+<text x="290" y="167" text-anchor="middle" class="Lx">past: ʾaʻe hele (was going/used to go)</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">— HAWAIIAN — INCLUSIVE VS. EXCLUSIVE WE —</text>
+<text x="240" y="196" text-anchor="middle" class="Ls">Hawaiian distinguishes kākou (we, including you) from mākou (we, excluding you).</text>
+<text x="240" y="205" text-anchor="middle" class="Lx">Also: dual pronouns — lāua (they two), māua (we two, excl.), kāua (we two, incl.).</text>
+<line x1="20" y1="213" x2="460" y2="213" stroke="black" stroke-width="0.3"/>
+<text x="240" y="221" text-anchor="middle" class="H">— HAWAIIAN CORE VOCABULARY —</text>
+<text x="60" y="231" text-anchor="middle" class="Ls">wai</text>
+<text x="120" y="231" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="231" text-anchor="middle" class="Ls">ahi</text>
+<text x="250" y="231" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="231" text-anchor="middle" class="Ls">ʻaina</text>
+<text x="380" y="231" text-anchor="middle" class="Lx">land/earth</text>
+<text x="60" y="241" text-anchor="middle" class="Ls">kanaka</text>
+<text x="120" y="241" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="241" text-anchor="middle" class="Ls">mahina</text>
+<text x="250" y="241" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="241" text-anchor="middle" class="Ls">hoʻomanaʻo</text>
+<text x="380" y="241" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="251" text-anchor="middle" class="Ls">wā</text>
+<text x="120" y="251" text-anchor="middle" class="Lx">time/future era</text>
+<text x="190" y="251" text-anchor="middle" class="Ls">kuʻokoaloko</text>
+<text x="250" y="251" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="251" text-anchor="middle" class="Ls">puʻuwai</text>
+<text x="380" y="251" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="261" text-anchor="middle" class="Ls">aloha</text>
+<text x="120" y="261" text-anchor="middle" class="Lx">love/compassion</text>
+<text x="190" y="261" text-anchor="middle" class="Ls">honua</text>
+<text x="250" y="261" text-anchor="middle" class="Lx">world/earth</text>
+<text x="320" y="261" text-anchor="middle" class="Ls">ola</text>
+<text x="380" y="261" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="279" width="440" height="14" fill="black"/>
+<text x="240" y="289" text-anchor="middle" class="Hb" fill="white">SECONDARY — ENGLISH — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="293" x2="460" y2="293" stroke="black" stroke-width="0.3"/>
+<text x="240" y="302" text-anchor="middle" class="H">— ENGLISH GRAMMAR — SVO · ANALYTIC · NO GENDER —</text>
+<text x="240" y="312" text-anchor="middle" class="Ls">English is SVO and highly analytic — minimal inflection, word order carries most grammatical meaning.</text>
+<text x="240" y="321" text-anchor="middle" class="Lx">No grammatical gender for nouns (unlike most European languages). No case on nouns (only he/him, she/her).</text>
+<text x="240" y="330" text-anchor="middle" class="Lx">Aspect: progressive (is going), perfect (has gone), perfect progressive (has been going) expressed with auxiliaries.</text>
+<line x1="20" y1="338" x2="460" y2="338" stroke="black" stroke-width="0.3"/>
+<text x="240" y="346" text-anchor="middle" class="H">— ENGLISH VERB TENSE SYSTEM —</text>
+<text x="120" y="356" text-anchor="middle" class="Lx">Simple present</text>
+<text x="330" y="356" text-anchor="middle" class="Lx">I go / she goes (3rd sg -s)</text>
+<text x="120" y="366" text-anchor="middle" class="Lx">Present progressive</text>
+<text x="330" y="366" text-anchor="middle" class="Lx">I am going (be + -ing)</text>
+<text x="120" y="376" text-anchor="middle" class="Lx">Simple past</text>
+<text x="330" y="376" text-anchor="middle" class="Lx">I went (irregular) / I walked (regular -ed)</text>
+<text x="120" y="386" text-anchor="middle" class="Lx">Past progressive</text>
+<text x="330" y="386" text-anchor="middle" class="Lx">I was going</text>
+<text x="120" y="396" text-anchor="middle" class="Lx">Present perfect</text>
+<text x="330" y="396" text-anchor="middle" class="Lx">I have gone (have + past participle)</text>
+<text x="120" y="406" text-anchor="middle" class="Lx">Future (modal)</text>
+<text x="330" y="406" text-anchor="middle" class="Lx">I will go / I am going to go</text>
+<line x1="20" y1="425" x2="460" y2="425" stroke="black" stroke-width="0.3"/>
+<text x="240" y="433" text-anchor="middle" class="H">— ENGLISH CORE VOCABULARY —</text>
+<text x="60" y="443" text-anchor="middle" class="Ls">water</text>
+<text x="190" y="443" text-anchor="middle" class="Ls">fire</text>
+<text x="320" y="443" text-anchor="middle" class="Ls">earth</text>
+<text x="60" y="453" text-anchor="middle" class="Ls">person</text>
+<text x="190" y="453" text-anchor="middle" class="Ls">moon</text>
+<text x="320" y="453" text-anchor="middle" class="Ls">memory</text>
+<text x="60" y="463" text-anchor="middle" class="Ls">future</text>
+<text x="190" y="463" text-anchor="middle" class="Ls">freedom</text>
+<text x="320" y="463" text-anchor="middle" class="Ls">heart</text>
+<text x="60" y="473" text-anchor="middle" class="Ls">love</text>
+<text x="190" y="473" text-anchor="middle" class="Ls">world</text>
+<text x="320" y="473" text-anchor="middle" class="Ls">life</text>
+<line x1="20" y1="480" x2="460" y2="480" stroke="black" stroke-width="0.3"/>
+<text x="240" y="488" text-anchor="middle" class="H">— GRAMMAR BRIDGE — VSO MEETS SVO —</text>
+<text x="240" y="498" text-anchor="middle" class="Ls">Hawaiian VSO: Ua ʻai au i ka ʻai (PAST eat I DIR the food) = I ate the food.</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">English SVO: I ate the food. Subject must come first. Both languages: no grammatical case on nouns.</text>
+<text x="240" y="516" text-anchor="middle" class="Lx">Hawaiian: rich particle system. English: rich auxiliary system. Both are analytic in their own way.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 59C ALT · Hawaiian / English · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

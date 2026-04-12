@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">HAWAIIAN + ENGLISH — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 59D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. HAWAIIAN — ʻALEKOKI (NUUANU PALI LOOKOUT PASSAGE) —</text>
+<text x="240" y="73" text-anchor="middle" class="L">I nā mea ʻino o ka ʻāina,</text>
+<text x="240" y="84" text-anchor="middle" class="L">e hoʻomanaʻo i nā kupuna.</text>
+<text x="240" y="95" text-anchor="middle" class="Lx">In the evil-times of the land / remember the ancestors.</text>
+<text x="240" y="104" text-anchor="middle" class="F">"In difficult times for the land, remember the ancestors." (Hawaiian teaching, oral tradition)</text>
+<line x1="20" y1="112" x2="460" y2="112" stroke="black" stroke-width="0.3"/>
+<text x="240" y="120" text-anchor="middle" class="H">— II. QUEEN LILIʻUOKALANI — ʻALOHA ʻOE (1878 CE) —</text>
+<text x="240" y="130" text-anchor="middle" class="L">ʻAloha ʻoe, ʻaloha ʻoe,</text>
+<text x="240" y="141" text-anchor="middle" class="L">E ke onaona noho i ka lipo,</text>
+<text x="240" y="152" text-anchor="middle" class="Lx">Farewell to you farewell to you / The gentle breezes blowing to the deep.</text>
+<text x="240" y="161" text-anchor="middle" class="F">"Aloha ʻOe" — composed by Queen Liliʻuokalani, last monarch of Hawaiiʻi (deposed 1893).</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="black" stroke-width="0.3"/>
+<text x="240" y="177" text-anchor="middle" class="H">— III. HAWAIIAN BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="188" text-anchor="middle" class="L">Ua hana ʻia kēia no ʻoukou, me ka lokomaikaʻi,</text>
+<text x="240" y="200" text-anchor="middle" class="L">e nā kanaka nāna i hoʻomanaʻo i nā wā e hiki mai ana.</text>
+<text x="240" y="212" text-anchor="middle" class="Lx">PAST make PASS this for you   with the   generosity / by the people who  remembered the era coming.</text>
+<text x="240" y="221" text-anchor="middle" class="F">"This was made for you, generously, by people who remembered the time to come." (Hawaiian)</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="black" stroke-width="0.3"/>
+<text x="240" y="237" text-anchor="middle" class="H">— HAWAIIAN NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">Nā wā e hiki mai ana = the times that are coming (no single word for “future” — a temporal phrase).</text>
+<text x="240" y="256" text-anchor="middle" class="Lx">Hoʻomanaʻo = to remember, to commemorate. Hoʻo- = causative prefix + manaʻo (thought/intention).</text>
+<text x="240" y="265" text-anchor="middle" class="Lx">Lokomaikaʻi = generosity, kindness (loko = inside + maikaʻi = good). Free giving from the inside.</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="278" width="440" height="14" fill="black"/>
+<text x="240" y="288" text-anchor="middle" class="Hb" fill="white">SECONDARY — ENGLISH — RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="H">— I. EMILY DICKINSON — ON MEMORY (c.1863 CE) —</text>
+<text x="240" y="311" text-anchor="middle" class="L">The Brain — is wider than the Sky —</text>
+<text x="240" y="322" text-anchor="middle" class="L">For — put them side by side — / The one the other will contain.</text>
+<text x="240" y="333" text-anchor="middle" class="F">"The brain is wider than the sky." — Emily Dickinson. On the interior infinity of memory and imagination.</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H">— II. ENGLISH PROVERB — ON TIME —</text>
+<text x="240" y="359" text-anchor="middle" class="L">The present moment always will have been.</text>
+<text x="240" y="370" text-anchor="middle" class="F">"The present moment always will have been." — The permanence of past moments. Core Remember Forward concept.</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="black" stroke-width="0.3"/>
+<text x="240" y="386" text-anchor="middle" class="H">— III. ENGLISH BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="397" text-anchor="middle" class="L">This was made for you, freely,</text>
+<text x="240" y="409" text-anchor="middle" class="L">by people who remembered forward.</text>
+<text x="240" y="421" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered forward." (English — the project’s own language)</text>
+<line x1="20" y1="429" x2="460" y2="429" stroke="black" stroke-width="0.3"/>
+<text x="240" y="437" text-anchor="middle" class="H">— ENGLISH NOTE — “FORWARD” —</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">“Remember forward”: an English oxymoron. You cannot remember what has not happened.</text>
+<text x="240" y="456" text-anchor="middle" class="Ls">Yet: you can act now as if the future were already a past worth honoring. That is the project’s name.</text>
+<text x="240" y="465" text-anchor="middle" class="Lx">“Freely”: from Old English freodom. Gift-giving without expectation of return. The grammar of generosity.</text>
+<line x1="20" y1="473" x2="460" y2="473" stroke="black" stroke-width="0.3"/>
+<text x="240" y="481" text-anchor="middle" class="H">— LANGUAGE BRIDGE — AN OCEAN APART, FOREVER ENTANGLED —</text>
+<text x="240" y="491" text-anchor="middle" class="Ls">Hawaiian: ~2000 native speakers (critically endangered, revitalizing). Polynesian origin, 1000+ years on islands.</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">English: ~380M native speakers. Global lingua franca. The language of the colonization that endangered Hawaiian.</text>
+<text x="240" y="509" text-anchor="middle" class="Lx">Today English is also the medium through which Hawaiian revitalization reaches the world. Complicated neighbors.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 59D ALT · Hawaiian / English · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
