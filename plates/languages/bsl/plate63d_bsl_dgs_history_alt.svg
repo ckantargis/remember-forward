@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">BRITISH SIGN LANGUAGE</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY — EUROPEAN DEAF EDUCATION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">BSL ORIGINS</text>
+<text x="240" y="68" text-anchor="middle" class="L">BSL: emerged from Deaf communities in England; no clear founding date</text>
+<text x="240" y="79" text-anchor="middle" class="L">1760: Thomas Braidwood opens first school for the Deaf in Edinburgh</text>
+<text x="240" y="90" text-anchor="middle" class="L">1783: Braidwood Academy moves to London; oral methods emphasis</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">BSL community preserved sign language despite oralist educational pressure</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">MILAN CONFERENCE 1880: GLOBAL SUPPRESSION</text>
+<text x="240" y="128" text-anchor="middle" class="L">1880: Second International Congress of Educators of the Deaf, Milan</text>
+<text x="240" y="139" text-anchor="middle" class="L">Vote (mostly hearing educators): sign languages banned from schools</text>
+<text x="240" y="150" text-anchor="middle" class="L">Oralism mandated: Deaf children must learn to speak, lip-read only</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">~100 years: BSL, DGS, ASL all suppressed in formal education</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">BSL RECOGNITION AND REVIVAL</text>
+<text x="240" y="188" text-anchor="middle" class="L">1970s: British Deaf Association advocates for BSL recognition</text>
+<text x="240" y="199" text-anchor="middle" class="L">1992: first BSL TV programs; 2003: UK government recognition</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">2022: BSL Act — BSL statutory protected language in England, Wales, Scotland</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">DGS HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">DGS ORIGINS</text>
+<text x="240" y="261" text-anchor="middle" class="L">Germany: first Deaf school founded 1778 in Leipzig by Samuel Heinicke</text>
+<text x="240" y="272" text-anchor="middle" class="Ls">Heinicke: oral method proponent; DGS developed despite oralist pressure</text>
+<text x="240" y="283" text-anchor="middle" class="L">Hamburg: major Deaf community center; DGS standardized around Hamburg</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">DGS AND NAZI PERSECUTION</text>
+<text x="240" y="310" text-anchor="middle" class="L">1933-1945: Nazi regime sterilized Deaf Germans under eugenics laws</text>
+<text x="240" y="321" text-anchor="middle" class="L">Estimated 17,000 Deaf Germans forcibly sterilized; some sent to camps</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">DGS survived; community rebuilt slowly after WWII</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="348" text-anchor="middle" class="H">DGS RECOGNITION</text>
+<text x="240" y="359" text-anchor="middle" class="L">2002: DGS recognized in German Disability Equality Act</text>
+<text x="240" y="370" text-anchor="middle" class="L">~200,000 DGS users; Hamburg University: major DGS research center</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="H">BSL AND DGS: SHARED EUROPEAN STRUGGLE</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: suppressed by 1880 Milan Conference for ~100 years</text>
+<text x="240" y="408" text-anchor="middle" class="L">Both: survived in Deaf communities despite educational bans</text>
+<text x="240" y="419" text-anchor="middle" class="L">Both: officially recognized early 21st century after long advocacy</text>
+<text x="240" y="430" text-anchor="middle" class="Ls">Sign languages: endured because communities passed them hand to hand</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 63d ALT  ·  BSL / DGS  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

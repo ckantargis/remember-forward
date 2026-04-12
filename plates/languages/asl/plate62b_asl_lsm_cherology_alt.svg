@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE</text>
+<text x="240" y="40" text-anchor="middle" class="S">CHEROLOGY — PARAMETERS OF SIGN LANGUAGE</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">FIVE PARAMETERS OF ASL SIGNS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Phonology of sign language = "cherology" (from Greek: hand)</text>
+<text x="240" y="79" text-anchor="middle" class="L">1. Handshape: configuration of the hand (A, B, C, 5, etc.)</text>
+<text x="240" y="90" text-anchor="middle" class="L">2. Location: where the sign is made (forehead, chin, chest, neutral space)</text>
+<text x="240" y="101" text-anchor="middle" class="L">3. Movement: path, direction, repetition (up, down, circular, etc.)</text>
+<text x="240" y="112" text-anchor="middle" class="L">4. Palm orientation: which direction palm faces</text>
+<text x="240" y="123" text-anchor="middle" class="L">5. Non-manual markers (NMM): facial expression, mouth, eyebrows</text>
+<line x1="20" y1="131" x2="460" y2="131" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="139" text-anchor="middle" class="H">MINIMAL PAIRS IN ASL</text>
+<text x="240" y="150" text-anchor="middle" class="L">MOTHER vs FATHER: same handshape + movement; only location differs</text>
+<text x="240" y="161" text-anchor="middle" class="L">(chin vs forehead)  —  location is phonemic in ASL</text>
+<text x="240" y="172" text-anchor="middle" class="L">APPLE vs CANDY: same handshape + location; movement differs</text>
+<text x="240" y="183" text-anchor="middle" class="Ls">SICK vs FUNNY: same parameters; NMM (mouth morpheme) differs</text>
+<line x1="20" y1="191" x2="460" y2="191" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="199" text-anchor="middle" class="H">NON-MANUAL MARKERS (NMM)</text>
+<text x="240" y="210" text-anchor="middle" class="L">Eyebrows raised: yes/no question  •  furrowed: wh- question</text>
+<text x="240" y="221" text-anchor="middle" class="L">Puffed cheeks: "large"  •  sucked in: "small"  (grammatical!)</text>
+<text x="240" y="232" text-anchor="middle" class="Ls">Mouth morphemes: "th" = careless  •  "oo" = small/precise</text>
+<line x1="20" y1="240" x2="460" y2="240" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="247" width="460" height="13" fill="#111"/>
+<text x="240" y="256.5" text-anchor="middle" class="Hb">LSM CHEROLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="272" text-anchor="middle" class="H">LSM PARAMETERS</text>
+<text x="240" y="283" text-anchor="middle" class="L">LSM: same five parameters as ASL (universal to all sign languages)</text>
+<text x="240" y="294" text-anchor="middle" class="L">Handshape, location, movement, orientation, NMM: universal sign grammar</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">All sign languages discovered to date use these same five parameters</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">ASL VS LSM: SIGN DIFFERENCES</text>
+<text x="240" y="332" text-anchor="middle" class="L">Same concept, different sign: WATER differs in ASL vs LSM</text>
+<text x="240" y="343" text-anchor="middle" class="L">ASL WATER: W-handshape tapped on chin</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">LSM WATER: different handshape or location (distinct signs)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">ICONICITY IN SIGN LANGUAGES</text>
+<text x="240" y="381" text-anchor="middle" class="L">Many signs are iconic: shape/movement resembles the referent</text>
+<text x="240" y="392" text-anchor="middle" class="L">TREE: one hand = trunk, other = branches spreading out</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">But iconic signs differ cross-linguistically (bird looks different in each SL)</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Iconicity is starting point; arbitrary signs increase over time (arbitrarization)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 62b ALT  ·  ASL / LSM  ·  CHEROLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="40" text-anchor="middle" class="S">SCRIPT — HIEROGLYPHS AND THE ROSETTA STONE</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">HIEROGLYPHIC WRITING SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">~700 standard hieroglyphs; logograms + phonograms combined</text>
+<text x="240" y="79" text-anchor="middle" class="L">Three types: logogram (word) / phonogram (sound) / determinative (category)</text>
+<text x="240" y="90" text-anchor="middle" class="L">Uniliteral signs (alphabet-like): 24 consonant signs exist</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Hieratic (cursive) and Demotic (even more cursive): later developments</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">DIRECTION AND ORIENTATION</text>
+<text x="240" y="128" text-anchor="middle" class="L">Can be read right-to-left, left-to-right, or top-to-bottom</text>
+<text x="240" y="139" text-anchor="middle" class="L">Direction: follow the gaze of animal/human signs (they face the start)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Columns: typically read right-to-left (in most monumental texts)</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">THE THREE SCRIPTS OF THE ROSETTA STONE</text>
+<text x="240" y="177" text-anchor="middle" class="L">Rosetta Stone (196 BCE): decree of Ptolemy V in three scripts</text>
+<text x="240" y="188" text-anchor="middle" class="L">Top: hieroglyphic (sacred script for monuments)</text>
+<text x="240" y="199" text-anchor="middle" class="L">Middle: Demotic (everyday Egyptian script of the era)</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Bottom: Greek (language of the Ptolemaic government)</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="226" text-anchor="middle" class="H">CHAMPOLLION'S DECIPHERMENT (1822)</text>
+<text x="240" y="237" text-anchor="middle" class="L">Champollion: used Greek text to decode royal cartouches in hieroglyphs</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Ptolemy and Cleopatra names in Greek matched cartouche letters</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="263" width="460" height="13" fill="#111"/>
+<text x="240" y="272.5" text-anchor="middle" class="Hb">GREEK  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="288" text-anchor="middle" class="H">GREEK ALPHABET: ROSETTA KEY</text>
+<text x="240" y="299" text-anchor="middle" class="L">Greek text on Rosetta Stone: the only fully readable section in 1799</text>
+<text x="240" y="310" text-anchor="middle" class="L">Greek alphabet: 24 letters, fully voweled, left-to-right</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">Classical Greek: upper/lowercase developed later; all caps in ancient texts</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">COPTIC: THE BRIDGE BETWEEN THEM</text>
+<text x="240" y="348" text-anchor="middle" class="L">Coptic = Ancient Egyptian written in Greek alphabet + 6 Egyptian letters</text>
+<text x="240" y="359" text-anchor="middle" class="L">Champollion used Coptic to understand Egyptian vowels (hieroglyphs: no vowels)</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">Coptic = critical missing link; Greek letters unlocked Egyptian sounds</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="397" text-anchor="middle" class="L">Egyptian: logographic + phonographic; complex; no vowels written</text>
+<text x="240" y="408" text-anchor="middle" class="L">Greek: pure alphabet; simple; all vowels written</text>
+<text x="240" y="419" text-anchor="middle" class="L">The Rosetta Stone: these two scripts on one stone unlocked history</text>
+<text x="240" y="430" text-anchor="middle" class="Ls">Without Greek, hieroglyphs would remain unreadable for far longer</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 61a ALT  ·  ANCIENT EGYPTIAN / GREEK  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

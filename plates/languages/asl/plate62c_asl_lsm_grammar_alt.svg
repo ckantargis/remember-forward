@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE</text>
+<text x="240" y="40" text-anchor="middle" class="S">GRAMMAR — SPATIAL SYNTAX</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">ASL SPATIAL GRAMMAR</text>
+<text x="240" y="68" text-anchor="middle" class="L">ASL exploits 3D signing space for grammar (not possible in spoken language)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Nouns introduced and assigned to specific locations in space</text>
+<text x="240" y="90" text-anchor="middle" class="L">Pointing to those locations = pronouns (no spoken pronouns needed)</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Verbs can be directed between locations = subject-object agreement</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">TOPIC-COMMENT STRUCTURE</text>
+<text x="240" y="128" text-anchor="middle" class="L">ASL word order: Topic-Comment (not SVO/SOV like English)</text>
+<text x="240" y="139" text-anchor="middle" class="L">BOOK [raised brows] WOMAN GIVE = "The book, the woman gave it"</text>
+<text x="240" y="150" text-anchor="middle" class="L">Topic marked by raised eyebrows (NMM); comment follows</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Flexibility: word order serves discourse, not syntactic grammar</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">CLASSIFIERS IN ASL</text>
+<text x="240" y="188" text-anchor="middle" class="L">Classifiers: handshapes that represent categories of referents</text>
+<text x="240" y="199" text-anchor="middle" class="L">Flat hand = vehicle  •  2-finger V = person walking  •  C = cylinder</text>
+<text x="240" y="210" text-anchor="middle" class="L">VEHICLE-CL move-in-arc = "the car drove around the corner"</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">Classifiers: simultaneous morphology (impossible in linear speech)</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">LSM GRAMMAR  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">LSM SPATIAL GRAMMAR</text>
+<text x="240" y="272" text-anchor="middle" class="L">LSM uses same spatial grammar as ASL (universal sign language feature)</text>
+<text x="240" y="283" text-anchor="middle" class="L">Loci (locations in space), verb agreement, topic-comment: all present</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Spatial grammar appears in ALL sign languages studied worldwide</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">LSM UNIQUE FEATURES</text>
+<text x="240" y="321" text-anchor="middle" class="L">LSM: some signs influenced by Mexican Spanish mouthing/lipreading</text>
+<text x="240" y="332" text-anchor="middle" class="L">Initialized signs: handshape = first letter of Spanish word (like ASL uses English)</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Number signs: differ from ASL (Mexican vs US counting conventions)</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="359" text-anchor="middle" class="H">WHAT ALL SIGN LANGUAGES SHARE</text>
+<text x="240" y="370" text-anchor="middle" class="L">All sign languages: spatial grammar, classifiers, NMM, iconicity</text>
+<text x="240" y="381" text-anchor="middle" class="L">All sign languages: topic-comment or OSV-biased word order</text>
+<text x="240" y="392" text-anchor="middle" class="L">All sign languages: simultaneous morphology (encode multiple meanings at once)</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Signed languages: NOT universal; each community has its own language</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 62c ALT  ·  ASL / LSM  ·  GRAMMAR</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

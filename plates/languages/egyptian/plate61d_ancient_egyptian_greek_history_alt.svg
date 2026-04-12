@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">ANCIENT EGYPTIAN</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY — 4000 YEARS OF CIVILIZATION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">ANCIENT EGYPTIAN LANGUAGE TIMELINE</text>
+<text x="240" y="68" text-anchor="middle" class="L">~3200 BCE: earliest hieroglyphic inscriptions (Narmer Palette)</text>
+<text x="240" y="79" text-anchor="middle" class="L">~2600-700 BCE: Old, Middle, Late Egyptian (living language)</text>
+<text x="240" y="90" text-anchor="middle" class="L">~700 BCE-400 CE: Demotic (cursive administrative script)</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">~200-1300 CE: Coptic (last stage; Greek-alphabet Egyptian)</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">~1300 CE: Arabic replaces Coptic as vernacular; language "dies"</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">WORLD'S LONGEST RECORDED LANGUAGE HISTORY</text>
+<text x="240" y="139" text-anchor="middle" class="L">Egyptian: continuous written record ~3200 BCE to ~1300 CE = 4500 years</text>
+<text x="240" y="150" text-anchor="middle" class="L">Longest attested language in human history</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Surpasses even Chinese, Sanskrit, and Greek in written continuity</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">GREAT TEXTS IN EGYPTIAN</text>
+<text x="240" y="188" text-anchor="middle" class="L">Pyramid Texts (~2400 BCE): oldest religious corpus</text>
+<text x="240" y="199" text-anchor="middle" class="L">Book of the Dead (~1550 BCE): guide for the afterlife</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Amarna Letters (~1350 BCE): diplomatic correspondence in Akkadian</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">GREEK HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">GREEK IN EGYPT: 1000 YEARS</text>
+<text x="240" y="261" text-anchor="middle" class="L">332 BCE: Alexander founds Alexandria; Greek becomes Egypt's official language</text>
+<text x="240" y="272" text-anchor="middle" class="L">Ptolemaic dynasty: Greek pharaohs for 275 years; bilingual courts</text>
+<text x="240" y="283" text-anchor="middle" class="L">30 BCE-642 CE: Roman then Byzantine rule; Greek remains administrative</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Total: ~1000 years of Greek as Egypt's official language</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">THE SEPTUAGINT AND CHRISTIAN EGYPT</text>
+<text x="240" y="321" text-anchor="middle" class="L">~250 BCE: 70 Jewish scholars translate Torah into Greek (Septuagint)</text>
+<text x="240" y="332" text-anchor="middle" class="L">Translated in Alexandria; became Christian Old Testament</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Christianity reached Egypt ~42 CE (tradition: St. Mark in Alexandria)</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Coptic Christians: Greek Christian theology in Egyptian language</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">DECIPHERMENT AND MODERN LEGACY</text>
+<text x="240" y="381" text-anchor="middle" class="L">1799: Napoleon's soldiers find Rosetta Stone near Rashid</text>
+<text x="240" y="392" text-anchor="middle" class="L">1822: Champollion deciphers using Greek text as key</text>
+<text x="240" y="403" text-anchor="middle" class="L">Without Greek: 4000 years of Egyptian history would still be silent</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Greek was the key that opened the oldest written language on Earth</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 61d ALT  ·  ANCIENT EGYPTIAN / GREEK  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">AMERICAN SIGN LANGUAGE</text>
+<text x="240" y="40" text-anchor="middle" class="S">NOTATION — WRITING VISUAL LANGUAGES</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">SIGN LANGUAGES: NO UNIVERSAL WRITING SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">Sign languages are full natural languages; not codes for spoken language</text>
+<text x="240" y="79" text-anchor="middle" class="L">No single writing system dominates; video is the primary "text" medium</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Three main notation approaches used in research and education:</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">SIGNWRITING (SUTTON 1974)</text>
+<text x="240" y="117" text-anchor="middle" class="L">SignWriting: visual symbols for handshapes, movement, location, expression</text>
+<text x="240" y="128" text-anchor="middle" class="L">Written top-to-bottom; handshape symbols + movement arrows</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">Used in Deaf education in some countries (Nicaragua, Denmark, Brazil)</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="155" text-anchor="middle" class="H">HAMNOSYS AND STOKOE NOTATION</text>
+<text x="240" y="166" text-anchor="middle" class="L">HamNoSys: Hamburg Notation System; used in linguistic research</text>
+<text x="240" y="177" text-anchor="middle" class="L">Stokoe notation (1960): first formal sign language analysis system</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">William Stokoe: proved ASL is a complete language, not "signed English"</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="204" text-anchor="middle" class="H">GLOSSING: PRACTICAL NOTATION</text>
+<text x="240" y="215" text-anchor="middle" class="L">Glossing: write English word for each sign in caps (IX-1 = "I/me")</text>
+<text x="240" y="226" text-anchor="middle" class="L">WOMAN GIVE BOOK IX-3 = "The woman gives him/her a book"</text>
+<text x="240" y="237" text-anchor="middle" class="Ls">Gloss shows meaning but not form; used by interpreters and researchers</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="252" width="460" height="13" fill="#111"/>
+<text x="240" y="261.5" text-anchor="middle" class="Hb">LSM  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="277" text-anchor="middle" class="H">LENGUA DE SENAS MEXICANA (LSM) NOTATION</text>
+<text x="240" y="288" text-anchor="middle" class="L">LSM: same notation systems as ASL (SignWriting, glossing, HamNoSys)</text>
+<text x="240" y="299" text-anchor="middle" class="L">LSM glosses use Spanish words: MUJER DA LIBRO = "The woman gives a book"</text>
+<text x="240" y="310" text-anchor="middle" class="Ls">LSM has its own distinct signs; not same as ASL (different languages)</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="326" text-anchor="middle" class="H">FINGERSPELLING: MANUAL ALPHABETS</text>
+<text x="240" y="337" text-anchor="middle" class="L">ASL: one-handed manual alphabet (26 handshapes for A-Z)</text>
+<text x="240" y="348" text-anchor="middle" class="L">LSM: uses same one-handed alphabet as ASL (shared with Spanish)</text>
+<text x="240" y="359" text-anchor="middle" class="Ls">BSL: two-handed manual alphabet (different from ASL!)</text>
+<line x1="20" y1="367" x2="460" y2="367" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="375" text-anchor="middle" class="H">NOTATION COMPARISON</text>
+<text x="240" y="386" text-anchor="middle" class="L">Both: no standard written form for everyday use</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: fingerspelling for proper nouns and borrowed words</text>
+<text x="240" y="408" text-anchor="middle" class="L">Both: video recordings now serve as the primary "text" medium</text>
+<text x="240" y="419" text-anchor="middle" class="Ls">Sign languages: oral languages with no writing = normal; not a deficit</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 62a ALT  ·  ASL / LSM  ·  NOTATION</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
