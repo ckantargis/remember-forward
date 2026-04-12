@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">LSF — LANGUE DES SIGNES FRANCAISE</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY — ABBE DE L'EPEE AND DEAF EDUCATION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">ABBE CHARLES DE L'EPEE (1712-1789)</text>
+<text x="240" y="68" text-anchor="middle" class="L">1760: Abbe de l'Epee founds first free public school for the Deaf in Paris</text>
+<text x="240" y="79" text-anchor="middle" class="L">Observed Deaf siblings signing; recognized it as language</text>
+<text x="240" y="90" text-anchor="middle" class="L">Combined natural Old French Sign Language with artificial "methodical signs"</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">His approach: sign language + speech together (not pure oralism)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">LSF SPREADS TO THE WORLD</text>
+<text x="240" y="128" text-anchor="middle" class="L">1817: Laurent Clerc (Deaf French teacher) sails to America with Gallaudet</text>
+<text x="240" y="139" text-anchor="middle" class="L">Clerc brings LSF to Hartford, CT; mixed with Martha's Vineyard SL = ASL</text>
+<text x="240" y="150" text-anchor="middle" class="L">ASL: ~60% LSF-derived signs in core vocabulary</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">LSF model also exported to: Ireland, Russia, Scandinavia, Germany</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">THE ABBÉ SICARD AND AFTER</text>
+<text x="240" y="188" text-anchor="middle" class="L">Roch-Ambroise Sicard succeeded l'Epee; trained Laurent Clerc</text>
+<text x="240" y="199" text-anchor="middle" class="L">Paris school became INJS (Institut National de Jeunes Sourds) — still exists</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">1880 Milan: France voted to suppress LSF in its own schools</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">DGS HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">DGS AND FRENCH INFLUENCE</text>
+<text x="240" y="261" text-anchor="middle" class="L">1778: Samuel Heinicke opens Leipzig school (oral method)</text>
+<text x="240" y="272" text-anchor="middle" class="L">Despite oralism: Deaf communities in Germany signed independently</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">French SL model arrived via Prussian educational exchange in early 1800s</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">NAZI PERIOD AND AFTERMATH</text>
+<text x="240" y="310" text-anchor="middle" class="L">1933-1945: ~17,000 Deaf Germans sterilized; DGS community devastated</text>
+<text x="240" y="321" text-anchor="middle" class="L">Post-WWII: DGS reconstructed slowly; Hamburg becomes center</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">2002: DGS formally recognized  •  Hamburg University: major research center</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="348" text-anchor="middle" class="H">LSF AND DGS TODAY</text>
+<text x="240" y="359" text-anchor="middle" class="L">LSF: 2005 French law guarantees Deaf students right to LSF education</text>
+<text x="240" y="370" text-anchor="middle" class="L">DGS: 2002 recognition; growing academic presence; DGS interpretation corps</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Both: recovering communities after ~100 years of oralist suppression</text>
+<text x="240" y="392" text-anchor="middle" class="L">LSF: founded modern Deaf education worldwide from Paris in 1760</text>
+<text x="240" y="403" text-anchor="middle" class="L">The Abbe's gift: one teacher who listened, changed how the world hears</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 64d ALT  ·  LSF / DGS  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

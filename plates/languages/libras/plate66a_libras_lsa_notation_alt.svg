@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">LIBRAS</text>
+<text x="240" y="40" text-anchor="middle" class="S">NOTATION — SOUTH AMERICAN SIGN LANGUAGES</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">LIBRAS: LINGUA BRASILEIRA DE SINAIS</text>
+<text x="240" y="68" text-anchor="middle" class="L">LIBRAS: sign language of Brazil's Deaf community; ~3M users</text>
+<text x="240" y="79" text-anchor="middle" class="L">Among the 10 largest sign languages in the world by user count</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Origins: 1857, Rio de Janeiro, via French Sign Language (LSF)</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">LIBRAS MANUAL ALPHABET</text>
+<text x="240" y="117" text-anchor="middle" class="L">LIBRAS: one-handed manual alphabet (adapted from LSF via Portugal)</text>
+<text x="240" y="128" text-anchor="middle" class="L">26 handshapes for Portuguese alphabet letters; includes nasal vowels</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">Accented letters (a with tilde, o with tilde): specific handshapes</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="155" text-anchor="middle" class="H">SUTTON SIGNWRITING IN BRAZIL</text>
+<text x="240" y="166" text-anchor="middle" class="L">Brazil: one of countries with most active SignWriting use</text>
+<text x="240" y="177" text-anchor="middle" class="L">LIBRAS written with SignWriting in Deaf schools and some publications</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">Sign-Wiki: online LIBRAS dictionary with video + SignWriting</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="204" text-anchor="middle" class="H">LIBRAS RECOGNITION</text>
+<text x="240" y="215" text-anchor="middle" class="L">2002: Brazilian law 10.436 recognizes LIBRAS as official language</text>
+<text x="240" y="226" text-anchor="middle" class="Ls">2005: Decree 5626 mandates LIBRAS interpreters in federal services</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="241" width="460" height="13" fill="#111"/>
+<text x="240" y="250.5" text-anchor="middle" class="Hb">LSA  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="266" text-anchor="middle" class="H">LSA: LENGUA DE SENAS ARGENTINA</text>
+<text x="240" y="277" text-anchor="middle" class="L">LSA: ~90,000 users in Argentina; Buenos Aires-centered</text>
+<text x="240" y="288" text-anchor="middle" class="L">Founded: 1857, Buenos Aires (same year as LIBRAS in Rio!)</text>
+<text x="240" y="299" text-anchor="middle" class="Ls">Spanish and French missionaries brought sign methods to Argentina</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="315" text-anchor="middle" class="H">LSA MANUAL ALPHABET</text>
+<text x="240" y="326" text-anchor="middle" class="L">LSA: one-handed manual alphabet for Spanish letters</text>
+<text x="240" y="337" text-anchor="middle" class="L">Includes ene (ñ): separate handshape for Spanish nasal palatal</text>
+<text x="240" y="348" text-anchor="middle" class="Ls">Based on Spanish fingerspelling tradition from LSE (Spanish SL)</text>
+<line x1="20" y1="356" x2="460" y2="356" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="364" text-anchor="middle" class="H">NOTATION COMPARISON</text>
+<text x="240" y="375" text-anchor="middle" class="L">Both: one-handed manual alphabets (shared LSF influence)</text>
+<text x="240" y="386" text-anchor="middle" class="L">LIBRAS: Portuguese alphabet  •  LSA: Spanish alphabet (similar base)</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: no universal written standard; video primary</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">LIBRAS: SignWriting use growing  •  LSA: glossing predominates in research</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 66a ALT  ·  LIBRAS / LSA  ·  NOTATION</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

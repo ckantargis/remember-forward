@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">CSL — CHINESE SIGN LANGUAGE</text>
+<text x="240" y="40" text-anchor="middle" class="S">NOTATION — EAST ASIAN SIGN LANGUAGES</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">CSL: CHINESE SIGN LANGUAGE</text>
+<text x="240" y="68" text-anchor="middle" class="L">CSL: most widely used sign language in the world by population (~20M users)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Developed primarily in Shanghai (1887: first school for Deaf in China)</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Two major varieties: Shanghai SL and Beijing SL (partially unified post-1949)</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">CSL MANUAL SYSTEMS</text>
+<text x="240" y="117" text-anchor="middle" class="L">Chinese finger-spelling: handshapes for Mandarin pinyin sounds (zhuyin-based)</text>
+<text x="240" y="128" text-anchor="middle" class="L">CSL also uses some signs derived from written Chinese character shapes</text>
+<text x="240" y="139" text-anchor="middle" class="L">Iconic signs: many CSL signs visually trace Chinese characters (unique feature)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">No established standard writing system for CSL; video-primary</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">CSL RECOGNITION</text>
+<text x="240" y="177" text-anchor="middle" class="L">CSL: recognized in China's Disability Act; taught in Deaf schools</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">CODA (China Organization of Deaf Affairs): promotes CSL standardization</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="204" text-anchor="middle" class="H">TAIWAN SIGN LANGUAGE (TSL) NOTE</text>
+<text x="240" y="215" text-anchor="middle" class="L">TSL: used in Taiwan; different from CSL (separate development under Japan)</text>
+<text x="240" y="226" text-anchor="middle" class="Ls">TSL is closer to JSL historically; CSL is mainland Chinese</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="241" width="460" height="13" fill="#111"/>
+<text x="240" y="250.5" text-anchor="middle" class="Hb">KSL  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="266" text-anchor="middle" class="H">KOREAN SIGN LANGUAGE (KSL)</text>
+<text x="240" y="277" text-anchor="middle" class="L">KSL: ~300,000 users in South Korea; Seoul-centered</text>
+<text x="240" y="288" text-anchor="middle" class="L">First school: Pyongyang (1909, Japanese colonial period); JSL influence</text>
+<text x="240" y="299" text-anchor="middle" class="Ls">KSL developed from JSL (Japanese SL) base during colonial period (1910-1945)</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="315" text-anchor="middle" class="H">KSL FINGERSPELLING</text>
+<text x="240" y="326" text-anchor="middle" class="L">KSL: one-handed manual alphabet for hangul syllables</text>
+<text x="240" y="337" text-anchor="middle" class="L">Handshapes represent Korean syllable blocks (not individual letters)</text>
+<text x="240" y="348" text-anchor="middle" class="Ls">Very different from Western fingerspelling systems</text>
+<line x1="20" y1="356" x2="460" y2="356" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="364" text-anchor="middle" class="H">NOTATION COMPARISON</text>
+<text x="240" y="375" text-anchor="middle" class="L">CSL: fingerspelling based on pinyin romanization</text>
+<text x="240" y="386" text-anchor="middle" class="L">KSL: fingerspelling based on hangul syllable-block system</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: no standard written form; video is primary medium</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">Both: character-based scripts inform sign language notation approaches</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 65a ALT  ·  CSL / KSL  ·  NOTATION</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

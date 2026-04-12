@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">LIBRAS</text>
+<text x="240" y="40" text-anchor="middle" class="S">CHEROLOGY — SOUTH AMERICAN SIGN PARAMETERS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">LIBRAS HANDSHAPES</text>
+<text x="240" y="68" text-anchor="middle" class="L">LIBRAS: broad range of handshapes; some shared with LSF/ASL (LSF ancestor)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Iconic handshapes common: many LIBRAS signs visually motivated</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Some handshapes initialized from Portuguese letters</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">LIBRAS LOCATION AND BODY SPACE</text>
+<text x="240" y="117" text-anchor="middle" class="L">LIBRAS: rich use of body space; many signs on torso/arms</text>
+<text x="240" y="128" text-anchor="middle" class="L">Neutral space: in front of signer; body contact: specific meaning</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">LIBRAS NMM: facial expression + mouth patterns in Portuguese</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="155" text-anchor="middle" class="H">LIBRAS REGIONAL VARIATION</text>
+<text x="240" y="166" text-anchor="middle" class="L">Brazil is vast: significant LIBRAS regional variation (North vs South)</text>
+<text x="240" y="177" text-anchor="middle" class="L">Rio de Janeiro vs Sao Paulo: different signs for common words</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">INES (National Institute of Deaf Education): works toward standardization</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="203" width="460" height="13" fill="#111"/>
+<text x="240" y="212.5" text-anchor="middle" class="Hb">LSA CHEROLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="228" text-anchor="middle" class="H">LSA PARAMETERS</text>
+<text x="240" y="239" text-anchor="middle" class="L">LSA: same five parameters as all sign languages</text>
+<text x="240" y="250" text-anchor="middle" class="L">LSA handshapes: some overlap with LIBRAS (shared LSF heritage)</text>
+<text x="240" y="261" text-anchor="middle" class="Ls">But most content signs: different from LIBRAS (distinct languages)</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="277" text-anchor="middle" class="H">LSA NMM AND MOUTH PATTERNS</text>
+<text x="240" y="288" text-anchor="middle" class="L">LSA: Spanish mouthing common with signs</text>
+<text x="240" y="299" text-anchor="middle" class="L">Eyebrow grammar: same as all sign languages (yes/no vs wh-questions)</text>
+<text x="240" y="310" text-anchor="middle" class="Ls">Gaze: important in LSA spatial grammar</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="326" text-anchor="middle" class="H">SHARED SOUTH AMERICAN FEATURES</text>
+<text x="240" y="337" text-anchor="middle" class="L">Both LIBRAS and LSA: five-parameter sign languages (universal)</text>
+<text x="240" y="348" text-anchor="middle" class="L">Both: signed iconicity common; many visually motivated signs</text>
+<text x="240" y="359" text-anchor="middle" class="L">Both: mouthing from national spoken language (Portuguese / Spanish)</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">Despite geographic proximity: LIBRAS and LSA are distinct, not mutually intelligible</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 66b ALT  ·  LIBRAS / LSA  ·  CHEROLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
