@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">SINHALA</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">SINHALA CONSONANT SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">Sinhala has prenasalized stops — unique in South Asia:</text>
+<text x="240" y="79" text-anchor="middle" class="L">ᵐb /ᵐb/ · ᵐd /ᵐd/ · ᵐe /ᵐe/ (prenasalized t, d, g)</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Distinct from nasal + consonant sequences</text>
+<text x="240" y="101" text-anchor="middle" class="L">Retroflex consonants: ṭ ḍ ṇ ɼ (from Dravidian substrate)</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">Aspirated stops: kh gh (Sanskrit loans preserve aspiration)</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">SINHALA VOWEL SYSTEM</text>
+<text x="240" y="139" text-anchor="middle" class="L">14 vowel phonemes including short/long pairs:</text>
+<text x="240" y="150" text-anchor="middle" class="L">a /a/ • ā /a:/ • æ /æ/ • i /i/ • ī /i:/ • u /u/ • ū /u:/</text>
+<text x="240" y="161" text-anchor="middle" class="L">e /e/ • ē /e:/ • o /o/ • ō /o:/ • au /au/</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">/æ/ and /æ:/ are unique to Sinhala in the region</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="188" text-anchor="middle" class="H">DIGLOSSIA IN SINHALA</text>
+<text x="240" y="199" text-anchor="middle" class="L">Written (literary) Sinhala differs significantly from spoken:</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Written: gama → Spoken: game (grammatical suffix drops)</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">Case endings: written -ta (dative) → spoken -(a)ta</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">MALAYALAM PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">MALAYALAM CONSONANTS</text>
+<text x="240" y="272" text-anchor="middle" class="L">Full Dravidian retroflex set: ʈ ɖ ḷ ṃ ɼ</text>
+<text x="240" y="283" text-anchor="middle" class="L">Dental/retroflex distinction: t/ʈ  d/ɖ  n/ṇ (both series)</text>
+<text x="240" y="294" text-anchor="middle" class="L">Lateral /l/ and retroflex lateral /ḷ/ both phonemic</text>
+<text x="240" y="305" text-anchor="middle" class="L">Trill /r/ and approximant /ɼ/ both phonemic (rare distinction)</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">MALAYALAM VOWELS</text>
+<text x="240" y="332" text-anchor="middle" class="L">16 vowels: a ā i ī u ū ṛ ṝ e ē ai o ō au am ah</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Syllabic /ṛ/ (vocalic r) from Sanskrit loans</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">No prenasalized stops (unlike Sinhala)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">PHONOLOGICAL CONNECTIONS</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Sinhala retroflexes from Dravidian substrate contact with Tamil/Malayalam</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Sri Lanka: Tamil (Dravidian) speakers long preceded Sinhala</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Sinhala borrowed retroflex phonemes from Tamil/Malayalam</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Both: 5+ point of articulation consonant systems</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Both: voiced/voiceless aspiration contrasts (via Sanskrit)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 44b ALT  ·  SINHALA / MALAYALAM  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">SINHALA</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; INDIAN OCEAN CONNECTIONS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">SINHALA ORIGINS</text>
+<text x="240" y="68" text-anchor="middle" class="L">~500 BCE: Prince Vijaya from North India arrives in Lanka</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">Mahavamsa: Sanskrit chronicle; Sinhala identity tied to Buddhism</text>
+<text x="240" y="90" text-anchor="middle" class="L">247 BCE: Buddhism arrives in Lanka (Mahinda, son of Ashoka)</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Sinhala became the language of Theravada Buddhist scholarship</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">Anuradhapura (377 BCE-1017 CE): ancient Sinhala capital</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">SINHALA LITERATURE</text>
+<text x="240" y="139" text-anchor="middle" class="L">~2nd c. BCE: earliest Sinhala inscriptions at rock caves</text>
+<text x="240" y="150" text-anchor="middle" class="L">Sigiri graffiti (5th-8th c. CE): earliest Sinhala poetry</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Mahavamsa (~5th c. CE): Buddhist historical epic</text>
+<text x="240" y="172" text-anchor="middle" class="L">~10M speakers; official language of Sri Lanka</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="187" width="460" height="13" fill="#111"/>
+<text x="240" y="196.5" text-anchor="middle" class="Hb">MALAYALAM HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="212" text-anchor="middle" class="H">KERALA — SPICE COAST</text>
+<text x="240" y="223" text-anchor="middle" class="Ls">Kerala: world’s most sought pepper, cardamom, ginger, nutmeg</text>
+<text x="240" y="234" text-anchor="middle" class="Ls">Arab, Chinese, Greek, Roman traders all visited Malayalam coast</text>
+<text x="240" y="245" text-anchor="middle" class="L">~830 CE: Malayalam separates from Tamil as distinct language</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Cheraman Perumals: last kings united Kerala before fragmentation</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="272" text-anchor="middle" class="H">MALAYALAM LITERARY TRADITION</text>
+<text x="240" y="283" text-anchor="middle" class="L">Ramacharitam (12th c.): first major Malayalam literary text</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Manipravalam: mixed Sanskrit-Malayalam literary style</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Ezhuthachan (16th c.): father of modern Malayalam literature</text>
+<text x="240" y="316" text-anchor="middle" class="Ls">Thunchaththu Ramanujan Ezhuthachan: adapted Ramayana in Malayalam</text>
+<line x1="20" y1="324" x2="460" y2="324" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="332" text-anchor="middle" class="H">KERALA TODAY</text>
+<text x="240" y="343" text-anchor="middle" class="L">~38M speakers; official language of Kerala state</text>
+<text x="240" y="354" text-anchor="middle" class="L">Kerala: 100% literacy rate — highest in India</text>
+<text x="240" y="365" text-anchor="middle" class="Ls">Malayalam diaspora: Gulf countries, USA, UK</text>
+<line x1="20" y1="373" x2="460" y2="373" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="381" text-anchor="middle" class="H">THE PALK STRAIT CONNECTION</text>
+<text x="240" y="392" text-anchor="middle" class="L">Sri Lanka and Kerala separated by ~240mi of ocean</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Trade: cinnamon (Lanka) − pepper (Kerala) — ancient exchange</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Sinhala absorbed Dravidian phonology from Tamil/Malayalam contact</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Malayalam loanwords in Sinhala: hundreds of common terms</text>
+<text x="240" y="436" text-anchor="middle" class="Ls">Buddhist monks: Malayalam Kerala ↔ Sri Lanka exchange routes</text>
+<text x="240" y="447" text-anchor="middle" class="L">Two island/coastal peoples shaped by the Indian Ocean</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 44d ALT  ·  SINHALA / MALAYALAM  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
