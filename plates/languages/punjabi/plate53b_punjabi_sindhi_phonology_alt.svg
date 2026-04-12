@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">PUNJABI</text>
+<text x="240" y="40" text-anchor="middle" class="S">TONAL PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">THREE TONES OF PUNJABI</text>
+<text x="240" y="68" text-anchor="middle" class="L">Punjabi is the only tonal Indo-Aryan language</text>
+<text x="240" y="78" text-anchor="middle" class="Ls">Tones arise from historical voiced aspirates losing aspiration:</text>
+<text x="240" y="89" text-anchor="middle" class="L">Level tone (no mark):  kāl · ਕਾਲ  "time/black"</text>
+<text x="240" y="100" text-anchor="middle" class="L">Rising tone (́):  kál · ਕੱਲ  "tomorrow/yesterday"</text>
+<text x="240" y="111" text-anchor="middle" class="L">Falling tone (̀):  kàl · ਕੲਲ  "cheek"</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">CONSONANT INVENTORY</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">Three-way contrast: voiceless / voiced / aspirated</text>
+<text x="240" y="149" text-anchor="middle" class="L">Stops: p b bh  /  t d dh  /  ʈ ɖ ɖh  /  k g gh</text>
+<text x="240" y="160" text-anchor="middle" class="L">Retroflex set: ʈ ɖ ɳ ɽ (tongue curled back to palate)</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Approximants: v ʋ (labiodental) — rare cross-linguistically</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="186" text-anchor="middle" class="H">VOWEL SYSTEM</text>
+<text x="240" y="197" text-anchor="middle" class="L">Ten vowels: a ā i ī u ū e ɛ o ɔ</text>
+<text x="240" y="207" text-anchor="middle" class="L">Nasalization: ā̃ ī̃ ū̃ (like French nasals)</text>
+<text x="240" y="218" text-anchor="middle" class="Ls">No diphthongs — all pure monophthongs</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="234" text-anchor="middle" class="H">TONE MINIMAL PAIRS</text>
+<text x="240" y="245" text-anchor="middle" class="Ls">kor (level) "leprosy"  •  kór (rising) "does"  •  kòr (falling) "work"</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">ghar (level) "horse"  •  ghár (rising) "home"</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="271" width="460" height="13" fill="#111"/>
+<text x="240" y="280.5" text-anchor="middle" class="Hb">SINDHI PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="296" text-anchor="middle" class="H">FOUR IMPLOSIVE CONSONANTS</text>
+<text x="240" y="307" text-anchor="middle" class="L">Sindhi has four implosive (ingressive) consonants:</text>
+<text x="240" y="318" text-anchor="middle" class="L">/ɓ/ bilabial  •  /ɗ/ dental  •  /ʄ/ palatal  •  /ɠ/ velar</text>
+<text x="240" y="329" text-anchor="middle" class="Ls">Extremely rare: only Sindhi, Saraiki, and a few African languages</text>
+<text x="240" y="340" text-anchor="middle" class="Ls">Produced by pulling larynx down while making closure</text>
+<line x1="20" y1="348" x2="460" y2="348" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="356" text-anchor="middle" class="H">SINDHI TONES &amp; VOWELS</text>
+<text x="240" y="367" text-anchor="middle" class="L">No lexical tone (unlike Punjabi)</text>
+<text x="240" y="378" text-anchor="middle" class="L">Ten oral vowels + nasalized counterparts</text>
+<text x="240" y="389" text-anchor="middle" class="Ls">Preserves Sanskrit /v/ as /v/ (Hindi turned to /b/)</text>
+<text x="240" y="400" text-anchor="middle" class="L">Retroflex stops: ʈ ɖ ɳ (shared with Punjabi)</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="416" text-anchor="middle" class="H">PHONOLOGICAL BRIDGE</text>
+<text x="240" y="427" text-anchor="middle" class="Ls">Both languages share retroflex consonant set from Sanskrit</text>
+<text x="240" y="438" text-anchor="middle" class="Ls">Punjabi tone  ≠  Sindhi implosive — complementary features</text>
+<text x="240" y="449" text-anchor="middle" class="Ls">Shared aspirate contrasts: p/ph  t/th  k/kh  b/bh  d/dh</text>
+<text x="240" y="460" text-anchor="middle" class="L">Sindhi: "pitu" (father)  /  Punjabi: "pita" (ਪਿਤਾ)</text>
+<text x="240" y="471" text-anchor="middle" class="Ls">Sanskrit pitri → both descended via Prakrit prakrits</text>
+<line x1="20" y1="479" x2="460" y2="479" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="487" text-anchor="middle" class="H">REGIONAL SOUND DIFFERENCES</text>
+<text x="240" y="498" text-anchor="middle" class="Ls">Sindhi preserves ancient Sanskrit sounds better than Hindi</text>
+<text x="240" y="509" text-anchor="middle" class="Ls">Punjabi: voiced aspirates shifted to tone (unique innovation)</text>
+<text x="240" y="520" text-anchor="middle" class="Ls">Both languages spoken in adjacent Indus basin territory</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 53b ALT  ·  PUNJABI / SINDHI  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

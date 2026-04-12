@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">PUNJABI</text>
+<text x="240" y="40" text-anchor="middle" class="S">GURMUKHI &amp; SHAHMUKHI SCRIPTS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">GURMUKHI SCRIPT (INDIA)</text>
+<text x="240" y="68" text-anchor="middle" class="L">Gurmukhi (ਗੁਰਮੁਖੀ) — "from the mouth of the Guru"</text>
+<text x="240" y="78" text-anchor="middle" class="Ls">Created by Guru Angad Dev Ji, 2nd Sikh Guru (1539 CE)</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Abugida: 35 consonants, inherent /a/ vowel (muted with virama)</text>
+<text x="240" y="99" text-anchor="middle" class="H">Consonants:</text>
+<text x="240" y="110" text-anchor="middle" class="L">ਸ /s/   ਹ /h/   ਕ /k/   ਖ /kh/   ਗ /g/   ਘ /gh/   ਙ /ŋ/</text>
+<text x="240" y="122" text-anchor="middle" class="L">ਚ /ch/  ਛ /chh/  ਜ /j/   ਝ /jh/   ਞ /ñ/</text>
+<text x="240" y="134" text-anchor="middle" class="L">ਤ /t/   ਥ /th/   ਦ /d/   ਧ /dh/   ਨ /n/</text>
+<text x="240" y="146" text-anchor="middle" class="L">ਪ /p/   ਫ /ph/   ਬ /b/   ਭ /bh/   ਮ /m/</text>
+<text x="240" y="157" text-anchor="middle" class="Ls">Vowel diacritics attach above, below or beside consonants</text>
+<text x="240" y="168" text-anchor="middle" class="L">ਇ i   ਈ ī   ਉ u   ਊ ū   ਏ e   ਐ ai   ਓ o   ਔ au</text>
+<text x="240" y="178" text-anchor="middle" class="Ls">Tonal markers: ੱ udaat (rising) ੰ tippi (nasal)</text>
+<line x1="20" y1="185" x2="460" y2="185" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="193" text-anchor="middle" class="H">PUNJABI WORD IN GURMUKHI</text>
+<text x="240" y="206" text-anchor="middle" class="Fb">ਸਤਿ ਸ੍ਰੀ ਵਾਹਿਗੁਰੂ</text>
+<text x="240" y="217" text-anchor="middle" class="Ls">"Sat Sri Akal" — timeless truth (Sikh greeting)</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="233" text-anchor="middle" class="H">SHAHMUKHI SCRIPT (PAKISTAN)</text>
+<text x="240" y="244" text-anchor="middle" class="L">Shahmukhi (شاہمکھی) — "from the mouth of the King"</text>
+<text x="240" y="254" text-anchor="middle" class="Ls">Perso-Arabic script, written right-to-left, 38+ letters</text>
+<text x="240" y="265" text-anchor="middle" class="Ls">Same language, two completely different writing systems</text>
+<text x="240" y="275" text-anchor="middle" class="H">Additional letters for Punjabi sounds:</text>
+<text x="240" y="286" text-anchor="middle" class="L">ں · ہ · ھ · پ · ٹ · ڹ  (nasal and retroflex markers)</text>
+<line x1="20" y1="295" x2="460" y2="295" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="302" width="460" height="13" fill="#111"/>
+<text x="240" y="311.5" text-anchor="middle" class="Hb">SINDHI  ·  سنڌي  ·  सिन्धी  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="327" text-anchor="middle" class="H">SINDHI SCRIPT — 52 LETTERS</text>
+<text x="240" y="338" text-anchor="middle" class="L">Largest Perso-Arabic alphabet of any language (52 letters)</text>
+<text x="240" y="348" text-anchor="middle" class="Ls">Added letters represent sounds absent in Arabic/Urdu:</text>
+<text x="240" y="359" text-anchor="middle" class="L">ں ج ء ڳ ڭ ڱ ڻ (retroflex + implosive markers)</text>
+<text x="240" y="370" text-anchor="middle" class="H">Four implosive consonants (unique in Indo-Aryan):</text>
+<text x="240" y="381" text-anchor="middle" class="L">بٗ /ɓ/   دٗ /ɗ/   جٗ /ʄ/   گٗ /ɠ/</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Implosives: air pulled inward during closure</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Devanagari used in India (Sindhi community post-partition)</text>
+<line x1="20" y1="411" x2="460" y2="411" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="419" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="430" text-anchor="middle" class="L">Punjabi (Shahmukhi):  پنجابی  (right-to-left)</text>
+<text x="240" y="441" text-anchor="middle" class="L">Punjabi (Gurmukhi):  ਪੰਜਾਬੀ  (left-to-right)</text>
+<text x="240" y="452" text-anchor="middle" class="L">Sindhi: سنڌي (Arabic-based, right-to-left)</text>
+<text x="240" y="463" text-anchor="middle" class="Ls">All three scripts coexist in the Punjab-Sindh corridor</text>
+<line x1="20" y1="471" x2="460" y2="471" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="479" text-anchor="middle" class="H">SHARED INDO-ARYAN HERITAGE</text>
+<text x="240" y="490" text-anchor="middle" class="Ls">Both descended from Sanskrit via Prakrits and Apabhramsas</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">Punjab (پنجاب): "five rivers" — Indus + five tributaries</text>
+<text x="240" y="510" text-anchor="middle" class="Ls">Sindh (سندھ): ancient name of the Indus River itself</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 53a ALT  ·  PUNJABI / SINDHI  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

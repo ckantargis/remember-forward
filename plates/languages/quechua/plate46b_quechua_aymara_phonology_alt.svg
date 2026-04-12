@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">QUECHUA</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">QUECHUA CONSONANT SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">Three-way contrast at 6 places of articulation:</text>
+<text x="240" y="79" text-anchor="middle" class="L">Bilabial:  p  ph  pʼ</text>
+<text x="240" y="90" text-anchor="middle" class="L">Alveolar:  t  th  tʼ   ch  chh  chʼ</text>
+<text x="240" y="101" text-anchor="middle" class="L">Palatal:  ll /ʎ/ lateral   y /j/</text>
+<text x="240" y="112" text-anchor="middle" class="L">Velar:  k  kh  kʼ</text>
+<text x="240" y="123" text-anchor="middle" class="L">Uvular:  q  qh  qʼ  (back-of-throat, no European equivalent)</text>
+<text x="240" y="134" text-anchor="middle" class="Ls">Ejectives: air plosion with closed glottis — explosive release</text>
+<line x1="20" y1="142" x2="460" y2="142" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="150" text-anchor="middle" class="H">THREE VOWELS ONLY</text>
+<text x="240" y="161" text-anchor="middle" class="L">a  i  u  (no e or o in classical Quechua)</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">Near uvular /q/: i and u lower to [e] and [o]</text>
+<text x="240" y="182" text-anchor="middle" class="L">Vowel length contrast: mama "mother" vs. maama "aunt"</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="198" text-anchor="middle" class="H">STRESS &amp; SYLLABLE STRUCTURE</text>
+<text x="240" y="209" text-anchor="middle" class="L">Fixed penultimate stress: pachámama, állin</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">No consonant clusters at syllable onset</text>
+<text x="240" y="229" text-anchor="middle" class="Ls">Suffix-heavy: words can be very long (see grammar plate)</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="244" width="460" height="13" fill="#111"/>
+<text x="240" y="253.5" text-anchor="middle" class="Hb">AYMARA PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="269" text-anchor="middle" class="H">AYMARA CONSONANT SYSTEM</text>
+<text x="240" y="280" text-anchor="middle" class="L">Same three-way contrast as Quechua:</text>
+<text x="240" y="291" text-anchor="middle" class="L">plain / aspirate / ejective at 6 places of articulation</text>
+<text x="240" y="302" text-anchor="middle" class="L">Additional: retroflex series ʈ ʈh ʈʼ (Quechua lacks this)</text>
+<text x="240" y="313" text-anchor="middle" class="Ls">Uvular /q/ present (same as Quechua)</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="329" text-anchor="middle" class="H">AYMARA VOWELS</text>
+<text x="240" y="340" text-anchor="middle" class="L">Three vowels: a i u (same inventory as Quechua)</text>
+<text x="240" y="351" text-anchor="middle" class="Ls">Stressed and unstressed vowels may differ in quality</text>
+<text x="240" y="362" text-anchor="middle" class="Ls">Vowel harmony: suffix vowels harmonize with root</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="378" text-anchor="middle" class="H">PARALLEL PHONOLOGY — CONVERGENCE</text>
+<text x="240" y="389" text-anchor="middle" class="L">Both languages: 3 vowels  •  uvular /q/  •  ejectives</text>
+<text x="240" y="400" text-anchor="middle" class="L">Both languages: aspirate stops  •  SOV word order</text>
+<text x="240" y="411" text-anchor="middle" class="Ls">Linguists debate: shared ancestry vs. areal diffusion?</text>
+<text x="240" y="422" text-anchor="middle" class="Ls">Current consensus: separate families, convergent contact</text>
+<line x1="20" y1="430" x2="460" y2="430" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="438" text-anchor="middle" class="H">MINIMAL PAIRS ACROSS LANGUAGES</text>
+<text x="240" y="449" text-anchor="middle" class="L">Quechua: wasi "house"  •  Aymara: uta "house"</text>
+<text x="240" y="460" text-anchor="middle" class="L">Quechua: punchaw "day"  •  Aymara: uru "day"</text>
+<text x="240" y="471" text-anchor="middle" class="Ls">Core vocabulary DIFFERENT despite shared phonology</text>
+<text x="240" y="482" text-anchor="middle" class="Ls">Confirms: contact area, not shared genetic ancestry</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 46b ALT  ·  QUECHUA / AYMARA  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

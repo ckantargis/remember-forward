@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">QUECHUA</text>
+<text x="240" y="40" text-anchor="middle" class="S">WRITING SYSTEMS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">PRE-CONTACT: THE QUIPU</text>
+<text x="240" y="68" text-anchor="middle" class="L">No alphabetic writing before Spanish contact</text>
+<text x="240" y="78" text-anchor="middle" class="L">Quipu (khipu): knotted string recording system</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Knots encoded numbers, records, narratives</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Positional decimal system: knot position = place value</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Khipu kamayuq: specialized knot-reader officials</text>
+<line x1="20" y1="118" x2="460" y2="118" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="126" text-anchor="middle" class="H">COLONIAL LATIN ALPHABET</text>
+<text x="240" y="137" text-anchor="middle" class="L">Spanish missionaries transcribed Quechua in 1560 CE</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Fray Domingo de Santo Thomas: first Quechua grammar (1560)</text>
+<text x="240" y="159" text-anchor="middle" class="L">Modern alphabet: 3 vowels a i u (no e, o in Classical)</text>
+<text x="240" y="170" text-anchor="middle" class="H">Consonants with three-way stop contrast:</text>
+<text x="240" y="181" text-anchor="middle" class="L">plain  •  aspirate  •  ejective (unique feature)</text>
+<text x="240" y="192" text-anchor="middle" class="L">p  ph  p'  /  t  th  t'  /  k  kh  k'  /  q  qh  q'</text>
+<text x="240" y="203" text-anchor="middle" class="Ls">Uvular /q/ absent from most other Amerindian families</text>
+<line x1="20" y1="211" x2="460" y2="211" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="219" text-anchor="middle" class="H">QUECHUA SAMPLE TEXT</text>
+<text x="240" y="231" text-anchor="middle" class="L">Ima sutiki?  "What is your name?"</text>
+<text x="240" y="242" text-anchor="middle" class="L">Nuqa-m kay llaqta-manta-m.  "I am from this town."</text>
+<text x="240" y="253" text-anchor="middle" class="Ls">Pachamama  "Mother Earth" (pacha=earth/time, mama=mother)</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="268" width="460" height="13" fill="#111"/>
+<text x="240" y="277.5" text-anchor="middle" class="Hb">AYMARA  ·  AYMAR ARU  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="293" text-anchor="middle" class="H">AYMARA ALPHABET</text>
+<text x="240" y="304" text-anchor="middle" class="L">Latin alphabet since colonial era, standardized 1984</text>
+<text x="240" y="315" text-anchor="middle" class="H">Aymara also has 3-way stop contrast:</text>
+<text x="240" y="326" text-anchor="middle" class="L">p  ph  p'  /  t  th  t'  /  k  kh  k'  /  q  qh  q'</text>
+<text x="240" y="337" text-anchor="middle" class="L">Ejective consonants: t' ch' k' q' (glottalized releases)</text>
+<text x="240" y="348" text-anchor="middle" class="L">Three-vowel system: a i u (exactly like Classical Quechua!)</text>
+<line x1="20" y1="356" x2="460" y2="356" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="364" text-anchor="middle" class="H">PARALLEL STRUCTURE</text>
+<text x="240" y="375" text-anchor="middle" class="Ls">Both Quechua and Aymara share the same consonant framework</text>
+<text x="240" y="386" text-anchor="middle" class="Ls">Long contact may explain parallel phonological evolution</text>
+<text x="240" y="397" text-anchor="middle" class="L">Quechua: ~8-10M speakers  •  Aymara: ~2M speakers</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">Aymara: Bolivia (official), Peru, Chile</text>
+<text x="240" y="419" text-anchor="middle" class="Ls">Quechua: Peru (official), Bolivia, Ecuador, Colombia, Argentina</text>
+<line x1="20" y1="427" x2="460" y2="427" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="435" text-anchor="middle" class="H">ANDEAN LANGUAGE CONTACT AREA</text>
+<text x="240" y="446" text-anchor="middle" class="L">Two families, NOT related — convergence through contact</text>
+<text x="240" y="457" text-anchor="middle" class="Ls">Sprachbund: shared features through geographic proximity</text>
+<text x="240" y="468" text-anchor="middle" class="Ls">Lake Titicaca basin: heartland of both language communities</text>
+<text x="240" y="479" text-anchor="middle" class="Ls">Tiwanaku (500-1000 CE): precursor civilization spoke Aymara</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 46a ALT  ·  QUECHUA / AYMARA  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
