@@ -22,6 +22,11 @@ All container specifications are in the /containers directory.
 CC BY-SA 4.0 — copy freely, share freely, improve freely.
 No permission needed.
 
+## Archive & Citation
+
+- **Internet Archive:** https://archive.org/details/remember-forward-patient-message-plates
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.19545922
+
 ## Website
 
 rememberforward.org
