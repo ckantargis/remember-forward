@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TURKISH</text>
+<text x="240" y="40" text-anchor="middle" class="S">LATIN SCRIPT</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">OTTOMAN TO MODERN TURKISH</text>
+<text x="240" y="68" text-anchor="middle" class="L">Ottoman Turkish: Persian-Arabic script for 600+ years</text>
+<text x="240" y="79" text-anchor="middle" class="L">1928: Atatürk replaces Arabic script with Latin alphabet</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Motivation: phonemic transparency + break from Ottoman past</text>
+<text x="240" y="101" text-anchor="middle" class="L">Turkish Latin alphabet: 29 letters (6 modified from basic Latin)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">TURKISH SPECIAL LETTERS</text>
+<text x="240" y="128" text-anchor="middle" class="L">ç = /tʃ/ (ch in "church")</text>
+<text x="240" y="139" text-anchor="middle" class="L">ğ = "soft g" — lengthens preceding vowel or is silent</text>
+<text x="240" y="150" text-anchor="middle" class="L">ı = /ɨ/ (close back unrounded — not in English)</text>
+<text x="240" y="161" text-anchor="middle" class="L">ö = /ø/ (German ö, French eu)</text>
+<text x="240" y="172" text-anchor="middle" class="L">ş = /ʃ/ (sh in "shoe")</text>
+<text x="240" y="183" text-anchor="middle" class="L">ü = /y/ (German ü, French u)</text>
+<line x1="20" y1="191" x2="460" y2="191" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="199" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="211" text-anchor="middle" class="L">Merhaba!  "Hello!"</text>
+<text x="240" y="222" text-anchor="middle" class="L">Türkiye  "Turkey" (the country)</text>
+<text x="240" y="233" text-anchor="middle" class="L">Güzel dil Türkçe.  "Turkish is a beautiful language."</text>
+<line x1="20" y1="241" x2="460" y2="241" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="248" width="460" height="13" fill="#111"/>
+<text x="240" y="257.5" text-anchor="middle" class="Hb">KURDISH  ·  KURDÎ  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="273" text-anchor="middle" class="H">TWO SCRIPTS FOR KURDISH</text>
+<text x="240" y="284" text-anchor="middle" class="L">Kurmanji (Northern Kurdish): Latin-based Hawar alphabet (1932)</text>
+<text x="240" y="295" text-anchor="middle" class="L">Sorani (Central Kurdish): Arabic/Perso-Arabic script</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">Two dialects — two scripts — limited mutual intelligibility</text>
+<line x1="20" y1="314" x2="460" y2="314" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="322" text-anchor="middle" class="H">HAWAR LATIN ALPHABET (KURMANJI)</text>
+<text x="240" y="333" text-anchor="middle" class="L">Bedirxan brothers created Hawar alphabet 1932 (in exile)</text>
+<text x="240" y="344" text-anchor="middle" class="L">Special letters: ê /e:/ • î /i:/ • û /u:/ (circumflexed long vowels)</text>
+<text x="240" y="355" text-anchor="middle" class="L">w: retained (absent from modern Turkish Latin)</text>
+<text x="240" y="366" text-anchor="middle" class="L">x = /x/ (velar fricative)  •  q = /q/ (uvular stop)</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="382" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="393" text-anchor="middle" class="L">Turkish: 29 Latin letters  •  Kurmanji: 31 Latin letters</text>
+<text x="240" y="404" text-anchor="middle" class="L">Turkish: ç ğ ı ö ş ü  •  Kurmanji adds: ê î û q w x</text>
+<text x="240" y="415" text-anchor="middle" class="Ls">Sorani: Arabic-based (right-to-left) vs. Turkish Latin (left-to-right)</text>
+<text x="240" y="426" text-anchor="middle" class="Ls">Both Turkish and Kurmanji: Latin scripts with phonemic spelling</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 51a ALT  ·  TURKISH / KURDISH  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

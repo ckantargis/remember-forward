@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TURKISH</text>
+<text x="240" y="40" text-anchor="middle" class="S">AGGLUTINATIVE GRAMMAR</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TURKISH SUFFIX STACKING</text>
+<text x="240" y="68" text-anchor="middle" class="L">Turkish adds suffixes in strict order to express complex meaning:</text>
+<text x="240" y="79" text-anchor="middle" class="L">ev = house</text>
+<text x="240" y="90" text-anchor="middle" class="L">evler = houses (plural)</text>
+<text x="240" y="101" text-anchor="middle" class="L">evlerim = my houses</text>
+<text x="240" y="112" text-anchor="middle" class="L">evlerimde = in my houses</text>
+<text x="240" y="123" text-anchor="middle" class="L">evlerimden = from my houses</text>
+<text x="240" y="134" text-anchor="middle" class="L">evlerimizi = our houses (accusative)</text>
+<line x1="20" y1="142" x2="460" y2="142" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="150" text-anchor="middle" class="H">TURKISH SOV WORD ORDER</text>
+<text x="240" y="161" text-anchor="middle" class="L">Ben kitabı okuyorum.  "I the-book am-reading."</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">Object comes before verb; verb is always final</text>
+<text x="240" y="183" text-anchor="middle" class="L">Postpositions: ile "with" • için "for" • göre "according to"</text>
+<line x1="20" y1="191" x2="460" y2="191" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="199" text-anchor="middle" class="H">TURKISH CASES (6)</text>
+<text x="240" y="210" text-anchor="middle" class="L">Nominative (subject)  •  Accusative (definite object)</text>
+<text x="240" y="221" text-anchor="middle" class="L">Dative (to/for)  •  Locative (in/at)  •  Ablative (from)  •  Genitive (of)</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">KURDISH GRAMMAR  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">KURDISH SPLIT ERGATIVITY</text>
+<text x="240" y="272" text-anchor="middle" class="L">Kurdish has SPLIT ERGATIVITY (Turkish does not!)</text>
+<text x="240" y="283" text-anchor="middle" class="L">Present: nominative-accusative alignment (like Turkish)</text>
+<text x="240" y="294" text-anchor="middle" class="L">Past transitive: ergative alignment (agent takes oblique)</text>
+<text x="240" y="305" text-anchor="middle" class="L">Min kitab xwend. "I-ERG book read." (past: min = oblique agent)</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">KURDISH WORD ORDER</text>
+<text x="240" y="332" text-anchor="middle" class="L">SOV (same as Turkish) with postpositions</text>
+<text x="240" y="343" text-anchor="middle" class="L">Kurmanji: extensive use of Ezafe construction (from Persian)</text>
+<text x="240" y="354" text-anchor="middle" class="L">Ezafe -ê: links noun to modifier: kitab-ê bafl "good book"</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">GRAMMATICAL PARALLELS</text>
+<text x="240" y="381" text-anchor="middle" class="L">Both: SOV word order  •  postpositions  •  agglutinative morphology</text>
+<text x="240" y="392" text-anchor="middle" class="L">Both: no grammatical gender  •  no articles (in Kurmanji)</text>
+<text x="240" y="403" text-anchor="middle" class="L">Turkish: no ergativity  •  Kurdish: split ergativity</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Turkish: vowel harmony  •  Kurdish: no vowel harmony</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Both languages spoken in same mountain territory for millennia</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 51c ALT  ·  TURKISH / KURDISH  ·  GRAMMAR</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

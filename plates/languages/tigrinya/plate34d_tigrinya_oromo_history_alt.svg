@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TIGRINYA</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; HORN OF AFRICA</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TIGRINYA ORIGINS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Tigrinya descended from Ge'ez (ancient Aksumite language)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Aksum Empire (~100-940 CE): one of ancient world's great powers</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Aksum: first empire to mint gold coins in sub-Saharan Africa</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">~4th c. CE: Emperor Ezana converts to Christianity (first African empire)</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">Ge'ez: liturgical language of Ethiopian Orthodox Church; still used today</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">TIGRINYA TODAY</text>
+<text x="240" y="139" text-anchor="middle" class="L">~8M speakers; official language of Eritrea (with Arabic)</text>
+<text x="240" y="150" text-anchor="middle" class="L">Also spoken in Ethiopia's Tigray region (~4M more speakers)</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">2020-2022: Tigray War; devastating conflict in Tigrinya-speaking region</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="176" width="460" height="13" fill="#111"/>
+<text x="240" y="185.5" text-anchor="middle" class="Hb">OROMO HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="201" text-anchor="middle" class="H">OROMO ORIGINS</text>
+<text x="240" y="212" text-anchor="middle" class="L">Oromo: indigenous to Ethiopian highlands and Great Rift Valley</text>
+<text x="240" y="223" text-anchor="middle" class="L">Gadaa democratic system: age-grade governance predates modern democracy</text>
+<text x="240" y="234" text-anchor="middle" class="Ls">16th c.: Oromo migration expanded across Ethiopian highlands</text>
+<text x="240" y="245" text-anchor="middle" class="Ls">Menelik II (1889-1913): conquered Oromo lands for Amhara empire</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="261" text-anchor="middle" class="H">OROMO SUPPRESSION &amp; RESISTANCE</text>
+<text x="240" y="272" text-anchor="middle" class="L">Amhara-dominated Ethiopia: Oromo culture and language marginalized</text>
+<text x="240" y="283" text-anchor="middle" class="L">Oromo Liberation Front (OLF): founded 1973; decades of resistance</text>
+<text x="240" y="294" text-anchor="middle" class="L">1991: Oromo gains recognition after Derg regime falls</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Qubee Latin script: adopted as symbol of Oromo identity, not Amhara</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">OROMO TODAY</text>
+<text x="240" y="332" text-anchor="middle" class="L">~40M speakers; largest ethnic group in Ethiopia</text>
+<text x="240" y="343" text-anchor="middle" class="L">Oromia: largest regional state; surrounds Addis Ababa</text>
+<text x="240" y="354" text-anchor="middle" class="L">Abiy Ahmed: Oromo-descended prime minister; Nobel Peace Prize 2019</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">SEMITIC + CUSHITIC: ONE HIGHLAND</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Tigrinya (Semitic) and Oromo (Cushitic): neighboring peoples of Ethiopia</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Both in Ethiopian highlands: shared geography, shared ecological pressures</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Ethiopian Linguistic Area: languages converged across family lines</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Both: Christian / Muslim communities within each language group</text>
+<text x="240" y="425" text-anchor="middle" class="L">Addis Ababa: built between Tigrinya north and Oromo south</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 34d ALT  ·  TIGRINYA / OROMO  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

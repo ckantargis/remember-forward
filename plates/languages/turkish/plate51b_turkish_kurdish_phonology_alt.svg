@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TURKISH</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY &amp; VOWEL HARMONY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TURKISH VOWEL HARMONY</text>
+<text x="240" y="68" text-anchor="middle" class="L">Vowels must agree in backness and rounding within a word:</text>
+<text x="240" y="79" text-anchor="middle" class="L">Back vowels: a ı o u  •  Front vowels: e i ö ü</text>
+<text x="240" y="90" text-anchor="middle" class="L">Suffix vowels change to match root vowel:</text>
+<text x="240" y="101" text-anchor="middle" class="L">göz-ü (eye-his/her) • el-i (hand-his/her) — ü matches ö; i matches e</text>
+<text x="240" y="112" text-anchor="middle" class="L">köy-den (from village) • şehir-den (from city) — den vs. den</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">TURKISH CONSONANTS</text>
+<text x="240" y="139" text-anchor="middle" class="L">Stops: p b  t d  k g  (+ ç and ğ)</text>
+<text x="240" y="150" text-anchor="middle" class="L">Fricatives: f v  s z  ş /ʃ/  h</text>
+<text x="240" y="161" text-anchor="middle" class="L">Final devoicing: b→p d→t g→k at word end</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">kitab "book" (Arabic) → Turkish: kitap (final devoicing)</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="188" text-anchor="middle" class="H">TURKISH VOWELS (8)</text>
+<text x="240" y="199" text-anchor="middle" class="L">a /a/  e /e/  ı /ɨ/  i /i/  o /o/  ö /ø/  u /u/  ü /y/</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">/ɨ/ (dotless i): unique — absent from most European languages</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">KURDISH PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">KURMANJI CONSONANTS</text>
+<text x="240" y="261" text-anchor="middle" class="L">Additional consonants not in Turkish:</text>
+<text x="240" y="272" text-anchor="middle" class="L">/q/ uvular stop  •  /x/ velar fricative  •  /w/ bilabial approximant</text>
+<text x="240" y="283" text-anchor="middle" class="L">/ʕ/ voiced pharyngeal (from Iranian heritage)</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">These are Iranian-origin sounds not in Turkic</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">Kurdish VOWELS</text>
+<text x="240" y="321" text-anchor="middle" class="L">Kurmanji: a e ê i î o u û (long vowels with circumflex)</text>
+<text x="240" y="332" text-anchor="middle" class="L">NO vowel harmony (unlike Turkish) — Iranian language feature</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Sorani: similar vowel inventory, Arabic-script based</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="359" text-anchor="middle" class="H">PHONOLOGICAL CONTRAST</text>
+<text x="240" y="370" text-anchor="middle" class="L">Turkish: 8 vowels with vowel harmony system</text>
+<text x="240" y="381" text-anchor="middle" class="L">Kurdish: vowels no harmony (different family entirely)</text>
+<text x="240" y="392" text-anchor="middle" class="L">Both: /tʃ/ "ch" sound  •  both: final devoicing tendency</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Kurdish: uvular /q/ and /x/ (Turkic lacks native /q/)</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Contact: Turkish borrowed some Kurdish sounds; Kurdish Turkish words</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 51b ALT  ·  TURKISH / KURDISH  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

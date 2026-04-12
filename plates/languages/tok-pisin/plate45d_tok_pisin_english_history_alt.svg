@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TOK PISIN</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; CREOLIZATION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">PAPUA NEW GUINEA LINGUISTIC LANDSCAPE</text>
+<text x="240" y="68" text-anchor="middle" class="L">PNG: ~840 languages — most linguistically diverse country on Earth</text>
+<text x="240" y="79" text-anchor="middle" class="L">8M people • 840 languages • = one language per ~9,500 people</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Tok Pisin arose as lingua franca to bridge this diversity</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">ORIGIN OF TOK PISIN</text>
+<text x="240" y="117" text-anchor="middle" class="L">19th c.: South Pacific Pidgin English on trade and plantation ships</text>
+<text x="240" y="128" text-anchor="middle" class="Ls">Sandalwood trade, labor recruiting, missionary contact — English spread</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">1880s-1920s: German colonial period in PNG; Tok Pisin stabilizes</text>
+<text x="240" y="150" text-anchor="middle" class="L">1975: PNG independence; Tok Pisin declared official language</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">CREOLIZATION: PIDGIN BECOMES LANGUAGE</text>
+<text x="240" y="177" text-anchor="middle" class="L">Pidgin: simplified contact language with no native speakers</text>
+<text x="240" y="188" text-anchor="middle" class="L">Creole: pidgin acquired as first language by children</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Creolization adds: pronouns, grammar rules, expanded vocabulary</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Tok Pisin: completed creolization in 20th century; 2-4M native speakers</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">ENGLISH HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">ENGLISH IN PAPUA NEW GUINEA</text>
+<text x="240" y="261" text-anchor="middle" class="L">1884: British colonize SE Papua; English officially introduced</text>
+<text x="240" y="272" text-anchor="middle" class="Ls">Australian administration (1906-1975): English language schooling</text>
+<text x="240" y="283" text-anchor="middle" class="L">English: official language of PNG alongside Tok Pisin + Hiri Motu</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">But: only ~2% of PNG population speaks English as L1</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">WHY ENGLISH EXPANDED GLOBALLY</text>
+<text x="240" y="321" text-anchor="middle" class="L">British Empire: covered 25% of Earth's land area at peak (1920)</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">Industrial Revolution, trade, science, technology in English</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">USA dominance post-WWII: Hollywood, internet, academia</text>
+<text x="240" y="354" text-anchor="middle" class="L">Today: ~1.5B English speakers worldwide (L1 + L2)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">THE CREOLE PARADOX</text>
+<text x="240" y="381" text-anchor="middle" class="L">Tok Pisin: child of English, but grammatically independent</text>
+<text x="240" y="392" text-anchor="middle" class="L">English speakers cannot understand Tok Pisin without study</text>
+<text x="240" y="403" text-anchor="middle" class="L">"Gras bilong fes i no save gro long ston."</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">"Grass of face does not know how to grow on stone."</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">= "A beard cannot grow on a stone." (proverb)</text>
+<text x="240" y="436" text-anchor="middle" class="L">New language; same root; distant enough to be a separate tongue</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 45d ALT  ·  TOK PISIN / ENGLISH  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

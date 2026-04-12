@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TIBETAN</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; THE HIMALAYAN WORLD</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TIBETAN EMPIRE</text>
+<text x="240" y="68" text-anchor="middle" class="L">~618-842 CE: Tibetan Empire; one of Asia's great powers</text>
+<text x="240" y="79" text-anchor="middle" class="L">Songtsen Gampo: unified Tibet, created script, married Nepali princess!</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Bhrikuti: Nepali princess brought Buddhism to Tibet from Nepal</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">763 CE: Tibetan armies briefly occupy Chang'an (Chinese capital)</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">842 CE: Imperial collapse; fragmentation into petty kingdoms</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">BUDDHISM AND TIBETAN CULTURE</text>
+<text x="240" y="139" text-anchor="middle" class="L">7th c.: Buddhism enters Tibet from India and Nepal</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Padmasambhava: brought Vajrayana Buddhism; Tibetan Buddhist canon</text>
+<text x="240" y="161" text-anchor="middle" class="L">~6M speakers; Buddhist scripture preserves vast Indian knowledge</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">Kangyur + Tengyur: 100+ volumes of translated Buddhist texts</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="187" width="460" height="13" fill="#111"/>
+<text x="240" y="196.5" text-anchor="middle" class="Hb">NEPALI HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="212" text-anchor="middle" class="H">NEPAL AS HIMALAYAN CROSSROADS</text>
+<text x="240" y="223" text-anchor="middle" class="L">Kathmandu Valley: ancient trade route between India and Tibet</text>
+<text x="240" y="234" text-anchor="middle" class="Ls">Licchavi dynasty (400-750 CE): Nepal as cultural bridge state</text>
+<text x="240" y="245" text-anchor="middle" class="L">Bhrikuti: princess who took Buddhism north to Tibet (~630 CE)</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Newari: indigenous language of Kathmandu valley; different from Nepali</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="272" text-anchor="middle" class="H">GORKHA KINGDOM &amp; PRITHVI NARAYAN SHAH</text>
+<text x="240" y="283" text-anchor="middle" class="L">1768: Prithvi Narayan Shah unifies Nepal; Nepali becomes national language</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Nepali (Gorkhali): spread by Gurkha soldiers across Himalayan region</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Gurkha regiments: served British Empire; took Nepali language across Asia</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">NEPALI TODAY</text>
+<text x="240" y="332" text-anchor="middle" class="L">~17M speakers; official language of Nepal</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Also spoken in Darjeeling, Sikkim, Bhutan, and by diaspora</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Scheduled language of India (Sikkim); recognized in Bhutan</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">HIMALAYAN BOND: TIBET &amp; NEPAL</text>
+<text x="240" y="381" text-anchor="middle" class="L">Mount Everest / Sagarmatha / Chomolungma: named in both languages</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Nepal: buffer between India and Tibet; always both Buddhist and Hindu</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Lhasa-Kathmandu trade route: centuries of wool, salt, grain exchange</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Tibetan refugees: 20,000+ in Nepal since 1959 (Dalai Lama exile)</text>
+<text x="240" y="425" text-anchor="middle" class="L">Two mountain peoples: shaped by altitude, Buddhism, trade</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 56d ALT  ·  TIBETAN / NEPALI  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
