@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KOREAN + ZHUANG — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 50B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KOREAN PHONOLOGY — THREE-WAY STOP CONTRAST —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Korean has a unique three-way distinction for stops: plain/aspirated/tense (fortis).</text>
+<text x="240" y="82" text-anchor="middle" class="Ls">Plain: /p b/ — Aspirated: /pʰ/ — Tense (fortis): /pʼ/ (glottalized, no VOT).</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">This three-way contrast is rare cross-linguistically. Applies to: p/ph/pp, t/th/tt, k/kh/kk, c/ch/cc.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— KOREAN THREE-WAY STOP TABLE —</text>
+<text x="70" y="117" text-anchor="middle" class="Lx">Place</text>
+<text x="200" y="117" text-anchor="middle" class="Lx">Plain</text>
+<text x="305" y="117" text-anchor="middle" class="Lx">Aspirated</text>
+<text x="400" y="117" text-anchor="middle" class="Lx">Tense</text>
+<text x="70" y="128" text-anchor="middle" class="Lx">Bilabial</text>
+<text x="200" y="128" text-anchor="middle" class="Ls">ㅂ /p/</text>
+<text x="305" y="128" text-anchor="middle" class="Ls">ㅋ /pʰ/</text>
+<text x="400" y="128" text-anchor="middle" class="Ls">ㅃ /pʼ/</text>
+<text x="70" y="139" text-anchor="middle" class="Lx">Alveolar</text>
+<text x="200" y="139" text-anchor="middle" class="Ls">ㄷ /t/</text>
+<text x="305" y="139" text-anchor="middle" class="Ls">ㅌ /tʰ/</text>
+<text x="400" y="139" text-anchor="middle" class="Ls">ㄸ /tʼ/</text>
+<text x="70" y="150" text-anchor="middle" class="Lx">Velar</text>
+<text x="200" y="150" text-anchor="middle" class="Ls">ㄱ /k/</text>
+<text x="305" y="150" text-anchor="middle" class="Ls">ㅊ /kʰ/</text>
+<text x="400" y="150" text-anchor="middle" class="Ls">ㄲ /kʼ/</text>
+<text x="70" y="161" text-anchor="middle" class="Lx">Palatal</text>
+<text x="200" y="161" text-anchor="middle" class="Ls">ㅈ /tɕ/</text>
+<text x="305" y="161" text-anchor="middle" class="Ls">ㅋ /tɕʰ/</text>
+<text x="400" y="161" text-anchor="middle" class="Ls">ㅉ /tɕʼ/</text>
+<line x1="20" y1="178" x2="460" y2="178" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">— KOREAN VOWELS — 10 MONOPHTHONGS —</text>
+<text x="240" y="196" text-anchor="middle" class="Ls">Korean has 10 vowel phonemes: /a ɛ ə i o u œ y/ and additional diphthongs.</text>
+<text x="55" y="206" text-anchor="middle" class="Lx">/a/ ≈ arm</text>
+<text x="160" y="206" text-anchor="middle" class="Lx">/ɛ/ ≈ bait</text>
+<text x="265" y="206" text-anchor="middle" class="Lx">/ə/ ≈ above</text>
+<text x="370" y="206" text-anchor="middle" class="Lx">/i/ ≈ bee</text>
+<text x="55" y="216" text-anchor="middle" class="Lx">/o/ ≈ boat</text>
+<text x="160" y="216" text-anchor="middle" class="Lx">/u/ ≈ boot</text>
+<text x="265" y="216" text-anchor="middle" class="Lx">/œ/ ≈ eu (front rounded)</text>
+<text x="370" y="216" text-anchor="middle" class="Lx">/y/ ≈ yi (front rounded)</text>
+<line x1="20" y1="232" x2="460" y2="232" stroke="black" stroke-width="0.3"/>
+<text x="240" y="240" text-anchor="middle" class="H">— KOREAN CONSONANT ALTERATIONS —</text>
+<text x="240" y="250" text-anchor="middle" class="Ls">Korean consonants change significantly by position: word-initial, intervocalic, and final positions are all different.</text>
+<text x="240" y="259" text-anchor="middle" class="Lx">/k/ word-final → unreleased /k̪̥/. Intervocalic: /g/. Initial: /k/ or /kʰ/. Same letter, three sounds.</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="272" width="440" height="14" fill="black"/>
+<text x="240" y="282" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH) — PHONOLOGY</text>
+<line x1="20" y1="286" x2="460" y2="286" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">— ZHUANG PHONOLOGY — 6 TONES (STANDARD DIALECT) —</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Zhuang has 6 tones in standard (Wuming) dialect. Other dialects have up to 9 tones.</text>
+<text x="110" y="315" text-anchor="middle" class="Lx">Tone 1</text>
+<text x="310" y="315" text-anchor="middle" class="Lx">mid-high level</text>
+<text x="110" y="325" text-anchor="middle" class="Lx">Tone 2 -z</text>
+<text x="310" y="325" text-anchor="middle" class="Lx">high rising</text>
+<text x="110" y="335" text-anchor="middle" class="Lx">Tone 3 -j</text>
+<text x="310" y="335" text-anchor="middle" class="Lx">mid dipping</text>
+<text x="110" y="345" text-anchor="middle" class="Lx">Tone 4 -x</text>
+<text x="310" y="345" text-anchor="middle" class="Lx">low falling</text>
+<text x="110" y="355" text-anchor="middle" class="Lx">Tone 5 -q</text>
+<text x="310" y="355" text-anchor="middle" class="Lx">low short checked (glottal coda)</text>
+<text x="110" y="365" text-anchor="middle" class="Lx">Tone 6 -h</text>
+<text x="310" y="365" text-anchor="middle" class="Lx">high short checked</text>
+<line x1="20" y1="380" x2="460" y2="380" stroke="black" stroke-width="0.3"/>
+<text x="240" y="388" text-anchor="middle" class="H">— ZHUANG CONSONANTS AND ASPIRATION —</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Zhuang has voiceless/voiced/aspirated distinctions: p/b/ph, t/d/th, k/g/kh.</text>
+<text x="240" y="407" text-anchor="middle" class="Lx">Only two-way stop contrast (vs. Korean’s three-way). But 6 tones (vs. Korean’s pitch accent system).</text>
+<line x1="20" y1="415" x2="460" y2="415" stroke="black" stroke-width="0.3"/>
+<text x="240" y="423" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — CONTRAST IN STOP SYSTEMS —</text>
+<text x="80" y="433" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="433" text-anchor="middle" class="Lx">Korean</text>
+<text x="380" y="433" text-anchor="middle" class="Lx">Zhuang</text>
+<text x="80" y="443" text-anchor="middle" class="Lx">Stop series</text>
+<text x="235" y="443" text-anchor="middle" class="Lx">3-way: plain/asp/tense</text>
+<text x="380" y="443" text-anchor="middle" class="Lx">2-way: vl/vd + asp</text>
+<text x="80" y="453" text-anchor="middle" class="Lx">Tonal</text>
+<text x="235" y="453" text-anchor="middle" class="Lx">Pitch accent</text>
+<text x="380" y="453" text-anchor="middle" class="Lx">6 tones</text>
+<text x="80" y="463" text-anchor="middle" class="Lx">Vowels</text>
+<text x="235" y="463" text-anchor="middle" class="Lx">10 monophthongs</text>
+<text x="380" y="463" text-anchor="middle" class="Lx">6-7 vowels</text>
+<text x="80" y="473" text-anchor="middle" class="Lx">Syllable</text>
+<text x="235" y="473" text-anchor="middle" class="Lx">Complex (C)(C)V(C)(C)</text>
+<text x="380" y="473" text-anchor="middle" class="Lx">CV(C) simpler</text>
+<text x="80" y="483" text-anchor="middle" class="Lx">Language family</text>
+<text x="235" y="483" text-anchor="middle" class="Lx">Isolate</text>
+<text x="380" y="483" text-anchor="middle" class="Lx">Tai-Kadai</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 50B ALT · Korean / Zhuang · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

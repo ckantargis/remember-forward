@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LAO (ພາສາລາວ) / ZHUANG (壯語 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">TAI-KADAI FAMILY · SISTER LANGUAGES · ~400MI APART</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 41A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LAO SCRIPT (ອັກສອນລາວ) —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Abugida: each consonant carries inherent vowel /aː/ (or /o/ in closed syllables)</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">33 consonant letters · 28 vowel diacritic forms · written left-to-right</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Vowels placed above, below, before, or after consonant · no capital letters</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Spaces mark phrase/clause boundaries, not word boundaries</text>
+<line x1="20" y1="128" x2="460" y2="128" stroke="black" stroke-width="0.3"/>
+<text x="240" y="138" text-anchor="middle" class="H">THREE CONSONANT CLASSES (govern base tone)</text>
+<text x="100" y="149" text-anchor="middle" class="Lx">CLASS</text>
+<text x="240" y="149" text-anchor="middle" class="Lx">SAMPLE LETTERS</text>
+<text x="390" y="149" text-anchor="middle" class="Lx">BASE TONE QUALITY</text>
+<line x1="20" y1="153" x2="460" y2="153" stroke="black" stroke-width="0.3"/>
+<text x="100" y="162" text-anchor="middle" class="Ls">HIGH (ສູງ)</text>
+<text x="240" y="162" text-anchor="middle" class="Ls">ຂ ຜ ຝ ຫ ສ</text>
+<text x="390" y="162" text-anchor="middle" class="Ls">Rising / high-falling</text>
+<text x="100" y="173" text-anchor="middle" class="Ls">MID (ກາງ)</text>
+<text x="240" y="173" text-anchor="middle" class="Ls">ກ ຈ ດ ຕ ບ ປ ອ</text>
+<text x="390" y="173" text-anchor="middle" class="Ls">Mid level / low</text>
+<text x="100" y="184" text-anchor="middle" class="Ls">LOW (ຕ່ຳ)</text>
+<text x="240" y="184" text-anchor="middle" class="Ls">ງ ນ ມ ວ ລ ຍ</text>
+<text x="390" y="184" text-anchor="middle" class="Ls">Low / high (with marks)</text>
+<line x1="20" y1="189" x2="460" y2="189" stroke="black" stroke-width="0.3"/>
+<text x="240" y="199" text-anchor="middle" class="H">TONE MARKS (ວັນນະຍຸດ)</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">ໄມ້ເອກ ( ່ ) and ໄມ້ໂທ ( ້ ) placed above consonant</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">Consonant class + tone mark = one of 6 tones</text>
+<text x="240" y="232" text-anchor="middle" class="Ls">6 tones: mid · low · falling · high · rising · high-rising</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="0.3"/>
+<text x="240" y="248" text-anchor="middle" class="H">VOWEL PLACEMENT EXAMPLES</text>
+<text x="240" y="259" text-anchor="middle" class="Ls">ກາ /kaː/ (crow)  ·  ກິ /ki/ (to eat)  ·  ເກ /keː/ (honor)</text>
+<text x="240" y="270" text-anchor="middle" class="Ls">ແກ /kɛː/ (goat)  ·  ໂກ /koː/ (deceive)  ·  ກົ /ko/ (neck)</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="240" y="286" text-anchor="middle" class="H">SCRIPT ORIGIN</text>
+<text x="240" y="297" text-anchor="middle" class="Ls">Derived from Old Khmer script · introduced ~14th c. CE · Lan Xang Kingdom</text>
+<text x="240" y="308" text-anchor="middle" class="Ls">Ancestry: Brahmi (India ~3rd c. BCE) → Mon → Khmer → Lao</text>
+<text x="240" y="319" text-anchor="middle" class="Ls">Related scripts: Thai · Khmer — share same consonant-class tone system</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="335" text-anchor="middle" class="H">SAMPLE WORDS</text>
+<text x="240" y="346" text-anchor="middle" class="Ls">ສະຫວັດດີ /sa.wàt.diː/ hello  ·  ຂອບໃຈ /khɔ̀ːp tɕaːj/ thank you</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="360" width="440" height="14" fill="black"/>
+<text x="240" y="370" text-anchor="middle" class="Hb" fill="white">ZHUANG (壯語 VAHCUENGH) — TAI-KADAI SISTER · GUANGXI, CHINA</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="385" text-anchor="middle" class="H">— ZHUANG SCRIPTS: SAWNDIP &amp; LATIN —</text>
+<text x="240" y="397" text-anchor="middle" class="Ls">SAWNDIP (方块壮字): traditional logographic script ~1,000+ years old</text>
+<text x="240" y="408" text-anchor="middle" class="Ls">Borrows and invents Chinese-character forms for Zhuang sounds and meanings</text>
+<text x="240" y="419" text-anchor="middle" class="Ls">Not standardized; regional variants; preserved in ritual texts and folk songs</text>
+<line x1="20" y1="425" x2="460" y2="425" stroke="black" stroke-width="0.3"/>
+<text x="240" y="435" text-anchor="middle" class="H">ZHUANG LATIN ALPHABET (SAWCUENGH)</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Standardized 1957, revised 1982 · 26 letters + digraphs (mb, nd, ng, nj...)</text>
+<text x="240" y="458" text-anchor="middle" class="Ls">Tones marked by suffix letters appended to syllable (no diacritics)</text>
+<line x1="20" y1="464" x2="460" y2="464" stroke="black" stroke-width="0.3"/>
+<text x="240" y="474" text-anchor="middle" class="H">TONE SUFFIXES IN ZHUANG LATIN</text>
+<text x="100" y="484" text-anchor="middle" class="Lx">SUFFIX</text>
+<text x="240" y="484" text-anchor="middle" class="Lx">TONE</text>
+<text x="390" y="484" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="488" x2="460" y2="488" stroke="black" stroke-width="0.3"/>
+<text x="100" y="497" text-anchor="middle" class="Ls">(none)</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">Tone 1 — mid level</text>
+<text x="390" y="497" text-anchor="middle" class="Ls">ma (horse)</text>
+<text x="100" y="507" text-anchor="middle" class="Ls">-b</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">Tone 2 — low rising</text>
+<text x="390" y="507" text-anchor="middle" class="Ls">mab (son)</text>
+<text x="100" y="517" text-anchor="middle" class="Ls">-x</text>
+<text x="240" y="517" text-anchor="middle" class="Ls">Tone 3 — mid falling</text>
+<text x="390" y="517" text-anchor="middle" class="Ls">max (sesame)</text>
+<text x="100" y="527" text-anchor="middle" class="Ls">-j</text>
+<text x="240" y="527" text-anchor="middle" class="Ls">Tone 4 — high level</text>
+<text x="390" y="527" text-anchor="middle" class="Ls">maj (come)</text>
+<text x="100" y="537" text-anchor="middle" class="Ls">-q / -h</text>
+<text x="240" y="537" text-anchor="middle" class="Ls">Tones 5–6 — checked / low</text>
+<text x="390" y="537" text-anchor="middle" class="Ls">maq / mah</text>
+<line x1="20" y1="543" x2="460" y2="543" stroke="black" stroke-width="0.3"/>
+<text x="240" y="553" text-anchor="middle" class="H">SAMPLE VOCABULARY</text>
+<text x="240" y="565" text-anchor="middle" class="Ls">vah = word/speech  ·  miz = have  ·  mbouj = not  ·  raeuz = we</text>
+<text x="240" y="576" text-anchor="middle" class="Ls">gij = what/which  ·  ndaej = can/obtain  ·  aeu = want/take</text>
+<line x1="20" y1="582" x2="460" y2="582" stroke="black" stroke-width="0.3"/>
+<text x="240" y="592" text-anchor="middle" class="H">SHARED ANCESTRY</text>
+<text x="240" y="604" text-anchor="middle" class="Ls">Lao and Zhuang share Proto-Tai roots: cognate words for numbers, body, kin</text>
+<text x="240" y="615" text-anchor="middle" class="Ls">Mutual intelligibility is LOW after centuries of divergence — ancestry is shared</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 41A ALT · LAO / ZHUANG · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

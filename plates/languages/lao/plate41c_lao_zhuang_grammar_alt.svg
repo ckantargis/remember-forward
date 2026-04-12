@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LAO (ພາສາລາວ) / ZHUANG (壯語 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">TAI-KADAI FAMILY · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 41C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LAO GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">Word order: SVO · no inflection for case, number, or grammatical gender</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Verbs do not conjugate for person or tense; aspect marked by particles</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">ASPECT PARTICLES (NOT TENSE)</text>
+<text x="100" y="126" text-anchor="middle" class="Lx">PARTICLE</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">FUNCTION</text>
+<text x="390" y="126" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="130" x2="460" y2="130" stroke="black" stroke-width="0.3"/>
+<text x="100" y="139" text-anchor="middle" class="Ls">ໄດ້ /dâːj/</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">Completed action (past)</text>
+<text x="390" y="139" text-anchor="middle" class="Ls">ຂ້ອຍ ໄດ້ ກິນ (I ate)</text>
+<text x="100" y="149" text-anchor="middle" class="Ls">ຈະ /tɕaʔ/</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Future / intention</text>
+<text x="390" y="149" text-anchor="middle" class="Ls">ຂ້ອຍ ຈະ ໄປ (I will go)</text>
+<text x="100" y="159" text-anchor="middle" class="Ls">ກຳລັງ /kam.laŋ/</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Ongoing (progressive)</text>
+<text x="390" y="159" text-anchor="middle" class="Ls">ກຳລັງ ກິນ (is eating)</text>
+<line x1="20" y1="164" x2="460" y2="164" stroke="black" stroke-width="0.3"/>
+<text x="240" y="174" text-anchor="middle" class="H">NEGATION &amp; QUESTIONS</text>
+<text x="240" y="185" text-anchor="middle" class="Ls">Negation: ບໍ່ /bɔː/ before verb · ບໍ່ດີ = not good · ຂ້ອຍ ບໍ່ໄປ = I not go</text>
+<text x="240" y="196" text-anchor="middle" class="Ls">Yes/no question: add ບໍ /bɔː/ at end · ເຈົ້າໄປ ບໍ? = Are you going?</text>
+<text x="240" y="207" text-anchor="middle" class="Ls">WH-questions: question word in situ (same position as answer)</text>
+<line x1="20" y1="213" x2="460" y2="213" stroke="black" stroke-width="0.3"/>
+<text x="240" y="223" text-anchor="middle" class="H">CLASSIFIERS (USED WITH ALL NOUNS + NUMBERS)</text>
+<text x="240" y="234" text-anchor="middle" class="Ls">ຄົນ /kʰon/ humans · ໂຕ /toː/ animals · ອັນ /an/ small objects</text>
+<text x="240" y="245" text-anchor="middle" class="Ls">ສາມ ຄົນ = 3 people · ສອງ ໂຕ = 2 animals (not *ສາມ ຄົນ without clf)</text>
+<line x1="20" y1="251" x2="460" y2="251" stroke="black" stroke-width="0.3"/>
+<text x="240" y="261" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="272" text-anchor="middle" class="Lx">LGLOSS</text>
+<text x="240" y="272" text-anchor="middle" class="Lx">LAO</text>
+<text x="390" y="272" text-anchor="middle" class="Lx">ROMANIZATION</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="100" y="285" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="285" text-anchor="middle" class="Ls">ຂ້ອຍ</text>
+<text x="390" y="285" text-anchor="middle" class="Ls">/kʰɔːj/</text>
+<text x="100" y="295" text-anchor="middle" class="Ls">you (sg.)</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">ເຈົ້າ</text>
+<text x="390" y="295" text-anchor="middle" class="Ls">/tɕâw/</text>
+<text x="100" y="305" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">ກິນ</text>
+<text x="390" y="305" text-anchor="middle" class="Ls">/kin/</text>
+<text x="100" y="315" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="315" text-anchor="middle" class="Ls">ນ້ຳ</text>
+<text x="390" y="315" text-anchor="middle" class="Ls">/náːm/</text>
+<text x="100" y="325" text-anchor="middle" class="Ls">where?</text>
+<text x="240" y="325" text-anchor="middle" class="Ls">ໃສ</text>
+<text x="390" y="325" text-anchor="middle" class="Ls">/sǎj/ (at end)</text>
+<line x1="20" y1="337" x2="460" y2="337" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="340" width="440" height="14" fill="black"/>
+<text x="240" y="350" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="354" x2="460" y2="354" stroke="black" stroke-width="0.3"/>
+<text x="240" y="362" text-anchor="middle" class="H">— ZHUANG GRAMMAR —</text>
+<text x="240" y="373" text-anchor="middle" class="Ls">Word order: SVO — same as Lao · no grammatical gender · no inflection</text>
+<text x="240" y="384" text-anchor="middle" class="Ls">Aspect particles function similarly to Lao; tense context-dependent</text>
+<line x1="20" y1="390" x2="460" y2="390" stroke="black" stroke-width="0.3"/>
+<text x="240" y="400" text-anchor="middle" class="H">NEGATION &amp; QUESTIONS</text>
+<text x="240" y="411" text-anchor="middle" class="Ls">Negation: mbouj (main) · mbouj ndaej = cannot · mbouj miz = have-not</text>
+<text x="240" y="422" text-anchor="middle" class="Ls">Yes/no: add lwi/maz at end · Gou bae lwi? = Did I go?</text>
+<line x1="20" y1="428" x2="460" y2="428" stroke="black" stroke-width="0.3"/>
+<text x="240" y="438" text-anchor="middle" class="H">CLASSIFIERS (PARALLEL TO LAO)</text>
+<text x="240" y="449" text-anchor="middle" class="Ls">boux: humans · duz: animals · aen: small round objects · goenq: long obj.</text>
+<text x="240" y="460" text-anchor="middle" class="Ls">sam boux vunz = three (clf) people — classifier required same as Lao</text>
+<line x1="20" y1="466" x2="460" y2="466" stroke="black" stroke-width="0.3"/>
+<text x="240" y="476" text-anchor="middle" class="H">CORE VOCABULARY (LATIN SCRIPT)</text>
+<text x="100" y="487" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="487" text-anchor="middle" class="Lx">ZHUANG (LATIN)</text>
+<text x="390" y="487" text-anchor="middle" class="Lx">PROTO-TAI LINK</text>
+<line x1="20" y1="491" x2="460" y2="491" stroke="black" stroke-width="0.3"/>
+<text x="100" y="500" text-anchor="middle" class="Ls">I / me</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">gou</text>
+<text x="390" y="500" text-anchor="middle" class="Ls">*ku (Proto-Tai)</text>
+<text x="100" y="510" text-anchor="middle" class="Ls">you (sg.)</text>
+<text x="240" y="510" text-anchor="middle" class="Ls">mwngz</text>
+<text x="390" y="510" text-anchor="middle" class="Ls">*muŋ (Proto-Tai)</text>
+<text x="100" y="520" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="520" text-anchor="middle" class="Ls">gwn</text>
+<text x="390" y="520" text-anchor="middle" class="Ls">cf. Lao ກິນ /kin/</text>
+<text x="100" y="530" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="530" text-anchor="middle" class="Ls">raemx</text>
+<text x="390" y="530" text-anchor="middle" class="Ls">cf. Lao ນ້ຳ /náːm/</text>
+<text x="100" y="540" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="540" text-anchor="middle" class="Ls">mbouj</text>
+<text x="390" y="540" text-anchor="middle" class="Ls">cf. Lao ບໍ່ /bɔː/</text>
+<text x="100" y="550" text-anchor="middle" class="Ls">good</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">ndei</text>
+<text x="390" y="550" text-anchor="middle" class="Ls">cf. Lao ດີ /diː/</text>
+<line x1="20" y1="556" x2="460" y2="556" stroke="black" stroke-width="0.3"/>
+<text x="240" y="566" text-anchor="middle" class="H">GRAMMATICAL PARALLEL: SERIAL VERB</text>
+<text x="240" y="578" text-anchor="middle" class="Ls">Both Lao and Zhuang use serial verb constructions freely:</text>
+<text x="240" y="589" text-anchor="middle" class="Ls">Lao: ຂ້ອຍ ໄປ ຊື້ ເຂົ້າ (I go buy rice) — two verbs in sequence</text>
+<text x="240" y="600" text-anchor="middle" class="Ls">Zhuang: Gou bae cawx haeux (I go buy rice) — same structure</text>
+<text x="240" y="612" text-anchor="middle" class="Ls">Serial verbs: a classic Tai-Kadai syntactic signature</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 41C ALT · LAO / ZHUANG · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

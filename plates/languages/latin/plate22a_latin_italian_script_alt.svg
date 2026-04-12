@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LATIN (LATINA) / ITALIAN (ITALIANO)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-EUROPEAN · ITALIC BRANCH · PARENT &amp; CLOSEST LIVING DAUGHTER</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 22A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LATIN SCRIPT &amp; ALPHABET —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Latin alphabet derived from Etruscan · itself from Greek Euboean colony scripts</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Classical Latin: 23 letters (no J, U, or W; V served as both /u/ and /w/)</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">No distinction between upper/lowercase in classical inscriptions (all capitals)</text>
+<line x1="20" y1="117" x2="460" y2="117" stroke="black" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">CLASSICAL LATIN PRONUNCIATION (RECONSTRUCTED)</text>
+<text x="100" y="138" text-anchor="middle" class="Lx">LETTER</text>
+<text x="250" y="138" text-anchor="middle" class="Lx">CLASSICAL VALUE</text>
+<text x="390" y="138" text-anchor="middle" class="Lx">COMMON MISTAKE</text>
+<line x1="20" y1="142" x2="460" y2="142" stroke="black" stroke-width="0.3"/>
+<text x="100" y="151" text-anchor="middle" class="Ls">C</text>
+<text x="250" y="151" text-anchor="middle" class="Ls">Always /k/ · Caesar = /ˈkaɪ.sar/</text>
+<text x="390" y="151" text-anchor="middle" class="Ls">Not /s/ or /tʃ/</text>
+<text x="100" y="161" text-anchor="middle" class="Ls">V</text>
+<text x="250" y="161" text-anchor="middle" class="Ls">Always /w/ · veni = /ˈweː.niː/</text>
+<text x="390" y="161" text-anchor="middle" class="Ls">Not /v/</text>
+<text x="100" y="171" text-anchor="middle" class="Ls">AE</text>
+<text x="250" y="171" text-anchor="middle" class="Ls">Diphthong /aɪ/ · Caesar = /kaɪ.sar/</text>
+<text x="390" y="171" text-anchor="middle" class="Ls">Not /iː/</text>
+<text x="100" y="181" text-anchor="middle" class="Ls">QU</text>
+<text x="250" y="181" text-anchor="middle" class="Ls">/kw/ · aqua = /ˈa.kwa/</text>
+<text x="390" y="181" text-anchor="middle" class="Ls">Not /kj/</text>
+<text x="100" y="191" text-anchor="middle" class="Ls">Long vowel</text>
+<text x="250" y="191" text-anchor="middle" class="Ls">Macron: ā ē ī ō ū — phonemically distinct</text>
+<text x="390" y="191" text-anchor="middle" class="Ls">Changes meaning</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="black" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H">VOWEL QUANTITY: PHONEMICALLY CONTRASTIVE</text>
+<text x="240" y="217" text-anchor="middle" class="Ls">malum (apple) /ˈma.lum/  vs  mālum (evil) /ˈmaː.lum/</text>
+<text x="240" y="228" text-anchor="middle" class="Ls">anus (old woman)  vs  ānus (ring/anus) — length = meaning</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="black" stroke-width="0.3"/>
+<text x="240" y="244" text-anchor="middle" class="H">ECCLESIASTICAL vs CLASSICAL PRONUNCIATION</text>
+<text x="240" y="255" text-anchor="middle" class="Ls">Ecclesiastical (Church Latin): C before E/I = /tʃ/ · V = /v/ · AE = /eː/</text>
+<text x="240" y="266" text-anchor="middle" class="Ls">Classical: C always /k/ · V = /w/ · AE = /aɪ/ — two very different sounds</text>
+<line x1="20" y1="272" x2="460" y2="272" stroke="black" stroke-width="0.3"/>
+<text x="240" y="282" text-anchor="middle" class="H">THE 6 CASES (DECLENSION SYSTEM)</text>
+<text x="240" y="293" text-anchor="middle" class="Ls">Nominative (subject) · Genitive (possession) · Dative (indirect object)</text>
+<text x="240" y="304" text-anchor="middle" class="Ls">Accusative (direct object) · Ablative (separation/means) · Vocative (address)</text>
+<text x="240" y="315" text-anchor="middle" class="Ls">Word order is FREE because endings carry grammatical relationships</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="black" stroke-width="0.3"/>
+<text x="240" y="331" text-anchor="middle" class="H">SAMPLE: ROSA (ROSE) — 1ST DECLENSION</text>
+<text x="240" y="342" text-anchor="middle" class="Ls">rosa (nom.) · rosae (gen.) · rosae (dat.) · rosam (acc.) · rosa (abl.)</text>
+<line x1="20" y1="354" x2="460" y2="354" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="357" width="440" height="14" fill="black"/>
+<text x="240" y="367" text-anchor="middle" class="Hb" fill="white">ITALIAN (ITALIANO) — CLOSEST LIVING LANGUAGE TO LATIN</text>
+<line x1="20" y1="371" x2="460" y2="371" stroke="black" stroke-width="0.3"/>
+<text x="240" y="380" text-anchor="middle" class="H">— ITALIAN SCRIPT &amp; SOUNDS —</text>
+<text x="240" y="391" text-anchor="middle" class="Ls">21-letter Latin alphabet (no J K W X Y in native Italian words)</text>
+<text x="240" y="402" text-anchor="middle" class="Ls">Spelling is highly phonemic — Italian is pronounced almost exactly as written</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H">SEVEN VOWELS (STRESSED POSITIONS)</text>
+<text x="240" y="429" text-anchor="middle" class="Ls">/a e ɛ i o ɔ u/ — front/back mid vowel distinction in stressed syllables</text>
+<text x="240" y="440" text-anchor="middle" class="Ls">e.g. /e/ (closed) in sera (evening) vs /ɛ/ (open) in sella (saddle)</text>
+<text x="240" y="451" text-anchor="middle" class="Ls">Unstressed vowels merge toward mid quality — contrast reduced</text>
+<line x1="20" y1="457" x2="460" y2="457" stroke="black" stroke-width="0.3"/>
+<text x="240" y="467" text-anchor="middle" class="H">GEMINATE (DOUBLE) CONSONANTS</text>
+<text x="240" y="478" text-anchor="middle" class="Ls">Italian preserves Latin geminates as a phonemic distinction:</text>
+<text x="240" y="489" text-anchor="middle" class="Ls">nono /ˈnɔ.no/ (ninth)  vs  nonno /ˈnon.no/ (grandfather)</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">pala (shovel)  vs  palla (ball) · fato (fate)  vs  fatto (done)</text>
+<line x1="20" y1="506" x2="460" y2="506" stroke="black" stroke-width="0.3"/>
+<text x="240" y="516" text-anchor="middle" class="H">SOUND CHANGES FROM LATIN TO ITALIAN</text>
+<text x="100" y="527" text-anchor="middle" class="Lx">LATIN</text>
+<text x="240" y="527" text-anchor="middle" class="Lx">CHANGE</text>
+<text x="380" y="527" text-anchor="middle" class="Lx">ITALIAN</text>
+<line x1="20" y1="531" x2="460" y2="531" stroke="black" stroke-width="0.3"/>
+<text x="100" y="540" text-anchor="middle" class="Ls">aqua</text>
+<text x="240" y="540" text-anchor="middle" class="Ls">/kw/ → /kk/</text>
+<text x="380" y="540" text-anchor="middle" class="Ls">acqua</text>
+<text x="100" y="550" text-anchor="middle" class="Ls">nox, noctis</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">case lost; vowel shift</text>
+<text x="380" y="550" text-anchor="middle" class="Ls">notte (night)</text>
+<text x="100" y="560" text-anchor="middle" class="Ls">filius</text>
+<text x="240" y="560" text-anchor="middle" class="Ls">-ius → -io</text>
+<text x="380" y="560" text-anchor="middle" class="Ls">figlio (son)</text>
+<text x="100" y="570" text-anchor="middle" class="Ls">bonus</text>
+<text x="240" y="570" text-anchor="middle" class="Ls">-us dropped</text>
+<text x="380" y="570" text-anchor="middle" class="Ls">buono (good)</text>
+<line x1="20" y1="576" x2="460" y2="576" stroke="black" stroke-width="0.3"/>
+<text x="240" y="586" text-anchor="middle" class="H">REGIONAL ACCENTS</text>
+<text x="240" y="598" text-anchor="middle" class="Ls">Tuscan (Florence) considered prestige standard — Dante's literary language</text>
+<text x="240" y="609" text-anchor="middle" class="Ls">Southern: open vowels · Northern: closer vowels, some devoicing</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 22A ALT · LATIN / ITALIAN · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

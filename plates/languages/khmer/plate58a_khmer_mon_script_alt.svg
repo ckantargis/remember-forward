@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KHMER + MON — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 58A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KHMER — KHMER SCRIPT · AN ABUGIDA —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Khmer script: descended from South Indian Brahmi via the Pallava and Mon scripts. ~7th c. CE.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">33 consonants. Inherent vowel /aɔ/ (a-o). Diacritics above/below/around modify vowels. No tone marks.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Oldest inscription in Southeast Asia using Khmer: Veal Kantel stele (611 CE, Sanskrit + Khmer).</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— KHMER CONSONANTS — TWO SERIES (A–SERIES AND O–SERIES) —</text>
+<text x="240" y="117" text-anchor="middle" class="Ls">Khmer consonants belong to two “series” (registers) that affect the vowel values of diacritics used with them.</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">A-series (1st register): 15 consonants with “a” quality. O-series (2nd register): 18 with “o” quality.</text>
+<text x="240" y="135" text-anchor="middle" class="Lx">Example: ក (ka, A-series) + ា = កា /kaa/. គ (kho, O-series) + ា = /kʊo/.</text>
+<line x1="20" y1="143" x2="460" y2="143" stroke="black" stroke-width="0.3"/>
+<text x="240" y="151" text-anchor="middle" class="H">— KHMER SAMPLE CONSONANTS —</text>
+<text x="55" y="161" text-anchor="middle" class="L">ក</text>
+<text x="55" y="170" text-anchor="middle" class="Lx">a</text>
+<text x="140" y="161" text-anchor="middle" class="L">ខ</text>
+<text x="140" y="170" text-anchor="middle" class="Lx">ha</text>
+<text x="225" y="161" text-anchor="middle" class="L">គ</text>
+<text x="225" y="170" text-anchor="middle" class="Lx">o</text>
+<text x="310" y="161" text-anchor="middle" class="L">ឃ</text>
+<text x="310" y="170" text-anchor="middle" class="Lx">ho</text>
+<text x="395" y="161" text-anchor="middle" class="L">ង</text>
+<text x="395" y="170" text-anchor="middle" class="Lx">a</text>
+<text x="55" y="175" text-anchor="middle" class="L">ច</text>
+<text x="55" y="184" text-anchor="middle" class="Lx">a</text>
+<text x="140" y="175" text-anchor="middle" class="L">ឆ</text>
+<text x="140" y="184" text-anchor="middle" class="Lx">ha</text>
+<text x="225" y="175" text-anchor="middle" class="L">ជ</text>
+<text x="225" y="184" text-anchor="middle" class="Lx">o</text>
+<text x="310" y="175" text-anchor="middle" class="L">ឈ</text>
+<text x="310" y="184" text-anchor="middle" class="Lx">ho</text>
+<text x="395" y="175" text-anchor="middle" class="L">ញ</text>
+<text x="395" y="184" text-anchor="middle" class="Lx">o</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="206" text-anchor="middle" class="H">— KHMER VOWEL DIACRITICS —</text>
+<text x="240" y="216" text-anchor="middle" class="L">ាិីឹឺុូួើឿៀេែៃោៅ  (16 main vowel signs)</text>
+<text x="240" y="230" text-anchor="middle" class="Lx">Each vowel sign has different phonetic value depending on the register (A or O series) of the consonant.</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">— KHMER SCRIPT HISTORY —</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Mon script (itself Brahmi-derived) → Khmer script ~7th c. CE → Khmer passed script to Thai and Lao.</text>
+<text x="240" y="265" text-anchor="middle" class="Lx">Angkor Wat (built 1113–15 CE) inscriptions are primary corpus of classical Khmer. Cambodia’s cultural core.</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="278" width="440" height="14" fill="black"/>
+<text x="240" y="288" text-anchor="middle" class="Hb" fill="white">SECONDARY — MON (မန်မာ) — SCRIPT · WRITING</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="301" text-anchor="middle" class="H">— MON SCRIPT — ANCESTOR OF KHMER, BURMESE, AND THAI SCRIPTS —</text>
+<text x="240" y="311" text-anchor="middle" class="Ls">The Mon script is the source script for Khmer, Burmese, and (indirectly) Thai and Lao writing systems.</text>
+<text x="240" y="320" text-anchor="middle" class="Lx">Mon received Brahmi from South India (~5th c. CE) and became the dominant writing system of mainland SE Asia.</text>
+<text x="240" y="329" text-anchor="middle" class="Lx">Mon script uses the same Unicode block as Burmese (U+1000–U+109F) with Mon-specific extensions.</text>
+<line x1="20" y1="337" x2="460" y2="337" stroke="black" stroke-width="0.3"/>
+<text x="240" y="345" text-anchor="middle" class="H">— MON SCRIPT SAMPLE CHARACTERS —</text>
+<text x="240" y="355" text-anchor="middle" class="Ls">Mon uses most Burmese script characters but with different phonetic values.</text>
+<text x="70" y="365" text-anchor="middle" class="L">က</text>
+<text x="270" y="365" text-anchor="middle" class="Lx">ka (same as Burmese)</text>
+<text x="70" y="375" text-anchor="middle" class="L">ခ</text>
+<text x="270" y="375" text-anchor="middle" class="Lx">kha (same)</text>
+<text x="70" y="385" text-anchor="middle" class="L">မ</text>
+<text x="270" y="385" text-anchor="middle" class="Lx">ma (same shape, same sound)</text>
+<text x="70" y="395" text-anchor="middle" class="L">လ</text>
+<text x="270" y="395" text-anchor="middle" class="Lx">la (same shape, same sound)</text>
+<line x1="20" y1="412" x2="460" y2="412" stroke="black" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H">— SCRIPT BRIDGE — PARENT AND CHILD —</text>
+<text x="240" y="430" text-anchor="middle" class="Ls">Brahmi (India) → Pallava → Mon script (~5th c.) → Khmer script (~7th c.) → Thai/Lao (~13th c.)</text>
+<text x="240" y="439" text-anchor="middle" class="Ls">Brahmi (India) → Pallava → Mon script (~5th c.) → Burmese script (~11th c.)</text>
+<text x="240" y="448" text-anchor="middle" class="Ls">Mon script is the common ancestor of most mainland Southeast Asian writing systems.</text>
+<text x="240" y="457" text-anchor="middle" class="Lx">Khmer and Mon are now written in related but diverged Brahmic scripts — the child and the parent.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 58A ALT · Khmer / Mon · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

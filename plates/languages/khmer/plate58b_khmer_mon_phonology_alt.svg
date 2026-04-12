@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KHMER + MON — PHONOLOGY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 58B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KHMER PHONOLOGY — REGISTER SYSTEM (NOT TONAL) —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Khmer is NOT tonal in the Mandarin/Thai sense, but has a “register” contrast that functions similarly.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Two registers: “chest” voice (lower pitch, breathier) vs. “head” voice (higher, clearer). Historically from tone merger.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— KHMER CONSONANTS — KEY FEATURES —</text>
+<text x="240" y="108" text-anchor="middle" class="Ls">33 consonants including aspirated pairs: k/kh, c/ch, ṭ/ṭh, t/th, p/ph — voiceless/aspirated.</text>
+<text x="240" y="117" text-anchor="middle" class="Lx">Implosives: /ɓ/ and /ɗ/ — present in Khmer. These ingressive sounds add to the distinctive quality.</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">Final consonant clusters: Khmer allows complex final clusters that are rare in neighboring Thai/Lao.</text>
+<line x1="20" y1="134" x2="460" y2="134" stroke="black" stroke-width="0.3"/>
+<text x="240" y="142" text-anchor="middle" class="H">— KHMER VOWELS — LONG/SHORT + DIPHTHONGS —</text>
+<text x="240" y="152" text-anchor="middle" class="Ls">Khmer has ~20+ vowel phonemes including long/short pairs and many diphthongs.</text>
+<text x="80" y="162" text-anchor="middle" class="Lx">/a/ vs /aː/</text>
+<text x="135" y="162" text-anchor="middle" class="Lx">short vs. long a</text>
+<text x="300" y="162" text-anchor="middle" class="Lx">/ɛ/ vs /ɛː/</text>
+<text x="355" y="162" text-anchor="middle" class="Lx">short vs. long é</text>
+<text x="80" y="172" text-anchor="middle" class="Lx">/ɔ/ vs /ɔː/</text>
+<text x="135" y="172" text-anchor="middle" class="Lx">short vs. long o</text>
+<text x="300" y="172" text-anchor="middle" class="Lx">/ɪ/ vs /iː/</text>
+<text x="355" y="172" text-anchor="middle" class="Lx">short vs. long i</text>
+<text x="80" y="182" text-anchor="middle" class="Lx">/u/ vs /uː/</text>
+<text x="135" y="182" text-anchor="middle" class="Lx">short vs. long u</text>
+<text x="300" y="182" text-anchor="middle" class="Lx">/əə/ </text>
+<text x="355" y="182" text-anchor="middle" class="Lx">schwa-like neutral vowel</text>
+<text x="80" y="192" text-anchor="middle" class="Lx">/ia/</text>
+<text x="135" y="192" text-anchor="middle" class="Lx">diphthong ea</text>
+<text x="300" y="192" text-anchor="middle" class="Lx">/ua/</text>
+<text x="355" y="192" text-anchor="middle" class="Lx">diphthong oa</text>
+<line x1="20" y1="208" x2="460" y2="208" stroke="black" stroke-width="0.3"/>
+<text x="240" y="216" text-anchor="middle" class="H">— KHMER STRESS AND RHYTHM —</text>
+<text x="240" y="226" text-anchor="middle" class="Ls">Stress: typically final syllable of a word. Khmer is neither clearly stress-timed nor syllable-timed.</text>
+<text x="240" y="235" text-anchor="middle" class="Lx">Many words have an unstressed “minor syllable” (schwa + consonant) preceding the main syllable: bpram (five) = bp + ram.</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="248" width="440" height="14" fill="black"/>
+<text x="240" y="258" text-anchor="middle" class="Hb" fill="white">SECONDARY — MON — PHONOLOGY</text>
+<line x1="20" y1="262" x2="460" y2="262" stroke="black" stroke-width="0.3"/>
+<text x="240" y="271" text-anchor="middle" class="H">— MON PHONOLOGY — REGISTERS + TONES —</text>
+<text x="240" y="281" text-anchor="middle" class="Ls">Mon has TWO registers (like Khmer) PLUS 2 tones, giving 4 phonological distinctions per vowel.</text>
+<text x="240" y="290" text-anchor="middle" class="Lx">Register 1 (low): modal voice + low/mid pitch. Register 2 (high): creaky voice + high/falling pitch.</text>
+<text x="240" y="299" text-anchor="middle" class="Lx">This is historically earlier than Khmer’s system — Mon preserved both register and tone contrast.</text>
+<line x1="20" y1="307" x2="460" y2="307" stroke="black" stroke-width="0.3"/>
+<text x="240" y="315" text-anchor="middle" class="H">— MON VOWELS — RICH SYSTEM —</text>
+<text x="240" y="325" text-anchor="middle" class="Ls">Mon has ~30+ vowel phonemes across registers and tones. One of the most complex vowel systems in SE Asia.</text>
+<text x="240" y="334" text-anchor="middle" class="Lx">Like Khmer, Mon has short/long pairs and many diphthongs. Mon may have preserved archaic Austroasiatic vowels.</text>
+<line x1="20" y1="342" x2="460" y2="342" stroke="black" stroke-width="0.3"/>
+<text x="240" y="350" text-anchor="middle" class="H">— MON CONSONANTS —</text>
+<text x="240" y="360" text-anchor="middle" class="Ls">Mon has 31 consonants including voiced aspirates (bʰ dʰ) — rare in mainland Southeast Asia.</text>
+<text x="240" y="369" text-anchor="middle" class="Lx">Also: implosives /ɓ ɗ/, the labial-velar /kp/, and prenasalized stops /mb nd ŋg/.</text>
+<line x1="20" y1="377" x2="460" y2="377" stroke="black" stroke-width="0.3"/>
+<text x="240" y="385" text-anchor="middle" class="H">— PHONOLOGICAL BRIDGE — SHARED AUSTROASIATIC FEATURES —</text>
+<text x="80" y="395" text-anchor="middle" class="Lx">Feature</text>
+<text x="235" y="395" text-anchor="middle" class="Lx">Khmer</text>
+<text x="380" y="395" text-anchor="middle" class="Lx">Mon</text>
+<text x="80" y="405" text-anchor="middle" class="Lx">Register</text>
+<text x="235" y="405" text-anchor="middle" class="Lx">2 registers</text>
+<text x="380" y="405" text-anchor="middle" class="Lx">2 registers + 2 tones</text>
+<text x="80" y="415" text-anchor="middle" class="Lx">Tonal</text>
+<text x="235" y="415" text-anchor="middle" class="Lx">No (register only)</text>
+<text x="380" y="415" text-anchor="middle" class="Lx">Yes (register + tone)</text>
+<text x="80" y="425" text-anchor="middle" class="Lx">Implosives</text>
+<text x="235" y="425" text-anchor="middle" class="Lx">Yes /ɓ ɗ/</text>
+<text x="380" y="425" text-anchor="middle" class="Lx">Yes /ɓ ɗ/</text>
+<text x="80" y="435" text-anchor="middle" class="Lx">Vowel count</text>
+<text x="235" y="435" text-anchor="middle" class="Lx">~20</text>
+<text x="380" y="435" text-anchor="middle" class="Lx">~30</text>
+<text x="80" y="445" text-anchor="middle" class="Lx">Script origin</text>
+<text x="235" y="445" text-anchor="middle" class="Lx">Mon-derived</text>
+<text x="380" y="445" text-anchor="middle" class="Lx">Brahmi/Pallava</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 58B ALT · Khmer / Mon · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

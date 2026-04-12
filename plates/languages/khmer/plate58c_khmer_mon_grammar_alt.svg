@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KHMER + MON — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 58C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KHMER GRAMMAR — SVO · ISOLATING · NO INFLECTION —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Khmer is SVO and highly isolating. Grammatical relations expressed by word order and particles.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">No inflection for tense, number, gender, or case. Aspect markers placed before/after verbs.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— KHMER ASPECT AND TENSE MARKERS —</text>
+<text x="90" y="108" text-anchor="middle" class="Ls">បាន (baan)</text>
+<text x="300" y="108" text-anchor="middle" class="Lx">completive past: ខ្ញុម baan si (ate — completed)</text>
+<text x="90" y="119" text-anchor="middle" class="Ls">ន៉ង (ning)</text>
+<text x="300" y="119" text-anchor="middle" class="Lx">future: ន៉ង tow (will go)</text>
+<text x="90" y="130" text-anchor="middle" class="Ls">កំពុង (kampung)</text>
+<text x="300" y="130" text-anchor="middle" class="Lx">progressive: am doing</text>
+<text x="90" y="141" text-anchor="middle" class="Ls">បានជា (baanjaa)</text>
+<text x="300" y="141" text-anchor="middle" class="Lx">already done: have already eaten</text>
+<line x1="20" y1="155" x2="460" y2="155" stroke="black" stroke-width="0.3"/>
+<text x="240" y="163" text-anchor="middle" class="H">— KHMER CORE VOCABULARY —</text>
+<text x="55" y="173" text-anchor="middle" class="Lx">តឹក tịk</text>
+<text x="123" y="173" text-anchor="middle" class="Lx">water</text>
+<text x="185" y="173" text-anchor="middle" class="Lx">᝹្នឹង phňlœng</text>
+<text x="253" y="173" text-anchor="middle" class="Lx">fire</text>
+<text x="315" y="173" text-anchor="middle" class="Lx">ត្មី tmei</text>
+<text x="383" y="173" text-anchor="middle" class="Lx">earth</text>
+<text x="55" y="183" text-anchor="middle" class="Lx">មនុស្ស mnuṣṣ</text>
+<text x="123" y="183" text-anchor="middle" class="Lx">person</text>
+<text x="185" y="183" text-anchor="middle" class="Lx">ចន្ទ្រ chan</text>
+<text x="253" y="183" text-anchor="middle" class="Lx">moon</text>
+<text x="315" y="183" text-anchor="middle" class="Lx">ចង។ជាម chămjām</text>
+<text x="383" y="183" text-anchor="middle" class="Lx">remember</text>
+<text x="55" y="193" text-anchor="middle" class="Lx">យកកាល anakot</text>
+<text x="123" y="193" text-anchor="middle" class="Lx">future</text>
+<text x="185" y="193" text-anchor="middle" class="Lx">សឹរិភាព seriphiap</text>
+<text x="253" y="193" text-anchor="middle" class="Lx">freedom</text>
+<text x="315" y="193" text-anchor="middle" class="Lx">ចិត។ chīt</text>
+<text x="383" y="193" text-anchor="middle" class="Lx">heart</text>
+<text x="55" y="203" text-anchor="middle" class="Lx">សេចក។គ្នា sechăkgnā</text>
+<text x="123" y="203" text-anchor="middle" class="Lx">love</text>
+<text x="185" y="203" text-anchor="middle" class="Lx">ពិភពលឹក phīphɔ̄lœk</text>
+<text x="253" y="203" text-anchor="middle" class="Lx">world</text>
+<text x="315" y="203" text-anchor="middle" class="Lx">ជីវិត jīvit</text>
+<text x="383" y="203" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="220" x2="460" y2="220" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="223" width="440" height="14" fill="black"/>
+<text x="240" y="233" text-anchor="middle" class="Hb" fill="white">SECONDARY — MON — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">— MON GRAMMAR — SVO · ISOLATING · CLASSIFIER SYSTEM —</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Mon is SVO and isolating — same as Khmer. Both Austroasiatic languages share this structural feature.</text>
+<text x="240" y="265" text-anchor="middle" class="Lx">Mon has a rich classifier system: nouns use classifiers when counted. Different for humans, animals, flat things.</text>
+<text x="240" y="274" text-anchor="middle" class="Lx">No inflection for tense, number, or gender. Context, particles, and time words signal tense.</text>
+<line x1="20" y1="282" x2="460" y2="282" stroke="black" stroke-width="0.3"/>
+<text x="240" y="290" text-anchor="middle" class="H">— MON CORE VOCABULARY —</text>
+<text x="60" y="300" text-anchor="middle" class="Ls">kruī</text>
+<text x="118" y="300" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="300" text-anchor="middle" class="Ls">me</text>
+<text x="248" y="300" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="300" text-anchor="middle" class="Ls">paŋ</text>
+<text x="378" y="300" text-anchor="middle" class="Lx">earth/land</text>
+<text x="60" y="310" text-anchor="middle" class="Ls">miɔ</text>
+<text x="118" y="310" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="310" text-anchor="middle" class="Ls">klɛh</text>
+<text x="248" y="310" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="310" text-anchor="middle" class="Ls">yōm</text>
+<text x="378" y="310" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="320" text-anchor="middle" class="Ls">patɔn</text>
+<text x="118" y="320" text-anchor="middle" class="Lx">future</text>
+<text x="190" y="320" text-anchor="middle" class="Ls">cetanā</text>
+<text x="248" y="320" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="320" text-anchor="middle" class="Ls">niɔ</text>
+<text x="378" y="320" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="330" text-anchor="middle" class="Ls">yāŋ</text>
+<text x="118" y="330" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="330" text-anchor="middle" class="Ls">bhav</text>
+<text x="248" y="330" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="330" text-anchor="middle" class="Ls">āyu</text>
+<text x="378" y="330" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="348" x2="460" y2="348" stroke="black" stroke-width="0.3"/>
+<text x="240" y="356" text-anchor="middle" class="H">— SIDE-BY-SIDE — KHMER VS. MON (SAME FAMILY) —</text>
+<text x="80" y="366" text-anchor="middle" class="Lx">CONCEPT</text>
+<text x="240" y="366" text-anchor="middle" class="Lx">KHMER</text>
+<text x="380" y="366" text-anchor="middle" class="Lx">MON</text>
+<text x="80" y="377" text-anchor="middle" class="Lx">water</text>
+<text x="240" y="377" text-anchor="middle" class="Ls">tịk (តឹក)</text>
+<text x="380" y="377" text-anchor="middle" class="Ls">kruī</text>
+<text x="80" y="388" text-anchor="middle" class="Lx">fire</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">phňlœng</text>
+<text x="380" y="388" text-anchor="middle" class="Ls">me</text>
+<text x="80" y="399" text-anchor="middle" class="Lx">person</text>
+<text x="240" y="399" text-anchor="middle" class="Ls">mnuṣṣ</text>
+<text x="380" y="399" text-anchor="middle" class="Ls">miɔ</text>
+<text x="80" y="410" text-anchor="middle" class="Lx">moon</text>
+<text x="240" y="410" text-anchor="middle" class="Ls">chan</text>
+<text x="380" y="410" text-anchor="middle" class="Ls">klɛh</text>
+<text x="80" y="421" text-anchor="middle" class="Lx">life</text>
+<text x="240" y="421" text-anchor="middle" class="Ls">jīvit</text>
+<text x="380" y="421" text-anchor="middle" class="Ls">āyu</text>
+<line x1="20" y1="435" x2="460" y2="435" stroke="black" stroke-width="0.3"/>
+<text x="240" y="443" text-anchor="middle" class="H">— GRAMMAR BRIDGE — AUSTROASIATIC COUSINS —</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">Khmer and Mon are the two major branches of Austroasiatic: Khmeric and Monic. Shared deep grammar.</text>
+<text x="240" y="462" text-anchor="middle" class="Ls">SVO, isolating, classifier systems, no inflection — all hallmarks of Austroasiatic structure.</text>
+<text x="240" y="471" text-anchor="middle" class="Lx">Mon’s historical dominance (Dvaravati, Haripunjaya kingdoms) shaped all of mainland SE Asia’s writing systems.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 58C ALT · Khmer / Mon · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

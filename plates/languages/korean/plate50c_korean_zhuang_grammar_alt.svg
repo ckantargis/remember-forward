@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KOREAN + ZHUANG — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 50C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KOREAN GRAMMAR — SOV · AGGLUTINATIVE · PARTICLES —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Korean is SOV. Particles (postpositions) attach to nouns: 이/가 (subject), 을/를 (object), 에/에서 (location).</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Rich honorific system: verb endings change depending on relative social status of speaker and listener.</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— KOREAN PARTICLES —</text>
+<text x="60" y="108" text-anchor="middle" class="Ls">이/가</text>
+<text x="290" y="108" text-anchor="middle" class="Lx">subject marker: 채미가 맛있다 (food is tasty)</text>
+<text x="60" y="118" text-anchor="middle" class="Ls">은/는</text>
+<text x="290" y="118" text-anchor="middle" class="Lx">topic marker: 나는 학생이다 (I [topic] am a student)</text>
+<text x="60" y="128" text-anchor="middle" class="Ls">을/를</text>
+<text x="290" y="128" text-anchor="middle" class="Lx">object marker: 책을 읽다 (read a book)</text>
+<text x="60" y="138" text-anchor="middle" class="Ls">에</text>
+<text x="290" y="138" text-anchor="middle" class="Lx">location/time: 학교에 (at school), 3시에 (at 3 o’clock)</text>
+<text x="60" y="148" text-anchor="middle" class="Ls">에서</text>
+<text x="290" y="148" text-anchor="middle" class="Lx">action location: 하교에서 (at school, doing action)</text>
+<text x="60" y="158" text-anchor="middle" class="Ls">의</text>
+<text x="290" y="158" text-anchor="middle" class="Lx">genitive: 나의 쳐 (my book)</text>
+<line x1="20" y1="175" x2="460" y2="175" stroke="black" stroke-width="0.3"/>
+<text x="240" y="183" text-anchor="middle" class="H">— KOREAN CORE VOCABULARY —</text>
+<text x="55" y="193" text-anchor="middle" class="Ls">물</text>
+<text x="103" y="193" text-anchor="middle" class="Lx">mul</text>
+<text x="145" y="193" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="193" text-anchor="middle" class="Ls">불</text>
+<text x="238" y="193" text-anchor="middle" class="Lx">bul</text>
+<text x="280" y="193" text-anchor="middle" class="Lx">fire</text>
+<text x="325" y="193" text-anchor="middle" class="Ls">땅</text>
+<text x="373" y="193" text-anchor="middle" class="Lx">ttang</text>
+<text x="415" y="193" text-anchor="middle" class="Lx">earth</text>
+<text x="55" y="203" text-anchor="middle" class="Ls">사람</text>
+<text x="103" y="203" text-anchor="middle" class="Lx">saram</text>
+<text x="145" y="203" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="203" text-anchor="middle" class="Ls">달</text>
+<text x="238" y="203" text-anchor="middle" class="Lx">dal</text>
+<text x="280" y="203" text-anchor="middle" class="Lx">moon</text>
+<text x="325" y="203" text-anchor="middle" class="Ls">기억</text>
+<text x="373" y="203" text-anchor="middle" class="Lx">gieok</text>
+<text x="415" y="203" text-anchor="middle" class="Lx">memory</text>
+<text x="55" y="213" text-anchor="middle" class="Ls">미래</text>
+<text x="103" y="213" text-anchor="middle" class="Lx">mirae</text>
+<text x="145" y="213" text-anchor="middle" class="Lx">future</text>
+<text x="190" y="213" text-anchor="middle" class="Ls">자유</text>
+<text x="238" y="213" text-anchor="middle" class="Lx">jayu</text>
+<text x="280" y="213" text-anchor="middle" class="Lx">freedom</text>
+<text x="325" y="213" text-anchor="middle" class="Ls">마음</text>
+<text x="373" y="213" text-anchor="middle" class="Lx">maeum</text>
+<text x="415" y="213" text-anchor="middle" class="Lx">heart</text>
+<text x="55" y="223" text-anchor="middle" class="Ls">사랑</text>
+<text x="103" y="223" text-anchor="middle" class="Lx">sarang</text>
+<text x="145" y="223" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="223" text-anchor="middle" class="Ls">세계</text>
+<text x="238" y="223" text-anchor="middle" class="Lx">segye</text>
+<text x="280" y="223" text-anchor="middle" class="Lx">world</text>
+<text x="325" y="223" text-anchor="middle" class="Ls">생명</text>
+<text x="373" y="223" text-anchor="middle" class="Lx">saengmyeong</text>
+<text x="415" y="223" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="241" width="440" height="14" fill="black"/>
+<text x="240" y="251" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH) — GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="255" x2="460" y2="255" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H">— ZHUANG GRAMMAR — SVO · ISOLATING · CLASSIFIERS —</text>
+<text x="240" y="274" text-anchor="middle" class="Ls">Zhuang is SVO and isolating. Korean (SOV) and Zhuang (SVO) are typological opposites in word order.</text>
+<text x="240" y="283" text-anchor="middle" class="Lx">Both: no grammatical gender. Both: aspect over tense. Zhuang: noun classifiers. Korean: postpositions.</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="black" stroke-width="0.3"/>
+<text x="240" y="299" text-anchor="middle" class="H">— ZHUANG CLASSIFIERS — SAMPLE —</text>
+<text x="60" y="309" text-anchor="middle" class="Ls">boux</text>
+<text x="300" y="309" text-anchor="middle" class="Lx">human: boux vunz (a person), boux lwgnyez (a child)</text>
+<text x="60" y="319" text-anchor="middle" class="Ls">duz</text>
+<text x="300" y="319" text-anchor="middle" class="Lx">animal: duz ma (a dog), duz gaeq (a chicken)</text>
+<text x="60" y="329" text-anchor="middle" class="Ls">aen</text>
+<text x="300" y="329" text-anchor="middle" class="Lx">round/3D: aen ndwen (the moon), aen gij (something)</text>
+<text x="60" y="339" text-anchor="middle" class="Ls">mbat</text>
+<text x="300" y="339" text-anchor="middle" class="Lx">flat: mbat saw (a book), mbat bohmeh (a paper)</text>
+<line x1="20" y1="358" x2="460" y2="358" stroke="black" stroke-width="0.3"/>
+<text x="240" y="366" text-anchor="middle" class="H">— ZHUANG CORE VOCABULARY —</text>
+<text x="60" y="376" text-anchor="middle" class="Ls">raemx</text>
+<text x="122" y="376" text-anchor="middle" class="Lx">water</text>
+<text x="190" y="376" text-anchor="middle" class="Ls">feiz</text>
+<text x="252" y="376" text-anchor="middle" class="Lx">fire</text>
+<text x="320" y="376" text-anchor="middle" class="Ls">deih</text>
+<text x="382" y="376" text-anchor="middle" class="Lx">earth</text>
+<text x="60" y="386" text-anchor="middle" class="Ls">vunz</text>
+<text x="122" y="386" text-anchor="middle" class="Lx">person</text>
+<text x="190" y="386" text-anchor="middle" class="Ls">ndwen</text>
+<text x="252" y="386" text-anchor="middle" class="Lx">moon</text>
+<text x="320" y="386" text-anchor="middle" class="Ls">naengh</text>
+<text x="382" y="386" text-anchor="middle" class="Lx">remember</text>
+<text x="60" y="396" text-anchor="middle" class="Ls">laeng</text>
+<text x="122" y="396" text-anchor="middle" class="Lx">future/forward</text>
+<text x="190" y="396" text-anchor="middle" class="Ls">swhyouh</text>
+<text x="252" y="396" text-anchor="middle" class="Lx">freedom</text>
+<text x="320" y="396" text-anchor="middle" class="Ls">sim</text>
+<text x="382" y="396" text-anchor="middle" class="Lx">heart</text>
+<text x="60" y="406" text-anchor="middle" class="Ls">yinx</text>
+<text x="122" y="406" text-anchor="middle" class="Lx">love</text>
+<text x="190" y="406" text-anchor="middle" class="Ls">seiqgyaiq</text>
+<text x="252" y="406" text-anchor="middle" class="Lx">world</text>
+<text x="320" y="406" text-anchor="middle" class="Ls">mingh</text>
+<text x="382" y="406" text-anchor="middle" class="Lx">life</text>
+<line x1="20" y1="420" x2="460" y2="420" stroke="black" stroke-width="0.3"/>
+<text x="240" y="428" text-anchor="middle" class="H">— GRAMMAR BRIDGE — SOV ISOLATE MEETS SVO CLASSIFIER —</text>
+<text x="240" y="438" text-anchor="middle" class="Ls">Korean (SOV): nō-ga mul-eul masinda. I-SUBJ water-OBJ drink. = I drink water.</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Zhuang (SVO): Gou gwn raemx. I drink water. No particles, no inflection, 6 tones carry meaning.</text>
+<text x="240" y="456" text-anchor="middle" class="Lx">Korean: agglutinative (many suffixes). Zhuang: isolating (no morphological marking). Maximum contrast.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 50C ALT · Korean / Zhuang · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

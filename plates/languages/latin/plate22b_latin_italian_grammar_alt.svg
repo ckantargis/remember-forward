@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LATIN (LATINA) / ITALIAN (ITALIANO)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-EUROPEAN · ITALIC BRANCH · GRAMMAR COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 22B ALT · GRAMMAR</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LATIN GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="H">THE CASE SYSTEM IN ACTION</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Latin encodes grammar in word ENDINGS, not word ORDER</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Marcus amat Iuliam = Iuliam amat Marcus = Iuliam Marcus amat</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">All mean "Marcus loves Julia" — -am marks object regardless of position</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">NOUN DECLENSION: 5 CLASSES</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">1st: -a stems (rosa, terra) — mostly feminine</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">2nd: -us/-um stems (dominus, bellum) — mostly masculine/neuter</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">3rd: consonant stems (rex, pax, homo) — all genders, most complex</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">4th: -us stems (manus, exercitus) · 5th: -es stems (dies, res)</text>
+<line x1="20" y1="187" x2="460" y2="187" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H">VERB CONJUGATION: PERSON × NUMBER × TENSE × MOOD × VOICE</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">amo, amas, amat, amamus, amatis, amant — (I, you, s/he, we, you-pl, they) love</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">6 tenses: present · imperfect · perfect · pluperfect · future · future perfect</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">Moods: indicative · subjunctive · imperative · infinitive · participle · gerund</text>
+<text x="240" y="241" text-anchor="middle" class="Ls">Voice: active (amo) and passive (amor) — passive formed with endings</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H">SUBJUNCTIVE: OBLIGATORY IN SUBORDINATE CLAUSES</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">Rogo ut venias "I ask that you come" — venias = subjunctive (not indicative)</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">Cum vidissem... "When I had seen..." — cum + pluperfect subjunctive</text>
+<line x1="20" y1="285" x2="460" y2="285" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">WORD ORDER TENDENCY: SOV</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">Default tendency SOV in prose · SVO for emphasis · verb-final in subordinate clauses</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">Cicero: balanced periods with main verb at end — stylistic preference, not rule</text>
+<line x1="20" y1="323" x2="460" y2="323" stroke="black" stroke-width="0.3"/>
+<text x="240" y="333" text-anchor="middle" class="H">NO DEFINITE OR INDEFINITE ARTICLE</text>
+<text x="240" y="344" text-anchor="middle" class="Ls">homo = man / a man / the man (context determines)</text>
+<line x1="20" y1="356" x2="460" y2="356" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="359" width="440" height="14" fill="black"/>
+<text x="240" y="369" text-anchor="middle" class="Hb" fill="white">ITALIAN (ITALIANO) — GRAMMAR: LATIN SIMPLIFIED &amp; REBUILT</text>
+<line x1="20" y1="373" x2="460" y2="373" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H">— ITALIAN GRAMMAR: WHAT CHANGED —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Latin's 6-case system reduced to ZERO grammatical cases in Italian</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">Case relationships now expressed by prepositions + fixed word order (SVO)</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H">DEFINITE ARTICLES (ABSENT IN LATIN)</text>
+<text x="240" y="431" text-anchor="middle" class="Ls">il (m. sg.) · lo (m. before s+cons, z) · la (f. sg.) · i (m. pl.) · le (f. pl.)</text>
+<text x="240" y="442" text-anchor="middle" class="Ls">il libro (the book) · lo studente · la rosa · i libri · le rose</text>
+<line x1="20" y1="448" x2="460" y2="448" stroke="black" stroke-width="0.3"/>
+<text x="240" y="458" text-anchor="middle" class="H">VERB CONJUGATION: SIMPLIFIED YET RICH</text>
+<text x="100" y="469" text-anchor="middle" class="Lx">PERSON</text>
+<text x="240" y="469" text-anchor="middle" class="Lx">AMARE (to love)</text>
+<text x="390" y="469" text-anchor="middle" class="Lx">LATIN AMO</text>
+<line x1="20" y1="473" x2="460" y2="473" stroke="black" stroke-width="0.3"/>
+<text x="100" y="482" text-anchor="middle" class="Ls">io</text>
+<text x="240" y="482" text-anchor="middle" class="Ls">amo</text>
+<text x="390" y="482" text-anchor="middle" class="Ls">amo</text>
+<text x="100" y="492" text-anchor="middle" class="Ls">tu</text>
+<text x="240" y="492" text-anchor="middle" class="Ls">ami</text>
+<text x="390" y="492" text-anchor="middle" class="Ls">amas</text>
+<text x="100" y="502" text-anchor="middle" class="Ls">lui/lei</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">ama</text>
+<text x="390" y="502" text-anchor="middle" class="Ls">amat</text>
+<text x="100" y="512" text-anchor="middle" class="Ls">noi</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">amiamo</text>
+<text x="390" y="512" text-anchor="middle" class="Ls">amamus</text>
+<text x="100" y="522" text-anchor="middle" class="Ls">voi</text>
+<text x="240" y="522" text-anchor="middle" class="Ls">amate</text>
+<text x="390" y="522" text-anchor="middle" class="Ls">amatis</text>
+<text x="100" y="532" text-anchor="middle" class="Ls">loro</text>
+<text x="240" y="532" text-anchor="middle" class="Ls">amano</text>
+<text x="390" y="532" text-anchor="middle" class="Ls">amant</text>
+<line x1="20" y1="537" x2="460" y2="537" stroke="black" stroke-width="0.3"/>
+<text x="240" y="547" text-anchor="middle" class="H">ITALIAN SUBJUNCTIVE: ALIVE AND REQUIRED</text>
+<text x="240" y="558" text-anchor="middle" class="Ls">Voglio che tu venga "I want you to come" — venga = subjunctive</text>
+<text x="240" y="569" text-anchor="middle" class="Ls">Subjunctive required after: volere · sperare · credere · sebbene · affinché</text>
+<line x1="20" y1="575" x2="460" y2="575" stroke="black" stroke-width="0.3"/>
+<text x="240" y="585" text-anchor="middle" class="H">PASSATO PROSSIMO (LATIN LEGACY)</text>
+<text x="240" y="597" text-anchor="middle" class="Ls">Built from essere/avere (be/have) + past participle — same as French, Spanish</text>
+<text x="240" y="608" text-anchor="middle" class="Ls">Ho mangiato (I have eaten / I ate) · Sono andato (I went) — aux. varies by verb</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 22B ALT · LATIN / ITALIAN · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

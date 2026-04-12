@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KOREAN + ZHUANG — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 50A · REMEMBER FORWARD · EXPANDED ~1500MI RADIUS</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— KOREAN — HANGEUL · AN ALPHABET IN SYLLABLE BLOCKS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Hangeul: invented in 1443 CE by King Sejong and royal scholars. World’s only historically documented alphabet invention.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Letters (jamo) are not written linearly but assembled into syllable blocks: consonant + vowel [+ final consonant].</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— HANGEUL CONSONANTS — 19 JAMO —</text>
+<text x="240" y="108" text-anchor="middle" class="L">ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅄ</text>
+<text x="240" y="118" text-anchor="middle" class="Lx">g/k  kk  n  d/t  dd  r/l  m  b/p  bb  bs</text>
+<text x="240" y="126" text-anchor="middle" class="L">ㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ</text>
+<text x="240" y="136" text-anchor="middle" class="Lx">s   ss   ng  j   jj   ch  k   t   p   h</text>
+<line x1="20" y1="140" x2="460" y2="140" stroke="black" stroke-width="0.3"/>
+<text x="240" y="148" text-anchor="middle" class="H">— HANGEUL VOWELS — 21 JAMO —</text>
+<text x="240" y="158" text-anchor="middle" class="L">ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙ</text>
+<text x="240" y="168" text-anchor="middle" class="Lx">a  ae  ya  yae  eo  e  yeo  ye  o  wa  wae</text>
+<text x="240" y="176" text-anchor="middle" class="L">ㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ</text>
+<text x="240" y="186" text-anchor="middle" class="Lx">oe  yo  u  wo  we  wi  yu  eu  ui  i</text>
+<line x1="20" y1="190" x2="460" y2="190" stroke="black" stroke-width="0.3"/>
+<text x="240" y="198" text-anchor="middle" class="H">— HANGEUL SYLLABLE BLOCK STRUCTURE —</text>
+<text x="70" y="208" text-anchor="middle" class="L">한</text>
+<text x="300" y="208" text-anchor="middle" class="Lx">= ㄱ(ηʰ) + ㅡ(eu) + ㄴ(n): han</text>
+<text x="70" y="219" text-anchor="middle" class="L">국</text>
+<text x="300" y="219" text-anchor="middle" class="Lx">= ㄱ(g) + ㅜ(u) + ㅇ(ng) + : guk</text>
+<text x="70" y="230" text-anchor="middle" class="L">어</text>
+<text x="300" y="230" text-anchor="middle" class="Lx">= ㅇ(silent) + ㅓ(ɔ): eo</text>
+<text x="70" y="241" text-anchor="middle" class="L">사</text>
+<text x="300" y="241" text-anchor="middle" class="Lx">= ㅅ(s) + ㅏ(a): sa</text>
+<line x1="20" y1="258" x2="460" y2="258" stroke="black" stroke-width="0.3"/>
+<text x="240" y="266" text-anchor="middle" class="H">— KOREAN WRITING HISTORY —</text>
+<text x="240" y="276" text-anchor="middle" class="Ls">Before Hangeul: Classical Chinese (Hanja) used for writing. Only educated elite could read.</text>
+<text x="240" y="285" text-anchor="middle" class="Lx">Hangeul published in Hunminjeongeum (1446 CE): “Correct sounds for instructing the people.” Designed for literacy.</text>
+<text x="240" y="294" text-anchor="middle" class="Lx">Today: Hangeul-only in South Korea for most contexts. North Korea: also Hangeul-only. ~77M speakers.</text>
+<line x1="20" y1="304" x2="460" y2="304" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="307" width="440" height="14" fill="black"/>
+<text x="240" y="317" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH / 壮语) — SCRIPT · WRITING</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="black" stroke-width="0.3"/>
+<text x="240" y="330" text-anchor="middle" class="H">— ZHUANG — TWO WRITING TRADITIONS: LATIN AND SAWNDIP —</text>
+<text x="240" y="340" text-anchor="middle" class="Ls">Standard Zhuang Script: Latin-based, 26 letters + tone-marking consonant letters. Official since 1982.</text>
+<text x="240" y="349" text-anchor="middle" class="Lx">Sawndip (方块壮文): Chinese-character-based script for Zhuang sounds. Used for centuries in ritual/literary context.</text>
+<text x="240" y="358" text-anchor="middle" class="Lx">Sawndip uses Chinese characters with Zhuang phonetic values, not their Mandarin readings.</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="0.3"/>
+<text x="240" y="374" text-anchor="middle" class="H">— ZHUANG LATIN TONE LETTERS —</text>
+<text x="75" y="384" text-anchor="middle" class="Ls">(no mark)</text>
+<text x="290" y="384" text-anchor="middle" class="Lx">= Tone 1 high level: ma (horse/sesame)</text>
+<text x="75" y="394" text-anchor="middle" class="Ls">-z</text>
+<text x="290" y="394" text-anchor="middle" class="Lx">= Tone 2 high rising: maz</text>
+<text x="75" y="404" text-anchor="middle" class="Ls">-j</text>
+<text x="290" y="404" text-anchor="middle" class="Lx">= Tone 3 dipping: maj</text>
+<text x="75" y="414" text-anchor="middle" class="Ls">-x</text>
+<text x="290" y="414" text-anchor="middle" class="Lx">= Tone 4 low: max</text>
+<text x="75" y="424" text-anchor="middle" class="Ls">-q</text>
+<text x="290" y="424" text-anchor="middle" class="Lx">= Tone 5 low checked (glottal): maq</text>
+<text x="75" y="434" text-anchor="middle" class="Ls">-h</text>
+<text x="290" y="434" text-anchor="middle" class="Lx">= Tone 6 high checked: mah</text>
+<line x1="20" y1="450" x2="460" y2="450" stroke="black" stroke-width="0.3"/>
+<text x="240" y="458" text-anchor="middle" class="H">— SCRIPT BRIDGE — TWO INVENTED SYSTEMS —</text>
+<text x="240" y="468" text-anchor="middle" class="Ls">Hangeul (1443): deliberately invented to promote literacy among Korean people. Top-down government design.</text>
+<text x="240" y="477" text-anchor="middle" class="Lx">Zhuang Latin (1957): deliberately standardized by linguists and government to promote Zhuang literacy.</text>
+<text x="240" y="486" text-anchor="middle" class="Lx">Both: modern, phonemic alphabets designed for maximal literacy access. Same purpose, different approaches.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 50A ALT · Korean / Zhuang · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

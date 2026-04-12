@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KHMER + MON — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 58D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. KHMER PROVERB — ON WATER —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">តឹកច្រឹនច្រែនតែញ កុម្បាលមិនទឹកតឹកជីវិតជានច្រឹនជីវិតន៉ូក</text>
+<text x="240" y="87" text-anchor="middle" class="Ls">Tịk chăroen chēn tēy, kumpal min tịk jīvit jān chăroen jīvit noek.</text>
+<text x="240" y="96" text-anchor="middle" class="F">"Water flowing downstream never stops; cannot stop the river of life either." (Khmer proverb)</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H">— II. ANGKOR WAT INSCRIPTION — ON TIME (~12TH C. CE) —</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Yasaṭha nirîyamānam pīṇḍa māṇatvā sarvam etad iti cetasi...</text>
+<text x="240" y="132" text-anchor="middle" class="Lx">Sanskrit: “Knowing all this to be impermanent in one’s heart...” — Angkor inscription fragment.</text>
+<text x="240" y="141" text-anchor="middle" class="F">Khmer inscriptions often mixed Sanskrit with Khmer — the language of the gods alongside the language of the people.</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H">— III. KHMER BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="168" text-anchor="middle" class="Ls">នេហ័កនេហក្រមបានជាសម្រាប់អ្នកតើតម្លេចជាមនេហកសូម តឹកាន់ចង។ជាមានកាលព្រែ</text>
+<text x="240" y="183" text-anchor="middle" class="Lx">Nēh baan jā samrāp anak tē tmel jaa mnēh ksūm · tīkāŋ chan jām kāl phrēy</text>
+<text x="240" y="192" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Khmer)</text>
+<line x1="20" y1="200" x2="460" y2="200" stroke="black" stroke-width="0.3"/>
+<text x="240" y="208" text-anchor="middle" class="H">— KHMER NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="218" text-anchor="middle" class="Ls">Anakot (យកកាល) = future (from Sanskrit anāgata “not yet come”). Chan jām = remember.</text>
+<text x="240" y="227" text-anchor="middle" class="Lx">Sanskrit loanwords dominate Khmer abstract vocabulary — the legacy of Angkor’s Hindu-Buddhist civilization.</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="240" width="440" height="14" fill="black"/>
+<text x="240" y="250" text-anchor="middle" class="Hb" fill="white">SECONDARY — MON — RUNNING TEXT</text>
+<line x1="20" y1="254" x2="460" y2="254" stroke="black" stroke-width="0.3"/>
+<text x="240" y="263" text-anchor="middle" class="H">— I. MON PROVERB — ON MEMORY AND RIVERS —</text>
+<text x="240" y="273" text-anchor="middle" class="L">Kruī lɔp pā ceikā, miɔ lɔp pā yōm.</text>
+<text x="240" y="284" text-anchor="middle" class="Lx">River flows to  sea   person flows to  memory.</text>
+<text x="240" y="293" text-anchor="middle" class="F">"The river flows to the sea; a person flows into memory." (Mon proverb on the persistence of the dead in memory)</text>
+<line x1="20" y1="301" x2="460" y2="301" stroke="black" stroke-width="0.3"/>
+<text x="240" y="309" text-anchor="middle" class="H">— II. MON INSCRIPTION — WAT MAHEYONG (~11TH C. CE) —</text>
+<text x="240" y="319" text-anchor="middle" class="Ls">Restored Mon text: “By the merit of this deed, may all sentient beings attain peace.”</text>
+<text x="240" y="328" text-anchor="middle" class="Lx">Mon temple inscriptions (~11th–13th c.) are among the oldest texts of mainland Southeast Asia.</text>
+<line x1="20" y1="336" x2="460" y2="336" stroke="black" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="H">— III. MON BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="355" text-anchor="middle" class="L">Nɛ krɔ miɔ klɛh samrāp cāŋ, dot krāk,</text>
+<text x="240" y="367" text-anchor="middle" class="L">yōm miɔ patɔn hɔn.</text>
+<text x="240" y="379" text-anchor="middle" class="Lx">This by people made for you freely / remember person future also.</text>
+<text x="240" y="388" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Mon)</text>
+<line x1="20" y1="396" x2="460" y2="396" stroke="black" stroke-width="0.3"/>
+<text x="240" y="404" text-anchor="middle" class="H">— MON NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Patɔn = future/ahead (lit. the forward path). Yōm = to remember, to keep in heart.</text>
+<text x="240" y="423" text-anchor="middle" class="Lx">Dot krāk = freely/without cost (lit. without price). Mon preserves archaic Austroasiatic vocabulary.</text>
+<line x1="20" y1="431" x2="460" y2="431" stroke="black" stroke-width="0.3"/>
+<text x="240" y="439" text-anchor="middle" class="H">— LANGUAGE BRIDGE — A PARENT AND ITS CHILD —</text>
+<text x="240" y="449" text-anchor="middle" class="Ls">Mon: ~800K speakers. Endangered. Once the dominant culture of mainland SE Asia. Ancestor of Khmer script.</text>
+<text x="240" y="458" text-anchor="middle" class="Ls">Khmer: ~16M speakers. Official language of Cambodia. Inherited its script from Mon. Now the larger language.</text>
+<text x="240" y="467" text-anchor="middle" class="Lx">History reversed: the child-script (Khmer) now belongs to a larger community than the parent (Mon).</text>
+<text x="240" y="476" text-anchor="middle" class="Lx">This plate pairs them as equals — a reminder that cultural inheritance runs in all directions.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 58D ALT · Khmer / Mon · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

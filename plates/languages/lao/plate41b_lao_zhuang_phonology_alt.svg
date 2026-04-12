@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LAO (ພາສາລາວ) / ZHUANG (壯語 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">TAI-KADAI FAMILY · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 41B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LAO PHONOLOGY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">SIX TONES OF LAO</text>
+<text x="90" y="99" text-anchor="start" class="Lx">TONE</text>
+<text x="210" y="99" text-anchor="start" class="Lx">MARK / CLASS</text>
+<text x="340" y="99" text-anchor="start" class="Lx">EXAMPLE</text>
+<line x1="20" y1="103" x2="460" y2="103" stroke="black" stroke-width="0.3"/>
+<text x="90" y="112" text-anchor="start" class="Ls">1. Mid level (ສາມັນ)</text>
+<text x="210" y="112" text-anchor="start" class="Ls">Low-class, no mark</text>
+<text x="340" y="112" text-anchor="start" class="Ls">ຂ້າວ /kʰâːw/ rice</text>
+<text x="90" y="122" text-anchor="start" class="Ls">2. Low level (ເອກ)</text>
+<text x="210" y="122" text-anchor="start" class="Ls">Mid-class + ່</text>
+<text x="340" y="122" text-anchor="start" class="Ls">ກ່າ /kàː/ to kill</text>
+<text x="90" y="132" text-anchor="start" class="Ls">3. Falling (ໂທ)</text>
+<text x="210" y="132" text-anchor="start" class="Ls">Mid-class + ້</text>
+<text x="340" y="132" text-anchor="start" class="Ls">ກ້າ /kâː/ brave</text>
+<text x="90" y="142" text-anchor="start" class="Ls">4. High level (ຕີ)</text>
+<text x="210" y="142" text-anchor="start" class="Ls">High-class, no mark</text>
+<text x="340" y="142" text-anchor="start" class="Ls">ຂາ /kʰáː/ leg</text>
+<text x="90" y="152" text-anchor="start" class="Ls">5. Rising (ຈັດຕະວາ)</text>
+<text x="210" y="152" text-anchor="start" class="Ls">Low-class + ່</text>
+<text x="340" y="152" text-anchor="start" class="Ls">ງ່ານ /ŋân/ work</text>
+<text x="90" y="162" text-anchor="start" class="Ls">6. High-rising (ສູງ)</text>
+<text x="210" y="162" text-anchor="start" class="Ls">Low-class + ້</text>
+<text x="340" y="162" text-anchor="start" class="Ls">ງ້ານ /ŋâːn/ sesame</text>
+<line x1="20" y1="167" x2="460" y2="167" stroke="black" stroke-width="0.3"/>
+<text x="240" y="177" text-anchor="middle" class="H">VOWELS: LENGTH IS PHONEMIC</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">Short: ກິ /ki/ · Long: ກີ /kiː/ — different meaning; 18 vowel nuclei</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Vowel length + tone + consonant class = full syllable identity</text>
+<line x1="20" y1="205" x2="460" y2="205" stroke="black" stroke-width="0.3"/>
+<text x="240" y="215" text-anchor="middle" class="H">CONSONANTS</text>
+<text x="240" y="226" text-anchor="middle" class="Ls">Initial consonants: /p pʰ b/ · /t tʰ d/ · /k kʰ/ · /m n ŋ/ · /f s h/</text>
+<text x="240" y="237" text-anchor="middle" class="Ls">Final consonants: only sonorants + /k p t/ allowed — no final fricatives</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">No consonant clusters in initial position (unlike Thai clusters: /kl pr tr/)</text>
+<line x1="20" y1="254" x2="460" y2="254" stroke="black" stroke-width="0.3"/>
+<text x="240" y="264" text-anchor="middle" class="H">MORA TIMING &amp; SYLLABLE STRUCTURE</text>
+<text x="240" y="275" text-anchor="middle" class="Ls">Lao is syllable-timed · (C)(G)V(V)(C) structure · G = glide /w j/</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">Open syllables (no final): most common · closed syllables restrict final Cs</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="0.3"/>
+<text x="240" y="302" text-anchor="middle" class="H">MINIMAL TONE PAIRS</text>
+<text x="240" y="313" text-anchor="middle" class="Ls">ກາ /kaː/ crow  vs  ກ້າ /kâː/ brave  vs  ກ່າ /kàː/ to kill</text>
+<text x="240" y="324" text-anchor="middle" class="Ls">ຂາ /kʰáː/ leg  vs  ຂ່າ /kʰâː/ galangal  vs  ຂ້າ /kʰàː/ slave</text>
+<text x="240" y="335" text-anchor="middle" class="Ls">Tone is the ONLY difference — a single mark changes meaning entirely</text>
+<line x1="20" y1="347" x2="460" y2="347" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="350" width="440" height="14" fill="black"/>
+<text x="240" y="360" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — PHONOLOGY · TAI-KADAI SISTER</text>
+<line x1="20" y1="364" x2="460" y2="364" stroke="black" stroke-width="0.3"/>
+<text x="240" y="373" text-anchor="middle" class="H">— ZHUANG PHONOLOGY: NORTHERN ZHUANG STANDARD —</text>
+<text x="240" y="384" text-anchor="middle" class="H">SIX TONES (STANDARD ZHUANG LATIN ENCODING)</text>
+<text x="90" y="395" text-anchor="start" class="Lx">SUFFIX</text>
+<text x="200" y="395" text-anchor="start" class="Lx">CONTOUR</text>
+<text x="320" y="395" text-anchor="start" class="Lx">EXAMPLE &amp; GLOSS</text>
+<line x1="20" y1="399" x2="460" y2="399" stroke="black" stroke-width="0.3"/>
+<text x="90" y="408" text-anchor="start" class="Ls">(none) T1</text>
+<text x="200" y="408" text-anchor="start" class="Ls">Mid level 33</text>
+<text x="320" y="408" text-anchor="start" class="Ls">sa (three)</text>
+<text x="90" y="418" text-anchor="start" class="Ls">-b  T2</text>
+<text x="200" y="418" text-anchor="start" class="Ls">Low rising 13</text>
+<text x="320" y="418" text-anchor="start" class="Ls">saeb (receive)</text>
+<text x="90" y="428" text-anchor="start" class="Ls">-x  T3</text>
+<text x="200" y="428" text-anchor="start" class="Ls">High falling 53</text>
+<text x="320" y="428" text-anchor="start" class="Ls">sax (narrow)</text>
+<text x="90" y="438" text-anchor="start" class="Ls">-j  T4</text>
+<text x="200" y="438" text-anchor="start" class="Ls">High level 55</text>
+<text x="320" y="438" text-anchor="start" class="Ls">saj (thin)</text>
+<text x="90" y="448" text-anchor="start" class="Ls">-q  T5</text>
+<text x="200" y="448" text-anchor="start" class="Ls">Mid rising 35</text>
+<text x="320" y="448" text-anchor="start" class="Ls">saq (die, checked)</text>
+<text x="90" y="458" text-anchor="start" class="Ls">-h  T6</text>
+<text x="200" y="458" text-anchor="start" class="Ls">Low level 11</text>
+<text x="320" y="458" text-anchor="start" class="Ls">sah (scatter)</text>
+<line x1="20" y1="464" x2="460" y2="464" stroke="black" stroke-width="0.3"/>
+<text x="240" y="474" text-anchor="middle" class="H">CONSONANTS &amp; CLUSTERS</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Zhuang preserves Proto-Tai clusters: mb- nd- nj- ng- (pre-nasalized stops)</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">mbouj /m̩bou/ = not  ·  ndaej /n̩dai/ = obtain</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">Pre-nasalization: a shared Tai-Kadai feature, reduced in modern Lao/Thai</text>
+<line x1="20" y1="513" x2="460" y2="513" stroke="black" stroke-width="0.3"/>
+<text x="240" y="523" text-anchor="middle" class="H">PROTO-TAI COGNATES: LAO ↔ ZHUANG</text>
+<text x="100" y="533" text-anchor="middle" class="Lx">MEANING</text>
+<text x="240" y="533" text-anchor="middle" class="Lx">LAO</text>
+<text x="370" y="533" text-anchor="middle" class="Lx">ZHUANG</text>
+<line x1="20" y1="537" x2="460" y2="537" stroke="black" stroke-width="0.3"/>
+<text x="100" y="546" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="546" text-anchor="middle" class="Ls">ນ້ຳ /náːm/</text>
+<text x="370" y="546" text-anchor="middle" class="Ls">raemx</text>
+<text x="100" y="556" text-anchor="middle" class="Ls">fish</text>
+<text x="240" y="556" text-anchor="middle" class="Ls">ປາ /paː/</text>
+<text x="370" y="556" text-anchor="middle" class="Ls">bya</text>
+<text x="100" y="566" text-anchor="middle" class="Ls">rice (cooked)</text>
+<text x="240" y="566" text-anchor="middle" class="Ls">ເຂົ້າ /kʰâw/</text>
+<text x="370" y="566" text-anchor="middle" class="Ls">haeux</text>
+<text x="100" y="576" text-anchor="middle" class="Ls">sky/heaven</text>
+<text x="240" y="576" text-anchor="middle" class="Ls">ຟ້າ /fáː/</text>
+<text x="370" y="576" text-anchor="middle" class="Ls">mbwn</text>
+<line x1="20" y1="581" x2="460" y2="581" stroke="black" stroke-width="0.3"/>
+<text x="240" y="591" text-anchor="middle" class="H">PHONOLOGICAL KEY DIFFERENCE</text>
+<text x="240" y="602" text-anchor="middle" class="Ls">Lao /f/ → Zhuang /v/ in many cognates (common Tai-Kadai shift)</text>
+<text x="240" y="613" text-anchor="middle" class="Ls">Both lack /r/ as native phoneme; /l/ serves initial liquid position in Lao</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 41B ALT · LAO / ZHUANG · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

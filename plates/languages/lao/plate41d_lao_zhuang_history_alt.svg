@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">LAO (ພາສາລາວ) / ZHUANG (壯語 · VAHCUENGH)</text>
+<text x="240" y="44" text-anchor="middle" class="S">TAI-KADAI FAMILY · HISTORY &amp; SHARED HERITAGE</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 41D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— LAO: HISTORY &amp; LITERARY TRADITION —</text>
+<text x="240" y="88" text-anchor="middle" class="H">LAN XANG KINGDOM (~1353–1707 CE)</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">"Land of a Million Elephants" — unified Lao-speaking peoples of the Mekong valley</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Script and Theravada Buddhism arrived together; temples became literacy centers</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Classical literature: Phra Lak Phra Lam (Lao Ramayana), Sin Xay epic poem</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">COLONIAL PERIOD &amp; MODERN NATION</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">French Indochina 1893–1953 · Lao language suppressed in favor of French</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Independence 1953 · Pathet Lao 1975 → Lao PDR (People's Democratic Republic)</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Lao declared sole official language; Lao script standardized under socialist policy</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">ISAN: THE INVISIBLE 23 MILLION</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">Isan dialect (NE Thailand): ~23M speakers of a Lao variety, not called "Lao"</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Written in Thai script · politically Thai · linguistically Lao</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">More native Lao-speakers live in Thailand than in Laos itself</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H">LAO TRADITIONAL MUSIC &amp; ORAL POETRY</text>
+<text x="240" y="246" text-anchor="middle" class="Ls">Mor lam: traditional sung poetry form; mɔː = expert, lam = to sing</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">Competitions feature improvised verse in call-and-response format</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">Instrument: khaen (bamboo mouth organ) — UNESCO intangible heritage (2017)</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">SURVIVAL PHRASE</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">ຂ້ອຍ ຮຽນ ພາສາ ລາວ · /kʰɔːj hian pʰaːsaː laːw/</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">"I am studying the Lao language"</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">ຍິນດີທີ່ໄດ້ຮູ້ຈັກ · Nice to meet you (lit. "glad to have met")</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="332" width="440" height="14" fill="black"/>
+<text x="240" y="342" text-anchor="middle" class="Hb" fill="white">ZHUANG (VAHCUENGH) — HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="354" text-anchor="middle" class="H">— ZHUANG: HISTORY &amp; IDENTITY —</text>
+<text x="240" y="365" text-anchor="middle" class="H">INDIGENOUS PRESENCE: 5,000+ YEARS IN GUANGXI</text>
+<text x="240" y="376" text-anchor="middle" class="Ls">Zhuang are the largest ethnic minority in China (~17M) · Guangxi home for millennia</text>
+<text x="240" y="387" text-anchor="middle" class="Ls">Ancient Luoyue/Baiyue peoples identified as Zhuang ancestors</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Bronze drum tradition (~700 BCE): still used in ritual; UNESCO intangible heritage</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="black" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H">SAWNDIP: SCRIPT AS CULTURAL MEMORY</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Sawndip (~方块壮字) developed ~10th c. CE · over 10,000 characters documented</text>
+<text x="240" y="436" text-anchor="middle" class="Ls">Used for Zhuang folk songs (baeuqrox), rituals, and epics — not official literacy</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Each village may use different character forms — no central standardization</text>
+<line x1="20" y1="453" x2="460" y2="453" stroke="black" stroke-width="0.3"/>
+<text x="240" y="463" text-anchor="middle" class="H">GUANGXI ZHUANG AUTONOMOUS REGION (1958)</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">Established 1958 under PRC minority-nationality policy</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Zhuang Latin alphabet created 1957 for mass literacy — revised 1982</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">Today: Mandarin dominant in education; Zhuang taught in some primary schools</text>
+<line x1="20" y1="502" x2="460" y2="502" stroke="black" stroke-width="0.3"/>
+<text x="240" y="512" text-anchor="middle" class="H">FOLK SONG TRADITION: LIUGONG MOUNTAIN FESTIVAL</text>
+<text x="240" y="523" text-anchor="middle" class="Ls">Third day of third lunar month: Liu Sanjie ("Third Sister Liu") festival</text>
+<text x="240" y="534" text-anchor="middle" class="Ls">Antiphonal singing (haj) between villages: a living oral literature tradition</text>
+<text x="240" y="545" text-anchor="middle" class="Ls">Liu Sanjie legend: peasant woman who sang truth to power, became immortal</text>
+<line x1="20" y1="551" x2="460" y2="551" stroke="black" stroke-width="0.3"/>
+<text x="240" y="561" text-anchor="middle" class="H">THE TAI-KADAI CONTINUUM</text>
+<text x="240" y="572" text-anchor="middle" class="Ls">Zhuang · Lao · Thai · Shan · Dai · Tay-Nung · Bouyei — all Tai-Kadai</text>
+<text x="240" y="583" text-anchor="middle" class="Ls">Scattered across S. China, Laos, Thailand, Vietnam, NE India — 100M+ speakers</text>
+<line x1="20" y1="589" x2="460" y2="589" stroke="black" stroke-width="0.3"/>
+<text x="240" y="599" text-anchor="middle" class="H">SURVIVAL PHRASE (ZHUANG LATIN)</text>
+<text x="240" y="611" text-anchor="middle" class="Ls">Gou roxnyinh Vahcuengh · "I understand (know) the Zhuang language"</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 41D ALT · LAO / ZHUANG · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

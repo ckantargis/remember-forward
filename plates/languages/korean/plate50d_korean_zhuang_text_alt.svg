@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">KOREAN + ZHUANG — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 50D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— I. KOREAN PROVERB — ON PATIENCE —</text>
+<text x="240" y="73" text-anchor="middle" class="L">시작이 반이다. (Sijak-i bani-da.)</text>
+<text x="240" y="87" text-anchor="middle" class="Lx">Beginning is  half.</text>
+<text x="240" y="96" text-anchor="middle" class="F">"Well begun is half done." — Korean proverb. Encourages starting as the core act of completion.</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H">— II. KOREAN PROVERB — ON MEMORY —</text>
+<text x="240" y="122" text-anchor="middle" class="L">배운 것을 잊지 마라. (Baeun geot-eul itji mara.)</text>
+<text x="240" y="136" text-anchor="middle" class="Lx">Learned thing-ACC forget not do.</text>
+<text x="240" y="145" text-anchor="middle" class="F">"Do not forget what you have learned." — Core Korean educational proverb.</text>
+<line x1="20" y1="153" x2="460" y2="153" stroke="black" stroke-width="0.3"/>
+<text x="240" y="161" text-anchor="middle" class="H">— III. KOREAN BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="172" text-anchor="middle" class="L">이것은 당신을 위해, 무료로,</text>
+<text x="240" y="185" text-anchor="middle" class="L">미래를 기억한 사람들이 만들었습니다.</text>
+<text x="240" y="198" text-anchor="middle" class="Lx">This-TOP you-ACC for  free-of-charge / future-ACC remembered people-NOM made-HON.</text>
+<text x="240" y="207" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Korean, formal register)</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="223" text-anchor="middle" class="H">— KOREAN NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="233" text-anchor="middle" class="Ls">미래 (mirae) = future (not-yet-come). 기억하다 (gieok-hada) = to remember (memory-do).</text>
+<text x="240" y="242" text-anchor="middle" class="Lx">Verb-final (SOV): 기억한 사람들이 만들었습니다 = remembered-people-NOM made-HON. Honorific verb ending.</text>
+<line x1="20" y1="252" x2="460" y2="252" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="255" width="440" height="14" fill="black"/>
+<text x="240" y="265" text-anchor="middle" class="Hb" fill="white">SECONDARY — ZHUANG (CUENGH) — RUNNING TEXT</text>
+<line x1="20" y1="269" x2="460" y2="269" stroke="black" stroke-width="0.3"/>
+<text x="240" y="278" text-anchor="middle" class="H">— I. ZHUANG PROVERB — ON MOUNTAIN AND RIVER —</text>
+<text x="240" y="288" text-anchor="middle" class="L">Bya ranz, haeux raemx cingq.</text>
+<text x="240" y="299" text-anchor="middle" class="Lx">Mountain home  rice  water right/correct.</text>
+<text x="240" y="308" text-anchor="middle" class="F">"Mountain is home, rice and water are right." — Zhuang proverb on land, sustenance, and belonging.</text>
+<line x1="20" y1="316" x2="460" y2="316" stroke="black" stroke-width="0.3"/>
+<text x="240" y="324" text-anchor="middle" class="H">— II. ZHUANG PROVERB — ON MEMORY AND ROOTS —</text>
+<text x="240" y="334" text-anchor="middle" class="L">Vunz rox giz daeuj rox bya, vunz rox naengh rox sim.</text>
+<text x="240" y="345" text-anchor="middle" class="Lx">Person knows where from knows mountain  person knows remember knows heart.</text>
+<text x="240" y="354" text-anchor="middle" class="F">"One who knows where they came from knows the mountain; one who can remember knows the heart." (Zhuang)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H">— III. ZHUANG BRIDGE PHRASE — REMEMBER FORWARD —</text>
+<text x="240" y="381" text-anchor="middle" class="L">Neix guh hawj mwngz, byaij mbouj gwn cienz,</text>
+<text x="240" y="393" text-anchor="middle" class="L">youq vunz naengh laeng daeuj guh.</text>
+<text x="240" y="405" text-anchor="middle" class="Lx">This made for you  walk not eat money / by people remember forward come made.</text>
+<text x="240" y="414" text-anchor="middle" class="F">"This was made for you, freely, by people who remembered the future." (Zhuang)</text>
+<line x1="20" y1="422" x2="460" y2="422" stroke="black" stroke-width="0.3"/>
+<text x="240" y="430" text-anchor="middle" class="H">— ZHUANG NOTE — “FUTURE” AND “REMEMBER” —</text>
+<text x="240" y="440" text-anchor="middle" class="Ls">Laeng = forward/ahead — spatial-temporal. Naengh = to remember (to sit with / hold alongside).</text>
+<text x="240" y="449" text-anchor="middle" class="Lx">Byaij mbouj gwn cienz = walk without eating money = “for free”. Idiom: cost nothing to receive.</text>
+<line x1="20" y1="457" x2="460" y2="457" stroke="black" stroke-width="0.3"/>
+<text x="240" y="465" text-anchor="middle" class="H">— LANGUAGE BRIDGE — ISOLATE AND KADAI —</text>
+<text x="240" y="475" text-anchor="middle" class="Ls">Korean: ~77M speakers. A language isolate — no proven relatives. Hangeul: the world’s most rational alphabet.</text>
+<text x="240" y="484" text-anchor="middle" class="Ls">Zhuang: ~17M speakers. Largest minority language of China. Tai-Kadai family. Tonal, isolating, SVO.</text>
+<text x="240" y="493" text-anchor="middle" class="Lx">Expanded ~1500mi radius connects an East Asian isolate with a South Chinese Tai-Kadai community.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 50D ALT · Korean / Zhuang · RUNNING TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
