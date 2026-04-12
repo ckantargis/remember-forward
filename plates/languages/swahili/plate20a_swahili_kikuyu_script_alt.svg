@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">SWAHILI</text>
+<text x="240" y="40" text-anchor="middle" class="S">WRITING SYSTEMS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">SWAHILI SCRIPT HISTORY</text>
+<text x="240" y="68" text-anchor="middle" class="L">Swahili = "sawaahili" (Arabic: "of the coast")</text>
+<text x="240" y="79" text-anchor="middle" class="L">Arabic script (Ajami) used for 700+ years before Latin</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Utendi wa Tambuka (1728): oldest known Swahili manuscript in Ajami</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">19th c.: Latin alphabet introduced by European missionaries</text>
+<text x="240" y="112" text-anchor="middle" class="L">1930: Standard Swahili Latin orthography adopted</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">SWAHILI LATIN ALPHABET</text>
+<text x="240" y="139" text-anchor="middle" class="L">24 letters; no Q or X in native words</text>
+<text x="240" y="150" text-anchor="middle" class="L">Digraphs: ch /tʃ/ • gh /ɣ/ • ng’ /ŋ/ • sh /ʃ/ • dh /ð/</text>
+<text x="240" y="161" text-anchor="middle" class="L">th = /θ/ (dental fricative, from Arabic loanwords)</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">Tone: not marked — Swahili is traditionally described as non-tonal</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="188" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="200" text-anchor="middle" class="L">Habari yako?  "How are you?"  (lit. "Your news?")</text>
+<text x="240" y="211" text-anchor="middle" class="L">Nzuri sana.  "Very good."</text>
+<text x="240" y="222" text-anchor="middle" class="L">Hakuna matata.  "No problem."  (lit. "no worries")</text>
+<line x1="20" y1="230" x2="460" y2="230" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="237" width="460" height="13" fill="#111"/>
+<text x="240" y="246.5" text-anchor="middle" class="Hb">KIKUYU / GIKUYU  ·  GĪKŨYŨ  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="262" text-anchor="middle" class="H">KIKUYU LATIN ALPHABET</text>
+<text x="240" y="273" text-anchor="middle" class="L">Latin alphabet; standardized by missionaries and linguists</text>
+<text x="240" y="284" text-anchor="middle" class="H">Kikuyu phonemic features in orthography:</text>
+<text x="240" y="295" text-anchor="middle" class="L">ng’ = /ŋ/ (velar nasal)  •  th = /δ/ or /θ/</text>
+<text x="240" y="306" text-anchor="middle" class="L">Long vowels marked by doubling: aa ii uu ee oo</text>
+<text x="240" y="317" text-anchor="middle" class="L">Tone: HIGH marked by acute accent (á, é, í, ó, ú)</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="333" text-anchor="middle" class="H">KIKUYU SAMPLE</text>
+<text x="240" y="345" text-anchor="middle" class="L">Nī wēga  "I am fine"  (response to greeting)</text>
+<text x="240" y="356" text-anchor="middle" class="L">Nī ũrũ  "It is good"</text>
+<text x="240" y="367" text-anchor="middle" class="Ls">Gikuyu = self-name  •  Kikuyu = name used by non-Kikuyu</text>
+<line x1="20" y1="375" x2="460" y2="375" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="383" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="394" text-anchor="middle" class="L">Both: Latin alphabet  •  both: digraphs for Bantu sounds</text>
+<text x="240" y="405" text-anchor="middle" class="L">Swahili: no tone marking  •  Kikuyu: tone marked with accents</text>
+<text x="240" y="416" text-anchor="middle" class="Ls">Swahili: Arabic loan layer  •  Kikuyu: minimal Arabic influence</text>
+<text x="240" y="427" text-anchor="middle" class="Ls">Both: ng’ digraph for /ŋ/ (shared Bantu feature)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 20a ALT  ·  SWAHILI / KIKUYU  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TAMIL</text>
+<text x="240" y="40" text-anchor="middle" class="S">DRAVIDIAN PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TAMIL CONSONANT FEATURES</text>
+<text x="240" y="68" text-anchor="middle" class="L">No aspiration contrast (unlike Sanskrit, Telugu, Hindi)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Five places of articulation with full retroflexes:</text>
+<text x="240" y="90" text-anchor="middle" class="L">Velar k • Palatal c • Retroflex T • Dental t • Labial p</text>
+<text x="240" y="101" text-anchor="middle" class="L">zh /ʒ/ retroflex approximant: ONLY in Tamil and Malayalam</text>
+<text x="240" y="112" text-anchor="middle" class="L">Distinguishes: l /l/  •  L /ɭ/ (retroflex lateral)  •  zh /ʒ/</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">CONTEXT-DEPENDENT ALLOPHONES</text>
+<text x="240" y="139" text-anchor="middle" class="L">Tamil consonants change sound by position in word:</text>
+<text x="240" y="150" text-anchor="middle" class="L">k = /k/ at start of word  •  /ɡ/ between vowels</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">t = /t/ at start  •  /ð/ or /d/ between vowels</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">p = /p/ initially  •  /b/ or /β/ medially</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="188" text-anchor="middle" class="H">TAMIL VOWELS</text>
+<text x="240" y="199" text-anchor="middle" class="L">5 short + 5 long: a/ā  i/ī  u/ū  e/ē  o/ō  + ai au</text>
+<text x="240" y="210" text-anchor="middle" class="L">Length is phonemic: paal "milk"  •  pal "tooth"</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">No nasal vowels (unlike Sanskrit)</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">TELUGU PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">TELUGU CONSONANT SYSTEM</text>
+<text x="240" y="272" text-anchor="middle" class="L">Four-way stop contrast (more than Tamil):</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">voiceless plain / voiceless aspirate / voiced plain / voiced aspirate</text>
+<text x="240" y="294" text-anchor="middle" class="L">p  ph  b  bh  /  t  th  d  dh  /  k  kh  g  gh</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Borrowed from Sanskrit; Telugu integrated full Sanskrit phonology</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">TELUGU VOWELS</text>
+<text x="240" y="332" text-anchor="middle" class="L">Similar 5+5 short/long vowel system: a/ā i/ī u/ū e/ē o/ō</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">No vowel reduction; all vowels pronounced fully</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Telugu: no zh /ʒ/ (that retroflex approximant is Tamil-specific)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">DRAVIDIAN PHONOLOGICAL PARALLELS</text>
+<text x="240" y="381" text-anchor="middle" class="L">Both: retroflex series T D N L (Dravidian hallmark)</text>
+<text x="240" y="392" text-anchor="middle" class="L">Both: 5+5 short/long vowels  •  both: no tone</text>
+<text x="240" y="403" text-anchor="middle" class="L">Both: SOV word order  •  both: agglutinative morphology</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Tamil: no aspiration, zh present  •  Telugu: aspiration, no zh</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Telugu more Sanskrit-influenced phonologically than Tamil</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 14b ALT  ·  TAMIL / TELUGU  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

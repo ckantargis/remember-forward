@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TAMIL</text>
+<text x="240" y="40" text-anchor="middle" class="S">DRAVIDIAN GRAMMAR</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TAMIL CASE SYSTEM (8 CASES)</text>
+<text x="240" y="68" text-anchor="middle" class="L">Nominative (subject)  •  Accusative (object)  •  Dative</text>
+<text x="240" y="79" text-anchor="middle" class="L">Sociative  •  Instrumental  •  Ablative  •  Genitive  •  Locative</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Cases are suffixed (agglutinative): maram "tree"</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">marattu (gen.) • marattukkku (dat.) • marattil (loc.)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">TAMIL NOUN CLASSES</text>
+<text x="240" y="128" text-anchor="middle" class="L">Nouns divided: High class (rational) vs. Low class (non-rational)</text>
+<text x="240" y="139" text-anchor="middle" class="L">High class: humans + deities (grammatically "rational")</text>
+<text x="240" y="150" text-anchor="middle" class="L">Low class: animals, plants, objects (grammatically "irrational")</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Gender within high class: masculine (avan) / feminine (aval)</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">TAMIL VERB SYSTEM</text>
+<text x="240" y="188" text-anchor="middle" class="L">Verbs conjugate for: person • number • gender • tense</text>
+<text x="240" y="199" text-anchor="middle" class="L">Three tenses: past / present / future</text>
+<text x="240" y="210" text-anchor="middle" class="L">Negative verb forms: separate paradigm (not just "not + verb")</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">Diglossia: literary Tamil ≠ spoken Tamil (different verb forms)</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">TELUGU GRAMMAR  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">TELUGU CASE SYSTEM (7 CASES)</text>
+<text x="240" y="272" text-anchor="middle" class="L">Nominative • Accusative • Instrumental • Dative</text>
+<text x="240" y="283" text-anchor="middle" class="L">Ablative • Genitive • Locative</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Same agglutinative case system: ilūdu "house"</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">ilūniki (dat.) • ilūlo (loc.) • ilūnu (acc.)</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">TELUGU NOUN CLASSES</text>
+<text x="240" y="332" text-anchor="middle" class="L">Similar rational/irrational distinction as Tamil</text>
+<text x="240" y="343" text-anchor="middle" class="L">Masculine / feminine / neuter for rational nouns</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Telugu neuter class broader than Tamil (includes many animals)</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">TELUGU VERB SYSTEM</text>
+<text x="240" y="381" text-anchor="middle" class="L">Same SOV structure; verbs mark person/number/gender/tense</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Participial construction: elaborate non-finite verb forms</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Telugu diglossia: grantham (literary) vs. vyavaharikam (spoken)</text>
+<line x1="20" y1="411" x2="460" y2="411" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="419" text-anchor="middle" class="H">SHARED DRAVIDIAN GRAMMAR</text>
+<text x="240" y="430" text-anchor="middle" class="L">Both: SOV  •  agglutinative  •  postpositions  •  rational/irrational</text>
+<text x="240" y="441" text-anchor="middle" class="L">Both: no articles  •  relative clauses BEFORE noun (unlike English)</text>
+<text x="240" y="452" text-anchor="middle" class="L">Both: diglossia  •  both: ancient literary traditions</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 14c ALT  ·  TAMIL / TELUGU  ·  GRAMMAR</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

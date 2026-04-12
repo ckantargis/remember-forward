@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TAGALOG</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; THE PHILIPPINES</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">AUSTRONESIAN ARRIVAL</text>
+<text x="240" y="68" text-anchor="middle" class="L">~2200 BCE: Austronesian speakers arrive in Philippines from Taiwan</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">Proto-Philippine: ancestor of Tagalog, Cebuano, Ilocano, and 170+ others</text>
+<text x="240" y="90" text-anchor="middle" class="L">Tagalog = "taga-ilog" (people of the river) — Luzon river peoples</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Kawi-influenced Baybayin: shows Indian Ocean trade connections</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">SPANISH COLONIAL PERIOD (1565-1898)</text>
+<text x="240" y="128" text-anchor="middle" class="L">1565: Miguel Lopez de Legazpi founds Spanish settlement in Cebu</text>
+<text x="240" y="139" text-anchor="middle" class="L">Spanish: 4,000+ loanwords in Filipino (kumusta, mesa, pera...)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Latin alphabet replaces Baybayin under Spanish influence</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">1896: Philippine Revolution — Jose Rizal writes novels in Spanish</text>
+<text x="240" y="172" text-anchor="middle" class="Ls">1898: Spanish-American War; Philippines becomes US territory</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="188" text-anchor="middle" class="H">TAGALOG AS NATIONAL LANGUAGE</text>
+<text x="240" y="199" text-anchor="middle" class="L">1937: Institute of National Language chooses Tagalog as basis</text>
+<text x="240" y="210" text-anchor="middle" class="L">1987: Filipino (Tagalog-based) declared official alongside English</text>
+<text x="240" y="221" text-anchor="middle" class="L">~80M speakers; 3rd most widely spoken Asian language</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">CEBUANO HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">CEBU: FIRST SPANISH CONTACT</text>
+<text x="240" y="272" text-anchor="middle" class="L">1521: Magellan lands in Cebu — first European contact in Philippines</text>
+<text x="240" y="283" text-anchor="middle" class="L">Lapu-Lapu: Cebuano chieftain who killed Magellan in Battle of Mactan</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Lapu-Lapu: Philippine national hero; face on 1-centavo coin</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">1565: Legazpi returns; Cebu becomes first Spanish settlement</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">CEBUANO SPREAD</text>
+<text x="240" y="332" text-anchor="middle" class="L">Cebuano expanded across Visayas and Mindanao via migration</text>
+<text x="240" y="343" text-anchor="middle" class="L">~20M native speakers; actually MORE than Tagalog L1 speakers</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Bisaya identity: strong regional pride, distinct from Manila Tagalog</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">TAGALOG vs. CEBUANO RIVALRY</text>
+<text x="240" y="381" text-anchor="middle" class="L">Cebuano speakers resented Tagalog being chosen as national base</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Cebuano: more speakers L1, but geographically dispersed</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Tagalog: centered in Manila (political capital)</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Today: Filipino (Tagalog-based) taught in all Philippine schools</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Cebuano: remains vibrant; Sto. Nino shrine keeps Cebu as spiritual center</text>
+<text x="240" y="436" text-anchor="middle" class="L">Both peoples: Austronesian kin, 500 years of shared colonial history</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 42d ALT  ·  TAGALOG / CEBUANO  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

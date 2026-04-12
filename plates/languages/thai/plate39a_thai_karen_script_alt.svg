@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">THAI</text>
+<text x="240" y="40" text-anchor="middle" class="S">THAI SCRIPT</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">THAI ALPHABET — AN ABUGIDA</text>
+<text x="240" y="68" text-anchor="middle" class="L">Created 1283 CE by King Ramkhamhaeng; derived from Khmer</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">Khmer script derived from ancient Pallava (South Indian)</text>
+<text x="240" y="90" text-anchor="middle" class="L">44 consonants • 15 vowel forms • 4 tone marks • numerals</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">THREE CONSONANT CLASSES</text>
+<text x="240" y="117" text-anchor="middle" class="L">Mid class (ก จ ฐ ต ป อ): default tone rules</text>
+<text x="240" y="128" text-anchor="middle" class="L">High class (ฉ ถ ผ ฝ ห): shift tones up</text>
+<text x="240" y="139" text-anchor="middle" class="L">Low class (ง ช ซ ญ ฎ ฏ ฐ ...): shift tones down</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Class + tone mark + vowel type together determine the tone</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">VOWELS</text>
+<text x="240" y="177" text-anchor="middle" class="L">Short: ะ ิ ุ เะ แะ โะ ใ ไ</text>
+<text x="240" y="188" text-anchor="middle" class="L">Long: า ี ู เ แ โ เอ เา เือ อ ว</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Vowels appear above, below, before or after consonants</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="227" text-anchor="middle" class="L">สวัสดี  Sawatdee "Hello/Goodbye"</text>
+<text x="240" y="238" text-anchor="middle" class="L">ไทย  Thai = "Thai language/Thai people"</text>
+<line x1="20" y1="246" x2="460" y2="246" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="253" width="460" height="13" fill="#111"/>
+<text x="240" y="262.5" text-anchor="middle" class="Hb">KAREN  ·  PKO / S’GAW  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="278" text-anchor="middle" class="H">KAREN WRITING SYSTEMS</text>
+<text x="240" y="289" text-anchor="middle" class="L">S'gaw Karen: largest Karen variety (~3M speakers)</text>
+<text x="240" y="300" text-anchor="middle" class="L">Pwo Karen: second variety (~1M speakers)</text>
+<text x="240" y="311" text-anchor="middle" class="L">1832: American Baptist missionaries create S'gaw Karen script</text>
+<text x="240" y="322" text-anchor="middle" class="L">S'gaw script: derived from Burmese Mon script (rounded letters)</text>
+<text x="240" y="333" text-anchor="middle" class="Ls">Abugida: consonant + inherent vowel, modified by diacritics</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="349" text-anchor="middle" class="H">S'GAW KAREN SAMPLE</text>
+<text x="240" y="361" text-anchor="middle" class="L">ကမာ (Karen word in Burmese-derived script)</text>
+<text x="240" y="372" text-anchor="middle" class="Ls">Karen written script resembles Burmese (circular forms)</text>
+<line x1="20" y1="380" x2="460" y2="380" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="388" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="399" text-anchor="middle" class="L">Thai: derived from Khmer/Pallava (angular forms)</text>
+<text x="240" y="410" text-anchor="middle" class="L">Karen: derived from Mon/Burmese (rounded circular forms)</text>
+<text x="240" y="421" text-anchor="middle" class="L">Both: abugida structure  •  both: tone marking system</text>
+<text x="240" y="432" text-anchor="middle" class="Ls">Both scripts used in Thailand; Karen schools use Karen script</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 39a ALT  ·  THAI / KAREN  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

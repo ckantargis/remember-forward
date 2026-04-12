@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TAGALOG</text>
+<text x="240" y="40" text-anchor="middle" class="S">BAYBAYIN &amp; MODERN SCRIPT</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">BAYBAYIN — INDIGENOUS SCRIPT</text>
+<text x="240" y="68" text-anchor="middle" class="L">Baybayin: pre-colonial abugida derived from Brahmi via Kawi</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">~300 CE arrival in Philippines; used until ~1800s</text>
+<text x="240" y="90" text-anchor="middle" class="L">17 characters: 3 vowels + 14 consonants (each with inherent /a/)</text>
+<text x="240" y="101" text-anchor="middle" class="L">Kudlit diacritic: above consonant = /e/ or /i/ • below = /o/ or /u/</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">Cruz kudlit (cross): added by Spanish missionaries to write /no vowel/</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">BAYBAYIN SAMPLE</text>
+<text x="240" y="140" text-anchor="middle" class="Fb">ꦒꦤꦗ (ba-yan = nation/homeland)</text>
+<text x="240" y="151" text-anchor="middle" class="Ls">Baybayin Unicode: U+A980–U+A9DF</text>
+<line x1="20" y1="159" x2="460" y2="159" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="167" text-anchor="middle" class="H">MODERN FILIPINO LATIN ALPHABET (28 LETTERS)</text>
+<text x="240" y="178" text-anchor="middle" class="Ls">Spanish-derived Latin alphabet + English letters (c, f, j, q, v, x, z)</text>
+<text x="240" y="189" text-anchor="middle" class="L">ng: single letter /ŋ/ — not n+g but its own unit</text>
+<text x="240" y="200" text-anchor="middle" class="L">ng before vowels: ngayon "now" /ŋaˈjon/</text>
+<text x="240" y="211" text-anchor="middle" class="Ls">Glottal stop /ʔ/: marked with hyphen in some styles or unmarked</text>
+<line x1="20" y1="219" x2="460" y2="219" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="226" width="460" height="13" fill="#111"/>
+<text x="240" y="235.5" text-anchor="middle" class="Hb">CEBUANO  ·  BISAYA  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="251" text-anchor="middle" class="H">CEBUANO BAYBAYIN HERITAGE</text>
+<text x="240" y="262" text-anchor="middle" class="L">Cebuano region: also used Baybayin pre-colonial</text>
+<text x="240" y="273" text-anchor="middle" class="Ls">Visayan Baybayin: slight variant of Tagalog Baybayin</text>
+<text x="240" y="284" text-anchor="middle" class="Ls">Spanish missionaries brought Latin to Cebu in 1565</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="300" text-anchor="middle" class="H">MODERN CEBUANO LATIN ALPHABET</text>
+<text x="240" y="311" text-anchor="middle" class="L">20 letters in standard Cebuano; same Latin base as Tagalog</text>
+<text x="240" y="322" text-anchor="middle" class="L">ng = /ŋ/ (same as Tagalog)</text>
+<text x="240" y="333" text-anchor="middle" class="L">Glottal stop: often marked with dash or apostrophe</text>
+<text x="240" y="344" text-anchor="middle" class="Ls">Cebuano also called Bisaya/Visayan (Bisaya = Visayan people)</text>
+<line x1="20" y1="352" x2="460" y2="352" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="360" text-anchor="middle" class="H">SCRIPT SAMPLE COMPARISON</text>
+<text x="240" y="371" text-anchor="middle" class="L">Tagalog: Magandang umaga!  "Good morning!"</text>
+<text x="240" y="382" text-anchor="middle" class="L">Cebuano: Maayong buntag!  "Good morning!"</text>
+<text x="240" y="393" text-anchor="middle" class="L">Tagalog: Salamat  "Thank you"</text>
+<text x="240" y="404" text-anchor="middle" class="L">Cebuano: Salamat  "Thank you"  (identical!)</text>
+<text x="240" y="415" text-anchor="middle" class="Ls">Both share Malay "salamat" via Austronesian links</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 42a ALT  ·  TAGALOG / CEBUANO  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

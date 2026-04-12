@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">TAGALOG</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">TAGALOG CONSONANT SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">21 phonemes; stops, fricatives, nasals, approximants</text>
+<text x="240" y="79" text-anchor="middle" class="L">Stops: p b • t d • k g • /ʔ/ (glottal stop)</text>
+<text x="240" y="90" text-anchor="middle" class="L">Glottal stop: phonemic, often unmarked in spelling</text>
+<text x="240" y="101" text-anchor="middle" class="L">baˈba (door) vs. báʔba (dip) — stress + glottal distinguish</text>
+<text x="240" y="112" text-anchor="middle" class="L">ng /ŋ/: can occur at word start (unlike English)</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">TAGALOG VOWELS</text>
+<text x="240" y="139" text-anchor="middle" class="L">Five vowels: a e i o u  •  /e/ and /i/ sometimes merge</text>
+<text x="240" y="150" text-anchor="middle" class="L">Stress is phonemic: áraw "sun" vs. aráw "day"</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Final glottal stop after stressed vowel: bangkóʔ "chair"</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">STRESS PATTERNS</text>
+<text x="240" y="188" text-anchor="middle" class="L">Stress on penultimate or final syllable (plus glottal-final type)</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Stress + glottal stop patterns mark vocabulary meaning</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Spanish loanwords: keep original stress (opisina "office")</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">CEBUANO PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">CEBUANO CONSONANT SYSTEM</text>
+<text x="240" y="261" text-anchor="middle" class="L">Similar inventory to Tagalog; same Austronesian stock</text>
+<text x="240" y="272" text-anchor="middle" class="L">Glottal stop /ʔ/ also phonemic: kamotʔ "hand" vs. kamot "to scratch"</text>
+<text x="240" y="283" text-anchor="middle" class="L">ng /ŋ/ at word start: ngano "why" • ngil-ad "ugly"</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">CEBUANO VOWELS</text>
+<text x="240" y="310" text-anchor="middle" class="L">Three contrastive vowels: /a/ /i/ /u/ (more archaic than Tagalog)</text>
+<text x="240" y="321" text-anchor="middle" class="L">Tagalog has 5 vowels • Cebuano has 3 core vowels</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">[e] and [o] are allophones of /i/ and /u/ in Cebuano</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Reflects more conservative Proto-Philippine vowel system</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="359" text-anchor="middle" class="H">PHONOLOGICAL COMPARISON</text>
+<text x="240" y="370" text-anchor="middle" class="L">Tagalog 5 vowels  vs.  Cebuano 3 core vowels</text>
+<text x="240" y="381" text-anchor="middle" class="L">Both: phonemic glottal stop  •  both: /ŋ/ at word start</text>
+<text x="240" y="392" text-anchor="middle" class="L">Both: stress as phonemic  •  both: CV syllable preference</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Cebuano: more archaic vowel system  •  Tagalog: more vowel distinctions</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Both lack tone — unlike mainland SE Asian languages</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 42b ALT  ·  TAGALOG / CEBUANO  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
