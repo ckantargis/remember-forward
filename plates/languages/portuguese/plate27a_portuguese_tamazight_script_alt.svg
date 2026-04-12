@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PORTUGUESE (PORTUGUÊS) / TAMAZIGHT (ⵜⴰⵎⴰⵣⵉⵖⵜ)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-EUROPEAN / AFROASIATIC · ATLANTIC NEIGHBORS · ACROSS THE STRAIT</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 27A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PORTUGUESE: SCRIPT &amp; PHONOLOGY OVERVIEW —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Latin alphabet · orthography reflects historical pronunciation more than current</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Diacritics: ã à â á é ê í ó ô ú ü ç — nasal vowels (unique in Romance)</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">European Portuguese vs Brazilian Portuguese: significant pronunciation difference</text>
+<line x1="20" y1="117" x2="460" y2="117" stroke="black" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">NASAL VOWELS: PORTUGUESE SIGNATURE FEATURE</text>
+<text x="240" y="138" text-anchor="middle" class="Ls">/ã/ (masc. pl. suffix) · /õ/ (they, from Latin -unt) · /ɛ̃/ /ĩ/ /ʉ̃/</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">pão (bread) /pɐ̃w/ · irmã (sister) · atenção (attention)</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Nasal vowels: unique to Portuguese among major Romance languages</text>
+<line x1="20" y1="166" x2="460" y2="166" stroke="black" stroke-width="0.3"/>
+<text x="240" y="176" text-anchor="middle" class="H">EUROPEAN vs BRAZILIAN PRONUNCIATION</text>
+<text x="240" y="187" text-anchor="middle" class="Ls">European: vowel reduction/deletion in unstressed syllables (prato = /pratu/)</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">Brazilian: full vowel quality preserved (prato = /pra.tu/) — more open</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">Both: same orthography; mutual intelligibility high in writing, moderate in speech</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="225" text-anchor="middle" class="H">PORTUGUESE CONSONANTS</text>
+<text x="240" y="236" text-anchor="middle" class="Ls">/p b t d k g/ · /f v s z ʃ ʒ/ · /m n ɲ/ · /l ʎ/ · /r ʁ ɾ/</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">Palatal sounds: lh /ʎ/ (filho=son) · nh /ɲ/ (vinho=wine) — from Latin groups</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Sibilants: s/z before vowels; sh/zh before consonants (European) or s/z (Brazilian)</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H">SAMPLE WORDS</text>
+<text x="240" y="285" text-anchor="middle" class="Ls">olá (hello) · obrigado/a (thank you) · água (água) = water</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">saudàde (longing/nostalgia) — the Portuguese untranslatable</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">São Paulo (Saint Paul) · ã = nasal vowel in city name</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="black" stroke-width="0.3"/>
+<text x="240" y="323" text-anchor="middle" class="H">PORTUGUESE AROUND THE WORLD</text>
+<text x="240" y="334" text-anchor="middle" class="Ls">~260M speakers · official in: Portugal, Brazil, Angola, Mozambique, Cape Verde</text>
+<text x="240" y="345" text-anchor="middle" class="Ls">Also: Guinea-Bissau, São Tomé and Príncipe, East Timor, Macau, Equatorial Guinea</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="360" width="440" height="14" fill="black"/>
+<text x="240" y="370" text-anchor="middle" class="Hb" fill="white">TAMAZIGHT (ⵜⴰⵎⴰⵣⵉⵖⵜ TAMAZIGHT) — MOROCCO/ALGERIA · ~550MI</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H">— TAMAZIGHT: THREE SCRIPTS —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">TIFINAGH: ancient Berber script; modern Neo-Tifinagh standardized by IRCAM (2003)</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">Morocco official: Neo-Tifinagh ⵜⴰⵎⴰⵣⵉⵖⵜ for official Amazigh language</text>
+<text x="240" y="415" text-anchor="middle" class="Ls">Latin (Kabyle Algeria, diaspora, online) · Arabic (some communities)</text>
+<line x1="20" y1="421" x2="460" y2="421" stroke="black" stroke-width="0.3"/>
+<text x="240" y="431" text-anchor="middle" class="H">TIFINAGH SCRIPT: ANCIENT &amp; REVIVED</text>
+<text x="240" y="442" text-anchor="middle" class="Ls">Tifinagh: 2,000+ years old · found in rock inscriptions across North Africa</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">Tuareg still use traditional Tifinagh (Tamahaq) — mostly women preserved it</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">Neo-Tifinagh: Unicode block U+2D30–U+2D7F · added to Unicode 4.1 (2005)</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="H">TAMAZIGHT VARIETIES</text>
+<text x="240" y="491" text-anchor="middle" class="Ls">Tachelhit/Shilha: ~8M, SW Morocco (High Atlas, Souss) — largest variety</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">Central Atlas Tamazight: ~3M, Atlas Mountains, central Morocco</text>
+<text x="240" y="513" text-anchor="middle" class="Ls">Tarifit/Rif Berber: ~1.5M, Rif mountains, N Morocco — closest to Iberia</text>
+<text x="240" y="524" text-anchor="middle" class="Ls">Kabyle: ~5M, Kabylie, NE Algeria — most documented; diaspora in France</text>
+<line x1="20" y1="530" x2="460" y2="530" stroke="black" stroke-width="0.3"/>
+<text x="240" y="540" text-anchor="middle" class="H">TAMAZIGHT PHONOLOGY OVERVIEW</text>
+<text x="240" y="551" text-anchor="middle" class="Ls">3 short vowels: /a i u/ · some dialects: schwa /ə/ in consonant clusters</text>
+<text x="240" y="562" text-anchor="middle" class="Ls">Rich consonant inventory: pharyngeals /ħ ʕ/ · uvulars /q ʁ/ · emphatics /ʂ ẓ ṭ ẑ/</text>
+<line x1="20" y1="568" x2="460" y2="568" stroke="black" stroke-width="0.3"/>
+<text x="240" y="578" text-anchor="middle" class="H">SAMPLE WORDS (TIFINAGH + LATIN)</text>
+<text x="240" y="589" text-anchor="middle" class="Ls">ⵜⴰⵎⴰⵣⵉⵖⵜ = tamazight (the language/the free language)</text>
+<text x="240" y="600" text-anchor="middle" class="Ls">azul (hello in Kabyle) · aman (water) · tanemmirt (thank you, Tachelhit)</text>
+<text x="240" y="611" text-anchor="middle" class="Ls">amazigh = free person (origin of Berber identity term)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 27A ALT · PORTUGUESE / TAMAZIGHT · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

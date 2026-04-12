@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PERSIAN (فارسی) / KURDISH (کوردی)</text>
+<text x="240" y="44" text-anchor="middle" class="S">IRANIAN BRANCH · PHONOLOGY &amp; GRAMMAR COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 23B ALT · PHONOLOGY &amp; GRAMMAR</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PERSIAN GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">SOV word order · no case inflection · no grammatical gender · postpositions</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Verb conjugation: person + number + tense + mood encoded in suffix</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">PERSIAN VERB STRUCTURE</text>
+<text x="100" y="126" text-anchor="middle" class="Lx">FORM</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">PERSIAN</text>
+<text x="390" y="126" text-anchor="middle" class="Lx">GLOSS</text>
+<line x1="20" y1="130" x2="460" y2="130" stroke="black" stroke-width="0.3"/>
+<text x="100" y="139" text-anchor="middle" class="Ls">Infinitive</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">raftan (رفتن)</text>
+<text x="390" y="139" text-anchor="middle" class="Ls">to go</text>
+<text x="100" y="149" text-anchor="middle" class="Ls">1sg pres.</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">mi-ravam (میروم)</text>
+<text x="390" y="149" text-anchor="middle" class="Ls">I go (mi- = imperfective)</text>
+<text x="100" y="159" text-anchor="middle" class="Ls">3sg pres.</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">mi-ravad (میرود)</text>
+<text x="390" y="159" text-anchor="middle" class="Ls">s/he goes</text>
+<text x="100" y="169" text-anchor="middle" class="Ls">1sg past</text>
+<text x="240" y="169" text-anchor="middle" class="Ls">raftam (رفتم)</text>
+<text x="390" y="169" text-anchor="middle" class="Ls">I went</text>
+<text x="100" y="179" text-anchor="middle" class="Ls">Subjunctive</text>
+<text x="240" y="179" text-anchor="middle" class="Ls">be-ravam (بروم)</text>
+<text x="390" y="179" text-anchor="middle" class="Ls">that I go</text>
+<line x1="20" y1="184" x2="460" y2="184" stroke="black" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H">PERSIAN PLURAL MARKERS</text>
+<text x="240" y="205" text-anchor="middle" class="Ls">-ha (ها): general plural · -an (ان): animate/classical plural</text>
+<text x="240" y="216" text-anchor="middle" class="Ls">ketab-ha (books) · mard-an (men, classical) · ketab-ha-ye bozorg (big books)</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<text x="240" y="232" text-anchor="middle" class="H">CORE VOCABULARY (PERSIAN)</text>
+<text x="100" y="243" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="243" text-anchor="middle" class="Lx">PERSIAN</text>
+<text x="390" y="243" text-anchor="middle" class="Lx">ROMANIZATION</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="100" y="256" text-anchor="middle" class="Ls">I</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">من</text>
+<text x="390" y="256" text-anchor="middle" class="Ls">man</text>
+<text x="100" y="266" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="266" text-anchor="middle" class="Ls">تو</text>
+<text x="390" y="266" text-anchor="middle" class="Ls">to</text>
+<text x="100" y="276" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="276" text-anchor="middle" class="Ls">آب</text>
+<text x="390" y="276" text-anchor="middle" class="Ls">ab</text>
+<text x="100" y="286" text-anchor="middle" class="Ls">not</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">نه</text>
+<text x="390" y="286" text-anchor="middle" class="Ls">na/ne</text>
+<text x="100" y="296" text-anchor="middle" class="Ls">love</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">عشق</text>
+<text x="390" y="296" text-anchor="middle" class="Ls">eshq</text>
+<text x="100" y="306" text-anchor="middle" class="Ls">heart</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">دل</text>
+<text x="390" y="306" text-anchor="middle" class="Ls">del</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="321" width="440" height="14" fill="black"/>
+<text x="240" y="331" text-anchor="middle" class="Hb" fill="white">KURDISH — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="342" text-anchor="middle" class="H">— KURDISH GRAMMAR (KURMANJI) —</text>
+<text x="240" y="353" text-anchor="middle" class="Ls">SOV · two grammatical genders (masc/fem) · split ergativity in past tenses</text>
+<text x="240" y="364" text-anchor="middle" class="Ls">Case marking: nominative vs oblique (2 cases) — more than modern Persian</text>
+<line x1="20" y1="370" x2="460" y2="370" stroke="black" stroke-width="0.3"/>
+<text x="240" y="380" text-anchor="middle" class="H">SPLIT ERGATIVITY IN KURDISH</text>
+<text x="240" y="391" text-anchor="middle" class="Ls">Present: subject in nominative (like Persian)</text>
+<text x="240" y="402" text-anchor="middle" class="Ls">Past transitive: AGENT takes oblique case, verb agrees with PATIENT</text>
+<text x="240" y="413" text-anchor="middle" class="Ls">Min av xwar = I-OBL water ate: "I drank water" (min = oblique of ez)</text>
+<text x="240" y="424" text-anchor="middle" class="Ls">Ez av dixwim = I-NOM water drink: "I drink water" (ez = nominative)</text>
+<line x1="20" y1="430" x2="460" y2="430" stroke="black" stroke-width="0.3"/>
+<text x="240" y="440" text-anchor="middle" class="H">KURDISH CORE VOCABULARY (KURMANJI)</text>
+<text x="100" y="451" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="451" text-anchor="middle" class="Lx">KURMANJI</text>
+<text x="390" y="451" text-anchor="middle" class="Lx">PERSIAN COGNATE?</text>
+<line x1="20" y1="455" x2="460" y2="455" stroke="black" stroke-width="0.3"/>
+<text x="100" y="464" text-anchor="middle" class="Ls">I</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">ez</text>
+<text x="390" y="464" text-anchor="middle" class="Ls">cf. Persian man</text>
+<text x="100" y="474" text-anchor="middle" class="Ls">you</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">tu</text>
+<text x="390" y="474" text-anchor="middle" class="Ls">YES — Persian to</text>
+<text x="100" y="484" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="484" text-anchor="middle" class="Ls">av</text>
+<text x="390" y="484" text-anchor="middle" class="Ls">YES — Persian ab</text>
+<text x="100" y="494" text-anchor="middle" class="Ls">good</text>
+<text x="240" y="494" text-anchor="middle" class="Ls">baş / bas</text>
+<text x="390" y="494" text-anchor="middle" class="Ls">cf. Persian khub (differ)</text>
+<text x="100" y="504" text-anchor="middle" class="Ls">heart</text>
+<text x="240" y="504" text-anchor="middle" class="Ls">dil</text>
+<text x="390" y="504" text-anchor="middle" class="Ls">YES — Persian del</text>
+<text x="100" y="514" text-anchor="middle" class="Ls">mountain</text>
+<text x="240" y="514" text-anchor="middle" class="Ls">çêy / kôh</text>
+<text x="390" y="514" text-anchor="middle" class="Ls">koh — same root!</text>
+<line x1="20" y1="519" x2="460" y2="519" stroke="black" stroke-width="0.3"/>
+<text x="240" y="529" text-anchor="middle" class="H">PERSIAN LOANWORDS IN KURDISH</text>
+<text x="240" y="540" text-anchor="middle" class="Ls">~40% of Sorani Kurdish vocabulary is Persian loanwords</text>
+<text x="240" y="551" text-anchor="middle" class="Ls">Core words (water, mountain, heart) often share Iranian roots</text>
+<text x="240" y="562" text-anchor="middle" class="Ls">Kurmanji has more distinct vocabulary; Sorani more Persian-influenced</text>
+<line x1="20" y1="568" x2="460" y2="568" stroke="black" stroke-width="0.3"/>
+<text x="240" y="578" text-anchor="middle" class="H">NUMBERS COMPARISON</text>
+<text x="100" y="589" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="589" text-anchor="middle" class="Lx">PERSIAN</text>
+<text x="390" y="589" text-anchor="middle" class="Lx">KURMANJI</text>
+<line x1="20" y1="593" x2="460" y2="593" stroke="black" stroke-width="0.3"/>
+<text x="100" y="602" text-anchor="middle" class="Ls">1 / 2 / 3</text>
+<text x="240" y="602" text-anchor="middle" class="Ls">yek / do / se</text>
+<text x="390" y="602" text-anchor="middle" class="Ls">yek / du / sê</text>
+<text x="100" y="612" text-anchor="middle" class="Ls">4 / 5 / 6</text>
+<text x="240" y="612" text-anchor="middle" class="Ls">chahar / panj / shesh</text>
+<text x="390" y="612" text-anchor="middle" class="Ls">chêr / pênc / shê</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 23B ALT · PERSIAN / KURDISH · PHONOLOGY &amp;amp; GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

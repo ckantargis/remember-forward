@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PASHTO (پښتو) / SINDHI (سنڌي)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-IRANIAN · PHONOLOGY: CROSSING THE IRANIAN/INDO-ARYAN DIVIDE</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 55B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PASHTO PHONOLOGY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">FULL CONSONANT INVENTORY</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Stops: /p b t d ʈ ɖ k g q/ — bilabial + dental + retroflex + velar + uvular</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Affricates: /ts dz tʃ dʒ/ — simple + palatal series</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Fricatives: /f s z ʃ ʒ x ɣ h/ — includes uvular fricatives from Arabic</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">Nasals: /m n ɳ/ — bilabial + alveolar + retroflex</text>
+<text x="240" y="143" text-anchor="middle" class="Ls">Rhotic: /r ɽ/ — alveolar trill + retroflex flap</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H">PASHTO DIALECT COMPARISON</text>
+<text x="100" y="170" text-anchor="middle" class="Lx">FEATURE</text>
+<text x="240" y="170" text-anchor="middle" class="Lx">KANDAHARI (S)</text>
+<text x="390" y="170" text-anchor="middle" class="Lx">KABULI (N)</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="black" stroke-width="0.3"/>
+<text x="100" y="183" text-anchor="middle" class="Ls">/ʃ/ sound</text>
+<text x="240" y="183" text-anchor="middle" class="Ls">ʓ (ʒ with subscript)</text>
+<text x="390" y="183" text-anchor="middle" class="Ls">ʃ (standard sh)</text>
+<text x="100" y="193" text-anchor="middle" class="Ls">/ʒ/ sound</text>
+<text x="240" y="193" text-anchor="middle" class="Ls">ɬ (voiceless l)</text>
+<text x="390" y="193" text-anchor="middle" class="Ls">ʒ (standard zh)</text>
+<line x1="20" y1="198" x2="460" y2="198" stroke="black" stroke-width="0.3"/>
+<text x="240" y="208" text-anchor="middle" class="H">ERGATIVE CONSTRUCTION IN PASHTO</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Past transitive verbs are ERGATIVE: subject takes oblique case, verb agrees with object</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">Ahmad kitab okod = Ahmad book read-MASC: "Ahmad read the book" (book is agent)</text>
+<text x="240" y="241" text-anchor="middle" class="Ls">This ergativity is Iranian, not Indic — marks Pashto as Iranian</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H">PASHTO NUMBERS</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">yaw (1) · dwa (2) · dre (3) · tsalor (4) · pinja (5)</text>
+<text x="240" y="279" text-anchor="middle" class="Ls">shpag (6) · owa (7) · ata (8) · nah (9) · las (10)</text>
+<line x1="20" y1="285" x2="460" y2="285" stroke="black" stroke-width="0.3"/>
+<text x="240" y="295" text-anchor="middle" class="H">SHARED INDO-IRANIAN FEATURES</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">Both Pashto and Sindhi: SOV · postpositions · retroflex consonants</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">Both Indo-Iranian: shared ancestry in Proto-Indo-Iranian ~4000 BCE</text>
+<text x="240" y="328" text-anchor="middle" class="Ls">Divided ~2000 BCE: Iranian branch west → Pashto; Indic branch east → Sindhi</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="343" width="440" height="14" fill="black"/>
+<text x="240" y="353" text-anchor="middle" class="Hb" fill="white">SINDHI (سنڌي) — PHONOLOGY</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="0.3"/>
+<text x="240" y="365" text-anchor="middle" class="H">— SINDHI PHONOLOGY IN DEPTH —</text>
+<text x="240" y="376" text-anchor="middle" class="H">FOUR-WAY STOP CONTRAST (UNIQUE TYPOLOGICALLY)</text>
+<text x="240" y="387" text-anchor="middle" class="Ls">At each point of articulation, Sindhi has 4 stops:</text>
+<text x="100" y="398" text-anchor="middle" class="Lx">TYPE</text>
+<text x="220" y="398" text-anchor="middle" class="Lx">BILABIAL</text>
+<text x="350" y="398" text-anchor="middle" class="Lx">ALVEOLAR</text>
+<line x1="20" y1="402" x2="460" y2="402" stroke="black" stroke-width="0.3"/>
+<text x="100" y="411" text-anchor="middle" class="Ls">Voiceless</text>
+<text x="220" y="411" text-anchor="middle" class="Ls">/p/</text>
+<text x="350" y="411" text-anchor="middle" class="Ls">/t/</text>
+<text x="100" y="421" text-anchor="middle" class="Ls">Voiced</text>
+<text x="220" y="421" text-anchor="middle" class="Ls">/b/</text>
+<text x="350" y="421" text-anchor="middle" class="Ls">/d/</text>
+<text x="100" y="431" text-anchor="middle" class="Ls">Aspirated</text>
+<text x="220" y="431" text-anchor="middle" class="Ls">/pʰ/</text>
+<text x="350" y="431" text-anchor="middle" class="Ls">/tʰ/</text>
+<text x="100" y="441" text-anchor="middle" class="Ls">Implosive</text>
+<text x="220" y="441" text-anchor="middle" class="Ls">/ɓ/</text>
+<text x="350" y="441" text-anchor="middle" class="Ls">/ɗ/</text>
+<text x="240" y="451" text-anchor="middle" class="Ls">4-way contrast at bilabial + alveolar + retroflex + velar = very complex system</text>
+<line x1="20" y1="457" x2="460" y2="457" stroke="black" stroke-width="0.3"/>
+<text x="240" y="467" text-anchor="middle" class="H">TONES? NOT QUITE — REGISTER DISTINCTIONS</text>
+<text x="240" y="478" text-anchor="middle" class="Ls">Sindhi does not have lexical tone, but vowel + laryngeal distinctions</text>
+<text x="240" y="489" text-anchor="middle" class="Ls">Some dialects: breathy voice on vowels functions tone-like; phonemically active</text>
+<line x1="20" y1="495" x2="460" y2="495" stroke="black" stroke-width="0.3"/>
+<text x="240" y="505" text-anchor="middle" class="H">SINDHI NUMBERS</text>
+<text x="240" y="516" text-anchor="middle" class="Ls">haḋu (1) · ɓa (2) · trī (3) · cāri (4) · panja (5)</text>
+<text x="240" y="527" text-anchor="middle" class="Ls">cha (6) · sata (7) · aṭha (8) · nava (9) · daha (10)</text>
+<line x1="20" y1="533" x2="460" y2="533" stroke="black" stroke-width="0.3"/>
+<text x="240" y="543" text-anchor="middle" class="H">PHONOLOGICAL COMPARISON</text>
+<text x="100" y="554" text-anchor="middle" class="Lx">FEATURE</text>
+<text x="240" y="554" text-anchor="middle" class="Lx">PASHTO</text>
+<text x="390" y="554" text-anchor="middle" class="Lx">SINDHI</text>
+<line x1="20" y1="558" x2="460" y2="558" stroke="black" stroke-width="0.3"/>
+<text x="100" y="567" text-anchor="middle" class="Ls">Retroflex stops</text>
+<text x="240" y="567" text-anchor="middle" class="Ls">YES</text>
+<text x="390" y="567" text-anchor="middle" class="Ls">YES</text>
+<text x="100" y="577" text-anchor="middle" class="Ls">Implosives</text>
+<text x="240" y="577" text-anchor="middle" class="Ls">NO</text>
+<text x="390" y="577" text-anchor="middle" class="Ls">YES (4 phonemes)</text>
+<text x="100" y="587" text-anchor="middle" class="Ls">Ergativity</text>
+<text x="240" y="587" text-anchor="middle" class="Ls">YES (past trans.)</text>
+<text x="390" y="587" text-anchor="middle" class="Ls">PARTIAL</text>
+<text x="100" y="597" text-anchor="middle" class="Ls">Uvular /q/</text>
+<text x="240" y="597" text-anchor="middle" class="Ls">YES</text>
+<text x="390" y="597" text-anchor="middle" class="Ls">in loanwords</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 55B ALT · PASHTO / SINDHI · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

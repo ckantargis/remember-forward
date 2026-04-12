@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PERSIAN (فارسی) / KURDISH (کوردی)</text>
+<text x="240" y="44" text-anchor="middle" class="S">IRANIAN BRANCH · CORE VOCABULARY &amp; LITERATURE</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 23C ALT · CORE VOCABULARY &amp; LITERATURE</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PERSIAN: SURVIVAL PHRASES &amp; LITERARY TRADITION —</text>
+<text x="240" y="88" text-anchor="middle" class="H">ESSENTIAL PERSIAN PHRASES</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">سلام / Salam = Hello · خداحافظ / Khodahafez = Goodbye (God protect you)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">ممنونم / Mamnunam = Thank you · ببخشید / Bebakhshid = Excuse me/Sorry</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">آب کجاست / Ab kujast? = Where is water?</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">نمی‌فهمم / Nemi-fahmanam = I don't understand</text>
+<text x="240" y="143" text-anchor="middle" class="Ls">کمک کنید / Komak konid! = Help! (plural/formal)</text>
+<line x1="20" y1="149" x2="460" y2="149" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="170" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="170" text-anchor="middle" class="Lx">PERSIAN</text>
+<text x="390" y="170" text-anchor="middle" class="Lx">ROMANIZATION</text>
+<line x1="20" y1="174" x2="460" y2="174" stroke="black" stroke-width="0.3"/>
+<text x="100" y="183" text-anchor="middle" class="Ls">fire</text>
+<text x="240" y="183" text-anchor="middle" class="Ls">آتش / آتور</text>
+<text x="390" y="183" text-anchor="middle" class="Ls">atash / atur</text>
+<text x="100" y="193" text-anchor="middle" class="Ls">earth/land</text>
+<text x="240" y="193" text-anchor="middle" class="Ls">زمین</text>
+<text x="390" y="193" text-anchor="middle" class="Ls">zamin</text>
+<text x="100" y="203" text-anchor="middle" class="Ls">sun</text>
+<text x="240" y="203" text-anchor="middle" class="Ls">خورشید</text>
+<text x="390" y="203" text-anchor="middle" class="Ls">khorshid</text>
+<text x="100" y="213" text-anchor="middle" class="Ls">night</text>
+<text x="240" y="213" text-anchor="middle" class="Ls">شب</text>
+<text x="390" y="213" text-anchor="middle" class="Ls">shab</text>
+<text x="100" y="223" text-anchor="middle" class="Ls">day</text>
+<text x="240" y="223" text-anchor="middle" class="Ls">روز</text>
+<text x="390" y="223" text-anchor="middle" class="Ls">ruz</text>
+<text x="100" y="233" text-anchor="middle" class="Ls">child</text>
+<text x="240" y="233" text-anchor="middle" class="Ls">بچه</text>
+<text x="390" y="233" text-anchor="middle" class="Ls">bache</text>
+<line x1="20" y1="238" x2="460" y2="238" stroke="black" stroke-width="0.3"/>
+<text x="240" y="248" text-anchor="middle" class="H">PERSIAN LITERARY GIANTS</text>
+<text x="240" y="259" text-anchor="middle" class="Ls">Ferdowsi (940–1020 CE): Shahnameh (Book of Kings) — 60,000 couplets, Iranian epic</text>
+<text x="240" y="270" text-anchor="middle" class="Ls">Omar Khayyam (~1048–1131): Rubaiyat — quatrains on life, wine, transience</text>
+<text x="240" y="281" text-anchor="middle" class="Ls">Rumi (1207–1273): Masnavi — 25,000 verses; most read poet in the US today</text>
+<text x="240" y="292" text-anchor="middle" class="Ls">Hafez (1315–1390): Divan — every Iranian home has a copy for divination</text>
+<line x1="20" y1="304" x2="460" y2="304" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="307" width="440" height="14" fill="black"/>
+<text x="240" y="317" text-anchor="middle" class="Hb" fill="white">KURDISH — VOCABULARY &amp; ORAL TRADITION</text>
+<line x1="20" y1="321" x2="460" y2="321" stroke="black" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H">— KURDISH: SURVIVAL PHRASES &amp; ORAL HERITAGE —</text>
+<text x="240" y="339" text-anchor="middle" class="H">ESSENTIAL KURMANJI PHRASES</text>
+<text x="240" y="350" text-anchor="middle" class="Ls">Silav / Merheba = Hello · Spas = Thank you</text>
+<text x="240" y="361" text-anchor="middle" class="Ls">Xatir bimini / Bi xatir e = Goodbye · Bibore = Sorry/Excuse me</text>
+<text x="240" y="372" text-anchor="middle" class="Ls">Av kuja ye? = Where is water? (av=water, kuja=where, ye=is)</text>
+<text x="240" y="383" text-anchor="middle" class="Ls">Ez nefam = I don't understand · Bibe aliyar min! = Help me!</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="black" stroke-width="0.3"/>
+<text x="240" y="399" text-anchor="middle" class="H">KURDISH CORE VOCABULARY</text>
+<text x="100" y="410" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="410" text-anchor="middle" class="Lx">KURMANJI</text>
+<text x="390" y="410" text-anchor="middle" class="Lx">SORANI</text>
+<line x1="20" y1="414" x2="460" y2="414" stroke="black" stroke-width="0.3"/>
+<text x="100" y="423" text-anchor="middle" class="Ls">fire</text>
+<text x="240" y="423" text-anchor="middle" class="Ls">agir</text>
+<text x="390" y="423" text-anchor="middle" class="Ls">agir</text>
+<text x="100" y="433" text-anchor="middle" class="Ls">earth</text>
+<text x="240" y="433" text-anchor="middle" class="Ls">erd / ax</text>
+<text x="390" y="433" text-anchor="middle" class="Ls">zewi</text>
+<text x="100" y="443" text-anchor="middle" class="Ls">sun</text>
+<text x="240" y="443" text-anchor="middle" class="Ls">ro / hêv</text>
+<text x="390" y="443" text-anchor="middle" class="Ls">xor</text>
+<text x="100" y="453" text-anchor="middle" class="Ls">night</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">shev</text>
+<text x="390" y="453" text-anchor="middle" class="Ls">shew</text>
+<text x="100" y="463" text-anchor="middle" class="Ls">day</text>
+<text x="240" y="463" text-anchor="middle" class="Ls">roé / rô</text>
+<text x="390" y="463" text-anchor="middle" class="Ls">roûj</text>
+<text x="100" y="473" text-anchor="middle" class="Ls">child</text>
+<text x="240" y="473" text-anchor="middle" class="Ls">zarok / kôr</text>
+<text x="390" y="473" text-anchor="middle" class="Ls">zarok / kur</text>
+<line x1="20" y1="478" x2="460" y2="478" stroke="black" stroke-width="0.3"/>
+<text x="240" y="488" text-anchor="middle" class="H">KURDISH ORAL TRADITION: DENGBEJ</text>
+<text x="240" y="499" text-anchor="middle" class="Ls">Dengbej: traditional Kurdish bards who sing kilam (epic narratives)</text>
+<text x="240" y="510" text-anchor="middle" class="Ls">Dengbej tradition: oral history preserved over centuries despite suppression</text>
+<text x="240" y="521" text-anchor="middle" class="Ls">Ahmade Khani (1651–1707): Mem u Zin — Kurdish Romeo and Juliet epic poem</text>
+<text x="240" y="532" text-anchor="middle" class="Ls">Cigerxwin (1903–1984): modern Kurdish poet, wrote in exile</text>
+<line x1="20" y1="538" x2="460" y2="538" stroke="black" stroke-width="0.3"/>
+<text x="240" y="548" text-anchor="middle" class="H">SURVIVAL PHRASE (PERSIAN)</text>
+<text x="240" y="559" text-anchor="middle" class="Lx">In baraye shoma sakhteh shodeh ast, azaadaneh, az taraf kasani keh be pish negar budan.</text>
+<text x="240" y="571" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="582" text-anchor="middle" class="Ls">(be pish negar = forward-looking; pish = forward/front)</text>
+<line x1="20" y1="588" x2="460" y2="588" stroke="black" stroke-width="0.3"/>
+<text x="240" y="598" text-anchor="middle" class="H">SURVIVAL PHRASE (KURDISH / KURMANJI)</text>
+<text x="240" y="609" text-anchor="middle" class="Lx">Ev ji bo te hatiye amade kirin, bi azadi, ji aliye kesane ku ber xwe digerin.</text>
+<text x="240" y="621" text-anchor="middle" class="Ls">"This was made for you, freely, by people who were looking forward."</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 23C ALT · PERSIAN / KURDISH · CORE VOCABULARY &amp;amp; LITERATURE · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

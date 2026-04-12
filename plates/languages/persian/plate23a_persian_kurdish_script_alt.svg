@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PERSIAN (فارسی) / KURDISH (کوردی)</text>
+<text x="240" y="44" text-anchor="middle" class="S">IRANIAN BRANCH · INDO-EUROPEAN · SISTER LANGUAGES ACROSS ZAGROS</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 23A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PERSIAN: SCRIPT &amp; WRITING —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Script: Perso-Arabic (Nastaliq calligraphic style) · right-to-left</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">32 letters: Arabic 28 + 4 Persian additions: پ (p) چ (ch) ژ (zh) گ (g)</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Vowels: short vowels omitted in adult writing (inferred from context)</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">Three short vowels (a e o) are diacritics; three long vowels (a: i: u:) are letters</text>
+<line x1="20" y1="128" x2="460" y2="128" stroke="black" stroke-width="0.3"/>
+<text x="240" y="138" text-anchor="middle" class="H">PERSIAN PHONOLOGY</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Consonants: /p b t d k g/ · /f v s z ʃ ʒ x ɣ h/ · /m n/ · /r l/ · /j w/</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">6 vowels: /a ə i e o u/ in Modern Persian (length distinction reduced)</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">No tones · no grammatical gender · stress: final syllable in most words</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">PERSIAN EZAFE CONSTRUCTION (اضافه)</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">Ezafe: linking particle -e/-ye connects noun to modifier</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">ketab-e man = book-EZAFE me = "my book" (possessor follows noun)</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">ketab-e bozorg = book-EZAFE big = "big book" (adjective follows noun)</text>
+<text x="240" y="231" text-anchor="middle" class="Ls">Ezafe chains: khane-ye bozorg-e man = house-E big-E me = "my big house"</text>
+<line x1="20" y1="237" x2="460" y2="237" stroke="black" stroke-width="0.3"/>
+<text x="240" y="247" text-anchor="middle" class="H">PERSIAN SAMPLE WORDS</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">سلام (salam) = hello · ممنونم (mamnunam) = thank you</text>
+<text x="240" y="269" text-anchor="middle" class="Ls">آب (ab) = water · پارسی (parsi/farsi) = Persian language</text>
+<line x1="20" y1="275" x2="460" y2="275" stroke="black" stroke-width="0.3"/>
+<text x="240" y="285" text-anchor="middle" class="H">PERSIAN LOANWORDS IN WORLD LANGUAGES</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">English via French/Latin: azure (lazur) · chess (shah) · check (shah, same root)</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">Also: paradise (pardis) · bazaar (bazar) · caravan (karvan) · shawl (shal)</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">Persian was the lingua franca of Islamic high culture: Mughal, Ottoman, Safavid courts</text>
+<line x1="20" y1="324" x2="460" y2="324" stroke="black" stroke-width="0.3"/>
+<text x="240" y="334" text-anchor="middle" class="H">SAMPLE LITERARY PERSIAN</text>
+<text x="240" y="345" text-anchor="middle" class="Ls">بشنو این نی چون شکایت می‌کند = "Listen to this reed, how it complains" (Rumi)</text>
+<line x1="20" y1="357" x2="460" y2="357" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="360" width="440" height="14" fill="black"/>
+<text x="240" y="370" text-anchor="middle" class="Hb" fill="white">KURDISH (کوردی) — IRANIAN SISTER · NORTHWESTERN BRANCH</text>
+<line x1="20" y1="374" x2="460" y2="374" stroke="black" stroke-width="0.3"/>
+<text x="240" y="382" text-anchor="middle" class="H">— KURDISH: TWO SCRIPTS, TWO MAJOR DIALECTS —</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Kurmanji (North Kurdish): ~15-20M speakers · Turkey, Syria, diaspora</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">Kurmanji script: LATIN alphabet (Turkey forced this in 1932; now a blessing)</text>
+<text x="240" y="415" text-anchor="middle" class="Ls">Sorani (Central Kurdish): ~6-7M speakers · Iraqi Kurdistan, NW Iran</text>
+<text x="240" y="426" text-anchor="middle" class="Ls">Sorani script: Arabic-based (similar to Persian script) · right-to-left</text>
+<line x1="20" y1="432" x2="460" y2="432" stroke="black" stroke-width="0.3"/>
+<text x="240" y="442" text-anchor="middle" class="H">KURMANJI LATIN ORTHOGRAPHY</text>
+<text x="240" y="453" text-anchor="middle" class="Ls">31 letters + digraphs: ch, gh, kh, rr, sh, wh, xh · special: ê î û</text>
+<text x="240" y="464" text-anchor="middle" class="Ls">ê /e:/ · î /i:/ · û /u:/ — circumflex marks long vowels</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="H">KURDISH PHONOLOGY (KURMANJI)</text>
+<text x="240" y="491" text-anchor="middle" class="Ls">Consonants: /p b t d k g q/ · /f v s z ʃ ʒ x ʁ h/ · /m n/ · /r ʁ/ · /l/</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">Uvular /q/ and /ʁ/ distinguish Kurdish from Persian</text>
+<text x="240" y="513" text-anchor="middle" class="Ls">6 vowels: /a ɛ i o u ə/ — similar to Persian</text>
+<line x1="20" y1="519" x2="460" y2="519" stroke="black" stroke-width="0.3"/>
+<text x="240" y="529" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="100" y="540" text-anchor="middle" class="Lx">DIALECT</text>
+<text x="240" y="540" text-anchor="middle" class="Lx">SCRIPT</text>
+<text x="390" y="540" text-anchor="middle" class="Lx">DIRECTION</text>
+<line x1="20" y1="544" x2="460" y2="544" stroke="black" stroke-width="0.3"/>
+<text x="100" y="553" text-anchor="middle" class="Ls">Kurmanji</text>
+<text x="240" y="553" text-anchor="middle" class="Ls">Latin (Hawar alphabet)</text>
+<text x="390" y="553" text-anchor="middle" class="Ls">Left-to-right</text>
+<text x="100" y="563" text-anchor="middle" class="Ls">Sorani</text>
+<text x="240" y="563" text-anchor="middle" class="Ls">Arabic/Persian-based</text>
+<text x="390" y="563" text-anchor="middle" class="Ls">Right-to-left</text>
+<text x="100" y="573" text-anchor="middle" class="Ls">Zazaki/Gorani</text>
+<text x="240" y="573" text-anchor="middle" class="Ls">Latin or Arabic</text>
+<text x="390" y="573" text-anchor="middle" class="Ls">Varies</text>
+<line x1="20" y1="578" x2="460" y2="578" stroke="black" stroke-width="0.3"/>
+<text x="240" y="588" text-anchor="middle" class="H">KURDISH SAMPLE WORDS (KURMANJI)</text>
+<text x="240" y="599" text-anchor="middle" class="Ls">Silav / Merheba = hello · av = water · spas = thank you</text>
+<text x="240" y="610" text-anchor="middle" class="Ls">kurd = Kurd/strong one · Kurmanci = northern Kurdish language</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 23A ALT · PERSIAN / KURDISH · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

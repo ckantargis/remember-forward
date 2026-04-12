@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">NAHUATL (NĀHUATL) / ZAPOTEC (BENE ZAZA)</text>
+<text x="240" y="44" text-anchor="middle" class="S">UTO-AZTECAN / OTO-MANGUEAN · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 47B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— NAHUATL PHONOLOGY IN DEPTH —</text>
+<text x="240" y="88" text-anchor="middle" class="H">CONSONANT INVENTORY</text>
+<text x="100" y="99" text-anchor="middle" class="Lx">TYPE</text>
+<text x="240" y="99" text-anchor="middle" class="Lx">CONSONANTS</text>
+<text x="390" y="99" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="103" x2="460" y2="103" stroke="black" stroke-width="0.3"/>
+<text x="100" y="112" text-anchor="middle" class="Ls">Stops</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">/p t k kw/</text>
+<text x="390" y="112" text-anchor="middle" class="Ls">No voiced stops in Classical</text>
+<text x="100" y="122" text-anchor="middle" class="Ls">Affricates</text>
+<text x="240" y="122" text-anchor="middle" class="Ls">/ts tsʰ tl/</text>
+<text x="390" y="122" text-anchor="middle" class="Ls">tl = lateral affricate</text>
+<text x="100" y="132" text-anchor="middle" class="Ls">Fricatives</text>
+<text x="240" y="132" text-anchor="middle" class="Ls">/s ʃ h/</text>
+<text x="390" y="132" text-anchor="middle" class="Ls">sh = x in orthography</text>
+<text x="100" y="142" text-anchor="middle" class="Ls">Sonorants</text>
+<text x="240" y="142" text-anchor="middle" class="Ls">/m n l w j/</text>
+<text x="390" y="142" text-anchor="middle" class="Ls">no /r/ in Classical Nahuatl</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="157" text-anchor="middle" class="H">VOWEL LENGTH: PHONEMICALLY CONTRASTIVE</text>
+<text x="240" y="168" text-anchor="middle" class="Ls">tlālli (land) /tla:.li/ vs tlalli (dirt/soil) /tla.li/ — length changes word</text>
+<text x="240" y="179" text-anchor="middle" class="Ls">Macron used in Classical notation: ā ē ī ō (long vowels)</text>
+<line x1="20" y1="185" x2="460" y2="185" stroke="black" stroke-width="0.3"/>
+<text x="240" y="195" text-anchor="middle" class="H">WORD STRESS</text>
+<text x="240" y="206" text-anchor="middle" class="Ls">Stress falls on penultimate (second-to-last) syllable</text>
+<text x="240" y="217" text-anchor="middle" class="Ls">Nahuatl /na.WA.tl/ · quetzalli /kет.SA.li/ · coatl /CO.atl/</text>
+<line x1="20" y1="223" x2="460" y2="223" stroke="black" stroke-width="0.3"/>
+<text x="240" y="233" text-anchor="middle" class="H">REDUPLICATION IN NAHUATL</text>
+<text x="240" y="244" text-anchor="middle" class="Ls">Reduplication encodes repetition, plurality, or intensity:</text>
+<text x="240" y="255" text-anchor="middle" class="Ls">tlal- → tlatlatl (lands, plural) · tec- → tectecui (he cuts repeatedly)</text>
+<line x1="20" y1="261" x2="460" y2="261" stroke="black" stroke-width="0.3"/>
+<text x="240" y="271" text-anchor="middle" class="H">NAHUATL NUMBERS</text>
+<text x="240" y="282" text-anchor="middle" class="Ls">ce (1) · ome (2) · yei (3) · nahui (4) · macuilli (5)</text>
+<text x="240" y="293" text-anchor="middle" class="Ls">chicuace (6) · chicome (7) · chicuei (8) · chicnahui (9) · mahtlactli (10)</text>
+<text x="240" y="304" text-anchor="middle" class="Ls">Base-20 vigesimal counting: cempoalli (20) = one score · 400 = tzontli</text>
+<line x1="20" y1="310" x2="460" y2="310" stroke="black" stroke-width="0.3"/>
+<text x="240" y="320" text-anchor="middle" class="H">NAHUATL IN MODERN SPANISH (MEXICO)</text>
+<text x="240" y="331" text-anchor="middle" class="Ls">Mexican Spanish has ~500 Nahuatl loanwords in everyday speech:</text>
+<text x="240" y="342" text-anchor="middle" class="Ls">chapuline (grasshopper, chapolin) · copal (incense) · cuate (twin, friend)</text>
+<text x="240" y="353" text-anchor="middle" class="Ls">hule (rubber, ulli) · petate (palm mat, petatl) · escuincle (kid, itzcuintli)</text>
+<line x1="20" y1="365" x2="460" y2="365" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="368" width="440" height="14" fill="black"/>
+<text x="240" y="378" text-anchor="middle" class="Hb" fill="white">ZAPOTEC — PHONOLOGY: TONES &amp; CONTRASTS</text>
+<line x1="20" y1="382" x2="460" y2="382" stroke="black" stroke-width="0.3"/>
+<text x="240" y="390" text-anchor="middle" class="H">— ZAPOTEC PHONOLOGY: TONES IN DETAIL —</text>
+<text x="240" y="401" text-anchor="middle" class="Ls">Focus: Isthmus Zapotec (Zapotec of the Isthmus of Tehuantepec)</text>
+<line x1="20" y1="407" x2="460" y2="407" stroke="black" stroke-width="0.3"/>
+<text x="240" y="417" text-anchor="middle" class="H">FOUR LEXICAL TONES</text>
+<text x="100" y="428" text-anchor="middle" class="Lx">TONE</text>
+<text x="240" y="428" text-anchor="middle" class="Lx">CONTOUR</text>
+<text x="390" y="428" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="432" x2="460" y2="432" stroke="black" stroke-width="0.3"/>
+<text x="100" y="441" text-anchor="middle" class="Ls">High</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">Level high (55)</text>
+<text x="390" y="441" text-anchor="middle" class="Ls">yaga (tree) high</text>
+<text x="100" y="451" text-anchor="middle" class="Ls">Low</text>
+<text x="240" y="451" text-anchor="middle" class="Ls">Level low (11)</text>
+<text x="390" y="451" text-anchor="middle" class="Ls">yaga (table) low</text>
+<text x="100" y="461" text-anchor="middle" class="Ls">Rising</text>
+<text x="240" y="461" text-anchor="middle" class="Ls">Low-to-high (13)</text>
+<text x="390" y="461" text-anchor="middle" class="Ls">contour up</text>
+<text x="100" y="471" text-anchor="middle" class="Ls">Falling</text>
+<text x="240" y="471" text-anchor="middle" class="Ls">High-to-low (51)</text>
+<text x="390" y="471" text-anchor="middle" class="Ls">contour down</text>
+<line x1="20" y1="476" x2="460" y2="476" stroke="black" stroke-width="0.3"/>
+<text x="240" y="486" text-anchor="middle" class="H">LARYNGEALIZATION: CREAKY AND BREATHY VOICE</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">Zapotec uses laryngealization as an additional phonemic dimension:</text>
+<text x="240" y="508" text-anchor="middle" class="Ls">Plain vowel: /a/ · Creaky: /a̰/ · Breathy: /a̤/ — three voice qualities</text>
+<text x="240" y="519" text-anchor="middle" class="Ls">Combined with 4 tones: potentially 12 vowel-tone combinations per syllable</text>
+<line x1="20" y1="525" x2="460" y2="525" stroke="black" stroke-width="0.3"/>
+<text x="240" y="535" text-anchor="middle" class="H">ZAPOTEC NUMBERS</text>
+<text x="240" y="546" text-anchor="middle" class="Ls">tobi (1) · chupa (2) · chonna (3) · tapa (4) · gayu (5)</text>
+<text x="240" y="557" text-anchor="middle" class="Ls">xhopa (6) · gate (7) · xhono (8) · za (9) · chii (10)</text>
+<text x="240" y="568" text-anchor="middle" class="Ls">Also base-20: ca-tobi (20=one score) in the traditional count system</text>
+<line x1="20" y1="574" x2="460" y2="574" stroke="black" stroke-width="0.3"/>
+<text x="240" y="584" text-anchor="middle" class="H">MESOAMERICAN SHARED FEATURE: BASE-20</text>
+<text x="240" y="595" text-anchor="middle" class="Ls">Both Nahuatl and Zapotec: base-20 (vigesimal) counting system</text>
+<text x="240" y="606" text-anchor="middle" class="Ls">Shared across Mesoamerica: Maya, Mixtec, Otomi — cultural convergence zone</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 47B ALT · NAHUATL / ZAPOTEC · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PASHTO (پښتو) / SINDHI (سنڌي)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-IRANIAN · HISTORY &amp; LEGACY AT THE INDUS CROSSROADS</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 55D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PASHTO: HISTORY &amp; PASHTUN IDENTITY —</text>
+<text x="240" y="88" text-anchor="middle" class="H">ANCIENT ROOTS: AVESTAN COUSINS</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Pashto: member of Eastern Iranian family; related to Avestan (sacred Zoroastrian)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">First written attestation: poems of Amir Kror Suri (~8th c. CE)</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Khushal Khan Khattak (1613–1689): warrior-poet; golden age of Pashto literature</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">PASHTUNWALI: THE LIVING CODE</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Pashtunwali: oral customary law predating Islam in the region</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Melmastia (hospitality): obligation to shelter any guest, even an enemy</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Nanawatai (asylum): even an enemy who enters and seeks protection must be sheltered</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">Badal (justice): redress of wrongs — not "revenge" but restoration of balance</text>
+<line x1="20" y1="187" x2="460" y2="187" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H">CROSSROADS OF EMPIRE</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Alexander the Great marched through Pashto-speaking territory ~327 BCE</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Mughal Empire (Babur was Pashtun): Pashto and Persian co-existed at court</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">British "Great Game": Pashto speakers at center of Anglo-Russian competition</text>
+<text x="240" y="241" text-anchor="middle" class="Ls">Today: ~60M speakers in Afghanistan and Pakistan · one of world's fastest growing</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="240" y="257" text-anchor="middle" class="H">SURVIVAL PHRASE (PASHTO)</text>
+<text x="240" y="268" text-anchor="middle" class="Lx">Da wakhto la makhkhe da hagho keso pa laar jowr sho chi makhke rawan wu.</text>
+<text x="240" y="280" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="291" text-anchor="middle" class="Ls">(makhke = forward/ahead; rawan = going; wu = were)</text>
+<line x1="20" y1="303" x2="460" y2="303" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="306" width="440" height="14" fill="black"/>
+<text x="240" y="316" text-anchor="middle" class="Hb" fill="white">SINDHI (سنڌي) — HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="320" x2="460" y2="320" stroke="black" stroke-width="0.3"/>
+<text x="240" y="328" text-anchor="middle" class="H">— SINDHI: CRADLE OF CIVILIZATION —</text>
+<text x="240" y="339" text-anchor="middle" class="H">INDUS VALLEY CIVILIZATION (3300–1300 BCE)</text>
+<text x="240" y="350" text-anchor="middle" class="Ls">Mohenjo-daro and Harappa: within the Sindhi-speaking homeland of today</text>
+<text x="240" y="361" text-anchor="middle" class="Ls">Most sophisticated urban civilization of the ancient world: plumbing, grid streets</text>
+<text x="240" y="372" text-anchor="middle" class="Ls">Indus script: still undeciphered — one of the great puzzles of linguistics</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="black" stroke-width="0.3"/>
+<text x="240" y="388" text-anchor="middle" class="H">ARAB CONQUEST &amp; SUFI TRANSFORMATION (711 CE)</text>
+<text x="240" y="399" text-anchor="middle" class="Ls">Muhammad bin Qasim conquered Sindh 711 CE — first permanent Arab territory in S. Asia</text>
+<text x="240" y="410" text-anchor="middle" class="Ls">Sindh became a major center of Islamic scholarship and Sufi mysticism</text>
+<text x="240" y="421" text-anchor="middle" class="Ls">Shah Abdul Latif Bhittai (1689–1752): greatest Sindhi poet; Shah Jo Risalo (his verse)</text>
+<text x="240" y="432" text-anchor="middle" class="Ls">Risalo: 30 sur (chapters) of mystical verse — still sung at shrines today</text>
+<line x1="20" y1="438" x2="460" y2="438" stroke="black" stroke-width="0.3"/>
+<text x="240" y="448" text-anchor="middle" class="H">THE SINDHI PARTITION (1947)</text>
+<text x="240" y="459" text-anchor="middle" class="Ls">1947: India–Pakistan partition; Sindh went to Pakistan; Hindu Sindhis fled to India</text>
+<text x="240" y="470" text-anchor="middle" class="Ls">Sindhi Hindus: ~3M in India, diaspora in Singapore, Hong Kong, UK, USA</text>
+<text x="240" y="481" text-anchor="middle" class="Ls">Unique: Sindhi is one of India's 22 official languages but has no Indian state</text>
+<text x="240" y="492" text-anchor="middle" class="Ls">In India: written in Devanagari · in Pakistan: Perso-Arabic — same language, two scripts</text>
+<line x1="20" y1="498" x2="460" y2="498" stroke="black" stroke-width="0.3"/>
+<text x="240" y="508" text-anchor="middle" class="H">SINDHI MUSICAL TRADITION</text>
+<text x="240" y="519" text-anchor="middle" class="Ls">Sindhi folk music: kafis (devotional poems), waai, sohar (lullabies)</text>
+<text x="240" y="530" text-anchor="middle" class="Ls">Allan Faqir (1932–2000): Sufi singer; "Voice of Sindh"; UNESCO recognition</text>
+<line x1="20" y1="536" x2="460" y2="536" stroke="black" stroke-width="0.3"/>
+<text x="240" y="546" text-anchor="middle" class="H">SINDHI AT THE CROSSROADS</text>
+<text x="240" y="557" text-anchor="middle" class="Ls">Sindhi vocabulary: Sanskrit roots + Persian/Arabic loans + Sindhi-original words</text>
+<text x="240" y="568" text-anchor="middle" class="Ls">Sits between Iranian Pashto and Indo-Aryan Sanskrit — the living Indo-Iranian border</text>
+<line x1="20" y1="574" x2="460" y2="574" stroke="black" stroke-width="0.3"/>
+<text x="240" y="584" text-anchor="middle" class="H">SURVIVAL PHRASE (SINDHI)</text>
+<text x="240" y="595" text-anchor="middle" class="Lx">Hii tokhaan laai bnayo viyo ahe, muft, unhan maanshen jinhan aaindaren yaad rakhyo.</text>
+<text x="240" y="607" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<text x="240" y="618" text-anchor="middle" class="Ls">(aaindare = future/ahead; yaad rakhyo = remembered)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 55D ALT · PASHTO / SINDHI · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

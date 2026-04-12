@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">NAHUATL (NĀHUATL) / ZAPOTEC (BENE ZAZA)</text>
+<text x="240" y="44" text-anchor="middle" class="S">UTO-AZTECAN / OTO-MANGUEAN · HISTORY &amp; LEGACY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 47D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— NAHUATL: HISTORY &amp; EMPIRE —</text>
+<text x="240" y="88" text-anchor="middle" class="H">THE AZTEC EMPIRE (1428–1521 CE)</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Triple Alliance: Tenochtitlan + Texcoco + Tlacopan — dominated Central Mexico</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Tenochtitlan (modern Mexico City): ~200,000-300,000 people by 1500 CE</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Nahuatl became lingua franca of trade and administration across Mesoamerica</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">PRE-AZTEC NAHUATL: TOLTEC AND TEOTIHUACAN</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Nahuatl speakers at Teotihuacan (~100 BCE–600 CE): "city of the gods"</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Toltec empire (~900–1150 CE): predecessor to Aztec; Nahuatl as prestige language</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Quetzalcoatl: feathered serpent deity worshipped across Mesoamerica</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">CONQUEST &amp; SURVIVAL (1521 CE)</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">Spanish conquest 1521: Hernan Cortes, allied with Tlaxcala; Tenochtitlan fell</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Nahuatl continued as administrative language under colonial rule until ~1700</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Today: ~1.7M speakers in Mexico · Nahuatl dialects from Guerrero to Veracruz</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">"Mexicano": local name for Nahuatl in many communities; pride is resurgent</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">NAHUATL IN WORLD CUISINE</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">The Aztec market at Tlatelolco offered 200+ food varieties; Nahuatl names spread:</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">chocolate (xocolatl) · vanilla (tlilxochitl) · chile · tomato · avocado</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">SURVIVAL PHRASE</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">Nochi in tlacah timochihua huan tiquilnamiquia in to huiptla.</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">"All people we-make and we-remember toward our tomorrow."</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">(huiptla = the day after tomorrow; used for "future" in classical texts)</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="332" width="440" height="14" fill="black"/>
+<text x="240" y="342" text-anchor="middle" class="Hb" fill="white">ZAPOTEC (BENE ZAZA) — HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="354" text-anchor="middle" class="H">— ZAPOTEC: THE OLDEST CIVILIZATION —</text>
+<text x="240" y="365" text-anchor="middle" class="H">MONTE ALBAN: FIRST CITY OF THE AMERICAS (~500 BCE)</text>
+<text x="240" y="376" text-anchor="middle" class="Ls">Zapotec built Monte Alban (near modern Oaxaca City) ~500 BCE</text>
+<text x="240" y="387" text-anchor="middle" class="Ls">Population: ~25,000 at peak · dominated Oaxaca Valley 500 BCE–700 CE</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Monuments: pyramids, ball courts, astronomical alignments, carved stelae</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="black" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H">OLDEST WRITING SYSTEM IN THE AMERICAS</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Monte Alban glyphs (~500 BCE): carved stone monuments with proto-writing</text>
+<text x="240" y="436" text-anchor="middle" class="Ls">Danzantes: carved figures with glyphs, likely recording sacrificed captives</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Predates Maya script by ~300 years; Zapotec claim to oldest Mesoamerican writing</text>
+<line x1="20" y1="453" x2="460" y2="453" stroke="black" stroke-width="0.3"/>
+<text x="240" y="463" text-anchor="middle" class="H">MIXTEC CONQUEST &amp; ZAPOTEC RESILIENCE</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">~700 CE: Monte Alban abandoned; Zapotec dispersed to regional centers</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Mixtec expansion from the west — long rivalry with Zapotec city-states</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">1521: Spanish conquest — Zapotec lord Cosijopii negotiated rather than fought</text>
+<line x1="20" y1="502" x2="460" y2="502" stroke="black" stroke-width="0.3"/>
+<text x="240" y="512" text-anchor="middle" class="H">BENITO JUAREZ: ZAPOTEC PRESIDENT OF MEXICO</text>
+<text x="240" y="523" text-anchor="middle" class="Ls">Benito Juarez (1806–1872): born in Guelatao, Oaxaca, to Zapotec parents</text>
+<text x="240" y="534" text-anchor="middle" class="Ls">Did not speak Spanish until age 12 · became Mexico's greatest president</text>
+<text x="240" y="545" text-anchor="middle" class="Ls">"Among individuals, as among nations, respect for others' rights is peace."</text>
+<line x1="20" y1="551" x2="460" y2="551" stroke="black" stroke-width="0.3"/>
+<text x="240" y="561" text-anchor="middle" class="H">ZAPOTEC TODAY</text>
+<text x="240" y="572" text-anchor="middle" class="Ls">~500,000 speakers across Oaxaca · 50+ mutually unintelligible varieties</text>
+<text x="240" y="583" text-anchor="middle" class="Ls">Indigenous-language instruction in some Oaxacan schools; radio stations in Zapotec</text>
+<line x1="20" y1="589" x2="460" y2="589" stroke="black" stroke-width="0.3"/>
+<text x="240" y="599" text-anchor="middle" class="H">SURVIVAL PHRASE (ISTHMUS ZAPOTEC)</text>
+<text x="240" y="610" text-anchor="middle" class="Ls">Bene neza cayaa dxi ti gunaa; bene neza dxita gunaa bia.</text>
+<text x="240" y="621" text-anchor="middle" class="Ls">"Those who walk the road remember tomorrow; those ahead are remembered."</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 47D ALT · NAHUATL / ZAPOTEC · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

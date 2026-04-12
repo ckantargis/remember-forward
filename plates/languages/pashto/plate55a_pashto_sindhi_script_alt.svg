@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PASHTO (پښتو) / SINDHI (سنڌي)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-IRANIAN · IRANIAN / INDO-ARYAN BRANCH · INDUS CROSSROADS</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 55A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PASHTO: SCRIPT &amp; SOUNDS —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Script: modified Perso-Arabic (Nastaliq style), right-to-left</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">44 letters (Arabic 28 + 16 extra for Pashto sounds): ځ څ ړ ږ ژ ښ ړ ڟ ۍ ئ ؤ</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Two main scripts: Kandahari Pashto (Pakistan) vs Kabuli (Afghanistan)</text>
+<line x1="20" y1="117" x2="460" y2="117" stroke="black" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">PASHTO DISTINCTIVE SOUNDS</text>
+<text x="240" y="138" text-anchor="middle" class="Ls">Retroflex series: /ʈ ɖ ɳ ɽ/ — tip of tongue curled back (shared with Sindhi!)</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Dental series: /t d n/ — tip of tongue at upper teeth</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Distinction: /t/ (dental) vs /ʈ/ (retroflex) = different meaning</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">Also: /ʃ/ /ʒ/ /x/ /ɣ/ /q/ — uvular and velar sounds from Arabic influence</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">PASHTO VOWELS</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">7 vowels: /a ā e i o u ə/ (schwa in unstressed position)</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">Vowel length phonemic in classical/literary Pashto; varies by dialect</text>
+<line x1="20" y1="215" x2="460" y2="215" stroke="black" stroke-width="0.3"/>
+<text x="240" y="225" text-anchor="middle" class="H">GRAMMATICAL GENDER: TWO CLASSES</text>
+<text x="240" y="236" text-anchor="middle" class="Ls">Masculine: ends in consonant or -ə · Feminine: ends in -a or -ə</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">soor (masc. red) vs soora (fem. red) — adjective agrees with noun</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Historical: Pashto had 4 genders (masc/fem proximate/distal) — now merged to 2</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="H">PASHTO SAMPLE WORDS</text>
+<text x="240" y="285" text-anchor="middle" class="Ls">سلام (salam) = hello · او (ob) = water · خدای دې (khudaye de) = thank you (God-given)</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">پښتون (pashtun) = Pashtun person · پښتو (pashto) = the language</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="black" stroke-width="0.3"/>
+<text x="240" y="312" text-anchor="middle" class="H">PASHTUNWALI: CODE OF HONOR ENCODED IN LANGUAGE</text>
+<text x="240" y="323" text-anchor="middle" class="Ls">Melmastia (hospitality) · Nanawatai (asylum) · Badal (justice/revenge)</text>
+<text x="240" y="334" text-anchor="middle" class="Ls">Namus (honor) · Tureh (courage) — vocabulary of the honor code</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="349" width="440" height="14" fill="black"/>
+<text x="240" y="359" text-anchor="middle" class="Hb" fill="white">SINDHI (سنڌي) — INDO-ARYAN · SINDH, PAKISTAN · ~500MI</text>
+<line x1="20" y1="363" x2="460" y2="363" stroke="black" stroke-width="0.3"/>
+<text x="240" y="371" text-anchor="middle" class="H">— SINDHI: SCRIPT &amp; DISTINCTIVE FEATURES —</text>
+<text x="240" y="382" text-anchor="middle" class="Ls">Script: Perso-Arabic with Sindhi additions: 52 letters (most in any Arabic-based script)</text>
+<text x="240" y="393" text-anchor="middle" class="Ls">Also written in Devanagari by Hindu Sindhi diaspora (India, globally)</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">Direction: right-to-left (like Pashto) · Nastaliq style standard</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="420" text-anchor="middle" class="H">SINDHI IMPLOSIVE CONSONANTS: UNIQUE FEATURE</text>
+<text x="240" y="431" text-anchor="middle" class="Ls">Sindhi is famous for 4 phonemic implosive consonants:</text>
+<text x="100" y="442" text-anchor="middle" class="Lx">IMPLOSIVE</text>
+<text x="240" y="442" text-anchor="middle" class="Lx">IPA</text>
+<text x="390" y="442" text-anchor="middle" class="Lx">SINDHI LETTER</text>
+<line x1="20" y1="446" x2="460" y2="446" stroke="black" stroke-width="0.3"/>
+<text x="100" y="455" text-anchor="middle" class="Ls">Bilabial</text>
+<text x="240" y="455" text-anchor="middle" class="Ls">/ɓ/ (b-implosive)</text>
+<text x="390" y="455" text-anchor="middle" class="Ls">ب̲</text>
+<text x="100" y="465" text-anchor="middle" class="Ls">Alveolar</text>
+<text x="240" y="465" text-anchor="middle" class="Ls">/ɗ/ (d-implosive)</text>
+<text x="390" y="465" text-anchor="middle" class="Ls">د̲</text>
+<text x="100" y="475" text-anchor="middle" class="Ls">Palatal</text>
+<text x="240" y="475" text-anchor="middle" class="Ls">/ʄ/ (j-implosive)</text>
+<text x="390" y="475" text-anchor="middle" class="Ls">ج̲</text>
+<text x="100" y="485" text-anchor="middle" class="Ls">Velar</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">/ɠ/ (g-implosive)</text>
+<text x="390" y="485" text-anchor="middle" class="Ls">گ̲</text>
+<line x1="20" y1="490" x2="460" y2="490" stroke="black" stroke-width="0.3"/>
+<text x="240" y="500" text-anchor="middle" class="H">WHAT IS AN IMPLOSIVE?</text>
+<text x="240" y="511" text-anchor="middle" class="Ls">Regular stops: air pushed OUT (plosive/explosive)</text>
+<text x="240" y="522" text-anchor="middle" class="Ls">Implosives: glottis closes while tongue creates stop, airflow reversed inward</text>
+<text x="240" y="533" text-anchor="middle" class="Ls">A "click-like" effect — Sindhi is one of few Indo-Aryan languages with implosives</text>
+<line x1="20" y1="539" x2="460" y2="539" stroke="black" stroke-width="0.3"/>
+<text x="240" y="549" text-anchor="middle" class="H">RETROFLEX CONSONANTS (SHARED WITH PASHTO)</text>
+<text x="240" y="560" text-anchor="middle" class="Ls">Sindhi has the full retroflex series /ʈ ɖ ɳ ɽ/ like Pashto</text>
+<text x="240" y="571" text-anchor="middle" class="Ls">This shared feature comes from ancient Indus Valley substratum</text>
+<line x1="20" y1="577" x2="460" y2="577" stroke="black" stroke-width="0.3"/>
+<text x="240" y="587" text-anchor="middle" class="H">SAMPLE WORDS (SINDHI)</text>
+<text x="240" y="598" text-anchor="middle" class="Ls">آسانی (asani) = ease/peace (greeting) · پاڤ (paun) = water</text>
+<text x="240" y="609" text-anchor="middle" class="Ls">مھنجو (mhanju) = mine/my · توھنجو (tuhnju) = yours</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 55A ALT · PASHTO / SINDHI · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

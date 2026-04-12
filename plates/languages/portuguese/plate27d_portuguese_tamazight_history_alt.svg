@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PORTUGUESE (PORTUGUÊS) / TAMAZIGHT (ⵜⴰⵎⴰⵣⵉⵖⵜ)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-EUROPEAN / AFROASIATIC · HISTORY &amp; LEGACY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 27D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PORTUGUESE: HISTORY &amp; THE AGE OF EXPLORATION —</text>
+<text x="240" y="88" text-anchor="middle" class="H">GALICIAN-PORTUGUESE: THE ORIGIN</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Galician-Portuguese: medieval language of Iberian lyric poetry (~1200–1350)</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Galician and Portuguese diverged ~14th c. as Portugal gained independence (1143)</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Canteàs de amor, canteàs de amigo, canteàs de escarnho — troubadour tradition</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">THE PORTUGUESE EMPIRE (1415–1975 CE)</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">1415: Ceuta captured from Marinid Morocco — first Portuguese African territory</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">1498: Vasco da Gama reaches India via Cape of Good Hope — reshapes world trade</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">1500: Cabral reaches Brazil — largest Portuguese-speaking nation today</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">Portuguese: first European language in sub-Saharan Africa, South Asia, SE Asia</text>
+<line x1="20" y1="187" x2="460" y2="187" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H">SAUDADE: THE PORTUGUESE SOUL</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Saudade: nostalgic longing for something loved and absent; an untranslatable emotion</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Fado music: genre built on saudade · UNESCO intangible heritage 2011</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">Pessoa, Saramago, Pessoa: Portuguese literature deeply infused with saudade</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">PORTUGUESE ACROSS THE ATLANTIC</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">Brazil: ~215M people; 97%+ Portuguese speakers; diverging from European standard</text>
+<text x="240" y="268" text-anchor="middle" class="Ls">PALOP: Portuguese-speaking African countries — new literature emerging (Mia Couto)</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">SURVIVAL PHRASE (PORTUGUESE)</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">Isto foi feito para ti, de graça, por pessoas que se lembraram do futuro.</text>
+<text x="240" y="306" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered the future."</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">(de graça = for free; se lembraram = remembered; futuro = future)</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="332" width="440" height="14" fill="black"/>
+<text x="240" y="342" text-anchor="middle" class="Hb" fill="white">TAMAZIGHT — HISTORY: THE ORIGINAL NORTH AFRICANS</text>
+<line x1="20" y1="346" x2="460" y2="346" stroke="black" stroke-width="0.3"/>
+<text x="240" y="354" text-anchor="middle" class="H">— TAMAZIGHT: THE AMAZIGH PEOPLE —</text>
+<text x="240" y="365" text-anchor="middle" class="H">AMAZIGH: THE FREE PEOPLE (10,000+ YEARS IN NORTH AFRICA)</text>
+<text x="240" y="376" text-anchor="middle" class="Ls">Imazighen (pl.): indigenous people of North Africa; "Berber" is exonym</text>
+<text x="240" y="387" text-anchor="middle" class="Ls">Predating Arab conquest (647 CE) by millennia — descendants of ancient Libyans</text>
+<text x="240" y="398" text-anchor="middle" class="Ls">Cave paintings of Tassili n'Ajjer (Algeria): ~10,000 BCE — earliest African art</text>
+<line x1="20" y1="404" x2="460" y2="404" stroke="black" stroke-width="0.3"/>
+<text x="240" y="414" text-anchor="middle" class="H">HISTORICAL AMAZIGH KINGDOMS</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Numidia (~202–46 BCE): Massinissa — allied with Rome against Carthage</text>
+<text x="240" y="436" text-anchor="middle" class="Ls">Jugurtha (r. 112–05 BCE): resisted Rome; wars documented by Sallust</text>
+<text x="240" y="447" text-anchor="middle" class="Ls">Saint Augustine (354–430 CE): born in Numidia (modern Algeria) — Amazigh heritage</text>
+<line x1="20" y1="453" x2="460" y2="453" stroke="black" stroke-width="0.3"/>
+<text x="240" y="463" text-anchor="middle" class="H">ARAB CONQUEST &amp; CULTURAL RESISTANCE</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">647–711 CE: Arab-Islamic conquest of North Africa</text>
+<text x="240" y="485" text-anchor="middle" class="Ls">Dihya (Kahina): Amazigh queen who led resistance to Arab conquest ~688 CE</text>
+<text x="240" y="496" text-anchor="middle" class="Ls">Arabization: Amazigh persisted in mountains and desert; Arabic in cities and plains</text>
+<text x="240" y="507" text-anchor="middle" class="Ls">Almoravid dynasty (~1050–1147): Sanhaja Berber empire from Morocco to Spain</text>
+<line x1="20" y1="513" x2="460" y2="513" stroke="black" stroke-width="0.3"/>
+<text x="240" y="523" text-anchor="middle" class="H">MOROCCO 2011: OFFICIAL RECOGNITION</text>
+<text x="240" y="534" text-anchor="middle" class="Ls">Arab Spring protests in Morocco: Amazigh (Tamazight) demands included</text>
+<text x="240" y="545" text-anchor="middle" class="Ls">2011 Morocco constitution: Tamazight recognized as official language alongside Arabic</text>
+<text x="240" y="556" text-anchor="middle" class="Ls">IRCAM (Royal Institute of Amazigh Culture): standardizing Neo-Tifinagh script</text>
+<line x1="20" y1="562" x2="460" y2="562" stroke="black" stroke-width="0.3"/>
+<text x="240" y="572" text-anchor="middle" class="H">TIFINAGH ACROSS NORTH AFRICA</text>
+<text x="240" y="583" text-anchor="middle" class="Ls">Tuareg (Mali, Niger, Libya): still use traditional Tifinagh — passed by women</text>
+<text x="240" y="594" text-anchor="middle" class="Ls">Tifinagh survived 2,000+ years without institutional support — oral + rock inscriptions</text>
+<line x1="20" y1="600" x2="460" y2="600" stroke="black" stroke-width="0.3"/>
+<text x="240" y="610" text-anchor="middle" class="H">SURVIVAL PHRASE (TAMAZIGHT — TACHELHIT)</text>
+<text x="240" y="621" text-anchor="middle" class="Ls">Nni-s ttwag i kk, s ufus, s imdanen yura ighf-nns di tdwuri.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 27D ALT · PORTUGUESE / TAMAZIGHT · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

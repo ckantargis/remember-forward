@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">NAHUATL (NĀHUATL) / ZAPOTEC (BENE ZAZA)</text>
+<text x="240" y="44" text-anchor="middle" class="S">UTO-AZTECAN / OTO-MANGUEAN · MESOAMERICAN CIVILIZATIONS · ~260MI</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 47A ALT · SCRIPT &amp; SOUNDS</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— NAHUATL: SCRIPT &amp; WRITING —</text>
+<text x="240" y="89" text-anchor="middle" class="Ls">Pre-conquest: pictographic / logographic glyphs in codices (screenfold books)</text>
+<text x="240" y="100" text-anchor="middle" class="Ls">Post-conquest: Latin alphabet introduced by Spanish missionaries ~1540 CE</text>
+<text x="240" y="111" text-anchor="middle" class="Ls">Classical Nahuatl uses Latin alphabet; modern dialects use modified orthographies</text>
+<line x1="20" y1="117" x2="460" y2="117" stroke="black" stroke-width="0.3"/>
+<text x="240" y="127" text-anchor="middle" class="H">NAHUATL PHONOLOGY OVERVIEW</text>
+<text x="240" y="138" text-anchor="middle" class="Ls">Consonants: /p t k kw ts tl tsh/ · /m n/ · /s sh/ · /l w j h/</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">Distinctive: /tl/ lateral affricate (as in Nahuatl, Quetzalcoatl, atl=water)</text>
+<text x="240" y="160" text-anchor="middle" class="Ls">Vowels: /a e i o/ · vowel length phonemic: a vs ā (different meaning)</text>
+<text x="240" y="171" text-anchor="middle" class="Ls">No tones · stress: penultimate syllable in most cases</text>
+<line x1="20" y1="177" x2="460" y2="177" stroke="black" stroke-width="0.3"/>
+<text x="240" y="187" text-anchor="middle" class="H">THE LATERAL AFFRICATE /tl/</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">Nahuatl = /na.wa.tl/ · atl (water) = /atl/ · metl (agave) = /metl/</text>
+<text x="240" y="209" text-anchor="middle" class="Ls">This /tl/ occurs word-finally (unique among world languages in this position)</text>
+<text x="240" y="220" text-anchor="middle" class="Ls">Quetzalcoatl = /ket.sal.ko.atl/ — feathered serpent deity of the Aztec</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="236" text-anchor="middle" class="H">POLYSYNTHETIC MORPHOLOGY</text>
+<text x="240" y="247" text-anchor="middle" class="Ls">Nahuatl packs entire sentences into one word by stacking morphemes</text>
+<text x="240" y="258" text-anchor="middle" class="Ls">Ni-tlā-pia = I-something-guard: "I am guarding something"</text>
+<text x="240" y="269" text-anchor="middle" class="Ls">Ni-c-tlā-zo-tla = I-it-much-love: "I love it very much"</text>
+<text x="240" y="280" text-anchor="middle" class="Ls">Incorporated nouns: ni-c-ā-tl-chia = I-it-water-see: "I look for water"</text>
+<line x1="20" y1="286" x2="460" y2="286" stroke="black" stroke-width="0.3"/>
+<text x="240" y="296" text-anchor="middle" class="H">NAHUATL WORDS IN ENGLISH</text>
+<text x="240" y="307" text-anchor="middle" class="Ls">chocolate (xocolatl) · tomato (tomatl) · avocado (ahuacatl)</text>
+<text x="240" y="318" text-anchor="middle" class="Ls">chili (chilli) · coyote (coyotl) · mesquite (mizquitl)</text>
+<text x="240" y="329" text-anchor="middle" class="Ls">tamale (tamalli) · ocelot (ocelotl) · guacamole (ahuaqa-molli)</text>
+<line x1="20" y1="335" x2="460" y2="335" stroke="black" stroke-width="0.3"/>
+<text x="240" y="345" text-anchor="middle" class="H">SAMPLE WORDS</text>
+<text x="240" y="356" text-anchor="middle" class="Ls">nāhutl = clear sound/speech (origin of name) · atl = water · tlalli = land</text>
+<line x1="20" y1="367" x2="460" y2="367" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="370" width="440" height="14" fill="black"/>
+<text x="240" y="380" text-anchor="middle" class="Hb" fill="white">ZAPOTEC (BENE ZAZA) — OTO-MANGUEAN · OAXACA · ~260MI</text>
+<line x1="20" y1="384" x2="460" y2="384" stroke="black" stroke-width="0.3"/>
+<text x="240" y="392" text-anchor="middle" class="H">— ZAPOTEC: SCRIPT &amp; SOUNDS —</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Pre-Columbian: Monte Alban glyphs (~500 BCE) — OLDEST writing in the Americas</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Zapotec script: logographic/syllabic; partially deciphered; 50+ distinct symbols</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Modern: Latin alphabet with diacritics; dozens of distinct Zapotec languages</text>
+<line x1="20" y1="431" x2="460" y2="431" stroke="black" stroke-width="0.3"/>
+<text x="240" y="441" text-anchor="middle" class="H">ZAPOTEC IS A LANGUAGE COMPLEX: 50+ VARIETIES</text>
+<text x="240" y="452" text-anchor="middle" class="Ls">Zapotec is not one language but a family of ~50 mutually unintelligible varieties</text>
+<text x="240" y="463" text-anchor="middle" class="Ls">Valley Zapotec (Tlacolula) · Sierra Juarez · Isthmus Zapotec · Coastal Zapotec</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">Isthmus Zapotec (~70K speakers): most documented; used here as reference variety</text>
+<line x1="20" y1="480" x2="460" y2="480" stroke="black" stroke-width="0.3"/>
+<text x="240" y="490" text-anchor="middle" class="H">ZAPOTEC PHONOLOGY: TONES AND LARYNGEALIZATION</text>
+<text x="240" y="501" text-anchor="middle" class="Ls">4 tones: High · Low · Rising · Falling (in Isthmus Zapotec)</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">Laryngealization: breathy and creaky voice add further contrast</text>
+<text x="240" y="523" text-anchor="middle" class="Ls">guela /ɡela/ (woman) vs guele’a /ɡeleʔa/ (vulture) — glottalization changes meaning</text>
+<line x1="20" y1="529" x2="460" y2="529" stroke="black" stroke-width="0.3"/>
+<text x="240" y="539" text-anchor="middle" class="H">CONSONANTS</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">/p b t d k g/ · /ts dz/ · /m n/ · /s z sh/ · /l r/ · /j w/ · glottal /?/</text>
+<text x="240" y="561" text-anchor="middle" class="Ls">Labio-velars: /kw gw/ · Voiced fricatives contrast with voiceless</text>
+<line x1="20" y1="567" x2="460" y2="567" stroke="black" stroke-width="0.3"/>
+<text x="240" y="577" text-anchor="middle" class="H">SAMPLE WORDS (ISTHMUS ZAPOTEC)</text>
+<text x="240" y="588" text-anchor="middle" class="Ls">bene = person · zaza = those · guela = woman · xhipe = man</text>
+<text x="240" y="599" text-anchor="middle" class="Ls">neza = road/path · yoo = house · nisado = sea (nisa=water + do=big)</text>
+<text x="240" y="610" text-anchor="middle" class="Ls">Zapotec = "people of the clouds" (Bene Za) or "people who eat beans" (folk etym.)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 47A ALT · NAHUATL / ZAPOTEC · SCRIPT &amp;amp; SOUNDS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

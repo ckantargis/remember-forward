@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PERSIAN (فارسی) / KURDISH (کوردی)</text>
+<text x="240" y="44" text-anchor="middle" class="S">IRANIAN BRANCH · HISTORY &amp; LEGACY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 23D ALT · HISTORY &amp; CULTURAL LEGACY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PERSIAN: HISTORY OF A WORLD LITERARY LANGUAGE —</text>
+<text x="240" y="88" text-anchor="middle" class="H">THREE EMPIRES, ONE LANGUAGE</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Achaemenid Persian (550–330 BCE): Old Persian inscriptions at Persepolis</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Sasanian Persian (224–651 CE): Middle Persian / Pahlavi; Avestan sacred texts</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">New Persian (900 CE–present): Arabic script adopted; Samanid cultural renaissance</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">PERSIAN AS COURT LANGUAGE OF THE ISLAMIC WORLD</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Persian became the prestige literary language of the Islamic world 900–1800 CE</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">Mughal India: official court language was Persian, not Hindi or Urdu</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">Ottoman court: poets wrote Persian · Central Asia: Persian = high culture</text>
+<text x="240" y="181" text-anchor="middle" class="Ls">Persian was to the Islamic world what Latin was to medieval Europe</text>
+<line x1="20" y1="187" x2="460" y2="187" stroke="black" stroke-width="0.3"/>
+<text x="240" y="197" text-anchor="middle" class="H">MODERN PERSIAN: THREE STANDARDS</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Farsi: spoken in Iran · Dari: spoken in Afghanistan · Tajik: spoken in Tajikistan</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Same language, three names, three scripts (Arabic/Arabic/Cyrillic)</text>
+<text x="240" y="230" text-anchor="middle" class="Ls">~80M native speakers; ~130M total including L2</text>
+<line x1="20" y1="236" x2="460" y2="236" stroke="black" stroke-width="0.3"/>
+<text x="240" y="246" text-anchor="middle" class="H">SURVIVAL PHRASE (PERSIAN)</text>
+<text x="240" y="257" text-anchor="middle" class="Lx">In baraye shoma, azadaneh, az taraf kasani ke be ayandeh negar budand, sakhteh shodeh.</text>
+<text x="240" y="269" text-anchor="middle" class="Ls">"This was made for you, freely, by people who looked toward the future."</text>
+<text x="240" y="280" text-anchor="middle" class="Ls">(ayandeh = future; negar = looking; sakhteh shodeh = was made)</text>
+<line x1="20" y1="292" x2="460" y2="292" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="295" width="440" height="14" fill="black"/>
+<text x="240" y="305" text-anchor="middle" class="Hb" fill="white">KURDISH — HISTORY: THE NATION WITHOUT A STATE</text>
+<line x1="20" y1="309" x2="460" y2="309" stroke="black" stroke-width="0.3"/>
+<text x="240" y="317" text-anchor="middle" class="H">— KURDISH: HISTORY OF DISPERSAL &amp; RESISTANCE —</text>
+<text x="240" y="328" text-anchor="middle" class="H">WHO ARE THE KURDS? THE LARGEST STATELESS NATION</text>
+<text x="240" y="339" text-anchor="middle" class="Ls">~30-40M Kurds: largest ethnic group in the world without a recognized state</text>
+<text x="240" y="350" text-anchor="middle" class="Ls">Distributed across: Turkey (~15M) · Iran (~8M) · Iraq (~6M) · Syria (~3M) · diaspora</text>
+<text x="240" y="361" text-anchor="middle" class="Ls">Kurdish homeland: the Zagros Mountains — same mountains where agriculture began</text>
+<line x1="20" y1="367" x2="460" y2="367" stroke="black" stroke-width="0.3"/>
+<text x="240" y="377" text-anchor="middle" class="H">THE MEDES: FIRST KURDISH EMPIRE (~678–550 BCE)</text>
+<text x="240" y="388" text-anchor="middle" class="Ls">Median Empire: possibly the first Iranian-speaking state; capital at Ecbatana</text>
+<text x="240" y="399" text-anchor="middle" class="Ls">Medes conquered Assyria (612 BCE) with Babylonian allies</text>
+<text x="240" y="410" text-anchor="middle" class="Ls">Conquered by Cyrus the Great (~550 BCE) — absorbed into Achaemenid Persia</text>
+<line x1="20" y1="416" x2="460" y2="416" stroke="black" stroke-width="0.3"/>
+<text x="240" y="426" text-anchor="middle" class="H">TREATY OF SEVRES (1920) &amp; ITS BETRAYAL</text>
+<text x="240" y="437" text-anchor="middle" class="Ls">1920 Treaty of Sevres: promised an independent Kurdish state after WWI</text>
+<text x="240" y="448" text-anchor="middle" class="Ls">1923 Treaty of Lausanne: replaced Sevres — Kurdish state removed from text</text>
+<text x="240" y="459" text-anchor="middle" class="Ls">Kurdish uprisings in Turkey 1925, 1930, 1937–38; all suppressed violently</text>
+<text x="240" y="470" text-anchor="middle" class="Ls">Kurdish language banned in Turkey 1924–1991 — could not legally teach or publish</text>
+<line x1="20" y1="476" x2="460" y2="476" stroke="black" stroke-width="0.3"/>
+<text x="240" y="486" text-anchor="middle" class="H">IRAQI KURDISTAN: THE CLOSEST THING TO A KURDISH STATE</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">Kurdistan Regional Government (KRG) since 1992: autonomous in northern Iraq</text>
+<text x="240" y="508" text-anchor="middle" class="Ls">Erbil (Hawler): capital; ~1M people; Kurdish-majority, internationally recognized</text>
+<text x="240" y="519" text-anchor="middle" class="Ls">Peshmerga: Kurdish militia fought ISIS 2014–17; key US ally</text>
+<line x1="20" y1="525" x2="460" y2="525" stroke="black" stroke-width="0.3"/>
+<text x="240" y="535" text-anchor="middle" class="H">KURDISH LANGUAGE TODAY</text>
+<text x="240" y="546" text-anchor="middle" class="Ls">Kurmanji: Turkish Kurdistan + northern Syria — written in Latin since 1932</text>
+<text x="240" y="557" text-anchor="middle" class="Ls">Sorani: Iraqi Kurdistan + Iranian Kurdistan — written in Arabic-based script</text>
+<text x="240" y="568" text-anchor="middle" class="Ls">Kurdish-language media: Rudaw TV, Kurdistan24 — broadcasting in Sorani and Kurmanji</text>
+<line x1="20" y1="574" x2="460" y2="574" stroke="black" stroke-width="0.3"/>
+<text x="240" y="584" text-anchor="middle" class="H">SURVIVAL PHRASE (KURDISH / KURMANJI)</text>
+<text x="240" y="595" text-anchor="middle" class="Lx">Ev ji bo te hatiye amade kirin, belaş, ji aliye kesane ku li ber xwe dinerin.</text>
+<text x="240" y="607" text-anchor="middle" class="Ls">"This was made for you, freely, by people who look forward."</text>
+<text x="240" y="618" text-anchor="middle" class="Ls">(belaş = free/gratis; li ber xwe dinerin = looking forward)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 23D ALT · PERSIAN / KURDISH · HISTORY &amp;amp; CULTURAL LEGACY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

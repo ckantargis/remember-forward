@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">NAHUATL (NĀHUATL) / ZAPOTEC (BENE ZAZA)</text>
+<text x="240" y="44" text-anchor="middle" class="S">UTO-AZTECAN / OTO-MANGUEAN · GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 47C ALT · GRAMMAR &amp; CORE VOCABULARY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— NAHUATL GRAMMAR —</text>
+<text x="240" y="88" text-anchor="middle" class="Ls">Polysynthetic SOV · verbs inflect for subject, object, tense, aspect, mood</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Verb is the core of the sentence; nouns may be absent (pro-drop)</text>
+<line x1="20" y1="105" x2="460" y2="105" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">SUBJECT PREFIXES ON VERBS</text>
+<text x="100" y="126" text-anchor="middle" class="Lx">PREFIX</text>
+<text x="240" y="126" text-anchor="middle" class="Lx">SUBJECT</text>
+<text x="390" y="126" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="130" x2="460" y2="130" stroke="black" stroke-width="0.3"/>
+<text x="100" y="139" text-anchor="middle" class="Ls">ni-</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">1st sg. (I)</text>
+<text x="390" y="139" text-anchor="middle" class="Ls">ni-tlahtoa (I speak)</text>
+<text x="100" y="149" text-anchor="middle" class="Ls">ti-</text>
+<text x="240" y="149" text-anchor="middle" class="Ls">2nd sg. (you)</text>
+<text x="390" y="149" text-anchor="middle" class="Ls">ti-tlahtoa (you speak)</text>
+<text x="100" y="159" text-anchor="middle" class="Ls">(zero)</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">3rd sg. (s/he/it)</text>
+<text x="390" y="159" text-anchor="middle" class="Ls">tlahtoa (s/he speaks)</text>
+<text x="100" y="169" text-anchor="middle" class="Ls">ti-...-h</text>
+<text x="240" y="169" text-anchor="middle" class="Ls">1st pl. (we)</text>
+<text x="390" y="169" text-anchor="middle" class="Ls">ti-tlahtoa-h (we speak)</text>
+<text x="100" y="179" text-anchor="middle" class="Ls">an-...-h</text>
+<text x="240" y="179" text-anchor="middle" class="Ls">2nd pl. (you-pl.)</text>
+<text x="390" y="179" text-anchor="middle" class="Ls">an-tlahtoa-h (y'all speak)</text>
+<line x1="20" y1="184" x2="460" y2="184" stroke="black" stroke-width="0.3"/>
+<text x="240" y="194" text-anchor="middle" class="H">OBJECT PREFIXES (ALSO ON VERB)</text>
+<text x="240" y="205" text-anchor="middle" class="Ls">nech- (me) · mitz- (you) · c- (him/her/it) · tech- (us) · qu- (them)</text>
+<text x="240" y="216" text-anchor="middle" class="Ls">ni-c-mati = I-it-know: "I know it" — both subject and object on one verb</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<text x="240" y="232" text-anchor="middle" class="H">CORE VOCABULARY</text>
+<text x="100" y="243" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="243" text-anchor="middle" class="Lx">NAHUATL</text>
+<text x="390" y="243" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="247" x2="460" y2="247" stroke="black" stroke-width="0.3"/>
+<text x="100" y="256" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">atl</text>
+<text x="390" y="256" text-anchor="middle" class="Ls">root: a-</text>
+<text x="100" y="266" text-anchor="middle" class="Ls">person</text>
+<text x="240" y="266" text-anchor="middle" class="Ls">tlacatl</text>
+<text x="390" y="266" text-anchor="middle" class="Ls">pl. tlaca</text>
+<text x="100" y="276" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="276" text-anchor="middle" class="Ls">ni-tla-qua</text>
+<text x="390" y="276" text-anchor="middle" class="Ls">ni=I, tla=object, qua=eat</text>
+<text x="100" y="286" text-anchor="middle" class="Ls">heart</text>
+<text x="240" y="286" text-anchor="middle" class="Ls">yollo-tl</text>
+<text x="390" y="286" text-anchor="middle" class="Ls">source: yollotl</text>
+<text x="100" y="296" text-anchor="middle" class="Ls">land</text>
+<text x="240" y="296" text-anchor="middle" class="Ls">tlalli</text>
+<text x="390" y="296" text-anchor="middle" class="Ls">from tla=earth</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="311" width="440" height="14" fill="black"/>
+<text x="240" y="321" text-anchor="middle" class="Hb" fill="white">ZAPOTEC — GRAMMAR &amp; VOCABULARY</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="332" text-anchor="middle" class="H">— ZAPOTEC GRAMMAR —</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Word order: VSO (verb first!) — opposite of Nahuatl SOV and Spanish SVO</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Verbs: aspect-based, not tense-based · completive vs incompletive vs potential</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H">ASPECT IN ZAPOTEC (NOT TENSE)</text>
+<text x="100" y="381" text-anchor="middle" class="Lx">ASPECT</text>
+<text x="240" y="381" text-anchor="middle" class="Lx">MARKER</text>
+<text x="390" y="381" text-anchor="middle" class="Lx">EXAMPLE</text>
+<line x1="20" y1="385" x2="460" y2="385" stroke="black" stroke-width="0.3"/>
+<text x="100" y="394" text-anchor="middle" class="Ls">Completive</text>
+<text x="240" y="394" text-anchor="middle" class="Ls">r(i)- prefix</text>
+<text x="390" y="394" text-anchor="middle" class="Ls">ri-gaba (s/he ate)</text>
+<text x="100" y="404" text-anchor="middle" class="Ls">Incompletive</text>
+<text x="240" y="404" text-anchor="middle" class="Ls">g(u)- prefix</text>
+<text x="390" y="404" text-anchor="middle" class="Ls">gu-gaba (s/he is eating)</text>
+<text x="100" y="414" text-anchor="middle" class="Ls">Potential</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">b(i)- prefix</text>
+<text x="390" y="414" text-anchor="middle" class="Ls">bi-gaba (s/he will eat)</text>
+<line x1="20" y1="419" x2="460" y2="419" stroke="black" stroke-width="0.3"/>
+<text x="240" y="429" text-anchor="middle" class="H">RELATIONAL NOUNS (NO PREPOSITIONS)</text>
+<text x="240" y="440" text-anchor="middle" class="Ls">Zapotec uses "relational nouns" instead of prepositions:</text>
+<text x="240" y="451" text-anchor="middle" class="Ls">yoo (house) · neza (road) · guixi (on top of) = relational</text>
+<text x="240" y="462" text-anchor="middle" class="Ls">guixi yoo = "top-of house" = "on top of the house"</text>
+<line x1="20" y1="468" x2="460" y2="468" stroke="black" stroke-width="0.3"/>
+<text x="240" y="478" text-anchor="middle" class="H">CORE VOCABULARY (ISTHMUS ZAPOTEC)</text>
+<text x="100" y="489" text-anchor="middle" class="Lx">GLOSS</text>
+<text x="240" y="489" text-anchor="middle" class="Lx">ZAPOTEC</text>
+<text x="390" y="489" text-anchor="middle" class="Lx">NOTES</text>
+<line x1="20" y1="493" x2="460" y2="493" stroke="black" stroke-width="0.3"/>
+<text x="100" y="502" text-anchor="middle" class="Ls">water</text>
+<text x="240" y="502" text-anchor="middle" class="Ls">nisa</text>
+<text x="390" y="502" text-anchor="middle" class="Ls">nisado = sea (big water)</text>
+<text x="100" y="512" text-anchor="middle" class="Ls">person</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">bene</text>
+<text x="390" y="512" text-anchor="middle" class="Ls">also: bia (person)</text>
+<text x="100" y="522" text-anchor="middle" class="Ls">eat</text>
+<text x="240" y="522" text-anchor="middle" class="Ls">gaba</text>
+<text x="390" y="522" text-anchor="middle" class="Ls">ri-gaba (ate)</text>
+<text x="100" y="532" text-anchor="middle" class="Ls">house</text>
+<text x="240" y="532" text-anchor="middle" class="Ls">yoo</text>
+<text x="390" y="532" text-anchor="middle" class="Ls">also: home, family</text>
+<text x="100" y="542" text-anchor="middle" class="Ls">heart</text>
+<text x="240" y="542" text-anchor="middle" class="Ls">guidxi</text>
+<text x="390" y="542" text-anchor="middle" class="Ls">also: soul/spirit</text>
+<line x1="20" y1="547" x2="460" y2="547" stroke="black" stroke-width="0.3"/>
+<text x="240" y="557" text-anchor="middle" class="H">KEY CONTRAST: SOV vs VSO</text>
+<text x="240" y="568" text-anchor="middle" class="Ls">Nahuatl SOV: Ni-c-qua in tamalli = I-it-eat the tamale</text>
+<text x="240" y="579" text-anchor="middle" class="Ls">Zapotec VSO: Ri-gaba Juan nisa = ate Juan water = "Juan drank water"</text>
+<text x="240" y="590" text-anchor="middle" class="Ls">Different word orders across Mesoamerica: no single template</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 47C ALT · NAHUATL / ZAPOTEC · GRAMMAR &amp;amp; CORE VOCABULARY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

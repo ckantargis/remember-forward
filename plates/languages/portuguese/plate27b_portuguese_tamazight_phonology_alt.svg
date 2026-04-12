@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" text-anchor="middle" class="T">PORTUGUESE (PORTUGUÊS) / TAMAZIGHT (ⵜⴰⵎⴰⵣⵉⵖⵜ)</text>
+<text x="240" y="44" text-anchor="middle" class="S">INDO-EUROPEAN / AFROASIATIC · PHONOLOGY COMPARISON</text>
+<line x1="20" y1="50" x2="460" y2="50" stroke="black" stroke-width="0.5"/>
+<text x="240" y="60" text-anchor="middle" class="H">PLATE 27B ALT · PHONOLOGY</text>
+<line x1="20" y1="66" x2="460" y2="66" stroke="black" stroke-width="0.3"/>
+<text x="240" y="77" text-anchor="middle" class="H">— PORTUGUESE PHONOLOGY IN DEPTH —</text>
+<text x="240" y="88" text-anchor="middle" class="H">VOWEL SYSTEM</text>
+<text x="240" y="99" text-anchor="middle" class="Ls">Oral vowels: /a e ɛ i o ɔ u/ — 7 distinct phonemes in stressed positions</text>
+<text x="240" y="110" text-anchor="middle" class="Ls">Nasal vowels: /ã ɛ̃ ĩ õ ũ/ — 5 nasal phonemes (unique in Romance)</text>
+<text x="240" y="121" text-anchor="middle" class="Ls">Nasal diphthongs: /ãw/ (pão) · /ãj/ (mãe) · /õj/ (põe)</text>
+<line x1="20" y1="127" x2="460" y2="127" stroke="black" stroke-width="0.3"/>
+<text x="240" y="137" text-anchor="middle" class="H">EUROPEAN PORTUGUESE: EXTREME VOWEL REDUCTION</text>
+<text x="240" y="148" text-anchor="middle" class="Ls">Unstressed /a e o/ often reduced to /ə ɨ u/ or deleted entirely:</text>
+<text x="240" y="159" text-anchor="middle" class="Ls">professor /prɨ.fɛ.sor/ — 2nd vowel nearly deleted in casual speech</text>
+<text x="240" y="170" text-anchor="middle" class="Ls">This reduction makes European Portuguese very hard for Brazilian speakers to parse</text>
+<line x1="20" y1="176" x2="460" y2="176" stroke="black" stroke-width="0.3"/>
+<text x="240" y="186" text-anchor="middle" class="H">SIBILANT SYSTEM (COMPLEX AND REGIONAL)</text>
+<text x="240" y="197" text-anchor="middle" class="Ls">European: cena /ˈse.nɐ/ before vowels BUT /ʃ/ before consonants and word-finally</text>
+<text x="240" y="208" text-anchor="middle" class="Ls">Brazilian: sibilants generally /s z/ — no automatic palatalization</text>
+<text x="240" y="219" text-anchor="middle" class="Ls">Rio de Janeiro: /ʃ ʒ/ used where SP uses /s z/ — "carioca" dialect</text>
+<line x1="20" y1="225" x2="460" y2="225" stroke="black" stroke-width="0.3"/>
+<text x="240" y="235" text-anchor="middle" class="H">NUMBERS 1–10</text>
+<text x="240" y="246" text-anchor="middle" class="Ls">um/uma · dois/duas · três · quatro · cinco</text>
+<text x="240" y="257" text-anchor="middle" class="Ls">seis · sete · oito · nove · dez</text>
+<line x1="20" y1="263" x2="460" y2="263" stroke="black" stroke-width="0.3"/>
+<text x="240" y="273" text-anchor="middle" class="H">REDUPLICATION IN PORTUGUESE</text>
+<text x="240" y="284" text-anchor="middle" class="Ls">No productive reduplication (unlike Malay/Bantu) — emphatic doubling colloquial only</text>
+<text x="240" y="295" text-anchor="middle" class="Ls">Agora agora = right now, really now — emphatic intensification only</text>
+<line x1="20" y1="301" x2="460" y2="301" stroke="black" stroke-width="0.3"/>
+<text x="240" y="311" text-anchor="middle" class="H">AFRIKAANS, GALICIAN, SPANISH: SISTER LANGUAGES</text>
+<text x="240" y="322" text-anchor="middle" class="Ls">Portuguese and Spanish: ~89% lexical similarity (close but not identical)</text>
+<text x="240" y="333" text-anchor="middle" class="Ls">Galician (NW Spain): most similar to Portuguese — historically one language</text>
+<text x="240" y="344" text-anchor="middle" class="Ls">Portuguese ≠ Spanish: grammar, pronunciation, and many core words differ</text>
+<line x1="20" y1="356" x2="460" y2="356" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="359" width="440" height="14" fill="black"/>
+<text x="240" y="369" text-anchor="middle" class="Hb" fill="white">TAMAZIGHT — PHONOLOGY: AFROASIATIC DEPTH</text>
+<line x1="20" y1="373" x2="460" y2="373" stroke="black" stroke-width="0.3"/>
+<text x="240" y="381" text-anchor="middle" class="H">— TAMAZIGHT PHONOLOGY —</text>
+<text x="240" y="392" text-anchor="middle" class="H">CONSONANT INVENTORY: PHARYNGEALS AND EMPHATICS</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Pharyngeal fricatives: /ħ/ (voiceless) · /ʕ/ (voiced) — in throat, not in Portuguese</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Uvular stops: /q/ (voiceless) · emphatic/pharyngealized series: /ṣ ẓ ṭ/</text>
+<text x="240" y="425" text-anchor="middle" class="Ls">Emphatic consonants: produced with pharyngeal co-articulation; change vowel quality</text>
+<line x1="20" y1="431" x2="460" y2="431" stroke="black" stroke-width="0.3"/>
+<text x="240" y="441" text-anchor="middle" class="H">SYLLABLE STRUCTURE: CONSONANT CLUSTERS</text>
+<text x="240" y="452" text-anchor="middle" class="Ls">Tamazight allows heavy consonant clusters; schwa may emerge in speech</text>
+<text x="240" y="463" text-anchor="middle" class="Ls">Tachelhit allows syllabic obstruents: /tft/ = she sewed (all consonants)</text>
+<text x="240" y="474" text-anchor="middle" class="Ls">Berber languages have among the heaviest consonant clusters in human languages</text>
+<line x1="20" y1="480" x2="460" y2="480" stroke="black" stroke-width="0.3"/>
+<text x="240" y="490" text-anchor="middle" class="H">THREE-VOWEL SYSTEM</text>
+<text x="240" y="501" text-anchor="middle" class="Ls">Classical: /a i u/ — same 3 vowels as Arabic and many Afroasiatic languages</text>
+<text x="240" y="512" text-anchor="middle" class="Ls">Schwa: /ə/ appears in consonant clusters as a buffer in pronunciation</text>
+<text x="240" y="523" text-anchor="middle" class="Ls">No nasal vowels (contrast: Portuguese has 5 nasal vowels)</text>
+<line x1="20" y1="529" x2="460" y2="529" stroke="black" stroke-width="0.3"/>
+<text x="240" y="539" text-anchor="middle" class="H">NUMBERS 1–10 (TAMAZIGHT — TACHELHIT VARIETY)</text>
+<text x="240" y="550" text-anchor="middle" class="Ls">yan/yat · sin · krad · kkuz · semmus</text>
+<text x="240" y="561" text-anchor="middle" class="Ls">sddis · sa · tam · tza · mraw</text>
+<text x="240" y="572" text-anchor="middle" class="Ls">Gender in numbers: yan (1 masc.) vs yat (1 fem.) — gendered number system</text>
+<line x1="20" y1="578" x2="460" y2="578" stroke="black" stroke-width="0.3"/>
+<text x="240" y="588" text-anchor="middle" class="H">KEY CONTRAST: PORTUGUESE vs TAMAZIGHT</text>
+<text x="100" y="599" text-anchor="middle" class="Lx">FEATURE</text>
+<text x="240" y="599" text-anchor="middle" class="Lx">PORTUGUESE</text>
+<text x="390" y="599" text-anchor="middle" class="Lx">TAMAZIGHT</text>
+<line x1="20" y1="603" x2="460" y2="603" stroke="black" stroke-width="0.3"/>
+<text x="100" y="612" text-anchor="middle" class="Ls">Vowels</text>
+<text x="240" y="612" text-anchor="middle" class="Ls">7 oral + 5 nasal</text>
+<text x="390" y="612" text-anchor="middle" class="Ls">3 (/a i u/)</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.5"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 27B ALT · PORTUGUESE / TAMAZIGHT · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.5"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
