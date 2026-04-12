@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">BIBLICAL HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">SCRIPT — ABJAD WRITING SYSTEMS</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">HEBREW SQUARE SCRIPT (ASSYRIAN BLOCK)</text>
+<text x="240" y="68" text-anchor="middle" class="L">22 consonant letters; right-to-left; no lowercase</text>
+<text x="240" y="79" text-anchor="middle" class="L">Square script adopted from Aramaic during Babylonian exile (~586 BCE)</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Earlier: Paleo-Hebrew (Phoenician-type); used on coins until 135 CE</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">NIKUD: VOWEL POINTING SYSTEM</text>
+<text x="240" y="117" text-anchor="middle" class="L">Masoretes (Tiberias, ~600-900 CE) invented vowel points (nikud)</text>
+<text x="240" y="128" text-anchor="middle" class="L">Points written above, below, or inside consonants</text>
+<text x="240" y="139" text-anchor="middle" class="L">qamatz = /a/  •  patah = /a/  •  tsere = /e/  •  holam = /o/</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Biblical text: always pointed  •  Modern Israeli text: usually unpointed</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">FINAL LETTER FORMS</text>
+<text x="240" y="177" text-anchor="middle" class="L">5 letters change form at word end: kaf mem nun pe tsadi</text>
+<text x="240" y="188" text-anchor="middle" class="L">Final kaf ך • final mem ם • final nun ן • final pe ף • final tsadi ץ</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="204" text-anchor="middle" class="H">SAMPLE BIBLICAL TEXT</text>
+<text x="240" y="215" text-anchor="middle" class="L">Bereshit bara Elohim et ha-shamayim ve-et ha-aretz.</text>
+<text x="240" y="226" text-anchor="middle" class="Ls">"In the beginning God created the heavens and the earth." (Gen 1:1)</text>
+<line x1="20" y1="234" x2="460" y2="234" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="241" width="460" height="13" fill="#111"/>
+<text x="240" y="250.5" text-anchor="middle" class="Hb">ARABIC  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="266" text-anchor="middle" class="H">ARABIC ABJAD</text>
+<text x="240" y="277" text-anchor="middle" class="L">28 consonant letters; right-to-left (same direction as Hebrew)</text>
+<text x="240" y="288" text-anchor="middle" class="L">Arabic has 6 more consonants than Hebrew (emphatics + uvulars)</text>
+<text x="240" y="299" text-anchor="middle" class="L">Arabic letters change shape: initial / medial / final / isolated</text>
+<text x="240" y="310" text-anchor="middle" class="Ls">Hebrew letters do NOT connect (except 5 final forms)</text>
+<line x1="20" y1="318" x2="460" y2="318" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="326" text-anchor="middle" class="H">ARABIC HARAKAT (VOWEL MARKS)</text>
+<text x="240" y="337" text-anchor="middle" class="L">Arabic also adds vowels as diacritics above/below consonants</text>
+<text x="240" y="348" text-anchor="middle" class="L">fatha = /a/  •  kasra = /i/  •  damma = /u/  •  sukun = no vowel</text>
+<text x="240" y="359" text-anchor="middle" class="Ls">Used in Quran and learning texts; adult texts normally unvoweled</text>
+<line x1="20" y1="367" x2="460" y2="367" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="375" text-anchor="middle" class="H">ABJAD COMPARISON</text>
+<text x="240" y="386" text-anchor="middle" class="L">Both: consonantal abjad, right-to-left, vowels optional</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: vowel pointing systems added by scholars for sacred texts</text>
+<text x="240" y="408" text-anchor="middle" class="L">Hebrew: 22 letters, block shapes  •  Arabic: 28, cursive connected</text>
+<text x="240" y="419" text-anchor="middle" class="Ls">Both descended from Phoenician script via different paths</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 09a ALT  ·  BIBLICAL HEBREW / ARABIC  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

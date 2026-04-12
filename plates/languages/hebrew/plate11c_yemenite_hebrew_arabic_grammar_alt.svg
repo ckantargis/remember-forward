@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">YEMENITE HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">GRAMMAR — LITURGICAL READING TRADITION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">YEMENITE CANTILLATION (TAAMEI HAMIKRA)</text>
+<text x="240" y="68" text-anchor="middle" class="L">Taamei hamikra: cantillation marks for biblical chanting</text>
+<text x="240" y="79" text-anchor="middle" class="L">Yemenite melody tradition: distinct from Ashkenazi, Sephardic</text>
+<text x="240" y="90" text-anchor="middle" class="L">Marks serve as: musical notation, punctuation, and stress markers</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">27 cantillation signs; govern phrasing and meaning simultaneously</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">YEMENITE SHEVA READING</text>
+<text x="240" y="128" text-anchor="middle" class="L">Sheva na (mobile sheva): Yemenite reads all sheva na as full /e/</text>
+<text x="240" y="139" text-anchor="middle" class="L">E.g., ve-shamru: Yemenite reads as "ve-sha-ME-ru" (full vowels)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Other traditions: some sheva na read as reduced schwa or silent</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">DAGESH LENE (SOFT DAGESH)</text>
+<text x="240" y="177" text-anchor="middle" class="L">Dagesh lene: marks stop vs fricative in begadkefat letters</text>
+<text x="240" y="188" text-anchor="middle" class="L">Yemenite: reads all dagesh lene distinctions fully (stops vs fricatives)</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Ashkenazi: largely lost dagesh lene distinctions (b=v, k=kh...)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">MORPHOLOGICAL PRESERVATION</text>
+<text x="240" y="226" text-anchor="middle" class="L">Dual suffix -ayim: Yemenite pronounces clearly (not merged)</text>
+<text x="240" y="237" text-anchor="middle" class="L">Construct state (smichut): Yemenite forms traditional</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Verb patterns: Yemenite follows biblical grammar precisely in liturgy</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="263" width="460" height="13" fill="#111"/>
+<text x="240" y="272.5" text-anchor="middle" class="Hb">ARABIC GRAMMAR  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="288" text-anchor="middle" class="H">CLASSICAL ARABIC RECITATION (TAJWEED)</text>
+<text x="240" y="299" text-anchor="middle" class="L">Quran recitation: tajweed rules govern exact pronunciation</text>
+<text x="240" y="310" text-anchor="middle" class="L">Similar to Yemenite cantillation: music + grammar + sacred obligation</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">Makharij al-huruf: precise articulation point for every consonant</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">TWO RECITATION TRADITIONS</text>
+<text x="240" y="348" text-anchor="middle" class="L">Both: sacred language preserved through precise oral tradition</text>
+<text x="240" y="359" text-anchor="middle" class="L">Both: musical recitation carries grammatical information</text>
+<text x="240" y="370" text-anchor="middle" class="L">Both: memorization of text primary (Torah, Quran)</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Yemenite cantillation + Arabic tajweed: parallel disciplines of sacred grammar</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 11c ALT  ·  YEMENITE HEBREW / ARABIC  ·  GRAMMAR</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

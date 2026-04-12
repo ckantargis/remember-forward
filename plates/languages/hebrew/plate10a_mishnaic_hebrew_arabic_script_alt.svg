@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">MISHNAIC HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">SCRIPT — RABBINIC WRITING</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">MISHNAIC PERIOD SCRIPT (~200-500 CE)</text>
+<text x="240" y="68" text-anchor="middle" class="L">Same square Assyrian block script as Biblical Hebrew</text>
+<text x="240" y="79" text-anchor="middle" class="L">Mishnah (c. 200 CE): compiled by Rabbi Yehuda HaNasi in Hebrew</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Talmud (c. 500 CE): mostly Aramaic; Hebrew for Mishnah quotations</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">RASHI SCRIPT (SEMI-CURSIVE)</text>
+<text x="240" y="117" text-anchor="middle" class="L">Rashi script: semi-cursive style used for rabbinic commentary</text>
+<text x="240" y="128" text-anchor="middle" class="L">Named for Rashi (1040-1105 CE); actually Sephardic cursive script</text>
+<text x="240" y="139" text-anchor="middle" class="L">Talmud editions: main text in square script, commentary in Rashi script</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Readers of Talmud must know both script styles simultaneously</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">MISHNAIC VOCABULARY IN SCRIPT</text>
+<text x="240" y="177" text-anchor="middle" class="L">New words appear in Mishnaic period: Aramaic loans, Greek loans</text>
+<text x="240" y="188" text-anchor="middle" class="Ls">Aramaic: sanhedrin, mamzer, get (legal divorce document)</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Greek: prozbul, sanhedrin (same word in both — via Aramaic)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">SAMPLE MISHNAIC TEXT</text>
+<text x="240" y="226" text-anchor="middle" class="L">Eilu devarim she-ein lahem shiur...</text>
+<text x="240" y="237" text-anchor="middle" class="Ls">"These are things that have no measure..." (Mishnah Peah 1:1)</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="252" width="460" height="13" fill="#111"/>
+<text x="240" y="261.5" text-anchor="middle" class="Hb">ARABIC  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="277" text-anchor="middle" class="H">ARABIC SCRIPT IN THE RABBINIC PERIOD</text>
+<text x="240" y="288" text-anchor="middle" class="L">Early Arabic inscriptions: Safaitic (~2nd century BCE-4th CE)</text>
+<text x="240" y="299" text-anchor="middle" class="L">Nabataean script → Arabic script: transition 4th-6th century CE</text>
+<text x="240" y="310" text-anchor="middle" class="L">Quran (7th century CE): crystallized Arabic script as we know it</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">Hebrew and Arabic scripts both mature during same centuries</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">ARABIC IN JEWISH SCHOLARSHIP</text>
+<text x="240" y="348" text-anchor="middle" class="L">Judeo-Arabic: Hebrew letters to write Arabic (like Yiddish with Hebrew)</text>
+<text x="240" y="359" text-anchor="middle" class="L">Maimonides (Rambam): wrote Guide for the Perplexed in Judeo-Arabic</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">Sa'adia Gaon: translated Torah into Arabic (Tafsir, ~930 CE)</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="H">SCRIPT INTERACTION</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both scripts: consonantal abjad, right-to-left, vowel points optional</text>
+<text x="240" y="408" text-anchor="middle" class="L">Jewish scholars in Islamic lands read Hebrew script daily + Arabic script</text>
+<text x="240" y="419" text-anchor="middle" class="Ls">Judeo-Arabic = Arabic language in Hebrew letters = bilingual script life</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 10a ALT  ·  MISHNAIC HEBREW / ARABIC  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

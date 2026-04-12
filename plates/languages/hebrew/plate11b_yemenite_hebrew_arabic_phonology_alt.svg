@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">YEMENITE HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY — MOST CONSERVATIVE TRADITION</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">YEMENITE: PRESERVING ANCIENT SOUNDS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Yemenite pronunciation: most conservative Hebrew tradition surviving</text>
+<text x="240" y="79" text-anchor="middle" class="L">Preserves distinctions lost in Ashkenazi, Sephardic, and Modern Hebrew</text>
+<line x1="20" y1="87" x2="460" y2="87" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="95" text-anchor="middle" class="H">YEMENITE UNIQUE CONSONANTS</text>
+<text x="240" y="106" text-anchor="middle" class="L">Gimel with dagesh: /g/  •  Gimel without: /ɣ/ (voiced velar fricative)</text>
+<text x="240" y="117" text-anchor="middle" class="L">Dalet with dagesh: /d/  •  Dalet without: /ð/ (voiced interdental)</text>
+<text x="240" y="128" text-anchor="middle" class="L">Tav with dagesh: /t/  •  Tav without: /θ/ (voiceless interdental)</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">These fricatives: lost in most traditions, fully preserved in Yemenite</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="155" text-anchor="middle" class="H">AYIN DISTINCTION</text>
+<text x="240" y="166" text-anchor="middle" class="L">Ayin /ʿ/: voiced pharyngeal fricative (like Arabic ayin)</text>
+<text x="240" y="177" text-anchor="middle" class="L">Yemenite: full pharyngeal — sounds identical to Arabic /ʿ/</text>
+<text x="240" y="188" text-anchor="middle" class="L">Ashkenazi/Modern: ayin = silent (merged with aleph)</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">Yemenite ayin sounds: more Arabic than other Hebrew traditions</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">QAMATZ DISTINCTION</text>
+<text x="240" y="226" text-anchor="middle" class="L">Qamatz gadol: /ɑ/ (back a)  •  Qamatz qatan: /o/ (Yemenite distinguishes!)</text>
+<text x="240" y="237" text-anchor="middle" class="L">Most traditions: both qamatz = same vowel</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">Yemenite: keeps them distinct as in original Masoretic intention</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="263" width="460" height="13" fill="#111"/>
+<text x="240" y="272.5" text-anchor="middle" class="Hb">YEMENI ARABIC PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="288" text-anchor="middle" class="H">YEMENI ARABIC CONSERVATISM</text>
+<text x="240" y="299" text-anchor="middle" class="L">Yemeni Arabic preserves /q/ as uvular stop (Classical value)</text>
+<text x="240" y="310" text-anchor="middle" class="L">Preserves /θ/ (thalatha "three") and /ð/ (hadhihi "this") as interdentals</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">Most Arabic dialects: /θ/ → /t/ or /s/  •  Yemeni: keeps original</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">PARALLEL CONSERVATISM</text>
+<text x="240" y="348" text-anchor="middle" class="L">Yemenite Hebrew and Yemeni Arabic: both highly conservative</text>
+<text x="240" y="359" text-anchor="middle" class="L">Both preserve interdental sounds (/θ/ /ð/) lost in most sister forms</text>
+<text x="240" y="370" text-anchor="middle" class="L">Yemenite Hebrew ayin /ʿ/ = Yemeni Arabic ayin /ʿ/ (same phoneme!)</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Geographic isolation of Yemen preserved ancient features in both languages</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 11b ALT  ·  YEMENITE HEBREW / ARABIC  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

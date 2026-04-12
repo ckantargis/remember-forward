@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">MISHNAIC HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY — RABBINIC AGE AND ISLAM</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">THE MISHNAIC PERIOD</text>
+<text x="240" y="68" text-anchor="middle" class="L">70 CE: Temple destroyed; Judaism transforms to rabbinic model</text>
+<text x="240" y="79" text-anchor="middle" class="L">Language of prayer and law: Hebrew  •  Language of daily life: Aramaic</text>
+<text x="240" y="90" text-anchor="middle" class="L">Mishnah (~200 CE): Rabbi Yehuda HaNasi codifies oral law in Hebrew</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Jerusalem Talmud (~400 CE) • Babylonian Talmud (~500 CE): Aramaic base</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">JEWISH LIFE UNDER ROME AND PERSIA</text>
+<text x="240" y="128" text-anchor="middle" class="L">Land of Israel: Roman then Byzantine rule; Hebrew persists in study</text>
+<text x="240" y="139" text-anchor="middle" class="L">Babylonian Jews: under Sassanid Persian rule; Aramaic dominant</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Geonim (589-1038 CE): heads of Babylonian academies; Hebrew responsa</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">RISE OF ISLAM AND ARABIC</text>
+<text x="240" y="177" text-anchor="middle" class="L">622 CE: Hijra — Muhammad flees Mecca to Medina; Islam spreads rapidly</text>
+<text x="240" y="188" text-anchor="middle" class="L">638 CE: Arab armies take Jerusalem from Byzantines</text>
+<text x="240" y="199" text-anchor="middle" class="L">Jews of Levant transition from Aramaic to Arabic as daily language</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Hebrew remains sacred; Arabic becomes new vernacular for most Jews</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">ARABIC HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">THE GOLDEN AGE OF JEWISH-ARABIC CULTURE</text>
+<text x="240" y="261" text-anchor="middle" class="L">~800-1200 CE: Islamic civilization peaks; Jews full participants</text>
+<text x="240" y="272" text-anchor="middle" class="L">Sa'adia Gaon (882-942): first major Jewish philosopher, wrote in Arabic</text>
+<text x="240" y="283" text-anchor="middle" class="L">Maimonides (1138-1204): Mishneh Torah (Hebrew) + Guide (Judeo-Arabic)</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Hebrew poetry: Andalusian Jews adapted Arabic meter and forms</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">JUDEO-ARABIC: THE BRIDGE</text>
+<text x="240" y="321" text-anchor="middle" class="L">Judeo-Arabic: Arabic language written in Hebrew characters</text>
+<text x="240" y="332" text-anchor="middle" class="L">Used by Jewish communities across Islamic world for 1000 years</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Cairo Geniza (discovered 1896): ~300,000 Judeo-Arabic documents</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="359" text-anchor="middle" class="H">TWO FAITHS, TWO LANGUAGES, ONE CULTURE</text>
+<text x="240" y="370" text-anchor="middle" class="L">Convivencia in Andalusia (~900-1200): Jews, Muslims, Christians coexist</text>
+<text x="240" y="381" text-anchor="middle" class="L">Arabic-Hebrew bilingualism: normal among educated Jews for 400+ years</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Hebrew grammar books written in Arabic (Ibn Janah, Ibn Ezra)</text>
+<text x="240" y="403" text-anchor="middle" class="L">Mishnaic Hebrew preserved in study; Arabic shaped Jewish civilization</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 10d ALT  ·  MISHNAIC HEBREW / ARABIC  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

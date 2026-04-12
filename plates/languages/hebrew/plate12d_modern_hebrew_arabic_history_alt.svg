@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">MODERN HEBREW</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY — REVIVAL AND COEXISTENCE</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">THE HEBREW REVIVAL</text>
+<text x="240" y="68" text-anchor="middle" class="L">1881: Ben-Yehuda arrives in Palestine; speaks only Hebrew to son Ben-Zion</text>
+<text x="240" y="79" text-anchor="middle" class="L">First Hebrew-speaking child in modern history (Ben-Zion, b. 1882)</text>
+<text x="240" y="90" text-anchor="middle" class="L">First Hebrew newspaper: HaZvi (1884)  •  first Hebrew dictionary: 1910-1959</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">1948: Hebrew declared official language of Israel; 600,000 speakers</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">INGATHERING OF EXILES AND LANGUAGES</text>
+<text x="240" y="128" text-anchor="middle" class="L">Waves of immigration: Yiddish, Arabic, Russian, Amharic, Ladino speakers</text>
+<text x="240" y="139" text-anchor="middle" class="L">All learned Hebrew; Hebrew absorbed words from every immigrant language</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Mizrahi Jews from Arab countries: ~40% of Jewish population by 1960s</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">They brought Arabic phonology, vocabulary, and music into Hebrew culture</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">MODERN HEBREW TODAY</text>
+<text x="240" y="188" text-anchor="middle" class="L">~9M speakers; mother tongue for majority of Israeli Jews</text>
+<text x="240" y="199" text-anchor="middle" class="L">Only example of dead language fully revived as a living language</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Growing diaspora communities learning Hebrew (Jewish and non-Jewish)</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">ARABIC IN MODERN ISRAEL  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">ARAB CITIZENS OF ISRAEL</text>
+<text x="240" y="261" text-anchor="middle" class="L">~2M Arab citizens of Israel: Muslim, Christian, Druze communities</text>
+<text x="240" y="272" text-anchor="middle" class="L">Predominantly speak Levantine Arabic + Modern Hebrew as second language</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">Arabic-medium schools exist; Arabic media, literature, universities</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">THE 1948 NAKBA AND ITS LINGUISTIC LEGACY</text>
+<text x="240" y="310" text-anchor="middle" class="L">~700,000 Palestinian Arabs displaced in 1948 war (Nakba = "catastrophe")</text>
+<text x="240" y="321" text-anchor="middle" class="L">Palestinian Arabic dialects now spoken in Jordan, Lebanon, Gaza, West Bank</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">Arabic place names: many Israeli cities retain Arabic-origin names</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Haifa = Arabic Hayfa  •  Jaffa = Arabic Yafa  •  Beer Sheva = Arabic</text>
+<line x1="20" y1="351" x2="460" y2="351" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="359" text-anchor="middle" class="H">TWO SEMITIC LANGUAGES, ONE LAND</text>
+<text x="240" y="370" text-anchor="middle" class="L">Hebrew and Arabic: Semitic siblings, same script family, same root system</text>
+<text x="240" y="381" text-anchor="middle" class="L">Political separation does not undo linguistic kinship</text>
+<text x="240" y="392" text-anchor="middle" class="L">Shalom / Salaam: same root, same meaning, same aspiration</text>
+<text x="240" y="403" text-anchor="middle" class="L">Future generations will inherit both languages: one land's two voices</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Remember: these words came from the same mouth, before they were two</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 12d ALT  ·  MODERN HEBREW / ARABIC  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
