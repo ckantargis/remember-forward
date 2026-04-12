@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">ZULU</text>
+<text x="240" y="40" text-anchor="middle" class="S">NGUNI CLICK PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">ZULU CLICK CONSONANTS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Dental click /|/ (c): tongue tip against upper teeth, release forward</text>
+<text x="240" y="79" text-anchor="middle" class="L">Palatal click /!/ (q): tongue body against palate, release upward</text>
+<text x="240" y="90" text-anchor="middle" class="L">Lateral click /ɘ/ (x): tongue sides, release laterally (tsk sound)</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Each click has voiced (g-), nasalized (ng-), and aspirated (kh-) forms</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">ZULU TONES</text>
+<text x="240" y="128" text-anchor="middle" class="L">Zulu is tonal: High vs Low tones (not marked in standard spelling)</text>
+<text x="240" y="139" text-anchor="middle" class="L">Tone is phonemic: umlilo "fire" vs. umlilo (different tones = diff. word)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Tone changes with verb tense: present vs. past tones differ</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">ZULU VOWELS &amp; CONSONANTS</text>
+<text x="240" y="177" text-anchor="middle" class="L">5 vowels: a e i o u (short only; no long vowels)</text>
+<text x="240" y="188" text-anchor="middle" class="L">No aspiration contrast in stops (unlike English)</text>
+<text x="240" y="199" text-anchor="middle" class="L">Rich fricative set: f v s z sh hl dl h</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="214" width="460" height="13" fill="#111"/>
+<text x="240" y="223.5" text-anchor="middle" class="Hb">XHOSA PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="239" text-anchor="middle" class="H">XHOSA CLICKS</text>
+<text x="240" y="250" text-anchor="middle" class="L">Same three click types as Zulu (c, q, x) plus more combinations</text>
+<text x="240" y="261" text-anchor="middle" class="L">Xhosa has ~15 distinct click phonemes vs Zulu ~12</text>
+<text x="240" y="272" text-anchor="middle" class="Ls">Additional: breathy-voiced clicks (ghc, etc.) in some analyses</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">Click frequency higher in Xhosa than Zulu in everyday speech</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">XHOSA TONES</text>
+<text x="240" y="310" text-anchor="middle" class="L">Also tonal: High vs Low (same binary system as Zulu)</text>
+<text x="240" y="321" text-anchor="middle" class="L">Tone marks verb tenses and noun classes in parallel to Zulu</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">XHOSA UNIQUE FEATURES</text>
+<text x="240" y="348" text-anchor="middle" class="L">Has /r/ phoneme (Zulu does not); used in Xhosa loanwords</text>
+<text x="240" y="359" text-anchor="middle" class="L">Implosive /ɓ/ (b with downward airflow) in some dialects</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">Slightly more retroflex sounds than Zulu</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="H">SHARED NGUNI PHONOLOGY</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: 3 click types (dental, palatal, lateral)</text>
+<text x="240" y="408" text-anchor="middle" class="L">Both: binary H/L tone system  •  both: 5 vowels</text>
+<text x="240" y="419" text-anchor="middle" class="L">Both: prenasalized stops (mb, nd, ng, nj)</text>
+<text x="240" y="430" text-anchor="middle" class="Ls">Clicks inherited from Khoisan contact during southern migration</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 37b ALT  ·  ZULU / XHOSA  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

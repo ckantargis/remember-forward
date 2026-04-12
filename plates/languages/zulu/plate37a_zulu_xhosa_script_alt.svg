@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">ZULU</text>
+<text x="240" y="40" text-anchor="middle" class="S">WRITING SYSTEM</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">ZULU LATIN ALPHABET</text>
+<text x="240" y="68" text-anchor="middle" class="L">Zulu written in Latin alphabet; 26 standard letters plus digraphs</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">First written by missionaries (1840s): John William Colenso</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Standardized orthography adopted mid-20th century</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">ZULU CLICK LETTERS</text>
+<text x="240" y="117" text-anchor="middle" class="L">c = dental click /|/  •  q = palatal click /!/</text>
+<text x="240" y="128" text-anchor="middle" class="L">x = lateral click /ɘ/  (three distinct clicks)</text>
+<text x="240" y="139" text-anchor="middle" class="L">Clicks can be voiced, nasalized, or aspirated: gc, ngc, gq, ngq...</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">Clicks borrowed from Khoisan peoples during Nguni southward migration</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">ZULU DIGRAPHS</text>
+<text x="240" y="177" text-anchor="middle" class="L">dl = lateral affricate  •  hl = voiceless lateral fricative</text>
+<text x="240" y="188" text-anchor="middle" class="L">tsh = aspirated affricate  •  mb, nd, ng = prenasalized stops</text>
+<text x="240" y="199" text-anchor="middle" class="L">sh /ʃ/  •  ny /ɲ/  •  ng /ŋ/ (velar nasal)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="227" text-anchor="middle" class="L">Sawubona!  "I see you!" (standard greeting)</text>
+<text x="240" y="238" text-anchor="middle" class="L">Ngikhona.  "I am here." (standard response)</text>
+<line x1="20" y1="246" x2="460" y2="246" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="253" width="460" height="13" fill="#111"/>
+<text x="240" y="262.5" text-anchor="middle" class="Hb">XHOSA  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="278" text-anchor="middle" class="H">XHOSA LATIN ALPHABET</text>
+<text x="240" y="289" text-anchor="middle" class="L">Xhosa also uses Latin alphabet; same base as Zulu</text>
+<text x="240" y="300" text-anchor="middle" class="Ls">First written by Johannes van der Kemp (1799); Tiyo Soga contributions</text>
+<text x="240" y="311" text-anchor="middle" class="H">Xhosa click letters:</text>
+<text x="240" y="322" text-anchor="middle" class="L">c = dental  •  q = palatal  •  x = lateral (same symbols as Zulu!)</text>
+<text x="240" y="333" text-anchor="middle" class="L">gc, ngc, nkc, gq, ngq, nkq, gx, ngx, nkx = 9 click series</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="349" text-anchor="middle" class="H">XHOSA ADDITIONAL LETTERS</text>
+<text x="240" y="360" text-anchor="middle" class="L">r /r/ (Xhosa has /r/; Zulu uses /l/ where Xhosa uses /r/ or /l/)</text>
+<text x="240" y="371" text-anchor="middle" class="L">Xhosa has more click phonemes than Zulu (~15 vs ~12)</text>
+<line x1="20" y1="379" x2="460" y2="379" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="387" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="398" text-anchor="middle" class="L">Both: Latin alphabet, same click letters (c, q, x)</text>
+<text x="240" y="409" text-anchor="middle" class="L">Both: same prenasalized stop spellings (mb, nd, ng)</text>
+<text x="240" y="420" text-anchor="middle" class="L">Xhosa: more click combinations  •  Zulu: slightly fewer clicks</text>
+<text x="240" y="431" text-anchor="middle" class="Ls">Xhosa: has /r/  •  Zulu: no /r/ phoneme (uses /l/ instead)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 37a ALT  ·  ZULU / XHOSA  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

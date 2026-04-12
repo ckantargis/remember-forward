@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">VIETNAMESE</text>
+<text x="240" y="40" text-anchor="middle" class="S">TONAL PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">SIX TONES OF VIETNAMESE</text>
+<text x="240" y="68" text-anchor="middle" class="L">ngang: level mid tone  (a)  — flat and sustained</text>
+<text x="240" y="79" text-anchor="middle" class="L">huyền: falling tone  (à)  — low falling</text>
+<text x="240" y="90" text-anchor="middle" class="L">sắc: rising tone  (á)  — high rising</text>
+<text x="240" y="101" text-anchor="middle" class="L">hỏi: dipping tone  (ả)  — mid-low dip then rise</text>
+<text x="240" y="112" text-anchor="middle" class="L">ngã: creaky-rising  (ã)  — rising with glottalization</text>
+<text x="240" y="123" text-anchor="middle" class="L">nặng: stopped  (ạ)  — low, short, glottal stop final</text>
+<text x="240" y="134" text-anchor="middle" class="Ls">ma mà má mả mã mạ = 6 different words!</text>
+<line x1="20" y1="142" x2="460" y2="142" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="150" text-anchor="middle" class="H">CONSONANT SYSTEM</text>
+<text x="240" y="161" text-anchor="middle" class="L">Initial: b d đ g gi kh l m n nh ng ngh ph qu r s t th tr v x</text>
+<text x="240" y="172" text-anchor="middle" class="L">đ /ɗ/ = implosive (pulled-in d)  •  gi /z/ = palatal fricative</text>
+<text x="240" y="183" text-anchor="middle" class="L">Final: -c -ch -ng -nh -p -t -m -n only (no voiced finals)</text>
+<line x1="20" y1="191" x2="460" y2="191" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="199" text-anchor="middle" class="H">VOWEL SYSTEM</text>
+<text x="240" y="210" text-anchor="middle" class="L">14 vowel nuclei; 3 diphthongs; relatively complex for SE Asia</text>
+<text x="240" y="221" text-anchor="middle" class="Ls">/ɯ/ (unrounded u) unique to Vietnamese in SE Asian context</text>
+<line x1="20" y1="229" x2="460" y2="229" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="236" width="460" height="13" fill="#111"/>
+<text x="240" y="245.5" text-anchor="middle" class="Hb">ZHUANG PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="261" text-anchor="middle" class="H">ZHUANG TONES (6-8)</text>
+<text x="240" y="272" text-anchor="middle" class="L">Standard Zhuang: 6 tones (some dialects 8)</text>
+<text x="240" y="283" text-anchor="middle" class="L">Tone 1 (high level)  •  Tone 2 (mid rising)  •  Tone 3 (mid falling)</text>
+<text x="240" y="294" text-anchor="middle" class="L">Tone 4 (low falling)  •  Tone 5 (low rising)  •  Tone 6 (mid level)</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Tone 7 + 8: checked tones (syllable-final stop closure)</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="321" text-anchor="middle" class="H">ZHUANG CONSONANTS</text>
+<text x="240" y="332" text-anchor="middle" class="L">Initial consonants: p b m f v d t n l g k ng h r s z</text>
+<text x="240" y="343" text-anchor="middle" class="Ls">Prenasalized stops: mb nd mg (like Bantu!  different origin)</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">No complex consonant clusters at syllable onset</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">SHARED SE ASIAN TONAL FEATURES</text>
+<text x="240" y="381" text-anchor="middle" class="L">Both: monosyllabic roots  •  both: tonal systems (6+ tones)</text>
+<text x="240" y="392" text-anchor="middle" class="L">Both: simple syllable structure CV(C)  •  no consonant clusters</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Vietnamese: Austroasiatic family  •  Zhuang: Tai-Kadai family</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Converged phonologically through Southeast Asian Mainland sprachbund</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 38b ALT  ·  VIETNAMESE / ZHUANG  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

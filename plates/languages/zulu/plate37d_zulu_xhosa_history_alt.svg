@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">ZULU</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; NGUNI PEOPLES</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">NGUNI BANTU ORIGINS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Nguni: branch of Bantu languages spoken along southeastern coast</text>
+<text x="240" y="79" text-anchor="middle" class="L">Zulu, Xhosa, Swati, Ndebele: all Nguni, all share click consonants</text>
+<text x="240" y="90" text-anchor="middle" class="L">Clicks absorbed from Khoisan hunters during southward Bantu migration</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Migration complete by ~1000 CE; settled KwaZulu-Natal coast</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">THE ZULU KINGDOM</text>
+<text x="240" y="128" text-anchor="middle" class="L">Shaka kaSenzangakhona (~1787-1828): founded unified Zulu Kingdom</text>
+<text x="240" y="139" text-anchor="middle" class="L">Shaka reorganized military: ibutho regiment system, iklwa short spear</text>
+<text x="240" y="150" text-anchor="middle" class="L">Mfecane (~1815-1840): Zulu expansion caused massive regional displacement</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Battle of Isandlwana (1879): Zulu defeated British regiment — famous victory</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">ZULU TODAY</text>
+<text x="240" y="188" text-anchor="middle" class="L">~13M speakers; largest ethnolinguistic group in South Africa</text>
+<text x="240" y="199" text-anchor="middle" class="L">KwaZulu-Natal province; Durban largest Zulu-speaking city</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Official language of South Africa; Nelson Mandela spoke Zulu</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">XHOSA HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">XHOSA AND THE CAPE</text>
+<text x="240" y="261" text-anchor="middle" class="L">Xhosa settled Eastern Cape by ~1000-1300 CE; border: Great Fish River</text>
+<text x="240" y="272" text-anchor="middle" class="L">First Africans encountered by Dutch settlers (1652) in significant numbers</text>
+<text x="240" y="283" text-anchor="middle" class="L">9 Cape Frontier Wars (1779-1879): Xhosa vs British/Dutch colonists</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Longest colonial resistance in African history</text>
+<line x1="20" y1="302" x2="460" y2="302" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="310" text-anchor="middle" class="H">THE GREAT CATTLE KILLING (1856-1857)</text>
+<text x="240" y="321" text-anchor="middle" class="L">Nongqawuse: young Xhosa prophetess; saw vision from ancestors</text>
+<text x="240" y="332" text-anchor="middle" class="L">Prophecy: kill all cattle and destroy crops; ancestors would rise</text>
+<text x="240" y="343" text-anchor="middle" class="L">~400,000 cattle killed; ~40,000 Xhosa died of famine</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Catastrophic; weakened Xhosa resistance to colonial annexation</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">XHOSA AND SOUTH AFRICAN LIBERATION</text>
+<text x="240" y="381" text-anchor="middle" class="L">Nelson Mandela: Thembu/Xhosa; born Mvezo, Eastern Cape</text>
+<text x="240" y="392" text-anchor="middle" class="L">Walter Sisulu, Oliver Tambo: Xhosa ANC leaders</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Steve Biko: Xhosa; founder Black Consciousness Movement</text>
+<text x="240" y="414" text-anchor="middle" class="L">~8M speakers; Eastern Cape and Western Cape provinces</text>
+<line x1="20" y1="422" x2="460" y2="422" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="430" text-anchor="middle" class="H">ZULU + XHOSA: NGUNI SIBLINGS</text>
+<text x="240" y="441" text-anchor="middle" class="L">Neighboring peoples; mutual intelligibility; shared click heritage</text>
+<text x="240" y="452" text-anchor="middle" class="Ls">Different colonial histories shaped distinct identities</text>
+<text x="240" y="463" text-anchor="middle" class="L">Both: cornerstone languages of democratic South Africa (11 official)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 37d ALT  ·  ZULU / XHOSA  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

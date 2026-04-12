@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">YORUBA</text>
+<text x="240" y="40" text-anchor="middle" class="S">HISTORY &amp; WEST AFRICA</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">IFE AND THE YORUBA KINGDOMS</text>
+<text x="240" y="68" text-anchor="middle" class="L">Ile-Ife: spiritual capital; Yoruba trace civilization here</text>
+<text x="240" y="79" text-anchor="middle" class="L">~500-1000 CE: Ife terracotta sculptures — masterworks of African art</text>
+<text x="240" y="90" text-anchor="middle" class="L">Oyo Empire (~1300-1836): major West African political power</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Oyo cavalry: dominated trade routes from forest to savanna</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">Benin Kingdom (adj.): Yoruba-influenced brass casting tradition</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">SLAVE TRADE &amp; DIASPORA</text>
+<text x="240" y="139" text-anchor="middle" class="L">Yoruba: one of most heavily enslaved African groups</text>
+<text x="240" y="150" text-anchor="middle" class="L">Yoruba religion: Candomble (Brazil) • Santeria (Cuba) • Vodou (Haiti)</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Orishas (Yoruba deities) still worshipped across Americas</text>
+<text x="240" y="172" text-anchor="middle" class="L">~50M speakers; Nigeria’s largest ethnic group</text>
+<line x1="20" y1="180" x2="460" y2="180" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="187" width="460" height="13" fill="#111"/>
+<text x="240" y="196.5" text-anchor="middle" class="Hb">TWI / AKAN HISTORY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="212" text-anchor="middle" class="H">ASHANTI EMPIRE</text>
+<text x="240" y="223" text-anchor="middle" class="L">Akan people: forest region of modern Ghana; gold-rich territory</text>
+<text x="240" y="234" text-anchor="middle" class="L">~1701: Osei Tutu founds Ashanti Confederacy (Asante Empire)</text>
+<text x="240" y="245" text-anchor="middle" class="L">Golden Stool (Sika Dwa): sacred symbol of Ashanti unity and soul</text>
+<text x="240" y="256" text-anchor="middle" class="Ls">Ashanti resisted British annexation 4 times (1823-1900)</text>
+<line x1="20" y1="264" x2="460" y2="264" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="272" text-anchor="middle" class="H">AKAN GOLD AND SLAVE TRADE</text>
+<text x="240" y="283" text-anchor="middle" class="L">Gold Coast (Ghana): named for Akan gold wealth (British colony)</text>
+<text x="240" y="294" text-anchor="middle" class="Ls">Akan also participated in Atlantic slave trade (as captors + captives)</text>
+<text x="240" y="305" text-anchor="middle" class="Ls">Akan cultural influence in Caribbean: Anansi spider stories</text>
+<text x="240" y="316" text-anchor="middle" class="L">Kwame Nkrumah: Akan; first president of Ghana (1957 independence)</text>
+<line x1="20" y1="324" x2="460" y2="324" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="332" text-anchor="middle" class="H">TWI TODAY</text>
+<text x="240" y="343" text-anchor="middle" class="L">~9M speakers; Twi (Asante dialect) most widely spoken Akan form</text>
+<text x="240" y="354" text-anchor="middle" class="Ls">Ghana: Akan group ~47% of population; Twi = informal lingua franca</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="370" text-anchor="middle" class="H">YORUBA-AKAN: WEST AFRICAN SIBLINGS</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">Both: ancient kingdoms with sophisticated political systems</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Both: deeply impacted by Atlantic slave trade</text>
+<text x="240" y="403" text-anchor="middle" class="Ls">Both: living religious traditions in the Americas</text>
+<text x="240" y="414" text-anchor="middle" class="Ls">Anansi (Akan trickster) and Eshu/Exu (Yoruba trickster): parallel gods</text>
+<text x="240" y="425" text-anchor="middle" class="L">Two great West African civilizations: gold, iron, art, diaspora</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 30d ALT  ·  YORUBA / TWI  ·  HISTORY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

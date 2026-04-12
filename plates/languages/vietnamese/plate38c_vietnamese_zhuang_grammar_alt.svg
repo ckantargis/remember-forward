@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">VIETNAMESE</text>
+<text x="240" y="40" text-anchor="middle" class="S">ISOLATING GRAMMAR</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">VIETNAMESE WORD ORDER: SVO</text>
+<text x="240" y="68" text-anchor="middle" class="L">Tôi ăn cơm.  "I eat rice." (SVO like English)</text>
+<text x="240" y="79" text-anchor="middle" class="L">Modifiers FOLLOW head: cơm trắng "rice white" = "white rice"</text>
+<text x="240" y="90" text-anchor="middle" class="L">No inflection: no case, gender, number, tense on nouns/verbs</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">CLASSIFIERS</text>
+<text x="240" y="117" text-anchor="middle" class="L">Nouns need classifiers when counted or with modifiers:</text>
+<text x="240" y="128" text-anchor="middle" class="L">con = classifier for animals: con chó "CL dog" = "the dog"</text>
+<text x="240" y="139" text-anchor="middle" class="L">cái = general classifier for things: cái bàn "CL table"</text>
+<text x="240" y="150" text-anchor="middle" class="L">quả = classifier for round things: quả táo "CL apple"</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">TENSE THROUGH PARTICLES</text>
+<text x="240" y="177" text-anchor="middle" class="L">No verb conjugation; particles mark time:</text>
+<text x="240" y="188" text-anchor="middle" class="L">đã (past) • đang (progressive) • sẽ (future)</text>
+<text x="240" y="199" text-anchor="middle" class="L">Tôi đã ăn cơm.  "I already-ate rice." = "I ate rice."</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">PRONOUNS BASED ON KINSHIP</text>
+<text x="240" y="226" text-anchor="middle" class="L">Vietnamese uses kin terms as pronouns:</text>
+<text x="240" y="237" text-anchor="middle" class="Ls">tôi "I" (formal neutral) • anh "I/you" (older male) • chị "I/you" (older female)</text>
+<text x="240" y="248" text-anchor="middle" class="Ls">em "I/you" (younger person) • bà "grandmother/ma'am"</text>
+<line x1="20" y1="256" x2="460" y2="256" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="263" width="460" height="13" fill="#111"/>
+<text x="240" y="272.5" text-anchor="middle" class="Hb">ZHUANG GRAMMAR  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="288" text-anchor="middle" class="H">ZHUANG WORD ORDER: SVO</text>
+<text x="240" y="299" text-anchor="middle" class="L">Zhuang is also SVO (same as Vietnamese!)</text>
+<text x="240" y="310" text-anchor="middle" class="L">Gou gwn haeux.  "I eat rice." (identical SVO structure)</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">Modifiers follow head: same pattern as Vietnamese</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">ZHUANG CLASSIFIERS</text>
+<text x="240" y="348" text-anchor="middle" class="L">Zhuang also uses classifiers! (Mainland SE Asia areal feature)</text>
+<text x="240" y="359" text-anchor="middle" class="L">duz = classifier for animals  •  giz = classifier for people</text>
+<text x="240" y="370" text-anchor="middle" class="Ls">Parallel classifier system to Vietnamese</text>
+<line x1="20" y1="378" x2="460" y2="378" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="386" text-anchor="middle" class="H">SHARED MAINLAND SE ASIAN GRAMMAR</text>
+<text x="240" y="397" text-anchor="middle" class="L">Both: SVO word order  •  both: isolating morphology</text>
+<text x="240" y="408" text-anchor="middle" class="L">Both: classifiers  •  both: particles for tense/aspect</text>
+<text x="240" y="419" text-anchor="middle" class="L">Both: modifiers AFTER noun head (not before as in English)</text>
+<text x="240" y="430" text-anchor="middle" class="L">Both: no gender  •  both: no case inflection</text>
+<text x="240" y="441" text-anchor="middle" class="Ls">These features: Mainland SE Asia Sprachbund convergence</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 38c ALT  ·  VIETNAMESE / ZHUANG  ·  GRAMMAR</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

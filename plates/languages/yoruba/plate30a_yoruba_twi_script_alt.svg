@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">YORUBA</text>
+<text x="240" y="40" text-anchor="middle" class="S">WRITING SYSTEM</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">YORUBA LATIN ALPHABET</text>
+<text x="240" y="68" text-anchor="middle" class="L">Yoruba uses Latin alphabet with diacritics for tone and vowels</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">Standardized 1875 by Samuel Crowther (first Nigerian bishop)</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">No pre-colonial writing system; oral tradition dominant</text>
+<line x1="20" y1="98" x2="460" y2="98" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="106" text-anchor="middle" class="H">YORUBA SPECIAL LETTERS</text>
+<text x="240" y="117" text-anchor="middle" class="L">ɛ = /ɛ/ (open e)  •  ɔ = /ɔ/ (open o)  •  ṣ = /ʃ/ (sh)</text>
+<text x="240" y="128" text-anchor="middle" class="L">gb = /gb/ (voiced labio-velar stop — unique phoneme)</text>
+<text x="240" y="139" text-anchor="middle" class="L">kp = /kp/ (voiceless labio-velar stop — also unique)</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">These doubly-articulated stops are rare outside West Africa</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">TONE MARKING</text>
+<text x="240" y="177" text-anchor="middle" class="L">High tone: acute accent (à)  •  Low tone: grave accent (à)</text>
+<text x="240" y="188" text-anchor="middle" class="L">Mid tone: no mark (most common)  •  Downstep: exclamation</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">owó "money" • owō "hand" • òwò "drum" (three different words)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="215" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="227" text-anchor="middle" class="L">E kààrọ!  "Good morning!"</text>
+<text x="240" y="238" text-anchor="middle" class="L">Àlàáfià  "Peace" (common greeting)</text>
+<line x1="20" y1="246" x2="460" y2="246" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="253" width="460" height="13" fill="#111"/>
+<text x="240" y="262.5" text-anchor="middle" class="Hb">TWI / AKAN  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="278" text-anchor="middle" class="H">AKAN LATIN ALPHABET</text>
+<text x="240" y="289" text-anchor="middle" class="L">Twi is a major dialect of Akan; written in Latin alphabet</text>
+<text x="240" y="300" text-anchor="middle" class="Ls">Standardized by Basel Mission missionaries (19th century)</text>
+<text x="240" y="311" text-anchor="middle" class="H">Special letters in Akan orthography:</text>
+<text x="240" y="322" text-anchor="middle" class="L">ɛ = /ɛ/ • ɔ = /ɔ/ (same open vowels as Yoruba!)</text>
+<text x="240" y="333" text-anchor="middle" class="L">Nasalized vowels: ɛ̃ ɔ̃ (marked with tilde in some systems)</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="349" text-anchor="middle" class="H">TWI TONE MARKING</text>
+<text x="240" y="360" text-anchor="middle" class="L">Tone marked with acute/grave: sà vs. sá (different meanings)</text>
+<text x="240" y="371" text-anchor="middle" class="L">Two tones: High and Low (simpler than Yoruba 3-level)</text>
+<line x1="20" y1="379" x2="460" y2="379" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="387" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="398" text-anchor="middle" class="L">Both: Latin alphabet with open vowel letters ɛ and ɔ</text>
+<text x="240" y="409" text-anchor="middle" class="L">Both: tone diacritics on vowels</text>
+<text x="240" y="420" text-anchor="middle" class="L">Yoruba: 3 tones + downstep  •  Twi: 2 tones</text>
+<text x="240" y="431" text-anchor="middle" class="Ls">Yoruba: labio-velars kp/gb  •  Twi: also has kp! (shared feature)</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 30a ALT  ·  YORUBA / TWI  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

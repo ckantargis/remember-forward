@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">YORUBA</text>
+<text x="240" y="40" text-anchor="middle" class="S">WEST AFRICAN PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">YORUBA THREE-TONE SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">High (H): marked with acute à  •  Mid (M): unmarked</text>
+<text x="240" y="79" text-anchor="middle" class="L">Low (L): marked with grave à</text>
+<text x="240" y="90" text-anchor="middle" class="L">Downstep: each H after L is slightly lower than previous H</text>
+<text x="240" y="101" text-anchor="middle" class="Ls">Tone sandhi: tones affect neighboring syllables</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">LABIO-VELAR STOPS</text>
+<text x="240" y="128" text-anchor="middle" class="L">kp /kp/: bilabial + velar closure simultaneously</text>
+<text x="240" y="139" text-anchor="middle" class="L">gb /gb/: voiced doubly-articulated labio-velar</text>
+<text x="240" y="150" text-anchor="middle" class="Ls">These are single consonants, not sequences</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">Found across West Africa: Yoruba, Igbo, Twi, Ewe, Fon</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">YORUBA VOWELS</text>
+<text x="240" y="188" text-anchor="middle" class="L">7 oral vowels: i e ɛ a o ɔ u</text>
+<text x="240" y="199" text-anchor="middle" class="L">Nasal vowels: ĩ ɛ̃ ã ɔ̃ ũ (nasalized counterparts)</text>
+<text x="240" y="210" text-anchor="middle" class="Ls">Vowel harmony: suffix vowels harmonize with root</text>
+<line x1="20" y1="218" x2="460" y2="218" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="225" width="460" height="13" fill="#111"/>
+<text x="240" y="234.5" text-anchor="middle" class="Hb">TWI PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="250" text-anchor="middle" class="H">TWI TONE SYSTEM</text>
+<text x="240" y="261" text-anchor="middle" class="L">Two tones: High and Low (simpler than Yoruba)</text>
+<text x="240" y="272" text-anchor="middle" class="L">Tone patterns mark verb tenses and noun classes</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">Downstep also present in Twi (shared West African feature)</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">TWI CONSONANTS</text>
+<text x="240" y="310" text-anchor="middle" class="L">kp /kp/ present in Twi (same labio-velar as Yoruba!)</text>
+<text x="240" y="321" text-anchor="middle" class="L">Prenasalized stops: mb nd ng  (Bantu-like feature in Akan)</text>
+<text x="240" y="332" text-anchor="middle" class="Ls">ɣw = /ɣw/ (labialized uvular fricative — unique to Akan area)</text>
+<line x1="20" y1="340" x2="460" y2="340" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="348" text-anchor="middle" class="H">TWI VOWELS</text>
+<text x="240" y="359" text-anchor="middle" class="L">10 vowels: i ɪ e ɛ a o ɔ u ʊ plus nasalized</text>
+<text x="240" y="370" text-anchor="middle" class="L">ATR vowel harmony: Advanced Tongue Root system</text>
+<text x="240" y="381" text-anchor="middle" class="Ls">[+ATR]: i e o u  vs.  [-ATR]: ɪ ɛ ɔ ʊ (tongue position)</text>
+<line x1="20" y1="389" x2="460" y2="389" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="397" text-anchor="middle" class="H">SHARED WEST AFRICAN FEATURES</text>
+<text x="240" y="408" text-anchor="middle" class="L">Both: tonal languages  •  both: labio-velar stops (kp/gb)</text>
+<text x="240" y="419" text-anchor="middle" class="L">Both: open vowels ɛ and ɔ  •  both: vowel harmony</text>
+<text x="240" y="430" text-anchor="middle" class="Ls">Yoruba: 3-level tone  •  Twi: 2-level + ATR vowel harmony</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 30b ALT  ·  YORUBA / TWI  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

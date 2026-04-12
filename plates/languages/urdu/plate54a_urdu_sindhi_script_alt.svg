@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">URDU</text>
+<text x="240" y="40" text-anchor="middle" class="S">NASTALIQ SCRIPT</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">NASTALIQ — HANGING CALLIGRAPHY</text>
+<text x="240" y="68" text-anchor="middle" class="L">Urdu written in Nastaliq: most elegant Arabic-script style</text>
+<text x="240" y="79" text-anchor="middle" class="L">Nastaliq = "hanging" — letters hang diagonally rightward</text>
+<text x="240" y="90" text-anchor="middle" class="Ls">Developed in Persia (~15th c.); perfected in Mughal India</text>
+<text x="240" y="101" text-anchor="middle" class="L">Right-to-left; 36 base letters; abjad (vowels optional)</text>
+<line x1="20" y1="109" x2="460" y2="109" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="117" text-anchor="middle" class="H">URDU-SPECIFIC LETTERS</text>
+<text x="240" y="128" text-anchor="middle" class="L">Added letters not in Arabic: ٹ /ʈ/ ڈ /ɖ/ ڑ /ɼ/ ں /ŋ/ ھ /ʰ/</text>
+<text x="240" y="139" text-anchor="middle" class="Ls">These represent retroflex sounds from Sanskrit heritage</text>
+<text x="240" y="150" text-anchor="middle" class="L">do chashmi he (ھ): aspirate marker in Nastaliq</text>
+<line x1="20" y1="158" x2="460" y2="158" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="166" text-anchor="middle" class="H">SAMPLE TEXT</text>
+<text x="240" y="178" text-anchor="middle" class="L">آپ کیسے ہیں؟  "Aap kaise hain?" (How are you? formal)</text>
+<text x="240" y="189" text-anchor="middle" class="L">شکریہ  "Shukriya" (Thank you)</text>
+<text x="240" y="200" text-anchor="middle" class="L">اردو  Urdu (the language)</text>
+<line x1="20" y1="208" x2="460" y2="208" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="216" text-anchor="middle" class="H">URDU vs. HINDI — ONE SPOKEN LANGUAGE</text>
+<text x="240" y="227" text-anchor="middle" class="L">Urdu and Hindi are mutually intelligible in everyday speech</text>
+<text x="240" y="238" text-anchor="middle" class="L">Urdu: Nastaliq script  •  Hindi: Devanagari script</text>
+<text x="240" y="249" text-anchor="middle" class="Ls">Urdu: Persian/Arabic vocabulary layer  •  Hindi: Sanskrit vocabulary</text>
+<line x1="20" y1="257" x2="460" y2="257" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="264" width="460" height="13" fill="#111"/>
+<text x="240" y="273.5" text-anchor="middle" class="Hb">SINDHI  ·  سنڌي  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="289" text-anchor="middle" class="H">SINDHI PERSO-ARABIC SCRIPT (52 LETTERS)</text>
+<text x="240" y="300" text-anchor="middle" class="L">Largest Perso-Arabic alphabet of any language (52 letters!)</text>
+<text x="240" y="311" text-anchor="middle" class="L">Standard Arabic has 28 • Urdu Nastaliq has 36 • Sindhi has 52</text>
+<text x="240" y="322" text-anchor="middle" class="H">Extra letters represent unique Sindhi phonemes:</text>
+<text x="240" y="333" text-anchor="middle" class="L">ڌ /ɓ/  ڄ /ɗ/  ڃ /ɲ/  ڳ /ŋ/ (implosives + velar nasal)</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="349" text-anchor="middle" class="H">SINDHI ALSO IN DEVANAGARI</text>
+<text x="240" y="360" text-anchor="middle" class="L">In India: Hindu Sindhis use Devanagari for Sindhi</text>
+<text x="240" y="371" text-anchor="middle" class="L">Same language, two scripts (like Urdu/Hindi!)</text>
+<text x="240" y="382" text-anchor="middle" class="Ls">Pakistan Sindhi: Perso-Arabic  •  India Sindhi: Devanagari</text>
+<line x1="20" y1="390" x2="460" y2="390" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="398" text-anchor="middle" class="H">SCRIPT COMPARISON</text>
+<text x="240" y="409" text-anchor="middle" class="L">Both: right-to-left Perso-Arabic scripts</text>
+<text x="240" y="420" text-anchor="middle" class="L">Urdu: 36 letters  •  Sindhi: 52 letters (more phonemic coverage)</text>
+<text x="240" y="431" text-anchor="middle" class="L">Both: abjad system (short vowels usually omitted)</text>
+<text x="240" y="442" text-anchor="middle" class="Ls">Shared Arabic letter base; different supplementary letters</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 54a ALT  ·  URDU / SINDHI  ·  SCRIPT</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>

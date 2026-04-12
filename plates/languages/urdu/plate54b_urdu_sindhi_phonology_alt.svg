@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect x="0" y="0" width="480" height="680" fill="#fffff8"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#222" stroke-width="1.5"/>
+<rect x="10" y="10" width="460" height="660" fill="none" stroke="#222" stroke-width="0.5"/>
+<style>
+text{font-family:Georgia,serif;fill:#111;}
+.T{font-size:11px;font-weight:bold;}
+.S{font-size:6.5px;}
+.H{font-size:6.5px;font-weight:bold;}
+.Hb{font-size:7px;font-weight:bold;fill:#fff;}
+.L{font-size:7px;}
+.Ls{font-size:6px;}
+.Lx{font-size:5.5px;}
+.M{font-size:6px;}
+.F{font-size:7px;font-style:italic;}
+.Fb{font-size:7.5px;font-weight:bold;}
+</style>
+<text x="240" y="28" text-anchor="middle" class="T">URDU</text>
+<text x="240" y="40" text-anchor="middle" class="S">PHONOLOGY</text>
+<line x1="20" y1="47" x2="460" y2="47" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="57" text-anchor="middle" class="H">URDU CONSONANT SYSTEM</text>
+<text x="240" y="68" text-anchor="middle" class="L">Stops: p b ph bh  t d th dh  T D Th Dh  k g kh gh</text>
+<text x="240" y="79" text-anchor="middle" class="Ls">(T D Th Dh = retroflex series)</text>
+<text x="240" y="90" text-anchor="middle" class="L">Aspirates: ph bh th dh Th Dh kh gh (full Sanskrit set)</text>
+<text x="240" y="101" text-anchor="middle" class="L">Fricatives from Arabic/Persian: q f z x G (not in Sanskrit)</text>
+<text x="240" y="112" text-anchor="middle" class="Ls">q = /q/ uvular  •  x = /x/ velar  •  G = /ɣ/ uvular voiced</text>
+<line x1="20" y1="120" x2="460" y2="120" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="128" text-anchor="middle" class="H">URDU VOWELS</text>
+<text x="240" y="139" text-anchor="middle" class="L">Short: a i u  •  Long: aa ii uu  •  Diphthongs: ai au</text>
+<text x="240" y="150" text-anchor="middle" class="L">Nasalized vowels: ã ĩ õ (from Sanskrit nasals)</text>
+<text x="240" y="161" text-anchor="middle" class="Ls">No tones; stress generally penultimate</text>
+<line x1="20" y1="169" x2="460" y2="169" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="177" text-anchor="middle" class="H">URDU ASPIRATES</text>
+<text x="240" y="188" text-anchor="middle" class="L">Aspiration is phonemic: pal "moment" vs. phal "fruit"</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">All four stop series have aspirated pairs (unlike Arabic)</text>
+<line x1="20" y1="207" x2="460" y2="207" stroke="#555" stroke-width="0.5"/>
+<rect x="10" y="214" width="460" height="13" fill="#111"/>
+<text x="240" y="223.5" text-anchor="middle" class="Hb">SINDHI PHONOLOGY  ·  SECONDARY LANGUAGE</text>
+<text x="240" y="239" text-anchor="middle" class="H">SINDHI IMPLOSIVE CONSONANTS</text>
+<text x="240" y="250" text-anchor="middle" class="L">Four implosive stops: /ɓ/ /ɗ/ /ʄ/ /ɠ/</text>
+<text x="240" y="261" text-anchor="middle" class="L">Implosives: air pulled inward during stop closure (opposite of ejective)</text>
+<text x="240" y="272" text-anchor="middle" class="L">Bilabial /ɓ/  •  Dental /ɗ/  •  Palatal /ʄ/  •  Velar /ɠ/</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">Only Sindhi and Saraiki have all four in an Indo-Aryan language</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="299" text-anchor="middle" class="H">SINDHI ASPIRATES</text>
+<text x="240" y="310" text-anchor="middle" class="L">Sindhi has the same aspirate series as Urdu: kh gh ph bh th dh...</text>
+<text x="240" y="321" text-anchor="middle" class="Ls">PLUS four aspirated implosives: unique worldwide!</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="337" text-anchor="middle" class="H">PHONOLOGICAL COMPARISON</text>
+<text x="240" y="348" text-anchor="middle" class="L">Both: retroflex series T D Th Dh (Sanskrit heritage)</text>
+<text x="240" y="359" text-anchor="middle" class="L">Both: aspirated stops ph bh kh gh etc.</text>
+<text x="240" y="370" text-anchor="middle" class="L">Both: Arabic loan phonemes q x (limited integration)</text>
+<text x="240" y="381" text-anchor="middle" class="L">Sindhi: + 4 implosives  •  Urdu: no implosives</text>
+<text x="240" y="392" text-anchor="middle" class="Ls">Urdu: larger Arabic/Persian vocabulary layer</text>
+<line x1="20" y1="634" x2="460" y2="634" stroke="#555" stroke-width="0.5"/>
+<text x="240" y="643" text-anchor="middle" class="M">PLATE 54b ALT  ·  URDU / SINDHI  ·  PHONOLOGY</text>
+<text x="240" y="652" text-anchor="middle" class="M">CC BY-SA 4.0  ·  REMEMBERFORWARD.ORG</text>
+</svg>
