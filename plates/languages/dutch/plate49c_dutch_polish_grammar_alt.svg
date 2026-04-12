@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">DUTCH + POLISH — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 49C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— DUTCH — SVO · TWO GENDERS · V2 RULE —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Word order: SVO. V2 rule: verb always second when clause begins with non-subject.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">"Ik ga morgen" (I go tomorrow) → "Morgen ga ik" (Tomorrow go I). Verb stays 2nd.</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Two grammatical genders: de (common, m+f merged) and het (neuter). ~3/4 nouns take de.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— DUTCH VERB — SCHRIJVEN "TO WRITE" —</text>
+<text x="150" y="116" text-anchor="middle" class="Ls">ik schrijf</text>
+<text x="340" y="116" text-anchor="middle" class="Lx">I write</text>
+<text x="150" y="126" text-anchor="middle" class="Ls">jij schrijft</text>
+<text x="340" y="126" text-anchor="middle" class="Lx">you write</text>
+<text x="150" y="136" text-anchor="middle" class="Ls">hij/zij schrijft</text>
+<text x="340" y="136" text-anchor="middle" class="Lx">he/she writes</text>
+<text x="150" y="146" text-anchor="middle" class="Ls">wij schrijven</text>
+<text x="340" y="146" text-anchor="middle" class="Lx">we write</text>
+<text x="150" y="156" text-anchor="middle" class="Ls">jullie schrijven</text>
+<text x="340" y="156" text-anchor="middle" class="Lx">you (pl) write</text>
+<text x="150" y="166" text-anchor="middle" class="Ls">zij schrijven</text>
+<text x="340" y="166" text-anchor="middle" class="Lx">they write</text>
+<line x1="20" y1="181" x2="460" y2="181" stroke="black" stroke-width="0.3"/>
+<text x="240" y="189" text-anchor="middle" class="H">— DUTCH CORE VOCABULARY — 20 WORDS —</text>
+<text x="30" y="198" text-anchor="start" class="Ls">water</text>
+<text x="130" y="198" text-anchor="start" class="Lx">water</text>
+<text x="30" y="208" text-anchor="start" class="Ls">vuur</text>
+<text x="130" y="208" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="218" text-anchor="start" class="Ls">aarde</text>
+<text x="130" y="218" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="228" text-anchor="start" class="Ls">mens</text>
+<text x="130" y="228" text-anchor="start" class="Lx">person</text>
+<text x="30" y="238" text-anchor="start" class="Ls">maan</text>
+<text x="130" y="238" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="248" text-anchor="start" class="Ls">zon</text>
+<text x="130" y="248" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="258" text-anchor="start" class="Ls">ja</text>
+<text x="130" y="258" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="268" text-anchor="start" class="Ls">nee</text>
+<text x="130" y="268" text-anchor="start" class="Lx">no</text>
+<text x="30" y="278" text-anchor="start" class="Ls">ik</text>
+<text x="130" y="278" text-anchor="start" class="Lx">I</text>
+<text x="30" y="288" text-anchor="start" class="Ls">jij</text>
+<text x="130" y="288" text-anchor="start" class="Lx">you</text>
+<text x="270" y="198" text-anchor="start" class="Ls">liefde</text>
+<text x="370" y="198" text-anchor="start" class="Lx">love</text>
+<text x="270" y="208" text-anchor="start" class="Ls">vrijheid</text>
+<text x="370" y="208" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="218" text-anchor="start" class="Ls">toekomst</text>
+<text x="370" y="218" text-anchor="start" class="Lx">future</text>
+<text x="270" y="228" text-anchor="start" class="Ls">wereld</text>
+<text x="370" y="228" text-anchor="start" class="Lx">world</text>
+<text x="270" y="238" text-anchor="start" class="Ls">goed</text>
+<text x="370" y="238" text-anchor="start" class="Lx">good</text>
+<text x="270" y="248" text-anchor="start" class="Ls">dood</text>
+<text x="370" y="248" text-anchor="start" class="Lx">death</text>
+<text x="270" y="258" text-anchor="start" class="Ls">leven</text>
+<text x="370" y="258" text-anchor="start" class="Lx">life</text>
+<text x="270" y="268" text-anchor="start" class="Ls">dank</text>
+<text x="370" y="268" text-anchor="start" class="Lx">thanks</text>
+<text x="270" y="278" text-anchor="start" class="Ls">wanneer</text>
+<text x="370" y="278" text-anchor="start" class="Lx">when</text>
+<text x="270" y="288" text-anchor="start" class="Ls">waar</text>
+<text x="370" y="288" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="304" x2="460" y2="304" stroke="black" stroke-width="0.3"/>
+<line x1="20" y1="312" x2="460" y2="312" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="315" width="440" height="14" fill="black"/>
+<text x="240" y="325" text-anchor="middle" class="Hb" fill="white">POLISH (JĘZYK POLSKI) · GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="329" x2="460" y2="329" stroke="black" stroke-width="0.3"/>
+<text x="240" y="344" text-anchor="middle" class="Ls">Polish is highly inflected: 7 cases, 3 genders, 2 numbers. Word order is flexible because case marks roles.</text>
+<text x="240" y="353" text-anchor="middle" class="Lx">"Pies gryzie kota" = "Kotę gryzie pies" = "The dog bites the cat." — same meaning, different emphasis.</text>
+<line x1="20" y1="360" x2="460" y2="360" stroke="black" stroke-width="0.3"/>
+<text x="240" y="368" text-anchor="middle" class="H">— POLISH NOUN CASES — 7 CASES —</text>
+<text x="60" y="377" text-anchor="start" class="Lx">Nominative (who/what)</text>
+<text x="250" y="377" text-anchor="middle" class="Ls">człowiek</text>
+<text x="400" y="377" text-anchor="start" class="Lx">the person (subject)</text>
+<text x="60" y="387" text-anchor="start" class="Lx">Genitive (of/from)</text>
+<text x="250" y="387" text-anchor="middle" class="Ls">człowieka</text>
+<text x="400" y="387" text-anchor="start" class="Lx">of the person</text>
+<text x="60" y="397" text-anchor="start" class="Lx">Dative (to/for)</text>
+<text x="250" y="397" text-anchor="middle" class="Ls">człowiekowi</text>
+<text x="400" y="397" text-anchor="start" class="Lx">to the person</text>
+<text x="60" y="407" text-anchor="start" class="Lx">Accusative (direct obj.)</text>
+<text x="250" y="407" text-anchor="middle" class="Ls">człowieka</text>
+<text x="400" y="407" text-anchor="start" class="Lx">the person (object)</text>
+<text x="60" y="417" text-anchor="start" class="Lx">Instrumental (by/with)</text>
+<text x="250" y="417" text-anchor="middle" class="Ls">człowiekiem</text>
+<text x="400" y="417" text-anchor="start" class="Lx">by/with the person</text>
+<text x="60" y="427" text-anchor="start" class="Lx">Locative (in/on/about)</text>
+<text x="250" y="427" text-anchor="middle" class="Ls">człowieku</text>
+<text x="400" y="427" text-anchor="start" class="Lx">about/in the person</text>
+<text x="60" y="437" text-anchor="start" class="Lx">Vocative (address)</text>
+<text x="250" y="437" text-anchor="middle" class="Ls">człowieku!</text>
+<text x="400" y="437" text-anchor="start" class="Lx">O person! (calling)</text>
+<line x1="20" y1="452" x2="460" y2="452" stroke="black" stroke-width="0.3"/>
+<text x="240" y="460" text-anchor="middle" class="H">— POLISH CORE VOCABULARY — 20 WORDS —</text>
+<text x="30" y="469" text-anchor="start" class="Ls">woda</text>
+<text x="150" y="469" text-anchor="start" class="Lx">water</text>
+<text x="30" y="479" text-anchor="start" class="Ls">ogień</text>
+<text x="150" y="479" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="489" text-anchor="start" class="Ls">ziemia</text>
+<text x="150" y="489" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="499" text-anchor="start" class="Ls">człowiek</text>
+<text x="150" y="499" text-anchor="start" class="Lx">person</text>
+<text x="30" y="509" text-anchor="start" class="Ls">księżyc</text>
+<text x="150" y="509" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="519" text-anchor="start" class="Ls">słońce</text>
+<text x="150" y="519" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="529" text-anchor="start" class="Ls">tak</text>
+<text x="150" y="529" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="539" text-anchor="start" class="Ls">nie</text>
+<text x="150" y="539" text-anchor="start" class="Lx">no</text>
+<text x="30" y="549" text-anchor="start" class="Ls">ja</text>
+<text x="150" y="549" text-anchor="start" class="Lx">I</text>
+<text x="30" y="559" text-anchor="start" class="Ls">ty</text>
+<text x="150" y="559" text-anchor="start" class="Lx">you</text>
+<text x="270" y="469" text-anchor="start" class="Ls">miłość</text>
+<text x="390" y="469" text-anchor="start" class="Lx">love</text>
+<text x="270" y="479" text-anchor="start" class="Ls">wolność</text>
+<text x="390" y="479" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="489" text-anchor="start" class="Ls">przyszłość</text>
+<text x="390" y="489" text-anchor="start" class="Lx">future</text>
+<text x="270" y="499" text-anchor="start" class="Ls">świat</text>
+<text x="390" y="499" text-anchor="start" class="Lx">world</text>
+<text x="270" y="509" text-anchor="start" class="Ls">dobry</text>
+<text x="390" y="509" text-anchor="start" class="Lx">good</text>
+<text x="270" y="519" text-anchor="start" class="Ls">śmierć</text>
+<text x="390" y="519" text-anchor="start" class="Lx">death</text>
+<text x="270" y="529" text-anchor="start" class="Ls">życie</text>
+<text x="390" y="529" text-anchor="start" class="Lx">life</text>
+<text x="270" y="539" text-anchor="start" class="Ls">dziękuję</text>
+<text x="390" y="539" text-anchor="start" class="Lx">thanks</text>
+<text x="270" y="549" text-anchor="start" class="Ls">kiedy</text>
+<text x="390" y="549" text-anchor="start" class="Lx">when</text>
+<text x="270" y="559" text-anchor="start" class="Ls">gdzie</text>
+<text x="390" y="559" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 49C ALT · DUTCH / POLISH · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

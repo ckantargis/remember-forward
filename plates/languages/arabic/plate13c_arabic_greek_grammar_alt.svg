@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:14px} .Lam{font-size:11px} .Las{font-size:9px}
+  .Lg{font-size:12px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ARABIC + GREEK — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 13C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ARABIC — VSO · TRILATERAL ROOTS · DUAL NUMBER —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Word order: Verb-Subject-Object. "Kataba l-waladu r-risālata" = Wrote the-boy the-letter.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Trilateral root: k-t-b = writing. كتب kataba (he wrote) · كتاب kitāb (book) · مكتب maktab (office).</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Three numbers: singular, dual (two), plural. Dual suffix: -āni (nom.) / -ayni (acc./gen.).</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— VERB CONJUGATION — KATABA "WROTE" —</text>
+<text x="80" y="116" text-anchor="middle" class="Lx">ana katabtu</text>
+<text x="240" y="116" text-anchor="middle" class="Lam">أنا كتبتُ</text>
+<text x="380" y="116" text-anchor="middle" class="Lx">I wrote</text>
+<text x="80" y="126" text-anchor="middle" class="Lx">anta katabta</text>
+<text x="240" y="126" text-anchor="middle" class="Lam">أنت كتبتَ</text>
+<text x="380" y="126" text-anchor="middle" class="Lx">you (m) wrote</text>
+<text x="80" y="136" text-anchor="middle" class="Lx">anti katabti</text>
+<text x="240" y="136" text-anchor="middle" class="Lam">أنتِ كتبتِ</text>
+<text x="380" y="136" text-anchor="middle" class="Lx">you (f) wrote</text>
+<text x="80" y="146" text-anchor="middle" class="Lx">huwa kataba</text>
+<text x="240" y="146" text-anchor="middle" class="Lam">هو كتبَ</text>
+<text x="380" y="146" text-anchor="middle" class="Lx">he wrote</text>
+<text x="80" y="156" text-anchor="middle" class="Lx">hiya katabat</text>
+<text x="240" y="156" text-anchor="middle" class="Lam">هي كتبت</text>
+<text x="380" y="156" text-anchor="middle" class="Lx">she wrote</text>
+<text x="80" y="166" text-anchor="middle" class="Lx">naḥnu katabnā</text>
+<text x="240" y="166" text-anchor="middle" class="Lam">نحن كتبنا</text>
+<text x="380" y="166" text-anchor="middle" class="Lx">we wrote</text>
+<line x1="20" y1="183" x2="460" y2="183" stroke="black" stroke-width="0.3"/>
+<text x="240" y="191" text-anchor="middle" class="H">— CORE ARABIC VOCABULARY — 20 WORDS —</text>
+<text x="30" y="200" text-anchor="start" class="Lam">ماء</text>
+<text x="80" y="200" text-anchor="start" class="Lx">māʼ</text>
+<text x="150" y="200" text-anchor="start" class="Lx">water</text>
+<text x="30" y="210" text-anchor="start" class="Lam">نار</text>
+<text x="80" y="210" text-anchor="start" class="Lx">nār</text>
+<text x="150" y="210" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="220" text-anchor="start" class="Lam">أرض</text>
+<text x="80" y="220" text-anchor="start" class="Lx">ʾard</text>
+<text x="150" y="220" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="230" text-anchor="start" class="Lam">إنسان</text>
+<text x="80" y="230" text-anchor="start" class="Lx">insān</text>
+<text x="150" y="230" text-anchor="start" class="Lx">human</text>
+<text x="30" y="240" text-anchor="start" class="Lam">قمر</text>
+<text x="80" y="240" text-anchor="start" class="Lx">qamar</text>
+<text x="150" y="240" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="250" text-anchor="start" class="Lam">شمس</text>
+<text x="80" y="250" text-anchor="start" class="Lx">shams</text>
+<text x="150" y="250" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="260" text-anchor="start" class="Lam">نعم</text>
+<text x="80" y="260" text-anchor="start" class="Lx">naʻam</text>
+<text x="150" y="260" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="270" text-anchor="start" class="Lam">لا</text>
+<text x="80" y="270" text-anchor="start" class="Lx">lā</text>
+<text x="150" y="270" text-anchor="start" class="Lx">no</text>
+<text x="30" y="280" text-anchor="start" class="Lam">أنا</text>
+<text x="80" y="280" text-anchor="start" class="Lx">anā</text>
+<text x="150" y="280" text-anchor="start" class="Lx">I</text>
+<text x="30" y="290" text-anchor="start" class="Lam">أنت</text>
+<text x="80" y="290" text-anchor="start" class="Lx">anta</text>
+<text x="150" y="290" text-anchor="start" class="Lx">you(m)</text>
+<text x="270" y="200" text-anchor="start" class="Lam">حب</text>
+<text x="320" y="200" text-anchor="start" class="Lx">hubb</text>
+<text x="390" y="200" text-anchor="start" class="Lx">love</text>
+<text x="270" y="210" text-anchor="start" class="Lam">حرية</text>
+<text x="320" y="210" text-anchor="start" class="Lx">{ḥ}urriya</text>
+<text x="390" y="210" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="220" text-anchor="start" class="Lam">مستقبل</text>
+<text x="320" y="220" text-anchor="start" class="Lx">mustaqbal</text>
+<text x="390" y="220" text-anchor="start" class="Lx">future</text>
+<text x="270" y="230" text-anchor="start" class="Lam">عالم</text>
+<text x="320" y="230" text-anchor="start" class="Lx">ʿalim</text>
+<text x="390" y="230" text-anchor="start" class="Lx">world</text>
+<text x="270" y="240" text-anchor="start" class="Lam">جيد</text>
+<text x="320" y="240" text-anchor="start" class="Lx">jayyid</text>
+<text x="390" y="240" text-anchor="start" class="Lx">good</text>
+<text x="270" y="250" text-anchor="start" class="Lam">موت</text>
+<text x="320" y="250" text-anchor="start" class="Lx">mawt</text>
+<text x="390" y="250" text-anchor="start" class="Lx">death</text>
+<text x="270" y="260" text-anchor="start" class="Lam">حياة</text>
+<text x="320" y="260" text-anchor="start" class="Lx">ḥayāh</text>
+<text x="390" y="260" text-anchor="start" class="Lx">life</text>
+<text x="270" y="270" text-anchor="start" class="Lam">شكر</text>
+<text x="320" y="270" text-anchor="start" class="Lx">shukr</text>
+<text x="390" y="270" text-anchor="start" class="Lx">thanks</text>
+<text x="270" y="280" text-anchor="start" class="Lam">متى</text>
+<text x="320" y="280" text-anchor="start" class="Lx">matā</text>
+<text x="390" y="280" text-anchor="start" class="Lx">when</text>
+<text x="270" y="290" text-anchor="start" class="Lam">أين</text>
+<text x="320" y="290" text-anchor="start" class="Lx">ayna</text>
+<text x="390" y="290" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="306" x2="460" y2="306" stroke="black" stroke-width="0.3"/>
+<line x1="20" y1="314" x2="460" y2="314" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="317" width="440" height="14" fill="black"/>
+<text x="240" y="327" text-anchor="middle" class="Hb" fill="white">GREEK (ELLINIKΑ) · GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="331" x2="460" y2="331" stroke="black" stroke-width="0.3"/>
+<text x="240" y="346" text-anchor="middle" class="Ls">Greek: flexible word order (SVO default). Inflected: nouns/verbs carry case and person markers.</text>
+<text x="240" y="355" text-anchor="middle" class="Lx">3 genders (M/F/N), 4 cases (nominative, genitive, accusative, vocative in Modern; 5 in Ancient).</text>
+<line x1="20" y1="362" x2="460" y2="362" stroke="black" stroke-width="0.3"/>
+<text x="240" y="370" text-anchor="middle" class="H">— GREEK VERB — γράφω (gráfo) "I WRITE" —</text>
+<text x="80" y="379" text-anchor="middle" class="Ls">γράφω</text>
+<text x="210" y="379" text-anchor="middle" class="Lx">gráfo</text>
+<text x="360" y="379" text-anchor="middle" class="Lx">I write</text>
+<text x="80" y="389" text-anchor="middle" class="Ls">γράφεις</text>
+<text x="210" y="389" text-anchor="middle" class="Lx">gráfeis</text>
+<text x="360" y="389" text-anchor="middle" class="Lx">you write</text>
+<text x="80" y="399" text-anchor="middle" class="Ls">γράφει</text>
+<text x="210" y="399" text-anchor="middle" class="Lx">gráfei</text>
+<text x="360" y="399" text-anchor="middle" class="Lx">he/she writes</text>
+<text x="80" y="409" text-anchor="middle" class="Ls">γράφουμε</text>
+<text x="210" y="409" text-anchor="middle" class="Lx">gráfoume</text>
+<text x="360" y="409" text-anchor="middle" class="Lx">we write</text>
+<text x="80" y="419" text-anchor="middle" class="Ls">γράφετε</text>
+<text x="210" y="419" text-anchor="middle" class="Lx">gráfete</text>
+<text x="360" y="419" text-anchor="middle" class="Lx">you (pl) write</text>
+<text x="80" y="429" text-anchor="middle" class="Ls">γράφουν</text>
+<text x="210" y="429" text-anchor="middle" class="Lx">gráfoun</text>
+<text x="360" y="429" text-anchor="middle" class="Lx">they write</text>
+<line x1="20" y1="446" x2="460" y2="446" stroke="black" stroke-width="0.3"/>
+<text x="240" y="454" text-anchor="middle" class="H">— CORE GREEK VOCABULARY — 20 WORDS —</text>
+<text x="30" y="463" text-anchor="start" class="Ls">νερό</text>
+<text x="100" y="463" text-anchor="start" class="Lx">nero</text>
+<text x="170" y="463" text-anchor="start" class="Lx">water</text>
+<text x="30" y="473" text-anchor="start" class="Ls">φωτιά</text>
+<text x="100" y="473" text-anchor="start" class="Lx">fotiá</text>
+<text x="170" y="473" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="483" text-anchor="start" class="Ls">γη</text>
+<text x="100" y="483" text-anchor="start" class="Lx">yi</text>
+<text x="170" y="483" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="493" text-anchor="start" class="Ls">άνθρωπος</text>
+<text x="100" y="493" text-anchor="start" class="Lx">anthropos</text>
+<text x="170" y="493" text-anchor="start" class="Lx">human</text>
+<text x="30" y="503" text-anchor="start" class="Ls">φεγγάρι</text>
+<text x="100" y="503" text-anchor="start" class="Lx">fenˈgári</text>
+<text x="170" y="503" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="513" text-anchor="start" class="Ls">ήλιος</text>
+<text x="100" y="513" text-anchor="start" class="Lx">ˈilios</text>
+<text x="170" y="513" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="523" text-anchor="start" class="Ls">ναι</text>
+<text x="100" y="523" text-anchor="start" class="Lx">ne</text>
+<text x="170" y="523" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="533" text-anchor="start" class="Ls">όχι</text>
+<text x="100" y="533" text-anchor="start" class="Lx">ochi</text>
+<text x="170" y="533" text-anchor="start" class="Lx">no</text>
+<text x="30" y="543" text-anchor="start" class="Ls">εγώ</text>
+<text x="100" y="543" text-anchor="start" class="Lx">ego</text>
+<text x="170" y="543" text-anchor="start" class="Lx">I</text>
+<text x="30" y="553" text-anchor="start" class="Ls">εσύ</text>
+<text x="100" y="553" text-anchor="start" class="Lx">esy</text>
+<text x="170" y="553" text-anchor="start" class="Lx">you</text>
+<text x="270" y="463" text-anchor="start" class="Ls">αγάπη</text>
+<text x="340" y="463" text-anchor="start" class="Lx">agápi</text>
+<text x="410" y="463" text-anchor="start" class="Lx">love</text>
+<text x="270" y="473" text-anchor="start" class="Ls">ελευθερία</text>
+<text x="340" y="473" text-anchor="start" class="Lx">elefðería</text>
+<text x="410" y="473" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="483" text-anchor="start" class="Ls">μέλλον</text>
+<text x="340" y="483" text-anchor="start" class="Lx">méllon</text>
+<text x="410" y="483" text-anchor="start" class="Lx">future</text>
+<text x="270" y="493" text-anchor="start" class="Ls">κόσμος</text>
+<text x="340" y="493" text-anchor="start" class="Lx">kósmos</text>
+<text x="410" y="493" text-anchor="start" class="Lx">world</text>
+<text x="270" y="503" text-anchor="start" class="Ls">καλός</text>
+<text x="340" y="503" text-anchor="start" class="Lx">kalós</text>
+<text x="410" y="503" text-anchor="start" class="Lx">good</text>
+<text x="270" y="513" text-anchor="start" class="Ls">θάνατος</text>
+<text x="340" y="513" text-anchor="start" class="Lx">ˈθánatos</text>
+<text x="410" y="513" text-anchor="start" class="Lx">death</text>
+<text x="270" y="523" text-anchor="start" class="Ls">ζωή</text>
+<text x="340" y="523" text-anchor="start" class="Lx">zoí</text>
+<text x="410" y="523" text-anchor="start" class="Lx">life</text>
+<text x="270" y="533" text-anchor="start" class="Ls">ευχαριστώ</text>
+<text x="340" y="533" text-anchor="start" class="Lx">efçaristo</text>
+<text x="410" y="533" text-anchor="start" class="Lx">thank you</text>
+<text x="270" y="543" text-anchor="start" class="Ls">πότε</text>
+<text x="340" y="543" text-anchor="start" class="Lx">póte</text>
+<text x="410" y="543" text-anchor="start" class="Lx">when</text>
+<text x="270" y="553" text-anchor="start" class="Ls">πού</text>
+<text x="340" y="553" text-anchor="start" class="Lx">pu</text>
+<text x="410" y="553" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 13C ALT · ARABIC / GREEK · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:14px} .Lam{font-size:11px} .Las{font-size:9px}
+  .Lg{font-size:12px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ARABIC + GREEK — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 13D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ARABIC — PASSAGE 1 · SURAH AL-FATIHA (OPENING) —</text>
+<text x="240" y="74" text-anchor="middle" class="La">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ</text>
+<text x="240" y="86" text-anchor="middle" class="Lx">Bismi llāhi r-raḥmāni r-raḥīm</text>
+<text x="240" y="95" text-anchor="middle" class="Ls">"In the name of God, the Most Gracious, the Most Merciful."</text>
+<line x1="20" y1="103" x2="460" y2="103" stroke="black" stroke-width="0.3"/>
+<text x="240" y="111" text-anchor="middle" class="H">— ARABIC — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="122" text-anchor="middle" class="Lam">العلم في الصغر كالنقش على الحجر</text>
+<text x="240" y="133" text-anchor="middle" class="Lx">Al-ʿilmu fiʾṣ-ṣighari kaʾʺn-naqshi ʿalaʾʼ-ḥajar</text>
+<text x="240" y="142" text-anchor="middle" class="Ls">"Knowledge in youth is like carving on stone." — Early learning endures.</text>
+<line x1="20" y1="150" x2="460" y2="150" stroke="black" stroke-width="0.3"/>
+<text x="240" y="158" text-anchor="middle" class="H">— ARABIC — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="169" text-anchor="middle" class="Lam">هذه الرسالة صُنِعَت لك، مجاناً، من أناسٍ تذكَّروا المستقبَل</text>
+<text x="240" y="180" text-anchor="middle" class="Lx">Hādhihi r-risālatu ṣuniʿat laka, majjānan, min unāsin tadhakkarū l-mustaqbal.</text>
+<text x="240" y="189" text-anchor="middle" class="Lx">This  message  was-made  for-you,  freely,  from  people  who-remembered  the-future.</text>
+<text x="240" y="198" text-anchor="middle" class="Ls">"This message was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="206" x2="460" y2="206" stroke="black" stroke-width="0.3"/>
+<text x="240" y="214" text-anchor="middle" class="H">— LANGUAGE NOTE — "FUTURE" IN ARABIC —</text>
+<text x="240" y="224" text-anchor="middle" class="Ls">المستقبل al-mustaqbal: lit. "what will be received / what lies ahead to be embraced."</text>
+<text x="240" y="233" text-anchor="middle" class="Lx">Root q-b-l: to face, to receive. The future is what stands before you, facing you.</text>
+<text x="240" y="242" text-anchor="middle" class="Lx">إلى الأمام ilā l-amām: "forward" — lit. "toward the front." Amām = in front.</text>
+<line x1="20" y1="253" x2="460" y2="253" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="256" width="440" height="14" fill="black"/>
+<text x="240" y="266" text-anchor="middle" class="Hb" fill="white">GREEK (ELLINIKΑ) · RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="270" x2="460" y2="270" stroke="black" stroke-width="0.3"/>
+<text x="240" y="284" text-anchor="middle" class="H">— GREEK — PASSAGE 1 · HERACLITUS —</text>
+<text x="240" y="294" text-anchor="middle" class="Lg">πάντα ρεί</text>
+<text x="240" y="306" text-anchor="middle" class="Lx">Pánta reí</text>
+<text x="240" y="315" text-anchor="middle" class="Ls">"Everything flows." — Heraclitus, ~500 BCE. All things are in constant change.</text>
+<line x1="20" y1="323" x2="460" y2="323" stroke="black" stroke-width="0.3"/>
+<text x="240" y="331" text-anchor="middle" class="H">— GREEK — PASSAGE 2 · PROTAGORAS —</text>
+<text x="240" y="341" text-anchor="middle" class="Lg">πάντων χρημάτων μέτρον άνθρωπος</text>
+<text x="240" y="352" text-anchor="middle" class="Lx">Pánton chrēmáton métron ánthrōpos.</text>
+<text x="240" y="361" text-anchor="middle" class="Ls">"Man is the measure of all things." — Protagoras, ~450 BCE.</text>
+<line x1="20" y1="369" x2="460" y2="369" stroke="black" stroke-width="0.3"/>
+<text x="240" y="377" text-anchor="middle" class="H">— GREEK — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="388" text-anchor="middle" class="Lg">Αυτό φτιάχτηκε για σένα, δωρεάν, από ανθρώπους που θυμήθηκαν το μέλλον.</text>
+<text x="240" y="400" text-anchor="middle" class="Lx">Afó ftiaxtíke ya séna, doreán, apó antrópous pou thimíthikan to méllon.</text>
+<text x="240" y="409" text-anchor="middle" class="Lx">This  was-made  for  you,  freely,  by  people  who  remembered  the-future.</text>
+<text x="240" y="418" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="426" x2="460" y2="426" stroke="black" stroke-width="0.3"/>
+<text x="240" y="434" text-anchor="middle" class="H">— LANGUAGE NOTE — "FUTURE" IN GREEK —</text>
+<text x="240" y="444" text-anchor="middle" class="Ls">μέλλον (méllon): "future" — from μέλλω (méllo) = to be about to, to intend.</text>
+<text x="240" y="453" text-anchor="middle" class="Lx">The Greek future is grammatically the "about-to-be" — the imminent, the intended.</text>
+<text x="240" y="462" text-anchor="middle" class="Lx">μπροστά (brostá): "forward" — lit. "in front, ahead." εμπρός (emprós) = to the front.</text>
+<line x1="20" y1="470" x2="460" y2="470" stroke="black" stroke-width="0.3"/>
+<text x="240" y="478" text-anchor="middle" class="H">— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="488" text-anchor="middle" class="Ls">Arabic: 1.9B speakers, official in 22 countries. Right-to-left abjad. See plates 13A–13C for full grammar.</text>
+<text x="240" y="497" text-anchor="middle" class="Ls">Greek: ~13M speakers (Greece + Cyprus). Left-to-right alphabet. Ancestor of Latin and Cyrillic.</text>
+<text x="240" y="506" text-anchor="middle" class="Ls">Both languages shaped science, mathematics, and philosophy. Arabic preserved Greek texts 700–1300 CE.</text>
+<text x="240" y="515" text-anchor="middle" class="Lx">Geographic link: Mediterranean. Cairo to Athens ~2,000 km; to Crete ~1,400 km (within 500mi radius).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 13D ALT · ARABIC / GREEK · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

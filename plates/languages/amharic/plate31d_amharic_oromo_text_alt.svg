@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">AMHARIC + OROMO — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 31D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— AMHARIC — PASSAGE 1 · ETHIOPIAN PROVERB —</text>
+<text x="240" y="74" text-anchor="middle" class="La">አመሳ ለካዕኙ ያስሳጣል።</text>
+<text x="240" y="87" text-anchor="middle" class="Lx">əməsa lək'aNətu yasəsatəal.</text>
+<text x="240" y="96" text-anchor="middle" class="Ls">"A fish is caught because of its mouth." — Be careful what you say.</text>
+<line x1="20" y1="104" x2="460" y2="104" stroke="black" stroke-width="0.3"/>
+<text x="240" y="112" text-anchor="middle" class="H">— AMHARIC — PASSAGE 2 · MOTTO —</text>
+<text x="240" y="123" text-anchor="middle" class="La">ኢትዮጵያ ለአለም</text>
+<text x="240" y="136" text-anchor="middle" class="Lx">Ityopy'a ləaləm</text>
+<text x="240" y="145" text-anchor="middle" class="Ls">"Ethiopia forever." — Traditional patriotic expression.</text>
+<line x1="20" y1="153" x2="460" y2="153" stroke="black" stroke-width="0.3"/>
+<text x="240" y="161" text-anchor="middle" class="H">— AMHARIC — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="173" text-anchor="middle" class="Las">ይህ የተሳነው መልእክት በነጳ ተዸኝነውነት ለዘክት ተደረገ።</text>
+<text x="240" y="185" text-anchor="middle" class="Lx">Yəh yətəsaNəwə mələəkt bənəts'ina təzəɨwənəwənt ləzəkt tədərəgə.</text>
+<text x="240" y="194" text-anchor="middle" class="Lx">This message  freely  who-remembered  forward  was-made.</text>
+<text x="240" y="203" text-anchor="middle" class="Ls">"This message was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="211" x2="460" y2="211" stroke="black" stroke-width="0.3"/>
+<text x="240" y="219" text-anchor="middle" class="H">— LANGUAGE NOTE — "FUTURE" IN AMHARIC —</text>
+<text x="240" y="229" text-anchor="middle" class="Ls">wədəayt: "future" — lit. "the-forward-direction." From wəd (toward) + ayt (direction).</text>
+<text x="240" y="238" text-anchor="middle" class="Lx">Amharic orients time spatially: what is ahead (wəd) = the future; what is behind = the past.</text>
+<text x="240" y="247" text-anchor="middle" class="Lx">bənəts'ina: "freely" — from nətsʼ (freedom) — the gift is etymologically rooted in liberty.</text>
+<line x1="20" y1="259" x2="460" y2="259" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="262" width="440" height="14" fill="black"/>
+<text x="240" y="272" text-anchor="middle" class="Hb" fill="white">OROMO (AFAAN OROMOO) · RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="276" x2="460" y2="276" stroke="black" stroke-width="0.3"/>
+<text x="240" y="290" text-anchor="middle" class="H">— OROMO — PASSAGE 1 · OROMO PROVERB —</text>
+<text x="240" y="300" text-anchor="middle" class="L">Namni nama tolcha.</text>
+<text x="240" y="310" text-anchor="middle" class="Lx">Person  person  builds.</text>
+<text x="240" y="319" text-anchor="middle" class="Ls">"A person builds a person." — We are built by each other. Community is the foundation.</text>
+<line x1="20" y1="327" x2="460" y2="327" stroke="black" stroke-width="0.3"/>
+<text x="240" y="335" text-anchor="middle" class="H">— OROMO — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="345" text-anchor="middle" class="L">Ollaan ollaa barbaada.</text>
+<text x="240" y="355" text-anchor="middle" class="Lx">Neighbor  neighbor  seeks.</text>
+<text x="240" y="364" text-anchor="middle" class="Ls">"A neighbor seeks a neighbor." — Humans are social beings who need one another.</text>
+<line x1="20" y1="372" x2="460" y2="372" stroke="black" stroke-width="0.3"/>
+<text x="240" y="380" text-anchor="middle" class="H">— OROMO — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="391" text-anchor="middle" class="L">Kun isiniif bilisaan, namoota fuuldura isin yaadataniin, hojjetame.</text>
+<text x="240" y="401" text-anchor="middle" class="Lx">This  for-you  freely,  people  forward   you  remembered-by,  was-made.</text>
+<text x="240" y="411" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered forward."</text>
+<line x1="20" y1="419" x2="460" y2="419" stroke="black" stroke-width="0.3"/>
+<text x="240" y="427" text-anchor="middle" class="H">— LANGUAGE NOTE — "FORWARD" IN OROMO —</text>
+<text x="240" y="437" text-anchor="middle" class="Ls">fuuldura: "forward" — lit. "in front of the face." From fuul (face) + dura (before/in-front).</text>
+<text x="240" y="447" text-anchor="middle" class="Lx">Oromo conceptualizes the future as what stands before you — visible, ahead, faced directly.</text>
+<text x="240" y="456" text-anchor="middle" class="Lx">bilisaan: "freely" — from bilisaa (free). Root shared with bilisummaa (freedom).</text>
+<text x="240" y="465" text-anchor="middle" class="Lx">yaadataniin: "who remembered" — from yaadachuu (to remember) + -aniin (relative clause marker).</text>
+<line x1="20" y1="473" x2="460" y2="473" stroke="black" stroke-width="0.3"/>
+<text x="240" y="481" text-anchor="middle" class="H">— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="491" text-anchor="middle" class="Ls">Amharic: official language of Ethiopia, ~35M native speakers. Written in Ethiopic/Fidel abugida.</text>
+<text x="240" y="500" text-anchor="middle" class="Ls">Oromo: largest language in Ethiopia, ~40M native speakers. Written in Latin-based Qubee alphabet.</text>
+<text x="240" y="509" text-anchor="middle" class="Ls">Both are Afro-Asiatic languages but from different branches: Amharic = Semitic; Oromo = Cushitic.</text>
+<text x="240" y="518" text-anchor="middle" class="Lx">Both are SOV. Both have ejective consonants. Both originate in the same highland region.</text>
+<text x="240" y="527" text-anchor="middle" class="Lx">See plates 31A–31C for scripts, phonology, and grammar. Plate 34A–34D covers Tigrinya (related to Amharic).</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 31D ALT · AMHARIC / OROMO · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">DUTCH + POLISH — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 49A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— DUTCH — LATIN ALPHABET + DIGRAPHS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Dutch uses 26 standard Latin letters. The digraph ij (also written ĳ) functions as a single letter.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Special vowel combinations: aa, ee, oo, uu (long vowels) · ie (like "ee") · oe (like "oo" in "moon").</text>
+<text x="240" y="91" text-anchor="middle" class="Lx">Dutch orthography is largely phonemic: spelling reliably predicts pronunciation.</text>
+<line x1="20" y1="99" x2="460" y2="99" stroke="black" stroke-width="0.3"/>
+<text x="240" y="107" text-anchor="middle" class="H">— DUTCH — KEY LETTER-SOUND RULES —</text>
+<text x="55" y="116" text-anchor="middle" class="Ls">g / ch</text>
+<text x="120" y="116" text-anchor="middle" class="Lx">/ɣ/ or /x/</text>
+<text x="330" y="116" text-anchor="middle" class="Lx">voiced / voiceless velar fricative — "guttural g"</text>
+<text x="55" y="126" text-anchor="middle" class="Ls">v / w</text>
+<text x="120" y="126" text-anchor="middle" class="Lx">/v/ and /ʋ/</text>
+<text x="330" y="126" text-anchor="middle" class="Lx">v = voiced labiodental · w = labiodental approximant</text>
+<text x="55" y="136" text-anchor="middle" class="Ls">ij / ei</text>
+<text x="120" y="136" text-anchor="middle" class="Lx">/ɛɪ/</text>
+<text x="330" y="136" text-anchor="middle" class="Lx">diphthong — like English "ay" in "day"</text>
+<text x="55" y="146" text-anchor="middle" class="Ls">ui</text>
+<text x="120" y="146" text-anchor="middle" class="Lx">/œy/</text>
+<text x="330" y="146" text-anchor="middle" class="Lx">diphthong — no close English equivalent: like rounded "oy"</text>
+<text x="55" y="156" text-anchor="middle" class="Ls">ou / au</text>
+<text x="120" y="156" text-anchor="middle" class="Lx">/ɑu/</text>
+<text x="330" y="156" text-anchor="middle" class="Lx">diphthong — like English "ow" in "cow"</text>
+<text x="55" y="166" text-anchor="middle" class="Ls">oe</text>
+<text x="120" y="166" text-anchor="middle" class="Lx">/u/</text>
+<text x="330" y="166" text-anchor="middle" class="Lx">like "oo" in moon</text>
+<text x="55" y="176" text-anchor="middle" class="Ls">eu</text>
+<text x="120" y="176" text-anchor="middle" class="Lx">/ø/</text>
+<text x="330" y="176" text-anchor="middle" class="Lx">front rounded vowel — like French "eu"</text>
+<text x="55" y="186" text-anchor="middle" class="Ls">tj</text>
+<text x="120" y="186" text-anchor="middle" class="Lx">/c/</text>
+<text x="330" y="186" text-anchor="middle" class="Lx">palatal affricate, as in "tjilpen" (to chirp)</text>
+<line x1="20" y1="204" x2="460" y2="204" stroke="black" stroke-width="0.3"/>
+<text x="240" y="212" text-anchor="middle" class="H">— DUTCH ALPHABET — 26 LETTERS + KEY DIGRAPH IJ —</text>
+<text x="240" y="222" text-anchor="middle" class="Ls">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z — plus IJ as 27th letter in dictionaries.</text>
+<text x="240" y="231" text-anchor="middle" class="Lx">In alphabetization, IJ sorts after Y. Dutch children learn to capitalize IJ together: IJsberg (iceberg).</text>
+<line x1="20" y1="242" x2="460" y2="242" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="245" width="440" height="14" fill="black"/>
+<text x="240" y="255" text-anchor="middle" class="Hb" fill="white">POLISH (JĘZYK POLSKI) · SCRIPT · LATIN + DIACRITICS</text>
+<line x1="20" y1="259" x2="460" y2="259" stroke="black" stroke-width="0.3"/>
+<text x="240" y="274" text-anchor="middle" class="Ls">Polish uses the Latin alphabet with diacritics: 32 letters. No q, v, x (only in foreign words).</text>
+<text x="240" y="283" text-anchor="middle" class="Ls">Added letters: ą ć ę ł ń ó ś ź ż — each marks a distinct sound not in basic Latin.</text>
+<line x1="20" y1="290" x2="460" y2="290" stroke="black" stroke-width="0.3"/>
+<text x="240" y="298" text-anchor="middle" class="H">— POLISH SPECIAL LETTERS — ALL 9 —</text>
+<text x="35" y="307" text-anchor="middle" class="L">ą</text>
+<text x="75" y="307" text-anchor="middle" class="Lx">/õ/</text>
+<text x="300" y="307" text-anchor="middle" class="Lx">nasal a — like French "an" — no English equivalent</text>
+<text x="35" y="317" text-anchor="middle" class="L">ć</text>
+<text x="75" y="317" text-anchor="middle" class="Lx">/tɕ/</text>
+<text x="300" y="317" text-anchor="middle" class="Lx">palatal affricate — soft "ch" sound</text>
+<text x="35" y="327" text-anchor="middle" class="L">ę</text>
+<text x="75" y="327" text-anchor="middle" class="Lx">/ə/ or /ẽ/</text>
+<text x="300" y="327" text-anchor="middle" class="Lx">nasal e — like French "in"</text>
+<text x="35" y="337" text-anchor="middle" class="L">ł</text>
+<text x="75" y="337" text-anchor="middle" class="Lx">/w/</text>
+<text x="300" y="337" text-anchor="middle" class="Lx">crossed l — sounds like English "w"</text>
+<text x="35" y="347" text-anchor="middle" class="L">ń</text>
+<text x="75" y="347" text-anchor="middle" class="Lx">/ɲ/</text>
+<text x="300" y="347" text-anchor="middle" class="Lx">palatal nasal — like Spanish ñ or Italian "gn"</text>
+<text x="35" y="357" text-anchor="middle" class="L">ó</text>
+<text x="75" y="357" text-anchor="middle" class="Lx">/u/</text>
+<text x="300" y="357" text-anchor="middle" class="Lx">same as u — historical o that shifted to /u/ sound</text>
+<text x="35" y="367" text-anchor="middle" class="L">ś</text>
+<text x="75" y="367" text-anchor="middle" class="Lx">/ɕ/</text>
+<text x="300" y="367" text-anchor="middle" class="Lx">palatal sibilant — soft "sh" sound</text>
+<text x="35" y="377" text-anchor="middle" class="L">ź</text>
+<text x="75" y="377" text-anchor="middle" class="Lx">/ʑ/</text>
+<text x="300" y="377" text-anchor="middle" class="Lx">palatal voiced sibilant — soft "zh" sound</text>
+<text x="35" y="387" text-anchor="middle" class="L">ż</text>
+<text x="75" y="387" text-anchor="middle" class="Lx">/ʒ/</text>
+<text x="300" y="387" text-anchor="middle" class="Lx">"zed with dot" — retroflex "zh" — harder than ź</text>
+<line x1="20" y1="403" x2="460" y2="403" stroke="black" stroke-width="0.3"/>
+<text x="240" y="411" text-anchor="middle" class="H">— POLISH — DIGRAPHS AND CLUSTERS —</text>
+<text x="240" y="421" text-anchor="middle" class="Ls">cz = /tʃ/ · sz = /ʃ/ · ch = /x/ · rz = /ʒ/ · dz = /dz/ · dź = /dʑ/ · dż = /dʒ/</text>
+<text x="240" y="430" text-anchor="middle" class="Lx">Polish allows long consonant clusters: szcz = /ʃtʃ/ · prz = /pʂ/ · strz = /stʂ/</text>
+<text x="240" y="439" text-anchor="middle" class="Lx">Example: "Chrząszcz" (beetle) = /xfõʃtʃ/ — one of Polish’s famously dense words.</text>
+<line x1="20" y1="447" x2="460" y2="447" stroke="black" stroke-width="0.3"/>
+<text x="240" y="455" text-anchor="middle" class="H">— SCRIPT BRIDGE — SAME WORDS, DUTCH VS. POLISH —</text>
+<text x="100" y="465" text-anchor="middle" class="Lx">English</text>
+<text x="240" y="465" text-anchor="middle" class="Lx">Dutch</text>
+<text x="370" y="465" text-anchor="middle" class="Lx">Polish</text>
+<line x1="20" y1="469" x2="460" y2="469" stroke="black" stroke-width="0.2"/>
+<text x="100" y="478" text-anchor="middle" class="Lx">water</text>
+<text x="240" y="478" text-anchor="middle" class="Ls">water</text>
+<text x="370" y="478" text-anchor="middle" class="Ls">woda</text>
+<text x="100" y="488" text-anchor="middle" class="Lx">fire</text>
+<text x="240" y="488" text-anchor="middle" class="Ls">vuur</text>
+<text x="370" y="488" text-anchor="middle" class="Ls">ogień</text>
+<text x="100" y="498" text-anchor="middle" class="Lx">earth</text>
+<text x="240" y="498" text-anchor="middle" class="Ls">aarde</text>
+<text x="370" y="498" text-anchor="middle" class="Ls">ziemia</text>
+<text x="100" y="508" text-anchor="middle" class="Lx">person</text>
+<text x="240" y="508" text-anchor="middle" class="Ls">mens</text>
+<text x="370" y="508" text-anchor="middle" class="Ls">człowiek</text>
+<text x="100" y="518" text-anchor="middle" class="Lx">freedom</text>
+<text x="240" y="518" text-anchor="middle" class="Ls">vrijheid</text>
+<text x="370" y="518" text-anchor="middle" class="Ls">wolność</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 49A ALT · DUTCH / POLISH · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

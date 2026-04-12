@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">AMHARIC + OROMO — PHONOLOGY · SOUND SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 31B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— AMHARIC — 7 VOWELS —</text>
+<text x="55" y="72" text-anchor="middle" class="Lx">/ə/</text>
+<text x="130" y="72" text-anchor="middle" class="Lx">1st order</text>
+<text x="330" y="72" text-anchor="middle" class="Lx">central mid — "about"</text>
+<text x="55" y="82" text-anchor="middle" class="Lx">/u/</text>
+<text x="130" y="82" text-anchor="middle" class="Lx">2nd</text>
+<text x="330" y="82" text-anchor="middle" class="Lx">high back — "boot"</text>
+<text x="55" y="92" text-anchor="middle" class="Lx">/i/</text>
+<text x="130" y="92" text-anchor="middle" class="Lx">3rd</text>
+<text x="330" y="92" text-anchor="middle" class="Lx">high front — "see"</text>
+<text x="55" y="102" text-anchor="middle" class="Lx">/a/</text>
+<text x="130" y="102" text-anchor="middle" class="Lx">4th</text>
+<text x="330" y="102" text-anchor="middle" class="Lx">low central — "father"</text>
+<text x="55" y="112" text-anchor="middle" class="Lx">/e/</text>
+<text x="130" y="112" text-anchor="middle" class="Lx">5th</text>
+<text x="330" y="112" text-anchor="middle" class="Lx">mid front — "bed"</text>
+<text x="55" y="122" text-anchor="middle" class="Lx">/ɨ/</text>
+<text x="130" y="122" text-anchor="middle" class="Lx">6th</text>
+<text x="330" y="122" text-anchor="middle" class="Lx">high central — short schwa</text>
+<text x="55" y="132" text-anchor="middle" class="Lx">/o/</text>
+<text x="130" y="132" text-anchor="middle" class="Lx">7th</text>
+<text x="330" y="132" text-anchor="middle" class="Lx">mid back — "go"</text>
+<line x1="20" y1="147" x2="460" y2="147" stroke="black" stroke-width="0.3"/>
+<text x="240" y="155" text-anchor="middle" class="H">— EJECTIVE CONSONANTS — KEY AMHARIC FEATURE —</text>
+<text x="240" y="165" text-anchor="middle" class="Ls">Ejectives: produced with glottalic airstream — glottal + oral closure, then burst. Phonemically distinct.</text>
+<text x="50" y="174" text-anchor="middle" class="Ls">pʼ</text>
+<text x="110" y="174" text-anchor="middle" class="Lx">/pʼ/</text>
+<text x="320" y="174" text-anchor="middle" class="Lx">ejective bilabial — rare</text>
+<text x="50" y="184" text-anchor="middle" class="Ls">tʼ</text>
+<text x="110" y="184" text-anchor="middle" class="Lx">/tʼ/</text>
+<text x="320" y="184" text-anchor="middle" class="Lx">ejective alveolar — frequent</text>
+<text x="50" y="194" text-anchor="middle" class="Ls">kʼ</text>
+<text x="110" y="194" text-anchor="middle" class="Lx">/kʼ/</text>
+<text x="320" y="194" text-anchor="middle" class="Lx">ejective velar — very common: k'al (word)</text>
+<text x="50" y="204" text-anchor="middle" class="Ls">tsʼ</text>
+<text x="110" y="204" text-anchor="middle" class="Lx">/tsʼ/</text>
+<text x="320" y="204" text-anchor="middle" class="Lx">ejective affricate — common</text>
+<text x="50" y="214" text-anchor="middle" class="Ls">chʼ</text>
+<text x="110" y="214" text-anchor="middle" class="Lx">/tʃʼ/</text>
+<text x="320" y="214" text-anchor="middle" class="Lx">ejective palatal affricate</text>
+<line x1="20" y1="226" x2="460" y2="226" stroke="black" stroke-width="0.3"/>
+<text x="240" y="234" text-anchor="middle" class="H">— PHARYNGEALS · GEMINATION —</text>
+<text x="240" y="244" text-anchor="middle" class="Ls">Pharyngeals ʿ ʾ: fricative sounds at back of throat — Semitic heritage shared with Arabic, Hebrew.</text>
+<text x="240" y="253" text-anchor="middle" class="Lx">Gemination: doubled consonants phonemically distinct. təbabə "wrapped" ≠ təbabbbət "wrapped intensely".</text>
+<text x="240" y="262" text-anchor="middle" class="Lx">Gemination also marks verb-object agreement: yə-səma (he hears) vs. yə-ssəməʿ (he listens).</text>
+<line x1="20" y1="274" x2="460" y2="274" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="277" width="440" height="14" fill="black"/>
+<text x="240" y="287" text-anchor="middle" class="Hb" fill="white">OROMO (AFAAN OROMOO) · PHONOLOGY · SOUND SYSTEM</text>
+<line x1="20" y1="291" x2="460" y2="291" stroke="black" stroke-width="0.3"/>
+<text x="240" y="306" text-anchor="middle" class="Ls">Oromo is a Cushitic language (Afro-Asiatic). Shares geographic range with Amharic but distinct phonology.</text>
+<line x1="20" y1="313" x2="460" y2="313" stroke="black" stroke-width="0.3"/>
+<text x="240" y="321" text-anchor="middle" class="H">— OROMO — 5 VOWELS + PHONEMIC LENGTH —</text>
+<text x="240" y="331" text-anchor="middle" class="Ls">Five vowels: /a/ /e/ /i/ /o/ /u/ — each has a short and long form.</text>
+<text x="240" y="340" text-anchor="middle" class="Lx">Long vowels written doubled: aa, ee, ii, oo, uu. Length is phonemically contrastive:</text>
+<text x="80" y="349" text-anchor="middle" class="Ls">lafa</text>
+<text x="180" y="349" text-anchor="middle" class="Lx">earth (short a)</text>
+<text x="290" y="349" text-anchor="middle" class="Ls">lafaa</text>
+<text x="400" y="349" text-anchor="middle" class="Lx">of the earth (long aa — genitive)</text>
+<text x="80" y="359" text-anchor="middle" class="Ls">ji'a</text>
+<text x="180" y="359" text-anchor="middle" class="Lx">moon (short i)</text>
+<text x="290" y="359" text-anchor="middle" class="Ls">jiia</text>
+<text x="400" y="359" text-anchor="middle" class="Lx">[emphatic, dialectal]</text>
+<text x="80" y="369" text-anchor="middle" class="Ls">baay’ee</text>
+<text x="180" y="369" text-anchor="middle" class="Lx">very/much</text>
+<text x="290" y="369" text-anchor="middle" class="Ls">bayee</text>
+<text x="400" y="369" text-anchor="middle" class="Lx">[variant]</text>
+<line x1="20" y1="384" x2="460" y2="384" stroke="black" stroke-width="0.3"/>
+<text x="240" y="392" text-anchor="middle" class="H">— KEY CONSONANT FEATURES —</text>
+<text x="60" y="401" text-anchor="start" class="Ls">dh = /ɓ/</text>
+<text x="60" y="410" text-anchor="start" class="Lx">Implosive alveolar — unique Cushitic feature. Not present in Amharic.</text>
+<text x="60" y="419" text-anchor="start" class="Ls">q = /kʼ/</text>
+<text x="60" y="428" text-anchor="start" class="Lx">Ejective velar — shared with Amharic and many Ethiopian languages.</text>
+<text x="60" y="437" text-anchor="start" class="Ls">c = /tʃ/</text>
+<text x="60" y="446" text-anchor="start" class="Lx">Affricate, like "ch" — written as single letter c in Qubee.</text>
+<text x="60" y="455" text-anchor="start" class="Ls">Gemination</text>
+<text x="60" y="464" text-anchor="start" class="Lx">Double consonants phonemically distinct: biyya (country) ≠ biyyaa (your country).</text>
+<text x="60" y="473" text-anchor="start" class="Ls">No pharyngeals</text>
+<text x="60" y="482" text-anchor="start" class="Lx">Unlike Amharic, Oromo has no ʿ ʾ pharyngeal sounds — Cushitic, not Semitic.</text>
+<text x="60" y="491" text-anchor="start" class="Ls">No lexical tone</text>
+<text x="60" y="500" text-anchor="start" class="Lx">Oromo has NO tonal distinctions. Meaning carried by vowel length, not pitch.</text>
+<line x1="20" y1="512" x2="460" y2="512" stroke="black" stroke-width="0.3"/>
+<text x="240" y="520" text-anchor="middle" class="H">— COMPARATIVE NOTE — AMHARIC VS. OROMO PHONOLOGY —</text>
+<text x="240" y="530" text-anchor="middle" class="Ls">Both: ejective q, affricate ch, gemination, no lexical tone.</text>
+<text x="240" y="539" text-anchor="middle" class="Lx">Amharic has: 7 vowels, pharyngeals ʿ ʾ, more ejective series.</text>
+<text x="240" y="548" text-anchor="middle" class="Lx">Oromo has: 5 vowels + length, implosive dh, no pharyngeals.</text>
+<text x="240" y="557" text-anchor="middle" class="Lx">Despite geography, these are unrelated language families sharing acoustic environment.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 31B ALT · AMHARIC / OROMO · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

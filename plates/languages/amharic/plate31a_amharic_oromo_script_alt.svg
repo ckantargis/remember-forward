@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">AMHARIC + OROMO — SCRIPT · WRITING SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 31A · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— AMHARIC — ETHIOPIC SCRIPT (FIDEL) — AN ABUGIDA —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Each Fidel symbol encodes consonant + vowel. ~234 syllable signs. Reads left-to-right.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Descended from South Arabian (Sabaean) script via ancient Ge'ez (~4th c. CE). Never replaced by Latin.</text>
+<line x1="20" y1="89" x2="460" y2="89" stroke="black" stroke-width="0.3"/>
+<text x="240" y="97" text-anchor="middle" class="H">— SAMPLE — CONSONANT h IN ALL 7 VOWEL ORDERS —</text>
+<text x="240" y="107" text-anchor="middle" class="Lx">Each consonant has 7 forms — one per vowel order. Base form carries inherent /ə/ vowel.</text>
+<text x="32" y="116" text-anchor="middle" class="Lx">ə</text>
+<text x="78" y="116" text-anchor="middle" class="Lx">u</text>
+<text x="120" y="116" text-anchor="middle" class="Lx">i</text>
+<text x="162" y="116" text-anchor="middle" class="Lx">a</text>
+<text x="202" y="116" text-anchor="middle" class="Lx">e</text>
+<text x="242" y="116" text-anchor="middle" class="Lx">—</text>
+<text x="282" y="116" text-anchor="middle" class="Lx">o</text>
+<text x="336" y="116" text-anchor="middle" class="Lx">C</text>
+<text x="32" y="126" text-anchor="middle" class="La">ሀ</text>
+<text x="78" y="126" text-anchor="middle" class="La">ሁ</text>
+<text x="120" y="126" text-anchor="middle" class="La">ሂ</text>
+<text x="162" y="126" text-anchor="middle" class="La">ሃ</text>
+<text x="202" y="126" text-anchor="middle" class="La">ሄ</text>
+<text x="242" y="126" text-anchor="middle" class="La">ህ</text>
+<text x="282" y="126" text-anchor="middle" class="La">ሆ</text>
+<text x="336" y="126" text-anchor="middle" class="Lx">h…</text>
+<text x="32" y="140" text-anchor="middle" class="La">ለ</text>
+<text x="78" y="140" text-anchor="middle" class="La">ሉ</text>
+<text x="120" y="140" text-anchor="middle" class="La">ሊ</text>
+<text x="162" y="140" text-anchor="middle" class="La">ላ</text>
+<text x="202" y="140" text-anchor="middle" class="La">ሌ</text>
+<text x="242" y="140" text-anchor="middle" class="La">ል</text>
+<text x="282" y="140" text-anchor="middle" class="La">ሎ</text>
+<text x="336" y="140" text-anchor="middle" class="Lx">l…</text>
+<text x="32" y="154" text-anchor="middle" class="La">መ</text>
+<text x="78" y="154" text-anchor="middle" class="La">ሙ</text>
+<text x="120" y="154" text-anchor="middle" class="La">ሚ</text>
+<text x="162" y="154" text-anchor="middle" class="La">ማ</text>
+<text x="202" y="154" text-anchor="middle" class="La">ሜ</text>
+<text x="242" y="154" text-anchor="middle" class="La">ም</text>
+<text x="282" y="154" text-anchor="middle" class="La">ሞ</text>
+<text x="336" y="154" text-anchor="middle" class="Lx">m…</text>
+<line x1="20" y1="170" x2="460" y2="170" stroke="black" stroke-width="0.3"/>
+<text x="240" y="178" text-anchor="middle" class="H">— 7 VOWEL ORDERS —</text>
+<text x="60" y="187" text-anchor="middle" class="Lx">1st</text>
+<text x="130" y="187" text-anchor="middle" class="Ls">ə</text>
+<text x="310" y="187" text-anchor="middle" class="Lx">base / like "about"</text>
+<text x="60" y="197" text-anchor="middle" class="Lx">2nd</text>
+<text x="130" y="197" text-anchor="middle" class="Ls">u</text>
+<text x="310" y="197" text-anchor="middle" class="Lx">"boot"</text>
+<text x="60" y="207" text-anchor="middle" class="Lx">3rd</text>
+<text x="130" y="207" text-anchor="middle" class="Ls">i</text>
+<text x="310" y="207" text-anchor="middle" class="Lx">"see"</text>
+<text x="60" y="217" text-anchor="middle" class="Lx">4th</text>
+<text x="130" y="217" text-anchor="middle" class="Ls">a</text>
+<text x="310" y="217" text-anchor="middle" class="Lx">"father"</text>
+<text x="60" y="227" text-anchor="middle" class="Lx">5th</text>
+<text x="130" y="227" text-anchor="middle" class="Ls">e</text>
+<text x="310" y="227" text-anchor="middle" class="Lx">"bed"</text>
+<text x="60" y="237" text-anchor="middle" class="Lx">6th</text>
+<text x="130" y="237" text-anchor="middle" class="Ls">—</text>
+<text x="310" y="237" text-anchor="middle" class="Lx">consonant only / short schwa</text>
+<text x="60" y="247" text-anchor="middle" class="Lx">7th</text>
+<text x="130" y="247" text-anchor="middle" class="Ls">o</text>
+<text x="310" y="247" text-anchor="middle" class="Lx">"go"</text>
+<line x1="20" y1="260" x2="460" y2="260" stroke="black" stroke-width="0.3"/>
+<text x="240" y="268" text-anchor="middle" class="H">— NOTES —</text>
+<text x="240" y="278" text-anchor="middle" class="Lx">Script also used for Tigrinya, Ge'ez (liturgical), and Tigre. Fidel reads left-to-right.</text>
+<text x="240" y="287" text-anchor="middle" class="Lx">Modern Amharic: official language of Ethiopia, ~35M native speakers (~100M L1+L2).</text>
+<text x="240" y="296" text-anchor="middle" class="Lx">Semitic language — related to Arabic, Hebrew, Tigrinya; unrelated to Oromo (Cushitic).</text>
+<line x1="20" y1="308" x2="460" y2="308" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="311" width="440" height="14" fill="black"/>
+<text x="240" y="321" text-anchor="middle" class="Hb" fill="white">OROMO (AFAAN OROMOO) · SCRIPT · QUBEE LATIN ALPHABET</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="340" text-anchor="middle" class="Ls">Oromo is written in Qubee — a Latin-based alphabet adopted officially in 1991.</text>
+<text x="240" y="349" text-anchor="middle" class="Lx">Qubee replaced Ethiopic script for Oromo, reflecting its Cushitic (not Semitic) identity.</text>
+<text x="240" y="358" text-anchor="middle" class="Lx">~40M native speakers. Official language of Oromia, Ethiopia. Left-to-right. ~33 letters.</text>
+<line x1="20" y1="366" x2="460" y2="366" stroke="black" stroke-width="0.3"/>
+<text x="240" y="374" text-anchor="middle" class="H">— QUBEE — VOWELS: 5 SHORT + 5 LONG —</text>
+<text x="240" y="384" text-anchor="middle" class="L">Short:  a   e   i   o   u</text>
+<text x="240" y="394" text-anchor="middle" class="Ls">Long:  aa  ee  ii  oo  uu   — vowel length changes meaning</text>
+<text x="240" y="403" text-anchor="middle" class="Lx">Example: qaba = to hold  vs.  qaabaa = name  vs.  qaabba = to stand</text>
+<line x1="20" y1="410" x2="460" y2="410" stroke="black" stroke-width="0.3"/>
+<text x="240" y="418" text-anchor="middle" class="H">— SPECIAL CONSONANTS IN QUBEE —</text>
+<text x="38" y="427" text-anchor="start" class="Ls">c</text>
+<text x="70" y="427" text-anchor="start" class="Lx">/tʃ/</text>
+<text x="170" y="427" text-anchor="start" class="Lx">like "ch" in church</text>
+<text x="38" y="437" text-anchor="start" class="Ls">ch</text>
+<text x="70" y="437" text-anchor="start" class="Lx">/tʃʰ/</text>
+<text x="170" y="437" text-anchor="start" class="Lx">aspirated affricate</text>
+<text x="38" y="447" text-anchor="start" class="Ls">dh</text>
+<text x="70" y="447" text-anchor="start" class="Lx">/ɓ/</text>
+<text x="170" y="447" text-anchor="start" class="Lx">implosive dental — unique to Oromo / Cushitic</text>
+<text x="38" y="457" text-anchor="start" class="Ls">ny</text>
+<text x="70" y="457" text-anchor="start" class="Lx">/ɲ/</text>
+<text x="170" y="457" text-anchor="start" class="Lx">palatal nasal — like Spanish ñ</text>
+<text x="38" y="467" text-anchor="start" class="Ls">q</text>
+<text x="70" y="467" text-anchor="start" class="Lx">/kʼ/</text>
+<text x="170" y="467" text-anchor="start" class="Lx">ejective velar — shared with Amharic</text>
+<text x="38" y="477" text-anchor="start" class="Ls">sh</text>
+<text x="70" y="477" text-anchor="start" class="Lx">/ʃ/</text>
+<text x="170" y="477" text-anchor="start" class="Lx">like English "sh"</text>
+<text x="38" y="487" text-anchor="start" class="Ls">x</text>
+<text x="70" y="487" text-anchor="start" class="Lx">/x/</text>
+<text x="170" y="487" text-anchor="start" class="Lx">velar fricative (dialectal)</text>
+<line x1="20" y1="502" x2="460" y2="502" stroke="black" stroke-width="0.3"/>
+<text x="240" y="510" text-anchor="middle" class="H">— SCRIPT BRIDGE — KEY WORDS IN BOTH SCRIPTS —</text>
+<text x="72" y="520" text-anchor="middle" class="Lx">Amharic</text>
+<text x="172" y="520" text-anchor="middle" class="Lx">Translit.</text>
+<text x="290" y="520" text-anchor="middle" class="Lx">Oromo (Qubee)</text>
+<text x="400" y="520" text-anchor="middle" class="Lx">English</text>
+<line x1="20" y1="525" x2="460" y2="525" stroke="black" stroke-width="0.2"/>
+<text x="72" y="534" text-anchor="middle" class="Las">ውሃ</text>
+<text x="172" y="534" text-anchor="middle" class="Lx">wəha</text>
+<text x="290" y="534" text-anchor="middle" class="Ls">bishaan</text>
+<text x="400" y="534" text-anchor="middle" class="Lx">water</text>
+<text x="72" y="546" text-anchor="middle" class="Las">ዕብ</text>
+<text x="172" y="546" text-anchor="middle" class="Lx">ts'at</text>
+<text x="290" y="546" text-anchor="middle" class="Ls">ibidda</text>
+<text x="400" y="546" text-anchor="middle" class="Lx">fire</text>
+<text x="72" y="558" text-anchor="middle" class="Las">ምድር</text>
+<text x="172" y="558" text-anchor="middle" class="Lx">mədr</text>
+<text x="290" y="558" text-anchor="middle" class="Ls">lafaa</text>
+<text x="400" y="558" text-anchor="middle" class="Lx">earth</text>
+<text x="72" y="570" text-anchor="middle" class="Las">ሰወ</text>
+<text x="172" y="570" text-anchor="middle" class="Lx">səw</text>
+<text x="290" y="570" text-anchor="middle" class="Ls">namaa</text>
+<text x="400" y="570" text-anchor="middle" class="Lx">person</text>
+<text x="72" y="582" text-anchor="middle" class="Las">ወርሕ</text>
+<text x="172" y="582" text-anchor="middle" class="Lx">wərh</text>
+<text x="290" y="582" text-anchor="middle" class="Ls">ji'a</text>
+<text x="400" y="582" text-anchor="middle" class="Lx">moon</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 31A ALT · AMHARIC / OROMO · SCRIPT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

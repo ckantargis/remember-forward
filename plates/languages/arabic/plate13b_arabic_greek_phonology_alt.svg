@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:14px} .Lam{font-size:11px} .Las{font-size:9px}
+  .Lg{font-size:12px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">ARABIC + GREEK — PHONOLOGY · SOUND SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 13B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— ARABIC — 3 SHORT + 3 LONG VOWELS —</text>
+<text x="60" y="72" text-anchor="middle" class="Ls">/a/</text>
+<text x="130" y="72" text-anchor="middle" class="Ls">/ā/</text>
+<text x="320" y="72" text-anchor="middle" class="Lx">short/long low central</text>
+<text x="60" y="82" text-anchor="middle" class="Ls">/i/</text>
+<text x="130" y="82" text-anchor="middle" class="Ls">/ī/</text>
+<text x="320" y="82" text-anchor="middle" class="Lx">short/long high front</text>
+<text x="60" y="92" text-anchor="middle" class="Ls">/u/</text>
+<text x="130" y="92" text-anchor="middle" class="Ls">/ū/</text>
+<text x="320" y="92" text-anchor="middle" class="Lx">short/long high back</text>
+<line x1="20" y1="107" x2="460" y2="107" stroke="black" stroke-width="0.3"/>
+<text x="240" y="115" text-anchor="middle" class="H">— EMPHATIC (PHARYNGEALIZED) CONSONANTS — UNIQUE ARABIC FEATURE —</text>
+<text x="240" y="125" text-anchor="middle" class="Ls">ص /sˤ/  ض /dˤ/  ط /tˤ/  ظ /ðˤ/ — tongue root retracted toward pharynx while articulating</text>
+<text x="240" y="134" text-anchor="middle" class="Lx">Emphatics affect surrounding vowels: darken the quality, lower pitch. Distinguish minimal pairs.</text>
+<text x="240" y="143" text-anchor="middle" class="Lx">صَبَر (sabar = patience) vs. سَبَر (sabar = cactus) — emphatic ص vs. plain س.</text>
+<line x1="20" y1="151" x2="460" y2="151" stroke="black" stroke-width="0.3"/>
+<text x="240" y="159" text-anchor="middle" class="H">— PHARYNGEALS · UVULARS · GLOTTALS —</text>
+<text x="70" y="168" text-anchor="middle" class="Ls">ع /ʿ/</text>
+<text x="310" y="168" text-anchor="middle" class="Lx">pharyngeal fricative — voiced. Tighten pharynx: no English equivalent.</text>
+<text x="70" y="178" text-anchor="middle" class="Ls">غ /ɣ/</text>
+<text x="310" y="178" text-anchor="middle" class="Lx">uvular fricative — voiced. Like French r, back of throat.</text>
+<text x="70" y="188" text-anchor="middle" class="Ls">ح /ḥ/</text>
+<text x="310" y="188" text-anchor="middle" class="Lx">pharyngeal fricative — voiceless. Breathy pharynx constriction.</text>
+<text x="70" y="198" text-anchor="middle" class="Ls">ق /q/</text>
+<text x="310" y="198" text-anchor="middle" class="Lx">uvular stop — like /k/ but farther back. Distinct from /k/ (kaf).</text>
+<text x="70" y="208" text-anchor="middle" class="Ls">ء /ˀ/</text>
+<text x="310" y="208" text-anchor="middle" class="Lx">glottal stop (hamza) — closure of vocal folds. Initial in every vowel-initial word.</text>
+<line x1="20" y1="222" x2="460" y2="222" stroke="black" stroke-width="0.3"/>
+<text x="240" y="230" text-anchor="middle" class="H">— SUN · MOON LETTERS · ASSIMILATION —</text>
+<text x="240" y="240" text-anchor="middle" class="Ls">Definite article ال (al-): assimilates to "sun letters" (dentals/sibilants): al-shams → ash-shams (the sun).</text>
+<text x="240" y="249" text-anchor="middle" class="Lx">"Moon letters" (velars, pharyngeals, etc.) do not assimilate: al-qamar (the moon) stays as-is.</text>
+<line x1="20" y1="260" x2="460" y2="260" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="263" width="440" height="14" fill="black"/>
+<text x="240" y="273" text-anchor="middle" class="Hb" fill="white">GREEK (ELLINIKΑ) · PHONOLOGY · SOUND SYSTEM</text>
+<line x1="20" y1="277" x2="460" y2="277" stroke="black" stroke-width="0.3"/>
+<text x="240" y="292" text-anchor="middle" class="Ls">Modern Greek phonology is simpler than Ancient Greek — vowel system collapsed, aspirates became fricatives.</text>
+<line x1="20" y1="299" x2="460" y2="299" stroke="black" stroke-width="0.3"/>
+<text x="240" y="307" text-anchor="middle" class="H">— MODERN GREEK — 5 VOWEL SOUNDS —</text>
+<text x="240" y="317" text-anchor="middle" class="Ls">/a/ α  ·  /e/ ε η αι ει  ·  /i/ ι υ οι υι  ·  /o/ ο ω  ·  /u/ ου</text>
+<text x="240" y="326" text-anchor="middle" class="Lx">Ancient Greek had length distinction (short vs. long) + diphthongs. Modern collapsed to 5 pure vowels.</text>
+<line x1="20" y1="333" x2="460" y2="333" stroke="black" stroke-width="0.3"/>
+<text x="240" y="341" text-anchor="middle" class="H">— KEY CONSONANTS — ANCIENT VS. MODERN —</text>
+<text x="50" y="350" text-anchor="middle" class="Ls">β B</text>
+<text x="130" y="350" text-anchor="middle" class="Lx">ancient /b/</text>
+<text x="320" y="350" text-anchor="middle" class="Lx">modern /v/</text>
+<text x="50" y="360" text-anchor="middle" class="Ls">γ G</text>
+<text x="130" y="360" text-anchor="middle" class="Lx">ancient /g/</text>
+<text x="320" y="360" text-anchor="middle" class="Lx">modern /ɣ/ before a,o,u or /j/ before e,i</text>
+<text x="50" y="370" text-anchor="middle" class="Ls">δ D</text>
+<text x="130" y="370" text-anchor="middle" class="Lx">ancient /d/</text>
+<text x="320" y="370" text-anchor="middle" class="Lx">modern /ð/ (like English "the")</text>
+<text x="50" y="380" text-anchor="middle" class="Ls">ζ Z</text>
+<text x="130" y="380" text-anchor="middle" class="Lx">ancient /zd/</text>
+<text x="320" y="380" text-anchor="middle" class="Lx">modern /z/</text>
+<text x="50" y="390" text-anchor="middle" class="Ls">θ Th</text>
+<text x="130" y="390" text-anchor="middle" class="Lx">ancient /tʰ/</text>
+<text x="320" y="390" text-anchor="middle" class="Lx">modern /θ/ (like "think")</text>
+<text x="50" y="400" text-anchor="middle" class="Ls">φ Ph</text>
+<text x="130" y="400" text-anchor="middle" class="Lx">ancient /pʰ/</text>
+<text x="320" y="400" text-anchor="middle" class="Lx">modern /f/</text>
+<text x="50" y="410" text-anchor="middle" class="Ls">χ Ch</text>
+<text x="130" y="410" text-anchor="middle" class="Lx">ancient /kʰ/</text>
+<text x="320" y="410" text-anchor="middle" class="Lx">modern /x/ or /ç/</text>
+<line x1="20" y1="428" x2="460" y2="428" stroke="black" stroke-width="0.3"/>
+<text x="240" y="436" text-anchor="middle" class="H">— STRESS · PITCH · ACCENT MARKS —</text>
+<text x="240" y="446" text-anchor="middle" class="Ls">Modern Greek: stress accent (not pitch). One stress per word, marked with tonos ( ´ ) since 1982.</text>
+<text x="240" y="455" text-anchor="middle" class="Lx">Ancient Greek: pitch accent (rising, falling, rise-fall). Three accent marks: acute ´ grave ` circumflex ˆ.</text>
+<text x="240" y="464" text-anchor="middle" class="Lx">Modern simplified to single tonos system; polytonic (multi-accent) still used in classical studies.</text>
+<line x1="20" y1="472" x2="460" y2="472" stroke="black" stroke-width="0.3"/>
+<text x="240" y="480" text-anchor="middle" class="H">— COMPARATIVE NOTE — ARABIC / GREEK PHONOLOGY —</text>
+<text x="240" y="490" text-anchor="middle" class="Ls">Arabic: 3 vowels (short+long), heavy consonant inventory, pharyngeals, uvulars, emphatics.</text>
+<text x="240" y="499" text-anchor="middle" class="Ls">Greek: 5 vowels, no pharyngeals, aspirates became fricatives, stress not pitch in modern form.</text>
+<text x="240" y="508" text-anchor="middle" class="Lx">Both have ejective-analog features in classical forms; both influenced European scientific vocabulary.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 13B ALT · ARABIC / GREEK · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

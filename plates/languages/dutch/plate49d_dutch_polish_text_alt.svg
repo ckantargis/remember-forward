@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">DUTCH + POLISH — RUNNING TEXT · PASSAGES</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 49D · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— DUTCH — PASSAGE 1 · SPINOZA —</text>
+<text x="240" y="73" text-anchor="middle" class="L">"De vrijheid is de erkenning van de noodzakelijkheid."</text>
+<text x="240" y="83" text-anchor="middle" class="Ls">"Freedom is the recognition of necessity." — Baruch Spinoza (Amsterdam, 1677).</text>
+<line x1="20" y1="91" x2="460" y2="91" stroke="black" stroke-width="0.3"/>
+<text x="240" y="99" text-anchor="middle" class="H">— DUTCH — PASSAGE 2 · PROVERB —</text>
+<text x="240" y="109" text-anchor="middle" class="L">"Oost west, thuis best."</text>
+<text x="240" y="119" text-anchor="middle" class="Lx">East  west,  home  best.</text>
+<text x="240" y="128" text-anchor="middle" class="Ls">"East or west, home is best." — Universal human longing; Dutch phrase ~16th century.</text>
+<line x1="20" y1="136" x2="460" y2="136" stroke="black" stroke-width="0.3"/>
+<text x="240" y="144" text-anchor="middle" class="H">— DUTCH — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="154" text-anchor="middle" class="L">Dit werd voor jou gemaakt, gratis, door mensen die vooruit hebben gedacht.</text>
+<text x="240" y="164" text-anchor="middle" class="Lx">This  was-made  for you,  freely,  by  people  who  forward  have  thought.</text>
+<text x="240" y="173" text-anchor="middle" class="Ls">"This was made for you, freely, by people who thought forward."</text>
+<line x1="20" y1="181" x2="460" y2="181" stroke="black" stroke-width="0.3"/>
+<text x="240" y="189" text-anchor="middle" class="H">— LANGUAGE NOTE — "FORWARD" IN DUTCH —</text>
+<text x="240" y="199" text-anchor="middle" class="Ls">vooruit: "forward" — lit. "before-out." Voor (before/in front) + uit (out). Directional prefix.</text>
+<text x="240" y="208" text-anchor="middle" class="Lx">toekomst: "future" — lit. "to-come." Toe (to/toward) + komst (coming). The future approaches.</text>
+<text x="240" y="217" text-anchor="middle" class="Lx">Dutch toekomst and English "to come" share Germanic root. The future is what comes toward you.</text>
+<line x1="20" y1="228" x2="460" y2="228" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="231" width="440" height="14" fill="black"/>
+<text x="240" y="241" text-anchor="middle" class="Hb" fill="white">POLISH (JĘZYK POLSKI) · RUNNING TEXT · PASSAGES</text>
+<line x1="20" y1="245" x2="460" y2="245" stroke="black" stroke-width="0.3"/>
+<text x="240" y="259" text-anchor="middle" class="H">— POLISH — PASSAGE 1 · CHOPIN / PROVERB —</text>
+<text x="240" y="269" text-anchor="middle" class="L">"Czego się nie robi, tego się nie ma."</text>
+<text x="240" y="279" text-anchor="middle" class="Lx">What  self  not  does,  that  self  not  has.</text>
+<text x="240" y="288" text-anchor="middle" class="Ls">"What you don't do, you don't have." — Polish proverb. Act to achieve.</text>
+<line x1="20" y1="296" x2="460" y2="296" stroke="black" stroke-width="0.3"/>
+<text x="240" y="304" text-anchor="middle" class="H">— POLISH — PASSAGE 2 · WISŁAWA SZYMBORSKA —</text>
+<text x="240" y="314" text-anchor="middle" class="L">"Każdy początek to tylko ciąg dal…"</text>
+<text x="240" y="324" text-anchor="middle" class="Ls">"Every beginning is only a continuation…"</text>
+<text x="240" y="333" text-anchor="middle" class="Lx">— Wisława Szymborska, Nobel Lecture, 1996.</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="349" text-anchor="middle" class="H">— POLISH — BRIDGE PHRASE · REMEMBER FORWARD —</text>
+<text x="240" y="360" text-anchor="middle" class="L">To zostało stworzone dla ciebie, bezpłatnie, przez ludzi, którzy pamiętali o przyszłości.</text>
+<text x="240" y="371" text-anchor="middle" class="Lx">This  was-created  for  you,  freely,  by  people  who  remembered  about  future.</text>
+<text x="240" y="380" text-anchor="middle" class="Ls">"This was made for you, freely, by people who remembered the future."</text>
+<line x1="20" y1="388" x2="460" y2="388" stroke="black" stroke-width="0.3"/>
+<text x="240" y="396" text-anchor="middle" class="H">— LANGUAGE NOTE — "FUTURE" IN POLISH —</text>
+<text x="240" y="406" text-anchor="middle" class="Ls">przyszłość: "future" — from przyjść (to come/arrive) + abstract suffix. Lit. "that which will arrive."</text>
+<text x="240" y="415" text-anchor="middle" class="Lx">naprzód: "forward" — directional. Na (on/to) + przód (front). Common in commands: Idź naprzód! (Go forward!).</text>
+<text x="240" y="424" text-anchor="middle" class="Lx">pamiętali: "they remembered" — from pamiętać (to remember/to keep in mind).</text>
+<text x="240" y="433" text-anchor="middle" class="Lx">Polish carries memory in its very word for care: pamięć (memory) shares root with pamiętać (to remember).</text>
+<line x1="20" y1="441" x2="460" y2="441" stroke="black" stroke-width="0.3"/>
+<text x="240" y="449" text-anchor="middle" class="H">— DECODING NOTE — FOR FUTURE READERS —</text>
+<text x="240" y="459" text-anchor="middle" class="Ls">Dutch: ~23M speakers, Netherlands and Belgium. Germanic language closely related to German and English.</text>
+<text x="240" y="468" text-anchor="middle" class="Ls">Polish: ~45M speakers, Poland + diaspora. West Slavic; closely related to Czech, Slovak, Sorbian.</text>
+<text x="240" y="477" text-anchor="middle" class="Ls">Geographic link: Amsterdam to Warsaw ~1,100km. Within 500mi radius of Amsterdam, Poland’s western edge.</text>
+<text x="240" y="486" text-anchor="middle" class="Lx">Both languages use Latin script. Dutch: 26 + ij. Polish: 32 letters including 9 diacritic letters.</text>
+<text x="240" y="495" text-anchor="middle" class="Lx">See plates 49A–49C for full scripts, phonology, and grammar of Dutch.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 49D ALT · DUTCH / POLISH · TEXT · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

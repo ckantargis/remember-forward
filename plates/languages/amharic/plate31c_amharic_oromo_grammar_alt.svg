@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text { font-family: Georgia, serif; }
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .La{font-size:11px} .Las{font-size:9px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">AMHARIC + OROMO — GRAMMAR · VOCABULARY</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 31C · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— AMHARIC — SOV · VERB-FINAL · SEMITIC ROOTS —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Amharic is SOV (Subject-Object-Verb). Verb always last. Extensive prefix/suffix system.</text>
+<text x="240" y="82" text-anchor="middle" class="Lx">Semitic 3-consonant root: s-b-r = "break" → səbbərə (he broke) / asəbbərə (he broke it, causative).</text>
+<line x1="20" y1="90" x2="460" y2="90" stroke="black" stroke-width="0.3"/>
+<text x="240" y="98" text-anchor="middle" class="H">— VERB CONJUGATION — nəggərə "spoke" —</text>
+<text x="55" y="108" text-anchor="middle" class="Lx">1sg</text>
+<text x="170" y="108" text-anchor="middle" class="Ls">nəggər-ku</text>
+<text x="340" y="108" text-anchor="middle" class="Lx">I spoke</text>
+<text x="55" y="118" text-anchor="middle" class="Lx">2sg M</text>
+<text x="170" y="118" text-anchor="middle" class="Ls">nəggər-k</text>
+<text x="340" y="118" text-anchor="middle" class="Lx">you (m) spoke</text>
+<text x="55" y="128" text-anchor="middle" class="Lx">2sg F</text>
+<text x="170" y="128" text-anchor="middle" class="Ls">nəggər-sh</text>
+<text x="340" y="128" text-anchor="middle" class="Lx">you (f) spoke</text>
+<text x="55" y="138" text-anchor="middle" class="Lx">3sg M</text>
+<text x="170" y="138" text-anchor="middle" class="Ls">nəggərə</text>
+<text x="340" y="138" text-anchor="middle" class="Lx">he spoke</text>
+<text x="55" y="148" text-anchor="middle" class="Lx">3sg F</text>
+<text x="170" y="148" text-anchor="middle" class="Ls">nəggər-ətch</text>
+<text x="340" y="148" text-anchor="middle" class="Lx">she spoke</text>
+<text x="55" y="158" text-anchor="middle" class="Lx">1pl</text>
+<text x="170" y="158" text-anchor="middle" class="Ls">nəggərnə</text>
+<text x="340" y="158" text-anchor="middle" class="Lx">we spoke</text>
+<text x="55" y="168" text-anchor="middle" class="Lx">2pl</text>
+<text x="170" y="168" text-anchor="middle" class="Ls">nəggər-əchu</text>
+<text x="340" y="168" text-anchor="middle" class="Lx">you (pl) spoke</text>
+<text x="55" y="178" text-anchor="middle" class="Lx">3pl</text>
+<text x="170" y="178" text-anchor="middle" class="Ls">nəggəru</text>
+<text x="340" y="178" text-anchor="middle" class="Lx">they spoke</text>
+<line x1="20" y1="192" x2="460" y2="192" stroke="black" stroke-width="0.3"/>
+<text x="240" y="200" text-anchor="middle" class="H">— CORE AMHARIC VOCABULARY — 20 WORDS —</text>
+<text x="30" y="210" text-anchor="start" class="Las">ውሃ</text>
+<text x="80" y="210" text-anchor="start" class="Lx">wəha</text>
+<text x="150" y="210" text-anchor="start" class="Lx">water</text>
+<text x="30" y="220" text-anchor="start" class="Las">ዕብ</text>
+<text x="80" y="220" text-anchor="start" class="Lx">ts'at</text>
+<text x="150" y="220" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="230" text-anchor="start" class="Las">ምድር</text>
+<text x="80" y="230" text-anchor="start" class="Lx">mədr</text>
+<text x="150" y="230" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="240" text-anchor="start" class="Las">ሰወ</text>
+<text x="80" y="240" text-anchor="start" class="Lx">səw</text>
+<text x="150" y="240" text-anchor="start" class="Lx">person</text>
+<text x="30" y="250" text-anchor="start" class="Las">ወርሕ</text>
+<text x="80" y="250" text-anchor="start" class="Lx">wərh</text>
+<text x="150" y="250" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="260" text-anchor="start" class="Las">ኰክዓት</text>
+<text x="80" y="260" text-anchor="start" class="Lx">wk'iat</text>
+<text x="150" y="260" text-anchor="start" class="Lx">star</text>
+<text x="30" y="270" text-anchor="start" class="Las">ኣውንት</text>
+<text x="80" y="270" text-anchor="start" class="Lx">awunt</text>
+<text x="150" y="270" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="280" text-anchor="start" class="Las">አይደልም</text>
+<text x="80" y="280" text-anchor="start" class="Lx">aydələm</text>
+<text x="150" y="280" text-anchor="start" class="Lx">no</text>
+<text x="30" y="290" text-anchor="start" class="Las">እኔ</text>
+<text x="80" y="290" text-anchor="start" class="Lx">ənə</text>
+<text x="150" y="290" text-anchor="start" class="Lx">I</text>
+<text x="30" y="300" text-anchor="start" class="Las">አንተ</text>
+<text x="80" y="300" text-anchor="start" class="Lx">antə</text>
+<text x="150" y="300" text-anchor="start" class="Lx">you(m)</text>
+<text x="270" y="210" text-anchor="start" class="Las">ፍቀር</text>
+<text x="320" y="210" text-anchor="start" class="Lx">fɨqər</text>
+<text x="390" y="210" text-anchor="start" class="Lx">love</text>
+<text x="270" y="220" text-anchor="start" class="Las">ተስፊ</text>
+<text x="320" y="220" text-anchor="start" class="Lx">təsfɨa</text>
+<text x="390" y="220" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="230" text-anchor="start" class="Las">ወደዓይት</text>
+<text x="320" y="230" text-anchor="start" class="Lx">wədəayt</text>
+<text x="390" y="230" text-anchor="start" class="Lx">future</text>
+<text x="270" y="240" text-anchor="start" class="Las">ዓለም</text>
+<text x="320" y="240" text-anchor="start" class="Lx">aləm</text>
+<text x="390" y="240" text-anchor="start" class="Lx">world</text>
+<text x="270" y="250" text-anchor="start" class="Las">ቀና</text>
+<text x="320" y="250" text-anchor="start" class="Lx">qəna</text>
+<text x="390" y="250" text-anchor="start" class="Lx">good</text>
+<text x="270" y="260" text-anchor="start" class="Las">ሞት</text>
+<text x="320" y="260" text-anchor="start" class="Lx">motə</text>
+<text x="390" y="260" text-anchor="start" class="Lx">death</text>
+<text x="270" y="270" text-anchor="start" class="Las">ዘመን</text>
+<text x="320" y="270" text-anchor="start" class="Lx">zəmen</text>
+<text x="390" y="270" text-anchor="start" class="Lx">life/time</text>
+<text x="270" y="280" text-anchor="start" class="Las">ሙታ</text>
+<text x="320" y="280" text-anchor="start" class="Lx">əmuta</text>
+<text x="390" y="280" text-anchor="start" class="Lx">gratitude</text>
+<text x="270" y="290" text-anchor="start" class="Las">መች</text>
+<text x="320" y="290" text-anchor="start" class="Lx">mətch</text>
+<text x="390" y="290" text-anchor="start" class="Lx">when</text>
+<text x="270" y="300" text-anchor="start" class="Las">የት</text>
+<text x="320" y="300" text-anchor="start" class="Lx">yet</text>
+<text x="390" y="300" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="316" x2="460" y2="316" stroke="black" stroke-width="0.3"/>
+<line x1="20" y1="324" x2="460" y2="324" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="327" width="440" height="14" fill="black"/>
+<text x="240" y="337" text-anchor="middle" class="Hb" fill="white">OROMO (AFAAN OROMOO) · GRAMMAR · VOCABULARY</text>
+<line x1="20" y1="341" x2="460" y2="341" stroke="black" stroke-width="0.3"/>
+<text x="240" y="356" text-anchor="middle" class="Ls">Oromo is also SOV — verb-final. Both Amharic and Oromo share this word order despite being unrelated.</text>
+<text x="240" y="365" text-anchor="middle" class="Lx">Example: Ani nyaata nyaadha = I food eat ("I eat food"). Verb nyaadha always comes last.</text>
+<text x="240" y="374" text-anchor="middle" class="Lx">Agglutinative: suffixes stack onto verb root. Tense: -a (present), -e (past), -u (imperative).</text>
+<line x1="20" y1="381" x2="460" y2="381" stroke="black" stroke-width="0.3"/>
+<text x="240" y="389" text-anchor="middle" class="H">— CORE OROMO VOCABULARY — AFAAN OROMOO (QUBEE) —</text>
+<text x="30" y="399" text-anchor="start" class="Ls">bishaan</text>
+<text x="130" y="399" text-anchor="start" class="Lx">water</text>
+<text x="30" y="409" text-anchor="start" class="Ls">ibidda</text>
+<text x="130" y="409" text-anchor="start" class="Lx">fire</text>
+<text x="30" y="419" text-anchor="start" class="Ls">lafaa</text>
+<text x="130" y="419" text-anchor="start" class="Lx">earth</text>
+<text x="30" y="429" text-anchor="start" class="Ls">namaa</text>
+<text x="130" y="429" text-anchor="start" class="Lx">person/human</text>
+<text x="30" y="439" text-anchor="start" class="Ls">ji'a</text>
+<text x="130" y="439" text-anchor="start" class="Lx">moon</text>
+<text x="30" y="449" text-anchor="start" class="Ls">aduu</text>
+<text x="130" y="449" text-anchor="start" class="Lx">sun</text>
+<text x="30" y="459" text-anchor="start" class="Ls">eeyyee</text>
+<text x="130" y="459" text-anchor="start" class="Lx">yes</text>
+<text x="30" y="469" text-anchor="start" class="Ls">lakki</text>
+<text x="130" y="469" text-anchor="start" class="Lx">no</text>
+<text x="30" y="479" text-anchor="start" class="Ls">ani</text>
+<text x="130" y="479" text-anchor="start" class="Lx">I</text>
+<text x="30" y="489" text-anchor="start" class="Ls">ati</text>
+<text x="130" y="489" text-anchor="start" class="Lx">you (sg)</text>
+<text x="270" y="399" text-anchor="start" class="Ls">jaalala</text>
+<text x="370" y="399" text-anchor="start" class="Lx">love</text>
+<text x="270" y="409" text-anchor="start" class="Ls">bilisummaa</text>
+<text x="370" y="409" text-anchor="start" class="Lx">freedom</text>
+<text x="270" y="419" text-anchor="start" class="Ls">fuuldura</text>
+<text x="370" y="419" text-anchor="start" class="Lx">forward / future</text>
+<text x="270" y="429" text-anchor="start" class="Ls">addunyaa</text>
+<text x="370" y="429" text-anchor="start" class="Lx">world</text>
+<text x="270" y="439" text-anchor="start" class="Ls">gaarii</text>
+<text x="370" y="439" text-anchor="start" class="Lx">good</text>
+<text x="270" y="449" text-anchor="start" class="Ls">du'a</text>
+<text x="370" y="449" text-anchor="start" class="Lx">death</text>
+<text x="270" y="459" text-anchor="start" class="Ls">jireenya</text>
+<text x="370" y="459" text-anchor="start" class="Lx">life</text>
+<text x="270" y="469" text-anchor="start" class="Ls">galata</text>
+<text x="370" y="469" text-anchor="start" class="Lx">gratitude</text>
+<text x="270" y="479" text-anchor="start" class="Ls">yoom</text>
+<text x="370" y="479" text-anchor="start" class="Lx">when</text>
+<text x="270" y="489" text-anchor="start" class="Ls">eessa</text>
+<text x="370" y="489" text-anchor="start" class="Lx">where</text>
+<line x1="20" y1="506" x2="460" y2="506" stroke="black" stroke-width="0.3"/>
+<text x="240" y="514" text-anchor="middle" class="H">— SIDE-BY-SIDE — SAME CONCEPTS, DIFFERENT ROOTS —</text>
+<line x1="20" y1="510" x2="460" y2="510" stroke="black" stroke-width="0.3"/>
+<text x="240" y="518" text-anchor="middle" class="H">— SIDE-BY-SIDE — SAME CONCEPTS, DIFFERENT ROOTS —</text>
+<text x="100" y="528" text-anchor="middle" class="Lx">Concept</text>
+<text x="240" y="528" text-anchor="middle" class="Lx">Amharic</text>
+<text x="370" y="528" text-anchor="middle" class="Lx">Oromo</text>
+<line x1="20" y1="533" x2="460" y2="533" stroke="black" stroke-width="0.2"/>
+<text x="100" y="542" text-anchor="middle" class="Lx">future</text>
+<text x="240" y="542" text-anchor="middle" class="Ls">wədəayt</text>
+<text x="370" y="542" text-anchor="middle" class="Ls">fuuldura</text>
+<text x="100" y="552" text-anchor="middle" class="Lx">freedom</text>
+<text x="240" y="552" text-anchor="middle" class="Ls">təsfɨa</text>
+<text x="370" y="552" text-anchor="middle" class="Ls">bilisummaa</text>
+<text x="100" y="562" text-anchor="middle" class="Lx">person</text>
+<text x="240" y="562" text-anchor="middle" class="Ls">səw</text>
+<text x="370" y="562" text-anchor="middle" class="Ls">namaa</text>
+<text x="100" y="572" text-anchor="middle" class="Lx">love</text>
+<text x="240" y="572" text-anchor="middle" class="Ls">fɨqər</text>
+<text x="370" y="572" text-anchor="middle" class="Ls">jaalala</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 31C ALT · AMHARIC / OROMO · GRAMMAR · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

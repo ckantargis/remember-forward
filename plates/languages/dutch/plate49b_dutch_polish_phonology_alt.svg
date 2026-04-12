@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<style>
+  text{font-family:Georgia,serif;}
+  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}
+  .S{font-size:6.5px;letter-spacing:1.5px}
+  .H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+  .Hb{font-size:7px;font-weight:bold;letter-spacing:2px}
+  .L{font-size:7px} .Ls{font-size:6px} .Lx{font-size:5.5px}
+  .M{font-size:6px;letter-spacing:1px}
+  .F{font-size:7px;font-style:italic}
+  .Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="0" y="0" width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="30" text-anchor="middle" class="T">DUTCH + POLISH — PHONOLOGY · SOUND SYSTEMS</text>
+<text x="240" y="46" text-anchor="middle" class="S">ALT DRAFT · SERIES 49B · REMEMBER FORWARD</text>
+<line x1="20" y1="54" x2="460" y2="54" stroke="black" stroke-width="0.3"/>
+<text x="240" y="63" text-anchor="middle" class="H">— DUTCH — VOWEL SYSTEM —</text>
+<text x="240" y="73" text-anchor="middle" class="Ls">Dutch has one of the largest vowel inventories in Europe: 13+ monophthongs + diphthongs.</text>
+<text x="55" y="82" text-anchor="middle" class="Lx">/i/</text>
+<text x="115" y="82" text-anchor="middle" class="Ls">ie</text>
+<text x="310" y="82" text-anchor="middle" class="Lx">like "ee" in "feet"</text>
+<text x="55" y="92" text-anchor="middle" class="Lx">/y/</text>
+<text x="115" y="92" text-anchor="middle" class="Ls">uu</text>
+<text x="310" y="92" text-anchor="middle" class="Lx">like French "u" — front rounded</text>
+<text x="55" y="102" text-anchor="middle" class="Lx">/u/</text>
+<text x="115" y="102" text-anchor="middle" class="Ls">oe</text>
+<text x="310" y="102" text-anchor="middle" class="Lx">like "oo" in "moon"</text>
+<text x="55" y="112" text-anchor="middle" class="Lx">/e/</text>
+<text x="115" y="112" text-anchor="middle" class="Ls">ee</text>
+<text x="310" y="112" text-anchor="middle" class="Lx">like "ay" in "day" but monophthong</text>
+<text x="55" y="122" text-anchor="middle" class="Lx">/ø/</text>
+<text x="115" y="122" text-anchor="middle" class="Ls">eu</text>
+<text x="310" y="122" text-anchor="middle" class="Lx">like French "eu" — mid front rounded</text>
+<text x="55" y="132" text-anchor="middle" class="Lx">/o/</text>
+<text x="115" y="132" text-anchor="middle" class="Ls">oo</text>
+<text x="310" y="132" text-anchor="middle" class="Lx">like "o" in "no"</text>
+<text x="55" y="142" text-anchor="middle" class="Lx">/a/</text>
+<text x="115" y="142" text-anchor="middle" class="Ls">a</text>
+<text x="310" y="142" text-anchor="middle" class="Lx">short: like "a" in "cat"</text>
+<text x="55" y="152" text-anchor="middle" class="Lx">/a:/</text>
+<text x="115" y="152" text-anchor="middle" class="Ls">aa</text>
+<text x="310" y="152" text-anchor="middle" class="Lx">long: like "a" in "father"</text>
+<text x="55" y="162" text-anchor="middle" class="Lx">/ɛɪ/</text>
+<text x="115" y="162" text-anchor="middle" class="Ls">ij / ei</text>
+<text x="310" y="162" text-anchor="middle" class="Lx">diphthong: like "ay" in "day"</text>
+<text x="55" y="172" text-anchor="middle" class="Lx">/œy/</text>
+<text x="115" y="172" text-anchor="middle" class="Ls">ui</text>
+<text x="310" y="172" text-anchor="middle" class="Lx">diphthong: no English equivalent</text>
+<text x="55" y="182" text-anchor="middle" class="Lx">/ɑu/</text>
+<text x="115" y="182" text-anchor="middle" class="Ls">ou / au</text>
+<text x="310" y="182" text-anchor="middle" class="Lx">diphthong: like "ow" in "cow"</text>
+<line x1="20" y1="196" x2="460" y2="196" stroke="black" stroke-width="0.3"/>
+<text x="240" y="204" text-anchor="middle" class="H">— DUTCH — GUTTURAL G · KEY CONSONANTS —</text>
+<text x="240" y="214" text-anchor="middle" class="Ls">The Dutch g/ch: velar/uvular fricative. Most distinctive feature for foreign listeners.</text>
+<text x="240" y="223" text-anchor="middle" class="Lx">Southern Dutch: voiced /ɣ/ · Northern Dutch: voiceless /x/. Both written as g or ch.</text>
+<text x="240" y="232" text-anchor="middle" class="Lx">v and f: in final position, v → f (devoicing). leven /ˈle.vən/ → leef /le:f/ (life → live).</text>
+<line x1="20" y1="243" x2="460" y2="243" stroke="black" stroke-width="1.5"/>
+<rect x="20" y="246" width="440" height="14" fill="black"/>
+<text x="240" y="256" text-anchor="middle" class="Hb" fill="white">POLISH (JĘZYK POLSKI) · PHONOLOGY · SOUND SYSTEM</text>
+<line x1="20" y1="260" x2="460" y2="260" stroke="black" stroke-width="0.3"/>
+<text x="240" y="275" text-anchor="middle" class="Ls">Polish phonology: extensive consonant system, nasal vowels, palatal series, fixed stress.</text>
+<line x1="20" y1="282" x2="460" y2="282" stroke="black" stroke-width="0.3"/>
+<text x="240" y="290" text-anchor="middle" class="H">— POLISH — VOWELS (6 ORAL + 2 NASAL) —</text>
+<text x="240" y="300" text-anchor="middle" class="Ls">Oral: /a/ /e/ /i/ /o/ /u/ (written u or ó) /ɨ/ (written y)</text>
+<text x="240" y="309" text-anchor="middle" class="Lx">Nasal: /õ/ (written ą) · /ẽ/ (written ę) — nasality weakens before fricatives, disappears word-finally.</text>
+<text x="240" y="318" text-anchor="middle" class="Lx">y (/ɨ/): central unrounded — like Russian ы. No English equivalent. Common in Polish.</text>
+<line x1="20" y1="325" x2="460" y2="325" stroke="black" stroke-width="0.3"/>
+<text x="240" y="333" text-anchor="middle" class="H">— POLISH — PALATAL CONSONANT SERIES —</text>
+<text x="80" y="342" text-anchor="middle" class="Ls">/tɕ/ ć</text>
+<text x="310" y="342" text-anchor="middle" class="Lx">soft-ch: like "ch" in "cheap" but softer</text>
+<text x="80" y="352" text-anchor="middle" class="Ls">/dʑ/ dź</text>
+<text x="310" y="352" text-anchor="middle" class="Lx">soft-dzh: voiced palatal affricate</text>
+<text x="80" y="362" text-anchor="middle" class="Ls">/ɲ/ ń</text>
+<text x="310" y="362" text-anchor="middle" class="Lx">palatal nasal: like "ny" in "canyon"</text>
+<text x="80" y="372" text-anchor="middle" class="Ls">/ɕ/ ś</text>
+<text x="310" y="372" text-anchor="middle" class="Lx">palatal sibilant: soft "sh"</text>
+<text x="80" y="382" text-anchor="middle" class="Ls">/ʑ/ ź</text>
+<text x="310" y="382" text-anchor="middle" class="Lx">palatal voiced sibilant: soft "zh"</text>
+<text x="80" y="392" text-anchor="middle" class="Ls">/j/ j</text>
+<text x="310" y="392" text-anchor="middle" class="Lx">palatal glide: like y in "yes"</text>
+<line x1="20" y1="408" x2="460" y2="408" stroke="black" stroke-width="0.3"/>
+<text x="240" y="416" text-anchor="middle" class="H">— STRESS · RHYTHM —</text>
+<text x="240" y="426" text-anchor="middle" class="Ls">Dutch: variable stress, penultimate default. Tonal distinctions in some dialects (Limburg).</text>
+<text x="240" y="435" text-anchor="middle" class="Ls">Polish: fixed stress on penultimate syllable (second-to-last). Very regular.</text>
+<text x="240" y="444" text-anchor="middle" class="Lx">Polish rhythm: consonant-heavy syllable structure. Up to 4 initial consonants: spr-, strz-.</text>
+<line x1="20" y1="452" x2="460" y2="452" stroke="black" stroke-width="0.3"/>
+<text x="240" y="460" text-anchor="middle" class="H">— COMPARATIVE NOTE — DUTCH / POLISH —</text>
+<text x="240" y="470" text-anchor="middle" class="Ls">Both: Latin script, ~same geographic neighborhood (500mi), no lexical tone.</text>
+<text x="240" y="479" text-anchor="middle" class="Ls">Dutch: large vowel inventory, guttural fricatives, SVO. Germanic.</text>
+<text x="240" y="488" text-anchor="middle" class="Ls">Polish: nasal vowels, rich palatals, free word order (inflected), fixed stress. Slavic.</text>
+<text x="240" y="497" text-anchor="middle" class="Lx">Shared words via Latin: biblioteka/bibliotheek (library) · muzeum/museum · telefon/telefoon.</text>
+<line x1="20" y1="625" x2="460" y2="625" stroke="black" stroke-width="0.3"/>
+<text x="240" y="620" text-anchor="middle" class="M">PLATE 49B ALT · DUTCH / POLISH · PHONOLOGY · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<line x1="20" y1="633" x2="460" y2="633" stroke="black" stroke-width="0.3"/>
+<text x="240" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>
