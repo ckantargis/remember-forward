@@ -33,7 +33,17 @@ import urllib.parse
 import io
 
 # ─── CREDENTIALS ─────────────────────────────────────────────────────────────
-# Edit this line, OR set environment variable ZENODO_TOKEN
+def _load_env():
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '.env')
+    if os.path.isfile(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    k, _, v = line.partition('=')
+                    os.environ.setdefault(k.strip(), v.strip())
+
+_load_env()
 TOKEN = os.environ.get('ZENODO_TOKEN', 'EDIT_THIS_your_zenodo_token')
 
 # ─── ENDPOINTS ───────────────────────────────────────────────────────────────

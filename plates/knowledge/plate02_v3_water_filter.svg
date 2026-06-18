@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="480" height="680" fill="white"/>
+<defs>
+  <!-- Charcoal: angular black chunks -->
+  <pattern id="coal" x="0" y="0" width="28" height="22" patternUnits="userSpaceOnUse">
+    <rect width="28" height="22" fill="white"/>
+    <polygon points="1,3 13,1 17,8 13,17 2,18 0,9" fill="black"/>
+    <polygon points="16,2 27,0 28,11 23,19 16,16 14,8" fill="black"/>
+  </pattern>
+  <!-- Sand: stipple dots -->
+  <pattern id="sand" x="0" y="0" width="8" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="4" cy="3.5" r="1.8" fill="#111"/>
+    <circle cx="0" cy="7" r="1.8" fill="#111"/>
+    <circle cx="8" cy="7" r="1.8" fill="#111"/>
+  </pattern>
+  <!-- Gravel: rounded ovals -->
+  <pattern id="grav" x="0" y="0" width="36" height="28" patternUnits="userSpaceOnUse">
+    <rect width="36" height="28" fill="white"/>
+    <ellipse cx="9"  cy="8"  rx="7" ry="5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="26" cy="7"  rx="7.5" ry="4.5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="7"  cy="21" rx="5" ry="3.5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="24" cy="21" rx="8" ry="5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="34" cy="19" rx="3.5" ry="2.8" fill="none" stroke="black" stroke-width="1.1"/>
+  </pattern>
+  <!-- Filter clip paths -->
+  <clipPath id="c-coal"><polygon points="154,116 326,116 319,172 161,172"/></clipPath>
+  <clipPath id="c-sand"><polygon points="161,172 319,172 312,230 168,230"/></clipPath>
+  <clipPath id="c-grav"><polygon points="168,230 312,230 302,348 178,348"/></clipPath>
+  <!-- Arrow marker -->
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5"
+          markerWidth="5" markerHeight="5" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+  <marker id="arrsm" viewBox="0 0 10 10" refX="8" refY="5"
+          markerWidth="4" markerHeight="4" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+</defs>
+<style>
+text { font-family: Georgia, serif; fill: black; }
+</style>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="2">WATER — FILTER AND PURIFY</text>
+<line x1="18" y1="38" x2="462" y2="38" stroke="black" stroke-width="1"/>
+<text x="240" y="50" font-size="7" text-anchor="middle" letter-spacing="1.5">PLATE 02 · SURVIVAL KNOWLEDGE · CLEAN WATER PREVENTS ILLNESS AND DEATH</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="black" stroke-width="0.5"/>
+<text x="240" y="68" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2.5">— WHY THIS MATTERS —</text>
+<rect x="20" y="72" width="200" height="64" fill="none" stroke="black" stroke-width="0.8"/>
+<path d="M 30 86 Q 35 81 39 86" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 48 82 Q 53 77 57 82" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 66 86 Q 71 81 75 86" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 84 82 Q 89 77 93 82" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 102 86 Q 107 81 111 86" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 120 82 Q 125 77 129 82" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 138 86 Q 143 81 147 86" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 156 82 Q 161 77 165 82" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 174 86 Q 179 81 183 86" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 192 82 Q 197 77 201 82" fill="none" stroke="black" stroke-width="2.2"/>
+<path d="M 210 86 Q 215 81 219 86" fill="none" stroke="black" stroke-width="2.2"/>
+<text x="60" y="99" font-size="7.5" font-weight="bold" text-anchor="middle">CONTAMINATED</text>
+<text x="60" y="109" font-size="6.5" font-style="italic" text-anchor="middle">murky · smells · standing</text>
+<circle cx="177.7" cy="89.9" r="4.2" fill="black"/>
+<line x1="170.0" y1="78.0" x2="177.7" y2="85.7" stroke="black" stroke-width="4.2" stroke-linecap="round"/>
+<line x1="171.7" y1="78.0" x2="172.6" y2="95.0" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="168.3" y1="78.0" x2="167.4" y2="95.0" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+<text x="170" y="132" font-size="7" font-weight="bold" text-anchor="middle">ILLNESS</text>
+<text x="229" y="108" font-size="14" text-anchor="middle">→</text>
+<rect x="260" y="72" width="200" height="64" fill="none" stroke="black" stroke-width="0.8"/>
+<path d="M 280 82 Q 276 92 280 96 Q 284 92 280 82" fill="black"/>
+<path d="M 295 82 Q 291 92 295 96 Q 299 92 295 82" fill="black"/>
+<path d="M 310 82 Q 306 92 310 96 Q 314 92 310 82" fill="black"/>
+<text x="320" y="99" font-size="7.5" font-weight="bold" text-anchor="middle">FILTERED + BOILED</text>
+<text x="320" y="109" font-size="6.5" font-style="italic" text-anchor="middle">clear · no smell · safe to drink</text>
+<circle cx="420.0" cy="78.7" r="4.7" fill="black"/>
+<rect x="416.2" y="84.2" width="7.6" height="12.8" rx="2.1" fill="black"/>
+<rect x="423.8" y="85.9" width="2.5" height="8.5" rx="1.3" fill="black" transform="rotate(20,423.8,85.9)"/>
+<rect x="413.6" y="85.9" width="2.5" height="8.5" rx="1.3" fill="black" transform="rotate(-20,416.2,85.9)"/>
+<rect x="420.9" y="96.9" width="2.5" height="11.0" rx="1.3" fill="black" transform="rotate(5,420.9,96.9)"/>
+<rect x="416.6" y="96.9" width="2.5" height="11.0" rx="1.3" fill="black" transform="rotate(-5,419.1,96.9)"/>
+<text x="420" y="132" font-size="7" font-weight="bold" text-anchor="middle">HEALTHY</text>
+<line x1="18" y1="140" x2="462" y2="140" stroke="black" stroke-width="0.75"/>
+<text x="122" y="152" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">— BUILD THE FILTER —</text>
+<text x="122" y="162" font-size="6" font-style="italic" text-anchor="middle">cross-section view · layer order critical</text>
+<line x1="190" y1="108" x2="190" y2="112" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<line x1="210" y1="108" x2="210" y2="112" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<line x1="230" y1="108" x2="230" y2="112" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<polygon points="154,112 326,112 302,350 178,350" fill="none" stroke="black" stroke-width="3.5"/>
+<ellipse cx="240" cy="112" rx="86" ry="7" fill="white" stroke="black" stroke-width="2.2"/>
+<line x1="200" y1="108" x2="200" y2="116" stroke="black" stroke-width="1.0" marker-end="url(#arrsm)"/>
+<line x1="220" y1="108" x2="220" y2="116" stroke="black" stroke-width="1.0" marker-end="url(#arrsm)"/>
+<line x1="240" y1="108" x2="240" y2="116" stroke="black" stroke-width="1.0" marker-end="url(#arrsm)"/>
+<line x1="260" y1="108" x2="260" y2="116" stroke="black" stroke-width="1.0" marker-end="url(#arrsm)"/>
+<line x1="280" y1="108" x2="280" y2="116" stroke="black" stroke-width="1.0" marker-end="url(#arrsm)"/>
+<text x="240" y="106" font-size="7" font-style="italic" text-anchor="middle">dirty water ↓</text>
+<line x1="178" y1="350" x2="198" y2="350" stroke="black" stroke-width="3.5"/>
+<line x1="220" y1="350" x2="260" y2="350" stroke="black" stroke-width="3.5"/>
+<line x1="282" y1="350" x2="302" y2="350" stroke="black" stroke-width="3.5"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#coal)" clip-path="url(#c-coal)"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#sand)" clip-path="url(#c-sand)"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#grav)" clip-path="url(#c-grav)"/>
+<line x1="161" y1="172" x2="319" y2="172" stroke="black" stroke-width="1.8"/>
+<line x1="168" y1="230" x2="312" y2="230" stroke="black" stroke-width="1.8"/>
+<circle cx="137" cy="144" r="9" fill="black"/>
+<text x="137" y="147.5" font-size="9" font-weight="bold" text-anchor="middle" fill="white">1</text>
+<line x1="146" y1="144" x2="155" y2="144" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="135" y="132" font-size="7.5" font-weight="bold" text-anchor="middle">CHARCOAL</text>
+<circle cx="137" cy="201" r="9" fill="black"/>
+<text x="137" y="204.5" font-size="9" font-weight="bold" text-anchor="middle" fill="white">2</text>
+<line x1="146" y1="201" x2="155" y2="201" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="135" y="189" font-size="7.5" font-weight="bold" text-anchor="middle">SAND</text>
+<circle cx="137" cy="290" r="9" fill="black"/>
+<text x="137" y="293.5" font-size="9" font-weight="bold" text-anchor="middle" fill="white">3</text>
+<line x1="146" y1="290" x2="155" y2="290" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="135" y="278" font-size="7.5" font-weight="bold" text-anchor="middle">GRAVEL</text>
+<line x1="240" y1="350" x2="240" y2="362" stroke="black" stroke-width="1.3"/>
+<line x1="222" y1="350" x2="222" y2="358" stroke="black" stroke-width="1.2"/>
+<line x1="258" y1="350" x2="258" y2="358" stroke="black" stroke-width="1.2"/>
+<path d="M 222 358 Q 219 367 222 370 Q 225 367 222 358" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 240 363 Q 237 372 240 375 Q 243 372 240 363" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 258 358 Q 255 367 258 370 Q 261 367 258 358" fill="none" stroke="black" stroke-width="1.2"/>
+<text x="240" y="384" font-size="7.5" font-weight="bold" text-anchor="middle">THEN BOIL</text>
+<text x="240" y="395" font-size="6.5" font-style="italic" text-anchor="middle">filtered water is not yet safe — boil before drinking</text>
+<line x1="348" y1="140" x2="348" y2="404" stroke="black" stroke-width="0.6"/>
+<text x="405" y="152" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">— COLLECT —</text>
+<rect x="352" y="158" width="106" height="58" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="405" y="170" font-size="7" font-weight="bold" text-anchor="middle">① GRAVEL</text>
+<circle cx="388.1" cy="178.1" r="3.1" fill="black"/>
+<line x1="381.9" y1="186.8" x2="392.4" y2="182.4" stroke="black" stroke-width="3.1" stroke-linecap="round"/>
+<line x1="392.4" y1="184.3" x2="395.5" y2="191.7" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<line x1="381.9" y1="186.8" x2="379.4" y2="194.2" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<line x1="379.4" y1="194.2" x2="384.4" y2="195.5" stroke="black" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="384.4" y1="186.8" x2="383.1" y2="196.1" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 356 215 Q 368 212 380 215 Q 392 218 404 215 Q 416 212 428 215 Q 440 218 452 215" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="365" cy="210" rx="5" ry="3.5" fill="none" stroke="black" stroke-width="1.1"/>
+<ellipse cx="378" cy="211" rx="4.5" ry="3" fill="none" stroke="black" stroke-width="1.1"/>
+<ellipse cx="390" cy="210" rx="5.5" ry="3.5" fill="none" stroke="black" stroke-width="1.1"/>
+<ellipse cx="402" cy="211" rx="4" ry="3" fill="none" stroke="black" stroke-width="1.1"/>
+<ellipse cx="414" cy="210" rx="5" ry="3.5" fill="none" stroke="black" stroke-width="1.1"/>
+<text x="405" y="212" font-size="5.5" font-style="italic" text-anchor="middle">streambed</text>
+<rect x="352" y="220" width="106" height="58" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="405" y="232" font-size="7" font-weight="bold" text-anchor="middle">② SAND</text>
+<circle cx="388.1" cy="241.1" r="3.1" fill="black"/>
+<line x1="381.9" y1="249.8" x2="392.4" y2="245.4" stroke="black" stroke-width="3.1" stroke-linecap="round"/>
+<line x1="392.4" y1="247.3" x2="395.5" y2="254.7" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<line x1="381.9" y1="249.8" x2="379.4" y2="257.2" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<line x1="379.4" y1="257.2" x2="384.4" y2="258.5" stroke="black" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="384.4" y1="249.8" x2="383.1" y2="259.1" stroke="black" stroke-width="1.9" stroke-linecap="round"/>
+<circle cx="357.5" cy="260" r="1.2" fill="black"/>
+<circle cx="357.7" cy="265" r="1.2" fill="black"/>
+<circle cx="356.9" cy="270" r="1.2" fill="black"/>
+<circle cx="361.2" cy="260" r="1.2" fill="black"/>
+<circle cx="363.4" cy="265" r="1.2" fill="black"/>
+<circle cx="363.3" cy="270" r="1.2" fill="black"/>
+<circle cx="369.9" cy="260" r="1.2" fill="black"/>
+<circle cx="369.3" cy="265" r="1.2" fill="black"/>
+<circle cx="371.8" cy="270" r="1.2" fill="black"/>
+<circle cx="377.8" cy="260" r="1.2" fill="black"/>
+<circle cx="377.7" cy="265" r="1.2" fill="black"/>
+<circle cx="375.7" cy="270" r="1.2" fill="black"/>
+<circle cx="385.9" cy="260" r="1.2" fill="black"/>
+<circle cx="386.0" cy="265" r="1.2" fill="black"/>
+<circle cx="383.9" cy="270" r="1.2" fill="black"/>
+<circle cx="390.4" cy="260" r="1.2" fill="black"/>
+<circle cx="390.0" cy="265" r="1.2" fill="black"/>
+<circle cx="390.6" cy="270" r="1.2" fill="black"/>
+<circle cx="400.0" cy="260" r="1.2" fill="black"/>
+<circle cx="397.1" cy="265" r="1.2" fill="black"/>
+<circle cx="397.2" cy="270" r="1.2" fill="black"/>
+<circle cx="406.7" cy="260" r="1.2" fill="black"/>
+<circle cx="405.5" cy="265" r="1.2" fill="black"/>
+<circle cx="404.8" cy="270" r="1.2" fill="black"/>
+<circle cx="410.1" cy="260" r="1.2" fill="black"/>
+<circle cx="413.9" cy="265" r="1.2" fill="black"/>
+<circle cx="411.0" cy="270" r="1.2" fill="black"/>
+<circle cx="420.8" cy="260" r="1.2" fill="black"/>
+<circle cx="420.1" cy="265" r="1.2" fill="black"/>
+<circle cx="418.5" cy="270" r="1.2" fill="black"/>
+<circle cx="424.8" cy="260" r="1.2" fill="black"/>
+<circle cx="426.7" cy="265" r="1.2" fill="black"/>
+<circle cx="427.4" cy="270" r="1.2" fill="black"/>
+<circle cx="432.8" cy="260" r="1.2" fill="black"/>
+<circle cx="431.4" cy="265" r="1.2" fill="black"/>
+<circle cx="434.6" cy="270" r="1.2" fill="black"/>
+<circle cx="441.7" cy="260" r="1.2" fill="black"/>
+<circle cx="440.6" cy="265" r="1.2" fill="black"/>
+<circle cx="441.8" cy="270" r="1.2" fill="black"/>
+<circle cx="447.0" cy="260" r="1.2" fill="black"/>
+<circle cx="447.9" cy="265" r="1.2" fill="black"/>
+<circle cx="445.6" cy="270" r="1.2" fill="black"/>
+<text x="405" y="274" font-size="5.5" font-style="italic" text-anchor="middle">riverbank or dry bed</text>
+<rect x="352" y="282" width="106" height="68" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="405" y="294" font-size="7" font-weight="bold" text-anchor="middle">③ CHARCOAL</text>
+<ellipse cx="368" cy="334" rx="10" ry="5" fill="black"/>
+<path d="M 368 332 Q 364 322 368 316 Q 370 322 374 318 Q 372 324 376 320 Q 374 328 373 332" fill="black"/>
+<text x="390" y="328" font-size="9" text-anchor="middle">→</text>
+<ellipse cx="408" cy="334" rx="10" ry="5" fill="black"/>
+<path d="M 398 334 Q 408 322 418 334" fill="none" stroke="black" stroke-width="2"/>
+<text x="428" y="328" font-size="9" text-anchor="middle">→</text>
+<polygon points="436,332 442,328 445,335 441,342 435,341" fill="black"/>
+<polygon points="444,330 451,328 453,337 449,342 443,340" fill="black"/>
+<text x="368" y="345" font-size="5.5" font-style="italic" text-anchor="middle">burn</text>
+<text x="408" y="345" font-size="5.5" font-style="italic" text-anchor="middle">cover</text>
+<text x="443" y="345" font-size="5.5" font-style="italic" text-anchor="middle">collect</text>
+<text x="405" y="344" font-size="5.5" text-anchor="middle"></text>
+<text x="405" y="346" font-size="6" font-style="italic" text-anchor="middle">cool fully before collecting</text>
+<line x1="18" y1="404" x2="462" y2="404" stroke="black" stroke-width="0.75"/>
+<text x="240" y="416" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">— HOW TO USE THE FILTER —</text>
+<rect x="20" y="422" width="100" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<circle cx="30" cy="432" r="7" fill="black"/>
+<text x="30" y="436" font-size="8" font-weight="bold" text-anchor="middle" fill="white">1</text>
+<rect x="62.0" y="438" width="16" height="22" rx="2" fill="none" stroke="black" stroke-width="1.5" transform="rotate(-20,70.0,449)"/>
+<path d="M 65.0 458 Q 63.0 463 65.0 466 Q 67.0 463 65.0 458" fill="black"/>
+<path d="M 70.0 462 Q 68.0 467 70.0 470 Q 72.0 467 70.0 462" fill="black"/>
+<path d="M 75.0 458 Q 73.0 463 75.0 466 Q 77.0 463 75.0 458" fill="black"/>
+<text x="70.0" y="491" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="middle">POUR</text>
+<text x="70.0" y="499" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">dirty water</text>
+<text x="70.0" y="507" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">into top</text>
+<line x1="124" y1="452.0" x2="136" y2="452.0" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<rect x="128" y="422" width="100" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<circle cx="138" cy="432" r="7" fill="black"/>
+<text x="138" y="436" font-size="8" font-weight="bold" text-anchor="middle" fill="white">2</text>
+<polygon points="166.0,438 190.0,438 186.0,464 170.0,464" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="178.0" y1="440" x2="178.0" y2="462" stroke="black" stroke-width="1" stroke-dasharray="3,2" marker-end="url(#arrsm)"/>
+<text x="178.0" y="491" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="middle">WAIT</text>
+<text x="178.0" y="499" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">water passes</text>
+<text x="178.0" y="507" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">through layers</text>
+<line x1="232" y1="452.0" x2="244" y2="452.0" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<rect x="236" y="422" width="100" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<circle cx="246" cy="432" r="7" fill="black"/>
+<text x="246" y="436" font-size="8" font-weight="bold" text-anchor="middle" fill="white">3</text>
+<rect x="276.0" y="460" width="20" height="16" rx="2" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 282.0 440 Q 280.0 449 282.0 452 Q 284.0 449 282.0 440" fill="black"/>
+<path d="M 286.0 440 Q 284.0 449 286.0 452 Q 288.0 449 286.0 440" fill="black"/>
+<path d="M 290.0 440 Q 288.0 449 290.0 452 Q 292.0 449 290.0 440" fill="black"/>
+<text x="286.0" y="491" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="middle">COLLECT</text>
+<text x="286.0" y="499" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">filtered water</text>
+<text x="286.0" y="507" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">at bottom</text>
+<line x1="340" y1="452.0" x2="352" y2="452.0" stroke="black" stroke-width="1.2" marker-end="url(#arr)"/>
+<rect x="344" y="422" width="100" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<circle cx="354" cy="432" r="7" fill="black"/>
+<text x="354" y="436" font-size="8" font-weight="bold" text-anchor="middle" fill="white">4</text>
+<path d="M 384.0 462 L 382.0 474 L 406.0 474 L 404.0 462 Z" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="390.0" cy="458" r="2.5" fill="none" stroke="black" stroke-width="1"/>
+<circle cx="398.0" cy="456" r="2.5" fill="none" stroke="black" stroke-width="1"/>
+<circle cx="394.0" cy="454" r="2.5" fill="none" stroke="black" stroke-width="1"/>
+<path d="M 386.0 478 Q 389.0 472 394.0 474 Q 399.0 472 402.0 478" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 390.0 478 Q 392.0 470 394.0 474 Q 396.0 470 398.0 478" fill="black"/>
+<text x="394.0" y="491" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="middle">BOIL</text>
+<text x="394.0" y="499" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">before</text>
+<text x="394.0" y="507" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle">drinking</text>
+<line x1="18" y1="506" x2="462" y2="506" stroke="black" stroke-width="0.75"/>
+<text x="240" y="518" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">— MATERIAL SYMBOLS —</text>
+<polygon points="26,526 40,522 44,533 38,543 25,543" fill="black"/>
+<polygon points="46,523 62,520 65,532 59,542 46,540" fill="black"/>
+<text x="72" y="530" font-size="8" font-weight="bold">CHARCOAL</text>
+<text x="72" y="540" font-size="6.5" font-style="italic">angular · jagged · solid black · from burnt wood</text>
+<circle cx="26" cy="554" r="2" fill="#111"/>
+<circle cx="33" cy="551" r="2" fill="#111"/>
+<circle cx="40" cy="554" r="2" fill="#111"/>
+<circle cx="47" cy="551" r="2" fill="#111"/>
+<circle cx="54" cy="554" r="2" fill="#111"/>
+<circle cx="61" cy="551" r="2" fill="#111"/>
+<circle cx="68" cy="554" r="2" fill="#111"/>
+<text x="78" y="554" font-size="8" font-weight="bold">SAND</text>
+<text x="78" y="564" font-size="6.5" font-style="italic">tiny uniform dots · fine-grained · riverbank or beach</text>
+<ellipse cx="34" cy="579" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="58" cy="578" rx="8" ry="5.5" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="76" cy="579" rx="6.5" ry="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="90" y="578" font-size="8" font-weight="bold">GRAVEL</text>
+<text x="90" y="588" font-size="6.5" font-style="italic">rounded ovals · smooth stones · from streambed</text>
+<line x1="6" y1="604" x2="474" y2="604" stroke="black" stroke-width="0.75"/>
+<text x="240" y="614" font-size="6" text-anchor="middle" letter-spacing="0.8">PLATE 02 V3 · CC BY-SA 4.0 · REMEMBER FORWARD · rememberforward.org · DOI 10.5281/zenodo.19545922</text>
+<line x1="6" y1="620" x2="474" y2="620" stroke="black" stroke-width="0.75"/>
+<text x="240" y="640" font-size="7.5" font-weight="bold" font-style="italic" text-anchor="middle">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="655" font-size="7" font-style="italic" text-anchor="middle">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

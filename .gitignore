@@ -1,3 +1,11 @@
 .env
 __pycache__/
 *.pyc
+
+# Private Claude export — contains personal conversation history, memories, and
+# account info. Local backup only; never publish to the public repo.
+claude_export_*/
+
+# IP / legal working docs — work inventory, ownership analysis, draft IP
+# assignment, recovered IP guide. Kept local; not for the public repo.
+ip/

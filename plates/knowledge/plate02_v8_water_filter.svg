@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="480" height="680" fill="white"/>
+<defs>
+  <pattern id="coal" x="0" y="0" width="28" height="22" patternUnits="userSpaceOnUse">
+    <rect width="28" height="22" fill="white"/>
+    <polygon points="1,3 13,1 17,8 13,17 2,18 0,9" fill="black"/>
+    <polygon points="16,2 27,0 28,11 23,19 16,16 14,8" fill="black"/>
+  </pattern>
+  <pattern id="sand" x="0" y="0" width="8" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="4" cy="3.5" r="1.8" fill="#111"/>
+    <circle cx="0" cy="7"   r="1.8" fill="#111"/>
+    <circle cx="8" cy="7"   r="1.8" fill="#111"/>
+  </pattern>
+  <pattern id="grav" x="0" y="0" width="36" height="28" patternUnits="userSpaceOnUse">
+    <rect width="36" height="28" fill="white"/>
+    <ellipse cx="9"  cy="8"  rx="7"   ry="5"   fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="26" cy="7"  rx="7.5" ry="4.5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="7"  cy="21" rx="5"   ry="3.5" fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="24" cy="21" rx="8"   ry="5"   fill="none" stroke="black" stroke-width="1.3"/>
+    <ellipse cx="34" cy="19" rx="3.5" ry="2.8" fill="none" stroke="black" stroke-width="1.1"/>
+  </pattern>
+  <!-- Filter y-coords: top=202, charcoal/sand=254, sand/gravel=306, bottom=376 -->
+  <clipPath id="c-coal"><polygon points="154,202 326,202 319,254 161,254"/></clipPath>
+  <clipPath id="c-sand"><polygon points="161,254 319,254 312,306 168,306"/></clipPath>
+  <clipPath id="c-grav"><polygon points="168,306 312,306 302,376 178,376"/></clipPath>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+  <marker id="arrsm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+  <marker id="arrlg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="2"/>
+  </marker>
+</defs>
+<style>text { font-family: Georgia, serif; fill: black; }</style>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="32" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="2">WATER &#8212; FILTER AND PURIFY</text>
+<line x1="18" y1="38" x2="462" y2="38" stroke="black" stroke-width="1"/>
+<text x="240" y="50" font-size="7" text-anchor="middle" letter-spacing="1.5">PLATE 02 &#183; SURVIVAL KNOWLEDGE &#183; CLEAN WATER PREVENTS ILLNESS AND DEATH</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="black" stroke-width="0.5"/>
+<text x="240" y="68" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2.5">&#8212; WHY THIS MATTERS &#8212;</text>
+<rect x="18" y="74" width="210" height="82" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 22 82 Q 27 77 32 82 Q 38 86 44 82" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 38 86 Q 43 81 48 86 Q 54 90 60 86" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 54 82 Q 59 77 64 82 Q 70 86 76 82" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 70 86 Q 75 81 80 86 Q 86 90 92 86" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 86 82 Q 91 77 96 82 Q 102 86 108 82" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 102 86 Q 107 81 112 86 Q 118 90 124 86" fill="none" stroke="black" stroke-width="3"/>
+<path d="M 118 82 Q 123 77 128 82 Q 134 86 140 82" fill="none" stroke="black" stroke-width="3"/>
+<text x="113" y="102" font-size="7" font-weight="bold" text-anchor="middle">CONTAMINATED WATER</text>
+<line x1="92" y1="111" x2="122" y2="111" stroke="black" stroke-width="2.5" marker-end="url(#arrlg)"/>
+<g transform="translate(94.1,114.0) scale(0.1429) translate(-40.5,-420.5)">
+  <path d="M 143.0 700.5 L 122.0 698.5 L 59.0 700.5 L 43.0 694.5 L 40.5 687.0 L 51.0 675.5 L 105.0 651.5 L 118.5 640.0 L 130.5 621.0 L 182.5 512.0 L 224.5 439.0 L 237.0 425.5 L 248.0 420.5 L 266.0 420.5 L 281.0 425.5 L 367.0 471.5 L 410.0 478.5 L 457.0 475.5 L 483.0 468.5 L 514.0 455.5 L 534.0 451.5 L 568.0 453.5 L 621.0 471.5 L 660.0 471.5 L 666.5 470.0 L 660.5 463.0 L 659.5 450.0 L 670.0 440.5 L 683.0 437.5 L 725.0 440.5 L 765.0 447.5 L 783.0 454.5 L 798.5 472.0 L 819.0 510.5 L 834.0 512.5 L 844.0 490.5 L 857.0 486.5 L 862.0 480.5 L 873.0 480.5 L 884.0 473.5 L 903.0 481.5 L 928.0 480.5 L 947.0 487.5 L 964.5 504.0 L 974.5 526.0 L 976.5 546.0 L 971.5 569.0 L 959.5 589.0 L 941.0 604.5 L 919.0 612.5 L 895.0 611.5 L 873.0 601.5 L 857.0 583.5 L 849.0 580.5 L 851.5 601.0 L 843.5 620.0 L 825.0 634.5 L 789.5 649.0 L 875.0 649.5 L 916.0 655.5 L 933.0 663.5 L 944.5 677.0 L 942.5 683.0 L 944.5 689.0 L 934.0 695.5 L 883.0 687.5 L 831.0 687.5 L 775.0 691.5 L 741.0 691.5 L 722.0 688.5 L 706.5 679.0 L 702.5 670.0 L 702.5 661.0 L 710.5 644.0 L 726.0 626.5 L 677.0 640.5 L 617.0 669.5 L 580.0 678.5 L 544.0 677.5 L 495.0 663.5 L 425.0 663.5 L 385.0 651.5 L 361.0 637.5 L 324.0 609.5 L 284.0 593.5 L 288.5 616.0 L 303.5 659.0 L 302.5 677.0 L 292.0 691.5 L 270.0 699.5 L 241.0 699.5 L 194.0 692.5 L 173.0 692.5 L 159.0 688.5 L 153.0 696.5 L 143.0 700.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 171.5 656.0 L 201.0 651.5 L 226.5 640.0 L 225.5 633.0 L 210.0 602.5 L 172.5 644.0 L 166.5 655.0 L 171.5 656.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="161" y="161" font-size="6.5" font-weight="bold" text-anchor="middle">ILLNESS / DEATH</text>
+<text x="240" y="119" font-size="9" font-weight="bold" text-anchor="middle">OR</text>
+<rect x="252" y="74" width="210" height="82" fill="none" stroke="black" stroke-width="0.8"/>
+<path d="M 256.0 82.0 Q 268.0 80.0 280.0 82.0 Q 292.0 84.0 304.0 82.0 Q 316.0 80.0 328.0 82.0 Q 340.0 84.0 352.0 82.0 Q 364.0 80.0 376.0 82.0 Q 388.0 84.0 400.0 82.0" fill="none" stroke="black" stroke-width="1.0"/>
+<path d="M 256.0 90.0 Q 268.0 88.0 280.0 90.0 Q 292.0 92.0 304.0 90.0 Q 316.0 88.0 328.0 90.0 Q 340.0 92.0 352.0 90.0 Q 364.0 88.0 376.0 90.0 Q 388.0 92.0 400.0 90.0" fill="none" stroke="black" stroke-width="1.0"/>
+<path d="M 256.0 98.0 Q 268.0 96.0 280.0 98.0 Q 292.0 100.0 304.0 98.0 Q 316.0 96.0 328.0 98.0 Q 340.0 100.0 352.0 98.0 Q 364.0 96.0 376.0 98.0 Q 388.0 100.0 400.0 98.0" fill="none" stroke="black" stroke-width="1.0"/>
+<text x="328" y="80" font-size="7" font-weight="bold" text-anchor="middle">FILTERED + BOILED</text>
+<line x1="334" y1="111" x2="360" y2="111" stroke="black" stroke-width="1.5" marker-end="url(#arr)"/>
+<g transform="translate(411.8,74.0) scale(0.1077) translate(-178.5,-186.5)">
+  <path d="M 560.0 929.5 L 193.0 928.5 L 185.5 916.0 L 178.5 892.0 L 180.5 867.0 L 195.0 847.5 L 212.0 838.5 L 240.0 833.5 L 430.5 836.0 L 426.5 688.0 L 436.5 580.0 L 402.0 570.5 L 339.0 544.5 L 253.0 505.5 L 244.5 496.0 L 239.5 461.0 L 239.5 405.0 L 251.5 311.0 L 258.5 295.0 L 240.5 280.0 L 232.5 268.0 L 227.5 254.0 L 226.5 238.0 L 229.5 223.0 L 237.5 208.0 L 248.0 197.5 L 260.0 190.5 L 275.0 186.5 L 288.0 186.5 L 309.0 192.5 L 331.0 207.5 L 356.5 237.0 L 353.5 262.0 L 343.5 283.0 L 332.0 294.5 L 310.0 304.5 L 286.0 320.5 L 280.5 327.0 L 281.5 359.0 L 296.5 458.0 L 298.5 465.0 L 306.0 470.5 L 365.0 480.5 L 421.0 500.5 L 453.0 508.5 L 460.5 493.0 L 460.5 476.0 L 440.5 423.0 L 424.5 393.0 L 379.5 355.0 L 378.5 341.0 L 393.5 329.0 L 394.5 321.0 L 401.0 319.5 L 402.5 314.0 L 408.0 312.5 L 412.5 306.0 L 409.5 300.0 L 411.0 291.5 L 442.0 289.5 L 457.0 273.5 L 485.0 264.5 L 505.0 266.5 L 525.0 279.5 L 545.5 303.0 L 556.5 323.0 L 559.5 344.0 L 555.5 360.0 L 543.5 379.0 L 520.5 402.0 L 518.5 421.0 L 527.5 437.0 L 564.5 478.0 L 587.5 511.0 L 602.5 545.0 L 609.5 582.0 L 608.5 618.0 L 603.5 647.0 L 577.5 731.0 L 569.5 771.0 L 569.5 803.0 L 579.5 873.0 L 578.5 900.0 L 572.5 917.0 L 560.0 929.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="435" y="161" font-size="6.5" font-weight="bold" text-anchor="middle">SAFE TO DRINK</text>
+<line x1="18" y1="165" x2="462" y2="165" stroke="black" stroke-width="0.75"/>
+<text x="155" y="177" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">&#8212; BUILD THE FILTER &#8212;</text>
+<text x="155" y="186" font-size="5.5" font-style="italic" text-anchor="middle">cross-section &#183; layer order is critical</text>
+<text x="155" y="196" font-size="8" font-weight="bold" text-anchor="middle">DIRTY WATER &#8595;</text>
+<line x1="200" y1="196" x2="200" y2="202" stroke="black" stroke-width="1.2" marker-end="url(#arrsm)"/>
+<line x1="220" y1="196" x2="220" y2="202" stroke="black" stroke-width="1.2" marker-end="url(#arrsm)"/>
+<line x1="240" y1="196" x2="240" y2="202" stroke="black" stroke-width="1.2" marker-end="url(#arrsm)"/>
+<line x1="260" y1="196" x2="260" y2="202" stroke="black" stroke-width="1.2" marker-end="url(#arrsm)"/>
+<line x1="280" y1="196" x2="280" y2="202" stroke="black" stroke-width="1.2" marker-end="url(#arrsm)"/>
+<polygon points="154,202 326,202 302,376 178,376" fill="none" stroke="black" stroke-width="3.5"/>
+<ellipse cx="240" cy="202" rx="86" ry="7" fill="white" stroke="black" stroke-width="2.2"/>
+<line x1="178" y1="376" x2="196" y2="376" stroke="black" stroke-width="3.5"/>
+<line x1="220" y1="376" x2="260" y2="376" stroke="black" stroke-width="3.5"/>
+<line x1="284" y1="376" x2="302" y2="376" stroke="black" stroke-width="3.5"/>
+<line x1="208" y1="376" x2="208" y2="384" stroke="black" stroke-width="1.5" marker-end="url(#arrsm)"/>
+<line x1="272" y1="376" x2="272" y2="384" stroke="black" stroke-width="1.5" marker-end="url(#arrsm)"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#coal)" clip-path="url(#c-coal)"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#sand)" clip-path="url(#c-sand)"/>
+<rect x="0" y="0" width="480" height="680" fill="url(#grav)" clip-path="url(#c-grav)"/>
+<line x1="161" y1="254" x2="319" y2="254" stroke="black" stroke-width="1.8"/>
+<line x1="168" y1="306" x2="312" y2="306" stroke="black" stroke-width="1.8"/>
+<circle cx="112" cy="228" r="9" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="112" y="231.5" font-size="9" font-weight="bold" text-anchor="middle">1</text>
+<line x1="121" y1="228" x2="134" y2="228" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="110" y="216" font-size="7.5" font-weight="bold" text-anchor="middle">CHARCOAL</text>
+<circle cx="112" cy="280" r="9" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="112" y="283.5" font-size="9" font-weight="bold" text-anchor="middle">2</text>
+<line x1="121" y1="280" x2="134" y2="280" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="110" y="268" font-size="7.5" font-weight="bold" text-anchor="middle">SAND</text>
+<circle cx="112" cy="341" r="9" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="112" y="344.5" font-size="9" font-weight="bold" text-anchor="middle">3</text>
+<line x1="121" y1="341" x2="134" y2="341" stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="110" y="329" font-size="7.5" font-weight="bold" text-anchor="middle">GRAVEL</text>
+<line x1="334" y1="202" x2="334" y2="376" stroke="black" stroke-width="0.5"/>
+<text x="398" y="209" font-size="6" font-weight="bold" text-anchor="middle" letter-spacing="1">MATERIALS</text>
+<polygon points="338,224 348,221 352,229 348,236 339,237 337,230" fill="black"/>
+<polygon points="351,222 362,220 364,231 359,237 352,235 350,228" fill="black"/>
+<text x="366" y="224" font-size="7" font-weight="bold">&#9312; CHARCOAL</text>
+<text x="366" y="233" font-size="5.5" font-style="italic">angular burnt chunks</text>
+<circle cx="341" cy="281" r="1.5" fill="black"/>
+<circle cx="345" cy="278" r="1.5" fill="black"/>
+<circle cx="350" cy="280" r="1.5" fill="black"/>
+<circle cx="355" cy="279" r="1.5" fill="black"/>
+<circle cx="359" cy="281" r="1.5" fill="black"/>
+<circle cx="343" cy="285" r="1.5" fill="black"/>
+<circle cx="350" cy="284" r="1.5" fill="black"/>
+<circle cx="357" cy="285" r="1.5" fill="black"/>
+<circle cx="347" cy="275" r="1.5" fill="black"/>
+<circle cx="354" cy="276" r="1.5" fill="black"/>
+<text x="366" y="276" font-size="7" font-weight="bold">&#9313; SAND</text>
+<text x="366" y="285" font-size="5.5" font-style="italic">fine uniform grains</text>
+<ellipse cx="342" cy="340" rx="7" ry="4" fill="none" stroke="black" stroke-width="1.4"/>
+<ellipse cx="355" cy="341" rx="7" ry="4.5" fill="none" stroke="black" stroke-width="1.4"/>
+<ellipse cx="368" cy="339" rx="5.5" ry="3.5" fill="none" stroke="black" stroke-width="1.4"/>
+<text x="372" y="337" font-size="7" font-weight="bold">&#9314; GRAVEL</text>
+<text x="372" y="346" font-size="5.5" font-style="italic">smooth rounded stones</text>
+<line x1="240" y1="384" x2="240" y2="396" stroke="black" stroke-width="2.5" marker-end="url(#arrlg)"/>
+<path d="M 218.0 399.0 Q 223.5 397.0 229.0 399.0 Q 234.5 401.0 240.0 399.0 Q 245.5 397.0 251.0 399.0 Q 256.5 401.0 262.0 399.0" fill="none" stroke="black" stroke-width="1.0"/>
+<text x="240" y="396" font-size="7.5" font-weight="bold" text-anchor="middle">&#8595; BOIL BEFORE DRINKING &#8595;</text>
+<text x="240" y="405" font-size="5.5" font-style="italic" text-anchor="middle">filtering alone does not kill pathogens</text>
+<line x1="18" y1="407" x2="462" y2="407" stroke="black" stroke-width="0.75"/>
+<text x="240" y="419" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">&#8212; COLLECT MATERIALS &#8212;</text>
+<rect x="18" y="424" width="145" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="90" y="434" font-size="6.5" font-weight="bold" text-anchor="middle">&#9312; CHARCOAL</text>
+<g transform="translate(32.4,435.0) scale(0.0608) translate(-81.5,-144.5)">
+  <path d="M 375.0 790.5 L 353.0 790.5 L 315.0 782.5 L 263.0 765.5 L 208.0 743.5 L 176.0 734.5 L 162.0 734.5 L 148.0 739.5 L 96.0 776.5 L 88.0 776.5 L 82.5 772.0 L 81.5 761.0 L 88.5 749.0 L 116.5 716.0 L 134.5 678.0 L 146.0 670.5 L 158.0 672.5 L 173.0 687.5 L 191.0 695.5 L 253.0 697.5 L 283.0 701.5 L 309.0 712.5 L 334.5 731.0 L 309.0 709.5 L 295.0 702.5 L 275.0 697.5 L 244.0 677.5 L 216.0 655.5 L 188.5 625.0 L 181.5 607.0 L 180.5 578.0 L 191.5 513.0 L 206.5 459.0 L 231.5 391.0 L 256.5 338.0 L 272.5 314.0 L 294.0 292.5 L 312.0 279.5 L 333.0 269.5 L 366.0 259.5 L 393.5 235.0 L 399.5 222.0 L 406.5 180.0 L 415.5 164.0 L 424.0 155.5 L 432.0 154.5 L 436.0 148.5 L 443.0 145.5 L 471.0 144.5 L 491.0 152.5 L 520.0 182.5 L 527.5 183.0 L 530.5 199.0 L 526.5 206.0 L 532.0 203.5 L 532.5 207.0 L 526.0 214.5 L 514.5 216.0 L 506.5 239.0 L 497.5 247.0 L 496.5 274.0 L 494.0 276.5 L 484.0 274.5 L 479.5 282.0 L 469.0 288.5 L 465.5 297.0 L 458.0 302.5 L 431.0 289.5 L 415.0 299.5 L 402.5 312.0 L 424.0 297.5 L 437.5 319.0 L 441.5 336.0 L 439.5 374.0 L 452.5 443.0 L 478.0 454.5 L 549.0 494.5 L 575.5 525.0 L 584.5 555.0 L 580.0 558.5 L 577.0 557.5 L 560.0 534.5 L 536.0 522.5 L 534.5 539.0 L 526.5 557.0 L 493.5 606.0 L 496.0 618.5 L 491.0 619.5 L 484.5 614.0 L 465.5 587.0 L 484.5 618.0 L 433.5 690.0 L 424.5 707.0 L 424.5 714.0 L 432.0 724.5 L 441.0 729.5 L 468.0 740.5 L 496.0 746.5 L 501.5 752.0 L 501.5 757.0 L 494.0 763.5 L 482.0 766.5 L 460.0 766.5 L 432.0 762.5 L 406.5 763.0 L 407.5 744.0 L 404.5 730.0 L 386.5 691.0 L 410.5 636.0 L 400.5 639.0 L 382.5 690.0 L 400.5 727.0 L 404.5 744.0 L 404.5 762.0 L 400.5 773.0 L 390.0 784.5 L 375.0 790.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 428.5 238.0 L 422.5 228.0 L 423.5 215.0 L 430.0 206.5 L 436.0 205.5 L 441.5 211.0 L 439.0 222.5 L 443.5 217.0 L 443.5 209.0 L 438.0 203.5 L 427.0 205.5 L 420.5 216.0 L 421.5 233.0 L 428.5 238.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 487.5 596.0 L 476.5 571.0 L 469.0 561.5 L 424.0 536.5 L 385.5 503.0 L 440.5 492.0 L 420.0 485.5 L 410.5 478.0 L 393.0 428.5 L 382.5 439.0 L 364.5 481.0 L 355.5 473.0 L 359.5 389.0 L 371.5 368.0 L 377.5 340.0 L 373.5 313.0 L 362.0 295.5 L 372.5 318.0 L 374.5 344.0 L 368.5 368.0 L 356.5 388.0 L 353.5 476.0 L 418.0 535.5 L 466.0 562.5 L 472.5 569.0 L 487.5 596.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 405.5 567.0 L 343.0 534.5 L 322.0 519.5 L 304.5 500.0 L 301.5 494.0 L 296.5 452.0 L 292.0 367.5 L 292.5 437.0 L 297.5 486.0 L 301.5 500.0 L 314.0 515.5 L 333.0 531.5 L 379.0 556.5 L 405.5 567.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 677.0 602.5 L 652.0 595.5 L 642.0 589.5 L 641.5 586.0 L 646.0 583.5 L 662.0 583.5 L 677.0 587.5 L 686.0 581.5 L 684.5 590.0 L 677.0 602.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 764.0 594.5 L 755.0 582.5 L 766.0 582.5 L 772.5 586.0 L 764.0 594.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 774.0 606.5 L 769.5 605.0 L 782.0 596.5 L 787.0 589.5 L 795.5 594.0 L 791.0 599.5 L 774.0 606.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 460.5 637.0 L 463.5 633.0 L 463.5 614.0 L 456.0 591.5 L 461.5 616.0 L 461.5 632.0 L 459.0 635.5 L 454.5 633.0 L 449.0 607.5 L 448.5 613.0 L 452.5 633.0 L 455.0 636.5 L 460.5 637.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 644.0 653.5 L 636.0 650.5 L 626.5 641.0 L 626.5 638.0 L 640.5 625.0 L 641.5 615.0 L 635.0 593.5 L 653.0 603.5 L 673.5 608.0 L 644.0 653.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 438.5 642.0 L 443.5 628.0 L 442.0 602.5 L 440.5 632.0 L 438.5 639.0 L 433.5 642.0 L 438.5 642.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 770.0 660.5 L 766.5 658.0 L 772.5 640.0 L 771.5 614.0 L 795.0 605.5 L 791.5 628.0 L 804.5 640.0 L 804.5 643.0 L 794.0 652.5 L 770.0 660.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 593.0 880.5 L 577.0 875.5 L 557.5 861.0 L 553.5 853.0 L 553.5 846.0 L 559.5 833.0 L 574.0 822.5 L 658.5 786.0 L 644.0 778.5 L 625.5 764.0 L 610.5 745.0 L 601.5 724.0 L 598.5 709.0 L 599.5 682.0 L 606.5 660.0 L 619.0 640.5 L 628.0 652.5 L 640.5 659.0 L 628.5 684.0 L 624.5 702.0 L 624.5 726.0 L 628.5 744.0 L 637.5 762.0 L 646.5 773.0 L 665.0 788.5 L 686.0 796.5 L 686.5 803.0 L 676.5 819.0 L 654.0 836.5 L 629.0 863.5 L 604.0 877.5 L 593.0 880.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 752.0 794.5 L 771.5 773.0 L 779.5 753.0 L 777.5 734.0 L 758.5 712.0 L 755.5 705.0 L 757.5 683.0 L 765.0 667.5 L 778.0 665.5 L 798.0 657.5 L 812.0 643.5 L 826.5 666.0 L 831.5 684.0 L 832.5 706.0 L 826.5 731.0 L 815.5 752.0 L 800.0 769.5 L 781.0 783.5 L 752.0 794.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 528.0 838.5 L 515.0 837.5 L 505.5 826.0 L 503.5 798.0 L 514.0 785.5 L 546.0 779.5 L 568.0 758.5 L 576.0 754.5 L 590.0 754.5 L 622.0 764.5 L 637.5 776.0 L 639.5 785.0 L 627.0 798.5 L 617.0 803.5 L 592.0 808.5 L 569.0 822.5 L 528.0 838.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 902.0 843.5 L 874.0 836.5 L 853.0 826.5 L 829.0 809.5 L 804.0 802.5 L 794.5 792.0 L 793.5 777.0 L 808.0 765.5 L 852.0 755.5 L 860.0 758.5 L 877.0 779.5 L 910.0 787.5 L 919.5 797.0 L 921.5 810.0 L 915.5 833.0 L 909.0 840.5 L 902.0 843.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 802.0 900.5 L 789.0 900.5 L 777.0 894.5 L 746.5 855.0 L 741.5 842.0 L 744.5 822.0 L 740.5 810.0 L 741.5 803.0 L 746.0 798.5 L 760.0 797.5 L 771.0 791.5 L 780.0 793.5 L 809.0 820.5 L 844.5 848.0 L 848.5 857.0 L 848.5 869.0 L 845.5 876.0 L 828.0 889.5 L 802.0 900.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 698.0 879.5 L 674.0 878.5 L 661.0 874.5 L 653.5 866.0 L 652.5 854.0 L 656.5 845.0 L 691.0 815.5 L 708.0 806.5 L 722.0 806.5 L 730.0 811.5 L 734.5 819.0 L 738.5 850.0 L 729.0 863.5 L 713.0 869.5 L 698.0 879.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="90" y="494" font-size="6" font-style="italic" text-anchor="middle">from fire &#8594; LAYER &#9312;</text>
+<rect x="167" y="424" width="145" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="239" y="434" font-size="6.5" font-weight="bold" text-anchor="middle">&#9313; SAND</text>
+<g transform="translate(176.4,435.0) scale(0.0712) translate(-88.5,-243.5)">
+  <path d="M 599.0 889.5 L 544.0 889.5 L 444.0 879.5 L 426.0 873.5 L 413.5 861.0 L 405.5 836.0 L 410.5 800.0 L 427.5 756.0 L 465.5 675.0 L 456.5 663.0 L 439.5 616.0 L 424.5 598.0 L 420.5 589.0 L 377.0 558.5 L 354.0 549.5 L 351.5 551.0 L 358.5 603.0 L 368.5 644.0 L 368.5 670.0 L 340.5 842.0 L 328.0 861.5 L 315.0 867.5 L 291.0 868.5 L 267.0 873.5 L 261.5 869.0 L 263.0 861.5 L 240.0 872.5 L 231.0 873.5 L 226.5 871.0 L 226.5 866.0 L 243.0 851.5 L 260.0 844.5 L 273.0 835.5 L 301.0 828.5 L 307.5 820.0 L 306.5 764.0 L 298.5 692.0 L 297.5 628.0 L 265.5 539.0 L 247.5 513.0 L 228.5 469.0 L 227.5 450.0 L 243.5 394.0 L 236.0 389.5 L 227.5 405.0 L 217.0 412.5 L 189.0 404.5 L 180.0 406.5 L 172.0 400.5 L 163.0 406.5 L 158.0 406.5 L 141.0 384.5 L 128.0 381.5 L 110.0 364.5 L 92.5 342.0 L 88.5 325.0 L 90.5 299.0 L 100.5 275.0 L 117.0 256.5 L 131.0 248.5 L 152.0 243.5 L 170.0 243.5 L 187.0 247.5 L 208.0 259.5 L 245.0 300.5 L 259.0 308.5 L 284.0 316.5 L 310.0 315.5 L 371.0 293.5 L 402.0 290.5 L 464.0 301.5 L 499.0 313.5 L 549.0 323.5 L 594.0 337.5 L 643.0 346.5 L 708.0 375.5 L 784.0 419.5 L 828.0 439.5 L 856.0 456.5 L 895.0 469.5 L 907.0 480.5 L 923.0 486.5 L 947.5 513.0 L 946.5 518.0 L 939.5 521.0 L 945.5 528.0 L 946.5 534.0 L 942.0 537.5 L 936.0 535.5 L 936.5 542.0 L 928.0 544.5 L 907.0 521.5 L 882.0 509.5 L 865.0 510.5 L 860.5 515.0 L 874.5 530.0 L 878.5 540.0 L 877.5 546.0 L 873.0 549.5 L 835.5 514.0 L 819.5 483.0 L 811.0 474.5 L 791.0 462.5 L 683.0 426.5 L 616.0 394.5 L 558.0 396.5 L 520.5 392.0 L 592.5 500.0 L 622.5 536.0 L 661.5 574.0 L 677.5 606.0 L 679.5 616.0 L 677.5 654.0 L 670.5 676.0 L 657.5 699.0 L 647.5 753.0 L 633.5 792.0 L 706.0 802.5 L 729.0 801.5 L 746.0 795.5 L 763.0 767.5 L 773.0 762.5 L 783.0 762.5 L 795.0 768.5 L 804.5 778.0 L 822.5 804.0 L 845.0 827.5 L 859.0 836.5 L 893.0 849.5 L 901.0 854.5 L 908.5 864.0 L 907.5 873.0 L 896.0 879.5 L 841.0 878.5 L 811.0 874.5 L 781.0 866.5 L 741.0 866.5 L 698.0 872.5 L 650.0 883.5 L 599.0 889.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="239" y="494" font-size="6" font-style="italic" text-anchor="middle">sandy bank &#8594; LAYER &#9313;</text>
+<rect x="316" y="424" width="145" height="60" fill="none" stroke="black" stroke-width="0.7"/>
+<text x="388" y="434" font-size="6.5" font-weight="bold" text-anchor="middle">&#9314; GRAVEL</text>
+<g transform="translate(325.4,435.0) scale(0.0712) translate(-88.5,-243.5)">
+  <path d="M 599.0 889.5 L 544.0 889.5 L 444.0 879.5 L 426.0 873.5 L 413.5 861.0 L 405.5 836.0 L 410.5 800.0 L 427.5 756.0 L 465.5 675.0 L 456.5 663.0 L 439.5 616.0 L 424.5 598.0 L 420.5 589.0 L 377.0 558.5 L 354.0 549.5 L 351.5 551.0 L 358.5 603.0 L 368.5 644.0 L 368.5 670.0 L 340.5 842.0 L 328.0 861.5 L 315.0 867.5 L 291.0 868.5 L 267.0 873.5 L 261.5 869.0 L 263.0 861.5 L 240.0 872.5 L 231.0 873.5 L 226.5 871.0 L 226.5 866.0 L 243.0 851.5 L 260.0 844.5 L 273.0 835.5 L 301.0 828.5 L 307.5 820.0 L 306.5 764.0 L 298.5 692.0 L 297.5 628.0 L 265.5 539.0 L 247.5 513.0 L 228.5 469.0 L 227.5 450.0 L 243.5 394.0 L 236.0 389.5 L 227.5 405.0 L 217.0 412.5 L 189.0 404.5 L 180.0 406.5 L 172.0 400.5 L 163.0 406.5 L 158.0 406.5 L 141.0 384.5 L 128.0 381.5 L 110.0 364.5 L 92.5 342.0 L 88.5 325.0 L 90.5 299.0 L 100.5 275.0 L 117.0 256.5 L 131.0 248.5 L 152.0 243.5 L 170.0 243.5 L 187.0 247.5 L 208.0 259.5 L 245.0 300.5 L 259.0 308.5 L 284.0 316.5 L 310.0 315.5 L 371.0 293.5 L 402.0 290.5 L 464.0 301.5 L 499.0 313.5 L 549.0 323.5 L 594.0 337.5 L 643.0 346.5 L 708.0 375.5 L 784.0 419.5 L 828.0 439.5 L 856.0 456.5 L 895.0 469.5 L 907.0 480.5 L 923.0 486.5 L 947.5 513.0 L 946.5 518.0 L 939.5 521.0 L 945.5 528.0 L 946.5 534.0 L 942.0 537.5 L 936.0 535.5 L 936.5 542.0 L 928.0 544.5 L 907.0 521.5 L 882.0 509.5 L 865.0 510.5 L 860.5 515.0 L 874.5 530.0 L 878.5 540.0 L 877.5 546.0 L 873.0 549.5 L 835.5 514.0 L 819.5 483.0 L 811.0 474.5 L 791.0 462.5 L 683.0 426.5 L 616.0 394.5 L 558.0 396.5 L 520.5 392.0 L 592.5 500.0 L 622.5 536.0 L 661.5 574.0 L 677.5 606.0 L 679.5 616.0 L 677.5 654.0 L 670.5 676.0 L 657.5 699.0 L 647.5 753.0 L 633.5 792.0 L 706.0 802.5 L 729.0 801.5 L 746.0 795.5 L 763.0 767.5 L 773.0 762.5 L 783.0 762.5 L 795.0 768.5 L 804.5 778.0 L 822.5 804.0 L 845.0 827.5 L 859.0 836.5 L 893.0 849.5 L 901.0 854.5 L 908.5 864.0 L 907.5 873.0 L 896.0 879.5 L 841.0 878.5 L 811.0 874.5 L 781.0 866.5 L 741.0 866.5 L 698.0 872.5 L 650.0 883.5 L 599.0 889.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="388" y="494" font-size="6" font-style="italic" text-anchor="middle">streambed &#8594; LAYER &#9314;</text>
+<polygon points="103.0,480.0 107.5,469.8 111.1,462.4 114.4,469.4 116.0,448.0 118.0,469.4 121.5,457.0 124.8,470.4 129.0,480.0" fill="black"/>
+<text x="116" y="484" font-size="5.5" font-style="italic" text-anchor="middle">burn</text>
+<text x="136" y="466" font-size="8" text-anchor="middle">&#8594;</text>
+<ellipse cx="150" cy="470" rx="10" ry="5" fill="black"/>
+<path d="M 140 470 Q 150 459 160 470" fill="none" stroke="black" stroke-width="2"/>
+<text x="150" y="480" font-size="5.5" font-style="italic" text-anchor="middle">cover</text>
+<circle cx="255.5" cy="456" r="1.3" fill="black"/>
+<circle cx="256.4" cy="462" r="1.3" fill="black"/>
+<circle cx="254.2" cy="468" r="1.3" fill="black"/>
+<circle cx="262.4" cy="456" r="1.3" fill="black"/>
+<circle cx="262.3" cy="462" r="1.3" fill="black"/>
+<circle cx="263.1" cy="468" r="1.3" fill="black"/>
+<circle cx="268.1" cy="456" r="1.3" fill="black"/>
+<circle cx="267.7" cy="462" r="1.3" fill="black"/>
+<circle cx="268.6" cy="468" r="1.3" fill="black"/>
+<circle cx="276.0" cy="456" r="1.3" fill="black"/>
+<circle cx="274.5" cy="462" r="1.3" fill="black"/>
+<circle cx="274.3" cy="468" r="1.3" fill="black"/>
+<circle cx="283.8" cy="456" r="1.3" fill="black"/>
+<circle cx="281.7" cy="462" r="1.3" fill="black"/>
+<circle cx="284.5" cy="468" r="1.3" fill="black"/>
+<circle cx="288.7" cy="456" r="1.3" fill="black"/>
+<circle cx="288.6" cy="462" r="1.3" fill="black"/>
+<circle cx="288.8" cy="468" r="1.3" fill="black"/>
+<circle cx="297.3" cy="456" r="1.3" fill="black"/>
+<circle cx="298.8" cy="462" r="1.3" fill="black"/>
+<circle cx="297.1" cy="468" r="1.3" fill="black"/>
+<circle cx="302.2" cy="456" r="1.3" fill="black"/>
+<circle cx="305.3" cy="462" r="1.3" fill="black"/>
+<circle cx="302.2" cy="468" r="1.3" fill="black"/>
+<path d="M 402 466 Q 416 462 430 466 Q 444 470 458 466" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="408" cy="462" rx="6" ry="3.5" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="423" cy="463" rx="5.5" ry="3" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="438" cy="462" rx="6.5" ry="3.8" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="453" cy="463" rx="5" ry="2.8" fill="none" stroke="black" stroke-width="1.2"/>
+<line x1="18" y1="490" x2="462" y2="490" stroke="black" stroke-width="0.75"/>
+<text x="240" y="501" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">&#8212; HOW TO USE THE FILTER &#8212;</text>
+<rect x="18" y="507" width="80" height="62" fill="none" stroke="black" stroke-width="0.7"/>
+<g transform="translate(30.0,530.0) scale(0.0463) translate(-340.5,-161.5)">
+  <path d="M 469.0 939.5 L 420.0 938.5 L 409.0 934.5 L 400.0 934.5 L 394.0 938.5 L 369.0 938.5 L 359.5 932.0 L 361.5 876.0 L 352.5 801.0 L 351.5 762.0 L 360.5 707.0 L 361.5 658.0 L 354.5 587.0 L 355.5 572.0 L 349.5 562.0 L 348.5 550.0 L 341.5 530.0 L 340.5 496.0 L 348.5 444.0 L 348.5 332.0 L 353.5 300.0 L 361.5 272.0 L 378.0 250.5 L 414.0 233.5 L 434.5 216.0 L 447.5 187.0 L 463.0 169.5 L 481.0 161.5 L 493.0 161.5 L 508.0 164.5 L 523.5 179.0 L 536.5 203.0 L 537.5 225.0 L 529.0 240.5 L 525.0 238.5 L 512.0 252.5 L 504.5 256.0 L 497.0 272.5 L 491.0 269.5 L 486.0 276.5 L 477.0 276.5 L 469.0 282.5 L 464.0 280.5 L 452.0 266.5 L 441.5 272.0 L 456.5 315.0 L 473.0 308.5 L 505.5 286.0 L 507.5 282.0 L 502.0 280.5 L 499.5 276.0 L 509.5 273.0 L 521.0 244.5 L 525.0 244.5 L 527.5 248.0 L 523.0 258.5 L 532.0 243.5 L 538.5 245.0 L 536.0 255.5 L 544.0 244.5 L 550.0 251.5 L 556.0 249.5 L 565.5 267.0 L 557.5 279.0 L 588.0 293.5 L 605.5 312.0 L 605.5 317.0 L 613.0 329.5 L 607.0 315.5 L 612.5 323.0 L 624.5 352.0 L 630.5 382.0 L 670.0 382.5 L 682.5 387.0 L 683.5 394.0 L 678.5 399.0 L 683.5 411.0 L 685.5 430.0 L 679.5 459.0 L 666.5 483.0 L 661.0 487.5 L 638.0 492.5 L 610.0 492.5 L 603.5 488.0 L 611.0 490.5 L 638.0 490.5 L 661.0 484.5 L 665.5 480.0 L 642.0 486.5 L 611.0 487.5 L 604.0 485.5 L 603.0 487.5 L 591.5 476.0 L 581.5 462.0 L 574.5 445.0 L 572.5 435.0 L 574.5 406.0 L 569.5 404.0 L 568.5 398.0 L 582.0 389.5 L 620.0 383.5 L 620.5 376.0 L 606.5 330.0 L 590.5 305.0 L 578.0 293.5 L 556.0 286.5 L 536.5 306.0 L 520.5 362.0 L 508.5 387.0 L 502.0 392.5 L 494.0 392.5 L 470.5 380.0 L 470.5 406.0 L 466.5 429.0 L 470.5 454.0 L 468.5 482.0 L 470.5 518.0 L 463.5 520.0 L 466.5 547.0 L 465.5 608.0 L 459.5 688.0 L 447.5 719.0 L 439.5 827.0 L 438.5 877.0 L 443.5 891.0 L 450.0 897.5 L 491.0 917.5 L 513.0 921.5 L 517.5 927.0 L 517.5 932.0 L 508.0 938.5 L 486.0 936.5 L 469.0 939.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 461.5 227.0 L 458.5 221.0 L 459.5 215.0 L 462.0 210.5 L 470.0 208.5 L 471.0 212.5 L 462.5 213.0 L 471.0 213.5 L 466.5 215.0 L 471.0 216.5 L 473.5 209.0 L 470.0 206.5 L 465.0 206.5 L 457.5 214.0 L 457.5 224.0 L 459.0 227.5 L 461.5 227.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 490.5 347.0 L 508.5 322.0 L 513.0 310.5 L 483.5 340.0 L 490.5 347.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 611.5 404.0 L 663.0 397.5 L 677.0 392.5 L 680.5 388.0 L 666.0 394.5 L 632.0 400.5 L 585.0 400.5 L 571.5 397.0 L 573.0 400.5 L 583.0 403.5 L 611.5 404.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 404.5 892.0 L 405.5 872.0 L 401.0 840.5 L 399.5 870.0 L 400.5 883.0 L 404.5 892.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<path d="M 71.0 517.0 Q 68.8 523.3 71.0 526.0 Q 73.2 523.3 71.0 517.0" fill="black"/>
+<path d="M 78.0 517.0 Q 75.8 523.3 78.0 526.0 Q 80.2 523.3 78.0 517.0" fill="black"/>
+<path d="M 85.0 517.0 Q 82.8 523.3 85.0 526.0 Q 87.2 523.3 85.0 517.0" fill="black"/>
+<polygon points="64,532 92,532 88,557 68,557" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="58" y="580" font-size="7" font-weight="bold" text-anchor="middle">&#9312; POUR</text>
+<text x="58" y="589" font-size="6" font-style="italic" text-anchor="middle">dirty water into top</text>
+<line x1="100" y1="538" x2="107" y2="538" stroke="black" stroke-width="2" marker-end="url(#arrlg)"/>
+<rect x="109" y="507" width="80" height="62" fill="none" stroke="black" stroke-width="0.7"/>
+<g transform="translate(111.2,530.0) scale(0.0457) translate(-114.5,-69.5)">
+  <path d="M 732.0 856.5 L 685.0 851.5 L 591.0 851.5 L 517.0 836.5 L 386.0 852.5 L 308.0 851.5 L 270.0 856.5 L 257.0 855.5 L 243.5 846.0 L 237.5 822.0 L 245.5 800.0 L 262.5 787.0 L 218.0 770.5 L 149.0 737.5 L 126.5 719.0 L 118.5 704.0 L 114.5 674.0 L 121.5 647.0 L 140.0 623.5 L 160.0 614.5 L 196.0 614.5 L 236.0 621.5 L 341.5 651.0 L 306.5 609.0 L 299.5 585.0 L 303.5 527.0 L 322.5 387.0 L 334.5 355.0 L 353.0 335.5 L 452.0 291.5 L 461.0 286.5 L 463.5 282.0 L 463.0 273.5 L 443.0 271.5 L 431.5 265.0 L 430.5 248.0 L 425.5 235.0 L 425.5 216.0 L 416.5 212.0 L 414.5 204.0 L 428.5 177.0 L 423.5 156.0 L 430.5 126.0 L 422.5 122.0 L 426.5 113.0 L 423.5 110.0 L 437.0 96.5 L 465.0 79.5 L 511.0 69.5 L 533.0 71.5 L 546.0 74.5 L 560.0 82.5 L 559.0 75.5 L 566.0 87.5 L 573.0 85.5 L 572.5 89.0 L 583.5 97.0 L 599.5 130.0 L 600.5 157.0 L 588.5 205.0 L 563.5 243.0 L 565.5 278.0 L 577.0 290.5 L 675.0 337.5 L 689.5 353.0 L 697.5 369.0 L 704.5 395.0 L 723.5 546.0 L 724.5 588.0 L 717.5 610.0 L 687.5 645.0 L 772.0 621.5 L 813.0 614.5 L 842.0 613.5 L 856.0 616.5 L 869.0 623.5 L 880.5 635.0 L 889.5 652.0 L 893.5 667.0 L 892.5 696.0 L 883.5 717.0 L 872.0 729.5 L 789.0 770.5 L 729.5 790.0 L 751.5 810.0 L 757.5 825.0 L 757.5 835.0 L 753.5 842.0 L 744.0 851.5 L 732.0 856.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 634.5 597.0 L 649.5 577.0 L 638.0 524.5 L 629.5 567.0 L 630.5 587.0 L 632.5 597.0 L 634.5 597.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 392.5 597.0 L 395.5 565.0 L 387.0 525.5 L 375.5 577.0 L 392.5 597.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<polygon points="156,519 182,519 179,559 159,559" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="169" y1="521" x2="169" y2="557" stroke="black" stroke-width="1.2" stroke-dasharray="3,2.5" marker-end="url(#arrsm)"/>
+<text x="149" y="580" font-size="7" font-weight="bold" text-anchor="middle">&#9313; WAIT</text>
+<text x="149" y="589" font-size="6" font-style="italic" text-anchor="middle">water passes through</text>
+<line x1="191" y1="538" x2="198" y2="538" stroke="black" stroke-width="2" marker-end="url(#arrlg)"/>
+<rect x="200" y="507" width="80" height="62" fill="none" stroke="black" stroke-width="0.7"/>
+<g transform="translate(196.1,530.0) scale(0.0557) translate(-88.5,-243.5)">
+  <path d="M 599.0 889.5 L 544.0 889.5 L 444.0 879.5 L 426.0 873.5 L 413.5 861.0 L 405.5 836.0 L 410.5 800.0 L 427.5 756.0 L 465.5 675.0 L 456.5 663.0 L 439.5 616.0 L 424.5 598.0 L 420.5 589.0 L 377.0 558.5 L 354.0 549.5 L 351.5 551.0 L 358.5 603.0 L 368.5 644.0 L 368.5 670.0 L 340.5 842.0 L 328.0 861.5 L 315.0 867.5 L 291.0 868.5 L 267.0 873.5 L 261.5 869.0 L 263.0 861.5 L 240.0 872.5 L 231.0 873.5 L 226.5 871.0 L 226.5 866.0 L 243.0 851.5 L 260.0 844.5 L 273.0 835.5 L 301.0 828.5 L 307.5 820.0 L 306.5 764.0 L 298.5 692.0 L 297.5 628.0 L 265.5 539.0 L 247.5 513.0 L 228.5 469.0 L 227.5 450.0 L 243.5 394.0 L 236.0 389.5 L 227.5 405.0 L 217.0 412.5 L 189.0 404.5 L 180.0 406.5 L 172.0 400.5 L 163.0 406.5 L 158.0 406.5 L 141.0 384.5 L 128.0 381.5 L 110.0 364.5 L 92.5 342.0 L 88.5 325.0 L 90.5 299.0 L 100.5 275.0 L 117.0 256.5 L 131.0 248.5 L 152.0 243.5 L 170.0 243.5 L 187.0 247.5 L 208.0 259.5 L 245.0 300.5 L 259.0 308.5 L 284.0 316.5 L 310.0 315.5 L 371.0 293.5 L 402.0 290.5 L 464.0 301.5 L 499.0 313.5 L 549.0 323.5 L 594.0 337.5 L 643.0 346.5 L 708.0 375.5 L 784.0 419.5 L 828.0 439.5 L 856.0 456.5 L 895.0 469.5 L 907.0 480.5 L 923.0 486.5 L 947.5 513.0 L 946.5 518.0 L 939.5 521.0 L 945.5 528.0 L 946.5 534.0 L 942.0 537.5 L 936.0 535.5 L 936.5 542.0 L 928.0 544.5 L 907.0 521.5 L 882.0 509.5 L 865.0 510.5 L 860.5 515.0 L 874.5 530.0 L 878.5 540.0 L 877.5 546.0 L 873.0 549.5 L 835.5 514.0 L 819.5 483.0 L 811.0 474.5 L 791.0 462.5 L 683.0 426.5 L 616.0 394.5 L 558.0 396.5 L 520.5 392.0 L 592.5 500.0 L 622.5 536.0 L 661.5 574.0 L 677.5 606.0 L 679.5 616.0 L 677.5 654.0 L 670.5 676.0 L 657.5 699.0 L 647.5 753.0 L 633.5 792.0 L 706.0 802.5 L 729.0 801.5 L 746.0 795.5 L 763.0 767.5 L 773.0 762.5 L 783.0 762.5 L 795.0 768.5 L 804.5 778.0 L 822.5 804.0 L 845.0 827.5 L 859.0 836.5 L 893.0 849.5 L 901.0 854.5 L 908.5 864.0 L 907.5 873.0 L 896.0 879.5 L 841.0 878.5 L 811.0 874.5 L 781.0 866.5 L 741.0 866.5 L 698.0 872.5 L 650.0 883.5 L 599.0 889.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<path d="M 253.0 517.0 Q 250.8 523.3 253.0 526.0 Q 255.2 523.3 253.0 517.0" fill="black"/>
+<path d="M 260.0 517.0 Q 257.8 523.3 260.0 526.0 Q 262.2 523.3 260.0 517.0" fill="black"/>
+<path d="M 267.0 517.0 Q 264.8 523.3 267.0 526.0 Q 269.2 523.3 267.0 517.0" fill="black"/>
+<g transform="translate(246.7,536.0) scale(0.0352) translate(-141.5,-125.5)">
+  <path d="M 538.0 921.5 L 476.0 920.5 L 417.0 914.5 L 375.0 905.5 L 355.0 896.5 L 347.5 889.0 L 339.0 872.5 L 302.0 847.5 L 266.0 817.5 L 241.5 793.0 L 211.5 756.0 L 188.5 721.0 L 170.5 686.0 L 156.5 649.0 L 146.5 609.0 L 142.5 581.0 L 141.5 542.0 L 150.5 482.0 L 172.5 426.0 L 188.5 400.0 L 210.5 372.0 L 209.5 341.0 L 200.5 284.0 L 200.5 251.0 L 211.5 217.0 L 233.0 191.5 L 253.0 180.5 L 269.0 176.5 L 286.0 176.5 L 307.0 182.5 L 324.0 193.5 L 343.5 217.0 L 351.5 237.0 L 352.5 274.0 L 355.0 274.5 L 377.0 260.5 L 388.5 249.0 L 397.5 229.0 L 398.5 209.0 L 395.5 196.0 L 374.5 166.0 L 369.5 152.0 L 369.5 146.0 L 377.0 136.5 L 390.0 132.5 L 453.0 126.5 L 551.0 125.5 L 633.0 130.5 L 661.0 137.5 L 666.5 144.0 L 666.5 154.0 L 659.5 170.0 L 643.5 191.0 L 638.5 206.0 L 638.5 227.0 L 643.5 242.0 L 664.0 263.5 L 773.0 328.5 L 824.5 372.0 L 849.5 402.0 L 866.5 430.0 L 879.5 460.0 L 890.5 500.0 L 895.5 538.0 L 895.5 567.0 L 890.5 608.0 L 879.5 652.0 L 866.5 686.0 L 847.5 723.0 L 804.5 783.0 L 754.0 832.5 L 699.0 871.5 L 688.5 890.0 L 679.0 898.5 L 662.0 905.5 L 619.0 914.5 L 538.0 921.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 259.5 332.0 L 295.0 308.5 L 304.5 296.0 L 309.5 283.0 L 311.5 264.0 L 306.5 242.0 L 296.0 228.5 L 283.0 222.5 L 270.0 222.5 L 261.0 226.5 L 250.5 237.0 L 244.5 251.0 L 244.5 286.0 L 250.5 311.0 L 259.5 332.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="240" y="580" font-size="7" font-weight="bold" text-anchor="middle">&#9314; COLLECT</text>
+<text x="240" y="589" font-size="6" font-style="italic" text-anchor="middle">filtered water in pot</text>
+<line x1="282" y1="538" x2="289" y2="538" stroke="black" stroke-width="2" marker-end="url(#arrlg)"/>
+<rect x="291" y="507" width="80" height="62" fill="none" stroke="black" stroke-width="0.7"/>
+<g transform="translate(291.0,530.0) scale(0.0476) translate(-81.5,-144.5)">
+  <path d="M 375.0 790.5 L 353.0 790.5 L 315.0 782.5 L 263.0 765.5 L 208.0 743.5 L 176.0 734.5 L 162.0 734.5 L 148.0 739.5 L 96.0 776.5 L 88.0 776.5 L 82.5 772.0 L 81.5 761.0 L 88.5 749.0 L 116.5 716.0 L 134.5 678.0 L 146.0 670.5 L 158.0 672.5 L 173.0 687.5 L 191.0 695.5 L 253.0 697.5 L 283.0 701.5 L 309.0 712.5 L 334.5 731.0 L 309.0 709.5 L 295.0 702.5 L 275.0 697.5 L 244.0 677.5 L 216.0 655.5 L 188.5 625.0 L 181.5 607.0 L 180.5 578.0 L 191.5 513.0 L 206.5 459.0 L 231.5 391.0 L 256.5 338.0 L 272.5 314.0 L 294.0 292.5 L 312.0 279.5 L 333.0 269.5 L 366.0 259.5 L 393.5 235.0 L 399.5 222.0 L 406.5 180.0 L 415.5 164.0 L 424.0 155.5 L 432.0 154.5 L 436.0 148.5 L 443.0 145.5 L 471.0 144.5 L 491.0 152.5 L 520.0 182.5 L 527.5 183.0 L 530.5 199.0 L 526.5 206.0 L 532.0 203.5 L 532.5 207.0 L 526.0 214.5 L 514.5 216.0 L 506.5 239.0 L 497.5 247.0 L 496.5 274.0 L 494.0 276.5 L 484.0 274.5 L 479.5 282.0 L 469.0 288.5 L 465.5 297.0 L 458.0 302.5 L 431.0 289.5 L 415.0 299.5 L 402.5 312.0 L 424.0 297.5 L 437.5 319.0 L 441.5 336.0 L 439.5 374.0 L 452.5 443.0 L 478.0 454.5 L 549.0 494.5 L 575.5 525.0 L 584.5 555.0 L 580.0 558.5 L 577.0 557.5 L 560.0 534.5 L 536.0 522.5 L 534.5 539.0 L 526.5 557.0 L 493.5 606.0 L 496.0 618.5 L 491.0 619.5 L 484.5 614.0 L 465.5 587.0 L 484.5 618.0 L 433.5 690.0 L 424.5 707.0 L 424.5 714.0 L 432.0 724.5 L 441.0 729.5 L 468.0 740.5 L 496.0 746.5 L 501.5 752.0 L 501.5 757.0 L 494.0 763.5 L 482.0 766.5 L 460.0 766.5 L 432.0 762.5 L 406.5 763.0 L 407.5 744.0 L 404.5 730.0 L 386.5 691.0 L 410.5 636.0 L 400.5 639.0 L 382.5 690.0 L 400.5 727.0 L 404.5 744.0 L 404.5 762.0 L 400.5 773.0 L 390.0 784.5 L 375.0 790.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 428.5 238.0 L 422.5 228.0 L 423.5 215.0 L 430.0 206.5 L 436.0 205.5 L 441.5 211.0 L 439.0 222.5 L 443.5 217.0 L 443.5 209.0 L 438.0 203.5 L 427.0 205.5 L 420.5 216.0 L 421.5 233.0 L 428.5 238.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 487.5 596.0 L 476.5 571.0 L 469.0 561.5 L 424.0 536.5 L 385.5 503.0 L 440.5 492.0 L 420.0 485.5 L 410.5 478.0 L 393.0 428.5 L 382.5 439.0 L 364.5 481.0 L 355.5 473.0 L 359.5 389.0 L 371.5 368.0 L 377.5 340.0 L 373.5 313.0 L 362.0 295.5 L 372.5 318.0 L 374.5 344.0 L 368.5 368.0 L 356.5 388.0 L 353.5 476.0 L 418.0 535.5 L 466.0 562.5 L 472.5 569.0 L 487.5 596.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 405.5 567.0 L 343.0 534.5 L 322.0 519.5 L 304.5 500.0 L 301.5 494.0 L 296.5 452.0 L 292.0 367.5 L 292.5 437.0 L 297.5 486.0 L 301.5 500.0 L 314.0 515.5 L 333.0 531.5 L 379.0 556.5 L 405.5 567.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 677.0 602.5 L 652.0 595.5 L 642.0 589.5 L 641.5 586.0 L 646.0 583.5 L 662.0 583.5 L 677.0 587.5 L 686.0 581.5 L 684.5 590.0 L 677.0 602.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 764.0 594.5 L 755.0 582.5 L 766.0 582.5 L 772.5 586.0 L 764.0 594.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 774.0 606.5 L 769.5 605.0 L 782.0 596.5 L 787.0 589.5 L 795.5 594.0 L 791.0 599.5 L 774.0 606.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 460.5 637.0 L 463.5 633.0 L 463.5 614.0 L 456.0 591.5 L 461.5 616.0 L 461.5 632.0 L 459.0 635.5 L 454.5 633.0 L 449.0 607.5 L 448.5 613.0 L 452.5 633.0 L 455.0 636.5 L 460.5 637.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 644.0 653.5 L 636.0 650.5 L 626.5 641.0 L 626.5 638.0 L 640.5 625.0 L 641.5 615.0 L 635.0 593.5 L 653.0 603.5 L 673.5 608.0 L 644.0 653.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 438.5 642.0 L 443.5 628.0 L 442.0 602.5 L 440.5 632.0 L 438.5 639.0 L 433.5 642.0 L 438.5 642.0 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 770.0 660.5 L 766.5 658.0 L 772.5 640.0 L 771.5 614.0 L 795.0 605.5 L 791.5 628.0 L 804.5 640.0 L 804.5 643.0 L 794.0 652.5 L 770.0 660.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 593.0 880.5 L 577.0 875.5 L 557.5 861.0 L 553.5 853.0 L 553.5 846.0 L 559.5 833.0 L 574.0 822.5 L 658.5 786.0 L 644.0 778.5 L 625.5 764.0 L 610.5 745.0 L 601.5 724.0 L 598.5 709.0 L 599.5 682.0 L 606.5 660.0 L 619.0 640.5 L 628.0 652.5 L 640.5 659.0 L 628.5 684.0 L 624.5 702.0 L 624.5 726.0 L 628.5 744.0 L 637.5 762.0 L 646.5 773.0 L 665.0 788.5 L 686.0 796.5 L 686.5 803.0 L 676.5 819.0 L 654.0 836.5 L 629.0 863.5 L 604.0 877.5 L 593.0 880.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 752.0 794.5 L 771.5 773.0 L 779.5 753.0 L 777.5 734.0 L 758.5 712.0 L 755.5 705.0 L 757.5 683.0 L 765.0 667.5 L 778.0 665.5 L 798.0 657.5 L 812.0 643.5 L 826.5 666.0 L 831.5 684.0 L 832.5 706.0 L 826.5 731.0 L 815.5 752.0 L 800.0 769.5 L 781.0 783.5 L 752.0 794.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 528.0 838.5 L 515.0 837.5 L 505.5 826.0 L 503.5 798.0 L 514.0 785.5 L 546.0 779.5 L 568.0 758.5 L 576.0 754.5 L 590.0 754.5 L 622.0 764.5 L 637.5 776.0 L 639.5 785.0 L 627.0 798.5 L 617.0 803.5 L 592.0 808.5 L 569.0 822.5 L 528.0 838.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 902.0 843.5 L 874.0 836.5 L 853.0 826.5 L 829.0 809.5 L 804.0 802.5 L 794.5 792.0 L 793.5 777.0 L 808.0 765.5 L 852.0 755.5 L 860.0 758.5 L 877.0 779.5 L 910.0 787.5 L 919.5 797.0 L 921.5 810.0 L 915.5 833.0 L 909.0 840.5 L 902.0 843.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 802.0 900.5 L 789.0 900.5 L 777.0 894.5 L 746.5 855.0 L 741.5 842.0 L 744.5 822.0 L 740.5 810.0 L 741.5 803.0 L 746.0 798.5 L 760.0 797.5 L 771.0 791.5 L 780.0 793.5 L 809.0 820.5 L 844.5 848.0 L 848.5 857.0 L 848.5 869.0 L 845.5 876.0 L 828.0 889.5 L 802.0 900.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 698.0 879.5 L 674.0 878.5 L 661.0 874.5 L 653.5 866.0 L 652.5 854.0 L 656.5 845.0 L 691.0 815.5 L 708.0 806.5 L 722.0 806.5 L 730.0 811.5 L 734.5 819.0 L 738.5 850.0 L 729.0 863.5 L 713.0 869.5 L 698.0 879.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<g transform="translate(338.7,521.0) scale(0.0327) translate(-141.5,-125.5)">
+  <path d="M 538.0 921.5 L 476.0 920.5 L 417.0 914.5 L 375.0 905.5 L 355.0 896.5 L 347.5 889.0 L 339.0 872.5 L 302.0 847.5 L 266.0 817.5 L 241.5 793.0 L 211.5 756.0 L 188.5 721.0 L 170.5 686.0 L 156.5 649.0 L 146.5 609.0 L 142.5 581.0 L 141.5 542.0 L 150.5 482.0 L 172.5 426.0 L 188.5 400.0 L 210.5 372.0 L 209.5 341.0 L 200.5 284.0 L 200.5 251.0 L 211.5 217.0 L 233.0 191.5 L 253.0 180.5 L 269.0 176.5 L 286.0 176.5 L 307.0 182.5 L 324.0 193.5 L 343.5 217.0 L 351.5 237.0 L 352.5 274.0 L 355.0 274.5 L 377.0 260.5 L 388.5 249.0 L 397.5 229.0 L 398.5 209.0 L 395.5 196.0 L 374.5 166.0 L 369.5 152.0 L 369.5 146.0 L 377.0 136.5 L 390.0 132.5 L 453.0 126.5 L 551.0 125.5 L 633.0 130.5 L 661.0 137.5 L 666.5 144.0 L 666.5 154.0 L 659.5 170.0 L 643.5 191.0 L 638.5 206.0 L 638.5 227.0 L 643.5 242.0 L 664.0 263.5 L 773.0 328.5 L 824.5 372.0 L 849.5 402.0 L 866.5 430.0 L 879.5 460.0 L 890.5 500.0 L 895.5 538.0 L 895.5 567.0 L 890.5 608.0 L 879.5 652.0 L 866.5 686.0 L 847.5 723.0 L 804.5 783.0 L 754.0 832.5 L 699.0 871.5 L 688.5 890.0 L 679.0 898.5 L 662.0 905.5 L 619.0 914.5 L 538.0 921.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 259.5 332.0 L 295.0 308.5 L 304.5 296.0 L 309.5 283.0 L 311.5 264.0 L 306.5 242.0 L 296.0 228.5 L 283.0 222.5 L 270.0 222.5 L 261.0 226.5 L 250.5 237.0 L 244.5 251.0 L 244.5 286.0 L 250.5 311.0 L 259.5 332.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<polygon points="334.0,567.0 336.8,560.0 339.0,554.9 341.0,559.7 342.0,545.0 343.2,559.7 345.4,551.2 347.4,560.4 350.0,567.0" fill="black"/>
+<polygon points="352.0,567.0 354.8,560.0 357.0,554.9 359.0,559.7 360.0,545.0 361.2,559.7 363.4,551.2 365.4,560.4 368.0,567.0" fill="black"/>
+<circle cx="347" cy="525" r="1.8" fill="none" stroke="black" stroke-width="0.9"/>
+<circle cx="355" cy="522" r="1.8" fill="none" stroke="black" stroke-width="0.9"/>
+<circle cx="351" cy="519" r="1.8" fill="none" stroke="black" stroke-width="0.9"/>
+<text x="331" y="580" font-size="7" font-weight="bold" text-anchor="middle">&#9315; BOIL</text>
+<text x="331" y="589" font-size="6" font-style="italic" text-anchor="middle">before drinking</text>
+<line x1="373" y1="538" x2="380" y2="538" stroke="black" stroke-width="2" marker-end="url(#arrlg)"/>
+<rect x="382" y="507" width="80" height="62" fill="none" stroke="black" stroke-width="0.7"/>
+<g transform="translate(405.8,510.0) scale(0.0754) translate(-178.5,-186.5)">
+  <path d="M 560.0 929.5 L 193.0 928.5 L 185.5 916.0 L 178.5 892.0 L 180.5 867.0 L 195.0 847.5 L 212.0 838.5 L 240.0 833.5 L 430.5 836.0 L 426.5 688.0 L 436.5 580.0 L 402.0 570.5 L 339.0 544.5 L 253.0 505.5 L 244.5 496.0 L 239.5 461.0 L 239.5 405.0 L 251.5 311.0 L 258.5 295.0 L 240.5 280.0 L 232.5 268.0 L 227.5 254.0 L 226.5 238.0 L 229.5 223.0 L 237.5 208.0 L 248.0 197.5 L 260.0 190.5 L 275.0 186.5 L 288.0 186.5 L 309.0 192.5 L 331.0 207.5 L 356.5 237.0 L 353.5 262.0 L 343.5 283.0 L 332.0 294.5 L 310.0 304.5 L 286.0 320.5 L 280.5 327.0 L 281.5 359.0 L 296.5 458.0 L 298.5 465.0 L 306.0 470.5 L 365.0 480.5 L 421.0 500.5 L 453.0 508.5 L 460.5 493.0 L 460.5 476.0 L 440.5 423.0 L 424.5 393.0 L 379.5 355.0 L 378.5 341.0 L 393.5 329.0 L 394.5 321.0 L 401.0 319.5 L 402.5 314.0 L 408.0 312.5 L 412.5 306.0 L 409.5 300.0 L 411.0 291.5 L 442.0 289.5 L 457.0 273.5 L 485.0 264.5 L 505.0 266.5 L 525.0 279.5 L 545.5 303.0 L 556.5 323.0 L 559.5 344.0 L 555.5 360.0 L 543.5 379.0 L 520.5 402.0 L 518.5 421.0 L 527.5 437.0 L 564.5 478.0 L 587.5 511.0 L 602.5 545.0 L 609.5 582.0 L 608.5 618.0 L 603.5 647.0 L 577.5 731.0 L 569.5 771.0 L 569.5 803.0 L 579.5 873.0 L 578.5 900.0 L 572.5 917.0 L 560.0 929.5 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="422" y="580" font-size="7" font-weight="bold" text-anchor="middle">&#9316; DRINK</text>
+<text x="422" y="589" font-size="6" font-style="italic" text-anchor="middle">only after boiling</text>
+<line x1="18" y1="591" x2="462" y2="591" stroke="black" stroke-width="0.75"/>
+<text x="240" y="602" font-size="6.5" font-weight="bold" text-anchor="middle" letter-spacing="2">&#8212; MATERIAL SYMBOLS &#8212;</text>
+<polygon points="24,610 34,607 38,615 34,622 25,623 23,616" fill="black"/>
+<polygon points="37,608 48,606 50,617 45,623 38,621 36,614" fill="black"/>
+<text x="54" y="612" font-size="7.5" font-weight="bold">&#9312; CHARCOAL</text>
+<text x="54" y="621" font-size="6" font-style="italic">angular &#183; burnt wood &#183; top layer</text>
+<circle cx="249" cy="615" r="1.5" fill="black"/>
+<circle cx="253" cy="612" r="1.5" fill="black"/>
+<circle cx="258" cy="614" r="1.5" fill="black"/>
+<circle cx="263" cy="613" r="1.5" fill="black"/>
+<circle cx="267" cy="615" r="1.5" fill="black"/>
+<circle cx="251" cy="619" r="1.5" fill="black"/>
+<circle cx="258" cy="618" r="1.5" fill="black"/>
+<circle cx="265" cy="619" r="1.5" fill="black"/>
+<circle cx="255" cy="609" r="1.5" fill="black"/>
+<circle cx="262" cy="610" r="1.5" fill="black"/>
+<text x="272" y="612" font-size="7.5" font-weight="bold">&#9313; SAND</text>
+<text x="272" y="621" font-size="6" font-style="italic">fine grains &#183; riverbank &#183; middle layer</text>
+<ellipse cx="28" cy="631" rx="7" ry="4" fill="none" stroke="black" stroke-width="1.4"/>
+<ellipse cx="41" cy="632" rx="7" ry="4.5" fill="none" stroke="black" stroke-width="1.4"/>
+<ellipse cx="54" cy="630" rx="5.5" ry="3.5" fill="none" stroke="black" stroke-width="1.4"/>
+<text x="54" y="630" font-size="7.5" font-weight="bold">&#9314; GRAVEL</text>
+<text x="54" y="639" font-size="6" font-style="italic">rounded stones &#183; streambed &#183; bottom layer</text>
+<g transform="translate(248.5,620.0) scale(0.0251) translate(-141.5,-125.5)">
+  <path d="M 538.0 921.5 L 476.0 920.5 L 417.0 914.5 L 375.0 905.5 L 355.0 896.5 L 347.5 889.0 L 339.0 872.5 L 302.0 847.5 L 266.0 817.5 L 241.5 793.0 L 211.5 756.0 L 188.5 721.0 L 170.5 686.0 L 156.5 649.0 L 146.5 609.0 L 142.5 581.0 L 141.5 542.0 L 150.5 482.0 L 172.5 426.0 L 188.5 400.0 L 210.5 372.0 L 209.5 341.0 L 200.5 284.0 L 200.5 251.0 L 211.5 217.0 L 233.0 191.5 L 253.0 180.5 L 269.0 176.5 L 286.0 176.5 L 307.0 182.5 L 324.0 193.5 L 343.5 217.0 L 351.5 237.0 L 352.5 274.0 L 355.0 274.5 L 377.0 260.5 L 388.5 249.0 L 397.5 229.0 L 398.5 209.0 L 395.5 196.0 L 374.5 166.0 L 369.5 152.0 L 369.5 146.0 L 377.0 136.5 L 390.0 132.5 L 453.0 126.5 L 551.0 125.5 L 633.0 130.5 L 661.0 137.5 L 666.5 144.0 L 666.5 154.0 L 659.5 170.0 L 643.5 191.0 L 638.5 206.0 L 638.5 227.0 L 643.5 242.0 L 664.0 263.5 L 773.0 328.5 L 824.5 372.0 L 849.5 402.0 L 866.5 430.0 L 879.5 460.0 L 890.5 500.0 L 895.5 538.0 L 895.5 567.0 L 890.5 608.0 L 879.5 652.0 L 866.5 686.0 L 847.5 723.0 L 804.5 783.0 L 754.0 832.5 L 699.0 871.5 L 688.5 890.0 L 679.0 898.5 L 662.0 905.5 L 619.0 914.5 L 538.0 921.5 Z" fill="black" fill-rule="nonzero"/>
+  <path d="M 259.5 332.0 L 295.0 308.5 L 304.5 296.0 L 309.5 283.0 L 311.5 264.0 L 306.5 242.0 L 296.0 228.5 L 283.0 222.5 L 270.0 222.5 L 261.0 226.5 L 250.5 237.0 L 244.5 251.0 L 244.5 286.0 L 250.5 311.0 L 259.5 332.0 Z" fill="black" fill-rule="nonzero"/>
+</g>
+<text x="272" y="630" font-size="7.5" font-weight="bold">VESSEL</text>
+<text x="272" y="639" font-size="6" font-style="italic">clay pot &#183; holds water &#183; survives fire</text>
+<line x1="6" y1="644" x2="474" y2="644" stroke="black" stroke-width="0.75"/>
+<text x="240" y="653" font-size="6" text-anchor="middle" letter-spacing="0.8">PLATE 02 V8 &#183; CC BY-SA 4.0 &#183; REMEMBER FORWARD &#183; rememberforward.org &#183; DOI 10.5281/zenodo.19545922</text>
+<line x1="6" y1="659" x2="474" y2="659" stroke="black" stroke-width="0.75"/>
+<text x="240" y="664" font-size="7.5" font-weight="bold" font-style="italic" text-anchor="middle">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="674" font-size="7" font-style="italic" text-anchor="middle">BUY IT &#183; BUILD IT &#183; BURY IT &#183; FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

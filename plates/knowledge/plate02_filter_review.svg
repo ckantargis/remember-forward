@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="480" height="680" fill="white"/>
+
+<defs>
+  <!-- Clip regions for each material layer (trapezoid inner walls, 4px thick)
+       Outer trapezoid: top (150,85)-(330,85), bottom (172,340)-(308,340)
+       left_inner(y)  = 154 + (y-89)/251 * 22
+       right_inner(y) = 326 - (y-89)/251 * 22
+       At y=89:  x 154–326
+       At y=150: x 159–321
+       At y=215: x 165–315
+       At y=336: x 175–305
+  -->
+  <clipPath id="coal-clip">
+    <polygon points="154,89 326,89 321,150 159,150"/>
+  </clipPath>
+  <clipPath id="sand-clip">
+    <polygon points="159,150 321,150 315,215 165,215"/>
+  </clipPath>
+  <clipPath id="grav-clip">
+    <polygon points="165,215 315,215 305,336 175,336"/>
+  </clipPath>
+
+  <!-- Charcoal: tiling angular black chunks (broken burnt wood) -->
+  <pattern id="coal-pat" x="0" y="0" width="30" height="24" patternUnits="userSpaceOnUse">
+    <rect width="30" height="24" fill="white"/>
+    <!-- chunk 1: left side, irregular hex -->
+    <polygon points="1,4 14,1 18,9 14,18 2,19 0,10" fill="black"/>
+    <!-- chunk 2: right side, angular shard -->
+    <polygon points="17,2 29,0 30,12 25,20 17,17 15,9" fill="black"/>
+  </pattern>
+
+  <!-- Sand: dense stipple dots -->
+  <pattern id="sand-pat" x="0" y="0" width="8" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="4" cy="3.5" r="1.9" fill="#111"/>
+    <!-- stagger: half-offset row simulated by second dot near edges -->
+    <circle cx="0" cy="7" r="1.9" fill="#111"/>
+    <circle cx="8" cy="7" r="1.9" fill="#111"/>
+  </pattern>
+
+  <!-- Gravel: rounded river stones of varied sizes -->
+  <pattern id="grav-pat" x="0" y="0" width="38" height="30" patternUnits="userSpaceOnUse">
+    <rect width="38" height="30" fill="white"/>
+    <ellipse cx="9"  cy="9"  rx="7.5" ry="5.5" fill="none" stroke="black" stroke-width="1.4"/>
+    <ellipse cx="27" cy="8"  rx="8"   ry="5"   fill="none" stroke="black" stroke-width="1.4"/>
+    <ellipse cx="6"  cy="22" rx="4.5" ry="3.5" fill="none" stroke="black" stroke-width="1.4"/>
+    <ellipse cx="24" cy="22" rx="9"   ry="5.5" fill="none" stroke="black" stroke-width="1.4"/>
+    <ellipse cx="36" cy="20" rx="3.5" ry="3"   fill="none" stroke="black" stroke-width="1.2"/>
+  </pattern>
+
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5"
+          markerWidth="5" markerHeight="5" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+  <marker id="arrsm" viewBox="0 0 10 10" refX="8" refY="5"
+          markerWidth="4" markerHeight="4" orient="auto">
+    <path d="M 1 2 L 8 5 L 1 8" fill="none" stroke="black" stroke-width="1.5"/>
+  </marker>
+</defs>
+
+<!-- PLATE BORDERS -->
+<rect x="6"  y="6"  width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>
+
+<!-- HEADER -->
+<text x="240" y="33" font-family="Georgia,serif" font-size="11" font-weight="bold"
+      text-anchor="middle" fill="black" letter-spacing="2">WATER FILTER — MATERIAL CROSS-SECTION</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="black" stroke-width="1"/>
+<text x="240" y="51" font-family="Georgia,serif" font-size="7" text-anchor="middle"
+      fill="black" letter-spacing="1">DESIGN REVIEW · LABELS FOR REVIEW ONLY · FINAL PLATE USES SYMBOLS ONLY</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="black" stroke-width="0.5"/>
+
+<!-- ── DIRTY WATER ARROWS IN ──────────────────────────────────────── -->
+<text x="240" y="68" font-family="Georgia,serif" font-size="8" text-anchor="middle"
+      fill="black" font-style="italic">dirty water ↓</text>
+<line x1="210" y1="70" x2="210" y2="79" stroke="black" stroke-width="1.4" marker-end="url(#arr)"/>
+<line x1="240" y1="70" x2="240" y2="79" stroke="black" stroke-width="1.4" marker-end="url(#arr)"/>
+<line x1="270" y1="70" x2="270" y2="79" stroke="black" stroke-width="1.4" marker-end="url(#arr)"/>
+
+<!-- ── CONTAINER OUTLINE ───────────────────────────────────────────── -->
+<!-- Outer trapezoid walls -->
+<polygon points="150,85 330,85 308,340 172,340"
+         fill="none" stroke="black" stroke-width="3.5"/>
+<!-- Open top rim: ellipse gives 3-D feel -->
+<ellipse cx="240" cy="85" rx="90" ry="7"
+         fill="white" stroke="black" stroke-width="2.2"/>
+<!-- Small drain hole at bottom centre -->
+<line x1="226" y1="340" x2="218" y2="340" stroke="black" stroke-width="3.5"/>
+<line x1="262" y1="340" x2="254" y2="340" stroke="black" stroke-width="3.5"/>
+<!-- gap 218–226 and 254–262 = two drain slots each ~8px -->
+
+<!-- ── MATERIAL FILL LAYERS ───────────────────────────────────────── -->
+<rect x="0" y="0" width="480" height="680"
+      fill="url(#coal-pat)" clip-path="url(#coal-clip)"/>
+<rect x="0" y="0" width="480" height="680"
+      fill="url(#sand-pat)" clip-path="url(#sand-clip)"/>
+<rect x="0" y="0" width="480" height="680"
+      fill="url(#grav-pat)" clip-path="url(#grav-clip)"/>
+
+<!-- ── LAYER DIVIDER LINES ────────────────────────────────────────── -->
+<line x1="159" y1="150" x2="321" y2="150" stroke="black" stroke-width="1.8"/>
+<line x1="165" y1="215" x2="315" y2="215" stroke="black" stroke-width="1.8"/>
+
+<!-- ── MATERIAL LABELS (review only, removed in final plate) ─────── -->
+<!-- Charcoal -->
+<line x1="145" y1="119" x2="158" y2="119"
+      stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="143" y="122" font-family="Georgia,serif" font-size="8.5"
+      text-anchor="end" fill="black" font-weight="bold">CHARCOAL</text>
+<text x="143" y="132" font-family="Georgia,serif" font-size="7"
+      text-anchor="end" fill="black" font-style="italic">angular · black</text>
+
+<!-- Sand -->
+<line x1="145" y1="183" x2="164" y2="183"
+      stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="143" y="186" font-family="Georgia,serif" font-size="8.5"
+      text-anchor="end" fill="black" font-weight="bold">SAND</text>
+<text x="143" y="196" font-family="Georgia,serif" font-size="7"
+      text-anchor="end" fill="black" font-style="italic">fine · dots</text>
+
+<!-- Gravel -->
+<line x1="145" y1="276" x2="170" y2="276"
+      stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+<text x="143" y="279" font-family="Georgia,serif" font-size="8.5"
+      text-anchor="end" fill="black" font-weight="bold">GRAVEL</text>
+<text x="143" y="289" font-family="Georgia,serif" font-size="7"
+      text-anchor="end" fill="black" font-style="italic">rounded · ovals</text>
+
+<!-- Flow direction hint: small arrows on right side of container -->
+<line x1="340" y1="100" x2="340" y2="118" stroke="black" stroke-width="0.9" marker-end="url(#arrsm)"/>
+<line x1="340" y1="165" x2="340" y2="183" stroke="black" stroke-width="0.9" marker-end="url(#arrsm)"/>
+<line x1="340" y1="228" x2="340" y2="246" stroke="black" stroke-width="0.9" marker-end="url(#arrsm)"/>
+<text x="350" y="180" font-family="Georgia,serif" font-size="7" fill="black"
+      font-style="italic">flow ↓</text>
+
+<!-- ── DRAIN DRIPS ─────────────────────────────────────────────────── -->
+<line x1="222" y1="340" x2="222" y2="350" stroke="black" stroke-width="1.3"/>
+<line x1="240" y1="340" x2="240" y2="355" stroke="black" stroke-width="1.3"/>
+<line x1="258" y1="340" x2="258" y2="350" stroke="black" stroke-width="1.3"/>
+<!-- teardrop drips -->
+<path d="M 222 353 Q 218.5 362 222 365 Q 225.5 362 222 353" fill="none" stroke="black" stroke-width="1.3"/>
+<path d="M 240 358 Q 236 368 240 372 Q 244 368 240 358" fill="none" stroke="black" stroke-width="1.3"/>
+<path d="M 258 353 Q 254.5 362 258 365 Q 261.5 362 258 353" fill="none" stroke="black" stroke-width="1.3"/>
+<text x="240" y="385" font-family="Georgia,serif" font-size="8"
+      text-anchor="middle" fill="black" font-style="italic">filtered — then boil</text>
+
+<!-- ══ MATERIAL KEY (SYMBOL LEGEND) ═══════════════════════════════════════ -->
+<line x1="18" y1="400" x2="462" y2="400" stroke="black" stroke-width="0.75"/>
+<text x="240" y="416" font-family="Georgia,serif" font-size="9" font-weight="bold"
+      text-anchor="middle" fill="black" letter-spacing="2">— MATERIAL SYMBOLS —</text>
+
+<!-- Charcoal symbol sample -->
+<polygon points="34,423 50,419 56,432 49,443 33,444" fill="black"/>
+<polygon points="58,421 76,418 80,432 73,442 57,441" fill="black"/>
+<text x="95" y="430" font-family="Georgia,serif" font-size="8.5" fill="black" font-weight="bold">CHARCOAL</text>
+<text x="95" y="441" font-family="Georgia,serif" font-size="7.5" fill="black" font-style="italic">angular · jagged · solid black · from burnt wood</text>
+
+<!-- Sand symbol sample -->
+<circle cx="34" cy="454" r="2.2" fill="#111"/>
+<circle cx="42" cy="450" r="2.2" fill="#111"/>
+<circle cx="50" cy="454" r="2.2" fill="#111"/>
+<circle cx="58" cy="450" r="2.2" fill="#111"/>
+<circle cx="66" cy="454" r="2.2" fill="#111"/>
+<circle cx="74" cy="450" r="2.2" fill="#111"/>
+<circle cx="82" cy="454" r="2.2" fill="#111"/>
+<text x="95" y="454" font-family="Georgia,serif" font-size="8.5" fill="black" font-weight="bold">SAND</text>
+<text x="95" y="465" font-family="Georgia,serif" font-size="7.5" fill="black" font-style="italic">tiny uniform dots · fine-grained · riverbank or beach</text>
+
+<!-- Gravel symbol sample -->
+<ellipse cx="40"  cy="478" rx="9"   ry="6"   fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="61"  cy="477" rx="8"   ry="5.5" fill="none" stroke="black" stroke-width="1.5"/>
+<ellipse cx="78"  cy="478" rx="6.5" ry="4.5" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="95" y="478" font-family="Georgia,serif" font-size="8.5" fill="black" font-weight="bold">GRAVEL</text>
+<text x="95" y="489" font-family="Georgia,serif" font-size="7.5" fill="black" font-style="italic">rounded ovals · smooth · from streambed or riverbed</text>
+
+<!-- ══ WHERE TO COLLECT — PICTOGRAM PANELS ════════════════════════════════ -->
+<line x1="18" y1="500" x2="462" y2="500" stroke="black" stroke-width="0.5"/>
+<text x="240" y="513" font-family="Georgia,serif" font-size="9" font-weight="bold"
+      text-anchor="middle" fill="black" letter-spacing="2">— WHERE TO COLLECT —</text>
+
+<!-- Left panel border: GRAVEL + SAND -->
+<rect x="22" y="520" width="210" height="82" fill="none" stroke="black" stroke-width="0.6"/>
+<!-- Right panel border: CHARCOAL -->
+<rect x="248" y="520" width="210" height="82" fill="none" stroke="black" stroke-width="0.6"/>
+
+<!-- ── FIGURE: Person crouching at streambed, scooping gravel ──────────── -->
+
+<!-- Head (bowed slightly forward) -->
+<circle cx="100" cy="535" r="7" fill="none" stroke="black" stroke-width="1.5"/>
+
+<!-- Neck -->
+<line x1="100" y1="542" x2="100" y2="546" stroke="black" stroke-width="1.4"/>
+
+<!-- Torso: back bent roughly horizontal, arcing forward toward hands -->
+<path d="M 100 546 Q 100 552 118 556 Q 132 559 140 556"
+      fill="none" stroke="black" stroke-width="1.8"/>
+
+<!-- Right arm: shoulder down to water -->
+<path d="M 122 555 L 152 571" fill="none" stroke="black" stroke-width="1.5"/>
+<!-- Left arm: slightly left, parallel -->
+<path d="M 127 557 L 144 575" fill="none" stroke="black" stroke-width="1.5"/>
+
+<!-- Hands (solid) -->
+<circle cx="153" cy="572" r="2.5" fill="black"/>
+<circle cx="145" cy="576" r="2.5" fill="black"/>
+
+<!-- Right leg: hip back-down, knee, lower leg, foot -->
+<path d="M 98 550 L 79 566 L 74 582" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 74 582 Q 66 585 61 586" fill="none" stroke="black" stroke-width="1.4"/>
+
+<!-- Left leg: hip, knee, lower leg, foot -->
+<path d="M 100 550 L 90 568 L 87 582" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 87 582 Q 79 585 75 586" fill="none" stroke="black" stroke-width="1.4"/>
+
+<!-- Bucket/container held near hands (small trapezoid) -->
+<path d="M 156 564 L 158 579 L 175 579 L 177 564 Z"
+      fill="white" stroke="black" stroke-width="1.2"/>
+<!-- Stone inside bucket -->
+<ellipse cx="166" cy="574" rx="5" ry="3" fill="none" stroke="black" stroke-width="1.0"/>
+
+<!-- Arrow: hand toward bucket (collecting action) -->
+<line x1="145" y1="572" x2="154" y2="569"
+      stroke="black" stroke-width="0.8" marker-end="url(#arrsm)"/>
+
+<!-- Water / ground surface: wavy line -->
+<path d="M 28 583 Q 45 580 62 583 Q 79 586 96 583 Q 113 580 130 583 Q 147 586 164 583 Q 181 580 198 583 Q 212 585 228 583"
+      fill="none" stroke="black" stroke-width="1.0"/>
+
+<!-- Rocks at streambed near hands -->
+<ellipse cx="150" cy="589" rx="7"   ry="4.5" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="137" cy="591" rx="5.5" ry="3.5" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="164" cy="590" rx="5"   ry="3.5" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="124" cy="591" rx="4"   ry="3"   fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="176" cy="588" rx="4.5" ry="3"   fill="none" stroke="black" stroke-width="1.0"/>
+
+<!-- Panel labels -->
+<text x="127" y="611" font-family="Georgia,serif" font-size="7.5"
+      text-anchor="middle" fill="black" font-weight="bold">GRAVEL + SAND</text>
+
+<!-- ── RIGHT PANEL: CHARCOAL (pictogram pending) ─────────────────────── -->
+<text x="353" y="548" font-family="Georgia,serif" font-size="8"
+      text-anchor="middle" fill="black">burn hardwood</text>
+<line x1="300" y1="553" x2="406" y2="553" stroke="black" stroke-width="0.3"/>
+<text x="353" y="563" font-family="Georgia,serif" font-size="8"
+      text-anchor="middle" fill="black">let fully cool</text>
+<line x1="300" y1="568" x2="406" y2="568" stroke="black" stroke-width="0.3"/>
+<text x="353" y="578" font-family="Georgia,serif" font-size="8"
+      text-anchor="middle" fill="black">collect black chunks</text>
+<text x="353" y="596" font-family="Georgia,serif" font-size="6.5"
+      text-anchor="middle" fill="black" font-style="italic">[pictogram pending]</text>
+<text x="353" y="611" font-family="Georgia,serif" font-size="7.5"
+      text-anchor="middle" fill="black" font-weight="bold">CHARCOAL</text>
+
+<!-- ── FOOTER ──────────────────────────────────────────────────────────── -->
+<line x1="6"   y1="616" x2="474" y2="616" stroke="black" stroke-width="0.75"/>
+<text x="240" y="626" font-family="Georgia,serif" font-size="6.5" text-anchor="middle"
+      fill="black" letter-spacing="0.8">CC BY-SA 4.0 · DESIGN REVIEW · REMEMBER FORWARD · rememberforward.org</text>
+<line x1="6"   y1="630" x2="474" y2="630" stroke="black" stroke-width="0.75"/>
+<text x="240" y="649" font-family="Georgia,serif" font-size="11" font-weight="bold"
+      text-anchor="middle" fill="black" font-style="italic">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="664" font-family="Georgia,serif" font-size="8.5" text-anchor="middle"
+      fill="black">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

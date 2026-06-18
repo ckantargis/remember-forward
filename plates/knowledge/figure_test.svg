@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="480" height="680" fill="white"/>
+<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>
+<text x="240" y="33" font-family="Georgia,serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="middle" fill="black" letter-spacing="2">PICTOGRAM FIGURE TEST — WATER FILTER SEQUENCE</text>
+<line x1="18" y1="39" x2="462" y2="39" stroke="black" stroke-width="1"/>
+<text x="240" y="51" font-family="Georgia,serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="black" letter-spacing="1">SILHOUETTE SYSTEM · ISOTYPE-STYLE · DESIGN REVIEW</text>
+<line x1="18" y1="56" x2="462" y2="56" stroke="black" stroke-width="0.5"/>
+<text x="240" y="69" font-family="Georgia,serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="black" letter-spacing="2">— SYMBOL VOCABULARY —</text>
+<line x1="18" y1="74" x2="462" y2="74" stroke="black" stroke-width="0.3"/>
+<path d="M 22 96 Q 29 93 37 96 Q 44 99 52 96 Q 59 93 67 96 Q 74 99 82 96" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 22 102 Q 29 99 37 102 Q 44 105 52 102 Q 59 99 67 102 Q 74 105 82 102" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="52" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">CLEAN WATER</text>
+<path d="M 98 96 Q 105 93 113 96 Q 120 99 128 96 Q 135 93 143 96 Q 150 99 158 96" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M 98 102 Q 105 99 113 102 Q 120 105 128 102 Q 135 99 143 102 Q 150 105 158 102" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="104.0" cy="94.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="114.0" cy="98.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="124.0" cy="93.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="135.0" cy="99.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="146.0" cy="95.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="107.0" cy="102.0" r="1.8" fill="black" stroke="none"/>
+<circle cx="130.0" cy="104.0" r="1.8" fill="black" stroke="none"/>
+<text x="128" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">DIRTY WATER</text>
+<path d="M 192 109 Q 185 101 188 95 Q 186 101 192 91 Q 195 99 199 93 Q 197 103 201 97 Q 200 105 197 109 Z" fill="black"/>
+<text x="192" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">FIRE / HEAT</text>
+<ellipse cx="220" cy="100" rx="10" ry="6" fill="black"/>
+<ellipse cx="234" cy="96" rx="8" ry="5.5" fill="black"/>
+<ellipse cx="246" cy="101" rx="9" ry="6" fill="black"/>
+<ellipse cx="258" cy="97" rx="7" ry="5" fill="black"/>
+<text x="239" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">CHARCOAL</text>
+<circle cx="278.0" cy="97.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="286.0" cy="101.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="294.0" cy="96.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="302.0" cy="102.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="310.0" cy="98.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="318.0" cy="101.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="279.0" cy="105.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="295.0" cy="104.0" r="2.2" fill="black" stroke="none"/>
+<circle cx="311.0" cy="105.0" r="2.2" fill="black" stroke="none"/>
+<text x="298" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">SAND</text>
+<ellipse cx="332" cy="100" rx="10" ry="6.5" fill="none" stroke="black" stroke-width="1.8"/>
+<ellipse cx="348" cy="98" rx="9" ry="6" fill="none" stroke="black" stroke-width="1.8"/>
+<ellipse cx="362" cy="101" rx="8" ry="5.5" fill="none" stroke="black" stroke-width="1.8"/>
+<ellipse cx="374" cy="99" rx="7" ry="5" fill="none" stroke="black" stroke-width="1.8"/>
+<text x="353" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">GRAVEL</text>
+<path d="M 400 104 L 398 118 Q 418 126 438 118 L 436 104" fill="none" stroke="black" stroke-width="1.8"/>
+<line x1="400.0" y1="104.0" x2="436.0" y2="104.0" stroke="black" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+<circle cx="410" cy="114" r="2.8" fill="none" stroke="black" stroke-width="1.2"/>
+<circle cx="418" cy="112" r="2.8" fill="none" stroke="black" stroke-width="1.2"/>
+<circle cx="426" cy="114" r="2.8" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 412 102 Q 415 97 412 92 Q 409 87 412 82" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 418 102 Q 421 97 418 92 Q 415 87 418 82" fill="none" stroke="black" stroke-width="1.2"/>
+<path d="M 424 102 Q 427 97 424 92 Q 421 87 424 82" fill="none" stroke="black" stroke-width="1.2"/>
+<text x="418" y="116" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">BOILING</text>
+<line x1="18" y1="126" x2="462" y2="126" stroke="black" stroke-width="0.4"/>
+<text x="240" y="138" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="black">CROSS-SECTION CONVENTION  (teaches viewer that cutaway = shows inside)</text>
+<rect x="30" y="148" width="44" height="30" rx="2" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="52" y="168" font-family="Georgia,serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">SOLID</text>
+<text x="52" y="178" font-family="Georgia,serif" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="black">(opaque)</text>
+<text x="105" y="166" font-family="Georgia,serif" font-size="14" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">=</text>
+<line x1="122" y1="178" x2="166" y2="178" stroke="black" stroke-width="1.5"/>
+<line x1="122" y1="148" x2="122" y2="178" stroke="black" stroke-width="1.5"/>
+<line x1="166" y1="148" x2="166" y2="178" stroke="black" stroke-width="1.5"/>
+<line x1="122" y1="148" x2="166" y2="148" stroke="black" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="144" y="168" font-family="Georgia,serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">CUTAWAY</text>
+<text x="144" y="178" font-family="Georgia,serif" font-size="5.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="black">(shows inside)</text>
+<text x="310" y="154" font-family="Georgia,serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="black">SEQUENCE NUMBERING:</text>
+<text x="310" y="164" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">1  ·  I</text>
+<text x="365" y="164" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">2  ·  II</text>
+<text x="420" y="164" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">3  ·  III</text>
+<text x="310" y="178" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">4  ·  IIII</text>
+<text x="365" y="178" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">5  ·  IIIII</text>
+<text x="420" y="178" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="black">6  ·  IIIII·I</text>
+<line x1="18" y1="190" x2="462" y2="190" stroke="black" stroke-width="0.75"/>
+<text x="240" y="203" font-family="Georgia,serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="black" letter-spacing="2">— FIGURE POSTURE: COLLECTING (PROFILE, FACING RIGHT) —</text>
+<text x="240" y="215" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="black">horizontal torso + vertical legs = bent-forward posture reads instantly</text>
+<line x1="113.0" y1="334.0" x2="115.0" y2="352.0" stroke="black" stroke-width="9.0" stroke-linecap="round" fill="none"/>
+<line x1="115.0" y1="352.0" x2="117.0" y2="370.0" stroke="black" stroke-width="7.2" stroke-linecap="round" fill="none"/>
+<line x1="117.0" y1="370.0" x2="125.0" y2="372.0" stroke="black" stroke-width="5.1" stroke-linecap="butt" fill="none"/>
+<line x1="110.0" y1="334.0" x2="143.0" y2="331.0" stroke="black" stroke-width="16.0" stroke-linecap="round" fill="none"/>
+<line x1="110.0" y1="334.0" x2="107.0" y2="351.0" stroke="black" stroke-width="10.0" stroke-linecap="round" fill="none"/>
+<line x1="107.0" y1="351.0" x2="109.0" y2="370.0" stroke="black" stroke-width="8.0" stroke-linecap="round" fill="none"/>
+<line x1="109.0" y1="370.0" x2="99.0" y2="372.0" stroke="black" stroke-width="6.0" stroke-linecap="butt" fill="none"/>
+<line x1="143.0" y1="331.0" x2="147.0" y2="322.0" stroke="black" stroke-width="6.0" stroke-linecap="round" fill="none"/>
+<circle cx="149.0" cy="311.0" r="10.0" fill="black" stroke="none"/>
+<line x1="140.0" y1="331.0" x2="154.0" y2="349.0" stroke="black" stroke-width="6.3" stroke-linecap="round" fill="none"/>
+<line x1="154.0" y1="349.0" x2="159.0" y2="364.0" stroke="black" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+<line x1="143.0" y1="331.0" x2="159.0" y2="348.0" stroke="black" stroke-width="7.0" stroke-linecap="round" fill="none"/>
+<line x1="159.0" y1="348.0" x2="165.0" y2="362.0" stroke="black" stroke-width="5.0" stroke-linecap="round" fill="none"/>
+<path d="M 30 370 Q 37 367 45 370 Q 52 373 60 370 Q 67 367 75 370 Q 82 373 90 370 Q 97 367 105 370 Q 112 373 120 370 Q 127 367 135 370 Q 142 373 150 370 Q 157 367 165 370 Q 172 373 180 370 Q 187 367 195 370 Q 202 373 210 370 Q 217 367 220 370" fill="none" stroke="black" stroke-width="1.2"/>
+<ellipse cx="75" cy="379" rx="9" ry="6" fill="black"/>
+<ellipse cx="92" cy="380" rx="7.5" ry="5.5" fill="black"/>
+<ellipse cx="108" cy="379" rx="9" ry="5.5" fill="black"/>
+<ellipse cx="124" cy="380" rx="8" ry="5" fill="black"/>
+<ellipse cx="140" cy="379" rx="9" ry="6" fill="black"/>
+<ellipse cx="158" cy="380" rx="7" ry="4.5" fill="black"/>
+<polygon points="171,360 169,376 189,376 187,360" fill="white" stroke="black" stroke-width="1.8"/>
+<ellipse cx="177" cy="371" rx="4.5" ry="3" fill="black"/>
+<ellipse cx="183" cy="370" rx="4" ry="3" fill="black"/>
+<text x="270" y="240" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="start" fill="black">← head: large, distinct</text>
+<text x="270" y="280" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="start" fill="black">← torso: horizontal bar</text>
+<text x="270" y="320" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="start" fill="black">← arms reach to water</text>
+<text x="270" y="355" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="start" fill="black">← legs: vertical, clear</text>
+<text x="270" y="375" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="italic" text-anchor="start" fill="black">← bucket at ground level</text>
+<line x1="18" y1="392" x2="462" y2="392" stroke="black" stroke-width="0.5"/>
+<text x="240" y="404" font-family="Georgia,serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="black" letter-spacing="2">— SAME FIGURE AT ACTUAL PANEL SCALE —</text>
+<line x1="77.5" y1="437.4" x2="79.2" y2="452.7" stroke="black" stroke-width="7.65" stroke-linecap="round" fill="none"/>
+<line x1="79.2" y1="452.7" x2="81.0" y2="468.0" stroke="black" stroke-width="6.12" stroke-linecap="round" fill="none"/>
+<line x1="81.0" y1="468.0" x2="87.8" y2="469.7" stroke="black" stroke-width="4.335" stroke-linecap="butt" fill="none"/>
+<line x1="75.0" y1="437.4" x2="103.0" y2="434.9" stroke="black" stroke-width="13.6" stroke-linecap="round" fill="none"/>
+<line x1="75.0" y1="437.4" x2="72.5" y2="451.9" stroke="black" stroke-width="8.5" stroke-linecap="round" fill="none"/>
+<line x1="72.5" y1="451.9" x2="74.2" y2="468.0" stroke="black" stroke-width="6.8" stroke-linecap="round" fill="none"/>
+<line x1="74.2" y1="468.0" x2="65.7" y2="469.7" stroke="black" stroke-width="5.1" stroke-linecap="butt" fill="none"/>
+<line x1="103.0" y1="434.9" x2="106.5" y2="427.2" stroke="black" stroke-width="5.1" stroke-linecap="round" fill="none"/>
+<circle cx="108.2" cy="417.9" r="8.5" fill="black" stroke="none"/>
+<line x1="100.5" y1="434.9" x2="112.4" y2="450.2" stroke="black" stroke-width="5.355" stroke-linecap="round" fill="none"/>
+<line x1="112.4" y1="450.2" x2="116.6" y2="462.9" stroke="black" stroke-width="3.825" stroke-linecap="round" fill="none"/>
+<line x1="103.0" y1="434.9" x2="116.6" y2="449.3" stroke="black" stroke-width="5.95" stroke-linecap="round" fill="none"/>
+<line x1="116.6" y1="449.3" x2="121.8" y2="461.2" stroke="black" stroke-width="4.25" stroke-linecap="round" fill="none"/>
+<path d="M 27 468 Q 34 465 42 468 Q 49 471 57 468 Q 64 465 72 468 Q 79 471 87 468 Q 94 465 102 468 Q 109 471 117 468 Q 124 465 132 468 Q 139 471 140 468" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="83" cy="476" rx="8" ry="5" fill="black"/>
+<ellipse cx="97" cy="477" rx="6.5" ry="4.5" fill="black"/>
+<ellipse cx="111" cy="476" rx="7.5" ry="5" fill="black"/>
+<ellipse cx="123" cy="477" rx="6" ry="4" fill="black"/>
+<text x="35" y="490" font-family="Georgia,serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="black">1  ·  I</text>
+<line x1="212.6" y1="437.4" x2="214.2" y2="452.7" stroke="black" stroke-width="7.65" stroke-linecap="round" fill="none"/>
+<line x1="214.2" y1="452.7" x2="215.9" y2="468.0" stroke="black" stroke-width="6.12" stroke-linecap="round" fill="none"/>
+<line x1="215.9" y1="468.0" x2="222.8" y2="469.7" stroke="black" stroke-width="4.335" stroke-linecap="butt" fill="none"/>
+<line x1="210.0" y1="437.4" x2="238.1" y2="434.9" stroke="black" stroke-width="13.6" stroke-linecap="round" fill="none"/>
+<line x1="210.0" y1="437.4" x2="207.4" y2="451.9" stroke="black" stroke-width="8.5" stroke-linecap="round" fill="none"/>
+<line x1="207.4" y1="451.9" x2="209.2" y2="468.0" stroke="black" stroke-width="6.8" stroke-linecap="round" fill="none"/>
+<line x1="209.2" y1="468.0" x2="200.7" y2="469.7" stroke="black" stroke-width="5.1" stroke-linecap="butt" fill="none"/>
+<line x1="238.1" y1="434.9" x2="241.5" y2="427.2" stroke="black" stroke-width="5.1" stroke-linecap="round" fill="none"/>
+<circle cx="243.2" cy="417.9" r="8.5" fill="black" stroke="none"/>
+<line x1="235.5" y1="434.9" x2="247.4" y2="450.2" stroke="black" stroke-width="5.355" stroke-linecap="round" fill="none"/>
+<line x1="247.4" y1="450.2" x2="251.7" y2="462.9" stroke="black" stroke-width="3.825" stroke-linecap="round" fill="none"/>
+<line x1="238.1" y1="434.9" x2="251.7" y2="449.3" stroke="black" stroke-width="5.95" stroke-linecap="round" fill="none"/>
+<line x1="251.7" y1="449.3" x2="256.8" y2="461.2" stroke="black" stroke-width="4.25" stroke-linecap="round" fill="none"/>
+<path d="M 162 468 Q 169 465 177 468 Q 184 471 192 468 Q 199 465 207 468 Q 214 471 222 468 Q 229 465 237 468 Q 244 471 252 468 Q 259 465 267 468 Q 274 471 275 468" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="218" cy="476" rx="8" ry="5" fill="black"/>
+<ellipse cx="232" cy="477" rx="6.5" ry="4.5" fill="black"/>
+<ellipse cx="246" cy="476" rx="7.5" ry="5" fill="black"/>
+<ellipse cx="258" cy="477" rx="6" ry="4" fill="black"/>
+<text x="170" y="490" font-family="Georgia,serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="black">2  ·  II</text>
+<line x1="347.6" y1="437.4" x2="349.2" y2="452.7" stroke="black" stroke-width="7.65" stroke-linecap="round" fill="none"/>
+<line x1="349.2" y1="452.7" x2="350.9" y2="468.0" stroke="black" stroke-width="6.12" stroke-linecap="round" fill="none"/>
+<line x1="350.9" y1="468.0" x2="357.8" y2="469.7" stroke="black" stroke-width="4.335" stroke-linecap="butt" fill="none"/>
+<line x1="345.0" y1="437.4" x2="373.1" y2="434.9" stroke="black" stroke-width="13.6" stroke-linecap="round" fill="none"/>
+<line x1="345.0" y1="437.4" x2="342.4" y2="451.9" stroke="black" stroke-width="8.5" stroke-linecap="round" fill="none"/>
+<line x1="342.4" y1="451.9" x2="344.1" y2="468.0" stroke="black" stroke-width="6.8" stroke-linecap="round" fill="none"/>
+<line x1="344.1" y1="468.0" x2="335.6" y2="469.7" stroke="black" stroke-width="5.1" stroke-linecap="butt" fill="none"/>
+<line x1="373.1" y1="434.9" x2="376.4" y2="427.2" stroke="black" stroke-width="5.1" stroke-linecap="round" fill="none"/>
+<circle cx="378.1" cy="417.9" r="8.5" fill="black" stroke="none"/>
+<line x1="370.5" y1="434.9" x2="382.4" y2="450.2" stroke="black" stroke-width="5.355" stroke-linecap="round" fill="none"/>
+<line x1="382.4" y1="450.2" x2="386.7" y2="462.9" stroke="black" stroke-width="3.825" stroke-linecap="round" fill="none"/>
+<line x1="373.1" y1="434.9" x2="386.7" y2="449.3" stroke="black" stroke-width="5.95" stroke-linecap="round" fill="none"/>
+<line x1="386.7" y1="449.3" x2="391.8" y2="461.2" stroke="black" stroke-width="4.25" stroke-linecap="round" fill="none"/>
+<path d="M 297 468 Q 304 465 312 468 Q 319 471 327 468 Q 334 465 342 468 Q 349 471 357 468 Q 364 465 372 468 Q 379 471 387 468 Q 394 465 402 468 Q 409 471 410 468" fill="none" stroke="black" stroke-width="1.0"/>
+<ellipse cx="353" cy="476" rx="8" ry="5" fill="black"/>
+<ellipse cx="367" cy="477" rx="6.5" ry="4.5" fill="black"/>
+<ellipse cx="381" cy="476" rx="7.5" ry="5" fill="black"/>
+<ellipse cx="393" cy="477" rx="6" ry="4" fill="black"/>
+<text x="305" y="490" font-family="Georgia,serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="black">3  ·  III</text>
+<line x1="18" y1="495" x2="462" y2="495" stroke="black" stroke-width="0.4"/>
+<text x="240" y="507" font-family="Georgia,serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="black" letter-spacing="2">— STROKE WEIGHT REFERENCE —</text>
+<line x1="52.0" y1="529.0" x2="52.0" y2="581.0" stroke="black" stroke-width="16" stroke-linecap="round" fill="none"/>
+<text x="52" y="593" font-family="Georgia,serif" font-size="6.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">torso  16</text>
+<line x1="134.0" y1="529.0" x2="134.0" y2="581.0" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+<text x="134" y="593" font-family="Georgia,serif" font-size="6.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">leg  10</text>
+<line x1="216.0" y1="529.0" x2="216.0" y2="581.0" stroke="black" stroke-width="7" stroke-linecap="round" fill="none"/>
+<text x="216" y="593" font-family="Georgia,serif" font-size="6.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">arm  7</text>
+<line x1="298.0" y1="529.0" x2="298.0" y2="581.0" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="298" y="593" font-family="Georgia,serif" font-size="6.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">lower  5</text>
+<line x1="380.0" y1="529.0" x2="380.0" y2="581.0" stroke="black" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+<text x="380" y="593" font-family="Georgia,serif" font-size="6.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">min  1.5</text>
+<line x1="18" y1="600" x2="462" y2="600" stroke="black" stroke-width="0.5"/>
+<line x1="18" y1="616" x2="462" y2="616" stroke="black" stroke-width="0.75"/>
+<text x="240" y="626" font-family="Georgia,serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black" letter-spacing="0.8">CC BY-SA 4.0 · DESIGN REVIEW · REMEMBER FORWARD · rememberforward.org</text>
+<line x1="18" y1="630" x2="462" y2="630" stroke="black" stroke-width="0.75"/>
+<text x="240" y="649" font-family="Georgia,serif" font-size="11" font-weight="bold" font-style="italic" text-anchor="middle" fill="black">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240" y="664" font-family="Georgia,serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="black">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

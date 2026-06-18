@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 330" width="480" height="330">
+<rect width="480" height="330" fill="white"/>
+<style>text { font-family: Georgia, serif; fill: black; }</style>
+<rect x="2" y="2" width="476" height="326" fill="none" stroke="black" stroke-width="1"/>
+<text x="240" y="17" font-size="9" font-weight="bold" text-anchor="middle" letter-spacing="1.5">MATERIAL SYMBOLS — FINAL DESIGNS</text>
+<text x="240" y="27" font-size="6.5" text-anchor="middle" fill="#555">FGDC/USGS standard · sand = stipple · gravel = circles</text>
+<line x1="8" y1="31" x2="472" y2="31" stroke="black" stroke-width="0.8"/>
+<rect x="8" y="32" width="232" height="14" fill="#f0f0f0"/>
+<rect x="242" y="32" width="230" height="14" fill="#f0f0f0"/>
+<text x="124" y="42" font-size="8" font-weight="bold" text-anchor="middle">SAND</text>
+<text x="357" y="42" font-size="8" font-weight="bold" text-anchor="middle">GRAVEL</text>
+<line x1="240" y1="31" x2="240" y2="328" stroke="black" stroke-width="0.5" stroke-dasharray="4,3"/>
+<text x="124" y="56" font-size="6.5" text-anchor="middle" fill="#444">mound outline + 3-size stipple (large / medium / small)</text>
+<text x="357" y="56" font-size="6.5" text-anchor="middle" fill="#444">3 organic bezier stones · white highlight = 3D roundness</text>
+<line x1="8" y1="61" x2="472" y2="61" stroke="#ddd" stroke-width="0.5"/>
+<text x="14" y="71" font-size="6" fill="#888">3× scale</text>
+<path d="M 82 190 Q 100 151 124 148 Q 148 151 166 190 Z" fill="none" stroke="black" stroke-width="2.4000000000000004"/>
+<circle cx="103" cy="181" r="4.800000000000001" fill="black"/>
+<circle cx="124" cy="178" r="4.800000000000001" fill="black"/>
+<circle cx="142" cy="175" r="4.800000000000001" fill="black"/>
+<circle cx="94" cy="184" r="3.5999999999999996" fill="black"/>
+<circle cx="157" cy="184" r="3.5999999999999996" fill="black"/>
+<circle cx="112" cy="169" r="3.5999999999999996" fill="black"/>
+<circle cx="136" cy="166" r="3.5999999999999996" fill="black"/>
+<circle cx="121" cy="157" r="3.5999999999999996" fill="black"/>
+<circle cx="88" cy="187" r="2.4000000000000004" fill="black"/>
+<circle cx="160" cy="187" r="2.4000000000000004" fill="black"/>
+<circle cx="148" cy="178" r="2.4000000000000004" fill="black"/>
+<circle cx="106" cy="169" r="2.4000000000000004" fill="black"/>
+<circle cx="127" cy="154" r="2.4000000000000004" fill="black"/>
+<path d="M 312 178 Q 315 160 336 160 Q 354 160 360 175 Q 357 193 342 190 Q 318 193 312 178 Z" fill="black"/>
+<circle cx="321" cy="166" r="3.3000000000000003" fill="white"/>
+<path d="M 354 178 Q 357 163 372 166 Q 384 169 387 184 Q 384 196 369 196 Q 354 193 354 178 Z" fill="black"/>
+<circle cx="366" cy="169" r="2.55" fill="white"/>
+<path d="M 342 163 Q 342 148 354 151 Q 363 154 363 166 Q 360 172 345 169 Q 339 166 342 163 Z" fill="black"/>
+<circle cx="348" cy="154" r="1.7999999999999998" fill="white"/>
+<line x1="8" y1="236" x2="472" y2="236" stroke="#ddd" stroke-width="0.5"/>
+<text x="14" y="244" font-size="6" fill="#888">2× scale</text>
+<path d="M 96 278 Q 108 252 124 250 Q 140 252 152 278 Z" fill="none" stroke="black" stroke-width="1.6"/>
+<circle cx="110" cy="272" r="3.2" fill="black"/>
+<circle cx="124" cy="270" r="3.2" fill="black"/>
+<circle cx="136" cy="268" r="3.2" fill="black"/>
+<circle cx="104" cy="274" r="2.4" fill="black"/>
+<circle cx="146" cy="274" r="2.4" fill="black"/>
+<circle cx="116" cy="264" r="2.4" fill="black"/>
+<circle cx="132" cy="262" r="2.4" fill="black"/>
+<circle cx="122" cy="256" r="2.4" fill="black"/>
+<circle cx="100" cy="276" r="1.6" fill="black"/>
+<circle cx="148" cy="276" r="1.6" fill="black"/>
+<circle cx="140" cy="270" r="1.6" fill="black"/>
+<circle cx="112" cy="264" r="1.6" fill="black"/>
+<circle cx="126" cy="254" r="1.6" fill="black"/>
+<path d="M 327 270 Q 329 258 343 258 Q 355 258 359 268 Q 357 280 347 278 Q 331 280 327 270 Z" fill="black"/>
+<circle cx="333" cy="262" r="2.2" fill="white"/>
+<path d="M 355 270 Q 357 260 367 262 Q 375 264 377 274 Q 375 282 365 282 Q 355 280 355 270 Z" fill="black"/>
+<circle cx="363" cy="264" r="1.7" fill="white"/>
+<path d="M 347 260 Q 347 250 355 252 Q 361 254 361 262 Q 359 266 349 264 Q 345 262 347 260 Z" fill="black"/>
+<circle cx="351" cy="254" r="1.2" fill="white"/>
+<line x1="8" y1="294" x2="472" y2="294" stroke="black" stroke-width="0.7"/>
+<text x="14" y="302" font-size="6.5" fill="#555" font-weight="bold">actual plate scale — Band E layout</text>
+<line x1="8" y1="305" x2="472" y2="305" stroke="#ddd" stroke-width="0.4"/>
+<path d="M 22 322 Q 28 309 36 308 Q 44 309 50 322 Z" fill="none" stroke="black" stroke-width="0.8"/>
+<circle cx="29" cy="319" r="1.6" fill="black"/>
+<circle cx="36" cy="318" r="1.6" fill="black"/>
+<circle cx="42" cy="317" r="1.6" fill="black"/>
+<circle cx="26" cy="320" r="1.2" fill="black"/>
+<circle cx="47" cy="320" r="1.2" fill="black"/>
+<circle cx="32" cy="315" r="1.2" fill="black"/>
+<circle cx="40" cy="314" r="1.2" fill="black"/>
+<circle cx="35" cy="311" r="1.2" fill="black"/>
+<circle cx="24" cy="321" r="0.8" fill="black"/>
+<circle cx="48" cy="321" r="0.8" fill="black"/>
+<circle cx="44" cy="318" r="0.8" fill="black"/>
+<circle cx="30" cy="315" r="0.8" fill="black"/>
+<circle cx="37" cy="310" r="0.8" fill="black"/>
+<text x="54" y="317" font-size="7.5" font-weight="bold">&#9313; SAND</text>
+<text x="54" y="326" font-size="6" font-style="italic">fine grains &#183; middle layer</text>
+<path d="M 255 318 Q 256 312 263 312 Q 269 312 271 317 Q 270 323 265 322 Q 257 323 255 318 Z" fill="black"/>
+<circle cx="258" cy="314" r="1.1" fill="white"/>
+<path d="M 269 318 Q 270 313 275 314 Q 279 315 280 320 Q 279 324 274 324 Q 269 323 269 318 Z" fill="black"/>
+<circle cx="273" cy="315" r="0.85" fill="white"/>
+<path d="M 265 313 Q 265 308 269 309 Q 272 310 272 314 Q 271 316 266 315 Q 264 314 265 313 Z" fill="black"/>
+<circle cx="267" cy="310" r="0.6" fill="white"/>
+<text x="288" y="317" font-size="7.5" font-weight="bold">&#9314; GRAVEL</text>
+<text x="288" y="326" font-size="6" font-style="italic">rounded stones &#183; bottom layer</text>
+</svg>
