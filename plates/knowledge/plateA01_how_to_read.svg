@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">
+<rect width="100%" height="100%" fill="#fff"/>
+<style>
+.L{font:7px Georgia,serif}.Ls{font:6px Georgia,serif}.Lx{font:5.5px Georgia,serif}
+.H{font:bold 6.5px Georgia,serif;letter-spacing:2.5px}
+.T{font:bold 12px Georgia,serif;letter-spacing:2px}
+.S{font:7px Georgia,serif;letter-spacing:1.5px}
+.M{font:6px Georgia,serif}.F{font:italic 7px Georgia,serif}.Fb{font:bold 7.5px Georgia,serif}
+.K{font:bold 7px Georgia,serif}.Ka{font:6.5px Georgia,serif}
+text{fill:#000}
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240.0" y="32" text-anchor="middle" class="T">HOW TO READ THESE PLATES</text>
+<text x="240.0" y="50" text-anchor="middle" class="S">A01  ·  THE KEY TO EVERY OTHER PLATE</text>
+<text x="240.0" y="66" text-anchor="middle" class="H">— A NUMBER MARKS A THING —</text>
+<circle cx="96" cy="84.036" r="8.036" fill="#000"/>
+<polygon points="84.93,94.8846 107.07,94.8846 104.61,119.4846 87.39,119.4846" fill="#000"/>
+<polygon points="103.62599999999999,95.7046 107.07,94.8846 121.00999999999999,95.7046 121.00999999999999,98.9846" fill="#000"/>
+<polygon points="84.93,94.8846 88.37400000000001,94.8846 89.75160000000001,127.6846 85.9632,127.6846" fill="#000"/>
+<polygon points="88.0788,119.4846 92.3428,119.4846 95.5285,158 90.6618,158" fill="#000"/>
+<polygon points="103.9212,119.4846 99.6572,119.4846 96.4715,158 101.3382,158" fill="#000"/>
+<line x1="96" y1="84" x2="59.19257348951416" y2="82.32693515861428" stroke="#000" stroke-width="0.55"/>
+<circle cx="52" cy="82" r="7.2" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="52.0" cy="81.65" r="1.3125" fill="#000"/>
+<line x1="96" y1="112" x2="59.17043108656747" y2="108.65185737150614" stroke="#000" stroke-width="0.55"/>
+<circle cx="52" cy="108" r="7.2" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="50.075" cy="107.65" r="1.3125" fill="#000"/>
+<circle cx="53.925000000000004" cy="107.65" r="1.3125" fill="#000"/>
+<line x1="124" y1="100" x2="145.07702757698607" y2="93.97799212086112" stroke="#000" stroke-width="0.55"/>
+<circle cx="152" cy="92" r="7.2" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="148.15" cy="91.65" r="1.3125" fill="#000"/>
+<circle cx="152.0" cy="91.65" r="1.3125" fill="#000"/>
+<circle cx="155.85" cy="91.65" r="1.3125" fill="#000"/>
+<line x1="86" y1="152" x2="59.18757548685997" y2="150.42279855805057" stroke="#000" stroke-width="0.55"/>
+<circle cx="52" cy="150" r="7.2" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="46.225" cy="149.65" r="1.3125" fill="#000"/>
+<circle cx="50.075" cy="149.65" r="1.3125" fill="#000"/>
+<circle cx="53.925000000000004" cy="149.65" r="1.3125" fill="#000"/>
+<circle cx="57.775000000000006" cy="149.65" r="1.3125" fill="#000"/>
+<rect x="176" y="74" width="118" height="86" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="235" y="84" text-anchor="middle" class="K">WORDS</text>
+<line x1="182" y1="88" x2="288" y2="88" stroke="#000" stroke-width="0.4"/>
+<circle cx="190" cy="97.5" r="6.0" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="190.0" cy="97.15" r="1.3125" fill="#000"/>
+<text x="203" y="100" text-anchor="start" class="L">HEAD</text>
+<line x1="203" y1="102.5" x2="288" y2="102.5" stroke="#000" stroke-width="0.4"/>
+<circle cx="190" cy="112.5" r="6.0" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="188.075" cy="112.15" r="1.3125" fill="#000"/>
+<circle cx="191.92499999999998" cy="112.15" r="1.3125" fill="#000"/>
+<text x="203" y="115" text-anchor="start" class="L">BODY</text>
+<line x1="203" y1="117.5" x2="288" y2="117.5" stroke="#000" stroke-width="0.4"/>
+<circle cx="190" cy="127.5" r="6.0" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="186.15" cy="127.15" r="1.3125" fill="#000"/>
+<circle cx="190.0" cy="127.15" r="1.3125" fill="#000"/>
+<circle cx="193.85" cy="127.15" r="1.3125" fill="#000"/>
+<text x="203" y="130" text-anchor="start" class="L">HAND</text>
+<line x1="203" y1="132.5" x2="288" y2="132.5" stroke="#000" stroke-width="0.4"/>
+<circle cx="190" cy="142.5" r="6.0" fill="#fff" stroke="#000" stroke-width="1.0"/>
+<circle cx="184.225" cy="142.15" r="1.3125" fill="#000"/>
+<circle cx="188.075" cy="142.15" r="1.3125" fill="#000"/>
+<circle cx="191.92499999999998" cy="142.15" r="1.3125" fill="#000"/>
+<circle cx="195.775" cy="142.15" r="1.3125" fill="#000"/>
+<text x="203" y="145" text-anchor="start" class="L">FOOT</text>
+<line x1="203" y1="147.5" x2="288" y2="147.5" stroke="#000" stroke-width="0.4"/>
+<text x="235" y="155" text-anchor="middle" class="Lx">[ SECOND LANGUAGE STRIP ]</text>
+<rect x="302" y="74" width="160" height="86" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="382" y="86" text-anchor="middle" class="Ls">The mark on the picture</text>
+<text x="382" y="95" text-anchor="middle" class="Ls">and the mark beside the word</text>
+<text x="382" y="104" text-anchor="middle" class="Ls">are the same mark.</text>
+<line x1="316" y1="111" x2="448" y2="111" stroke="#000" stroke-width="0.4"/>
+<text x="382" y="122" text-anchor="middle" class="Ls">You are holding the thing</text>
+<text x="382" y="131" text-anchor="middle" class="Ls">each of these four words</text>
+<text x="382" y="140" text-anchor="middle" class="Ls">names. Look at your own</text>
+<text x="382" y="149" text-anchor="middle" class="Ls">body and the words follow.</text>
+<text x="240.0" y="178" text-anchor="middle" class="H">— HOW THE NUMBERS ARE WRITTEN —</text>
+<circle cx="44.0" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="44.0" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="93.14" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="98.86" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="92.6" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="99.39999999999999" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="142.28" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="148.0" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="153.72" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="141.2" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="148.0" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="154.79999999999998" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="191.42" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="197.14" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="202.85999999999999" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="208.57999999999998" cy="195.48000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="189.8" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="196.60000000000002" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="203.4" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="210.20000000000002" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<rect x="243.94" y="194.388" width="16.12" height="2.184" fill="#000"/>
+<circle cx="238.4" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="245.20000000000002" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="252.0" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="258.8" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="265.6" cy="212" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<rect x="313.94" y="189.918" width="16.12" height="2.184" fill="#000"/>
+<rect x="313.94" y="194.858" width="16.12" height="2.184" fill="#000"/>
+<circle cx="308.4" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="315.2" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="322.0" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="328.79999999999995" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="335.59999999999997" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="308.4" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="315.2" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="322.0" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="328.79999999999995" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="335.59999999999997" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="369.42" cy="186.07000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="375.14000000000004" cy="186.07000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="380.86" cy="186.07000000000002" r="1.9500000000000002" fill="#000"/>
+<circle cx="386.58000000000004" cy="186.07000000000002" r="1.9500000000000002" fill="#000"/>
+<rect x="369.94" y="189.918" width="16.12" height="2.184" fill="#000"/>
+<rect x="369.94" y="194.858" width="16.12" height="2.184" fill="#000"/>
+<rect x="369.94" y="199.798" width="16.12" height="2.184" fill="#000"/>
+<circle cx="364.4" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="371.2" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="378.0" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="384.79999999999995" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="391.59999999999997" cy="210.0" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="364.4" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="371.2" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="378.0" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="384.79999999999995" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="391.59999999999997" cy="216.2" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="364.4" cy="222.4" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="371.2" cy="222.4" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="378.0" cy="222.4" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="384.79999999999995" cy="222.4" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="391.59999999999997" cy="222.4" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="364.4" cy="228.6" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="371.2" cy="228.6" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="378.0" cy="228.6" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<circle cx="384.79999999999995" cy="228.6" r="2.2" fill="none" stroke="#000" stroke-width="0.7"/>
+<ellipse cx="434" cy="194" rx="5.460000000000001" ry="3.3800000000000003" fill="none" stroke="#000" stroke-width="0.8"/>
+<line x1="431.14" y1="194.52" x2="432.96" y2="194.52" stroke="#000" stroke-width="0.6"/>
+<line x1="435.04" y1="194.52" x2="436.86" y2="194.52" stroke="#000" stroke-width="0.6"/>
+<text x="240.0" y="232" text-anchor="middle" class="Ls">Count the marks against the stones. A line is five. A shell is none.</text>
+<text x="240.0" y="242" text-anchor="middle" class="Lx">Every plate repeats this key in its lower margin.</text>
+<text x="240.0" y="256" text-anchor="middle" class="H">— PICTURES IN A ROW ARE TIME PASSING —</text>
+<rect x="40" y="264" width="122" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="174" y="264" width="122" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="308" y="264" width="122" height="68" fill="none" stroke="#000" stroke-width="0.9"/>
+<polygon points="68.42,275.24 68.42,280.82 79.58,280.82 79.58,275.24" fill="#000"/>
+<polygon points="68.916,275.86 68.916,269.35 70.9,269.35 70.9,275.86" fill="#000"/>
+<polygon points="71.644,275.86 71.644,268.11 73.628,268.11 73.628,275.86" fill="#000"/>
+<polygon points="74.372,275.86 74.372,268.42 76.356,268.42 76.356,275.86" fill="#000"/>
+<polygon points="77.1,275.86 77.1,269.97 79.084,269.97 79.084,275.86" fill="#000"/>
+<polygon points="79.58,276.48 83.61,273.38 84.85,275.55 80.82,278.96" fill="#000"/>
+<circle cx="74" cy="288" r="5.0" fill="#000"/>
+<polygon points="202.42,272.24 202.42,277.82 213.58,277.82 213.58,272.24" fill="#000"/>
+<polygon points="202.916,272.86 202.916,266.35 204.9,266.35 204.9,272.86" fill="#000"/>
+<polygon points="205.644,272.86 205.644,265.11 207.628,265.11 207.628,272.86" fill="#000"/>
+<polygon points="208.372,272.86 208.372,265.42 210.356,265.42 210.356,272.86" fill="#000"/>
+<polygon points="211.1,272.86 211.1,266.97 213.084,266.97 213.084,272.86" fill="#000"/>
+<polygon points="213.58,273.48 217.61,270.38 218.85,272.55 214.82,275.96" fill="#000"/>
+<line x1="208" y1="288" x2="208" y2="292" stroke="#000" stroke-width="0.6"/>
+<line x1="208" y1="294" x2="208" y2="298" stroke="#000" stroke-width="0.6"/>
+<line x1="208" y1="300" x2="208" y2="304" stroke="#000" stroke-width="0.6"/>
+<circle cx="208" cy="314" r="5.0" fill="#000"/>
+<line x1="306" y1="322" x2="390" y2="322" stroke="#000" stroke-width="1.0"/>
+<circle cx="348" cy="316.5" r="5.0" fill="#000"/>
+<line x1="334" y1="314" x2="329.1" y2="309" stroke="#000" stroke-width="0.45"/>
+<line x1="339" y1="314" x2="335.85" y2="309" stroke="#000" stroke-width="0.45"/>
+<line x1="357" y1="314" x2="360.15" y2="309" stroke="#000" stroke-width="0.45"/>
+<line x1="362" y1="314" x2="366.9" y2="309" stroke="#000" stroke-width="0.45"/>
+<line x1="168" y1="298" x2="178" y2="298" stroke="#000" stroke-width="1.2"/>
+<polygon points="178,298 173.5,295.525 173.5,300.475" fill="#000"/>
+<line x1="302" y1="298" x2="312" y2="298" stroke="#000" stroke-width="1.2"/>
+<polygon points="312,298 307.5,295.525 307.5,300.475" fill="#000"/>
+<text x="240.0" y="344" text-anchor="middle" class="Ls">The stone falls. It cannot fall upward — so you already know which way to read.</text>
+<text x="240.0" y="362" text-anchor="middle" class="H">— AN ARROW MEANS FROM ONE THING TO ANOTHER —</text>
+<circle cx="64" cy="376.312" r="4.312" fill="#000"/>
+<polygon points="58.06,382.1332 69.94,382.1332 68.62,395.3332 59.38,395.3332" fill="#000"/>
+<polygon points="58.06,382.1332 59.908,382.1332 58.7992,399.73319999999995 56.9512,399.73319999999995" fill="#000"/>
+<polygon points="69.94,382.1332 68.092,382.1332 69.2008,399.73319999999995 71.0488,399.73319999999995" fill="#000"/>
+<polygon points="59.7496,395.3332 62.0376,395.3332 63.747,416 61.1356,416" fill="#000"/>
+<polygon points="68.2504,395.3332 65.9624,395.3332 64.253,416 66.8644,416" fill="#000"/>
+<line x1="92" y1="392" x2="150" y2="392" stroke="#000" stroke-width="1.4"/>
+<polygon points="150,392 144.5,388.975 144.5,395.025" fill="#000"/>
+<circle cx="178" cy="376.312" r="4.312" fill="#000"/>
+<polygon points="172.06,382.1332 183.94,382.1332 182.62,395.3332 173.38,395.3332" fill="#000"/>
+<polygon points="172.06,382.1332 173.908,382.1332 172.7992,399.73319999999995 170.9512,399.73319999999995" fill="#000"/>
+<polygon points="183.94,382.1332 182.092,382.1332 183.2008,399.73319999999995 185.0488,399.73319999999995" fill="#000"/>
+<polygon points="173.7496,395.3332 176.0376,395.3332 177.74699999999999,416 175.1356,416" fill="#000"/>
+<polygon points="182.2504,395.3332 179.9624,395.3332 178.25300000000001,416 180.8644,416" fill="#000"/>
+<text x="121" y="384" text-anchor="middle" class="Lx">moves</text>
+<line x1="240" y1="370" x2="240" y2="414" stroke="#000" stroke-width="0.4"/>
+<polygon points="280.6,379.2 280.6,384.6 291.4,384.6 291.4,379.2" fill="#000"/>
+<polygon points="281.08,379.8 281.08,373.5 283.0,373.5 283.0,379.8" fill="#000"/>
+<polygon points="283.72,379.8 283.72,372.3 285.64,372.3 285.64,379.8" fill="#000"/>
+<polygon points="286.36,379.8 286.36,372.6 288.28,372.6 288.28,379.8" fill="#000"/>
+<polygon points="289.0,379.8 289.0,374.1 290.92,374.1 290.92,379.8" fill="#000"/>
+<polygon points="291.4,380.4 295.3,377.4 296.5,379.5 292.6,382.8" fill="#000"/>
+<line x1="310" y1="390" x2="352" y2="390" stroke="#000" stroke-width="1.4"/>
+<polygon points="352,390 346.5,386.975 346.5,393.025" fill="#000"/>
+<circle cx="410" cy="390" r="8" fill="none" stroke="#000" stroke-width="1.0"/>
+<text x="371" y="380" text-anchor="middle" class="Lx">acts on</text>
+<text x="240.0" y="420" text-anchor="middle" class="Ls">A hand shown doing a thing means: this is the thing to do.</text>
+<text x="240.0" y="440" text-anchor="middle" class="H">— WHAT FOLLOWS FROM WHAT YOU DO —</text>
+<rect x="40" y="448" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="174" y="448" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="308" y="448" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<polygon points="80.0,466 122.0,466 117.8,496 84.2,496" fill="none" stroke="#000" stroke-width="1.1"/>
+<line x1="80.0" y1="466" x2="122.0" y2="466" stroke="#000" stroke-width="1.1"/>
+<path d="M 88.4 478.6 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<path d="M 88.4 481.6 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<circle cx="94.5" cy="477.6" r="1.5" fill="#000"/>
+<circle cx="101.5" cy="480.6" r="1.5" fill="#000"/>
+<circle cx="107.0" cy="478.6" r="1.5" fill="#000"/>
+<circle cx="98.0" cy="483.6" r="1.5" fill="#000"/>
+<circle cx="104.5" cy="484.6" r="1.5" fill="#000"/>
+<circle cx="93.5" cy="482.6" r="1.5" fill="#000"/>
+<circle cx="108.0" cy="483.6" r="1.5" fill="#000"/>
+<text x="101" y="512" text-anchor="middle" class="Lx">water as found</text>
+<circle cx="206" cy="461.292" r="5.292" fill="#000"/>
+<polygon points="198.71,468.4362 213.29,468.4362 211.67,484.6362 200.33,484.6362" fill="#000"/>
+<polygon points="211.022,468.4362 213.29,468.4362 215.18,464.2026 213.02,467.3778" fill="#000"/>
+<polygon points="198.71,468.4362 200.978,468.4362 201.8852,490.03619999999995 199.3904,490.03619999999995" fill="#000"/>
+<polygon points="200.7836,484.6362 203.5916,484.6362 205.6895,510 202.4846,510" fill="#000"/>
+<polygon points="211.2164,484.6362 208.4084,484.6362 206.3105,510 209.5154,510" fill="#000"/>
+<polygon points="213.0,462 235.0,462 232.8,477 215.2,477" fill="none" stroke="#000" stroke-width="1.1"/>
+<line x1="213.0" y1="462" x2="235.0" y2="462" stroke="#000" stroke-width="1.1"/>
+<path d="M 217.4 468.3 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<path d="M 217.4 471.3 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<circle cx="217.5" cy="467.3" r="1.5" fill="#000"/>
+<circle cx="224.5" cy="470.3" r="1.5" fill="#000"/>
+<circle cx="230.0" cy="468.3" r="1.5" fill="#000"/>
+<circle cx="221.0" cy="473.3" r="1.5" fill="#000"/>
+<circle cx="227.5" cy="474.3" r="1.5" fill="#000"/>
+<circle cx="216.5" cy="472.3" r="1.5" fill="#000"/>
+<circle cx="231.0" cy="473.3" r="1.5" fill="#000"/>
+<text x="235" y="512" text-anchor="middle" class="Lx">drink it</text>
+<line x1="319.728" y1="500" x2="376.272" y2="500" stroke="#000" stroke-width="1.0"/>
+<circle cx="329.76" cy="494.48" r="5.5200000000000005" fill="#000"/>
+<polygon points="335.232,490.616 352.56,492.548 352.56,499.172 335.232,499.172" fill="#000"/>
+<polygon points="350.736,493.652 368.064,494.756 368.064,499.172 350.736,499.172" fill="#000"/>
+<polygon points="337.056,491.168 347.088,486.2 349.824,488.408 339.79200000000003,493.1" fill="#000"/>
+<text x="348" y="512" text-anchor="middle" class="Lx">sick</text>
+<line x1="168" y1="484" x2="178" y2="484" stroke="#000" stroke-width="1.2"/>
+<polygon points="178,484 173.5,481.525 173.5,486.475" fill="#000"/>
+<line x1="302" y1="484" x2="312" y2="484" stroke="#000" stroke-width="1.2"/>
+<polygon points="312,484 307.5,481.525 307.5,486.475" fill="#000"/>
+<rect x="40" y="526" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="174" y="526" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="308" y="526" width="122" height="72" fill="none" stroke="#000" stroke-width="0.9"/>
+<polygon points="80.0,538 122.0,538 117.8,568 84.2,568" fill="none" stroke="#000" stroke-width="1.1"/>
+<line x1="80.0" y1="538" x2="122.0" y2="538" stroke="#000" stroke-width="1.1"/>
+<path d="M 88.4 550.6 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<path d="M 88.4 553.6 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0 q 2.1 -2.2 4.2 0 q 2.1 2.2 4.2 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<circle cx="94.5" cy="549.6" r="1.5" fill="#000"/>
+<circle cx="101.5" cy="552.6" r="1.5" fill="#000"/>
+<circle cx="107.0" cy="550.6" r="1.5" fill="#000"/>
+<circle cx="98.0" cy="555.6" r="1.5" fill="#000"/>
+<circle cx="104.5" cy="556.6" r="1.5" fill="#000"/>
+<circle cx="93.5" cy="554.6" r="1.5" fill="#000"/>
+<circle cx="108.0" cy="555.6" r="1.5" fill="#000"/>
+<polygon points="81.68,568 75.8,568 77.47999999999999,583 84.2,583" fill="none" stroke="#000" stroke-width="0.9"/>
+<polygon points="120.32,568 126.2,568 124.52000000000001,583 117.8,583" fill="none" stroke="#000" stroke-width="0.9"/>
+<path d="M 94 583 C 91.0 580.0 91.75 576.25 94 573.25 C 96.55 576.25 97.0 580.0 94 583 Z" fill="#000"/>
+<path d="M 94 582.25 C 92.5 580.45 92.875 578.5 94 576.7 C 95.275 578.5 95.5 580.45 94 582.25 Z" fill="#fff"/>
+<path d="M 101 583 C 97.0 579.0 98.0 574.0 101 570.0 C 104.4 574.0 105.0 579.0 101 583 Z" fill="#000"/>
+<path d="M 101 582.0 C 99.0 579.6 99.5 577.0 101 574.6 C 102.7 577.0 103.0 579.6 101 582.0 Z" fill="#fff"/>
+<path d="M 108 583 C 105.0 580.0 105.75 576.25 108 573.25 C 110.55 576.25 111.0 580.0 108 583 Z" fill="#000"/>
+<path d="M 108 582.25 C 106.5 580.45 106.875 578.5 108 576.7 C 109.275 578.5 109.5 580.45 108 582.25 Z" fill="#fff"/>
+<line x1="74.96000000000001" y1="583" x2="127.03999999999999" y2="583" stroke="#000" stroke-width="1.0"/>
+<text x="101" y="594" text-anchor="middle" class="Lx">put it on the fire</text>
+<circle cx="206" cy="539.292" r="5.292" fill="#000"/>
+<polygon points="198.71,546.4362 213.29,546.4362 211.67,562.6362 200.33,562.6362" fill="#000"/>
+<polygon points="211.022,546.4362 213.29,546.4362 215.18,542.2026 213.02,545.3778" fill="#000"/>
+<polygon points="198.71,546.4362 200.978,546.4362 201.8852,568.0362 199.3904,568.0362" fill="#000"/>
+<polygon points="200.7836,562.6362 203.5916,562.6362 205.6895,588 202.4846,588" fill="#000"/>
+<polygon points="211.2164,562.6362 208.4084,562.6362 206.3105,588 209.5154,588" fill="#000"/>
+<polygon points="213.0,540 235.0,540 232.8,555 215.2,555" fill="none" stroke="#000" stroke-width="1.1"/>
+<line x1="213.0" y1="540" x2="235.0" y2="540" stroke="#000" stroke-width="1.1"/>
+<path d="M 217.4 546.3 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<path d="M 217.4 549.3 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0 q 1.0999999999999999 -2.2 2.1999999999999997 0 q 1.0999999999999999 2.2 2.1999999999999997 0" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="235" y="594" text-anchor="middle" class="Lx">then drink it</text>
+<circle cx="348" cy="539.292" r="5.292" fill="#000"/>
+<polygon points="340.71,546.4362 355.29,546.4362 353.67,562.6362 342.33,562.6362" fill="#000"/>
+<polygon points="340.71,546.4362 342.978,546.4362 341.6172,568.0362 339.3492,568.0362" fill="#000"/>
+<polygon points="355.29,546.4362 353.022,546.4362 354.3828,568.0362 356.6508,568.0362" fill="#000"/>
+<polygon points="342.7836,562.6362 345.59159999999997,562.6362 347.6895,588 344.4846,588" fill="#000"/>
+<polygon points="353.2164,562.6362 350.40840000000003,562.6362 348.3105,588 351.5154,588" fill="#000"/>
+<text x="348" y="594" text-anchor="middle" class="Lx">well</text>
+<line x1="168" y1="562" x2="178" y2="562" stroke="#000" stroke-width="1.2"/>
+<polygon points="178,562 173.5,559.525 173.5,564.475" fill="#000"/>
+<line x1="302" y1="562" x2="312" y2="562" stroke="#000" stroke-width="1.2"/>
+<polygon points="312,562 307.5,559.525 307.5,564.475" fill="#000"/>
+<line x1="24" y1="606" x2="456" y2="606" stroke="#000" stroke-width="0.5"/>
+<text x="240.0" y="613" text-anchor="middle" class="Ls">Both rows begin with the same water. They differ at one act, and they end differently.</text>
+<text x="240.0" y="630" text-anchor="middle" class="M">REMEMBER FORWARD  ·  A01  ·  CC BY-SA 4.0  ·  rememberforward.org</text>
+<text x="240.0" y="648" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240.0" y="663" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

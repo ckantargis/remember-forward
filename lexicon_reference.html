@@ -1,0 +1,956 @@
+<title>The Pictorial Lexicon Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Zilla+Slab:wght@500;600&display=swap">
+<style>
+:root{
+  --ground:#e9eaec; --panel:#f7f8f9; --panel-2:#eff1f3;
+  --ink:#14181c; --body:#3f474f; --muted:#6b747d;
+  --rule:#ccd1d6; --rule-soft:#dde1e5;
+  --accent:#1c5d7d; --accent-soft:#dbe8ef;
+  --clay:#9c4f2b; --clay-soft:#f0e2da;
+  --shadow:0 1px 2px rgba(20,24,28,.06);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#131619; --panel:#1a1e22; --panel-2:#20252a;
+    --ink:#e7eaec; --body:#b3bcc4; --muted:#8b959e;
+    --rule:#2e353b; --rule-soft:#252b31;
+    --accent:#6fb3d2; --accent-soft:#16303d;
+    --clay:#d08758; --clay-soft:#33221a;
+    --shadow:0 1px 2px rgba(0,0,0,.4);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#131619; --panel:#1a1e22; --panel-2:#20252a;
+  --ink:#e7eaec; --body:#b3bcc4; --muted:#8b959e;
+  --rule:#2e353b; --rule-soft:#252b31;
+  --accent:#6fb3d2; --accent-soft:#16303d;
+  --clay:#d08758; --clay-soft:#33221a;
+  --shadow:0 1px 2px rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--body);
+  font-family:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  font-size:15px; line-height:1.55; margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{font-family:"Zilla Slab",Georgia,serif; color:var(--ink); text-wrap:balance; margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+
+.wrap{max-width:1180px; margin:0 auto; padding:0 24px}
+
+/* ---------- masthead ---------- */
+header{border-bottom:1px solid var(--rule); background:var(--panel)}
+.mast{display:flex; flex-direction:column; gap:20px; padding:44px 0 32px}
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--accent);
+}
+h1{font-size:clamp(30px,4.4vw,46px); line-height:1.08; font-weight:600; letter-spacing:-.01em}
+.standfirst{max-width:63ch; font-size:16.5px; color:var(--body)}
+.standfirst strong{color:var(--ink); font-weight:600}
+
+.figures{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(132px,1fr));
+  gap:1px; background:var(--rule-soft); border:1px solid var(--rule-soft); margin-top:4px;
+}
+.fig{background:var(--panel); padding:14px 16px}
+.fig dt{
+  font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.11em;
+  text-transform:uppercase; color:var(--muted); margin-bottom:5px;
+}
+.fig dd{margin:0; font-family:"Zilla Slab",Georgia,serif; font-size:23px; color:var(--ink); font-variant-numeric:tabular-nums}
+.fig dd small{font-size:12px; color:var(--muted); font-family:"IBM Plex Sans",sans-serif}
+
+/* ---------- controls ---------- */
+.controls{
+  position:sticky; top:0; z-index:20; background:var(--ground);
+  border-bottom:1px solid var(--rule); padding:11px 0;
+}
+.ctl-row{display:flex; flex-wrap:wrap; gap:8px; align-items:center}
+.ctl-label{
+  font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.11em;
+  text-transform:uppercase; color:var(--muted); margin-right:2px;
+}
+button.chip{
+  font:inherit; font-size:12.5px; cursor:pointer; padding:4px 11px;
+  background:var(--panel); color:var(--body);
+  border:1px solid var(--rule); border-radius:2px; transition:.13s;
+}
+button.chip:hover{border-color:var(--accent); color:var(--ink)}
+button.chip[aria-pressed="true"]{background:var(--accent); border-color:var(--accent); color:var(--ground)}
+button.chip:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
+/* ---------- sections ---------- */
+main{padding:8px 0 72px}
+.sect{padding-top:38px; scroll-margin-top:60px}
+.sect-head{display:flex; align-items:baseline; gap:14px; border-bottom:2px solid var(--ink); padding-bottom:9px; margin-bottom:4px}
+.sect-letter{
+  font-family:"Zilla Slab",Georgia,serif; font-size:30px; font-weight:600;
+  color:var(--accent); line-height:1;
+}
+.sect-title{font-size:19px; font-weight:600; letter-spacing:.005em}
+.sect-count{
+  margin-left:auto; font-family:"IBM Plex Mono",monospace; font-size:11.5px;
+  color:var(--muted); white-space:nowrap;
+}
+.sect-blurb{color:var(--muted); font-size:14px; margin:9px 0 18px; max-width:64ch}
+
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(330px,1fr)); gap:14px}
+
+/* ---------- plate card ---------- */
+.card{
+  background:var(--panel); border:1px solid var(--rule-soft); box-shadow:var(--shadow);
+  padding:15px 16px 14px; display:flex; flex-direction:column; gap:9px;
+}
+.card.dim{display:none}
+.card-top{display:flex; align-items:center; gap:9px}
+.callout{
+  flex:none; width:27px; height:27px; border-radius:50%;
+  border:1.5px solid var(--ink); color:var(--ink);
+  font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500;
+  display:grid; place-items:center;
+}
+.card-id{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted); letter-spacing:.04em}
+.tag{
+  margin-left:auto; font-family:"IBM Plex Mono",monospace; font-size:9.5px;
+  letter-spacing:.1em; padding:2.5px 7px; border-radius:2px;
+  background:var(--accent-soft); color:var(--accent); white-space:nowrap;
+}
+.card h3{font-size:16.5px; font-weight:600; line-height:1.25}
+.depict{font-size:13.5px; line-height:1.5; color:var(--body); margin:0}
+.words{display:flex; flex-wrap:wrap; gap:4px; margin-top:1px}
+.w{
+  font-family:"IBM Plex Mono",monospace; font-size:11px; padding:1.5px 6px;
+  background:var(--panel-2); border:1px solid var(--rule-soft); color:var(--muted); border-radius:2px;
+}
+.meta{
+  display:flex; gap:10px; align-items:center; margin-top:auto; padding-top:9px;
+  border-top:1px solid var(--rule-soft);
+  font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--muted);
+}
+.note{
+  font-size:12.5px; line-height:1.45; color:var(--clay);
+  background:var(--clay-soft); border-left:2px solid var(--clay); padding:7px 10px;
+}
+.note b{font-weight:600}
+
+/* ---------- key ---------- */
+.key{margin-top:52px; border-top:2px solid var(--ink); padding-top:26px}
+.key h2{font-size:19px; margin-bottom:6px}
+.key > p{max-width:64ch; font-size:14px; color:var(--muted); margin:0 0 20px}
+.keygrid{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1px; background:var(--rule-soft); border:1px solid var(--rule-soft)}
+.keyitem{background:var(--panel); padding:13px 15px}
+.keyitem dt{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.1em; color:var(--accent); margin-bottom:5px}
+.keyitem dd{margin:0; font-size:13.5px; color:var(--body)}
+
+footer{border-top:1px solid var(--rule); margin-top:44px; padding:22px 0 40px; color:var(--muted); font-size:12.5px}
+footer p{margin:0 0 6px; max-width:70ch}
+
+@media (max-width:640px){
+  .mast{padding:32px 0 24px}
+  .grid{grid-template-columns:1fr}
+  .sect-count{display:none}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+<header><div class="wrap"><div class="mast">
+<div class="eyebrow">Remember Forward &middot; content plan</div>
+<h1>The Pictorial Lexicon Index</h1>
+<p class="standfirst">Every word in the lexicon, placed on a plate. Built on the Oxford&ndash;Duden pictorial model &mdash; 28,000 entries across 384 plates &mdash; but run deliberately lighter, at about 55 words per plate instead of 73, so that <strong>every word stays readable by the naked eye</strong>. No magnifier anywhere in this set. Numbered callouts point into the picture; the words themselves live in a margin strip that can be re-etched per language while the drawing stays untouched.</p>
+<dl class="figures">
+<div class="fig"><dt>Plates</dt><dd>89 <small>scene faces</small></dd></div>
+<div class="fig"><dt>Words</dt><dd>4,880 <small>~55 each</small></dd></div>
+<div class="fig"><dt>Two-sided</dt><dd>45 <small>120&times;170mm</small></dd></div>
+<div class="fig"><dt>Area</dt><dd>1.82 <small>m&sup2; engraved</small></dd></div>
+<div class="fig"><dt>Titanium</dt><dd>$241 <small>per set, PCM</small></dd></div>
+<div class="fig"><dt>Ceramic</dt><dd>$115 <small>per set, decal</small></dd></div>
+</dl>
+</div></div></header>
+<div class="controls"><div class="wrap"><div class="ctl-row">
+<span class="ctl-label">Grammar</span>
+<button class="chip" data-key="grammar" data-val="ALL" aria-pressed="true">All</button>
+<button class="chip" data-key="grammar" data-val="SEQUENCE" aria-pressed="false">Sequence <span class="mono">32</span></button>
+<button class="chip" data-key="grammar" data-val="SCENE" aria-pressed="false">Scene <span class="mono">25</span></button>
+<button class="chip" data-key="grammar" data-val="DIAGRAM" aria-pressed="false">Diagram <span class="mono">18</span></button>
+<button class="chip" data-key="grammar" data-val="ARRAY" aria-pressed="false">Array <span class="mono">11</span></button>
+<button class="chip" data-key="grammar" data-val="ANATOMY" aria-pressed="false">Anatomy <span class="mono">3</span></button>
+<span class="ctl-label" style="margin-left:14px">Tier</span>
+<button class="chip" data-key="tier" data-val="ALL" aria-pressed="true">All</button>
+<button class="chip" data-key="tier" data-val="0" aria-pressed="false">Semantic prime <span class="mono">9</span></button>
+<button class="chip" data-key="tier" data-val="1" aria-pressed="false">Core vocabulary <span class="mono">28</span></button>
+<button class="chip" data-key="tier" data-val="2" aria-pressed="false">Extended <span class="mono">52</span></button>
+</div></div></div>
+<main><div class="wrap">
+<section class="sect" id="s-A">
+<div class="sect-head"><span class="sect-letter">A</span><h2 class="sect-title">FOUNDATION</h2><span class="sect-count">6 plates &middot; 305 words</span></div>
+<p class="sect-blurb">How to read the system, and the words everything else is defined in.</p>
+<div class="grid">
+<article class="card" data-grammar="DIAGRAM" data-tier="0">
+<div class="card-top"><span class="callout mono">1</span><span class="card-id">A01</span><span class="tag">DIAGRAM</span></div>
+<h3>How To Read These Plates</h3>
+<p class="depict">The key to the whole system. A callout number pointing into a picture, then the same number in the margin strip beside a word. Arrow = direction. Panel border = one moment. Row of panels = time passing. Hand = do this. Crossed panel = the result went badly.</p>
+<div class="words"><span class="w">number</span><span class="w">word</span><span class="w">picture</span><span class="w">arrow</span><span class="w">step</span><span class="w">before</span><span class="w">after</span><span class="w">same</span><span class="w">this one</span><span class="w">look</span></div>
+<p class="note">Replaces plate00 master key. Build FIRST and functional-test it.</p>
+<div class="meta"><span>40 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="0">
+<div class="card-top"><span class="callout mono">2</span><span class="card-id">A02</span><span class="tag">SCENE</span></div>
+<h3>Person, Body, Being</h3>
+<p class="depict">Several people of different ages and builds standing together, one pointing at self, one pointing at another. Establishes I / you / someone before anything else can be said.</p>
+<div class="words"><span class="w">I</span><span class="w">you</span><span class="w">someone</span><span class="w">people</span><span class="w">body</span><span class="w">person</span><span class="w">self</span><span class="w">other</span><span class="w">one</span><span class="w">many</span><span class="w">alive</span></div>
+<p class="note">NSM primes. Anchors every later plate.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="0">
+<div class="card-top"><span class="callout mono">3</span><span class="card-id">A03</span><span class="tag">SEQUENCE</span></div>
+<h3>Doing, Moving, Happening</h3>
+<p class="depict">Panel pairs: a figure at rest then acting; a stone still then falling; a hand touching then holding. The verb primes shown as change between two panels.</p>
+<div class="words"><span class="w">do</span><span class="w">happen</span><span class="w">move</span><span class="w">touch</span><span class="w">hold</span><span class="w">make</span><span class="w">stop</span><span class="w">start</span><span class="w">go</span><span class="w">come</span></div>
+<p class="note">NSM primes.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="0">
+<div class="card-top"><span class="callout mono">4</span><span class="card-id">A04</span><span class="tag">SCENE</span></div>
+<h3>Saying, Thinking, Knowing, Feeling</h3>
+<p class="depict">Two people talking, with a speech mark from one mouth; a third figure with a thought enclosure above the head containing a small picture of the thing thought about.</p>
+<div class="words"><span class="w">say</span><span class="w">word</span><span class="w">think</span><span class="w">know</span><span class="w">want</span><span class="w">feel</span><span class="w">see</span><span class="w">hear</span><span class="w">true</span><span class="w">not know</span></div>
+<p class="note">NSM primes. The thought-enclosure convention is used on every later plate.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">5</span><span class="card-id">A05</span><span class="tag">DIAGRAM</span></div>
+<h3>Number &amp; Counting</h3>
+<p class="depict">Mayan dot-bar-shell base 20 laid against tally marks and against counted objects, so the notation is taught by direct correspondence rather than assumed.</p>
+<div class="words"><span class="w">one</span><span class="w">two</span><span class="w">five</span><span class="w">ten</span><span class="w">twenty</span><span class="w">zero</span><span class="w">many</span><span class="w">few</span><span class="w">all</span><span class="w">none</span><span class="w">count</span><span class="w">add</span></div>
+<p class="note">Mayan system already settled. Cross-ref plate01 Rosetta index.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="1">
+<div class="card-top"><span class="callout mono">6</span><span class="card-id">A06</span><span class="tag">ARRAY</span></div>
+<h3>Light, Dark &amp; Seeing</h3>
+<p class="depict">The same scene at noon, dusk and by firelight. A shadow cast and its direction traced back to the source. Reflection in still water. What the eye can and cannot resolve at distance.</p>
+<div class="words"><span class="w">light</span><span class="w">dark</span><span class="w">bright</span><span class="w">dim</span><span class="w">shadow</span><span class="w">shine</span><span class="w">reflect</span><span class="w">see</span><span class="w">look</span><span class="w">near</span><span class="w">far</span><span class="w">blind</span></div>
+<p class="note">Feeds H05 lens and I02 the day.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-B">
+<div class="sect-head"><span class="sect-letter">B</span><h2 class="sect-title">BODY &amp; LIFE</h2><span class="sect-count">6 plates &middot; 330 words</span></div>
+<p class="sect-blurb">The one referent every human finder shares.</p>
+<div class="grid">
+<article class="card" data-grammar="ANATOMY" data-tier="1">
+<div class="card-top"><span class="callout mono">7</span><span class="card-id">B01</span><span class="tag">ANATOMY</span></div>
+<h3>The Body Outside</h3>
+<p class="depict">A standing figure, front and back, callouts to every external part. The single most translatable plate in the set - every finder has the referent in hand.</p>
+<div class="words"><span class="w">head</span><span class="w">eye</span><span class="w">ear</span><span class="w">mouth</span><span class="w">tooth</span><span class="w">neck</span><span class="w">arm</span><span class="w">hand</span><span class="w">finger</span><span class="w">chest</span><span class="w">back</span><span class="w">leg</span><span class="w">foot</span><span class="w">skin</span><span class="w">hair</span><span class="w">blood</span></div>
+<div class="meta"><span>70 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="ANATOMY" data-tier="2">
+<div class="card-top"><span class="callout mono">8</span><span class="card-id">B02</span><span class="tag">ANATOMY</span></div>
+<h3>The Body Inside</h3>
+<p class="depict">Cutaway torso and head: skeleton, heart, lungs, gut, brain. Drawn as cross-section because it is the only view that reveals hidden structure.</p>
+<div class="words"><span class="w">bone</span><span class="w">skull</span><span class="w">rib</span><span class="w">heart</span><span class="w">lung</span><span class="w">stomach</span><span class="w">gut</span><span class="w">liver</span><span class="w">brain</span><span class="w">nerve</span><span class="w">muscle</span><span class="w">vein</span></div>
+<p class="note">Supports D-series first aid and injury plates.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">9</span><span class="card-id">B03</span><span class="tag">SEQUENCE</span></div>
+<h3>The Ages Of A Life</h3>
+<p class="depict">Left to right: newborn, child, youth, adult, elder, and the body at death. One continuous figure aging across the panels.</p>
+<div class="words"><span class="w">baby</span><span class="w">child</span><span class="w">boy</span><span class="w">girl</span><span class="w">youth</span><span class="w">adult</span><span class="w">old</span><span class="w">elder</span><span class="w">grow</span><span class="w">age</span><span class="w">live</span><span class="w">die</span></div>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">10</span><span class="card-id">B04</span><span class="tag">DIAGRAM</span></div>
+<h3>Kinship</h3>
+<p class="depict">A family tree with figures rather than boxes, three generations, marriage links and descent links drawn differently. Ego marked with the &#x27;I&#x27; sign from A02.</p>
+<div class="words"><span class="w">mother</span><span class="w">father</span><span class="w">child</span><span class="w">son</span><span class="w">daughter</span><span class="w">sister</span><span class="w">brother</span><span class="w">grandmother</span><span class="w">aunt</span><span class="w">cousin</span><span class="w">husband</span><span class="w">wife</span><span class="w">family</span></div>
+<p class="note">Kinship terms vary enormously between cultures - depict the RELATION, let the strip name it.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">11</span><span class="card-id">B05</span><span class="tag">SEQUENCE</span></div>
+<h3>Birth</h3>
+<p class="depict">Pregnancy, labour positions, the attendant&#x27;s hands, cutting and tying the cord, the newborn warmed against the mother. Consequence strip first: what goes wrong when hands are unwashed.</p>
+<div class="words"><span class="w">pregnant</span><span class="w">womb</span><span class="w">born</span><span class="w">labour</span><span class="w">push</span><span class="w">cord</span><span class="w">tie</span><span class="w">cut</span><span class="w">afterbirth</span><span class="w">warm</span><span class="w">first milk</span><span class="w">midwife</span></div>
+<p class="note">Audit flagged first aid/medical as a missing topic. This is the highest-stakes plate in the set.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">12</span><span class="card-id">B06</span><span class="tag">SCENE</span></div>
+<h3>Death &amp; The Dead</h3>
+<p class="depict">Burial, cairn, pyre, and a grave marker being made - shown as several practices side by side, none privileged, because this is where cultural assumption is most dangerous.</p>
+<div class="words"><span class="w">die</span><span class="w">dead</span><span class="w">body</span><span class="w">bury</span><span class="w">grave</span><span class="w">burn</span><span class="w">mourn</span><span class="w">remember</span><span class="w">mark</span><span class="w">name</span></div>
+<p class="note">Ties to the surface-marker thread.</p>
+<div class="meta"><span>40 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-C">
+<div class="sect-head"><span class="sect-letter">C</span><h2 class="sect-title">IMMEDIATE SURVIVAL</h2><span class="sect-count">8 plates &middot; 445 words</span></div>
+<p class="sect-blurb">The first week. Nothing here can wait.</p>
+<div class="grid">
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">13</span><span class="card-id">C01</span><span class="tag">SCENE</span></div>
+<h3>Finding Water</h3>
+<p class="depict">A landscape read for water: valley bottom, green vegetation band, animal trail converging, seep at a rock base, dew collection. Bad sources marked by consequence panel, not by a crossed circle.</p>
+<div class="words"><span class="w">water</span><span class="w">river</span><span class="w">stream</span><span class="w">spring</span><span class="w">well</span><span class="w">rain</span><span class="w">dew</span><span class="w">seep</span><span class="w">pool</span><span class="w">dig</span><span class="w">carry</span><span class="w">thirst</span></div>
+<p class="note">Wavy horizontal lines = water throughout. Never a teardrop.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">14</span><span class="card-id">C02</span><span class="tag">SEQUENCE</span></div>
+<h3>Making Water Safe</h3>
+<p class="depict">Consequence strip first - drinking bad water, then sickness. Then: cloth pre-filter, sand-charcoal-gravel column, rolling boil, cooled and covered storage.</p>
+<div class="words"><span class="w">dirty</span><span class="w">clean</span><span class="w">filter</span><span class="w">sand</span><span class="w">gravel</span><span class="w">charcoal</span><span class="w">cloth</span><span class="w">boil</span><span class="w">cool</span><span class="w">cover</span><span class="w">safe</span><span class="w">sick</span></div>
+<p class="note">Existing plate02 / plate02_filter_review. Reuse the cross-section material symbols.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">15</span><span class="card-id">C03</span><span class="tag">SEQUENCE</span></div>
+<h3>Making Fire</h3>
+<p class="depict">Bow drill and hand drill in side elevation with the hand-tool relationship clear; tinder nest, ember transfer, feeding up from tinder to kindling to fuel.</p>
+<div class="words"><span class="w">fire</span><span class="w">spark</span><span class="w">ember</span><span class="w">tinder</span><span class="w">kindling</span><span class="w">fuel</span><span class="w">smoke</span><span class="w">flame</span><span class="w">blow</span><span class="w">dry</span><span class="w">hot</span><span class="w">burn</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">16</span><span class="card-id">C04</span><span class="tag">SCENE</span></div>
+<h3>Keeping &amp; Using Fire</h3>
+<p class="depict">A hearth in use: banking for the night, carrying an ember, cooking position, drying rack, smoke management inside a shelter, and what an unattended fire does.</p>
+<div class="words"><span class="w">hearth</span><span class="w">bank</span><span class="w">carry</span><span class="w">ash</span><span class="w">coal</span><span class="w">cook</span><span class="w">dry</span><span class="w">smoke</span><span class="w">vent</span><span class="w">spread</span><span class="w">put out</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">17</span><span class="card-id">C05</span><span class="tag">SEQUENCE</span></div>
+<h3>Shelter Now</h3>
+<p class="depict">Overnight shelter from what is at hand: debris hut, lean-to, snow trench, rock overhang. Built in sequence, with the insulating layer thickness made explicit.</p>
+<div class="words"><span class="w">shelter</span><span class="w">roof</span><span class="w">wall</span><span class="w">branch</span><span class="w">leaf</span><span class="w">bark</span><span class="w">snow</span><span class="w">insulate</span><span class="w">ground</span><span class="w">bed</span><span class="w">wind</span><span class="w">dry</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">18</span><span class="card-id">C06</span><span class="tag">SCENE</span></div>
+<h3>Shelter To Last</h3>
+<p class="depict">Construction cutaway: foundation, post and beam, wattle and daub, thatch and shingle roofing, a smoke hole, a door. Cross-section so the wall&#x27;s inside is visible.</p>
+<div class="words"><span class="w">post</span><span class="w">beam</span><span class="w">frame</span><span class="w">wall</span><span class="w">daub</span><span class="w">thatch</span><span class="w">shingle</span><span class="w">floor</span><span class="w">door</span><span class="w">window</span><span class="w">chimney</span><span class="w">foundation</span></div>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="1">
+<div class="card-top"><span class="callout mono">19</span><span class="card-id">C07</span><span class="tag">ARRAY</span></div>
+<h3>Cold, Heat &amp; Weather</h3>
+<p class="depict">Paired panels: the body losing heat vs holding it; layered clothing vs soaked clothing; shade and water vs sun exposure. Frostbite and heat collapse shown as consequence, drawn on the body.</p>
+<div class="words"><span class="w">cold</span><span class="w">hot</span><span class="w">wet</span><span class="w">dry</span><span class="w">wind</span><span class="w">shade</span><span class="w">sweat</span><span class="w">shiver</span><span class="w">freeze</span><span class="w">layer</span><span class="w">warm</span><span class="w">cool</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">20</span><span class="card-id">C08</span><span class="tag">SCENE</span></div>
+<h3>Danger</h3>
+<p class="depict">A landscape with real hazards depicted in their settings: thin ice, undercut bank, rockfall, a defensive animal with young, a snake&#x27;s posture, deep mud, standing dead timber.</p>
+<div class="words"><span class="w">danger</span><span class="w">careful</span><span class="w">fall</span><span class="w">deep</span><span class="w">sharp</span><span class="w">poison</span><span class="w">bite</span><span class="w">sting</span><span class="w">animal</span><span class="w">warn</span><span class="w">avoid</span><span class="w">safe</span></div>
+<p class="note">NO skulls, no circle-slash. Hazard must be shown by situation and consequence.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-D">
+<div class="sect-head"><span class="sect-letter">D</span><h2 class="sect-title">HEALTH</h2><span class="sect-count">6 plates &middot; 330 words</span></div>
+<p class="sect-blurb">Staying alive past the first week.</p>
+<div class="grid">
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">21</span><span class="card-id">D01</span><span class="tag">SEQUENCE</span></div>
+<h3>Wounds &amp; Bleeding</h3>
+<p class="depict">Direct pressure, elevation, packing, binding. A deep wound cleaned with boiled cooled water. Consequence panels for a wound left dirty over several days.</p>
+<div class="words"><span class="w">cut</span><span class="w">wound</span><span class="w">bleed</span><span class="w">press</span><span class="w">bind</span><span class="w">bandage</span><span class="w">clean</span><span class="w">stitch</span><span class="w">swell</span><span class="w">pus</span><span class="w">heal</span><span class="w">scar</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">22</span><span class="card-id">D02</span><span class="tag">SEQUENCE</span></div>
+<h3>Bones &amp; Burns</h3>
+<p class="depict">Splinting a limb, immobilising, slinging. Burn treatment by cooling with water and covering. Shown in side elevation so the hand-to-limb relationship is unambiguous.</p>
+<div class="words"><span class="w">bone</span><span class="w">break</span><span class="w">splint</span><span class="w">bind</span><span class="w">sling</span><span class="w">rest</span><span class="w">burn</span><span class="w">cool</span><span class="w">blister</span><span class="w">cover</span><span class="w">pain</span><span class="w">carry</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="2">
+<div class="card-top"><span class="callout mono">23</span><span class="card-id">D03</span><span class="tag">ARRAY</span></div>
+<h3>Signs Of Sickness</h3>
+<p class="depict">A well body beside a sick one, repeated for each sign: fever shown by sweat and shiver, dehydration by skin and eye, breathing difficulty by posture, infection by the wound&#x27;s edge.</p>
+<div class="words"><span class="w">sick</span><span class="w">fever</span><span class="w">cough</span><span class="w">weak</span><span class="w">thirsty</span><span class="w">vomit</span><span class="w">loose stool</span><span class="w">rash</span><span class="w">swollen</span><span class="w">breath</span><span class="w">pain</span><span class="w">rest</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">24</span><span class="card-id">D04</span><span class="tag">SCENE</span></div>
+<h3>Clean Living</h3>
+<p class="depict">A settlement laid out correctly: latrine sited downhill and away from the well, handwashing at the food place, refuse pit, sick person separated. The single highest-value plate for mortality.</p>
+<div class="words"><span class="w">wash</span><span class="w">hands</span><span class="w">soap</span><span class="w">ash</span><span class="w">latrine</span><span class="w">dig</span><span class="w">cover</span><span class="w">waste</span><span class="w">flies</span><span class="w">water</span><span class="w">distance</span><span class="w">apart</span></div>
+<p class="note">Cross-check OCHA WASH icons before drawing.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">25</span><span class="card-id">D05</span><span class="tag">DIAGRAM</span></div>
+<h3>Plants That Heal</h3>
+<p class="depict">Plant portraits with the used part called out, plus preparation: infusion, decoction, poultice, salve. Deliberately conservative - only widely distributed genera.</p>
+<div class="words"><span class="w">leaf</span><span class="w">root</span><span class="w">bark</span><span class="w">flower</span><span class="w">steep</span><span class="w">boil</span><span class="w">crush</span><span class="w">poultice</span><span class="w">salve</span><span class="w">dose</span><span class="w">strong</span><span class="w">weak</span></div>
+<p class="note">RISK: species distribution changes over millennia. Prefer preparation METHOD over species ID.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">26</span><span class="card-id">D06</span><span class="tag">SCENE</span></div>
+<h3>Pests &amp; Vermin</h3>
+<p class="depict">Rat, louse, flea, fly, mosquito, worm and weevil drawn at readable scale beside what each spoils or causes, with the exclusion measure alongside - raised store, netting, smoke, boiling.</p>
+<div class="words"><span class="w">rat</span><span class="w">mouse</span><span class="w">louse</span><span class="w">flea</span><span class="w">fly</span><span class="w">mosquito</span><span class="w">worm</span><span class="w">weevil</span><span class="w">bite</span><span class="w">itch</span><span class="w">spoil</span><span class="w">exclude</span></div>
+<p class="note">The disease-vector link is the reason this plate exists, not squeamishness.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-E">
+<div class="sect-head"><span class="sect-letter">E</span><h2 class="sect-title">FOOD</h2><span class="sect-count">10 plates &middot; 590 words</span></div>
+<p class="sect-blurb">Getting it, keeping it, not being poisoned by it.</p>
+<div class="grid">
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">27</span><span class="card-id">E01</span><span class="tag">SEQUENCE</span></div>
+<h3>What Can Be Eaten</h3>
+<p class="depict">The universal edibility test as a numbered sequence with waiting periods drawn as sun positions. Contact, lip, tongue, small taste, wait, swallow, wait.</p>
+<div class="words"><span class="w">eat</span><span class="w">taste</span><span class="w">wait</span><span class="w">spit</span><span class="w">poison</span><span class="w">safe</span><span class="w">bitter</span><span class="w">milky</span><span class="w">smell</span><span class="w">test</span><span class="w">little</span><span class="w">sick</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">28</span><span class="card-id">E02</span><span class="tag">SCENE</span></div>
+<h3>Gathering</h3>
+<p class="depict">A foraging landscape by layer: nuts and fruit above, berries and greens at hand height, roots and tubers below ground shown in cutaway.</p>
+<div class="words"><span class="w">fruit</span><span class="w">nut</span><span class="w">seed</span><span class="w">berry</span><span class="w">leaf</span><span class="w">root</span><span class="w">tuber</span><span class="w">mushroom</span><span class="w">ripe</span><span class="w">pick</span><span class="w">dig</span><span class="w">basket</span></div>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">29</span><span class="card-id">E03</span><span class="tag">SCENE</span></div>
+<h3>Hunting &amp; Trapping</h3>
+<p class="depict">Snare, deadfall, pit and net drawn in the setting where each is placed, with the trigger mechanism enlarged. Tracks and sign along the trail.</p>
+<div class="words"><span class="w">hunt</span><span class="w">track</span><span class="w">sign</span><span class="w">trap</span><span class="w">snare</span><span class="w">bait</span><span class="w">spear</span><span class="w">bow</span><span class="w">arrow</span><span class="w">net</span><span class="w">catch</span><span class="w">kill</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">30</span><span class="card-id">E04</span><span class="tag">SCENE</span></div>
+<h3>Fishing</h3>
+<p class="depict">Line and hook, fish trap, weir, spear, net. A river cross-section showing where fish hold, which is the part that actually transfers.</p>
+<div class="words"><span class="w">fish</span><span class="w">hook</span><span class="w">line</span><span class="w">bait</span><span class="w">net</span><span class="w">trap</span><span class="w">weir</span><span class="w">spear</span><span class="w">river</span><span class="w">deep</span><span class="w">shallow</span><span class="w">catch</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">31</span><span class="card-id">E05</span><span class="tag">SEQUENCE</span></div>
+<h3>Butchering</h3>
+<p class="depict">Bleeding, skinning, opening, jointing, and separating what is kept: meat, fat, organs, hide, sinew, bone, gut. Nothing discarded without being named.</p>
+<div class="words"><span class="w">cut</span><span class="w">skin</span><span class="w">hide</span><span class="w">joint</span><span class="w">meat</span><span class="w">fat</span><span class="w">organ</span><span class="w">sinew</span><span class="w">bone</span><span class="w">gut</span><span class="w">blood</span><span class="w">clean</span></div>
+<p class="note">Feeds G04 hides and G01 cordage - sinew is a material, not waste.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">32</span><span class="card-id">E06</span><span class="tag">SCENE</span></div>
+<h3>Cooking</h3>
+<p class="depict">A hearth with the methods around it: roasting, boiling in a pot, stone boiling in a skin, baking in ashes, an earth oven in cutaway.</p>
+<div class="words"><span class="w">cook</span><span class="w">roast</span><span class="w">boil</span><span class="w">bake</span><span class="w">pot</span><span class="w">stone</span><span class="w">ash</span><span class="w">oven</span><span class="w">stir</span><span class="w">raw</span><span class="w">done</span><span class="w">burn</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">33</span><span class="card-id">E07</span><span class="tag">SEQUENCE</span></div>
+<h3>Keeping Food</h3>
+<p class="depict">Drying rack, smoke house in cutaway, salting in a vessel, fermenting crock with the gas escape, cold storage in a pit.</p>
+<div class="words"><span class="w">dry</span><span class="w">smoke</span><span class="w">salt</span><span class="w">ferment</span><span class="w">cool</span><span class="w">store</span><span class="w">jar</span><span class="w">crock</span><span class="w">seal</span><span class="w">brine</span><span class="w">sour</span><span class="w">keep</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="1">
+<div class="card-top"><span class="callout mono">34</span><span class="card-id">E08</span><span class="tag">ARRAY</span></div>
+<h3>Spoiled &amp; Safe</h3>
+<p class="depict">Good food beside the same food spoiled, repeated across types: meat, grain, milk, fruit. Mould, smell, slime, swelling shown directly.</p>
+<div class="words"><span class="w">fresh</span><span class="w">old</span><span class="w">rot</span><span class="w">mould</span><span class="w">smell</span><span class="w">slime</span><span class="w">swell</span><span class="w">throw away</span><span class="w">safe</span><span class="w">sick</span><span class="w">cover</span><span class="w">cold</span></div>
+<p class="note">Audit flagged food safety as missing.</p>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">35</span><span class="card-id">E09</span><span class="tag">DIAGRAM</span></div>
+<h3>The Living World: Plants</h3>
+<p class="depict">A naming structure rather than a species list: tree/shrub/herb/grass/vine/moss/fungus, with leaf shape, edge and arrangement called out as the features that let a finder DESCRIBE an unknown plant.</p>
+<div class="words"><span class="w">tree</span><span class="w">shrub</span><span class="w">herb</span><span class="w">grass</span><span class="w">vine</span><span class="w">moss</span><span class="w">fungus</span><span class="w">leaf</span><span class="w">stem</span><span class="w">root</span><span class="w">flower</span><span class="w">fruit</span><span class="w">thorn</span><span class="w">sap</span></div>
+<p class="note">Teach the descriptive vocabulary, not the field guide. Species distributions shift over millennia.</p>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">36</span><span class="card-id">E10</span><span class="tag">DIAGRAM</span></div>
+<h3>The Living World: Animals</h3>
+<p class="depict">Same approach: body plans grouped - four-legged, winged, finned, many-legged, no-legged - with the parts called out that let an unknown animal be described and its tracks read.</p>
+<div class="words"><span class="w">animal</span><span class="w">bird</span><span class="w">fish</span><span class="w">insect</span><span class="w">snake</span><span class="w">fur</span><span class="w">feather</span><span class="w">scale</span><span class="w">wing</span><span class="w">claw</span><span class="w">horn</span><span class="w">track</span><span class="w">nest</span><span class="w">egg</span></div>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-F">
+<div class="sect-head"><span class="sect-letter">F</span><h2 class="sect-title">AGRICULTURE</h2><span class="sect-count">7 plates &middot; 385 words</span></div>
+<p class="sect-blurb">The shift from finding food to making it.</p>
+<div class="grid">
+<article class="card" data-grammar="ANATOMY" data-tier="2">
+<div class="card-top"><span class="callout mono">37</span><span class="card-id">F01</span><span class="tag">ANATOMY</span></div>
+<h3>Soil</h3>
+<p class="depict">Soil profile in cross-section: litter, topsoil, subsoil, parent rock. Beside it a compost heap in cutaway and a charcoal-amended dark earth bed.</p>
+<div class="words"><span class="w">soil</span><span class="w">earth</span><span class="w">sand</span><span class="w">clay</span><span class="w">loam</span><span class="w">dark</span><span class="w">compost</span><span class="w">rot</span><span class="w">dung</span><span class="w">worm</span><span class="w">fertile</span><span class="w">poor</span></div>
+<p class="note">Terra preta is in the idea backlog - this is where it lands.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">38</span><span class="card-id">F02</span><span class="tag">SEQUENCE</span></div>
+<h3>Seeds</h3>
+<p class="depict">Seed saving through the year: selecting the best plant, drying, cleaning, storing dry and cool, and a germination test on a damp cloth.</p>
+<div class="words"><span class="w">seed</span><span class="w">save</span><span class="w">select</span><span class="w">dry</span><span class="w">clean</span><span class="w">store</span><span class="w">cool</span><span class="w">sprout</span><span class="w">test</span><span class="w">viable</span><span class="w">old</span><span class="w">plant</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">39</span><span class="card-id">F03</span><span class="tag">SEQUENCE</span></div>
+<h3>Planting</h3>
+<p class="depict">Ground broken, rows set, spacing shown against a hand span, depth in cutaway, thinning, weeding, and companion planting drawn as a bed layout.</p>
+<div class="words"><span class="w">dig</span><span class="w">break</span><span class="w">row</span><span class="w">furrow</span><span class="w">space</span><span class="w">depth</span><span class="w">sow</span><span class="w">thin</span><span class="w">weed</span><span class="w">water</span><span class="w">seedling</span><span class="w">grow</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">40</span><span class="card-id">F04</span><span class="tag">DIAGRAM</span></div>
+<h3>The Growing Year</h3>
+<p class="depict">A circular year with the sun&#x27;s height at the rim and field tasks around it. Deliberately drawn against solar position, not against any named month.</p>
+<div class="words"><span class="w">spring</span><span class="w">summer</span><span class="w">autumn</span><span class="w">winter</span><span class="w">sow</span><span class="w">tend</span><span class="w">harvest</span><span class="w">rest</span><span class="w">early</span><span class="w">late</span><span class="w">frost</span><span class="w">rain</span></div>
+<p class="note">Links to The Woven Year calendar work.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">41</span><span class="card-id">F05</span><span class="tag">SCENE</span></div>
+<h3>Water For Crops</h3>
+<p class="depict">Contour ditch, swale, check dam, well and lift, and a cutaway of mulch holding moisture in the bed.</p>
+<div class="words"><span class="w">water</span><span class="w">ditch</span><span class="w">channel</span><span class="w">dam</span><span class="w">flood</span><span class="w">drain</span><span class="w">mulch</span><span class="w">dry</span><span class="w">wet</span><span class="w">lift</span><span class="w">bucket</span><span class="w">level</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">42</span><span class="card-id">F06</span><span class="tag">SEQUENCE</span></div>
+<h3>Harvest</h3>
+<p class="depict">Cutting, binding, stacking, threshing, winnowing in the wind, and grain into a raised granary with a rodent guard.</p>
+<div class="words"><span class="w">cut</span><span class="w">sheaf</span><span class="w">stack</span><span class="w">thresh</span><span class="w">winnow</span><span class="w">chaff</span><span class="w">grain</span><span class="w">grind</span><span class="w">flour</span><span class="w">store</span><span class="w">granary</span><span class="w">pest</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">43</span><span class="card-id">F07</span><span class="tag">SCENE</span></div>
+<h3>Animals</h3>
+<p class="depict">Herding, penning, milking, shearing, working animals in harness, and a birthing scene. Drawn across several body types so it does not assume one species.</p>
+<div class="words"><span class="w">animal</span><span class="w">herd</span><span class="w">pen</span><span class="w">feed</span><span class="w">milk</span><span class="w">shear</span><span class="w">wool</span><span class="w">harness</span><span class="w">plough</span><span class="w">young</span><span class="w">breed</span><span class="w">tame</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-G">
+<div class="sect-head"><span class="sect-letter">G</span><h2 class="sect-title">MATERIALS &amp; MAKING</h2><span class="sect-count">11 plates &middot; 630 words</span></div>
+<p class="sect-blurb">Turning the world into things. The rebuild spine.</p>
+<div class="grid">
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">44</span><span class="card-id">G01</span><span class="tag">SEQUENCE</span></div>
+<h3>Cord &amp; Knots</h3>
+<p class="depict">Fibre sources, retting, stripping, and the reverse-wrap twist shown in enlarged hand detail. Then the knots that matter, each drawn mid-tie and finished.</p>
+<div class="words"><span class="w">fibre</span><span class="w">strip</span><span class="w">ret</span><span class="w">twist</span><span class="w">spin</span><span class="w">cord</span><span class="w">rope</span><span class="w">knot</span><span class="w">loop</span><span class="w">bind</span><span class="w">tight</span><span class="w">strong</span></div>
+<p class="note">Reverse-wrap is the single highest-leverage manual skill in the set.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">45</span><span class="card-id">G02</span><span class="tag">SEQUENCE</span></div>
+<h3>Baskets &amp; Weaving</h3>
+<p class="depict">Coiling and plaiting shown stitch by stitch at large scale, a base started, sides raised, rim finished.</p>
+<div class="words"><span class="w">weave</span><span class="w">coil</span><span class="w">plait</span><span class="w">warp</span><span class="w">weft</span><span class="w">reed</span><span class="w">split</span><span class="w">base</span><span class="w">side</span><span class="w">rim</span><span class="w">tight</span><span class="w">basket</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">46</span><span class="card-id">G03</span><span class="tag">SEQUENCE</span></div>
+<h3>Cloth</h3>
+<p class="depict">Fibre to thread to cloth: carding, the drop spindle in motion, a warp-weighted loom in elevation with the shed opening, and the finished web cut free.</p>
+<div class="words"><span class="w">fibre</span><span class="w">card</span><span class="w">spindle</span><span class="w">spin</span><span class="w">thread</span><span class="w">loom</span><span class="w">warp</span><span class="w">weft</span><span class="w">shed</span><span class="w">weave</span><span class="w">cloth</span><span class="w">cut</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">47</span><span class="card-id">G04</span><span class="tag">SEQUENCE</span></div>
+<h3>Hides &amp; Leather</h3>
+<p class="depict">Fleshing, dehairing, brain or bark tanning, stretching on a frame, softening by working, and smoking to set it.</p>
+<div class="words"><span class="w">hide</span><span class="w">flesh</span><span class="w">hair</span><span class="w">soak</span><span class="w">tan</span><span class="w">bark</span><span class="w">brain</span><span class="w">stretch</span><span class="w">frame</span><span class="w">soften</span><span class="w">smoke</span><span class="w">leather</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">48</span><span class="card-id">G05</span><span class="tag">SCENE</span></div>
+<h3>Wood</h3>
+<p class="depict">Felling with the notch and back cut, splitting with wedges along the grain, shaping, and the joints - mortise, lap, peg - drawn in cutaway.</p>
+<div class="words"><span class="w">tree</span><span class="w">fell</span><span class="w">notch</span><span class="w">split</span><span class="w">wedge</span><span class="w">grain</span><span class="w">plank</span><span class="w">carve</span><span class="w">joint</span><span class="w">mortise</span><span class="w">peg</span><span class="w">glue</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">49</span><span class="card-id">G06</span><span class="tag">SEQUENCE</span></div>
+<h3>Stone</h3>
+<p class="depict">Knapping shown as a striking sequence with the platform and flake scar enlarged; grinding an edge on a wet stone; dry-stone walling with the courses stepped.</p>
+<div class="words"><span class="w">stone</span><span class="w">strike</span><span class="w">flake</span><span class="w">edge</span><span class="w">sharp</span><span class="w">grind</span><span class="w">wet</span><span class="w">polish</span><span class="w">wall</span><span class="w">course</span><span class="w">fit</span><span class="w">level</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">50</span><span class="card-id">G07</span><span class="tag">SEQUENCE</span></div>
+<h3>Clay &amp; Pots</h3>
+<p class="depict">Digging and cleaning clay, wedging, coiling a vessel, drying to leather hard, burnishing, and firing in a pit. Deliberately self-referential: this is how you would make more of these plates.</p>
+<div class="words"><span class="w">clay</span><span class="w">dig</span><span class="w">wash</span><span class="w">wedge</span><span class="w">coil</span><span class="w">shape</span><span class="w">dry</span><span class="w">fire</span><span class="w">pit</span><span class="w">glaze</span><span class="w">crack</span><span class="w">pot</span></div>
+<p class="note">SELF-REFERENTIAL. Links to the ceramic medium the plate itself is made from.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">51</span><span class="card-id">G08</span><span class="tag">SEQUENCE</span></div>
+<h3>Hot Fire</h3>
+<p class="depict">Charcoal retort, bellows in section, an updraught kiln and a bloomery shaft in cutaway with the air path drawn as arrows.</p>
+<div class="words"><span class="w">charcoal</span><span class="w">retort</span><span class="w">bellows</span><span class="w">air</span><span class="w">draught</span><span class="w">kiln</span><span class="w">furnace</span><span class="w">shaft</span><span class="w">hot</span><span class="w">glow</span><span class="w">slag</span><span class="w">fuel</span></div>
+<p class="note">Existing plate02a charcoal retort. The 02b-02d series lands here.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">52</span><span class="card-id">G09</span><span class="tag">SEQUENCE</span></div>
+<h3>Metal</h3>
+<p class="depict">Ore recognised in the ground, roasted, smelted to a bloom, the bloom consolidated, then forged, quenched and tempered - with colour of the hot metal called out.</p>
+<div class="words"><span class="w">ore</span><span class="w">roast</span><span class="w">smelt</span><span class="w">bloom</span><span class="w">slag</span><span class="w">forge</span><span class="w">hammer</span><span class="w">anvil</span><span class="w">quench</span><span class="w">temper</span><span class="w">hard</span><span class="w">soft</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">53</span><span class="card-id">G10</span><span class="tag">DIAGRAM</span></div>
+<h3>Containers &amp; Vessels</h3>
+<p class="depict">Everything that holds something, grouped by what it must resist: water, weight, vermin, air. Pot, gourd, basket, sack, skin, box, barrel, and the lids and seals for each.</p>
+<div class="words"><span class="w">pot</span><span class="w">jar</span><span class="w">gourd</span><span class="w">basket</span><span class="w">sack</span><span class="w">skin</span><span class="w">box</span><span class="w">barrel</span><span class="w">lid</span><span class="w">stopper</span><span class="w">seal</span><span class="w">tight</span><span class="w">leak</span><span class="w">hold</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">54</span><span class="card-id">G11</span><span class="tag">SEQUENCE</span></div>
+<h3>Clothing &amp; Footwear</h3>
+<p class="depict">A garment cut from a hide and from woven cloth, laid flat then worn. Layering for cold in cutaway. A shoe built from sole to upper, and repair at the wear points.</p>
+<div class="words"><span class="w">cloth</span><span class="w">cut</span><span class="w">sew</span><span class="w">needle</span><span class="w">thread</span><span class="w">seam</span><span class="w">coat</span><span class="w">shirt</span><span class="w">belt</span><span class="w">shoe</span><span class="w">sole</span><span class="w">patch</span><span class="w">mend</span><span class="w">wear</span></div>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-H">
+<div class="sect-head"><span class="sect-letter">H</span><h2 class="sect-title">TOOLS &amp; TECHNOLOGY</h2><span class="sect-count">8 plates &middot; 440 words</span></div>
+<p class="sect-blurb">Force, motion, and the machines that multiply them.</p>
+<div class="grid">
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">55</span><span class="card-id">H01</span><span class="tag">DIAGRAM</span></div>
+<h3>Hand Tools</h3>
+<p class="depict">Tools grouped by what they DO rather than by trade: cut, strike, bore, grip, scrape, dig. Each in side elevation with the hand in place.</p>
+<div class="words"><span class="w">knife</span><span class="w">axe</span><span class="w">adze</span><span class="w">saw</span><span class="w">hammer</span><span class="w">chisel</span><span class="w">drill</span><span class="w">awl</span><span class="w">file</span><span class="w">tongs</span><span class="w">handle</span><span class="w">edge</span></div>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">56</span><span class="card-id">H02</span><span class="tag">DIAGRAM</span></div>
+<h3>Simple Machines</h3>
+<p class="depict">Lever, wheel and axle, pulley, wedge, screw, inclined plane - each shown twice: the bare principle, then a person actually using it to move a load.</p>
+<div class="words"><span class="w">lever</span><span class="w">fulcrum</span><span class="w">load</span><span class="w">wheel</span><span class="w">axle</span><span class="w">pulley</span><span class="w">rope</span><span class="w">wedge</span><span class="w">screw</span><span class="w">ramp</span><span class="w">lift</span><span class="w">force</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">57</span><span class="card-id">H03</span><span class="tag">SCENE</span></div>
+<h3>Turning</h3>
+<p class="depict">Rotary motion: spindle, hand quern, pole lathe with the treadle and springpole, potter&#x27;s wheel, drill bow.</p>
+<div class="words"><span class="w">turn</span><span class="w">spin</span><span class="w">round</span><span class="w">axle</span><span class="w">bearing</span><span class="w">quern</span><span class="w">grind</span><span class="w">lathe</span><span class="w">treadle</span><span class="w">bow</span><span class="w">fast</span><span class="w">slow</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">58</span><span class="card-id">H04</span><span class="tag">SCENE</span></div>
+<h3>Water &amp; Wind</h3>
+<p class="depict">Undershot and overshot wheels in elevation with the water path, a sail mill, and the drive train from wheel to millstone.</p>
+<div class="words"><span class="w">water</span><span class="w">wheel</span><span class="w">flow</span><span class="w">fall</span><span class="w">sail</span><span class="w">wind</span><span class="w">turn</span><span class="w">shaft</span><span class="w">gear</span><span class="w">mill</span><span class="w">stone</span><span class="w">power</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">59</span><span class="card-id">H05</span><span class="tag">SEQUENCE</span></div>
+<h3>Glass &amp; Lens</h3>
+<p class="depict">Sand, ash and lime melted, gathered, blown and cast; then a blank ground and polished into a lens, with the ray path drawn through it and an image formed.</p>
+<div class="words"><span class="w">sand</span><span class="w">ash</span><span class="w">lime</span><span class="w">melt</span><span class="w">glass</span><span class="w">blow</span><span class="w">cast</span><span class="w">grind</span><span class="w">polish</span><span class="w">lens</span><span class="w">light</span><span class="w">image</span></div>
+<p class="note">The lens is already a decided capsule item - this is how a finder makes another.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">60</span><span class="card-id">H06</span><span class="tag">SEQUENCE</span></div>
+<h3>Writing &amp; Copying</h3>
+<p class="depict">Marking surfaces made: charcoal stick, ink from soot and gum, a reed pen, bark and cloth. Then relief carving inked and pressed - a rubbing taken directly off an engraved plate.</p>
+<div class="words"><span class="w">mark</span><span class="w">write</span><span class="w">ink</span><span class="w">soot</span><span class="w">gum</span><span class="w">pen</span><span class="w">surface</span><span class="w">bark</span><span class="w">carve</span><span class="w">press</span><span class="w">rub</span><span class="w">copy</span></div>
+<p class="note">SELF-REFERENTIAL and the most important plate for propagation. Half-etch relief means these plates ARE printing plates.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">61</span><span class="card-id">H07</span><span class="tag">SCENE</span></div>
+<h3>Boats &amp; Water</h3>
+<p class="depict">Raft, dugout, skin boat and plank hull in cutaway; paddle, oar, pole and sail; how a hull is made watertight; loading and trim; reading current and shallow water.</p>
+<div class="words"><span class="w">boat</span><span class="w">raft</span><span class="w">hull</span><span class="w">keel</span><span class="w">plank</span><span class="w">caulk</span><span class="w">paddle</span><span class="w">oar</span><span class="w">pole</span><span class="w">sail</span><span class="w">mast</span><span class="w">anchor</span><span class="w">float</span><span class="w">sink</span><span class="w">current</span><span class="w">trim</span></div>
+<p class="note">Cormac is a merchant mariner - this is the plate where his own expertise beats any source. Overlaps G01 for knots and rigging.</p>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">62</span><span class="card-id">H08</span><span class="tag">SCENE</span></div>
+<h3>Carrying &amp; Hauling</h3>
+<p class="depict">Load on the back, head and shoulder; pack frame; travois; sled on snow; roller and skid; a cart with the axle in cutaway. Each shown against the load it suits.</p>
+<div class="words"><span class="w">carry</span><span class="w">load</span><span class="w">pack</span><span class="w">frame</span><span class="w">strap</span><span class="w">drag</span><span class="w">sled</span><span class="w">roller</span><span class="w">skid</span><span class="w">cart</span><span class="w">axle</span><span class="w">yoke</span><span class="w">push</span><span class="w">pull</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-I">
+<div class="sect-head"><span class="sect-letter">I</span><h2 class="sect-title">MEASURE, TIME &amp; PLACE</h2><span class="sect-count">8 plates &middot; 410 words</span></div>
+<p class="sect-blurb">Knowing where and when you are.</p>
+<div class="grid">
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">63</span><span class="card-id">I01</span><span class="tag">DIAGRAM</span></div>
+<h3>Measuring</h3>
+<p class="depict">Body-based units shown against a fixed engraved rule on the plate edge, so a real standard can be recovered. Balance beam for weight, marked vessel for volume.</p>
+<div class="words"><span class="w">length</span><span class="w">span</span><span class="w">cubit</span><span class="w">pace</span><span class="w">rule</span><span class="w">mark</span><span class="w">weight</span><span class="w">balance</span><span class="w">heavy</span><span class="w">light</span><span class="w">volume</span><span class="w">full</span></div>
+<p class="note">Engrave a physical reference scale on the plate itself. The plate IS the standard.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="1">
+<div class="card-top"><span class="callout mono">64</span><span class="card-id">I02</span><span class="tag">DIAGRAM</span></div>
+<h3>The Day</h3>
+<p class="depict">The sun&#x27;s arc with shadow lengths beneath at each position, a gnomon casting them, and the corresponding activity below.</p>
+<div class="words"><span class="w">sun</span><span class="w">rise</span><span class="w">noon</span><span class="w">set</span><span class="w">shadow</span><span class="w">long</span><span class="w">short</span><span class="w">morning</span><span class="w">evening</span><span class="w">night</span><span class="w">dark</span><span class="w">light</span></div>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">65</span><span class="card-id">I03</span><span class="tag">DIAGRAM</span></div>
+<h3>The Year</h3>
+<p class="depict">Solstice and equinox found by shadow length, the sun&#x27;s rising point shifting along the horizon, and the year closing as a circle.</p>
+<div class="words"><span class="w">year</span><span class="w">season</span><span class="w">solstice</span><span class="w">equinox</span><span class="w">horizon</span><span class="w">north</span><span class="w">south</span><span class="w">longest</span><span class="w">shortest</span><span class="w">count</span><span class="w">repeat</span><span class="w">calendar</span></div>
+<p class="note">Links to The Woven Year and the planisphere work.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">66</span><span class="card-id">I04</span><span class="tag">DIAGRAM</span></div>
+<h3>Stars</h3>
+<p class="depict">Circumpolar rotation drawn as arcs, the pole found by construction from a named asterism, altitude equals latitude shown with a horizon angle.</p>
+<div class="words"><span class="w">star</span><span class="w">night</span><span class="w">sky</span><span class="w">turn</span><span class="w">pole</span><span class="w">north</span><span class="w">south</span><span class="w">cross</span><span class="w">rise</span><span class="w">set</span><span class="w">angle</span><span class="w">latitude</span></div>
+<p class="note">WARNING: the Polaris line on existing plate06 is recorded as WRONG. Fix before reuse. Precession matters over this timescale.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">67</span><span class="card-id">I05</span><span class="tag">SCENE</span></div>
+<h3>Place &amp; Landscape</h3>
+<p class="depict">A landscape above, the same ground as a plan map below, with the correspondence lines drawn between them - teaching what a map IS before asking anyone to read one.</p>
+<div class="words"><span class="w">map</span><span class="w">ground</span><span class="w">hill</span><span class="w">valley</span><span class="w">river</span><span class="w">coast</span><span class="w">path</span><span class="w">far</span><span class="w">near</span><span class="w">direction</span><span class="w">mark</span><span class="w">place</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="2">
+<div class="card-top"><span class="callout mono">68</span><span class="card-id">I06</span><span class="tag">ARRAY</span></div>
+<h3>Weather</h3>
+<p class="depict">Cloud forms paired with what follows them, wind shift paired with change, and animal behaviour paired with the coming weather.</p>
+<div class="words"><span class="w">cloud</span><span class="w">rain</span><span class="w">storm</span><span class="w">wind</span><span class="w">fog</span><span class="w">frost</span><span class="w">dry</span><span class="w">flood</span><span class="w">before</span><span class="w">after</span><span class="w">sign</span><span class="w">expect</span></div>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="2">
+<div class="card-top"><span class="callout mono">69</span><span class="card-id">I07</span><span class="tag">ARRAY</span></div>
+<h3>Colour</h3>
+<p class="depict">Colour named against real materials that carry it - ochre, charcoal, chalk, indigo, madder, copper - so the word is anchored to a findable substance, not to a printed swatch.</p>
+<div class="words"><span class="w">red</span><span class="w">yellow</span><span class="w">brown</span><span class="w">black</span><span class="w">white</span><span class="w">green</span><span class="w">blue</span><span class="w">ochre</span><span class="w">charcoal</span><span class="w">chalk</span><span class="w">dye</span><span class="w">stain</span><span class="w">fade</span><span class="w">bright</span></div>
+<p class="note">CERAMIC ONLY at full value - titanium cannot halftone. The rule stands: colour may differentiate, never signify.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">70</span><span class="card-id">I08</span><span class="tag">DIAGRAM</span></div>
+<h3>Working With Number</h3>
+<p class="depict">Operations shown as physical acts on counted objects: combining, taking away, sharing out into equal groups, doubling, halving, and a part of a whole drawn as a divided object.</p>
+<div class="words"><span class="w">add</span><span class="w">take away</span><span class="w">share</span><span class="w">equal</span><span class="w">group</span><span class="w">double</span><span class="w">half</span><span class="w">part</span><span class="w">whole</span><span class="w">more</span><span class="w">less</span><span class="w">measure</span><span class="w">times</span><span class="w">left over</span></div>
+<p class="note">Builds on A05. Mayan dot-bar throughout.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-J">
+<div class="sect-head"><span class="sect-letter">J</span><h2 class="sect-title">SOCIETY &amp; GOVERNANCE</h2><span class="sect-count">8 plates &middot; 430 words</span></div>
+<p class="sect-blurb">Living together without it going wrong.</p>
+<div class="grid">
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">71</span><span class="card-id">J01</span><span class="tag">SCENE</span></div>
+<h3>Working Together</h3>
+<p class="depict">One person failing to move a load; several moving it easily; a task divided into parts along a line of people. Cooperation shown as a mechanical fact first.</p>
+<div class="words"><span class="w">work</span><span class="w">help</span><span class="w">together</span><span class="w">share</span><span class="w">turn</span><span class="w">part</span><span class="w">lift</span><span class="w">carry</span><span class="w">task</span><span class="w">group</span><span class="w">alone</span><span class="w">enough</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">72</span><span class="card-id">J02</span><span class="tag">SCENE</span></div>
+<h3>Trade &amp; Value</h3>
+<p class="depict">Direct exchange, then a third good used as a measure between two others, then a marked token standing for it. The abstraction of money built up in three steps.</p>
+<div class="words"><span class="w">give</span><span class="w">take</span><span class="w">trade</span><span class="w">exchange</span><span class="w">worth</span><span class="w">more</span><span class="w">less</span><span class="w">equal</span><span class="w">token</span><span class="w">debt</span><span class="w">owe</span><span class="w">pay</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">73</span><span class="card-id">J03</span><span class="tag">DIAGRAM</span></div>
+<h3>What Is Held In Common</h3>
+<p class="depict">A shared water source and pasture with boundary, users, and rules of access drawn as a bounded diagram. Overuse shown as a consequence sequence beneath.</p>
+<div class="words"><span class="w">common</span><span class="w">share</span><span class="w">boundary</span><span class="w">use</span><span class="w">limit</span><span class="w">rule</span><span class="w">member</span><span class="w">outside</span><span class="w">overuse</span><span class="w">empty</span><span class="w">keep</span><span class="w">care</span></div>
+<p class="note">Ostrom series 05A-05I. This is their pictorial entry point.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">74</span><span class="card-id">J04</span><span class="tag">SEQUENCE</span></div>
+<h3>Promise &amp; Agreement</h3>
+<p class="depict">Two parties, a stated undertaking, a witness present, a mark made on a durable thing, and the two panels that follow: kept, and broken.</p>
+<div class="words"><span class="w">promise</span><span class="w">agree</span><span class="w">witness</span><span class="w">mark</span><span class="w">record</span><span class="w">keep</span><span class="w">break</span><span class="w">trust</span><span class="w">before</span><span class="w">after</span><span class="w">true</span><span class="w">false</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">75</span><span class="card-id">J05</span><span class="tag">SEQUENCE</span></div>
+<h3>Dispute &amp; Judgment</h3>
+<p class="depict">A conflict, both accounts heard in separate panels, a third party listening, evidence shown, a decision, and restitution made.</p>
+<div class="words"><span class="w">argue</span><span class="w">claim</span><span class="w">hear</span><span class="w">both</span><span class="w">witness</span><span class="w">evidence</span><span class="w">judge</span><span class="w">decide</span><span class="w">fair</span><span class="w">wrong</span><span class="w">repay</span><span class="w">end</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">76</span><span class="card-id">J06</span><span class="tag">SEQUENCE</span></div>
+<h3>Deciding Together</h3>
+<p class="depict">An assembly: the matter raised, speaking in turn, counting the sides, the decision recorded, and the minority still present afterward.</p>
+<div class="words"><span class="w">meet</span><span class="w">speak</span><span class="w">turn</span><span class="w">listen</span><span class="w">count</span><span class="w">most</span><span class="w">few</span><span class="w">decide</span><span class="w">record</span><span class="w">follow</span><span class="w">change</span><span class="w">again</span></div>
+<p class="note">Governance series 05A-05I.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">77</span><span class="card-id">J07</span><span class="tag">SEQUENCE</span></div>
+<h3>When It Goes Wrong</h3>
+<p class="depict">The corruption sequence drawn as stages: crisis, emergency power, permanence, and at each stage the interruption that stops it. Group-count grammar, not diminished figures.</p>
+<div class="words"><span class="w">power</span><span class="w">few</span><span class="w">many</span><span class="w">fear</span><span class="w">take</span><span class="w">hold</span><span class="w">hide</span><span class="w">ask</span><span class="w">refuse</span><span class="w">open</span><span class="w">stop</span><span class="w">return</span></div>
+<p class="note">BLOCKED on the diminished-figure vocabulary problem. Prefer group-count over posture.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="2">
+<div class="card-top"><span class="callout mono">78</span><span class="card-id">J08</span><span class="tag">SEQUENCE</span></div>
+<h3>Strangers &amp; Boundaries</h3>
+<p class="depict">Two groups meeting: approach in the open, hands shown empty, goods set down and stepped back from, a boundary marked and respected. Then the panels where it goes wrong, and the repair.</p>
+<div class="words"><span class="w">stranger</span><span class="w">meet</span><span class="w">approach</span><span class="w">open</span><span class="w">empty</span><span class="w">give</span><span class="w">boundary</span><span class="w">edge</span><span class="w">cross</span><span class="w">permit</span><span class="w">refuse</span><span class="w">peace</span><span class="w">fight</span><span class="w">repair</span></div>
+<p class="note">Silent trade is attested independently across unconnected cultures - one of the few genuinely universal protocols.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-K">
+<div class="sect-head"><span class="sect-letter">K</span><h2 class="sect-title">LANGUAGE &amp; MIND</h2><span class="sect-count">6 plates &middot; 300 words</span></div>
+<p class="sect-blurb">Speech, record, teaching, inner life.</p>
+<div class="grid">
+<article class="card" data-grammar="SCENE" data-tier="1">
+<div class="card-top"><span class="callout mono">79</span><span class="card-id">K01</span><span class="tag">SCENE</span></div>
+<h3>Speaking &amp; Naming</h3>
+<p class="depict">Pointing at a thing and saying its name; asking and being answered; a misunderstanding and its repair. The act of naming shown as an act.</p>
+<div class="words"><span class="w">speak</span><span class="w">say</span><span class="w">name</span><span class="w">call</span><span class="w">ask</span><span class="w">answer</span><span class="w">tell</span><span class="w">hear</span><span class="w">understand</span><span class="w">repeat</span><span class="w">mean</span><span class="w">word</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">80</span><span class="card-id">K02</span><span class="tag">DIAGRAM</span></div>
+<h3>Writing Systems</h3>
+<p class="depict">The same short sentence in several scripts side by side with the sound correspondence marked - alphabet, abjad, syllabary and logograph shown as different solutions to one problem.</p>
+<div class="words"><span class="w">write</span><span class="w">letter</span><span class="w">sign</span><span class="w">sound</span><span class="w">script</span><span class="w">read</span><span class="w">line</span><span class="w">direction</span><span class="w">left</span><span class="w">right</span><span class="w">same</span><span class="w">different</span></div>
+<p class="note">Links to plate01 Rosetta index and the 50-language series.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="1">
+<div class="card-top"><span class="callout mono">81</span><span class="card-id">K03</span><span class="tag">SEQUENCE</span></div>
+<h3>Teaching</h3>
+<p class="depict">Watching, being shown, trying and failing, being corrected, doing it alone, then showing someone else. The transmission loop closed explicitly.</p>
+<div class="words"><span class="w">learn</span><span class="w">teach</span><span class="w">show</span><span class="w">watch</span><span class="w">try</span><span class="w">fail</span><span class="w">again</span><span class="w">correct</span><span class="w">practise</span><span class="w">know</span><span class="w">remember</span><span class="w">pass on</span></div>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="1">
+<div class="card-top"><span class="callout mono">82</span><span class="card-id">K04</span><span class="tag">ARRAY</span></div>
+<h3>Feeling</h3>
+<p class="depict">Faces and whole-body postures paired with the situation that caused them, because posture without context does not translate. Situation on the left, body on the right.</p>
+<div class="words"><span class="w">happy</span><span class="w">sad</span><span class="w">angry</span><span class="w">afraid</span><span class="w">calm</span><span class="w">tired</span><span class="w">hurt</span><span class="w">glad</span><span class="w">alone</span><span class="w">loved</span><span class="w">want</span><span class="w">enough</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 1 &mdash; Core vocabulary</span></div>
+</article>
+<article class="card" data-grammar="SCENE" data-tier="2">
+<div class="card-top"><span class="callout mono">83</span><span class="card-id">K05</span><span class="tag">SCENE</span></div>
+<h3>Belief &amp; Ritual</h3>
+<p class="depict">Several practices shown side by side without hierarchy: gathering, marking a season, honouring the dead, an oath taken. Deliberately plural.</p>
+<div class="words"><span class="w">believe</span><span class="w">holy</span><span class="w">gather</span><span class="w">song</span><span class="w">dance</span><span class="w">offer</span><span class="w">oath</span><span class="w">spirit</span><span class="w">ancestor</span><span class="w">season</span><span class="w">mark</span><span class="w">together</span></div>
+<p class="note">HIGH cultural-assumption risk. Depict the ACT, never the doctrine.</p>
+<div class="meta"><span>45 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+<article class="card" data-grammar="DIAGRAM" data-tier="2">
+<div class="card-top"><span class="callout mono">84</span><span class="card-id">K06</span><span class="tag">DIAGRAM</span></div>
+<h3>Sound &amp; Music</h3>
+<p class="depict">A string and a pipe shortened in steps with the pitch change marked, a stretched skin struck, and beats drawn as evenly spaced marks along a line.</p>
+<div class="words"><span class="w">sound</span><span class="w">loud</span><span class="w">quiet</span><span class="w">high</span><span class="w">low</span><span class="w">string</span><span class="w">pipe</span><span class="w">drum</span><span class="w">pluck</span><span class="w">strike</span><span class="w">blow</span><span class="w">beat</span><span class="w">rhythm</span><span class="w">song</span></div>
+<p class="note">Links to plate08 physics of sound and plate09 audio playback.</p>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 2 &mdash; Extended</span></div>
+</article>
+</div></section>
+<section class="sect" id="s-L">
+<div class="sect-head"><span class="sect-letter">L</span><h2 class="sect-title">ABSTRACT RESIDUE</h2><span class="sect-count">5 plates &middot; 285 words</span></div>
+<p class="sect-blurb">The words no scene can hold. Contrast does the work instead.</p>
+<div class="grid">
+<article class="card" data-grammar="ARRAY" data-tier="0">
+<div class="card-top"><span class="callout mono">85</span><span class="card-id">L01</span><span class="tag">ARRAY</span></div>
+<h3>Opposites: Things</h3>
+<p class="depict">Paired panels, identical but for the one property: big/small stone, hot/cold water with steam and ice, wet/dry cloth, hard/soft, heavy/light on a balance.</p>
+<div class="words"><span class="w">big</span><span class="w">small</span><span class="w">hot</span><span class="w">cold</span><span class="w">wet</span><span class="w">dry</span><span class="w">hard</span><span class="w">soft</span><span class="w">heavy</span><span class="w">light</span><span class="w">full</span><span class="w">empty</span><span class="w">open</span><span class="w">shut</span></div>
+<div class="meta"><span>65 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="0">
+<div class="card-top"><span class="callout mono">86</span><span class="card-id">L02</span><span class="tag">ARRAY</span></div>
+<h3>Opposites: Judgments</h3>
+<p class="depict">Value words shown by consequence rather than assertion: the good act and its outcome beside the bad act and its outcome. Never a tick or a cross.</p>
+<div class="words"><span class="w">good</span><span class="w">bad</span><span class="w">true</span><span class="w">false</span><span class="w">right</span><span class="w">wrong</span><span class="w">fair</span><span class="w">unfair</span><span class="w">kind</span><span class="w">cruel</span><span class="w">safe</span><span class="w">danger</span></div>
+<p class="note">The hardest plate to draw honestly. Consequence, not symbol.</p>
+<div class="meta"><span>60 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="0">
+<div class="card-top"><span class="callout mono">87</span><span class="card-id">L03</span><span class="tag">ARRAY</span></div>
+<h3>Where</h3>
+<p class="depict">One object and one reference, redrawn for each relation: in, on, under, beside, between, inside, behind, above, near, far.</p>
+<div class="words"><span class="w">in</span><span class="w">on</span><span class="w">under</span><span class="w">over</span><span class="w">beside</span><span class="w">between</span><span class="w">inside</span><span class="w">outside</span><span class="w">behind</span><span class="w">near</span><span class="w">far</span><span class="w">here</span></div>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="ARRAY" data-tier="0">
+<div class="card-top"><span class="callout mono">88</span><span class="card-id">L04</span><span class="tag">ARRAY</span></div>
+<h3>Moving</h3>
+<p class="depict">A figure and a fixed marker, redrawn for each: come, go, up, down, in, out, through, across, around, toward, away, stop.</p>
+<div class="words"><span class="w">come</span><span class="w">go</span><span class="w">up</span><span class="w">down</span><span class="w">in</span><span class="w">out</span><span class="w">through</span><span class="w">across</span><span class="w">around</span><span class="w">toward</span><span class="w">away</span><span class="w">stop</span></div>
+<div class="meta"><span>50 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+<article class="card" data-grammar="SEQUENCE" data-tier="0">
+<div class="card-top"><span class="callout mono">89</span><span class="card-id">L05</span><span class="tag">SEQUENCE</span></div>
+<h3>If, Because, Maybe</h3>
+<p class="depict">Logic drawn as branching panels: one cause and its effect; the same act not done and nothing following; a fork with both outcomes drawn for &#x27;maybe&#x27;; all/some/none as counted groups.</p>
+<div class="words"><span class="w">if</span><span class="w">then</span><span class="w">because</span><span class="w">not</span><span class="w">maybe</span><span class="w">can</span><span class="w">all</span><span class="w">some</span><span class="w">none</span><span class="w">same</span><span class="w">other</span><span class="w">before</span><span class="w">after</span></div>
+<p class="note">NSM primes. The most abstract plate and the one that makes every definition elsewhere possible.</p>
+<div class="meta"><span>55 words</span><span>&middot;</span><span>Tier 0 &mdash; Semantic prime</span></div>
+</article>
+</div></section>
+<section class="key">
+<h2>Plate grammars</h2>
+<p>Not everything is a scene. The abstract residue &mdash; quantity, logic, judgment, position &mdash; resists depiction in a setting, so it gets its own forms. Choosing the wrong grammar is the most likely way one of these plates fails.</p>
+<dl class="keygrid">
+<div class="keyitem"><dt>SEQUENCE &mdash; 32</dt><dd>A process over time. Numbered panels, read in order.</dd></div>
+<div class="keyitem"><dt>SCENE &mdash; 25</dt><dd>A place, with people and things in it. Callouts point into the picture.</dd></div>
+<div class="keyitem"><dt>DIAGRAM &mdash; 18</dt><dd>An abstract system drawn as structure.</dd></div>
+<div class="keyitem"><dt>ARRAY &mdash; 11</dt><dd>Meaning carried by contrast. Paired panels, identical but for one thing.</dd></div>
+<div class="keyitem"><dt>ANATOMY &mdash; 3</dt><dd>A whole thing dissected and labelled.</dd></div>
+</dl>
+</section>
+<footer>
+<p>Word counts are budgets, not inventories &mdash; the words themselves are not yet written. Sample callouts on each card show the kind of vocabulary the plate carries and are illustrative only.</p>
+<p>Costs assume a run of 100 and are drawn from the same model as <span class='mono'>lexicon_model.xlsx</span>. Generated from <span class='mono'>plates/lexicon_domains.py</span> &mdash; edit the list there, rebuild this page.</p>
+</footer>
+</div></main>
+<script>
+(function(){
+  var cards=[].slice.call(document.querySelectorAll('.card'));
+  var state={grammar:'ALL',tier:'ALL'};
+  function apply(){
+    cards.forEach(function(c){
+      var okG=state.grammar==='ALL'||c.dataset.grammar===state.grammar;
+      var okT=state.tier==='ALL'||c.dataset.tier===state.tier;
+      c.classList.toggle('dim',!(okG&&okT));
+    });
+    document.querySelectorAll('.sect').forEach(function(s){
+      var vis=s.querySelectorAll('.card:not(.dim)').length;
+      s.hidden = vis===0;
+      var c=s.querySelector('.sect-count');
+      if(c) c.textContent = vis + ' of ' + s.querySelectorAll('.card').length + ' plates';
+    });
+  }
+  document.querySelectorAll('button.chip').forEach(function(b){
+    b.addEventListener('click',function(){
+      var k=b.dataset.key;
+      state[k]=b.dataset.val;
+      document.querySelectorAll('button.chip[data-key="'+k+'"]').forEach(function(o){
+        o.setAttribute('aria-pressed', String(o===b));
+      });
+      apply();
+    });
+  });
+  apply();
+})();
+</script>
