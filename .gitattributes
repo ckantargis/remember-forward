@@ -1,0 +1,21 @@
+# Git was guessing at binary vs text. It guessed right on the 2026-09-01 flyer
+# commit, but a line-ending normalisation applied to a .pdf, .docx or .xlsx
+# silently corrupts the file, and the corruption is only visible when someone
+# tries to open it. Make it explicit.
+
+*.pdf   binary
+*.docx  binary
+*.xlsx  binary
+*.png   binary
+*.jpg   binary
+*.zip   binary
+*.ico   binary
+
+# Text that must keep LF so the SVGs and generators stay byte-stable across
+# platforms.
+*.svg   text eol=lf
+*.py    text eol=lf
+*.md    text eol=lf
+*.html  text eol=lf
+*.txt   text eol=lf
+*.json  text eol=lf
