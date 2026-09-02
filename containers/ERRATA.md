@@ -135,6 +135,63 @@ the website. Both need a rewrite, not a sentence swap:
 
 ---
 
+## Reissued 2026-09-01 — gd_09 and gd_15
+
+Both rebuilt by `containers/build_flyers.py`. Each opens with a
+"What Changed In This Edition" block rather than being edited silently.
+
+**`gd_09_flyer_pvc.docx` → `gd_09_flyer_hdpe.docx`** — the material changed, so
+the filename did. Schedule 80 PVC is withdrawn: it degrades by
+dehydrochlorination, the released acid is autocatalytic, and inside a sealed
+capsule there is nowhere for it to go but onto the contents. The 500–1,000 year
+figure had no evidence behind it — PVC has only existed since the 1930s.
+Replaced with black DR-11 HDPE, design target 100+ years, stated honestly as
+the short tier whose job is to be cheap enough that there are thousands of them.
+
+The closure had to be redesigned, not renamed: HDPE does not solvent-weld.
+Socket fusion or hot-plate welding, no thread, no gasket, no tape — closed
+permanently, on the same reasoning as the seal analysis of 2026-08-08. Added a
+leak test before loading.
+
+Also corrected in that flyer: the burial instruction said to mark the site with
+a "non-ferrous (copper or stainless steel)" stake. **Stainless steel is an iron
+alloy and is not non-ferrous.** Now copper or bronze, with the findability
+trade-off stated — a steel marker is much easier to detect and much shorter-lived.
+
+The stale plate-set cost table was removed rather than reprinted. Those figures
+were nickel-era and excluded engraving setup; they now point here.
+
+**`gd_15_tiere_granite.docx`** — rewritten. Removes the lead lining, the poured
+lead seal, and the claim of "100,000+ years, the nuclear industry standard."
+That claim was false: KBS-3 uses a copper canister over cast iron in a bentonite
+buffer, and lead appears in that industry only as cask shielding. The
+100,000-year figure belongs to repository geology behind a formal safety case.
+The document also contradicted itself — its own precedent table already said the
+nuclear standard was "designed for 10,000 years."
+
+Replaced with a three-layer system: granite body for structure, **bentonite clay
+buffer** as the engineered barrier, and a sealed inner vessel as the only real
+seal — pitch-sealed fired ceramic for a self-builder (equal to cast lead in this
+project's own ranking, and non-toxic), or a commissioned welded titanium vessel
+for an institution. Explicitly rules out gaskets and O-rings.
+
+Removing lead also removes the molten-lead pouring step, which was the most
+hazardous instruction anywhere in this project's documents.
+
+The placement table's arctic/permafrost row is no longer recommended on its own:
+Svalbard's seed vault took meltwater into its access tunnel within nine years of
+opening. Frozen ground is a bonus, never the barrier.
+
+### Not yet synced
+
+`gd_09_flyer_pvc.docx` / `.pdf` and the lead-era `gd_15` **are live on
+archive.org** (the item holds 20 .docx and 20 .pdf under `containers/`). The
+reissues are .docx only — the matching PDFs have not been regenerated, and no
+decision has been made about whether to delete the superseded files from the
+public item or leave them standing beside this errata.
+
+---
+
 ## PROPAGATION CHECKLIST — added 2026-09-01
 
 The 2026-08-06 substrate reversal was errata'd here on 2026-08-20 and still had
