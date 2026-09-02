@@ -9,3 +9,6 @@ claude_export_*/
 # IP / legal working docs — work inventory, ownership analysis, draft IP
 # assignment, recovered IP guide. Kept local; not for the public repo.
 ip/
+
+# Word/Office local backups
+*.bak

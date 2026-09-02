@@ -23,20 +23,18 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 # local path (relative to repo root)  ->  remote path in the IA item
 UPLOAD = [
-    ("containers/gd_09_flyer_hdpe.docx",   "containers/gd_09_flyer_hdpe.docx"),
-    ("containers/gd_09_flyer_hdpe.pdf",    "containers/gd_09_flyer_hdpe.pdf"),
-    ("containers/gd_15_tiere_granite.docx", "containers/gd_15_tiere_granite.docx"),
-    ("containers/gd_15_tiere_granite.pdf",  "containers/gd_15_tiere_granite.pdf"),
-    ("containers/ERRATA.md",               "containers/ERRATA.md"),
-    ("AUDIT_2026-09-01.md",                "AUDIT_2026-09-01.md"),
+    ("containers/gd_10_flyer_titanium.docx",     "containers/gd_10_flyer_titanium.docx"),
+    ("containers/gd_10_flyer_titanium.pdf",      "containers/gd_10_flyer_titanium.pdf"),
+    ("containers/gd_11_flyer_ocean.docx",        "containers/gd_11_flyer_ocean.docx"),
+    ("containers/gd_11_flyer_ocean.pdf",         "containers/gd_11_flyer_ocean.pdf"),
+    ("containers/container_and_tiering_v2.docx", "containers/container_and_tiering_v2.docx"),
+    ("containers/container_and_tiering_v2.pdf",  "containers/container_and_tiering_v2.pdf"),
+    ("containers/ERRATA.md",                     "containers/ERRATA.md"),
 ]
 
 # Superseded by the reissue of 2026-09-01. gd_15 keeps its filename and is
 # overwritten above, so only the PVC flyer needs removing.
-DELETE = [
-    "containers/gd_09_flyer_pvc.docx",
-    "containers/gd_09_flyer_pvc.pdf",
-]
+DELETE = []
 
 CTYPE = {
     ".docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

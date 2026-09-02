@@ -200,14 +200,28 @@ document in this project ships as .docx and .pdf, and hand-maintaining two
 copies is exactly how the nickel, Viton and lead claims survived three weeks of
 corrections.
 
-### Still not synced
+### Corrected 2026-09-01 — the 2026-08-20 corrections were only half applied
 
-- `container_and_tiering_v2.docx` / `.pdf` on archive.org are the **uncorrected**
-  versions. `container_and_tiering_v2.CORRECTED.docx` exists locally and has
-  never been uploaded, and there is no corrected PDF.
-- `gd_10_flyer_titanium` and `gd_11_flyer_ocean` were corrected locally on
-  2026-08-20. Whether the archive.org copies predate those edits has not been
-  checked.
+Checked by downloading the live archive.org copies and testing them. The finding
+was worse than "not propagated": **the prose was corrected and the specification
+tables were not**, so each document contradicted itself.
+
+| Document | Prose said | Table still said |
+|---|---|---|
+| `gd_10_flyer_titanium` | seal rated 100–300 yrs, weld it if longer | `O-rings · Viton (FKM) — not Buna-N · "Superior chemical resistance for long-term sealing"` |
+| `gd_11_flyer_ocean` | "titanium is inert in seawater and needs no plating" | `Gold-plated nickel only` |
+| `gd_11_flyer_ocean` | — | `Self-righting — capsule always returns to upright` (still no calculation on record) |
+| `container_and_tiering_v2` | substrate reversed throughout | the **audio section** was missed entirely: "Option A: Laser-engraved nickel" |
+
+All now fixed in the tables as well as the prose, each with a dated note saying
+why. `gd_10` also moves Grade 5 Ti-6Al-4V to Grade 2 CP, matching the plates and
+the website. `container_and_tiering_v2.CORRECTED.docx` has been promoted to be
+`container_and_tiering_v2.docx` and the duplicate removed.
+
+**PDFs were the silent half of this problem.** The August edits touched .docx
+only, so archive.org carried corrected Word files beside stale PDFs of the same
+document. `docx_to_pdf.py` now regenerates a PDF from any .docx in this repo, so
+the pair can never drift again. All six files re-uploaded.
 
 ---
 
