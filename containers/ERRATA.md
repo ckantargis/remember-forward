@@ -182,13 +182,32 @@ The placement table's arctic/permafrost row is no longer recommended on its own:
 Svalbard's seed vault took meltwater into its access tunnel within nine years of
 opening. Frozen ground is a bonus, never the barrier.
 
-### Not yet synced
+### Archive.org synced 2026-09-01
 
-`gd_09_flyer_pvc.docx` / `.pdf` and the lead-era `gd_15` **are live on
-archive.org** (the item holds 20 .docx and 20 .pdf under `containers/`). The
-reissues are .docx only — the matching PDFs have not been regenerated, and no
-decision has been made about whether to delete the superseded files from the
-public item or leave them standing beside this errata.
+`sync_archive_files.py` touches named files only, unlike `upload_to_archive.py`
+which re-uploads the whole plate set.
+
+- **Uploaded:** `gd_09_flyer_hdpe.docx` / `.pdf` (new), `gd_15_tiere_granite.docx`
+  / `.pdf` (replaced), and `containers/ERRATA.md` + `AUDIT_2026-09-01.md` so the
+  correction log travels with the documents it corrects.
+- **Deleted:** `gd_09_flyer_pvc.docx` and `.pdf`. A build guide that tells people
+  to seal acid-generating plastic around their contents is not the kind of
+  stale document that should stand as a historical artefact. The reversal is
+  preserved here instead, which is what this file is for.
+
+`build_flyers.py` now renders **both** formats from a single block list. Every
+document in this project ships as .docx and .pdf, and hand-maintaining two
+copies is exactly how the nickel, Viton and lead claims survived three weeks of
+corrections.
+
+### Still not synced
+
+- `container_and_tiering_v2.docx` / `.pdf` on archive.org are the **uncorrected**
+  versions. `container_and_tiering_v2.CORRECTED.docx` exists locally and has
+  never been uploaded, and there is no corrected PDF.
+- `gd_10_flyer_titanium` and `gd_11_flyer_ocean` were corrected locally on
+  2026-08-20. Whether the archive.org copies predate those edits has not been
+  checked.
 
 ---
 
