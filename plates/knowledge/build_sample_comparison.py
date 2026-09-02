@@ -48,7 +48,7 @@ def gravel_icon(cx, cy, s=1):
 # ─── SVG ─────────────────────────────────────────────────────────────────────
 
 out('<?xml version="1.0" encoding="UTF-8"?>')
-out('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 330" width="480" height="330">')
+out('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 330" width="120mm" height="82.5mm">')
 out('<rect width="480" height="330" fill="white"/>')
 out('<style>text { font-family: Georgia, serif; fill: black; }</style>')
 out('<rect x="2" y="2" width="476" height="326" fill="none" stroke="black" stroke-width="1"/>')

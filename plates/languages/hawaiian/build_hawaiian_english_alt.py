@@ -16,7 +16,7 @@ def esc(s): return str(s).replace('&','&amp;').replace('<','&lt;').replace('>','
 
 def open_svg():
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">\n'
+        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="120mm" height="170mm">\n'
         '<style>\n  text { font-family: Georgia, serif; }\n'
         '  .T{font-size:11px;font-weight:bold;letter-spacing:1.5px}\n'
         '  .S{font-size:6.5px;letter-spacing:1.5px}\n'

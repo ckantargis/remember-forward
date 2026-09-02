@@ -99,7 +99,7 @@ _chunks = (
 
 # ── SVG header + defs ─────────────────────────────────────────────────────────
 out('<?xml version="1.0" encoding="UTF-8"?>')
-out('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="480" height="680">')
+out('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="120mm" height="170mm">')
 out('<rect width="480" height="680" fill="white"/>')
 
 out(f'''<defs>

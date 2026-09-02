@@ -127,8 +127,14 @@ achievable than find out at first article.
   `width="480" height="680"` with no units. Unitless is CSS pixels, which any
   tool reads at 96 dpi = **127 × 180 mm, 5.83% oversize.** The coupon is fixed
   (`width="120mm" height="170mm"`, viewBox unchanged so the drawing is
-  untouched). **Every other plate still has this defect and must be fixed before
-  any file goes to a shop.**
+  untouched). **FIXED 2026-09-01 across the fleet**: 491 SVGs + 112 generator scripts, one
+  attribute each, viewBox untouched. Verified by re-exporting a production plate
+  to DXF: 170.00 mm on a 680-unit canvas = exactly 0.2500 mm/unit. The 14 ceramic
+  relief masters are deliberately 1.136x oversize for 12% firing shrinkage and
+  were correctly skipped.
+- **Two plates carry geometry ~2.5 mm past the right edge** — `plate21c_greek_grammar`
+  and `plate20a_swahili_script`. Both are paused language plates, neither is in the
+  kit, but they must be trimmed before they are ever sent out.
 - Price context: kit rebuilt 2026-08-30 to $594–1,215, mid ~$905, break-even
   ~$930 — riding on an unquoted $15–35/face. This RFQ is what replaces that guess.
 - Cap of 25 was deferred pending this quote.

@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="120mm" height="170mm">
+<style>
+text{font-family:Georgia,serif;fill:#000}
+.T{font-size:12px;font-weight:bold;letter-spacing:2px}
+.S{font-size:7px;letter-spacing:1.5px}
+.H{font-size:6.5px;font-weight:bold;letter-spacing:2.5px}
+.L{font-size:7px}
+.Ls{font-size:6px}
+.Lx{font-size:5.5px}
+.Lb{font-size:6px;font-weight:bold;letter-spacing:1px}
+.M{font-size:6px}
+.F{font-size:7px;font-style:italic}
+.Fb{font-size:7.5px;font-weight:bold}
+</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240.00" y="32.00" text-anchor="middle" class="T">PLATE 12 — THE PRECESSION CLOCK</text>
+<text x="240.00" y="50.00" text-anchor="middle" class="S">HOW LONG AGO THIS WAS BURIED · READ IT FROM THE SKY</text>
+<line x1="30" y1="56" x2="450" y2="56" stroke="#000" stroke-width="0.5"/>
+<text x="240.00" y="70.00" text-anchor="middle" class="H">— THE PATH OF THE POLE —</text>
+<circle cx="240.00" cy="262.00" r="46.88" fill="none" stroke="#000" stroke-width="0.45" stroke-dasharray="2 3"/>
+<text x="285.88" y="259.50" text-anchor="end" class="Lx">10°</text>
+<circle cx="240.00" cy="262.00" r="93.75" fill="none" stroke="#000" stroke-width="0.45" stroke-dasharray="2 3"/>
+<text x="332.75" y="259.50" text-anchor="end" class="Lx">20°</text>
+<circle cx="240.00" cy="262.00" r="140.62" fill="none" stroke="#000" stroke-width="0.45" stroke-dasharray="2 3"/>
+<text x="379.62" y="259.50" text-anchor="end" class="Lx">30°</text>
+<circle cx="240.00" cy="262.00" r="150.00" fill="none" stroke="#000" stroke-width="0.8"/>
+<circle cx="240.00" cy="262.00" r="109.87" fill="none" stroke="#000" stroke-width="1.5"/>
+<line x1="235.00" y1="262.00" x2="245.00" y2="262.00" stroke="#000" stroke-width="1.0"/>
+<line x1="240.00" y1="257.00" x2="240.00" y2="267.00" stroke="#000" stroke-width="1.0"/>
+<circle cx="240.00" cy="262.00" r="2.60" fill="none" stroke="#000" stroke-width="0.8"/>
+<text x="240.00" y="275.00" text-anchor="middle" class="Lx">THIS POINT DOES NOT MOVE</text>
+<line x1="240.66" y1="157.13" x2="240.73" y2="147.13" stroke="#000" stroke-width="1.0"/>
+<line x1="253.72" y1="155.61" x2="254.38" y2="150.45" stroke="#000" stroke-width="0.5"/>
+<line x1="266.55" y1="158.07" x2="267.84" y2="153.03" stroke="#000" stroke-width="0.5"/>
+<line x1="279.00" y1="162.07" x2="280.89" y2="157.22" stroke="#000" stroke-width="0.5"/>
+<line x1="290.86" y1="167.55" x2="293.32" y2="162.97" stroke="#000" stroke-width="0.5"/>
+<line x1="300.58" y1="176.39" x2="306.36" y2="168.23" stroke="#000" stroke-width="1.0"/>
+<line x1="312.15" y1="182.62" x2="315.65" y2="178.77" stroke="#000" stroke-width="0.5"/>
+<line x1="321.27" y1="191.98" x2="325.21" y2="188.59" stroke="#000" stroke-width="0.5"/>
+<line x1="329.18" y1="202.38" x2="333.50" y2="199.50" stroke="#000" stroke-width="0.5"/>
+<line x1="335.77" y1="213.67" x2="340.41" y2="211.33" stroke="#000" stroke-width="0.5"/>
+<line x1="338.68" y1="226.49" x2="348.09" y2="223.10" stroke="#000" stroke-width="1.0"/>
+<line x1="344.60" y1="238.22" x2="349.67" y2="237.07" stroke="#000" stroke-width="0.5"/>
+<line x1="346.72" y1="251.11" x2="351.89" y2="250.59" stroke="#000" stroke-width="0.5"/>
+<line x1="347.25" y1="264.17" x2="352.45" y2="264.28" stroke="#000" stroke-width="0.5"/>
+<line x1="346.19" y1="277.20" x2="351.34" y2="277.93" stroke="#000" stroke-width="0.5"/>
+<line x1="341.24" y1="289.37" x2="350.89" y2="291.98" stroke="#000" stroke-width="1.0"/>
+<line x1="339.38" y1="302.38" x2="344.20" y2="304.34" stroke="#000" stroke-width="0.5"/>
+<line x1="333.73" y1="314.17" x2="338.28" y2="316.70" stroke="#000" stroke-width="0.5"/>
+<line x1="326.69" y1="325.18" x2="330.90" y2="328.24" stroke="#000" stroke-width="0.5"/>
+<line x1="318.37" y1="335.25" x2="322.17" y2="338.80" stroke="#000" stroke-width="0.5"/>
+<line x1="307.34" y1="342.40" x2="313.76" y2="350.06" stroke="#000" stroke-width="1.0"/>
+<line x1="298.37" y1="352.00" x2="301.20" y2="356.36" stroke="#000" stroke-width="0.5"/>
+<line x1="286.99" y1="358.43" x2="289.27" y2="363.11" stroke="#000" stroke-width="0.5"/>
+<line x1="274.92" y1="363.43" x2="276.61" y2="368.35" stroke="#000" stroke-width="0.5"/>
+<line x1="262.32" y1="366.92" x2="263.41" y2="372.01" stroke="#000" stroke-width="0.5"/>
+<line x1="249.19" y1="366.47" x2="250.07" y2="376.43" stroke="#000" stroke-width="1.0"/>
+<line x1="236.34" y1="369.21" x2="236.16" y2="374.41" stroke="#000" stroke-width="0.5"/>
+<line x1="223.33" y1="367.97" x2="222.52" y2="373.10" stroke="#000" stroke-width="0.5"/>
+<line x1="210.56" y1="365.15" x2="209.14" y2="370.15" stroke="#000" stroke-width="0.5"/>
+<line x1="198.24" y1="360.81" x2="196.21" y2="365.60" stroke="#000" stroke-width="0.5"/>
+<line x1="187.73" y1="352.92" x2="182.75" y2="361.59" stroke="#000" stroke-width="1.0"/>
+<line x1="175.62" y1="347.81" x2="172.50" y2="351.97" stroke="#000" stroke-width="0.5"/>
+<line x1="165.67" y1="339.34" x2="162.06" y2="343.09" stroke="#000" stroke-width="0.5"/>
+<line x1="156.81" y1="329.73" x2="152.78" y2="333.01" stroke="#000" stroke-width="0.5"/>
+<line x1="149.19" y1="319.11" x2="144.79" y2="321.88" stroke="#000" stroke-width="0.5"/>
+<line x1="145.10" y1="306.62" x2="136.05" y2="310.88" stroke="#000" stroke-width="1.0"/>
+<line x1="138.09" y1="295.50" x2="133.15" y2="297.13" stroke="#000" stroke-width="0.5"/>
+<line x1="134.78" y1="282.86" x2="129.68" y2="283.87" stroke="#000" stroke-width="0.5"/>
+<line x1="133.02" y1="269.91" x2="127.83" y2="270.29" stroke="#000" stroke-width="0.5"/>
+<line x1="132.85" y1="256.84" x2="127.66" y2="256.59" stroke="#000" stroke-width="0.5"/>
+<line x1="136.64" y1="244.26" x2="126.78" y2="242.57" stroke="#000" stroke-width="1.0"/>
+<line x1="137.27" y1="231.13" x2="132.29" y2="229.64" stroke="#000" stroke-width="0.5"/>
+<line x1="141.78" y1="218.87" x2="137.02" y2="216.78" stroke="#000" stroke-width="0.5"/>
+<line x1="147.76" y1="207.25" x2="143.28" y2="204.59" stroke="#000" stroke-width="0.5"/>
+<line x1="155.10" y1="196.43" x2="150.98" y2="193.26" stroke="#000" stroke-width="0.5"/>
+<line x1="165.41" y1="188.28" x2="158.29" y2="181.25" stroke="#000" stroke-width="1.0"/>
+<line x1="173.44" y1="177.88" x2="170.21" y2="173.80" stroke="#000" stroke-width="0.5"/>
+<line x1="184.16" y1="170.41" x2="181.45" y2="165.97" stroke="#000" stroke-width="0.5"/>
+<line x1="195.71" y1="164.30" x2="193.56" y2="159.56" stroke="#000" stroke-width="0.5"/>
+<line x1="207.92" y1="159.64" x2="206.36" y2="154.68" stroke="#000" stroke-width="0.5"/>
+<line x1="221.04" y1="158.86" x2="219.23" y2="149.02" stroke="#000" stroke-width="1.0"/>
+<line x1="233.58" y1="154.92" x2="233.27" y2="149.73" stroke="#000" stroke-width="0.5"/>
+<circle cx="137.66" cy="219.52" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="242.80" cy="150.01" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="299.20" cy="159.08" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="336.39" cy="240.14" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="368.19" cy="320.88" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="275.00" cy="389.80" r="5.00" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="1.5 1.5"/>
+<circle cx="240.70" cy="152.13" r="6.50" fill="none" stroke="#000" stroke-width="1.5"/>
+<circle cx="240.70" cy="152.13" r="3.00" fill="none" stroke="#000" stroke-width="1.0"/>
+<circle cx="240.70" cy="152.13" r="1.20" fill="#000"/>
+<text x="240.84" y="126.13" text-anchor="middle" class="Lb">THE POLE STOOD HERE</text>
+<text x="240.84" y="134.13" text-anchor="middle" class="Lb">WHEN THIS WAS MADE</text>
+<line x1="269.78" y1="156.24" x2="264.52" y2="152.37" stroke="#000" stroke-width="1.0"/>
+<line x1="269.78" y1="156.24" x2="263.35" y2="157.43" stroke="#000" stroke-width="1.0"/>
+<line x1="259.35" y1="153.84" x2="269.78" y2="156.24" stroke="#000" stroke-width="1.4"/>
+<circle cx="242.80" cy="150.01" r="1.77" fill="#000"/>
+<text x="247.80" y="152.01" text-anchor="start" class="Lx">POLARIS</text>
+<circle cx="185.29" cy="203.98" r="1.73" fill="#000"/>
+<text x="190.29" y="205.98" text-anchor="start" class="Lx">KOCHAB</text>
+<circle cx="185.78" cy="219.03" r="1.34" fill="#000"/>
+<text x="190.78" y="221.03" text-anchor="start" class="Lx">PHERKAD</text>
+<circle cx="137.66" cy="219.52" r="1.07" fill="#000"/>
+<text x="142.66" y="221.52" text-anchor="start" class="Lx">THUBAN</text>
+<circle cx="151.70" cy="269.65" r="1.22" fill="#000"/>
+<text x="156.70" y="271.65" text-anchor="start" class="Lx">EDASICH</text>
+<circle cx="218.64" cy="327.62" r="1.43" fill="#000"/>
+<text x="223.64" y="325.12" text-anchor="start" class="Lx">RASTABAN</text>
+<circle cx="237.50" cy="332.63" r="1.66" fill="#000"/>
+<text x="242.50" y="339.63" text-anchor="start" class="Lx">ELTANIN</text>
+<circle cx="336.39" cy="240.14" r="1.57" fill="#000"/>
+<text x="331.39" y="242.14" text-anchor="end" class="Lx">ALDERAMIN</text>
+<circle cx="311.88" cy="210.64" r="1.24" fill="#000"/>
+<text x="306.88" y="212.64" text-anchor="end" class="Lx">ALFIRK</text>
+<circle cx="299.20" cy="159.08" r="1.25" fill="#000"/>
+<text x="294.20" y="161.08" text-anchor="end" class="Lx">ERRAI</text>
+<circle cx="347.36" cy="191.63" r="1.12" fill="#000"/>
+<text x="342.36" y="193.63" text-anchor="end" class="Lx">IOTA CEP</text>
+<circle cx="368.19" cy="320.88" r="2.08" fill="#000"/>
+<text x="363.19" y="322.88" text-anchor="end" class="Lx">DENEB</text>
+<circle cx="275.00" cy="389.80" r="2.59" fill="#000"/>
+<text x="280.00" y="391.80" text-anchor="start" class="Lx">VEGA</text>
+<circle cx="159.19" cy="341.31" r="0.97" fill="#000"/>
+<text x="164.19" y="343.31" text-anchor="start" class="Lx">TAU HER</text>
+<text x="240.00" y="432.00" text-anchor="middle" class="H">— THE FINE SCALE — ONE MARK IS ONE HUNDRED YEARS —</text>
+<line x1="60.00" y1="458.00" x2="420.00" y2="458.00" stroke="#000" stroke-width="1.2"/>
+<line x1="60.00" y1="458.00" x2="60.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="60.00" y="473.00" text-anchor="middle" class="Lx">0.0°</text>
+<line x1="72.00" y1="458.00" x2="72.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="84.00" y1="458.00" x2="84.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="96.00" y1="458.00" x2="96.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="108.00" y1="458.00" x2="108.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="120.00" y1="458.00" x2="120.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="120.00" y="473.00" text-anchor="middle" class="Lx">2.8°</text>
+<line x1="132.00" y1="458.00" x2="132.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="144.00" y1="458.00" x2="144.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="156.00" y1="458.00" x2="156.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="168.00" y1="458.00" x2="168.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="180.00" y1="458.00" x2="180.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="180.00" y="473.00" text-anchor="middle" class="Lx">5.6°</text>
+<line x1="192.00" y1="458.00" x2="192.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="204.00" y1="458.00" x2="204.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="216.00" y1="458.00" x2="216.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="228.00" y1="458.00" x2="228.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="240.00" y1="458.00" x2="240.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="240.00" y="473.00" text-anchor="middle" class="Lx">8.3°</text>
+<line x1="252.00" y1="458.00" x2="252.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="264.00" y1="458.00" x2="264.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="276.00" y1="458.00" x2="276.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="288.00" y1="458.00" x2="288.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="300.00" y1="458.00" x2="300.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="300.00" y="473.00" text-anchor="middle" class="Lx">11.1°</text>
+<line x1="312.00" y1="458.00" x2="312.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="324.00" y1="458.00" x2="324.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="336.00" y1="458.00" x2="336.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="348.00" y1="458.00" x2="348.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="360.00" y1="458.00" x2="360.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="360.00" y="473.00" text-anchor="middle" class="Lx">13.9°</text>
+<line x1="372.00" y1="458.00" x2="372.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="384.00" y1="458.00" x2="384.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="396.00" y1="458.00" x2="396.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="408.00" y1="458.00" x2="408.00" y2="461.50" stroke="#000" stroke-width="0.5"/>
+<line x1="420.00" y1="458.00" x2="420.00" y2="465.00" stroke="#000" stroke-width="1.0"/>
+<text x="420.00" y="473.00" text-anchor="middle" class="Lx">16.7°</text>
+<circle cx="60.00" cy="458.00" r="4.50" fill="none" stroke="#000" stroke-width="1.2"/>
+<text x="60.00" y="449.00" text-anchor="middle" class="Lb">MADE</text>
+<text x="420.00" y="449.00" text-anchor="end" class="Lb">3000 YEARS LATER</text>
+<text x="240.00" y="484.00" text-anchor="middle" class="Ls">MEASURE THE GAP BETWEEN THE RING-AND-DOT MARK AND THE POLE YOU SEE. READ THE YEARS BELOW IT.</text>
+<text x="240.00" y="500.00" text-anchor="middle" class="H">— HOW TO READ IT —</text>
+<text x="30.00" y="514.00" text-anchor="start" class="Ls">1.  AT NIGHT, FIND THE POINT THE STARS TURN AROUND. THAT IS YOUR POLE. IT DOES NOT RISE OR SET.</text>
+<text x="30.00" y="525.50" text-anchor="start" class="Ls">2.  FIND THE RING-AND-DOT MARK ON THE CIRCLE ABOVE. THAT IS WHERE YOUR POLE STOOD WHEN THIS PLATE WAS MADE.</text>
+<text x="30.00" y="537.00" text-anchor="start" class="Ls">3.  MEASURE THE ANGLE BETWEEN THE TWO. A STICK HELD AT ARM'S LENGTH, A HAND'S BREADTH, ANY FIXED MEASURE WILL DO.</text>
+<text x="30.00" y="548.50" text-anchor="start" class="Ls">4.  THE POLE TRAVELS THIS CIRCLE AT ONE PART IN 25,772 EACH YEAR. THE SCALE ABOVE CONVERTS YOUR ANGLE TO YEARS.</text>
+<text x="30.00" y="560.00" text-anchor="start" class="Ls">5.  IF THE MARK AND YOUR POLE AGREE, LITTLE TIME HAS PASSED. IF THEY STAND FAR APART, MUCH HAS.</text>
+<text x="30.00" y="573.50" text-anchor="start" class="Lx">A YEAR IS ONE RETURN OF THE SUN TO THE SAME PLACE AMONG THE STARS. THE CIRCLE CLOSES AND BEGINS AGAIN — IF THE STARS DISAGREE WITH THE MARK BY</text>
+<text x="30.00" y="581.50" text-anchor="start" class="Lx">MORE THAN THE WHOLE SCALE, ONE FULL TURN OF 25,772 YEARS MAY HAVE PASSED. THE NAMED STARS ON THE RIM TELL YOU WHICH TURN.</text>
+<line x1="30" y1="606" x2="450" y2="606" stroke="#000" stroke-width="0.5"/>
+<text x="240.00" y="616.00" text-anchor="middle" class="M">NORTH ECLIPTIC POLE AT CENTRE · AZIMUTHAL EQUIDISTANT · STAR POSITIONS J2000 · OBLIQUITY 23.4393° · PRECESSION 50.2877"/YR · EPOCH 2026</text>
+<text x="240.00" y="626.00" text-anchor="middle" class="M">TITANIUM GRADE 2 · STAR DOTS ENGRAVED AS PITS, DEPTH BY BRIGHTNESS · CC BY-SA 4.0 · REMEMBERFORWARD.ORG</text>
+<text x="240.00" y="648.00" text-anchor="middle" class="Fb">THIS IS A PATIENT MESSAGE. IT WAS MADE FOR YOU, FREELY, BY PEOPLE WHO REMEMBERED FORWARD.</text>
+<text x="240.00" y="663.00" text-anchor="middle" class="F">BUY IT · BUILD IT · BURY IT · FOR SOMEONE YOU WILL NEVER MEET</text>
+</svg>

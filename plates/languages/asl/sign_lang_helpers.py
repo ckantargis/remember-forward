@@ -28,7 +28,7 @@ def open_svg():
     return (
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<svg xmlns="http://www.w3.org/2000/svg" '
-        'viewBox="0 0 480 680" width="480" height="680">\n'
+        'viewBox="0 0 480 680" width="120mm" height="170mm">\n'
         + STYLE_SIGN + '\n'
         '<rect x="6" y="6" width="468" height="668" fill="none" stroke="#111" stroke-width="3"/>\n'
         '<rect x="12" y="12" width="456" height="656" fill="none" stroke="#111" stroke-width="0.75"/>\n'

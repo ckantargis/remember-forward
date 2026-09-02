@@ -7,7 +7,7 @@ def esc(s): return str(s).replace('&','&amp;').replace('<','&lt;').replace('>','
 def open_svg():
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680">\n'
+        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="120mm" height="170mm">\n'
         '<rect x="8" y="8" width="464" height="664" rx="10" ry="10" '
         'fill="none" stroke="#1a1a2e" stroke-width="2"/>\n'
         '<rect x="14" y="14" width="452" height="652" rx="8" ry="8" '

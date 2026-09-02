@@ -205,7 +205,7 @@ def flame(cx, cy, s=1.0):
 
 
 # ================================================================= DOCUMENT
-a(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">')
+a(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="120mm" height="170mm">')
 a('<rect width="100%" height="100%" fill="#fff"/>')
 a("""<style>
 .L{font:7px Georgia,serif}.Ls{font:6px Georgia,serif}.Lx{font:5.5px Georgia,serif}

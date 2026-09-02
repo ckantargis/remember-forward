@@ -159,7 +159,7 @@ def sym_bubble(cx, cy, r=3):
 
 lines = []
 lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">')
+lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="120mm" height="170mm">')
 lines.append(f'<rect width="{W}" height="{H}" fill="white"/>')
 lines.append('<rect x="6" y="6" width="468" height="668" rx="4" fill="none" stroke="black" stroke-width="3"/>')
 lines.append('<rect x="12" y="12" width="456" height="656" rx="2" fill="none" stroke="black" stroke-width="0.75"/>')

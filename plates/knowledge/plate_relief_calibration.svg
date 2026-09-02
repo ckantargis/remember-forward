@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- RELIEF CALIBRATION MASTER — Remember Forward.
+     viewBox 480x680; 1 unit = 0.25 mm of FIRED tile.
+     Physical size below is the GREENWARE master: scaled 1.136x for
+     12% total shrinkage (drying + cone 6), so the fired tile lands
+     at 120 x 170 mm. Do not rescale on export.
+     Inkscape: Object to Path, then Stroke to Path, before extruding. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="136.4mm" height="193.2mm" viewBox="0 0 480 680">
+<rect width="480" height="680" fill="white"/>
+<g fill="none" stroke="#000" stroke-linecap="butt">
+  <text x="24.0" y="40.0" font-size="28.57" font-weight="bold" fill="#000" stroke="none">RELIEF CALIBRATION</text>
+  <text x="24.0" y="62.0" font-size="12.57" fill="#000" stroke="none">Fired tile 120 x 170 mm. Every dimension shown is FIRED, after 12% shrinkage.</text>
+  <text x="24.0" y="78.0" font-size="12.57" fill="#000" stroke="none">Record on the back: clay body · cone · relief depth · mould material · date.</text>
+  <line x1="24.0" y1="88.0" x2="456.0" y2="88.0" stroke-width="3.20"/>
+  <text x="24.0" y="108.0" font-size="17.14" font-weight="bold" fill="#000" stroke="none">A</text>
+  <text x="48.0" y="108.0" font-size="14.86" fill="#000" stroke="none">TEXT — cap height</text>
+  <text x="456.0" y="108.0" font-size="10.29" text-anchor="end" fill="#000" stroke="none">smallest you can still read = min_font</text>
+  <text x="24.0" y="126.0" font-size="8.57" fill="#000" stroke="none">REMEMBER FORWARD 1234</text>
+  <text x="456.0" y="126.0" font-size="10.29" text-anchor="end" fill="#000" stroke="none">1.5 mm</text>
+  <text x="24.0" y="138.0" font-size="11.43" fill="#000" stroke="none">REMEMBER FORWARD 1234</text>
+  <text x="456.0" y="138.0" font-size="10.29" text-anchor="end" fill="#000" stroke="none">2.0 mm</text>
+  <text x="24.0" y="150.5" font-size="14.29" fill="#000" stroke="none">REMEMBER FORWARD 1234</text>
+  <text x="456.0" y="150.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">2.5 mm</text>
+  <text x="24.0" y="165.5" font-size="17.14" fill="#000" stroke="none">REMEMBER FORWARD 1234</text>
+  <text x="456.0" y="165.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">3.0 mm</text>
+  <text x="24.0" y="185.5" font-size="22.86" fill="#000" stroke="none">RF 1234 abc</text>
+  <text x="456.0" y="185.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">4.0 mm</text>
+  <text x="24.0" y="213.5" font-size="17.14" font-weight="bold" fill="#000" stroke="none">B</text>
+  <text x="48.0" y="213.5" font-size="14.86" fill="#000" stroke="none">LINE WIDTH</text>
+  <text x="456.0" y="213.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">does it hold, or close up?</text>
+  <line x1="24.0" y1="232.7" x2="328.0" y2="232.7" stroke-width="1.60"/>
+  <text x="344.0" y="235.9" font-size="10.29" fill="#000" stroke="none">0.4 mm</text>
+  <line x1="24.0" y1="245.9" x2="328.0" y2="245.9" stroke-width="2.40"/>
+  <text x="344.0" y="249.1" font-size="10.29" fill="#000" stroke="none">0.6 mm</text>
+  <line x1="24.0" y1="259.1" x2="328.0" y2="259.1" stroke-width="3.20"/>
+  <text x="344.0" y="262.3" font-size="10.29" fill="#000" stroke="none">0.8 mm</text>
+  <line x1="24.0" y1="272.3" x2="328.0" y2="272.3" stroke-width="4.00"/>
+  <text x="344.0" y="275.5" font-size="10.29" fill="#000" stroke="none">1.0 mm</text>
+  <line x1="24.0" y1="285.5" x2="328.0" y2="285.5" stroke-width="6.00"/>
+  <text x="344.0" y="288.7" font-size="10.29" fill="#000" stroke="none">1.5 mm</text>
+  <text x="24.0" y="313.5" font-size="17.14" font-weight="bold" fill="#000" stroke="none">C</text>
+  <text x="48.0" y="313.5" font-size="14.86" fill="#000" stroke="none">GAP BETWEEN LINES</text>
+  <text x="456.0" y="313.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">the gap fails before the line does</text>
+  <line x1="24.0" y1="335.5" x2="328.0" y2="335.5" stroke-width="3.20"/>
+  <line x1="24.0" y1="337.5" x2="328.0" y2="337.5" stroke-width="3.20"/>
+  <text x="344.0" y="341.1" font-size="10.29" fill="#000" stroke="none">0.5 mm</text>
+  <line x1="24.0" y1="353.5" x2="328.0" y2="353.5" stroke-width="3.20"/>
+  <line x1="24.0" y1="356.5" x2="328.0" y2="356.5" stroke-width="3.20"/>
+  <text x="344.0" y="359.1" font-size="10.29" fill="#000" stroke="none">0.75 mm</text>
+  <line x1="24.0" y1="372.5" x2="328.0" y2="372.5" stroke-width="3.20"/>
+  <line x1="24.0" y1="376.5" x2="328.0" y2="376.5" stroke-width="3.20"/>
+  <text x="344.0" y="378.1" font-size="10.29" fill="#000" stroke="none">1.0 mm</text>
+  <line x1="24.0" y1="392.5" x2="328.0" y2="392.5" stroke-width="3.20"/>
+  <line x1="24.0" y1="398.5" x2="328.0" y2="398.5" stroke-width="3.20"/>
+  <text x="344.0" y="398.1" font-size="10.29" fill="#000" stroke="none">1.5 mm</text>
+  <text x="24.0" y="426.5" font-size="17.14" font-weight="bold" fill="#000" stroke="none">D/E</text>
+  <text x="64.0" y="426.5" font-size="14.86" fill="#000" stroke="none">DOTS and HATCH SPACING</text>
+  <text x="456.0" y="426.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">smallest discrete mark · texture</text>
+  <circle cx="40.0" cy="458.5" r="1.00" fill="#000" stroke="none"/>
+  <text x="40.0" y="478.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">0.5</text>
+  <circle cx="78.0" cy="458.5" r="1.50" fill="#000" stroke="none"/>
+  <text x="78.0" y="478.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">0.75</text>
+  <circle cx="116.0" cy="458.5" r="2.00" fill="#000" stroke="none"/>
+  <text x="116.0" y="478.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">1.0</text>
+  <circle cx="154.0" cy="458.5" r="3.00" fill="#000" stroke="none"/>
+  <text x="154.0" y="478.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">1.5</text>
+  <circle cx="192.0" cy="458.5" r="4.00" fill="#000" stroke="none"/>
+  <text x="192.0" y="478.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">2.0</text>
+  <rect x="264.0" y="436.5" width="44.0" height="44.0" stroke-width="3.20"/>
+  <line x1="267.0" y1="436.5" x2="267.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="270.0" y1="436.5" x2="270.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="273.0" y1="436.5" x2="273.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="276.0" y1="436.5" x2="276.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="279.0" y1="436.5" x2="279.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="282.0" y1="436.5" x2="282.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="285.0" y1="436.5" x2="285.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="288.0" y1="436.5" x2="288.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="291.0" y1="436.5" x2="291.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="294.0" y1="436.5" x2="294.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="297.0" y1="436.5" x2="297.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="300.0" y1="436.5" x2="300.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="303.0" y1="436.5" x2="303.0" y2="480.5" stroke-width="1.60"/>
+  <text x="286.0" y="496.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">0.75</text>
+  <rect x="314.0" y="436.5" width="44.0" height="44.0" stroke-width="3.20"/>
+  <line x1="318.0" y1="436.5" x2="318.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="322.0" y1="436.5" x2="322.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="326.0" y1="436.5" x2="326.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="330.0" y1="436.5" x2="330.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="334.0" y1="436.5" x2="334.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="338.0" y1="436.5" x2="338.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="342.0" y1="436.5" x2="342.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="346.0" y1="436.5" x2="346.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="350.0" y1="436.5" x2="350.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="354.0" y1="436.5" x2="354.0" y2="480.5" stroke-width="1.60"/>
+  <text x="336.0" y="496.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">1.0</text>
+  <rect x="364.0" y="436.5" width="44.0" height="44.0" stroke-width="3.20"/>
+  <line x1="370.0" y1="436.5" x2="370.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="376.0" y1="436.5" x2="376.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="382.0" y1="436.5" x2="382.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="388.0" y1="436.5" x2="388.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="394.0" y1="436.5" x2="394.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="400.0" y1="436.5" x2="400.0" y2="480.5" stroke-width="1.60"/>
+  <text x="386.0" y="496.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">1.5</text>
+  <rect x="414.0" y="436.5" width="44.0" height="44.0" stroke-width="3.20"/>
+  <line x1="422.0" y1="436.5" x2="422.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="430.0" y1="436.5" x2="430.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="438.0" y1="436.5" x2="438.0" y2="480.5" stroke-width="1.60"/>
+  <line x1="446.0" y1="436.5" x2="446.0" y2="480.5" stroke-width="1.60"/>
+  <text x="436.0" y="496.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">2.0</text>
+  <text x="24.0" y="524.5" font-size="17.14" font-weight="bold" fill="#000" stroke="none">F</text>
+  <text x="48.0" y="524.5" font-size="14.86" fill="#000" stroke="none">REAL GEOMETRY</text>
+  <text x="456.0" y="524.5" font-size="10.29" text-anchor="end" fill="#000" stroke="none">vessel · seed · flame, at 100 / 70 / 50%</text>
+  <g transform="translate(32.0,542.5) scale(1.00)" stroke-width="3.20">
+    <path d="M 0.0 0.0 L 6.4 68.0 L 53.6 68.0 L 60.0 0.0"/>
+    <line x1="3.6" y1="20.0" x2="56.4" y2="20.0"/>
+    <line x1="5.2" y1="38.0" x2="54.8" y2="38.0"/>
+    <line x1="5.2" y1="48.0" x2="54.8" y2="48.0"/>
+    <line x1="5.2" y1="58.0" x2="54.8" y2="58.0"/>
+    <ellipse cx="96.0" cy="28.0" rx="13.6" ry="19.2"/>
+    <path d="M 96.0 47.2 q 5.6 13.6 16.8 19.2"/>
+    <path d="M 132.8 68.0 C 118.4 50.4 134.4 37.6 137.6 18.4 C 145.6 29.6 144.0 34.4 152.0 28.0 C 154.4 45.6 164.8 48.8 154.4 68.0 Z"/>
+    <path d="M 140.0 68.0 C 135.2 57.6 142.4 51.2 144.8 42.4 C 149.6 52.8 150.4 58.4 147.2 68.0 Z"/>
+    <line x1="126.4" y1="68.0" x2="161.6" y2="68.0"/>
+  </g>
+  <text x="112.0" y="626.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">100%</text>
+  <g transform="translate(208.0,542.5) scale(0.70)" stroke-width="4.57">
+    <path d="M 0.0 0.0 L 6.4 68.0 L 53.6 68.0 L 60.0 0.0"/>
+    <line x1="3.6" y1="20.0" x2="56.4" y2="20.0"/>
+    <line x1="5.2" y1="38.0" x2="54.8" y2="38.0"/>
+    <line x1="5.2" y1="48.0" x2="54.8" y2="48.0"/>
+    <line x1="5.2" y1="58.0" x2="54.8" y2="58.0"/>
+    <ellipse cx="96.0" cy="28.0" rx="13.6" ry="19.2"/>
+    <path d="M 96.0 47.2 q 5.6 13.6 16.8 19.2"/>
+    <path d="M 132.8 68.0 C 118.4 50.4 134.4 37.6 137.6 18.4 C 145.6 29.6 144.0 34.4 152.0 28.0 C 154.4 45.6 164.8 48.8 154.4 68.0 Z"/>
+    <path d="M 140.0 68.0 C 135.2 57.6 142.4 51.2 144.8 42.4 C 149.6 52.8 150.4 58.4 147.2 68.0 Z"/>
+    <line x1="126.4" y1="68.0" x2="161.6" y2="68.0"/>
+  </g>
+  <text x="264.0" y="626.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">70%</text>
+  <g transform="translate(336.0,542.5) scale(0.50)" stroke-width="6.40">
+    <path d="M 0.0 0.0 L 6.4 68.0 L 53.6 68.0 L 60.0 0.0"/>
+    <line x1="3.6" y1="20.0" x2="56.4" y2="20.0"/>
+    <line x1="5.2" y1="38.0" x2="54.8" y2="38.0"/>
+    <line x1="5.2" y1="48.0" x2="54.8" y2="48.0"/>
+    <line x1="5.2" y1="58.0" x2="54.8" y2="58.0"/>
+    <ellipse cx="96.0" cy="28.0" rx="13.6" ry="19.2"/>
+    <path d="M 96.0 47.2 q 5.6 13.6 16.8 19.2"/>
+    <path d="M 132.8 68.0 C 118.4 50.4 134.4 37.6 137.6 18.4 C 145.6 29.6 144.0 34.4 152.0 28.0 C 154.4 45.6 164.8 48.8 154.4 68.0 Z"/>
+    <path d="M 140.0 68.0 C 135.2 57.6 142.4 51.2 144.8 42.4 C 149.6 52.8 150.4 58.4 147.2 68.0 Z"/>
+    <line x1="126.4" y1="68.0" x2="161.6" y2="68.0"/>
+  </g>
+  <text x="376.0" y="626.5" font-size="10.29" text-anchor="middle" fill="#000" stroke="none">50%</text>
+  <line x1="24.0" y1="636.0" x2="456.0" y2="636.0" stroke-width="3.20"/>
+  <text x="24.0" y="656.0" font-size="12.57" fill="#000" stroke="none">REMEMBER FORWARD · the smallest mark you can still read is the whole answer</text>
+</g>
+</svg>
