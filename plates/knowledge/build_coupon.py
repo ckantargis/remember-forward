@@ -22,6 +22,14 @@ WHY THE TEST IS BLIND
   for cannot detect that failure. So Face A carries no labels, no captions and
   no answer key, and the good sequence is not always the top row.
 
+  THE VESSEL IS HELD CONSTANT ON PURPOSE.
+  In v1 the vessel emptied in every "bad" row, which meant it carried the signal
+  in parallel with the figures. A tester scoring 3/3 would have proved only that
+  they can see a vessel empty. Section 6 asks whether the FIGURE vocabulary
+  reads, so the vessel is now full in every panel of every block and the figures
+  are the only thing that varies. The full/empty vessel is a separate section-4
+  device and is not what is in question here.
+
   ANSWER KEY (printed by this script; NOT engraved on the part):
       Block 1  bad = BOTTOM row
       Block 2  bad = TOP row
@@ -176,36 +184,37 @@ def face_a():
     line(60, 96, 420, 96, 0.5)
 
     # each block: (label, y, good_row, mode)  good_row 0=top 1=bottom
-    blocks = [("1", 108, 0, "count"),
-              ("2", 254, 1, "posture"),
-              ("3", 400, 0, "both")]
+    blocks = [("1", 114, 0, "count"),
+              ("2", 258, 1, "posture"),
+              ("3", 402, 0, "both")]
 
     for label, y0, good_row, mode in blocks:
-        t(30, y0 + 8, label, cls="B")
+        t(34, y0 - 4, f"BLOCK {label}", anchor="start", cls="B")
         for r in (0, 1):
             ry = y0 + r * 62
             good = (r == good_row)
+            # response box on the LEFT, clear of the panels. It sat at x=440 in v1,
+            # which is inside the third panel - it overlapped the artwork.
+            rect(28, ry + 21, 12, 12, 0.8)
             for p in range(3):
-                px = 62 + p * 134
-                rect(px, ry, 122, 54, 0.8)
+                px = 50 + p * 130
+                rect(px, ry, 118, 54, 0.8)
                 if p < 2:
-                    arrow(px + 124, px + 132, ry + 27)
-                # ---- panel content
+                    arrow(px + 120, px + 128, ry + 27)
                 if mode == "count":
                     n = 9 if (good or p == 0) else (9 if p == 0 else 6 if p == 1 else 4)
-                    row_of_figures(px + 61, ry + 8, n, h=17, span=92)
-                    vessel(px + 61, ry + 34, 26, 15, full=good or p == 0)
+                    row_of_figures(px + 59, ry + 8, n, h=17, span=88)
+                    vessel(px + 59, ry + 34, 26, 15, full=True)   # held constant - see note
                 elif mode == "posture":
                     st = "up" if (good or p == 0) else ("up" if p == 0 else "stoop")
-                    row_of_figures(px + 61, ry + 8, 6, h=19, span=76, state=st)
-                    vessel(px + 61, ry + 34, 26, 15, full=good or p == 0)
+                    row_of_figures(px + 59, ry + 8, 6, h=19, span=74, state=st)
+                    vessel(px + 59, ry + 34, 26, 15, full=True)   # held constant - see note
                 else:
                     n = 9 if (good or p == 0) else (9 if p == 0 else 6 if p == 1 else 4)
                     st = "up" if (good or p < 2) else "stoop"
-                    row_of_figures(px + 61, ry + 8, n, h=17, span=92, state=st)
-                    vessel(px + 61, ry + 34, 26, 15, full=good or p == 0)
-            rect(452 - 12, ry + 21, 12, 12, 0.8)      # response box
-        line(60, y0 + 128, 420, y0 + 128, 0.3)
+                    row_of_figures(px + 59, ry + 8, n, h=17, span=88, state=st)
+                    vessel(px + 59, ry + 34, 26, 15, full=True)   # held constant - see note
+        line(28, y0 + 128, 440, y0 + 128, 0.3)
 
     t(W / 2, 545, "Tester: ____________________   Date: __________   "
                   "Has seen these plates before?  Y / N", cls="Lx")
@@ -251,11 +260,11 @@ def face_b():
     t(240, 280, "Report the smallest gap that does not bridge or burn through.", cls="Lm")
 
     # ---- 3 dot ladder
-    head(298, "SMALLEST RESOLVED DOT")
+    head(292, "SMALLEST RESOLVED DOT")
     for i, r in enumerate([0.2, 0.3, 0.4, 0.6, 0.8, 1.2, 1.6]):
         x = 70 + i * 55
-        circle(x, 314, r, 0, fill="#000")
-        t(x, 328, f"{r*2*U:.2f}", cls="Lm")
+        circle(x, 304, r, 0, fill="#000")
+        t(x, 317, f"{r*2*U:.2f}", cls="Lm")
 
     # ---- 4 type ladder
     head(378, "TYPE LADDER — smallest legible size")

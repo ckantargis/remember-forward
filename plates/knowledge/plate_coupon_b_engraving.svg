@@ -75,21 +75,21 @@ text{fill:#000}</style>
 <line x1="401.6" y1="224" x2="401.6" y2="258" stroke="#000" stroke-width="0.8"/>
 <text x="402" y="268" text-anchor="middle" class="Lm">0.60 mm</text>
 <text x="240" y="280" text-anchor="middle" class="Lm">Report the smallest gap that does not bridge or burn through.</text>
-<text x="240.0" y="298" text-anchor="middle" class="H">— SMALLEST RESOLVED DOT —</text>
-<circle cx="70" cy="314" r="0.2" fill="#000"/>
-<text x="70" y="328" text-anchor="middle" class="Lm">0.10</text>
-<circle cx="125" cy="314" r="0.3" fill="#000"/>
-<text x="125" y="328" text-anchor="middle" class="Lm">0.15</text>
-<circle cx="180" cy="314" r="0.4" fill="#000"/>
-<text x="180" y="328" text-anchor="middle" class="Lm">0.20</text>
-<circle cx="235" cy="314" r="0.6" fill="#000"/>
-<text x="235" y="328" text-anchor="middle" class="Lm">0.30</text>
-<circle cx="290" cy="314" r="0.8" fill="#000"/>
-<text x="290" y="328" text-anchor="middle" class="Lm">0.40</text>
-<circle cx="345" cy="314" r="1.2" fill="#000"/>
-<text x="345" y="328" text-anchor="middle" class="Lm">0.60</text>
-<circle cx="400" cy="314" r="1.6" fill="#000"/>
-<text x="400" y="328" text-anchor="middle" class="Lm">0.80</text>
+<text x="240.0" y="292" text-anchor="middle" class="H">— SMALLEST RESOLVED DOT —</text>
+<circle cx="70" cy="304" r="0.2" fill="#000"/>
+<text x="70" y="317" text-anchor="middle" class="Lm">0.10</text>
+<circle cx="125" cy="304" r="0.3" fill="#000"/>
+<text x="125" y="317" text-anchor="middle" class="Lm">0.15</text>
+<circle cx="180" cy="304" r="0.4" fill="#000"/>
+<text x="180" y="317" text-anchor="middle" class="Lm">0.20</text>
+<circle cx="235" cy="304" r="0.6" fill="#000"/>
+<text x="235" y="317" text-anchor="middle" class="Lm">0.30</text>
+<circle cx="290" cy="304" r="0.8" fill="#000"/>
+<text x="290" y="317" text-anchor="middle" class="Lm">0.40</text>
+<circle cx="345" cy="304" r="1.2" fill="#000"/>
+<text x="345" y="317" text-anchor="middle" class="Lm">0.60</text>
+<circle cx="400" cy="304" r="1.6" fill="#000"/>
+<text x="400" y="317" text-anchor="middle" class="Lm">0.80</text>
 <text x="240.0" y="378" text-anchor="middle" class="H">— TYPE LADDER — smallest legible size —</text>
 <text x="60" y="392" text-anchor="start" class="Lm">The quick brown fox jumps over the lazy dog 0123456789</text>
 <text x="420" y="392" text-anchor="end" class="Lm">5px = 1.25 mm</text>
