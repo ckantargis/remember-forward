@@ -164,7 +164,7 @@ TRANSLATIONS = {
         "nav_github":     "GitHub",
         "hero_eyebrow":   "Open Source · CC BY-SA 4.0 · Free Forever",
         "hero_subtitle":  "The Patient Message",
-        "hero_body":      "A complete open-source system of laser-engraver-ready nickel plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.",
+        "hero_body":      "A complete open-source system of laser-engraver-ready titanium plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.",
         "hero_tagline":   "Buy it · Build it · Bury it · For someone you will never meet",
         "btn_plates":     "View the Plates",
         "btn_downloads":  "Free Downloads",
@@ -172,7 +172,7 @@ TRANSLATIONS = {
         "mission_attr":   "The Bridge Phrase — engraved on every plate, in every language",
         "sec_plates":     "The Plates",
         "plates_h2":      "The Patient Message",
-        "plates_p1":      "Each plate is a laser-engraver-ready SVG file, 480\u00d7680px portrait format, designed for nickel or stainless steel. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.",
+        "plates_p1":      "Each plate is a laser-engraver-ready SVG file, 480\u00d7680px portrait format, designed for titanium or fired ceramic. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.",
         "plates_p2":      "The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across fifty human languages — 214 plates total plus analog audio discs.",
         "sub_knowledge":  "Knowledge Plates",
         "sub_languages":  "Language Series",
@@ -183,7 +183,9 @@ TRANSLATIONS = {
         "lang_plate_d":   "Text",
         "sec_containers": "The Capsule Designs",
         "containers_h2":  "Seven Container Tiers",
-        "containers_p":   "Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a lead-lined granite vault — every design is fully documented and free to build.",
+        "tier_target":    "Design target",
+        "tier_note":      "These are intended service lives, based on material behaviour and archaeological precedent. They are design targets — not tested, measured, or warranted performance.",
+        "containers_p":   "Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a granite vault — every design is fully documented and free to build.",
         "sec_concords":   "The Ten Concords",
         "concords_h2":    "Universal Principles",
         "concords_p":     "Distilled from the convergence points of human civilizations across all recorded history. These are points of agreement, not imposition — discovered independently by people who had no contact with each other, across millennia. Their convergence is the evidence for their validity.",
@@ -240,7 +242,9 @@ TRANSLATIONS = {
         "lang_plate_d":   "文本",
         "sec_containers": "胶囊设计",
         "containers_h2":  "七个容器等级",
-        "containers_p":   "任何版片套装适合任何容器。等级描述的是耐用性和成本，而非内容。从用木火烧制的陶罐到铅衬花岗岩保险库——每种设计都有完整文档，可免费建造。",
+        "tier_target":    "设计目标",
+        "tier_note":      "这些是基于材料特性和考古先例的预期使用寿命。它们是设计目标——而非经过测试、测量或保证的性能。",
+        "containers_p":   "任何版片套装适合任何容器。等级描述的是耐用性和成本，而非内容。从用木火烧制的陶罐到花岗岩保险库——每种设计都有完整文档，可免费建造。",
         "sec_concords":   "十协约",
         "concords_h2":    "普世原则",
         "concords_p":     "从人类文明各文化的共同点中提炼而来，横跨有记录的全部历史。这些是共识点，而非强加——由彼此没有联系的人在数千年中独立发现。它们的汇合是其有效性的证据。",
@@ -297,7 +301,9 @@ TRANSLATIONS = {
         "lang_plate_d":   "पाठ",
         "sec_containers": "कैप्सूल डिज़ाइन",
         "containers_h2":  "सात कंटेनर स्तर",
-        "containers_p":   "कोई भी प्लेट सेट किसी भी कंटेनर में फिट होता है। स्तर जीवित रहने की क्षमता और लागत का वर्णन करते हैं, सामग्री का नहीं। लकड़ी की आग में पकी मिट्टी की जार से लेकर सीसे से पंक्तिबद्ध ग्रेनाइट तिजोरी तक — हर डिज़ाइन पूरी तरह से दस्तावेज़ीकृत और निःशुल्क निर्माण योग्य है।",
+        "tier_target":    "डिज़ाइन लक्ष्य",
+        "tier_note":      "ये सामग्री के व्यवहार और पुरातात्विक मिसालों पर आधारित अपेक्षित सेवा अवधि हैं। ये डिज़ाइन लक्ष्य हैं — परीक्षित, मापित या गारंटीकृत प्रदर्शन नहीं।",
+        "containers_p":   "कोई भी प्लेट सेट किसी भी कंटेनर में फिट होता है। स्तर जीवित रहने की क्षमता और लागत का वर्णन करते हैं, सामग्री का नहीं। लकड़ी की आग में पकी मिट्टी की जार से लेकर ग्रेनाइट तिजोरी तक — हर डिज़ाइन पूरी तरह से दस्तावेज़ीकृत और निःशुल्क निर्माण योग्य है।",
         "sec_concords":   "दस सहमतियाँ",
         "concords_h2":    "सार्वभौमिक सिद्धांत",
         "concords_p":     "सभी दर्ज इतिहास में मानव सभ्यताओं के अभिसरण बिंदुओं से आसवित। ये सहमति के बिंदु हैं, थोपने के नहीं — सहस्राब्दियों में ऐसे लोगों द्वारा स्वतंत्र रूप से खोजे गए जिनका एक दूसरे से कोई संपर्क नहीं था। उनका अभिसरण उनकी वैधता का प्रमाण है।",
@@ -354,7 +360,9 @@ TRANSLATIONS = {
         "lang_plate_d":   "Texto",
         "sec_containers": "Los Diseños de Cápsulas",
         "containers_h2":  "Siete Niveles de Contenedor",
-        "containers_p":   "Cualquier conjunto de placas cabe en cualquier contenedor. Los niveles describen durabilidad y costo, no contenido. Desde un jarro de arcilla cocida con fuego de madera hasta una bóveda de granito forrada de plomo — cada diseño está completamente documentado y es libre de construir.",
+        "tier_target":    "Objetivo de diseño",
+        "tier_note":      "Son vidas útiles previstas, basadas en el comportamiento de los materiales y en precedentes arqueológicos. Son objetivos de diseño, no rendimiento probado, medido ni garantizado.",
+        "containers_p":   "Cualquier conjunto de placas cabe en cualquier contenedor. Los niveles describen durabilidad y costo, no contenido. Desde un jarro de arcilla cocida con fuego de madera hasta una bóveda de granito — cada diseño está completamente documentado y es libre de construir.",
         "sec_concords":   "Los Diez Concordes",
         "concords_h2":    "Principios Universales",
         "concords_p":     "Destilados de los puntos de convergencia de las civilizaciones humanas a lo largo de toda la historia registrada. Son puntos de acuerdo, no de imposición — descubiertos de forma independiente por personas sin ningún contacto entre sí, a lo largo de milenios. Su convergencia es la evidencia de su validez.",
@@ -411,7 +419,9 @@ TRANSLATIONS = {
         "lang_plate_d":   "النص",
         "sec_containers": "تصاميم الكبسولات",
         "containers_h2":  "سبعة مستويات من الحاويات",
-        "containers_p":   "أي مجموعة لوحات تناسب أي حاوية. المستويات تصف المتانة والتكلفة، لا المحتوى. من جرة طينية محروقة بنار الحطب إلى قبو جرانيتي مبطن بالرصاص — كل تصميم موثق بالكامل ومجاني للبناء.",
+        "tier_target":    "الهدف التصميمي",
+        "tier_note":      "هذه أعمار خدمة متوقعة تستند إلى سلوك المواد والسوابق الأثرية. إنها أهداف تصميمية — وليست أداءً مختبَراً أو مقاساً أو مضموناً.",
+        "containers_p":   "أي مجموعة لوحات تناسب أي حاوية. المستويات تصف المتانة والتكلفة، لا المحتوى. من جرة طينية محروقة بنار الحطب إلى قبو جرانيتي — كل تصميم موثق بالكامل ومجاني للبناء.",
         "sec_concords":   "التوافقات العشر",
         "concords_h2":    "مبادئ كونية",
         "concords_p":     "مقطّرة من نقاط التقاء الحضارات البشرية عبر كل التاريخ المسجّل. هذه نقاط اتفاق لا فرض — اكتشفها أشخاص لم يتواصلوا مع بعضهم بشكل مستقل عبر آلاف السنين. تقاطعها هو الدليل على صحتها.",
@@ -446,22 +456,28 @@ TIERS = [
     ("Tier 0", "Fired Ceramic + Pitch",   "$10 – $30",     "500 – 2,000 years",
      ["Clay, fire, and pine pitch only", "No industrial materials required",
       "Buildable post-catastrophe", "Dead Sea Scroll precedent: 2,000 years"]),
-    ("Tier A", "Schedule 80 PVC",         "$75 – $150",    "500 – 1,000 years",
-     ["Hardware store build", "Teflon tape + marine epoxy seal",
+    ("Tier A", "HDPE Pipe",               "$75 – $150",    "100+ years",
+     ["Hardware store build, threaded or fusion cap",
+      "No chlorine — cannot outgas acid onto the contents",
       "Silica gel + oxygen absorbers", "Maximum household distribution"]),
     ("Tier B", "Titanium Sphere",         "$350 – $600",   "10,000+ years",
-     ["Grade 5 Ti-6Al-4V alloy", "Argon atmosphere fill",
-      "Viton O-rings, aerogel insulation", "Pyramid cavity at Giza angle"]),
+     ["Grade 2 CP titanium", "Argon atmosphere fill",
+      "Welded closure — no elastomer to fail", "The portable premium node"]),
     ("Tier C", "Ocean Capsule",           "$400 – $900",   "2,000+ years at depth",
-     ["HDPE hull + zinc sacrificial anodes", "Titanium pressure vessel, 600 atm",
-      "Gold-plated plates only", "Unreachable, unjurisdictable"]),
+     ["HDPE outer hull, titanium pressure vessel", "Rated to 600 atm / ~6,000 m",
+      "Titanium is inert in seawater — no plating needed",
+      "Check maritime law before any deposition"]),
     ("Tier D", "Hastelloy C-276",         "$600 – $1,200", "10,000+ years",
-     ["Superalloy for acid environments", "Volcanic, sulfurous, industrial soils",
-      "Outperforms titanium in corrosive zones", "Nuclear-grade chemical resistance"]),
-    ("Tier E", "Lead-Lined Granite",      "$500 – $1,500", "100,000+ years",
-     ["Carved granite box, lead-poured seal", "Fixed institutional archive",
-      "Nuclear industry permanence standard", "Inscribe the bridge phrase in the stone"]),
-    ("Tier F", "Mountain Archive",        "$2,000+",       "Geological timescale",
+     ["Superalloy for reducing-acid environments",
+      "Volcanic, sulfurous, industrial soils",
+      "Beats titanium in reducing acids; titanium wins in oxidising chlorides",
+      "Specialist tier — most sites will not need it"]),
+    ("Tier E", "Granite Vault",           "$500 – $1,500", "10,000+ years",
+     ["Carved granite body, bentonite clay buffer",
+      "Welded titanium vessel — no gasket to fail",
+      "Fixed institutional archive, not portable",
+      "Inscribe the bridge phrase in the stone"]),
+    ("Tier F", "Mountain Archive",        "$2,000+",       "As long as the site holds",
      ["Dry cave or lava tube", "Natural environmental sealing",
       "Community maintenance agreement", "GPS + surface marker required"]),
 ]
@@ -1181,6 +1197,14 @@ CSS = """
     left: 0;
     color: var(--gold);
   }
+  .tier-target {
+    display: block; font-size: 0.68rem; letter-spacing: .12em;
+    text-transform: uppercase; opacity: .6; margin-bottom: .15rem;
+  }
+  .tier-note {
+    max-width: 62ch; margin: 2rem auto 0; font-size: .82rem;
+    opacity: .68; font-style: italic; text-align: center;
+  }
   .tier-lifespan {
     font-family: 'Cinzel', serif;
     font-size: 0.68rem;
@@ -1401,7 +1425,7 @@ def hero_html():
   <h1 class="hero-title">Remember<br>Forward</h1>
   <p class="hero-subtitle" data-i18n="hero_subtitle">The Patient Message</p>
   <div class="hero-rule"></div>
-  <p class="hero-body" data-i18n="hero_body">A complete open-source system of laser-engraver-ready nickel plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.</p>
+  <p class="hero-body" data-i18n="hero_body">A complete open-source system of laser-engraver-ready titanium plate designs for time capsules intended to preserve human knowledge through catastrophic events — readable by a finder 200 to 2,000 years from now with no shared language or cultural context.</p>
   <p class="hero-tagline" data-i18n="hero_tagline">Buy it · Build it · Bury it · For someone you will never meet</p>
   <div class="hero-cta">
     <a href="#plates" class="btn btn-primary" data-i18n="btn_plates">View the Plates</a>
@@ -1504,7 +1528,7 @@ def plates_html(knowledge, languages, alt_series=None):
 <section id="plates">
   <p class="section-label" data-i18n="sec_plates">The Plates</p>
   <h2 data-i18n="plates_h2">The Patient Message</h2>
-  <p data-i18n="plates_p1">Each plate is a laser-engraver-ready SVG file, 480×680px portrait format, designed for nickel or stainless steel. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.</p>
+  <p data-i18n="plates_p1">Each plate is a laser-engraver-ready SVG file, 480×680px portrait format, designed for titanium or fired ceramic. Every plate uses only black strokes — no fills, no color — optimized for maximum legibility at any scale and any future reading technology from unaided eye to microscope.</p>
   <p data-i18n="plates_p2">The complete set spans eleven knowledge plates covering survival through metaphysics, and four plates per language across fifty human languages — 214 plates total plus analog audio discs.</p>
 
   <p class="progress-notice">{plates_done} of 214 plates complete · {series_count} of 50 language series</p>
@@ -1537,7 +1561,7 @@ def containers_html():
       <ul class="tier-list">
 {lis}
       </ul>
-      <p class="tier-lifespan">{lifespan}</p>
+      <p class="tier-lifespan"><span class="tier-target" data-i18n="tier_target">Design target</span> {lifespan}</p>
     </div>""")
 
     return f"""
@@ -1546,9 +1570,10 @@ def containers_html():
 <section id="containers">
   <p class="section-label" data-i18n="sec_containers">The Capsule Designs</p>
   <h2 data-i18n="containers_h2">Seven Container Tiers</h2>
-  <p data-i18n="containers_p">Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a lead-lined granite vault — every design is fully documented and free to build.</p>
+  <p data-i18n="containers_p">Any plate set fits any container. The tiers describe survivability and cost, not content. From a clay jar fired with a wood fire to a granite vault — every design is fully documented and free to build.</p>
   <div class="tiers-grid">{"".join(cards)}
   </div>
+  <p class="tier-note" data-i18n="tier_note">These are intended service lives, based on material behaviour and archaeological precedent. They are design targets — not tested, measured, or warranted performance.</p>
 </section>"""
 
 
@@ -1681,7 +1706,7 @@ def build():
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Remember Forward — The Patient Message</title>
-<meta name="description" content="An open-source system of laser-engraver-ready nickel plate designs for time capsules. Preserve human knowledge through catastrophic events. Buy it. Build it. Bury it.">
+<meta name="description" content="An open-source system of laser-engraver-ready titanium plate designs for time capsules. Preserve human knowledge through catastrophic events. Buy it. Build it. Bury it.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">

@@ -48,7 +48,9 @@
 - plate08_physics_of_sound_v2.svg
 - plate10_electrical_phenomena.svg
 - plate11_energy_generation.svg
-- PENDING: plate09_audio_playback_guide.svg (needle construction, tone arm, groove)
+- plate09_audio_playback_guide.svg — BUILT (needle construction, tone arm, groove)
+- plate02a_charcoal_retort.svg — BUILT (clay-vessel charcoal, 12–24 h method)
+- PENDING: plate00 master key · plate02b/02c/02d charcoal series · plate05a–05h governance series
 
 ## COMPLETED LANGUAGE SERIES (28 plates total)
 
@@ -252,19 +254,35 @@ Every plate in the set must feel like it belongs to the same visual grammar. Bef
 - This discussion was deferred — not yet acted on
 
 ## PENDING TASKS (priority order)
-1.  Build Bengali series (16A-16D) — IMMEDIATE NEXT
-2.  Build Mandarin series (17A-17D)
-3.  Continue through all 50 languages
-4.  Build plate09 Audio Playback Guide (knowledge plate, pending)
-5.  Add Arabic labels to knowledge plates 02-06 after all 50 languages done
-6.  Upload plates 12B-15D to archive.org
-7.  Reorganize GitHub plates folder into subfolders if not done
+
+> **RE-PRIORITISED 2026-08-27.** The Governance & Commons series is now the **sole plate build
+> focus**. Language series are PAUSED. The 15-plate Founder's Edition kit is SUSPENDED.
+> See `project/governance_series_scope.md` and `project/plate_format_consolidation.md`.
+
+1.  **Resolve the diminished-figure vocabulary** — BLOCKING the whole governance series (governance_series_scope.md §6). Prefer group-count over individual posture.
+2.  **Build 05C first** (circle / raised-figure grammar), print at 12×17 cm, functional-test it on someone unfamiliar. If they can't tell which sequence ended well, stop and redesign.
+3.  Then 05A → 05B, 05D, 05E, 05F → 05G, 05H. Revise 05I last (EN face A / ES face B).
+4.  Build the **master-key disc** (68 mm, flat, two-sided) — replaces plate00 in the kit.
+5.  **Get engraving quotes** — two-sided, 120×170, 0.1 mm feature, setup quoted separately (launch_plan_2027.md §8).
+6.  Prove **two-sided engraving + registration** on a coupon before committing the run.
+7.  Issue correction notices for `gd_09` and `gd_10` — both make false container-capacity claims.
 8.  Form Remember Forward LLC at nhquickstart.nh.gov
 9.  Get EIN at irs.gov (free, after LLC)
 10. Open business bank account under new LLC
 11. File trademark: Remember Forward + The Patient Message
 12. Submit to priorartarchive.org
 13. Register copyright at copyright.gov
+
+**PAUSED (not cancelled):** Bengali 16A-16D · Mandarin 17A-17D · the remaining 50-language plan · Arabic labels on knowledge plates 02-06 · upload 12B-15D to archive.org · GitHub folder reorganisation.
+
+## PLATE FORMAT — SETTLED 2026-08-27
+- **120 × 170 mm** stays. Pictographic plates are governed by the 0.1 mm engraving floor, not point size.
+- **Engrave BOTH FACES.** Nine content faces on five plates. Untested — prove on a coupon.
+- **Ablated grooves, NOT laser-annealed marks.** An annealed mark is an oxide colour and is destroyed by the 540 °C stress relief; an ablated groove is topographic and survives heat treat and abrasion. (The 2026-04-13 audit's "laser-annealed" note was about 316L stainless — do not carry it to titanium.)
+- **Rolled, not stacked** — 20 mm core, 50 mm bundle, 3" Sch 80 pipe. Flat 120 mm plates do NOT fit the 4" pipe in gd_09 or the 6" sphere in gd_10.
+- **Stress-relieve after rolling**, 480–540 °C, 1–2 h. Stay below 600 °C or you get alpha case. Batch process — $8–16/kit, or ~free in a ceramics kiln.
+- **Anodizing is optional** — the galling concern that motivated it does not survive scrutiny; static Ti at ambient does not diffusion-bond.
+- Galvo field limits: 175 mm → 0.07 mm floor · 200 mm → 0.10 · 300 mm → 0.15. A 171×243 plate on a 300 mm lens engraves WORSE than 120×170 on a 175 mm lens.
 
 ## PICTOGRAM / IMAGE GENERATION STRATEGY
 
@@ -316,14 +334,35 @@ Every plate in the set must feel like it belongs to the same visual grammar. Bef
 - Consider CC0 instead of CC BY-SA 4.0 to maximize reproduction with no legal friction
 
 ### Metal / engraving specs
-- Best alloy for burial: 316L stainless steel (laser-annealed, not ablated) or Titanium Grade 2 for master set
+- ~~Best alloy for burial: 316L stainless steel (laser-annealed, not ablated)~~ **SUPERSEDED.** Titanium Grade 2, ablated grooves. Substrate reversed 2026-08-06; **no steel at all** as of 2026-09-01. The laser-annealed finding applied to 316L only and must NOT be carried to titanium.
 - Shop format: DXF preferred over SVG
 - Minimum feature size: ~0.1mm real-world (~0.4 SVG units at 12×17cm plate)
-- Sealed stainless canister with desiccant for burial
+- ~~Sealed stainless canister with desiccant~~ **SUPERSEDED — no steel.** Welded titanium vessel, desiccant + oxygen absorber.
 - AI-generated image provenance should be documented given uncertain copyright status
 
 ### Strategic outreach (high priority)
 - Email Long Now Foundation / Rosetta Project (rosettaproject.org) — they've solved the same problems; ask for methodology, parallel-text source recommendations, metadata schema
+
+## PRIMARY SOURCES — SEARCH THESE BEFORE SAYING "NOT IN THE RECORD"
+
+`claude_export_2026-05-29/conversations.json` holds **12 conversations,
+2.8 million characters, March-May 2026** — including the 362-message main
+thread. **It contains design decisions that never reached any document in this
+repo.** Two searches of the repo and the memory files both wrongly concluded the
+microfilm-and-lens idea had never been discussed; it is in the 24-25 March
+conversation.
+
+Searchable with:
+
+    python -c "import json;d=json.load(open('claude_export_2026-05-29/conversations.json',encoding='utf-8'))..."
+
+- `project/export_audit_2026-08-20.md` — what the audit found missing
+- `containers/media_stack_recovered.md` — the six-layer media stack, recovered
+
+Known gaps the audit surfaced: PVC may be archivally disqualified (HCl
+outgassing); the brother partnership agreement was drafted twice and never
+saved; the fibre-laser purchase research (vendors and prices) is not in the
+repo; gd_17 and gd_18 were built in-chat and lost.
 
 ## NOTES FOR CLAUDE CODE SESSIONS
 - When starting a new language series, always web search for script + phonology

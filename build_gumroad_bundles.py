@@ -65,7 +65,7 @@ LANGUAGES COVERED
 FORMAT
   SVG · 480x680 pt · black strokes only · no fills · no color
   Laser-engraver ready · scales to any material size
-  Recommended material: nickel, stainless steel, or anodized aluminum
+  Recommended material: titanium Grade 2, or fired ceramic
 
 PRINTING
   The included PDF prints at 5"x7" on standard paper.

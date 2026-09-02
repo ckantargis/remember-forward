@@ -58,7 +58,7 @@ METADATA = {
         '<p>An open-source system of laser-engraver-ready SVG plate designs '
         'for time capsules intended to preserve human knowledge and language '
         'through civilizational disruption. The Patient Message is designed to be '
-        'engraved on nickel or stainless steel plates, sealed in a durable container, '
+        'engraved on titanium plates or fired ceramic tablets, sealed in a durable container, '
         'and buried or hidden for discovery by future people who may have lost context.</p>'
         '<p>This upload contains the complete plate series as of April 2026: '
         '11 knowledge plates (survival, water, agriculture, technology, governance, '

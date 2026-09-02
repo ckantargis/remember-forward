@@ -64,7 +64,7 @@ def build_zip(svgs):
             '"This was made for you, freely, by people who remembered forward."\n\n'
             'FORMAT\n'
             '  SVG · 480×680px · black strokes only · laser-engraver ready\n'
-            '  Designed for nickel or stainless steel plate engraving\n\n'
+            '  Designed for titanium plate engraving or fired ceramic\n\n'
             'LICENSE\n'
             '  Creative Commons Attribution-ShareAlike 4.0 International\n'
             '  Copy · Translate · Improve · Distribute freely\n'

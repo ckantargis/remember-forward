@@ -15,7 +15,7 @@ I'm an independent researcher building a physical multilingual preservation proj
 
 **Language metadata:** What fields do you record alongside each language entry to help an uninstructed future reader identify the language — script family, geographic region, time period, living/extinct status?
 
-**Engraving specifications:** We're targeting laser-annealed 316L stainless steel at roughly 12×17cm plates. Have you documented minimum feature sizes or stroke weights for long-term legibility at this scale?
+**Engraving specifications:** We're targeting ablated grooves in Grade 2 titanium at 120×170 mm plates, with a parallel fired-ceramic set. (We ruled out annealed oxide marks: an annealed mark is a colour, and it does not survive the 480–540 °C stress relief after rolling. An ablated groove is topographic and does.) Have you documented minimum feature sizes or stroke weights for long-term legibility at this scale?
 
 Any guidance on any of these would be genuinely useful. I'm happy to share methodology notes or early plate designs if a reciprocal exchange would be worthwhile.
 

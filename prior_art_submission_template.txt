@@ -31,7 +31,7 @@ classical literature.
 
 Key technical disclosures include:
 - A standardized 480x680px portrait SVG format with double-border design
-  optimized for nickel or stainless steel laser engraving at any scale
+  optimized for titanium or fired-ceramic laser engraving at any scale
 - A four-plate per language structure (Script / Phonology / Grammar / Text)
   with a standardized Bridge Phrase rendered in every language
 - An interlinear translation methodology for Plate D (running text) providing
@@ -55,7 +55,7 @@ KEYWORDS / TAGS (enter each one separately):
   language preservation
   SVG
   laser engraving
-  nickel plate
+  titanium plate
   open source
   interlinear translation
   IPA phonology

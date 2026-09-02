@@ -1,6 +1,6 @@
 # Remember Forward — The Patient Message
 
-An open-source system of laser-engraver-ready nickel plate designs 
+An open-source system of laser-engraver-ready titanium plate designs 
 for time capsules intended to preserve human knowledge through 
 catastrophic events.
 
