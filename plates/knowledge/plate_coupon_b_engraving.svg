@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" width="120mm" height="170mm">
+<rect width="100%" height="100%" fill="#fff"/>
+<style>
+.L{font:7px Georgia,serif}.Ls{font:6px Georgia,serif}.Lx{font:5.5px Georgia,serif}
+.Lm{font:5px Georgia,serif}.H{font:bold 6.5px Georgia,serif;letter-spacing:2.5px}
+.T{font:bold 12px Georgia,serif;letter-spacing:2px}.S{font:7px Georgia,serif;letter-spacing:1.5px}
+.M{font:6px Georgia,serif}.F{font:italic 7px Georgia,serif}.Fb{font:bold 7.5px Georgia,serif}
+.B{font:bold 7px Georgia,serif}
+text{fill:#000}</style>
+<rect x="6" y="6" width="468" height="668" fill="none" stroke="#000" stroke-width="3"/>
+<rect x="12" y="12" width="456" height="656" fill="none" stroke="#000" stroke-width="0.75"/>
+<text x="240.0" y="32" text-anchor="middle" class="T">REMEMBER FORWARD — TEST COUPON</text>
+<text x="240.0" y="50" text-anchor="middle" class="S">FACE B  ·  PROCESS PROOF &amp; RFQ SPECIMEN</text>
+<line x1="25" y1="74" x2="43" y2="74" stroke="#000" stroke-width="0.6"/>
+<line x1="34" y1="65" x2="34" y2="83" stroke="#000" stroke-width="0.6"/>
+<circle cx="34" cy="74" r="6" fill="none" stroke="#000" stroke-width="0.6"/>
+<line x1="437" y1="74" x2="455" y2="74" stroke="#000" stroke-width="0.6"/>
+<line x1="446" y1="65" x2="446" y2="83" stroke="#000" stroke-width="0.6"/>
+<circle cx="446" cy="74" r="6" fill="none" stroke="#000" stroke-width="0.6"/>
+<line x1="25" y1="600" x2="43" y2="600" stroke="#000" stroke-width="0.6"/>
+<line x1="34" y1="591" x2="34" y2="609" stroke="#000" stroke-width="0.6"/>
+<circle cx="34" cy="600" r="6" fill="none" stroke="#000" stroke-width="0.6"/>
+<line x1="437" y1="600" x2="455" y2="600" stroke="#000" stroke-width="0.6"/>
+<line x1="446" y1="591" x2="446" y2="609" stroke="#000" stroke-width="0.6"/>
+<circle cx="446" cy="600" r="6" fill="none" stroke="#000" stroke-width="0.6"/>
+<line x1="231" y1="337" x2="249" y2="337" stroke="#000" stroke-width="0.6"/>
+<line x1="240" y1="328" x2="240" y2="346" stroke="#000" stroke-width="0.6"/>
+<circle cx="240" cy="337" r="6" fill="none" stroke="#000" stroke-width="0.6"/>
+<text x="240" y="352" text-anchor="middle" class="Lm">REGISTRATION — front and back marks must coincide within 0.15 mm</text>
+<text x="240.0" y="96" text-anchor="middle" class="H">— MINIMUM STROKE —</text>
+<line x1="60" y1="108" x2="300" y2="108" stroke="#000" stroke-width="0.4"/>
+<text x="310" y="110" text-anchor="start" class="Lm">0.4 u = 0.100 mm</text>
+<line x1="60" y1="119" x2="300" y2="119" stroke="#000" stroke-width="0.5"/>
+<text x="310" y="121" text-anchor="start" class="Lm">0.5 u = 0.125 mm</text>
+<line x1="60" y1="130" x2="300" y2="130" stroke="#000" stroke-width="0.6"/>
+<text x="310" y="132" text-anchor="start" class="Lm">0.6 u = 0.150 mm</text>
+<line x1="60" y1="141" x2="300" y2="141" stroke="#000" stroke-width="0.8"/>
+<text x="310" y="143" text-anchor="start" class="Lm">0.8 u = 0.200 mm</text>
+<line x1="60" y1="152" x2="300" y2="152" stroke="#000" stroke-width="1.0"/>
+<text x="310" y="154" text-anchor="start" class="Lm">1.0 u = 0.250 mm</text>
+<line x1="60" y1="163" x2="300" y2="163" stroke="#000" stroke-width="1.4"/>
+<text x="310" y="165" text-anchor="start" class="Lm">1.4 u = 0.350 mm</text>
+<line x1="60" y1="174" x2="300" y2="174" stroke="#000" stroke-width="2.0"/>
+<text x="310" y="176" text-anchor="start" class="Lm">2.0 u = 0.500 mm</text>
+<text x="240" y="194" text-anchor="middle" class="Lm">Report the finest line that engraves cleanly and consistently.</text>
+<text x="240.0" y="212" text-anchor="middle" class="H">— MINIMUM GAP BETWEEN FEATURES —</text>
+<line x1="62.0" y1="224" x2="62.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="63.2" y1="224" x2="63.2" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="64.4" y1="224" x2="64.4" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="65.6" y1="224" x2="65.6" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="72" y="268" text-anchor="middle" class="Lm">0.10 mm</text>
+<line x1="128.0" y1="224" x2="128.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="129.4" y1="224" x2="129.4" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="130.8" y1="224" x2="130.8" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="132.2" y1="224" x2="132.2" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="138" y="268" text-anchor="middle" class="Lm">0.15 mm</text>
+<line x1="194.0" y1="224" x2="194.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="195.6" y1="224" x2="195.6" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="197.2" y1="224" x2="197.2" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="198.8" y1="224" x2="198.8" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="204" y="268" text-anchor="middle" class="Lm">0.20 mm</text>
+<line x1="260.0" y1="224" x2="260.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="262.0" y1="224" x2="262.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="264.0" y1="224" x2="264.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="266.0" y1="224" x2="266.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="270" y="268" text-anchor="middle" class="Lm">0.30 mm</text>
+<line x1="326.0" y1="224" x2="326.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="328.4" y1="224" x2="328.4" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="330.8" y1="224" x2="330.8" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="333.2" y1="224" x2="333.2" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="336" y="268" text-anchor="middle" class="Lm">0.40 mm</text>
+<line x1="392.0" y1="224" x2="392.0" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="395.2" y1="224" x2="395.2" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="398.4" y1="224" x2="398.4" y2="258" stroke="#000" stroke-width="0.8"/>
+<line x1="401.6" y1="224" x2="401.6" y2="258" stroke="#000" stroke-width="0.8"/>
+<text x="402" y="268" text-anchor="middle" class="Lm">0.60 mm</text>
+<text x="240" y="280" text-anchor="middle" class="Lm">Report the smallest gap that does not bridge or burn through.</text>
+<text x="240.0" y="298" text-anchor="middle" class="H">— SMALLEST RESOLVED DOT —</text>
+<circle cx="70" cy="314" r="0.2" fill="#000"/>
+<text x="70" y="328" text-anchor="middle" class="Lm">0.10</text>
+<circle cx="125" cy="314" r="0.3" fill="#000"/>
+<text x="125" y="328" text-anchor="middle" class="Lm">0.15</text>
+<circle cx="180" cy="314" r="0.4" fill="#000"/>
+<text x="180" y="328" text-anchor="middle" class="Lm">0.20</text>
+<circle cx="235" cy="314" r="0.6" fill="#000"/>
+<text x="235" y="328" text-anchor="middle" class="Lm">0.30</text>
+<circle cx="290" cy="314" r="0.8" fill="#000"/>
+<text x="290" y="328" text-anchor="middle" class="Lm">0.40</text>
+<circle cx="345" cy="314" r="1.2" fill="#000"/>
+<text x="345" y="328" text-anchor="middle" class="Lm">0.60</text>
+<circle cx="400" cy="314" r="1.6" fill="#000"/>
+<text x="400" y="328" text-anchor="middle" class="Lm">0.80</text>
+<text x="240.0" y="378" text-anchor="middle" class="H">— TYPE LADDER — smallest legible size —</text>
+<text x="60" y="392" text-anchor="start" class="Lm">The quick brown fox jumps over the lazy dog 0123456789</text>
+<text x="420" y="392" text-anchor="end" class="Lm">5px = 1.25 mm</text>
+<text x="60" y="405" text-anchor="start" class="Lx">The quick brown fox jumps over the lazy dog 0123456789</text>
+<text x="420" y="405" text-anchor="end" class="Lm">5.5px = 1.38 mm</text>
+<text x="60" y="418" text-anchor="start" class="Ls">The quick brown fox jumps over the lazy dog 0123456789</text>
+<text x="420" y="418" text-anchor="end" class="Lm">6px = 1.50 mm</text>
+<text x="60" y="431" text-anchor="start" class="L">The quick brown fox jumps over the lazy dog 0123456789</text>
+<text x="420" y="431" text-anchor="end" class="Lm">7px = 1.75 mm</text>
+<text x="60" y="444" text-anchor="start" class="B">The quick brown fox jumps over the lazy dog 0123456789</text>
+<text x="420" y="444" text-anchor="end" class="Lm">7px = 1.75 bold mm</text>
+<text x="240.0" y="470" text-anchor="middle" class="H">— §4 GRAMMAR DEVICES AT ACTUAL SIZE —</text>
+<circle cx="80.0" cy="462.575" r="1.575" fill="#000"/>
+<polygon points="77.9,464.6225 82.1,464.6225 81.65,469.1225 78.35,469.1225" fill="#000"/>
+<polygon points="77.9,464.6225 78.575,464.6225 78.2,470.4725 77.15,470.4725" fill="#000"/>
+<polygon points="82.1,464.6225 81.425,464.6225 81.8,470.4725 82.85,470.4725" fill="#000"/>
+<polygon points="78.515,469.1225 79.34,469.1225 80.0,476.0 79.043,476.0" fill="#000"/>
+<polygon points="81.485,469.1225 80.66,469.1225 80.0,476.0 80.957,476.0" fill="#000"/>
+<circle cx="104.04163056034261" cy="470.1902236891498" r="1.575" fill="#000"/>
+<polygon points="101.94163056034262,472.2377236891498 106.1416305603426,472.2377236891498 105.69163056034262,476.7377236891498 102.3916305603426,476.7377236891498" fill="#000"/>
+<polygon points="101.94163056034262,472.2377236891498 102.61663056034261,472.2377236891498 102.24163056034261,478.0877236891498 101.19163056034262,478.0877236891498" fill="#000"/>
+<polygon points="106.1416305603426,472.2377236891498 105.46663056034261,472.2377236891498 105.84163056034261,478.0877236891498 106.8916305603426,478.0877236891498" fill="#000"/>
+<polygon points="102.55663056034261,476.7377236891498 103.38163056034261,476.7377236891498 104.04163056034261,483.6152236891498 103.08463056034262,483.6152236891498" fill="#000"/>
+<polygon points="105.52663056034261,476.7377236891498 104.70163056034261,476.7377236891498 104.04163056034261,483.6152236891498 104.9986305603426,483.6152236891498" fill="#000"/>
+<circle cx="114.0" cy="488.575" r="1.575" fill="#000"/>
+<polygon points="111.9,490.6225 116.1,490.6225 115.65,495.1225 112.35,495.1225" fill="#000"/>
+<polygon points="111.9,490.6225 112.575,490.6225 112.2,496.4725 111.15,496.4725" fill="#000"/>
+<polygon points="116.1,490.6225 115.425,490.6225 115.8,496.4725 116.85,496.4725" fill="#000"/>
+<polygon points="112.515,495.1225 113.34,495.1225 114.0,502.0 113.043,502.0" fill="#000"/>
+<polygon points="115.485,495.1225 114.66,495.1225 114.0,502.0 114.957,502.0" fill="#000"/>
+<circle cx="104.04163056034261" cy="506.95977631085026" r="1.575" fill="#000"/>
+<polygon points="101.94163056034262,509.0072763108503 106.1416305603426,509.0072763108503 105.69163056034262,513.5072763108503 102.3916305603426,513.5072763108503" fill="#000"/>
+<polygon points="101.94163056034262,509.0072763108503 102.61663056034261,509.0072763108503 102.24163056034261,514.8572763108504 101.19163056034262,514.8572763108504" fill="#000"/>
+<polygon points="106.1416305603426,509.0072763108503 105.46663056034261,509.0072763108503 105.84163056034261,514.8572763108504 106.8916305603426,514.8572763108504" fill="#000"/>
+<polygon points="102.55663056034261,513.5072763108503 103.38163056034261,513.5072763108503 104.04163056034261,520.3847763108503 103.08463056034262,520.3847763108503" fill="#000"/>
+<polygon points="105.52663056034261,513.5072763108503 104.70163056034261,513.5072763108503 104.04163056034261,520.3847763108503 104.9986305603426,520.3847763108503" fill="#000"/>
+<circle cx="80.0" cy="514.575" r="1.575" fill="#000"/>
+<polygon points="77.9,516.6225 82.1,516.6225 81.65,521.1225 78.35,521.1225" fill="#000"/>
+<polygon points="77.9,516.6225 78.575,516.6225 78.2,522.4725 77.15,522.4725" fill="#000"/>
+<polygon points="82.1,516.6225 81.425,516.6225 81.8,522.4725 82.85,522.4725" fill="#000"/>
+<polygon points="78.515,521.1225 79.34,521.1225 80.0,528.0 79.043,528.0" fill="#000"/>
+<polygon points="81.485,521.1225 80.66,521.1225 80.0,528.0 80.957,528.0" fill="#000"/>
+<circle cx="55.95836943965739" cy="506.95977631085026" r="1.575" fill="#000"/>
+<polygon points="53.85836943965739,509.0072763108503 58.05836943965739,509.0072763108503 57.60836943965739,513.5072763108503 54.30836943965739,513.5072763108503" fill="#000"/>
+<polygon points="53.85836943965739,509.0072763108503 54.53336943965739,509.0072763108503 54.15836943965739,514.8572763108504 53.10836943965739,514.8572763108504" fill="#000"/>
+<polygon points="58.05836943965739,509.0072763108503 57.383369439657386,509.0072763108503 57.758369439657386,514.8572763108504 58.80836943965739,514.8572763108504" fill="#000"/>
+<polygon points="54.47336943965739,513.5072763108503 55.29836943965739,513.5072763108503 55.95836943965739,520.3847763108503 55.00136943965739,520.3847763108503" fill="#000"/>
+<polygon points="57.44336943965739,513.5072763108503 56.618369439657386,513.5072763108503 55.95836943965739,520.3847763108503 56.91536943965739,520.3847763108503" fill="#000"/>
+<circle cx="46.0" cy="488.575" r="1.575" fill="#000"/>
+<polygon points="43.9,490.6225 48.1,490.6225 47.65,495.1225 44.35,495.1225" fill="#000"/>
+<polygon points="43.9,490.6225 44.575,490.6225 44.2,496.4725 43.15,496.4725" fill="#000"/>
+<polygon points="48.1,490.6225 47.425,490.6225 47.8,496.4725 48.85,496.4725" fill="#000"/>
+<polygon points="44.515,495.1225 45.34,495.1225 46.0,502.0 45.043,502.0" fill="#000"/>
+<polygon points="47.485,495.1225 46.66,495.1225 46.0,502.0 46.957,502.0" fill="#000"/>
+<circle cx="55.958369439657375" cy="470.1902236891498" r="1.575" fill="#000"/>
+<polygon points="53.85836943965737,472.2377236891498 58.058369439657376,472.2377236891498 57.60836943965737,476.7377236891498 54.308369439657376,476.7377236891498" fill="#000"/>
+<polygon points="53.85836943965737,472.2377236891498 54.53336943965738,472.2377236891498 54.15836943965738,478.0877236891498 53.10836943965737,478.0877236891498" fill="#000"/>
+<polygon points="58.058369439657376,472.2377236891498 57.38336943965737,472.2377236891498 57.75836943965737,478.0877236891498 58.808369439657376,478.0877236891498" fill="#000"/>
+<polygon points="54.473369439657375,476.7377236891498 55.29836943965738,476.7377236891498 55.958369439657375,483.6152236891498 55.001369439657374,483.6152236891498" fill="#000"/>
+<polygon points="57.443369439657374,476.7377236891498 56.61836943965737,476.7377236891498 55.958369439657375,483.6152236891498 56.915369439657375,483.6152236891498" fill="#000"/>
+<text x="78" y="542" text-anchor="middle" class="Lm">circle of equals</text>
+<line x1="150" y1="522" x2="200" y2="522" stroke="#000" stroke-width="0.8"/>
+<rect x="166" y="508" width="18" height="14" fill="none" stroke="#000" stroke-width="0.8"/>
+<circle cx="175" cy="488.1" r="2.1" fill="#000"/>
+<polygon points="172.2,490.83 177.8,490.83 177.2,496.83 172.8,496.83" fill="#000"/>
+<polygon points="172.2,490.83 173.1,490.83 172.6,498.63 171.2,498.63" fill="#000"/>
+<polygon points="177.8,490.83 176.9,490.83 177.4,498.63 178.8,498.63" fill="#000"/>
+<polygon points="173.02,496.83 174.12,496.83 175.0,506 173.724,506" fill="#000"/>
+<polygon points="176.98,496.83 175.88,496.83 175.0,506 176.276,506" fill="#000"/>
+<circle cx="157" cy="507.68" r="1.68" fill="#000"/>
+<polygon points="154.76,509.864 159.24,509.864 158.76,514.664 155.24,514.664" fill="#000"/>
+<polygon points="154.76,509.864 155.48,509.864 155.08,516.104 153.96,516.104" fill="#000"/>
+<polygon points="159.24,509.864 158.52,509.864 158.92,516.104 160.04,516.104" fill="#000"/>
+<polygon points="155.416,514.664 156.296,514.664 157.0,522 155.9792,522" fill="#000"/>
+<polygon points="158.584,514.664 157.704,514.664 157.0,522 158.0208,522" fill="#000"/>
+<circle cx="193" cy="507.68" r="1.68" fill="#000"/>
+<polygon points="190.76,509.864 195.24,509.864 194.76,514.664 191.24,514.664" fill="#000"/>
+<polygon points="190.76,509.864 191.48,509.864 191.08,516.104 189.96,516.104" fill="#000"/>
+<polygon points="195.24,509.864 194.52,509.864 194.92,516.104 196.04,516.104" fill="#000"/>
+<polygon points="191.416,514.664 192.296,514.664 193.0,522 191.9792,522" fill="#000"/>
+<polygon points="194.584,514.664 193.704,514.664 193.0,522 194.0208,522" fill="#000"/>
+<text x="175" y="542" text-anchor="middle" class="Lm">raised figure</text>
+<circle cx="228" cy="493.68" r="1.68" fill="#000"/>
+<polygon points="225.76,495.864 230.24,495.864 229.76,500.664 226.24,500.664" fill="#000"/>
+<polygon points="225.76,495.864 226.48,495.864 226.08,502.104 224.96,502.104" fill="#000"/>
+<polygon points="230.24,495.864 229.52,495.864 229.92,502.104 231.04,502.104" fill="#000"/>
+<polygon points="226.416,500.664 227.296,500.664 228.0,508 226.9792,508" fill="#000"/>
+<polygon points="229.584,500.664 228.704,500.664 228.0,508 229.0208,508" fill="#000"/>
+<circle cx="243" cy="493.68" r="1.68" fill="#000"/>
+<polygon points="240.76,495.864 245.24,495.864 244.76,500.664 241.24,500.664" fill="#000"/>
+<polygon points="240.76,495.864 241.48,495.864 241.08,502.104 239.96,502.104" fill="#000"/>
+<polygon points="245.24,495.864 244.52,495.864 244.92,502.104 246.04,502.104" fill="#000"/>
+<polygon points="241.416,500.664 242.296,500.664 243.0,508 241.9792,508" fill="#000"/>
+<polygon points="244.584,500.664 243.704,500.664 243.0,508 244.0208,508" fill="#000"/>
+<circle cx="258" cy="493.68" r="1.68" fill="#000"/>
+<polygon points="255.76,495.864 260.24,495.864 259.76,500.664 256.24,500.664" fill="#000"/>
+<polygon points="255.76,495.864 256.48,495.864 256.08,502.104 254.96,502.104" fill="#000"/>
+<polygon points="260.24,495.864 259.52,495.864 259.92,502.104 261.04,502.104" fill="#000"/>
+<polygon points="256.416,500.664 257.296,500.664 258.0,508 256.9792,508" fill="#000"/>
+<polygon points="259.584,500.664 258.704,500.664 258.0,508 259.0208,508" fill="#000"/>
+<circle cx="273" cy="493.68" r="1.68" fill="#000"/>
+<polygon points="270.76,495.864 275.24,495.864 274.76,500.664 271.24,500.664" fill="#000"/>
+<polygon points="270.76,495.864 271.48,495.864 271.08,502.104 269.96,502.104" fill="#000"/>
+<polygon points="275.24,495.864 274.52,495.864 274.92,502.104 276.04,502.104" fill="#000"/>
+<polygon points="271.416,500.664 272.296,500.664 273.0,508 271.9792,508" fill="#000"/>
+<polygon points="274.584,500.664 273.704,500.664 273.0,508 274.0208,508" fill="#000"/>
+<circle cx="288" cy="493.68" r="1.68" fill="#000"/>
+<polygon points="285.76,495.864 290.24,495.864 289.76,500.664 286.24,500.664" fill="#000"/>
+<polygon points="285.76,495.864 286.48,495.864 286.08,502.104 284.96,502.104" fill="#000"/>
+<polygon points="290.24,495.864 289.52,495.864 289.92,502.104 291.04,502.104" fill="#000"/>
+<polygon points="286.416,500.664 287.296,500.664 288.0,508 286.9792,508" fill="#000"/>
+<polygon points="289.584,500.664 288.704,500.664 288.0,508 289.0208,508" fill="#000"/>
+<line x1="228" y1="484" x2="228" y2="500" stroke="#000" stroke-width="1.0"/>
+<line x1="273" y1="484" x2="273" y2="500" stroke="#000" stroke-width="1.0"/>
+<text x="250" y="542" text-anchor="middle" class="Lm">passed staff</text>
+<circle cx="330" cy="494.1" r="2.1" fill="#000"/>
+<polygon points="327.2,496.83 332.8,496.83 332.2,502.83 327.8,502.83" fill="#000"/>
+<polygon points="327.2,496.83 328.1,496.83 327.6,504.63 326.2,504.63" fill="#000"/>
+<polygon points="332.8,496.83 331.9,496.83 332.4,504.63 333.8,504.63" fill="#000"/>
+<polygon points="328.02,502.83 329.12,502.83 330.0,512 328.724,512" fill="#000"/>
+<polygon points="331.98,502.83 330.88,502.83 330.0,512 331.276,512" fill="#000"/>
+<line x1="326.2767844001457" y1="490.66268587079344" x2="320.3196394403788" y2="485.322983264063" stroke="#000" stroke-width="0.6"/>
+<line x1="327.9611977347021" y1="489.43455529843845" x2="324.6991141102256" y2="482.12984377594" stroke="#000" stroke-width="0.6"/>
+<line x1="330.0" y1="489.0" x2="330.0" y2="481.0" stroke="#000" stroke-width="0.6"/>
+<line x1="332.0388022652979" y1="489.43455529843845" x2="335.3008858897744" y2="482.12984377594" stroke="#000" stroke-width="0.6"/>
+<line x1="333.7232155998543" y1="490.66268587079344" x2="339.6803605596212" y2="485.322983264063" stroke="#000" stroke-width="0.6"/>
+<text x="330" y="542" text-anchor="middle" class="Lm">is heard</text>
+<polygon points="385.0,490 411.0,490 408.4,506 387.6,506" fill="none" stroke="#000" stroke-width="1.0"/>
+<line x1="385.0" y1="490" x2="411.0" y2="490" stroke="#000" stroke-width="1.0"/>
+<path d="M 390.46 495.12 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0" fill="none" stroke="#000" stroke-width="0.7"/>
+<path d="M 390.46 498.12 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0 q 1.2566666666666666 -1.8 2.513333333333333 0 q 1.2566666666666666 1.8 2.513333333333333 0" fill="none" stroke="#000" stroke-width="0.7"/>
+<polygon points="419.0,490 445.0,490 442.4,506 421.6,506" fill="none" stroke="#000" stroke-width="1.0"/>
+<line x1="419.0" y1="490" x2="445.0" y2="490" stroke="#000" stroke-width="1.0"/>
+<text x="415" y="542" text-anchor="middle" class="Lm">full / empty</text>
+<text x="240.0" y="560" text-anchor="middle" class="H">— FILL &amp; HATCH —</text>
+<rect x="62" y="570" width="40" height="22" fill="#000" stroke="#000" stroke-width="0.4"/>
+<text x="82" y="600" text-anchor="middle" class="Lm">solid</text>
+<line x1="122.0" y1="570" x2="122.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="123.2" y1="570" x2="123.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="124.4" y1="570" x2="124.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="125.6" y1="570" x2="125.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="126.8" y1="570" x2="126.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="128.0" y1="570" x2="128.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="129.2" y1="570" x2="129.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="130.4" y1="570" x2="130.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="131.6" y1="570" x2="131.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="132.8" y1="570" x2="132.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="134.0" y1="570" x2="134.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="135.2" y1="570" x2="135.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="136.4" y1="570" x2="136.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="137.6" y1="570" x2="137.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="138.8" y1="570" x2="138.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="140.0" y1="570" x2="140.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="141.2" y1="570" x2="141.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="142.4" y1="570" x2="142.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="143.6" y1="570" x2="143.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="144.8" y1="570" x2="144.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="146.0" y1="570" x2="146.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="147.2" y1="570" x2="147.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="148.4" y1="570" x2="148.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="149.6" y1="570" x2="149.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="150.8" y1="570" x2="150.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="152.0" y1="570" x2="152.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="153.2" y1="570" x2="153.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="154.4" y1="570" x2="154.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="155.6" y1="570" x2="155.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="156.8" y1="570" x2="156.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="158.0" y1="570" x2="158.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<text x="141" y="600" text-anchor="middle" class="Lm">0.30 mm</text>
+<line x1="184.0" y1="570" x2="184.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="185.8" y1="570" x2="185.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="187.6" y1="570" x2="187.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="189.4" y1="570" x2="189.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="191.2" y1="570" x2="191.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="193.0" y1="570" x2="193.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="194.8" y1="570" x2="194.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="196.6" y1="570" x2="196.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="198.4" y1="570" x2="198.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="200.2" y1="570" x2="200.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="202.0" y1="570" x2="202.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="203.8" y1="570" x2="203.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="205.6" y1="570" x2="205.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="207.4" y1="570" x2="207.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="209.2" y1="570" x2="209.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="211.0" y1="570" x2="211.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="212.8" y1="570" x2="212.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="214.6" y1="570" x2="214.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="216.4" y1="570" x2="216.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="218.2" y1="570" x2="218.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="220.0" y1="570" x2="220.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<text x="203" y="600" text-anchor="middle" class="Lm">0.45 mm</text>
+<line x1="246.0" y1="570" x2="246.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="248.6" y1="570" x2="248.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="251.2" y1="570" x2="251.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="253.8" y1="570" x2="253.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="256.4" y1="570" x2="256.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="259.0" y1="570" x2="259.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="261.6" y1="570" x2="261.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="264.2" y1="570" x2="264.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="266.8" y1="570" x2="266.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="269.4" y1="570" x2="269.4" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="272.0" y1="570" x2="272.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="274.6" y1="570" x2="274.6" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="277.2" y1="570" x2="277.2" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="279.8" y1="570" x2="279.8" y2="592" stroke="#000" stroke-width="0.4"/>
+<text x="265" y="600" text-anchor="middle" class="Lm">0.65 mm</text>
+<line x1="308.0" y1="570" x2="308.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="312.0" y1="570" x2="312.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="316.0" y1="570" x2="316.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="320.0" y1="570" x2="320.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="324.0" y1="570" x2="324.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="328.0" y1="570" x2="328.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="332.0" y1="570" x2="332.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="336.0" y1="570" x2="336.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<line x1="340.0" y1="570" x2="340.0" y2="592" stroke="#000" stroke-width="0.4"/>
+<text x="327" y="600" text-anchor="middle" class="Lm">1.00 mm</text>
+<text x="240.0" y="630" text-anchor="middle" class="M">COUPON FACE B · process proof · Ti Gr2 0.8 mm · ablated grooves · v1</text>
+<text x="240.0" y="648" text-anchor="middle" class="Fb">NOT A KNOWLEDGE PLATE. THIS IS A TEST INSTRUMENT.</text>
+<text x="240.0" y="663" text-anchor="middle" class="F">REMEMBER FORWARD · rememberforward.org · CC BY-SA 4.0</text>
+</svg>
